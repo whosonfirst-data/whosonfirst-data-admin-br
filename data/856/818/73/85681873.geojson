@@ -43,9 +43,6 @@
     "name:afr_x_preferred":[
         "Akker"
     ],
-    "name:alb_x_preferred":[
-        "Acre"
-    ],
     "name:ara_x_preferred":[
         "\u0623\u0643\u0631"
     ],
@@ -57,9 +54,6 @@
     ],
     "name:aze_x_preferred":[
         "Akri"
-    ],
-    "name:baq_x_preferred":[
-        "Acre"
     ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0440"
@@ -89,8 +83,8 @@
     "name:ces_x_preferred":[
         "Akr"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u514b\u91cc\u5dde"
+    "name:ces_x_variant":[
+        "Acre"
     ],
     "name:cor_x_preferred":[
         "Acre"
@@ -98,7 +92,7 @@
     "name:cym_x_preferred":[
         "Erw"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_variant":[
         "Acre"
     ],
     "name:dan_x_preferred":[
@@ -107,11 +101,11 @@
     "name:deu_x_preferred":[
         "Acre"
     ],
-    "name:dut_x_preferred":[
-        "Acre"
-    ],
     "name:ell_x_preferred":[
         "\u0388\u03b9\u03ba\u03c1"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03ba\u03c1\u03b5"
     ],
     "name:eml_x_preferred":[
         "Acre"
@@ -128,8 +122,14 @@
     "name:eus_x_preferred":[
         "Akre"
     ],
+    "name:eus_x_variant":[
+        "Acre"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0631\u06cc\u0628"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06a9\u0631\u06cc"
     ],
     "name:fin_x_preferred":[
         "Eekkeri"
@@ -137,16 +137,7 @@
     "name:fra_x_preferred":[
         "Acre"
     ],
-    "name:fre_x_preferred":[
-        "Acre"
-    ],
     "name:fry_x_preferred":[
-        "Acre"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d9\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Acre"
     ],
     "name:gla_x_preferred":[
@@ -157,9 +148,6 @@
     ],
     "name:glg_x_preferred":[
         "Acre"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03ba\u03c1\u03b5"
     ],
     "name:grn_x_preferred":[
         "Akre"
@@ -185,9 +173,6 @@
     "name:hye_x_preferred":[
         "\u0531\u056f\u0580"
     ],
-    "name:ice_x_preferred":[
-        "Acre"
-    ],
     "name:ido_x_preferred":[
         "Acre"
     ],
@@ -200,6 +185,9 @@
     "name:isl_x_preferred":[
         "Ekra"
     ],
+    "name:isl_x_variant":[
+        "Acre"
+    ],
     "name:ita_x_preferred":[
         "Acro"
     ],
@@ -208,6 +196,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c8e\u0c95\u0cb0\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d9\u10e0\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u043a\u0440"
@@ -227,26 +218,26 @@
     "name:lit_x_preferred":[
         "Akras"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043a\u0440\u0435"
-    ],
     "name:mal_x_preferred":[
         "\u0d0f\u0d15\u0d4d\u0d15\u0d7c"
     ],
     "name:mar_x_preferred":[
         "\u090f\u0915\u0930"
     ],
-    "name:may_x_preferred":[
-        "Acre"
-    ],
     "name:mkd_x_preferred":[
         "\u0410\u043a\u0440"
+    ],
+    "name:mkd_x_variant":[
+        "\u0410\u043a\u0440\u0435"
     ],
     "name:mlg_x_preferred":[
         "Acre"
     ],
     "name:msa_x_preferred":[
         "Ekar"
+    ],
+    "name:msa_x_variant":[
+        "Acre"
     ],
     "name:nah_x_preferred":[
         "Acre"
@@ -269,9 +260,6 @@
     "name:oci_x_preferred":[
         "Acre"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06a9\u0631\u06cc"
-    ],
     "name:pms_x_preferred":[
         "Acre"
     ],
@@ -290,7 +278,7 @@
     "name:ron_x_preferred":[
         "Acru"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Acre"
     ],
     "name:rus_x_preferred":[
@@ -305,7 +293,7 @@
     "name:slk_x_preferred":[
         "Aker"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_variant":[
         "Acre"
     ],
     "name:slv_x_preferred":[
@@ -319,6 +307,9 @@
     ],
     "name:spa_x_variant":[
         "Estado de Acre"
+    ],
+    "name:sqi_x_preferred":[
+        "Acre"
     ],
     "name:srp_x_preferred":[
         "\u0410\u043a\u0440\u0435"
@@ -371,14 +362,14 @@
     "name:war_x_preferred":[
         "Acre"
     ],
-    "name:wel_x_preferred":[
-        "Acre"
-    ],
     "name:yor_x_preferred":[
         "Acre"
     ],
     "name:zho_x_preferred":[
         "\u82f1\u4ea9"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u514b\u91cc\u5dde"
     ],
     "name:zho_yue_x_preferred":[
         "\u82f1\u755d"
@@ -498,7 +489,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1560546173,
+    "wof:lastmodified":1561840933,
     "wof:name":"Acre",
     "wof:parent_id":85633009,
     "wof:placetype":"region",

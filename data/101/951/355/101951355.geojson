@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008677,
-    "geom:area_square_m":102762655.494888,
+    "geom:area_square_m":102762655.494916,
     "geom:bbox":"-43.9170709107,-16.7794576156,-43.7940211625,-16.6638986102",
     "geom:latitude":-16.717616,
     "geom:longitude":-43.850967,
@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u062a\u064a\u0633 \u0643\u0644\u0627\u0631\u0648\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Montes Claros"
-    ],
     "name:ben_x_preferred":[
         "\u09ae\u09a8\u09cd\u099f\u09c7 \u0995\u09be\u09b0\u09cd\u09b2\u09cb\u09b8"
     ],
@@ -33,14 +30,14 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0438\u0441 \u041a\u043b\u0430\u0440\u043e\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u8499\u8482\u65af\u514b\u62c9\u9b6f\u65af"
-    ],
     "name:dan_x_preferred":[
         "Montes Claros"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Montes Claros"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03bd\u03c4\u03b5\u03c2 \u039a\u03bb\u03ac\u03c1\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Montes Claros"
@@ -48,20 +45,14 @@
     "name:epo_x_preferred":[
         "Montes Claros"
     ],
+    "name:eus_x_preferred":[
+        "Montes Claros"
+    ],
     "name:fin_x_preferred":[
         "Montes Claros"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Montes Claros"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10dc\u10e2\u10d8\u10e1-\u10d9\u10da\u10d0\u10e0\u10e3\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Montes Claros"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03cc\u03bd\u03c4\u03b5\u03c2 \u039a\u03bb\u03ac\u03c1\u03bf\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aa8\u0acd\u0a9f\u0ac7\u0ab8 \u0a95\u0acd\u0ab2\u0abe\u0ab0\u0acb\u0ab8"
@@ -87,6 +78,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0c82\u0c9f\u0cc6\u0cb8\u0ccd \u0c95\u0ccd\u0cb2\u0cbe\u0cb0\u0ccb\u0cb8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10dc\u10e2\u10d8\u10e1-\u10d9\u10da\u10d0\u10e0\u10e3\u10e1\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0438\u0441-\u041a\u043b\u0430\u0440\u0443\u0441"
     ],
@@ -102,13 +96,16 @@
     "name:mar_x_preferred":[
         "\u092e\u0949\u0902\u091f\u094d\u0938 \u0915\u094d\u0932\u0947\u0930\u0938"
     ],
-    "name:may_x_preferred":[
-        "Montes Claros"
-    ],
     "name:mlg_x_preferred":[
         "Montes Claros"
     ],
+    "name:msa_x_preferred":[
+        "Montes Claros"
+    ],
     "name:nan_x_preferred":[
+        "Montes Claros"
+    ],
+    "name:nld_x_preferred":[
         "Montes Claros"
     ],
     "name:nob_x_preferred":[
@@ -120,7 +117,7 @@
     "name:por_x_preferred":[
         "Montes Claros"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Montes Claros"
     ],
     "name:rus_x_preferred":[
@@ -167,6 +164,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8499\u8482\u65af\u514b\u62c9\u9c81\u65af"
+    ],
+    "name:zho_x_variant":[
+        "\u8499\u8482\u65af\u514b\u62c9\u9b6f\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Brazil",
@@ -312,7 +312,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1513904289,
+    "wof:lastmodified":1561841256,
     "wof:name":"Montes Claros",
     "wof:parent_id":404557309,
     "wof:placetype":"locality",
