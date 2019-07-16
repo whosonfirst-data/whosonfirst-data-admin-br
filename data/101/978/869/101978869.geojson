@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000026,
+    "geom:area_square_m":315889.60349,
     "geom:bbox":"-45.2771756122,-4.37278010786,-45.2694788445,-4.36841630875",
     "geom:latitude":-4.370662,
     "geom:longitude":-45.273811,
@@ -18,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0644\u0646\u0628\u0627\u0642"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0631\u0645\u0628\u0648\u0644\u0627"
+    ],
     "name:asm_x_preferred":[
         "\u0995\u09f0\u09cd\u09a6\u09cd\u09a6\u09c8"
     ],
@@ -27,11 +31,29 @@
     "name:ces_x_preferred":[
         "Karambola"
     ],
+    "name:ces_x_variant":[
+        "Averrhoa carambola"
+    ],
+    "name:deu_x_preferred":[
+        "Sternfrucht"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c1\u03b1\u03bc\u03c0\u03cc\u03bb\u03b1"
     ],
+    "name:eng_x_preferred":[
+        "starfruit"
+    ],
     "name:epo_x_preferred":[
         "Karambolfrukto"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0631 \u0641\u0631\u0648\u062a"
+    ],
+    "name:hin_x_preferred":[
+        "carambola"
+    ],
+    "name:hun_x_preferred":[
+        "Csillag gy\u00fcm\u00f6lcs"
     ],
     "name:isl_x_preferred":[
         "Stj\u00f6rnu\u00e1v\u00f6xtur"
@@ -39,14 +61,38 @@
     "name:ita_x_preferred":[
         "Carambola"
     ],
+    "name:mal_x_preferred":[
+        "\u0d06\u0d30\u0d02\u0d2a\u0d41\u0d33\u0d3f"
+    ],
     "name:nep_x_preferred":[
         "\u0915\u0928\u094d\u0924\u0930"
+    ],
+    "name:nld_x_preferred":[
+        "Stervrucht"
+    ],
+    "name:por_x_preferred":[
+        "Carambola"
+    ],
+    "name:ron_x_preferred":[
+        "carambola"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dcf\u0db8\u0dbb\u0d82\u0d9c\u0dcf"
     ],
     "name:slk_x_preferred":[
         "Karambola"
     ],
+    "name:spa_x_preferred":[
+        "carambola"
+    ],
+    "name:sqi_x_preferred":[
+        "Starfruit"
+    ],
     "name:tam_x_preferred":[
         "\u0bb5\u0bbf\u0bb3\u0bbf\u0bae\u0bcd\u0baa\u0bbf\u0baa\u0bcd\u0baa\u0bb4\u0bae\u0bcd"
+    ],
+    "name:tur_x_preferred":[
+        "Y\u0131ld\u0131z meyvesi"
     ],
     "name:vie_x_preferred":[
         "Kh\u1ebf"
@@ -91,7 +137,7 @@
         }
     ],
     "wof:id":101978869,
-    "wof:lastmodified":1527688362,
+    "wof:lastmodified":1563243715,
     "wof:name":"Carambola",
     "wof:parent_id":102053247,
     "wof:placetype":"locality",
