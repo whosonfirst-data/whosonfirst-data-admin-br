@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6892721.689077,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-54.668999,-20.457253,-54.668999,-20.457253",
     "geom:latitude":-20.457253,
     "geom:longitude":-54.668999,
@@ -27,11 +27,23 @@
     "name:cat_x_preferred":[
         "Popular"
     ],
+    "name:deu_x_preferred":[
+        "Popular"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0628\u0648\u0628"
+    ],
     "name:fin_x_preferred":[
         "Popular"
     ],
     "name:fra_x_preferred":[
         "Populaire"
+    ],
+    "name:fra_x_variant":[
+        "Popular"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e4\u05d5\u05dc\u05e8\u05d9"
     ],
     "name:ita_x_preferred":[
         "Popular"
@@ -39,7 +51,13 @@
     "name:jpn_x_preferred":[
         "\u30dd\u30d4\u30e5\u30e9\u30fc"
     ],
+    "name:kor_x_preferred":[
+        "\ud30c\ud4f0\ub7ec"
+    ],
     "name:nor_x_preferred":[
+        "Popular"
+    ],
+    "name:pol_x_preferred":[
         "Popular"
     ],
     "name:por_x_preferred":[
@@ -47,6 +65,9 @@
     ],
     "name:spa_x_preferred":[
         "Popular"
+    ],
+    "name:tur_x_preferred":[
+        "Pop\u00fcler"
     ],
     "name:unk_x_variant":[
         "Popular"
@@ -80,12 +101,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":272,
     "wof:belongsto":[
-        85681947,
         102191577,
         404558855,
         85633009,
         101961475,
-        102055213
+        102055213,
+        85681947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +131,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859267,
+    "wof:lastmodified":1564134657,
     "wof:name":"Popular",
     "wof:parent_id":101961475,
     "wof:placetype":"neighbourhood",
