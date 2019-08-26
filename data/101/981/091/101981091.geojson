@@ -9,14 +9,17 @@
     "geom:bbox":"-42.5110724569,-3.14550384956,-42.4913813119,-3.13302044786",
     "geom:latitude":-3.139298,
     "geom:longitude":-42.499398,
-    "geonames:id":"3408952,3409190",
+    "gn:id":"3408952,3409190",
     "iso:country":"BR",
     "lbl:latitude":-3.139356,
     "lbl:longitude":-42.499251,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.139356,
     "mps:longitude":-42.499251,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u09af\u09bc\u09be\u099a\u09af\u09bc\u09be\u0993"
     ],
@@ -68,7 +71,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":43,
     "wof:belongsto":[
         102191577,
@@ -78,7 +81,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"72dc0ed8bcb54ca43bd2eada4e22cf9a",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101981091,
-    "wof:lastmodified":1564142538,
+    "wof:lastmodified":1566626154,
     "wof:name":"Riach\u00e3o",
     "wof:parent_id":102053139,
     "wof:placetype":"locality",

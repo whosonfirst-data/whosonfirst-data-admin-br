@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.251837,
     "lbl:longitude":-36.03099,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.251837,
     "mps:longitude":-36.03099,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cd\u09b8\u09bf\u0995\u09c1\u09af\u09bc\u09c7-\u0995\u09cd\u09b8\u09bf\u0995\u09c1\u09af\u09bc\u09c7"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681973,
         102191577,
@@ -111,7 +114,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":455852,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"f62c709d5ea40b4e09d4467c7b99ec64",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101986809,
-    "wof:lastmodified":1564142889,
+    "wof:lastmodified":1566626348,
     "wof:name":"Xique-Xique",
     "wof:parent_id":404560273,
     "wof:placetype":"locality",

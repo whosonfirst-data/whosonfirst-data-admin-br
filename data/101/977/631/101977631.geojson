@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.336785,
     "lbl:longitude":-38.715865,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.336785,
     "mps:longitude":-38.715865,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "susto"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":256,
     "wof:belongsto":[
         85681907,
@@ -58,7 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":422034,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q10375211"
     },
     "wof:country":"BR",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101977631,
-    "wof:lastmodified":1563242978,
+    "wof:lastmodified":1566623982,
     "wof:name":"Susto",
     "wof:parent_id":404553751,
     "wof:placetype":"locality",

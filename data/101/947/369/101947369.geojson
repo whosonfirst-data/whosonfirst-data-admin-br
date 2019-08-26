@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.765012,
     "lbl:longitude":-39.428328,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-12.765012,
     "mps:longitude":-39.428328,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b8\u09cd\u099f\u09cd\u09b0 \u0986\u09b2\u09ad\u09c7\u09b8"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -126,7 +129,6 @@
         "fct:id":"0386b1fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3466703,
         "gp:id":456131,
-        "qs:id":342476,
         "qs_pg:id":342476,
         "wd:id":"Q1764155"
     },
@@ -146,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243874,
+    "wof:lastmodified":1566624399,
     "wof:name":"Castro Alves",
     "wof:parent_id":404550769,
     "wof:placetype":"locality",

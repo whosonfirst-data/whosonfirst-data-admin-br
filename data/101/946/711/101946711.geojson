@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.367544,
     "lbl:longitude":-35.488506,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.367544,
     "mps:longitude":-35.488506,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u0987\u09b8 \u09b0\u09bf\u09af\u09bc\u09be\u0995\u09b9\u09cb\u09b8"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681967,
         102191577,
@@ -105,7 +108,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":447874,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"7303daa1e0137f2af94178fd9e64ebb6",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101946711,
-    "wof:lastmodified":1564140308,
+    "wof:lastmodified":1566624281,
     "wof:name":"Dois Riachos",
     "wof:parent_id":404560039,
     "wof:placetype":"locality",

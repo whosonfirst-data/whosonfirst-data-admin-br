@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000691,
-    "geom:area_square_m":8038620.871955,
+    "geom:area_square_m":8038620.87193,
     "geom:bbox":"-44.1624266215,-19.8637178593,-44.1293458138,-19.810833939",
     "geom:latitude":-19.83839,
     "geom:longitude":-44.14658,
     "iso:country":"BR",
     "lbl:latitude":-19.843546,
     "lbl:longitude":-44.152301,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.843546,
     "mps:longitude":-44.152301,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*MG",
     "qs:a1_lc":"31",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -43,7 +47,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943618,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1120081
     },
     "wof:country":"BR",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":101966165,
-    "wof:lastmodified":1497295689,
+    "wof:lastmodified":1566625034,
     "wof:name":"Nova Contagem",
     "wof:parent_id":404556019,
     "wof:placetype":"locality",

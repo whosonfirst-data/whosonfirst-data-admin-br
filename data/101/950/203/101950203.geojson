@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.161731,
     "lbl:longitude":-39.29726,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.161731,
     "mps:longitude":-39.29726,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Cap\u00e3o"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":42,
     "wof:belongsto":[
         85681895,
@@ -56,7 +59,9 @@
         "fct:id":"03832e44-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3467394,
         "gp:id":459038,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1045085
     },
     "wof:country":"BR",
@@ -75,7 +80,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564140974,
+    "wof:lastmodified":1566624738,
     "wof:name":"Cap\u00e3o",
     "wof:parent_id":404551385,
     "wof:placetype":"locality",

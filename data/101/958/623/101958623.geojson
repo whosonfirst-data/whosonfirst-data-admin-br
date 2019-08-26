@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.52961,
     "lbl:longitude":-54.148362,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.52961,
     "mps:longitude":-54.148362,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u0989\u099c\u09bf\u09a8\u09bf\u0993 \u09a1\u09c7 \u0995\u09be\u09b8\u09cd\u099f\u09cd\u09b0"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":81,
     "wof:belongsto":[
         102191577,
@@ -122,7 +125,7 @@
         "fct:id":"0385c8ac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3463695,
         "gp:id":432083,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1784295",
         "wk:page":"Eug\u00eanio de Castro"
     },
@@ -141,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841224,
+    "wof:lastmodified":1566625248,
     "wof:name":"Eug\u00eanio de Castro",
     "wof:parent_id":102059399,
     "wof:placetype":"locality",

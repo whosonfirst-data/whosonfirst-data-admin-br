@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-19.662501,
     "lbl:longitude":-51.190053,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-19.662501,
     "mps:longitude":-51.190053,
     "mz:hierarchy_label":1,
@@ -96,9 +98,6 @@
     ],
     "name:spa_x_preferred":[
         "Parana\u00edba"
-    ],
-    "name:unk_x_variant":[
-        "Sant'Anna do Paranaiba"
     ],
     "name:vie_x_preferred":[
         "Parana\u00edba"
@@ -221,7 +220,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681947,
@@ -235,7 +234,6 @@
         "fct:id":"0386d210-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3455065,
         "gp:id":456390,
-        "qs:id":274328,
         "qs_pg:id":274328,
         "wd:id":"Q925758"
     },
@@ -255,7 +253,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841192,
+    "wof:lastmodified":1566624979,
     "wof:name":"Parana\u00edba",
     "wof:parent_id":404559003,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"-43.46012,-22.74253,-43.46012,-22.74253",
     "geom:latitude":-22.74253,
     "geom:longitude":-43.46012,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"BR",
+    "lbl:bbox":"-43.46512,-22.74753,-43.45512,-22.73753",
     "lbl:latitude":-22.74253,
     "lbl:longitude":-43.46012,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:por_x_preferred":[
         "Moquet\u00e1"
@@ -42,17 +45,17 @@
     "qs_pg:woe_adm0":23424768,
     "qs_pg:woe_id":56067100,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424768,
     "woe:name_adm0":"Brasil",
     "woe:name_adm1":"Rio de Janeiro",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85681991,
         102191577,
         85633009,
         101953095,
-        102058415,
-        85681991
+        102058415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126070489,
-    "wof:lastmodified":1509410648,
+    "wof:lastmodified":1566628449,
     "wof:name":"Moquet\u00e1",
     "wof:parent_id":101953095,
     "wof:placetype":"neighbourhood",

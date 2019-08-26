@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.836509,
     "lbl:longitude":-45.397746,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-21.836509,
     "mps:longitude":-45.397746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09aa\u09be\u09a8\u09b9\u09be"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -120,7 +123,6 @@
         "fct:id":"03859dbe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3467928,
         "gp:id":427417,
-        "qs:id":1252958,
         "qs_pg:id":1252958,
         "wd:id":"Q1780173"
     },
@@ -140,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242842,
+    "wof:lastmodified":1566623914,
     "wof:name":"Campanha",
     "wof:parent_id":404555645,
     "wof:placetype":"locality",

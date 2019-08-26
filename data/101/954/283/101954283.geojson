@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.863668,
     "lbl:longitude":-41.122299,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-18.863668,
     "mps:longitude":-41.122299,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09a8\u09cd\u099f\u09c7\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
     ],
@@ -74,7 +77,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u043d\u0442\u0435\u043d\u043e\u043f\u043e\u043b\u0438\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ametista"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681921,
@@ -120,7 +123,6 @@
         "fct:id":"03860786-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457928,
         "gp:id":439436,
-        "qs:id":305313,
         "qs_pg:id":305313,
         "wd:id":"Q1806721"
     },
@@ -140,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841031,
+    "wof:lastmodified":1566623317,
     "wof:name":"Manten\u00f3polis",
     "wof:parent_id":404554465,
     "wof:placetype":"locality",

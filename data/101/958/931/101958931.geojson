@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.48157,
     "lbl:longitude":-53.520791,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.48157,
     "mps:longitude":-53.520791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09bf\u09b8\u09cd\u099f\u09be \u0997\u09be\u0989\u099a\u09be"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":81,
     "wof:belongsto":[
         85682015,
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gn:id":6318947,
         "gp:id":431662,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1774460"
     },
     "wof:country":"BR",
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101958931,
-    "wof:lastmodified":1563245593,
+    "wof:lastmodified":1566625197,
     "wof:name":"Vista Ga\u00facha",
     "wof:parent_id":404563557,
     "wof:placetype":"locality",

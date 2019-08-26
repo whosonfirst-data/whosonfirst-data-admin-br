@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.962711,
     "lbl:longitude":-51.713434,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-29.962711,
     "mps:longitude":-51.713434,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u099c\u09c7\u09b0\u09cd\u09b0\u09cb\u09a8\u09bf\u09ae\u09cb"
     ],
@@ -88,9 +91,6 @@
     "name:spa_x_preferred":[
         "S\u00e3o Jer\u00f4nimo"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Jeronymo"
-    ],
     "name:vie_x_preferred":[
         "S\u00e3o Jer\u00f4nimo"
     ],
@@ -120,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":34,
     "wof:belongsto":[
@@ -135,7 +135,6 @@
         "fct:id":"0381cd7e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3449045,
         "gp:id":450067,
-        "qs:id":1044849,
         "qs_pg:id":1044849,
         "wd:id":"Q1639741",
         "wk:page":"S\u00e3o Jer\u00f4nimo"
@@ -156,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245567,
+    "wof:lastmodified":1566625186,
     "wof:name":"S\u00e3o Jer\u00f4nimo",
     "wof:parent_id":404564613,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.768822,
     "lbl:longitude":-43.48754,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.768822,
     "mps:longitude":-43.48754,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0645\u0627\u064a\u062a\u0627"
     ],
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u043c\u0430\u0457\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Humayta"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +76,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":619,
     "wof:belongsto":[
         85681941,
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3461650,
         "gp:id":455875,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"d4bcda6bf6a47452bf2338e07d1fc974",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101966269,
-    "wof:lastmodified":1564141196,
+    "wof:lastmodified":1566625023,
     "wof:name":"Humait\u00e1",
     "wof:parent_id":404556955,
     "wof:placetype":"locality",

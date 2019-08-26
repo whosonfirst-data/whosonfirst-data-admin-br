@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.267055,
     "lbl:longitude":-50.947567,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.267055,
     "mps:longitude":-50.947567,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u09b2\u09c7 \u09a1\u09cb \u09b8\u09cb\u09b2"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -53,7 +56,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"c4d474c860bb0017db7828e602d658ca",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101963721,
-    "wof:lastmodified":1564139418,
+    "wof:lastmodified":1566623614,
     "wof:name":"Vale do Sol",
     "wof:parent_id":404567171,
     "wof:placetype":"locality",

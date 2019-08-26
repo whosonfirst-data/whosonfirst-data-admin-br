@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.62627,
     "lbl:longitude":-54.180775,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-29.62627,
     "mps:longitude":-54.180775,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09aa\u09c7\u09a1\u09cd\u09b0\u09cb \u09a1\u09cb \u09b8\u09c1\u09b2"
     ],
@@ -88,9 +91,6 @@
     "name:spa_x_preferred":[
         "S\u00e3o Pedro do Sul"
     ],
-    "name:unk_x_variant":[
-        "San Pedro"
-    ],
     "name:vie_x_preferred":[
         "S\u00e3o Pedro do Sul"
     ],
@@ -120,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":34,
     "wof:belongsto":[
@@ -135,7 +135,6 @@
         "fct:id":"03878048-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3448332,
         "gp:id":458065,
-        "qs:id":1044830,
         "qs_pg:id":1044830,
         "wd:id":"Q2007743",
         "wk:page":"S\u00e3o Pedro do Sul, Rio Grande do Sul"
@@ -156,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841221,
+    "wof:lastmodified":1566625234,
     "wof:name":"S\u00e3o Pedro do Sul",
     "wof:parent_id":404564735,
     "wof:placetype":"locality",

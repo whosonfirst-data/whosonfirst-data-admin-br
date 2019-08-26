@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.151055,
     "lbl:longitude":-37.114765,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.151055,
     "mps:longitude":-37.114765,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0994\u09b0\u09bf\u0995\u09c1\u09b0\u09bf"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681973,
         102191577,
@@ -89,7 +92,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"0c64f7e5d22e9dba370b0e0c374a98ea",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101986327,
-    "wof:lastmodified":1564142899,
+    "wof:lastmodified":1566626354,
     "wof:name":"Ouricuri",
     "wof:parent_id":404560117,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.431544,
     "lbl:longitude":-61.436351,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-11.431544,
     "mps:longitude":-61.436351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0995\u09cb\u0986\u09b2"
     ],
@@ -89,9 +92,6 @@
     "name:swe_x_preferred":[
         "Cacoal"
     ],
-    "name:unk_x_variant":[
-        "Cacual"
-    ],
     "name:vie_x_preferred":[
         "Cacoal"
     ],
@@ -124,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682003,
@@ -138,7 +138,6 @@
         "fct:id":"0388ba62-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3925212,
         "gp:id":456900,
-        "qs:id":1047228,
         "qs_pg:id":1047228,
         "wd:id":"Q1761637",
         "wk:page":"Cacoal"
@@ -159,7 +158,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841128,
+    "wof:lastmodified":1566624290,
     "wof:name":"Cacoal",
     "wof:parent_id":404562751,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"-44.8840072907,-4.67607954526,-44.8264772214,-4.62958721275",
     "geom:latitude":-4.65626,
     "geom:longitude":-44.852061,
-    "geonames:id":"3398344,6317267",
+    "gn:id":"3398344,6317267",
     "iso:country":"BR",
     "lbl:latitude":-4.656236,
     "lbl:longitude":-44.849263,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.656236,
     "mps:longitude":-44.849263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u0997\u09be\u09b0\u09be\u09aa\u09c7 \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         102191577,
@@ -106,9 +109,11 @@
     "wof:concordances":{
         "gn:id":6317267,
         "gp:id":457285,
-        "qs:id":9,
-        "qs_pg:id":382549,
+        "qs_pg:id":9,
         "wd:id":"Q2068280"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":382549
     },
     "wof:country":"BR",
     "wof:geomhash":"e473b2fe0e063bba176b8d3136b74a88",
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":101943345,
-    "wof:lastmodified":1561841315,
+    "wof:lastmodified":1566626133,
     "wof:name":"Igarap\u00e9 Grande",
     "wof:parent_id":102052961,
     "wof:placetype":"locality",

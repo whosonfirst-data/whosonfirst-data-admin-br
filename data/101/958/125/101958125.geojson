@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-28.207594,
     "lbl:longitude":-48.678547,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-28.207594,
     "mps:longitude":-48.678547,
     "mz:hierarchy_label":1,
@@ -90,9 +92,6 @@
     ],
     "name:swe_x_preferred":[
         "Imbituba"
-    ],
-    "name:unk_x_variant":[
-        "Henrique Laje"
     ],
     "name:vie_x_preferred":[
         "Imbituba"
@@ -215,7 +214,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682021,
@@ -229,7 +228,6 @@
         "fct:id":"0386be42-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461370,
         "gp:id":456233,
-        "qs:id":274343,
         "qs_pg:id":274343,
         "wd:id":"Q986545",
         "wk:page":"Imbituba"
@@ -250,7 +248,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245760,
+    "wof:lastmodified":1566625264,
     "wof:name":"Imbituba",
     "wof:parent_id":404565483,
     "wof:placetype":"locality",

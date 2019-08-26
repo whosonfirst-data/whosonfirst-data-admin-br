@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.045859,
     "lbl:longitude":-45.959949,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-2.045859,
     "mps:longitude":-45.959949,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09be\u0995\u09be\u0995\u09c1\u09ae\u09c7"
     ],
@@ -75,9 +78,6 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0430\u043a\u0430\u0441\u0443\u043c\u0435"
     ],
-    "name:unk_x_variant":[
-        "Maragassume"
-    ],
     "name:vie_x_preferred":[
         "Maraca\u00e7um\u00e9"
     ],
@@ -107,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":145,
     "wof:belongsto":[
@@ -121,7 +121,6 @@
         "fct:id":"03891d04-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3395497,
         "gp:id":457535,
-        "qs:id":883874,
         "qs_pg:id":883874,
         "wd:id":"Q2064676",
         "wk:page":"Maraca\u00e7um\u00e9"
@@ -141,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841308,
+    "wof:lastmodified":1566626100,
     "wof:name":"Maraca\u00e7um\u00e9",
     "wof:parent_id":102053009,
     "wof:placetype":"locality",

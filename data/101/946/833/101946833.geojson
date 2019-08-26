@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.269126,
     "lbl:longitude":-35.21241,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-6.269126,
     "mps:longitude":-35.21241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0997\u09cb\u0987\u09af\u09bc\u09be\u09a8\u09bf\u09a8\u09b9\u09be"
     ],
@@ -77,9 +80,6 @@
     "name:swe_x_preferred":[
         "Goianinha"
     ],
-    "name:unk_x_variant":[
-        "Goyanninha"
-    ],
     "name:vie_x_preferred":[
         "Goianinha"
     ],
@@ -109,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -122,7 +122,6 @@
         "fct:id":"03872850-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3398902,
         "gp:id":457216,
-        "qs:id":353260,
         "qs_pg:id":353260,
         "wd:id":"Q1802289",
         "wk:page":"Goianinha"
@@ -142,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243448,
+    "wof:lastmodified":1566624241,
     "wof:name":"Goianinha",
     "wof:parent_id":102058615,
     "wof:placetype":"locality",

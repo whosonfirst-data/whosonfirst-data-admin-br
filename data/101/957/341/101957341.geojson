@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.930428,
     "lbl:longitude":-51.336584,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.930428,
     "mps:longitude":-51.336584,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b0\u09cd\u09b0\u09cb\u0987\u0993 \u099f\u09cd\u09b0\u09bf\u09a8\u09cd\u099f\u09be"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -122,7 +125,7 @@
         "fct:id":"038580ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471417,
         "gp:id":422601,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1758088",
         "wk:page":"Arroio Trinta"
     },
@@ -142,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841168,
+    "wof:lastmodified":1566624813,
     "wof:name":"Arroio Trinta",
     "wof:parent_id":404565177,
     "wof:placetype":"locality",

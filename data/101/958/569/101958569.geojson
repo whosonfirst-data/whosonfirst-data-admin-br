@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.290498,
     "lbl:longitude":-54.220216,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.290498,
     "mps:longitude":-54.220216,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u09b0\u09bf"
     ],
@@ -79,9 +82,6 @@
     "name:swe_x_preferred":[
         "Jari"
     ],
-    "name:unk_x_variant":[
-        "Jary"
-    ],
     "name:vie_x_preferred":[
         "Jari"
     ],
@@ -111,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -123,7 +123,6 @@
         "fct:id":"03873c82-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460070,
         "gp:id":457410,
-        "qs:id":342611,
         "qs_pg:id":342611,
         "wd:id":"Q984569"
     },
@@ -142,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245593,
+    "wof:lastmodified":1566625197,
     "wof:name":"Jari",
     "wof:parent_id":102059543,
     "wof:placetype":"locality",

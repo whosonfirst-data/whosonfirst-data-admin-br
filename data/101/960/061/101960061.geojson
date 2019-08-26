@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.792656,
     "lbl:longitude":-51.857804,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-29.792656,
     "mps:longitude":-51.857804,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u0995\u09c1\u09f1\u09be\u09b0\u09bf"
     ],
@@ -92,9 +95,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043a\u0443\u0430\u0440\u0456"
     ],
-    "name:unk_x_variant":[
-        "Taquary"
-    ],
     "name:vie_x_preferred":[
         "Taquari"
     ],
@@ -127,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682015,
@@ -141,7 +141,6 @@
         "fct:id":"0386e700-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3446783,
         "gp:id":456559,
-        "qs:id":147892,
         "qs_pg:id":147892,
         "wd:id":"Q1646949",
         "wk:page":"Taquari"
@@ -162,7 +161,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245889,
+    "wof:lastmodified":1566625322,
     "wof:name":"Taquari",
     "wof:parent_id":404564867,
     "wof:placetype":"locality",

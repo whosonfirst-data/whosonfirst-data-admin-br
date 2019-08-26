@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.595033,
     "lbl:longitude":-39.287265,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-14.595033,
     "mps:longitude":-39.287265,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0989\u09b0\u09c1\u0995\u09c1\u0995\u09be"
     ],
@@ -88,9 +91,6 @@
     "name:swe_x_preferred":[
         "Uru\u00e7uca"
     ],
-    "name:unk_x_variant":[
-        "Agua Preta"
-    ],
     "name:vie_x_preferred":[
         "Uru\u00e7uca"
     ],
@@ -121,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -135,7 +135,6 @@
         "fct:id":"038790a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3445690,
         "gp:id":458236,
-        "qs:id":147860,
         "qs_pg:id":147860,
         "wd:id":"Q22062848"
     },
@@ -155,7 +154,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244572,
+    "wof:lastmodified":1566624740,
     "wof:name":"Uru\u00e7uca",
     "wof:parent_id":404552163,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.913015,
     "lbl:longitude":-52.938411,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.913015,
     "mps:longitude":-52.938411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Guapor\u00e9"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
         85681983,
@@ -64,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6317233,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"d2c72209067ee155cc6afde6a2bd3726",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101956755,
-    "wof:lastmodified":1564141520,
+    "wof:lastmodified":1566625340,
     "wof:name":"Guapor\u00e9",
     "wof:parent_id":404561207,
     "wof:placetype":"locality",

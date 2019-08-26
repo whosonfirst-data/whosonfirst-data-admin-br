@@ -9,14 +9,17 @@
     "geom:bbox":"-40.4121398614,-4.41771535794,-40.3899601341,-4.40181972099",
     "geom:latitude":-4.40946,
     "geom:longitude":-40.400924,
-    "geonames:id":"3398458,3398457",
+    "gn:id":"3398458,3398457",
     "iso:country":"BR",
     "lbl:latitude":-4.409323,
     "lbl:longitude":-40.403143,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.409323,
     "mps:longitude":-40.403143,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hidrol\u00e2ndia"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":13,
     "wof:belongsto":[
         85681907,
@@ -101,9 +104,11 @@
     "wof:concordances":{
         "gn:id":3398457,
         "gp:id":435178,
-        "qs:id":9,
-        "qs_pg:id":342151,
+        "qs_pg:id":9,
         "wd:id":"Q2347636"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":342151
     },
     "wof:country":"BR",
     "wof:geomhash":"7059ac58298a69ce2be68b87248555b6",
@@ -118,7 +123,7 @@
         }
     ],
     "wof:id":101944211,
-    "wof:lastmodified":1561841294,
+    "wof:lastmodified":1566625954,
     "wof:name":"Hidrol\u00e2ndia",
     "wof:parent_id":404552935,
     "wof:placetype":"locality",

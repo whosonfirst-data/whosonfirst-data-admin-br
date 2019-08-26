@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-30.003307,
     "lbl:longitude":-50.14125,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-30.003307,
     "mps:longitude":-50.14125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u099f\u09cd\u09b0\u09be\u09ae\u09be\u09a8\u09cd\u09a1\u09be\u0987"
     ],
@@ -87,9 +90,6 @@
     "name:swe_x_preferred":[
         "Tramanda\u00ed"
     ],
-    "name:unk_x_variant":[
-        "Tramandahy"
-    ],
     "name:vie_x_preferred":[
         "Tramanda\u00ed"
     ],
@@ -119,7 +119,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682015,
@@ -133,7 +133,6 @@
         "fct:id":"03891200-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3446232,
         "gp:id":456574,
-        "qs:id":1240886,
         "qs_pg:id":1240886,
         "wd:id":"Q187160"
     },
@@ -153,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242077,
+    "wof:lastmodified":1566623601,
     "wof:name":"Tramanda\u00ed",
     "wof:parent_id":404564919,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.533941,
     "lbl:longitude":-43.56699,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.533941,
     "mps:longitude":-43.56699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Conrado"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":341,
     "wof:belongsto":[
         85681991,
@@ -53,7 +56,9 @@
         "fct:id":"03805a34-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465646,
         "gp:id":430153,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1037142
     },
     "wof:country":"BR",
@@ -72,7 +77,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527641753,
+    "wof:lastmodified":1566623392,
     "wof:name":"Conrado",
     "wof:parent_id":404562361,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.373528,
     "lbl:longitude":-35.141388,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-6.373528,
     "mps:longitude":-35.141388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a8\u0997\u09c1\u09f1\u09be\u09b0\u09c7\u099f\u09be\u09ae\u09be"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -119,7 +122,6 @@
         "fct:id":"0386afc4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3403362,
         "gp:id":456115,
-        "qs:id":147734,
         "qs_pg:id":147734,
         "wd:id":"Q1787055",
         "wk:page":"Canguaretama"
@@ -139,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841124,
+    "wof:lastmodified":1566624273,
     "wof:name":"Canguaretama",
     "wof:parent_id":102058565,
     "wof:placetype":"locality",

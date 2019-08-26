@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.966361,
     "lbl:longitude":-42.31803,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.966361,
     "mps:longitude":-42.31803,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "GRES Beija-Flor"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -50,7 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"8961513208244963b6ab141d3c702d81",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101983849,
-    "wof:lastmodified":1564139920,
+    "wof:lastmodified":1566624033,
     "wof:name":"Beija-Flor",
     "wof:parent_id":404558255,
     "wof:placetype":"locality",

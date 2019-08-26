@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.67981,
     "lbl:longitude":-51.482713,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-29.67981,
     "mps:longitude":-51.482713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:deu_x_preferred":[
         "Montenegro"
     ],
@@ -85,9 +88,6 @@
     "name:szl_x_preferred":[
         "Montenegro"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Jo\u00e3o do Monte Negro"
-    ],
     "name:vol_x_preferred":[
         "Montenegro"
     ],
@@ -115,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682015,
@@ -129,9 +129,11 @@
         "fct:id":"0389f896-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456826,
         "gp:id":457618,
-        "qs:id":1032238,
-        "qs_pg:id":1055211,
+        "qs_pg:id":1032238,
         "wd:id":"Q1001470"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1055211
     },
     "wof:country":"BR",
     "wof:geomhash":"65f4cdf5b2e7d9771a458fc3696863b2",
@@ -149,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245865,
+    "wof:lastmodified":1566625309,
     "wof:name":"Montenegro",
     "wof:parent_id":404563965,
     "wof:placetype":"locality",

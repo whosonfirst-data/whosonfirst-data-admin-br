@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-26.485005,
     "lbl:longitude":-49.109227,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-26.485005,
     "mps:longitude":-49.109227,
     "mz:hierarchy_label":1,
@@ -151,7 +153,7 @@
         "Jaragu\u00e1 do Sul"
     ],
     "name:tam_x_preferred":[
-        "\u0b9c\u0bbe\u0bb0\u0bbe\u0b95\u0bc1\u0bb5\u0bbe \u0b9f\u0bc2  \u0b9a\u0bc2\u0bb2\u0bcd"
+        "\u0b9c\u0bbe\u0bb0\u0bbe\u0b95\u0bc1\u0bb5\u0bbe \u0b9f\u0bc2 \u0b9a\u0bc2\u0bb2\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0416\u0430\u0440\u0430\u0433\u0432\u0430-\u0434\u0443-\u0421\u0443\u043b"
@@ -167,9 +169,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0416\u0430\u0440\u0430\u0433\u0443\u0430-\u0434\u043e-\u0421\u0443\u043b"
-    ],
-    "name:unk_x_variant":[
-        "Jaragu\u00e1"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0631\u06af\u0648\u0627 \u062f\u0648 \u0633\u0644"
@@ -295,7 +294,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":607,
     "wof:belongsto":[
@@ -310,7 +309,6 @@
         "fct:id":"0389f4c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460102,
         "gp:id":456283,
-        "qs:id":237358,
         "qs_pg:id":237358,
         "wd:id":"Q849584",
         "wk:page":"Jaragu\u00e1 do Sul"
@@ -331,7 +329,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242341,
+    "wof:lastmodified":1566623733,
     "wof:name":"Jaragu\u00e1 do Sul",
     "wof:parent_id":404565545,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.580008,
     "lbl:longitude":-36.177286,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.580008,
     "mps:longitude":-36.177286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09bf\u09b0\u09be\u099c\u09c1\u09ac\u09be"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -112,7 +115,7 @@
         "fct:id":"0385dec8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3398399,
         "gp:id":435298,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1849689",
         "wk:page":"Ibirajuba"
     },
@@ -131,7 +134,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841104,
+    "wof:lastmodified":1566623888,
     "wof:name":"Ibirajuba",
     "wof:parent_id":102056651,
     "wof:placetype":"locality",

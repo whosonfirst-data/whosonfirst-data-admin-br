@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.501585,
     "lbl:longitude":-54.722716,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-18.501585,
     "mps:longitude":-54.722716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u0995\u09cd\u09b8\u09bf\u09ae"
     ],
@@ -82,9 +85,6 @@
     "name:spa_x_preferred":[
         "Coxim"
     ],
-    "name:unk_x_variant":[
-        "Hercul\u00e2nia"
-    ],
     "name:vie_x_preferred":[
         "Coxim"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681947,
@@ -131,7 +131,6 @@
         "fct:id":"03882c32-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465228,
         "gp:id":457088,
-        "qs:id":1139916,
         "qs_pg:id":1139916,
         "wd:id":"Q1793013",
         "wk:page":"Coxim"
@@ -152,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841195,
+    "wof:lastmodified":1566624993,
     "wof:name":"Coxim",
     "wof:parent_id":404558893,
     "wof:placetype":"locality",

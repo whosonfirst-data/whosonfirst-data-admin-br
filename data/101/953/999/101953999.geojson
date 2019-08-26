@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.383099,
     "lbl:longitude":-41.537549,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.383099,
     "mps:longitude":-41.537549,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09b8\u09b8\u09be \u09b8\u09c7\u09a8\u09b9\u09cb\u09b0\u09be \u09a1\u09be\u09b8 \u0997\u09cd\u09b0\u09be\u0995\u09be\u09b8"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         85681921,
@@ -93,7 +96,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"4e6c843271441c97fc4caf4b1651c04e",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101953999,
-    "wof:lastmodified":1564139155,
+    "wof:lastmodified":1566623349,
     "wof:name":"Nossa Senhora das Gra\u00e7as",
     "wof:parent_id":404554415,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.860546,
     "lbl:longitude":-46.723141,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.860546,
     "mps:longitude":-46.723141,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b0\u09c7\u0987\u09af\u09bc\u09be\u09b8"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -81,7 +84,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":421026,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"b49870d0804ed087bfbd77d09f93d0c0",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101965623,
-    "wof:lastmodified":1564139263,
+    "wof:lastmodified":1566623463,
     "wof:name":"Areias",
     "wof:parent_id":404566049,
     "wof:placetype":"locality",

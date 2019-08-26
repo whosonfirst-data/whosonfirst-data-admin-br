@@ -13,6 +13,7 @@
     "iso:country":"BR",
     "lbl:latitude":-25.475644,
     "lbl:longitude":-49.281415,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.477385,
     "mps:longitude":-49.280924,
     "mz:hierarchy_label":1,
@@ -90,9 +91,6 @@
     "name:swe_x_preferred":[
         "Lind\u00f3ia"
     ],
-    "name:unk_x_variant":[
-        "Lind\u00f3ia"
-    ],
     "name:vie_x_preferred":[
         "Lind\u00f3ia"
     ],
@@ -130,7 +128,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191577,
         404561111,
@@ -142,7 +140,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943689,
-        "qs:id":1345102
+        "qs_pg:id":1345102
     },
     "wof:country":"BR",
     "wof:geomhash":"84ccc19df51fee54c84fad2ec4d2d8b2",
@@ -161,7 +159,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564134764,
+    "wof:lastmodified":1566620813,
     "wof:name":"Lind\u00f3ia",
     "wof:parent_id":101957995,
     "wof:placetype":"neighbourhood",

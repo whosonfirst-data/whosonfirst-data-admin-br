@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.29491,
     "lbl:longitude":-47.554459,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.29491,
     "mps:longitude":-47.554459,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u09ae \u098f\u09b2\u09bf\u09b8\u09c7\u0989"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -112,7 +115,7 @@
         "fct:id":"03896e08-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317029,
         "gp:id":55943978,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2008541",
         "wk:page":"Dom Eliseu"
     },
@@ -131,7 +134,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841276,
+    "wof:lastmodified":1566625827,
     "wof:name":"Dom Eliseu",
     "wof:parent_id":102055765,
     "wof:placetype":"locality",

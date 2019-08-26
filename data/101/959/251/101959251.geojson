@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.123044,
     "lbl:longitude":-53.050649,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.123044,
     "mps:longitude":-53.050649,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09cb\u09b2\u099f\u09be \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -110,7 +113,7 @@
         "fct:id":"038232a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3444879,
         "gp:id":455654,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"58c01f776d98d30d3e2ff05b7cad7829",
@@ -128,7 +131,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564141275,
+    "wof:lastmodified":1566625091,
     "wof:name":"Volta Grande",
     "wof:parent_id":404562929,
     "wof:placetype":"locality",

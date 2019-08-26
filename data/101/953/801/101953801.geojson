@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.203566,
     "lbl:longitude":-41.885096,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-21.203566,
     "mps:longitude":-41.885096,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09aa\u09c7\u09b0\u09c1\u09a8\u09be"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681991,
@@ -129,7 +132,6 @@
         "fct:id":"0387364c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460733,
         "gp:id":457349,
-        "qs:id":778012,
         "qs_pg:id":778012,
         "wd:id":"Q1675245"
     },
@@ -149,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241686,
+    "wof:lastmodified":1566623404,
     "wof:name":"Itaperuna",
     "wof:parent_id":404562301,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.330999,
     "lbl:longitude":-36.357332,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.330999,
     "mps:longitude":-36.357332,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Radiko"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":20,
     "wof:belongsto":[
         85681973,
@@ -54,7 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"aa76f35d075db88a5893b1b3358c2c7a",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101986729,
-    "wof:lastmodified":1564142909,
+    "wof:lastmodified":1566626360,
     "wof:name":"Raiz",
     "wof:parent_id":404560171,
     "wof:placetype":"locality",

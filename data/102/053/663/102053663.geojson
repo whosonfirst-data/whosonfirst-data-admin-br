@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-20.848202,
     "lbl:longitude":-42.76366,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-20.848202,
     "mps:longitude":-42.76366,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0642\u0644\u0645\u0631\u064a\u0629"
     ],
@@ -268,7 +271,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -289,7 +292,7 @@
         }
     ],
     "wof:id":102053663,
-    "wof:lastmodified":1564132857,
+    "wof:lastmodified":1566619089,
     "wof:name":"Coimbra",
     "wof:parent_id":85681941,
     "wof:placetype":"county",

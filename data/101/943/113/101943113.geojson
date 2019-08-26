@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.559119,
     "lbl:longitude":-47.44248,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.559119,
     "mps:longitude":-47.44248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u098f\u09b8\u099f\u09cd\u09b0\u09c7\u0987\u099f\u09cb"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -118,10 +121,12 @@
         "fct:id":"03882d04-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3400617,
         "gp:id":457166,
-        "qs:id":817823,
         "qs_pg:id":279744,
         "wd:id":"Q2068863",
         "wk:page":"Estreito, Maranh\u00e3o"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":817823
     },
     "wof:country":"BR",
     "wof:geomhash":"1137fdd6d6a8aea406651856e2dc30ad",
@@ -138,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247566,
+    "wof:lastmodified":1566626136,
     "wof:name":"Estreito",
     "wof:parent_id":102052915,
     "wof:placetype":"locality",

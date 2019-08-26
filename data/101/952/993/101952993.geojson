@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000097,
+    "geom:area_square_m":1106824.729947,
     "geom:bbox":"-43.9322595821,-22.2921252683,-43.914373408,-22.2821011091",
     "geom:latitude":-22.287476,
     "geom:longitude":-43.923782,
     "iso:country":"BR",
     "lbl:latitude":-22.286837,
     "lbl:longitude":-43.922898,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.286837,
     "mps:longitude":-43.922898,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "Conservatoria"
     ],
@@ -37,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681991,
         102191577,
@@ -50,7 +55,9 @@
         "fct:id":"03805aca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465633,
         "gp:id":430170,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1037408
     },
     "wof:country":"BR",
@@ -69,7 +76,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497301777,
+    "wof:lastmodified":1566623779,
     "wof:name":"Conservat\u00f3ria",
     "wof:parent_id":404562649,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"-50.8,-28.78333,-50.8,-28.78333",
     "geom:latitude":-28.78333,
     "geom:longitude":-50.8,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
+    "lbl:bbox":"-50.805,-28.78833,-50.795,-28.77833",
     "lbl:latitude":-28.78333,
     "lbl:longitude":-50.8,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "S\u00e3o Francisco"
@@ -63,7 +66,7 @@
     "name:swe_x_preferred":[
         "S\u00e3o Francisco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Francisco do Sul"
     ],
     "name:vie_x_preferred":[
@@ -93,7 +96,7 @@
     "qs_pg:woe_adm0":23424768,
     "qs_pg:woe_id":56067518,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424768,
     "woe:name_adm0":"Brasil",
     "woe:name_adm1":"Rio Grande do Sul",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1126083499,
-    "wof:lastmodified":1564146135,
+    "wof:lastmodified":1566628432,
     "wof:name":"S\u00e3o Francisco",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

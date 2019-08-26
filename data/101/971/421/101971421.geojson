@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.902805,
     "lbl:longitude":-41.293451,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.902805,
     "mps:longitude":-41.293451,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0413\u0443\u0430\u0440\u0430\u043d\u0456"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -108,7 +111,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456849,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"10e45d03f69ced4661b0d117e0c7315e",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101971421,
-    "wof:lastmodified":1564140557,
+    "wof:lastmodified":1566624458,
     "wof:name":"Guarani",
     "wof:parent_id":404550573,
     "wof:placetype":"locality",

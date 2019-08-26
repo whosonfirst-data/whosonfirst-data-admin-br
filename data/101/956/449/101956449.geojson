@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.620389,
     "lbl:longitude":-53.929497,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.620389,
     "mps:longitude":-53.929497,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u0987\u09b8 \u0987\u09b0\u09cd\u09ae\u09be\u0993\u09b8"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         85681983,
@@ -111,7 +114,7 @@
         "fct:id":"03806dc6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3464603,
         "gp:id":431193,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"6c160c18484f8cde92ee327165e4c60b",
@@ -129,7 +132,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564141528,
+    "wof:lastmodified":1566625351,
     "wof:name":"Dois Irm\u00e3os",
     "wof:parent_id":404562007,
     "wof:placetype":"locality",

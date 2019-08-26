@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.090851,
     "lbl:longitude":-36.984234,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.090851,
     "mps:longitude":-36.984234,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0628\u0648 \u063a\u0631\u0627\u0646\u062f\u064a"
     ],
@@ -202,7 +205,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681973,
         102191577,
@@ -212,7 +215,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"c2204c3de138d1817c0046688701e0d4",
@@ -227,7 +230,7 @@
         }
     ],
     "wof:id":101986319,
-    "wof:lastmodified":1564142907,
+    "wof:lastmodified":1566626359,
     "wof:name":"Campo Grande",
     "wof:parent_id":404560117,
     "wof:placetype":"locality",

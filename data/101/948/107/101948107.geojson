@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.029091,
     "lbl:longitude":-36.568663,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.029091,
     "mps:longitude":-36.568663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c7\u099c\u09af\u09bc\u09be\u0993"
     ],
@@ -75,9 +78,6 @@
     "name:rus_x_preferred":[
         "\u0411\u0440\u0435\u0436\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Brej\u00e3o de Santa Cruz"
-    ],
     "name:vie_x_preferred":[
         "Brej\u00e3o"
     ],
@@ -107,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":149,
     "wof:belongsto":[
         102191577,
@@ -120,7 +120,6 @@
         "fct:id":"0388cab6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3404938,
         "gp:id":458818,
-        "qs:id":902295,
         "qs_pg:id":902295,
         "wd:id":"Q2065806",
         "wk:page":"Brej\u00e3o"
@@ -140,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841106,
+    "wof:lastmodified":1566623905,
     "wof:name":"Brej\u00e3o",
     "wof:parent_id":102056543,
     "wof:placetype":"locality",

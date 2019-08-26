@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.885315,
     "lbl:longitude":-43.502089,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-18.885315,
     "mps:longitude":-43.502089,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:fra_x_preferred":[
         "C\u00f3rregos"
     ],
@@ -31,7 +34,7 @@
     "name:ron_x_preferred":[
         "C\u00f3rregos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Apparecida dos Corregos"
     ],
     "qs:a0":"Brasil",
@@ -49,7 +52,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.366111,
     "wd:longitude":-48.380278,
@@ -67,7 +70,7 @@
         "fct:id":"03805e30-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465417,
         "gp:id":430387,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"2e8b46043d7936bc666f246ac75bee3d",
@@ -85,7 +88,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564141662,
+    "wof:lastmodified":1566625488,
     "wof:name":"C\u00f3rregos",
     "wof:parent_id":404555943,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.084441,
     "lbl:longitude":-44.820264,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.084441,
     "mps:longitude":-44.820264,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09ab\u09c7\u09b2\u09bf\u0995\u09cd\u09b8 \u09a1\u09c7 \u09ac\u09be\u09b2\u09b8\u09be\u09b8"
     ],
@@ -82,9 +85,6 @@
     "name:swe_x_preferred":[
         "S\u00e3o F\u00e9lix de Balsas"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o F\u00e9lix das Balsas"
-    ],
     "name:vie_x_preferred":[
         "S\u00e3o F\u00e9lix de Balsas"
     ],
@@ -112,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         102191577,
@@ -125,7 +125,7 @@
         "fct:id":"0381c964-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3388849,
         "gp:id":449844,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2065066",
         "wk:page":"S\u00e3o F\u00e9lix de Balsas"
     },
@@ -144,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841300,
+    "wof:lastmodified":1566626065,
     "wof:name":"S\u00e3o F\u00e9lix de Balsas",
     "wof:parent_id":102053157,
     "wof:placetype":"locality",

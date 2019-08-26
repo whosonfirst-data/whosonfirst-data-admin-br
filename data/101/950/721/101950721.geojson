@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.12673,
     "lbl:longitude":-46.426527,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.12673,
     "mps:longitude":-46.426527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u09b0\u09c7\u09b8\u09c7\u09a8\u09cd\u09a1\u09c7"
     ],
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "Nova Resende"
     ],
-    "name:unk_x_variant":[
-        "Villa Nova de Resende"
-    ],
     "name:vie_x_preferred":[
         "Nova Resende"
     ],
@@ -120,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -133,7 +133,6 @@
         "fct:id":"0386ce14-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456124,
         "gp:id":456364,
-        "qs:id":181341,
         "qs_pg:id":181341,
         "wd:id":"Q1790260",
         "wk:page":"Nova Resende"
@@ -154,7 +153,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841163,
+    "wof:lastmodified":1566624779,
     "wof:name":"Nova Resende",
     "wof:parent_id":404557419,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-16.717573,
     "lbl:longitude":-43.850965,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-16.717573,
     "mps:longitude":-43.850965,
     "mz:hierarchy_label":1,
@@ -142,7 +144,7 @@
         "Montes Claros"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bcb\u0ba9\u0bcd\u0b9f\u0bc7\u0bb8\u0bcd  \u0b95\u0bbf\u0bb3\u0bb0\u0bca\u0bb8\u0bcd"
+        "\u0bae\u0bcb\u0ba9\u0bcd\u0b9f\u0bc7\u0bb8\u0bcd \u0b95\u0bbf\u0bb3\u0bb0\u0bca\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c4c\u0c1f\u0c47\u0c38\u0c4d \u0c15\u0c4d\u0c32\u0c30\u0c4b\u0c38\u0c4d"
@@ -283,7 +285,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -297,7 +299,6 @@
         "fct:id":"0389ec16-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456814,
         "gp:id":455886,
-        "qs:id":353822,
         "qs_pg:id":353822,
         "wd:id":"Q651906",
         "wk:page":"Montes Claros"
@@ -318,7 +319,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246212,
+    "wof:lastmodified":1566625481,
     "wof:name":"Montes Claros",
     "wof:parent_id":404557309,
     "wof:placetype":"locality",

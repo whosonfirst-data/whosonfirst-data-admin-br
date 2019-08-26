@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.855305,
     "lbl:longitude":-43.919828,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.855305,
     "mps:longitude":-43.919828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u099f\u09bf\u09af\u09bc\u09be\u09b8 \u0995\u09be\u09b0\u09cd\u09a1\u09cb\u09b8\u09cb"
     ],
@@ -93,9 +96,6 @@
     "name:swe_x_preferred":[
         "Matias Cardoso"
     ],
-    "name:unk_x_variant":[
-        "P\u00f4rto Morrinhos"
-    ],
     "name:vie_x_preferred":[
         "Matias Cardoso"
     ],
@@ -127,7 +127,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -159,7 +159,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841259,
+    "wof:lastmodified":1566625492,
     "wof:name":"Matias Cardoso",
     "wof:parent_id":404557201,
     "wof:placetype":"locality",

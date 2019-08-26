@@ -9,14 +9,17 @@
     "geom:bbox":"-40.5514459223,-19.0477644716,-40.5243849687,-18.9968938746",
     "geom:latitude":-19.021257,
     "geom:longitude":-40.53775,
-    "geonames:id":"3449102,6318432",
+    "gn:id":"3449102,6318432",
     "iso:country":"BR",
     "lbl:latitude":-19.015303,
     "lbl:longitude":-40.537546,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.015303,
     "mps:longitude":-40.537546,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u0997\u09be\u09ac\u09cd\u09b0\u09bf\u09af\u09bc\u09c7\u09b2 \u09a1\u09be \u09aa\u09be\u09b2\u09b9\u09be"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":47,
     "wof:belongsto":[
         85681921,
@@ -122,9 +125,11 @@
     "wof:concordances":{
         "gn:id":6318432,
         "gp:id":458037,
-        "qs:id":8,
-        "qs_pg:id":1148259,
+        "qs_pg:id":8,
         "wd:id":"Q1798735"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1148259
     },
     "wof:country":"BR",
     "wof:geomhash":"37b6080cd3cfbf88f5684db934d59e36",
@@ -139,7 +144,7 @@
         }
     ],
     "wof:id":101954505,
-    "wof:lastmodified":1563241399,
+    "wof:lastmodified":1566623276,
     "wof:name":"S\u00e3o Gabriel da Palha",
     "wof:parent_id":404554601,
     "wof:placetype":"locality",

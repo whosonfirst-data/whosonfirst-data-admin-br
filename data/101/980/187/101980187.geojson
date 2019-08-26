@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.128253,
     "lbl:longitude":-44.186152,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.128253,
     "mps:longitude":-44.186152,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09be\u0995\u09cb\u09b2"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -106,7 +109,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"48e7a5bb6fbaf28142429878c44ef380",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101980187,
-    "wof:lastmodified":1564142027,
+    "wof:lastmodified":1566625721,
     "wof:name":"Caracol",
     "wof:parent_id":102052931,
     "wof:placetype":"locality",

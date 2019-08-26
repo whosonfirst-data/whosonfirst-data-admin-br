@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.380856,
     "lbl:longitude":-52.205055,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.380856,
     "mps:longitude":-52.205055,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09bf\u09b0\u09cd\u09ae\u09cb\u09a8\u09cd\u09a1"
     ],
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "Virmond"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mallet"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -127,7 +130,7 @@
         "fct:id":"03868f1c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3444979,
         "gp:id":455511,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q522096",
         "wk:page":"Virmond"
     },
@@ -146,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841172,
+    "wof:lastmodified":1566624841,
     "wof:name":"Virmond",
     "wof:parent_id":102058297,
     "wof:placetype":"locality",

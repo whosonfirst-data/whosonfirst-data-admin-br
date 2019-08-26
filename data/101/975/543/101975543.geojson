@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.103921,
     "lbl:longitude":-44.591321,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.103921,
     "mps:longitude":-44.591321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Queimada"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":103,
     "wof:belongsto":[
         102191577,
@@ -62,7 +65,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"b35c5f76ec711635059b7d51a6cf8de1",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101975543,
-    "wof:lastmodified":1564142657,
+    "wof:lastmodified":1566626220,
     "wof:name":"Queimada",
     "wof:parent_id":102052805,
     "wof:placetype":"locality",

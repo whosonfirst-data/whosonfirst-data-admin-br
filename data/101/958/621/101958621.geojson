@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.644506,
     "lbl:longitude":-54.228117,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.644506,
     "mps:longitude":-54.228117,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cd\u09b0\u09cb\u0997\u09cd\u09b0\u09c7\u09b8\u09b8\u09cb"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":6318079,
         "gp:id":456220,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"0661808499f091820066ca6fc2cfa694",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101958621,
-    "wof:lastmodified":1564141409,
+    "wof:lastmodified":1566625209,
     "wof:name":"Progresso",
     "wof:parent_id":404564947,
     "wof:placetype":"locality",

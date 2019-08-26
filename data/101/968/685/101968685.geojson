@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.723245,
     "lbl:longitude":-46.631184,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.723245,
     "mps:longitude":-46.631184,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Mostardas"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":6317657,
         "gp:id":90218012,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"bea40498453ab0603f5d5badc4481f10",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101968685,
-    "wof:lastmodified":1564141094,
+    "wof:lastmodified":1566624904,
     "wof:name":"Mostardas",
     "wof:parent_id":404566815,
     "wof:placetype":"locality",

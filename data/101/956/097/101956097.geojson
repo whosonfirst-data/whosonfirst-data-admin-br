@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.33777,
     "lbl:longitude":-47.167939,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-22.33777,
     "mps:longitude":-47.167939,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a8\u099a\u09be\u09b2"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682041,
@@ -72,7 +75,6 @@
         "fct:id":"0386b3a2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465731,
         "gp:id":456147,
-        "qs:id":181313,
         "qs_pg:id":181313,
         "wd:id":"Q22046322"
     },
@@ -92,7 +94,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245987,
+    "wof:lastmodified":1566625367,
     "wof:name":"Conchal",
     "wof:parent_id":404566337,
     "wof:placetype":"locality",

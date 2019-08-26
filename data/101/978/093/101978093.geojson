@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.335582,
     "lbl:longitude":-47.372572,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.335582,
     "mps:longitude":-47.372572,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09ae \u09b2\u09c1\u0997\u09be\u09b0\u09cd"
     ],
@@ -85,7 +88,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -95,7 +98,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":458946,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"33c60c97fae72d25e4640c135cecac68",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101978093,
-    "wof:lastmodified":1564140418,
+    "wof:lastmodified":1566624358,
     "wof:name":"Bom Lugar",
     "wof:parent_id":102052977,
     "wof:placetype":"locality",

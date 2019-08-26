@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.10783,
     "lbl:longitude":-51.654222,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.10783,
     "mps:longitude":-51.654222,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09bf\u09a1\u09bf\u09af\u09bc\u09be\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":147,
     "wof:belongsto":[
         102191577,
@@ -122,7 +125,7 @@
         "fct:id":"03885efa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317470,
         "gp:id":26804122,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1803623",
         "wk:page":"Lidian\u00f3polis"
     },
@@ -141,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841172,
+    "wof:lastmodified":1566624840,
     "wof:name":"Lidian\u00f3polis",
     "wof:parent_id":102057825,
     "wof:placetype":"locality",

@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-29.287045,
     "lbl:longitude":-52.600738,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-29.287045,
     "mps:longitude":-52.600738,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0997\u09cd\u09b0\u09be\u09ae\u09be\u09a1\u09cb \u0995\u09cd\u09b8\u09be\u09ad\u09bf\u09af\u09bc\u09c7\u09b0"
     ],
@@ -109,7 +112,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
         102191577,
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":102059453,
-    "wof:lastmodified":1563235411,
+    "wof:lastmodified":1566619484,
     "wof:name":"Gramado Xavier",
     "wof:parent_id":85682015,
     "wof:placetype":"county",

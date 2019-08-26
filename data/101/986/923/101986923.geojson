@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.280123,
     "lbl:longitude":-35.987209,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.280123,
     "mps:longitude":-35.987209,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0633\u0643\u0627\u0631 \u0628\u0631\u064a\u0631\u0648"
     ],
@@ -60,7 +64,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -70,10 +74,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3392301,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"cdf7a90f437ab3d604a5c4bafff628de",
+    "wof:geomhash":"f5e9b0291f3ef7c7e0c0b66599e962fa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":101986923,
-    "wof:lastmodified":1479917062,
+    "wof:lastmodified":1566626330,
     "wof:name":"Pereiros",
     "wof:parent_id":102058725,
     "wof:placetype":"locality",

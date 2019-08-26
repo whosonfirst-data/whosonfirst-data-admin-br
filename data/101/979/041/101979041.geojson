@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-17.818219,
     "lbl:longitude":-44.691693,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-17.818219,
     "mps:longitude":-44.691693,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c7\u099c\u09cb"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -92,7 +95,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"3fff0de08f3377faaa52e7f0a9ea1d02",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101979041,
-    "wof:lastmodified":1564140167,
+    "wof:lastmodified":1566624168,
     "wof:name":"Brejo",
     "wof:parent_id":404557017,
     "wof:placetype":"locality",

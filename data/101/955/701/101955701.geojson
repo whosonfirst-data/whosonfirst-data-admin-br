@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.80529,
     "lbl:longitude":-48.808463,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-20.80529,
     "mps:longitude":-48.808463,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09ad\u09c7\u09b0\u09bf\u09a8\u09bf\u09af\u09bc\u09be"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":605.0,
     "wd:latitude":-20.808889,
@@ -127,7 +130,6 @@
         "fct:id":"03867982-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3447602,
         "gp:id":452083,
-        "qs:id":147902,
         "qs_pg:id":147902,
         "wd:id":"Q1760500",
         "wk:page":"Sever\u00ednia"
@@ -147,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841091,
+    "wof:lastmodified":1566623813,
     "wof:name":"Sever\u00ednia",
     "wof:parent_id":102062291,
     "wof:placetype":"locality",

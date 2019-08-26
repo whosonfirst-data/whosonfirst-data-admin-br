@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.261959,
     "lbl:longitude":-53.404437,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-23.261959,
     "mps:longitude":-53.404437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b9\u09c7\u09b0\u09cd\u0995\u09c1\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.003611,
     "wd:longitude":-50.385278,
@@ -104,7 +107,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6317244,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"facfee9bdeb873c1ecf4406ecd4599b5",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101956585,
-    "wof:lastmodified":1564141563,
+    "wof:lastmodified":1566625411,
     "wof:name":"Hercul\u00e2ndia",
     "wof:parent_id":404561321,
     "wof:placetype":"locality",

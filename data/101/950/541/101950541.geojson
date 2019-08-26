@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.565296,
     "lbl:longitude":-37.780655,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.565296,
     "mps:longitude":-37.780655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Janda\u00edra"
     ],
@@ -85,9 +88,6 @@
     "name:spa_x_preferred":[
         "Janda\u00edra"
     ],
-    "name:unk_x_variant":[
-        "Cepo Forte"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u0627\u0646\u062f\u0627\u06cc\u0631"
     ],
@@ -115,7 +115,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":28,
     "wof:belongsto":[
         85681895,
@@ -129,7 +129,7 @@
         "fct:id":"0388b058-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460171,
         "gp:id":456281,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1999691",
         "wk:page":"Janda\u00edra"
     },
@@ -149,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841163,
+    "wof:lastmodified":1566624781,
     "wof:name":"Janda\u00edra",
     "wof:parent_id":404551303,
     "wof:placetype":"locality",

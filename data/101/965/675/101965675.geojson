@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.903132,
     "lbl:longitude":-46.261577,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.903132,
     "mps:longitude":-46.261577,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Trindade"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -98,7 +101,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"edd15d7e6a4a3d38be8399da1ba2bec2",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101965675,
-    "wof:lastmodified":1564139223,
+    "wof:lastmodified":1566623427,
     "wof:name":"Trindade",
     "wof:parent_id":404567207,
     "wof:placetype":"locality",

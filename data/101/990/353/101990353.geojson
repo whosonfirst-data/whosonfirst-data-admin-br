@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.699708,
     "lbl:longitude":-37.187046,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.699708,
     "mps:longitude":-37.187046,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09a8\u09ab\u09bf\u09ae"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -85,7 +88,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"196506c4211d83cbb4bfb4eedf17f8d8",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101990353,
-    "wof:lastmodified":1564139431,
+    "wof:lastmodified":1566623622,
     "wof:name":"Bonfim",
     "wof:parent_id":102060857,
     "wof:placetype":"locality",

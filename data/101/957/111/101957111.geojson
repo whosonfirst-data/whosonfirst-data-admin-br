@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.050901,
     "lbl:longitude":-52.082416,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.050901,
     "mps:longitude":-52.082416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09bf\u09a8\u09a1\u09cb\u0987\u09af\u09bc\u09be \u09a1\u09cb \u09b8\u09c1\u09b2"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":151,
     "wof:belongsto":[
         85682021,
@@ -126,7 +129,7 @@
         "fct:id":"03886670-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317476,
         "gp:id":26804170,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1757818",
         "wk:page":"Lind\u00f3ia do Sul"
     },
@@ -146,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841168,
+    "wof:lastmodified":1566624815,
     "wof:name":"Lind\u00f3ia do Sul",
     "wof:parent_id":404565589,
     "wof:placetype":"locality",

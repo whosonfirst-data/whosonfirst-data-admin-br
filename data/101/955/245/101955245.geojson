@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.986114,
     "lbl:longitude":-50.198538,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.986114,
     "mps:longitude":-50.198538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u09cd\u099f\u09cb\u09a8\u09bf\u0993 \u0993\u09b2\u09bf\u09a8\u099f\u09cb"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":51,
     "wof:belongsto":[
         102191577,
@@ -116,7 +119,7 @@
         "fct:id":"038578a2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471993,
         "gp:id":422062,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1809601"
     },
     "wof:country":"BR",
@@ -134,7 +137,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242559,
+    "wof:lastmodified":1566623823,
     "wof:name":"Ant\u00f4nio Olinto",
     "wof:parent_id":102057441,
     "wof:placetype":"locality",

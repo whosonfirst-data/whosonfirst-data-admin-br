@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.522405,
     "lbl:longitude":-40.342919,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.522405,
     "mps:longitude":-40.342919,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b8\u09b8\u09be\u09aa\u09c7"
     ],
@@ -74,9 +77,6 @@
     "name:swe_x_preferred":[
         "Massap\u00ea"
     ],
-    "name:unk_x_variant":[
-        "Serra Verde"
-    ],
     "name:vie_x_preferred":[
         "Massap\u00ea"
     ],
@@ -106,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":147,
     "wof:belongsto":[
         85681907,
@@ -120,7 +120,6 @@
         "fct:id":"03890ec2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3395239,
         "gp:id":456325,
-        "qs:id":1188089,
         "qs_pg:id":1188089,
         "wd:id":"Q2028110"
     },
@@ -140,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247018,
+    "wof:lastmodified":1566625886,
     "wof:name":"Massap\u00ea",
     "wof:parent_id":404553319,
     "wof:placetype":"locality",

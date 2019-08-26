@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.453883,
     "lbl:longitude":-53.077892,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.453883,
     "mps:longitude":-53.077892,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Yolanda"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":314,
     "wof:belongsto":[
         85681983,
@@ -55,7 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6318969,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"14f9b092704c8e74175076effe42f276",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101956721,
-    "wof:lastmodified":1564141566,
+    "wof:lastmodified":1566625412,
     "wof:name":"Yolanda",
     "wof:parent_id":404562037,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.745179,
     "lbl:longitude":-48.276748,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.745179,
     "mps:longitude":-48.276748,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u063a\u0648\u0633 \u0644\u064a\u0646\u062f\u0627\u0633 \u062f\u064a \u063a\u0648\u064a\u0627\u0633"
     ],
@@ -128,7 +131,7 @@
         "\u0410\u0433\u0443\u0430\u0441-\u041b\u0438\u043d\u0434\u0430\u0441-\u0434\u0438-\u0413\u043e\u044f\u0441"
     ],
     "name:sin_x_preferred":[
-        "\u0d86\u0d9c\u0dd4\u0d86\u0dc3\u0dca  \u0dbd\u0dd2\u0db1\u0dca\u0da9\u0dcf\u0dc3\u0dca \u0da9\u0dd2 \u0d9c\u0ddc\u0d89\u0dba\u0dcf\u0dc3\u0dca"
+        "\u0d86\u0d9c\u0dd4\u0d86\u0dc3\u0dca \u0dbd\u0dd2\u0db1\u0dca\u0da9\u0dcf\u0dc3\u0dca \u0da9\u0dd2 \u0d9c\u0ddc\u0d89\u0dba\u0dcf\u0dc3\u0dca"
     ],
     "name:spa_x_preferred":[
         "\u00c1guas Lindas de Goi\u00e1s"
@@ -181,7 +184,7 @@
     "qs:type":"Local urban major",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":411,
     "wof:belongsto":[
         102191577,
@@ -194,7 +197,7 @@
         "fct:id":"03887bec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316328,
         "gp:id":26804301,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q249830",
         "wk:page":"\u00c1guas Lindas de Goi\u00e1s"
     },
@@ -213,7 +216,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841061,
+    "wof:lastmodified":1566623510,
     "wof:name":"\u00c1guas Lindas de Goi\u00e1s",
     "wof:parent_id":102052007,
     "wof:placetype":"locality",

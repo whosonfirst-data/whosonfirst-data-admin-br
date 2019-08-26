@@ -9,14 +9,17 @@
     "geom:bbox":"-55.6471398857,-28.1986610838,-55.6278090258,-28.1804208167",
     "geom:latitude":-28.189235,
     "geom:longitude":-55.637352,
-    "geonames:id":"3462539,3433842",
+    "gn:id":"3462539,3433842",
     "iso:country":"BR",
     "lbl:latitude":-28.186909,
     "lbl:longitude":-55.638304,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.186909,
     "mps:longitude":-55.638304,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09be\u09b0\u09cd\u09b0\u09c1\u0995\u09b9\u09cb\u09b8"
     ],
@@ -104,7 +107,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -114,7 +117,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":445341,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1754446"
     },
     "wof:country":"BR",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101958269,
-    "wof:lastmodified":1563245656,
+    "wof:lastmodified":1566625223,
     "wof:name":"Garruchos",
     "wof:parent_id":102059431,
     "wof:placetype":"locality",

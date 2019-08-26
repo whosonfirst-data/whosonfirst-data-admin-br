@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.480508,
     "lbl:longitude":-47.460874,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-22.480508,
     "mps:longitude":-47.460874,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b0\u09cd\u09a1\u09c7\u0987\u09b0\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
     ],
@@ -87,9 +90,6 @@
     "name:swe_x_preferred":[
         "Cordeir\u00f3polis"
     ],
-    "name:unk_x_variant":[
-        "Cordeiro"
-    ],
     "name:vie_x_preferred":[
         "Cordeir\u00f3polis"
     ],
@@ -119,7 +119,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.481944,
     "wd:longitude":-47.456944,
@@ -136,7 +136,6 @@
         "fct:id":"0387af3c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465524,
         "gp:id":459248,
-        "qs:id":233909,
         "qs_pg:id":233909,
         "wd:id":"Q1750107",
         "wk:page":"Cordeir\u00f3polis"
@@ -156,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841249,
+    "wof:lastmodified":1566625399,
     "wof:name":"Cordeir\u00f3polis",
     "wof:parent_id":102061301,
     "wof:placetype":"locality",

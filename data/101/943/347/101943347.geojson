@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.221183,
     "lbl:longitude":-44.634312,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.221183,
     "mps:longitude":-44.634312,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b0\u09cd\u09a8\u09be\u0997\u09c1\u0986"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":145,
     "wof:belongsto":[
         102191577,
@@ -113,7 +116,7 @@
         "fct:id":"0386d288-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3454962,
         "gp:id":456394,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2089339",
         "wk:page":"Parnagu\u00e1"
     },
@@ -132,7 +135,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841308,
+    "wof:lastmodified":1566626100,
     "wof:name":"Parnagu\u00e1",
     "wof:parent_id":102057239,
     "wof:placetype":"locality",

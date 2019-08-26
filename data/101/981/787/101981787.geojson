@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.413535,
     "lbl:longitude":-52.090636,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.413535,
     "mps:longitude":-52.090636,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Sol Nascente"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681959,
         102191577,
@@ -65,7 +68,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"f4fc788d866ac581f2085191e59134e5",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101981787,
-    "wof:lastmodified":1564142602,
+    "wof:lastmodified":1566626196,
     "wof:name":"Sol Nascente",
     "wof:parent_id":404559471,
     "wof:placetype":"locality",

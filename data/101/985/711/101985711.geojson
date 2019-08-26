@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.833151,
     "lbl:longitude":-39.057958,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.833151,
     "mps:longitude":-39.057958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*PE",
     "qs:a1_lc":"26",
@@ -31,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":16499,
     "wof:belongsto":[
         85681973,
@@ -42,7 +45,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"519e2e015454d407a9af8ee014fe567a",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101985711,
-    "wof:lastmodified":1527688419,
+    "wof:lastmodified":1566624536,
     "wof:name":"Montevid\u00e9u",
     "wof:parent_id":404560627,
     "wof:placetype":"locality",

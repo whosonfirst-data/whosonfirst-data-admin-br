@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.544802,
     "lbl:longitude":-58.819407,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.544802,
     "mps:longitude":-58.819407,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09aa\u09c7\u099c\u0986\u09b2"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local urban major",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -100,7 +103,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"30a2125476b96244994bbd3bfe6586fd",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101960977,
-    "wof:lastmodified":1564141482,
+    "wof:lastmodified":1566625293,
     "wof:name":"Sapezal",
     "wof:parent_id":102055621,
     "wof:placetype":"locality",

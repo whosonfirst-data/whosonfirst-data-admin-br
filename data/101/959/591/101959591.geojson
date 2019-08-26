@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-31.285058,
     "lbl:longitude":-52.083318,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-31.285058,
     "mps:longitude":-52.083318,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u0995\u09c1\u09af\u09bc\u09c7\u0987\u09b0\u09be\u0993"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":147,
     "wof:belongsto":[
         85682015,
@@ -102,7 +105,7 @@
         "fct:id":"03800b9c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3469215,
         "gp:id":425745,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"49766d1f83f708373d24333098173937",
@@ -120,7 +123,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564141291,
+    "wof:lastmodified":1566625108,
     "wof:name":"Boqueir\u00e3o",
     "wof:parent_id":404564671,
     "wof:placetype":"locality",

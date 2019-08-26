@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.408034,
     "lbl:longitude":-50.135808,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.408034,
     "mps:longitude":-50.135808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09aa\u09be\u09a8\u09a1\u09c1\u09ad\u09be"
     ],
@@ -82,9 +85,6 @@
     "name:swe_x_preferred":[
         "Papanduva"
     ],
-    "name:unk_x_variant":[
-        "Papanduba"
-    ],
     "name:vie_x_preferred":[
         "Papanduva"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -130,7 +130,6 @@
         "fct:id":"0387cff8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3455189,
         "gp:id":460369,
-        "qs:id":148044,
         "qs_pg:id":148044,
         "wd:id":"Q1796797",
         "wk:page":"Papanduva"
@@ -151,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841166,
+    "wof:lastmodified":1566624801,
     "wof:name":"Papanduva",
     "wof:parent_id":404565693,
     "wof:placetype":"locality",

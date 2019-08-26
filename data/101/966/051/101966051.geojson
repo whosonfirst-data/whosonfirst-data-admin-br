@@ -12,17 +12,20 @@
     "iso:country":"BR",
     "lbl:latitude":-22.338904,
     "lbl:longitude":-44.395792,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.338904,
     "mps:longitude":-44.395792,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Pedra Selada"
     ],
     "name:por_x_variant":[
         "S\u00edtio Pedra Selada"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vargem Grande"
     ],
     "qs:a0":"Brasil",
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681991,
         102191577,
@@ -55,7 +58,9 @@
         "fct:id":"03815f9c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7547409,
         "gp:id":443615,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":961609
     },
     "wof:country":"BR",
@@ -74,7 +79,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1504301657,
+    "wof:lastmodified":1566625059,
     "wof:name":"Pedra Selada",
     "wof:parent_id":404562467,
     "wof:placetype":"locality",

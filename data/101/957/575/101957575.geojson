@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.855536,
     "lbl:longitude":-50.662076,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.855536,
     "mps:longitude":-50.662076,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lambari"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -54,7 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6317458,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a4354f62875ca9db02e330b9b9bdff9d",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101957575,
-    "wof:lastmodified":1564141023,
+    "wof:lastmodified":1566624815,
     "wof:name":"Lambari",
     "wof:parent_id":404561953,
     "wof:placetype":"locality",

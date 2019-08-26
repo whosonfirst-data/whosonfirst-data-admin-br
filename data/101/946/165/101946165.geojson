@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.792717,
     "lbl:longitude":-37.554887,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-5.792717,
     "mps:longitude":-37.554887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Cara\u00fabas"
     ],
@@ -79,9 +82,6 @@
     "name:spa_x_preferred":[
         "Cara\u00fabas"
     ],
-    "name:unk_x_variant":[
-        "Carahubas"
-    ],
     "name:vol_x_preferred":[
         "Cara\u00fabas"
     ],
@@ -108,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":153,
     "wof:belongsto":[
@@ -123,7 +123,6 @@
         "fct:id":"03871022-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3402944,
         "gp:id":456983,
-        "qs:id":342550,
         "qs_pg:id":342550,
         "wd:id":"Q2078721",
         "wk:page":"Cara\u00fabas, Rio Grande do Norte"
@@ -144,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841120,
+    "wof:lastmodified":1566624254,
     "wof:name":"Cara\u00fabas",
     "wof:parent_id":404562671,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"-48.39167,-9.56722,-48.39167,-9.56722",
     "geom:latitude":-9.56722,
     "geom:longitude":-48.39167,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
+    "lbl:bbox":"-48.41167,-9.58722,-48.37167,-9.54722",
     "lbl:latitude":-9.56722,
     "lbl:longitude":-48.39167,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u09ae\u09bf\u09b0\u09be\u09b8\u09c7\u09ae\u09be \u09a1\u09cb \u099f\u09cb\u0995\u09be\u09a8\u099f\u09bf\u09a8\u09b8"
@@ -72,7 +76,7 @@
     "name:swe_x_preferred":[
         "Miracema do Tocantins"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Xerente"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +112,7 @@
     "qs_pg:woe_adm0":23424768,
     "qs_pg:woe_id":456333,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424768,
     "woe:name_adm0":"Brasil",
     "woe:name_adm1":"Tocantins",
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":1125832415,
-    "wof:lastmodified":1561841413,
+    "wof:lastmodified":1566628476,
     "wof:name":"Miracema de Tocantins",
     "wof:parent_id":102062609,
     "wof:placetype":"locality",

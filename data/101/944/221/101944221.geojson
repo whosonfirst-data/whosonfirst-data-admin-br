@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.074726,
     "lbl:longitude":-40.376437,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-7.074726,
     "mps:longitude":-40.376437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09cd\u09aa\u09cb\u09b8 \u09b8\u09be\u09b2\u09c7\u09b8"
     ],
@@ -79,9 +82,6 @@
     "name:swe_x_preferred":[
         "Campos Sales"
     ],
-    "name:unk_x_variant":[
-        "Nova Roma"
-    ],
     "name:vie_x_preferred":[
         "Campos Sales"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -128,7 +128,6 @@
         "fct:id":"03882a66-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3403534,
         "gp:id":456943,
-        "qs:id":1209391,
         "qs_pg:id":1209391,
         "wd:id":"Q1811948"
     },
@@ -148,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247168,
+    "wof:lastmodified":1566625959,
     "wof:name":"Campos Sales",
     "wof:parent_id":404552569,
     "wof:placetype":"locality",

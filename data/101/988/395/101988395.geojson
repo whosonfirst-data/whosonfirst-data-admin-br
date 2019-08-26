@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001188,
-    "geom:area_square_m":13142247.48809,
+    "geom:area_square_m":13142247.488085,
     "geom:bbox":"-53.4529875045,-26.5267377624,-53.4044782939,-26.4748895642",
     "geom:latitude":-26.496097,
     "geom:longitude":-53.427145,
     "iso:country":"BR",
     "lbl:latitude":-26.492669,
     "lbl:longitude":-53.423476,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.492669,
     "mps:longitude":-53.423476,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Lageado"
     ],
     "qs:a0":"Brasil",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -48,7 +51,9 @@
     "wof:concordances":{
         "gn:id":3444831,
         "gp:id":437554,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":904565
     },
     "wof:country":"BR",
@@ -64,7 +69,7 @@
         }
     ],
     "wof:id":101988395,
-    "wof:lastmodified":1504301510,
+    "wof:lastmodified":1566626038,
     "wof:name":"Agrovila do pa Lageado Grande",
     "wof:parent_id":404565873,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"-38.7609610316,-4.07282849307,-38.7520574571,-4.0659474015",
     "geom:latitude":-4.068948,
     "geom:longitude":-38.757544,
-    "geonames:id":"6316677,6316678",
+    "gn:id":"6316677,6316678",
     "iso:country":"BR",
     "lbl:latitude":-4.068787,
     "lbl:longitude":-38.757915,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.068787,
     "mps:longitude":-38.757915,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0995\u09b9\u09cb\u09af\u09bc\u09c7\u0987\u09b0\u09be"
     ],
@@ -101,7 +104,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -111,7 +114,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e2313149ed8e7b7265eab73787983200",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101945687,
-    "wof:lastmodified":1564142253,
+    "wof:lastmodified":1566625896,
     "wof:name":"Cachoeira",
     "wof:parent_id":404553281,
     "wof:placetype":"locality",

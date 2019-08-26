@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.93085,
     "lbl:longitude":-42.666116,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.93085,
     "mps:longitude":-42.666116,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u09ae \u09b8\u09bf\u09b2\u09ad\u09c7\u09b0\u09bf\u0993"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":32,
     "wof:belongsto":[
         85681941,
@@ -121,7 +124,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":455432,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1756586"
     },
     "wof:country":"BR",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101980841,
-    "wof:lastmodified":1563246696,
+    "wof:lastmodified":1566625734,
     "wof:name":"Dom Silv\u00e9rio",
     "wof:parent_id":404556565,
     "wof:placetype":"locality",

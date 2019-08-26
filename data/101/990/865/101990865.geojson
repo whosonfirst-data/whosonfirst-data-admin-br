@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.819732,
     "lbl:longitude":-35.31374,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.819732,
     "mps:longitude":-35.31374,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0989\u09b0\u09c1\u0986\u0995\u09c1"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":579,
     "wof:belongsto":[
         102191577,
@@ -118,7 +121,7 @@
     "wof:concordances":{
         "gn:id":3385711,
         "gp:id":450049,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1793345"
     },
     "wof:country":"BR",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101990865,
-    "wof:lastmodified":1563242186,
+    "wof:lastmodified":1566623661,
     "wof:name":"Uruacu",
     "wof:parent_id":102058805,
     "wof:placetype":"locality",

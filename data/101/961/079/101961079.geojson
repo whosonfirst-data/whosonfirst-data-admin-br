@@ -9,17 +9,19 @@
     "geom:bbox":"-57.2965746033,-14.7955805459,-57.2702798092,-14.761670835",
     "geom:latitude":-14.779649,
     "geom:longitude":-57.280975,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":19274,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:population":19274,
     "iso:country":"BR",
     "lbl:latitude":-14.780948,
     "lbl:longitude":-57.279884,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-14.780948,
     "mps:longitude":-57.279884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Nova Ol\u00edmpia"
     ],
@@ -108,7 +110,7 @@
     "qs_pg:woe_id":56125144,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -121,7 +123,6 @@
         "fct:id":"038a5322-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456137,
         "gp:id":56125144,
-        "qs:id":844674,
         "qs_pg:id":844674,
         "wd:id":"Q2103607"
     },
@@ -140,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841186,
+    "wof:lastmodified":1566624939,
     "wof:name":"Nova Ol\u00edmpia",
     "wof:parent_id":102055521,
     "wof:placetype":"locality",

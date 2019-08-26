@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000052,
-    "geom:area_square_m":592827.078037,
+    "geom:area_square_m":592827.078035,
     "geom:bbox":"-54.4562905944,-22.544718207,-54.4474401388,-22.5328847486",
     "geom:latitude":-22.538826,
     "geom:longitude":-54.451848,
     "iso:country":"BR",
     "lbl:latitude":-22.538879,
     "lbl:longitude":-54.451848,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.538879,
     "mps:longitude":-54.451848,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*MS",
     "qs:a1_lc":"50",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681947,
         102191577,
@@ -44,7 +48,9 @@
     "wof:concordances":{
         "gn:id":6318931,
         "gp:id":458274,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1156411
     },
     "wof:country":"BR",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":101961555,
-    "wof:lastmodified":1497298589,
+    "wof:lastmodified":1566624967,
     "wof:name":"Vila Rica",
     "wof:parent_id":404559075,
     "wof:placetype":"locality",

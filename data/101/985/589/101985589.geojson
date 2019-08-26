@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.974329,
     "lbl:longitude":-39.747414,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.974329,
     "mps:longitude":-39.747414,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0648"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681973,
         102191577,
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gn:id":3406400,
         "gp:id":460687,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"8e0a17053ec76c878771830c359a0b77",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101985589,
-    "wof:lastmodified":1564140650,
+    "wof:lastmodified":1566624510,
     "wof:name":"Barro",
     "wof:parent_id":404560535,
     "wof:placetype":"locality",

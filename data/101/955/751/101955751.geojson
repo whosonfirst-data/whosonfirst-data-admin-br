@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.265683,
     "lbl:longitude":-48.492848,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-21.265683,
     "mps:longitude":-48.492848,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u099f\u09c7 \u0986\u09b2\u09cd\u099f\u09cb"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.261111,
     "wd:longitude":-48.496389,
@@ -136,7 +139,6 @@
         "fct:id":"03861474-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456873,
         "gp:id":440646,
-        "qs:id":237520,
         "qs_pg:id":237520,
         "wd:id":"Q1760626",
         "wk:page":"Monte Alto, S\u00e3o Paulo"
@@ -157,7 +159,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242632,
+    "wof:lastmodified":1566623847,
     "wof:name":"Monte Alto",
     "wof:parent_id":404566817,
     "wof:placetype":"locality",

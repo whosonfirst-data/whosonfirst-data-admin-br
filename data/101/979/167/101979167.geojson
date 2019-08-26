@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.97463,
     "lbl:longitude":-45.397041,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.97463,
     "mps:longitude":-45.397041,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09cd\u09aa\u09cb \u09a8\u09cb\u09ad\u09cb"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -100,7 +103,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"744b66b4f02e377459cffacfbc2139e4",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101979167,
-    "wof:lastmodified":1564140162,
+    "wof:lastmodified":1566624165,
     "wof:name":"Campo Novo",
     "wof:parent_id":102053247,
     "wof:placetype":"locality",

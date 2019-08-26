@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.172247,
     "lbl:longitude":-41.471461,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-19.172247,
     "mps:longitude":-41.471461,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a8\u09cd\u09b8\u09c7\u09b2\u09b9\u09c7\u0987\u09b0\u09cb \u09aa\u09c7\u09a8\u09be"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Conselheiro Pena"
     ],
-    "name:unk_x_variant":[
-        "Laj\u00e3o"
-    ],
     "name:vie_x_preferred":[
         "Conselheiro Pena"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -132,7 +132,6 @@
         "fct:id":"0387ae9c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465639,
         "gp:id":459231,
-        "qs:id":148325,
         "qs_pg:id":148325,
         "wd:id":"Q1792851"
     },
@@ -152,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245208,
+    "wof:lastmodified":1566625012,
     "wof:name":"Conselheiro Pena",
     "wof:parent_id":404556005,
     "wof:placetype":"locality",

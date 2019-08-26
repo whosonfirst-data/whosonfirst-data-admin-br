@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000048,
+    "geom:area_square_m":564037.990674,
     "geom:bbox":"-39.8356317237,-17.037211872,-39.82508859,-17.028511872",
     "geom:latitude":-17.033112,
     "geom:longitude":-39.830628,
     "iso:country":"BR",
     "lbl:latitude":-17.03274,
     "lbl:longitude":-39.830987,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-17.03274,
     "mps:longitude":-39.830987,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Piraj\u00e1"
     ],
@@ -34,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -46,7 +51,9 @@
     "wof:concordances":{
         "gn:id":3453614,
         "gp:id":444331,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":668525
     },
     "wof:country":"BR",
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":101972049,
-    "wof:lastmodified":1497298669,
+    "wof:lastmodified":1566626264,
     "wof:name":"Piraj\u00e1",
     "wof:parent_id":404551191,
     "wof:placetype":"locality",

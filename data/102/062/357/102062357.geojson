@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-20.773927,
     "lbl:longitude":-48.338753,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-20.773927,
     "mps:longitude":-48.338753,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c7\u09b0\u09b0\u09be \u09b0\u09cb\u0995\u09cd\u09b8\u09be"
     ],
@@ -94,7 +97,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":102062357,
-    "wof:lastmodified":1564132679,
+    "wof:lastmodified":1566618734,
     "wof:name":"Terra Roxa",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

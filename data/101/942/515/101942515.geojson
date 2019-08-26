@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.806975,
     "lbl:longitude":-48.619138,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-8.806975,
     "mps:longitude":-48.619138,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09bf\u09b0\u09be\u09a8\u09a1\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.133611,
     "wd:longitude":-51.101667,
@@ -117,7 +120,7 @@
     "wof:concordances":{
         "gn:id":6317599,
         "gp:id":434930,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"728ccd025216cb44ba1d0d37304cb766",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101942515,
-    "wof:lastmodified":1564142238,
+    "wof:lastmodified":1566625881,
     "wof:name":"Mirand\u00f3polis",
     "wof:parent_id":404567655,
     "wof:placetype":"locality",

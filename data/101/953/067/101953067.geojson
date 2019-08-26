@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.869486,
     "lbl:longitude":-43.779212,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-22.869486,
     "mps:longitude":-43.779212,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u062a\u0627\u063a\u0648\u0627\u064a"
     ],
@@ -152,9 +155,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0442\u0430\u0433\u0443\u0430\u0439"
     ],
-    "name:unk_x_variant":[
-        "Itaquahy"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u062a\u0627\u062c\u0648\u0627\u06cc"
     ],
@@ -187,7 +187,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":138,
     "wof:belongsto":[
@@ -202,7 +202,6 @@
         "fct:id":"0389f490-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460899,
         "gp:id":456251,
-        "qs:id":777732,
         "qs_pg:id":777732,
         "wd:id":"Q730437",
         "wk:page":"Itagua\u00ed"
@@ -223,7 +222,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241691,
+    "wof:lastmodified":1566623406,
     "wof:name":"Itagua\u00ed",
     "wof:parent_id":404562283,
     "wof:placetype":"locality",

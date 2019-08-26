@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.053918,
     "lbl:longitude":-39.857358,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.053918,
     "mps:longitude":-39.857358,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09c7\u0995\u09cd\u09b0\u09bf\u09ae"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -90,7 +93,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456458,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"469922800f0e5aabb6eccdc21865a893",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101976807,
-    "wof:lastmodified":1564140931,
+    "wof:lastmodified":1566624706,
     "wof:name":"Alecrim",
     "wof:parent_id":404551797,
     "wof:placetype":"locality",

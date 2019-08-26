@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15633275.805647,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-48.505807,-27.719063,-48.505807,-27.719063",
     "geom:latitude":-27.719063,
     "geom:longitude":-48.505807,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-48.510807,-27.724063,-48.500807,-27.714063",
     "lbl:latitude":-27.719063,
     "lbl:longitude":-48.505807,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-27.723969,
     "mps:longitude":-48.507779,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:por_x_preferred":[
-        "Morro Das Pedras"
-    ],
-    "name:unk_x_variant":[
         "Morro Das Pedras"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -57,20 +56,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682021,
         102191577,
         404565403,
         85633009,
         101958179,
-        102060383
+        102060383,
+        85682021
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56066994,
-        "qs:id":238767
+        "qs_pg:id":238767
     },
     "wof:country":"BR",
     "wof:geomhash":"47651c4fa4f6eafae17f6e6116396089",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859202,
+    "wof:lastmodified":1566620779,
     "wof:name":"Morro Das Pedras",
     "wof:parent_id":101958179,
     "wof:placetype":"neighbourhood",

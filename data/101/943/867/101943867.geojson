@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.320489,
     "lbl:longitude":-41.552803,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-5.320489,
     "mps:longitude":-41.552803,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b8\u099f\u09c7\u09b2\u09cb \u09a1\u09cb \u09aa\u09bf\u09af\u09bc\u09be\u0989\u0987"
     ],
@@ -77,9 +80,6 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0441\u0442\u0435\u043b\u0443-\u0434\u0443-\u041f\u0438\u0430\u0443\u0438"
     ],
-    "name:unk_x_variant":[
-        "Marv\u00e3o"
-    ],
     "name:vie_x_preferred":[
         "Castelo do Piau\u00ed"
     ],
@@ -110,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":147,
     "wof:belongsto":[
@@ -124,7 +124,6 @@
         "fct:id":"03891728-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3402548,
         "gp:id":457005,
-        "qs:id":1044463,
         "qs_pg:id":1044463,
         "wd:id":"Q2078710",
         "wk:page":"Castelo do Piau\u00ed"
@@ -144,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841306,
+    "wof:lastmodified":1566626091,
     "wof:name":"Castelo do Piau\u00ed",
     "wof:parent_id":102057025,
     "wof:placetype":"locality",

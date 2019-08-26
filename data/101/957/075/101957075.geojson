@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.074944,
     "lbl:longitude":-52.134642,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.074944,
     "mps:longitude":-52.134642,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09aa\u09c1\u09ae\u09bf\u09b0\u09bf\u09ae"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Ipumirim"
     ],
-    "name:unk_x_variant":[
-        "Rio Branco"
-    ],
     "name:vie_x_preferred":[
         "Ipumirim"
     ],
@@ -119,7 +119,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -132,7 +132,7 @@
         "fct:id":"038731f6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461064,
         "gp:id":457312,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1758047",
         "wk:page":"Ipumirim"
     },
@@ -152,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841170,
+    "wof:lastmodified":1566624833,
     "wof:name":"Ipumirim",
     "wof:parent_id":404565501,
     "wof:placetype":"locality",

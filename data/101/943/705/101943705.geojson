@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.793989,
     "lbl:longitude":-42.393689,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.793989,
     "mps:longitude":-42.393689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u099c\u09be\u099c\u09af\u09bc\u09c7\u0987\u09b0\u09be\u09b8 \u09a1\u09cb \u09aa\u09bf\u09af\u09bc\u09be\u0989\u0987"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":149,
     "wof:belongsto":[
         102191577,
@@ -113,7 +116,7 @@
         "fct:id":"03893438-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316701,
         "gp:id":26803945,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2064526",
         "wk:page":"Cajazeiras do Piau\u00ed"
     },
@@ -132,7 +135,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841308,
+    "wof:lastmodified":1566626103,
     "wof:name":"Cajazeiras do Piau\u00ed",
     "wof:parent_id":102056991,
     "wof:placetype":"locality",

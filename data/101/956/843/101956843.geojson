@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.974564,
     "lbl:longitude":-52.745109,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.974564,
     "mps:longitude":-52.745109,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Figueira"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -70,7 +73,7 @@
     "wof:concordances":{
         "gn:id":6317139,
         "gp:id":26804174,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a91effc5c522fa2b8a4656a458f6543a",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101956843,
-    "wof:lastmodified":1564141532,
+    "wof:lastmodified":1566625358,
     "wof:name":"Figueira",
     "wof:parent_id":404565321,
     "wof:placetype":"locality",

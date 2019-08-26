@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.279037,
     "lbl:longitude":-41.563018,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.279037,
     "mps:longitude":-41.563018,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10d0\u10e0\u10e3\u10d4\u10d8\u10e0\u10d0\u10e1-\u10d3\u10e3-\u10d8\u10e2\u10d0\u10d8\u10dc\u10d8"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -52,7 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e75a04a64d192a54370b9a1b9d329215",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101943905,
-    "wof:lastmodified":1564142506,
+    "wof:lastmodified":1566626111,
     "wof:name":"Aroeiras do Itaim",
     "wof:parent_id":102056933,
     "wof:placetype":"locality",

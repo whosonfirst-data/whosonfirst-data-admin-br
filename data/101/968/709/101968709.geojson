@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-17.739991,
     "lbl:longitude":-46.181197,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-17.739991,
     "mps:longitude":-46.181197,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u099c\u09cb\u09af\u09bc\u09be\u0993 \u09aa\u09bf\u09a8\u09b9\u09c7\u0987\u09b0\u09cb"
     ],
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -135,7 +138,6 @@
         "fct:id":"03873e12-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3459785,
         "gp:id":457431,
-        "qs:id":820018,
         "qs_pg:id":820018,
         "wd:id":"Q675677"
     },
@@ -155,7 +157,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244879,
+    "wof:lastmodified":1566624865,
     "wof:name":"Jo\u00e3o Pinheiro",
     "wof:parent_id":404556913,
     "wof:placetype":"locality",

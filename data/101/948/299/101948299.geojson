@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.827051,
     "lbl:longitude":-35.887907,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.827051,
     "mps:longitude":-35.887907,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u09b0\u09be \u09a1\u09c7 \u09b8\u09be\u0993 \u09ae\u09bf\u0997\u09c1\u09f1\u09c7\u09b2"
     ],
@@ -78,9 +81,6 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u0440\u0440\u0430-\u0434\u0438-\u0421\u0430\u043d-\u041c\u0438\u0433\u0435\u043b"
     ],
-    "name:unk_x_variant":[
-        "Barra Nova"
-    ],
     "name:vol_x_preferred":[
         "Barra de S\u00e3o Miguel"
     ],
@@ -107,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":732,
     "wof:belongsto":[
         102191577,
@@ -120,7 +120,6 @@
         "fct:id":"0386fc40-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3406330,
         "gp:id":456768,
-        "qs:id":454484,
         "qs_pg:id":454484,
         "wd:id":"Q2027348",
         "wk:page":"Barra de S\u00e3o Miguel, Alagoas"
@@ -140,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841110,
+    "wof:lastmodified":1566623927,
     "wof:name":"Barra de S\u00e3o Miguel",
     "wof:parent_id":102050069,
     "wof:placetype":"locality",

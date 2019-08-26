@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.600455,
     "lbl:longitude":-48.708648,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-18.600455,
     "mps:longitude":-48.708648,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c1\u09aa\u09be\u09b8\u09bf\u0997\u09c1\u09f1\u09be\u09b0\u09be"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Tupaciguara"
     ],
-    "name:unk_x_variant":[
-        "Tupacyguara"
-    ],
     "name:vie_x_preferred":[
         "Tupaciguara"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -132,7 +132,6 @@
         "fct:id":"0386e9a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3445941,
         "gp:id":456579,
-        "qs:id":260325,
         "qs_pg:id":260325,
         "wd:id":"Q1787184",
         "wk:page":"Tupaciguara"
@@ -153,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841083,
+    "wof:lastmodified":1566623758,
     "wof:name":"Tupaciguara",
     "wof:parent_id":404558635,
     "wof:placetype":"locality",

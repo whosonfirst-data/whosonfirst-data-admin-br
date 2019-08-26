@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.376888,
     "lbl:longitude":-35.452775,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-8.376888,
     "mps:longitude":-35.452775,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09be\u09b0\u09be\u099c\u09bf"
     ],
@@ -78,9 +81,6 @@
     "name:swe_x_preferred":[
         "Amaraji"
     ],
-    "name:unk_x_variant":[
-        "Amaragy"
-    ],
     "name:vie_x_preferred":[
         "Amaraji"
     ],
@@ -110,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -123,7 +123,6 @@
         "fct:id":"0386f164-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3407758,
         "gp:id":456657,
-        "qs:id":1246773,
         "qs_pg:id":1246773,
         "wd:id":"Q1839783"
     },
@@ -142,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242741,
+    "wof:lastmodified":1566623879,
     "wof:name":"Amaraji",
     "wof:parent_id":102056507,
     "wof:placetype":"locality",

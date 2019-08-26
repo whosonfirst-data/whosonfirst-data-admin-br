@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.820929,
     "lbl:longitude":-53.373826,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.820929,
     "mps:longitude":-53.373826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09c7\u09b8\u099f\u09bf\u0999\u09cd\u0997\u09be \u09b8\u09c7\u0995\u09be"
     ],
@@ -80,9 +83,6 @@
     "name:swe_x_preferred":[
         "Restinga Seca"
     ],
-    "name:unk_x_variant":[
-        "Restinga Secca"
-    ],
     "name:vie_x_preferred":[
         "Restinga Seca"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -124,7 +124,6 @@
         "fct:id":"03880888-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451632,
         "gp:id":457921,
-        "qs:id":147976,
         "qs_pg:id":147976,
         "wd:id":"Q1757460",
         "wk:page":"Restinga Seca"
@@ -144,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242083,
+    "wof:lastmodified":1566623605,
     "wof:name":"Restinga Seca",
     "wof:parent_id":102059803,
     "wof:placetype":"locality",

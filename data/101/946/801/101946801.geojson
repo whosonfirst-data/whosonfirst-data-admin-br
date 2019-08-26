@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.144757,
     "lbl:longitude":-35.237985,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.144757,
     "mps:longitude":-35.237985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09cb\u09ac\u09cd\u09b0\u09be\u09a1\u09cb"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -109,7 +112,6 @@
         "fct:id":"03884e9c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6318708,
         "gp:id":26804021,
-        "qs:id":1234615,
         "qs_pg:id":1234615,
         "wd:id":"Q2078739"
     },
@@ -128,7 +130,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243548,
+    "wof:lastmodified":1566624274,
     "wof:name":"Sobrado",
     "wof:parent_id":102056449,
     "wof:placetype":"locality",

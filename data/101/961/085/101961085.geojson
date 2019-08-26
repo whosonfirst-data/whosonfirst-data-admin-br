@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.019904,
     "lbl:longitude":-57.092767,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.019904,
     "mps:longitude":-57.092767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u09ae\u09be\u09b0\u09bf\u09a8\u0997\u09be"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":151,
     "wof:belongsto":[
         102191577,
@@ -122,7 +125,7 @@
         "fct:id":"03894de2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317750,
         "gp:id":55943625,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q962134",
         "wk:page":"Nova Maring\u00e1"
     },
@@ -141,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841186,
+    "wof:lastmodified":1566624944,
     "wof:name":"Nova Maring\u00e1",
     "wof:parent_id":102055659,
     "wof:placetype":"locality",

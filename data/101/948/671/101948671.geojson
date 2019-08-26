@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.994158,
     "lbl:longitude":-35.032829,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-7.994158,
     "mps:longitude":-35.032829,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0648 \u0644\u0648\u0631\u064a\u0646\u0643\u0648 \u062f\u0627 \u0645\u0627\u062a\u0627"
     ],
@@ -148,7 +151,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041b\u043e\u0443\u0440\u0435\u043d\u0441\u0443-\u0434\u0430-\u041c\u0430\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Louren\u00e7o"
     ],
     "name:urd_x_preferred":[
@@ -183,7 +186,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":212,
     "wof:belongsto":[
@@ -198,7 +201,6 @@
         "fct:id":"038a09bc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3388376,
         "gp:id":450733,
-        "qs:id":1044251,
         "qs_pg:id":1044251,
         "wd:id":"Q1796467",
         "wk:page":"S\u00e3o Louren\u00e7o da Mata"
@@ -219,7 +221,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841107,
+    "wof:lastmodified":1566623912,
     "wof:name":"S\u00e3o Louren\u00e7o da Mata",
     "wof:parent_id":404560691,
     "wof:placetype":"locality",

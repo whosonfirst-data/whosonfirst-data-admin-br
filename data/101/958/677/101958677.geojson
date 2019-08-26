@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.315613,
     "lbl:longitude":-54.098393,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.315613,
     "mps:longitude":-54.098393,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Santa Tereza"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -52,7 +55,7 @@
     "wof:concordances":{
         "gn:id":6318306,
         "gp:id":90218464,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a73e2a3e658810232a2709b255efe29d",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101958677,
-    "wof:lastmodified":1564141445,
+    "wof:lastmodified":1566625251,
     "wof:name":"Santa Tereza",
     "wof:parent_id":404563339,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.493003,
     "lbl:longitude":-50.102845,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.493003,
     "mps:longitude":-50.102845,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Itati"
     ],
@@ -67,7 +70,7 @@
     "name:rus_x_preferred":[
         "\u0418\u0442\u0430\u0442\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Itapeva"
     ],
     "name:vie_x_preferred":[
@@ -100,7 +103,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -111,7 +114,7 @@
     "wof:concordances":{
         "gn:id":3460605,
         "gp:id":436149,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1785875",
         "wk:page":"Itati"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101960815,
-    "wof:lastmodified":1561841234,
+    "wof:lastmodified":1566625315,
     "wof:name":"Itati",
     "wof:parent_id":102059519,
     "wof:placetype":"locality",

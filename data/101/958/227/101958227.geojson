@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.13301,
     "lbl:longitude":-56.553496,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-29.13301,
     "mps:longitude":-56.553496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u0995\u09c1\u0987"
     ],
@@ -107,9 +110,6 @@
     "name:swe_x_preferred":[
         "Itaqui"
     ],
-    "name:unk_x_variant":[
-        "Itaquy"
-    ],
     "name:vie_x_preferred":[
         "Itaqui"
     ],
@@ -139,7 +139,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682015,
@@ -153,7 +153,6 @@
         "fct:id":"0386c1a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460629,
         "gp:id":456268,
-        "qs:id":1278148,
         "qs_pg:id":1278148,
         "wd:id":"Q1750103"
     },
@@ -173,7 +172,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245616,
+    "wof:lastmodified":1566625206,
     "wof:name":"Itaqui",
     "wof:parent_id":404563781,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.482814,
     "lbl:longitude":-46.54561,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-19.482814,
     "mps:longitude":-46.54561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09bf\u0986"
     ],
@@ -95,9 +98,6 @@
     "name:swe_x_preferred":[
         "Ibi\u00e1"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Pedro d'Alcantara"
-    ],
     "name:vie_x_preferred":[
         "Ibi\u00e1"
     ],
@@ -127,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":546,
     "wof:belongsto":[
@@ -142,7 +142,6 @@
         "fct:id":"0386bc9e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461620,
         "gp:id":456224,
-        "qs:id":210680,
         "qs_pg:id":210680,
         "wd:id":"Q1756458",
         "wk:page":"Ibi\u00e1"
@@ -163,7 +162,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244644,
+    "wof:lastmodified":1566624766,
     "wof:name":"Ibi\u00e1",
     "wof:parent_id":404556581,
     "wof:placetype":"locality",

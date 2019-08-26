@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.655339,
     "lbl:longitude":-35.32179,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-7.655339,
     "mps:longitude":-35.32179,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09bf\u0995\u09c7\u09a8\u09cd\u09b8\u09bf\u09af\u09bc\u09be"
     ],
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":161,
     "wof:belongsto":[
@@ -128,7 +131,6 @@
         "fct:id":"0386ebd8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3385118,
         "gp:id":456597,
-        "qs:id":181414,
         "qs_pg:id":181414,
         "wd:id":"Q2010783",
         "wk:page":"Vic\u00eancia"
@@ -149,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242878,
+    "wof:lastmodified":1566623928,
     "wof:name":"Vic\u00eancia",
     "wof:parent_id":404560797,
     "wof:placetype":"locality",

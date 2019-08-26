@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.837123,
     "lbl:longitude":-44.649948,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":-4.837123,
     "mps:longitude":-44.649948,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Fortaleza"
     ],
@@ -307,7 +310,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:area":314.93,
     "wd:elevation":21.0,
@@ -324,7 +327,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56073640,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"296c1846db0d4ed86d7c29559f3f33e9",
@@ -338,7 +341,7 @@
         }
     ],
     "wof:id":101979457,
-    "wof:lastmodified":1564140249,
+    "wof:lastmodified":1566624207,
     "wof:name":"Fortaleza",
     "wof:parent_id":102053091,
     "wof:placetype":"locality",

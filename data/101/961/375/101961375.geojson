@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.849605,
     "lbl:longitude":-55.173712,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.849605,
     "mps:longitude":-55.173712,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nova Santa Helena"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -98,7 +101,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":458180,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"BR",
     "wof:geomhash":"ac48c2fc993944df18cd54ce396a7644",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101961375,
-    "wof:lastmodified":1564141169,
+    "wof:lastmodified":1566624998,
     "wof:name":"Nova Santa Helena",
     "wof:parent_id":102055513,
     "wof:placetype":"locality",

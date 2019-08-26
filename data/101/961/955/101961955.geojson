@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.183294,
     "lbl:longitude":-51.401125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.183294,
     "mps:longitude":-51.401125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lagoa Santa"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -101,7 +104,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26804317,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2099571"
     },
     "wof:country":"BR",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101961955,
-    "wof:lastmodified":1561841185,
+    "wof:lastmodified":1566624937,
     "wof:name":"Lagoa Santa",
     "wof:parent_id":102052351,
     "wof:placetype":"locality",

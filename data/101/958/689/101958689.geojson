@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-29.696983,
     "lbl:longitude":-53.79818,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-29.696983,
     "mps:longitude":-53.79818,
     "mz:hierarchy_label":1,
@@ -182,7 +184,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u041c\u0430\u0440\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Maria da Boca do Monte"
     ],
     "name:urd_x_preferred":[
@@ -312,7 +314,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1550,
     "wof:belongsto":[
@@ -327,7 +329,6 @@
         "fct:id":"0389ee14-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3450083,
         "gp:id":455908,
-        "qs:id":212242,
         "qs_pg:id":212242,
         "wd:id":"Q740833",
         "wk:page":"Santa Maria, Rio Grande do Sul"
@@ -348,7 +349,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245632,
+    "wof:lastmodified":1566625211,
     "wof:name":"Santa Maria",
     "wof:parent_id":404564395,
     "wof:placetype":"locality",

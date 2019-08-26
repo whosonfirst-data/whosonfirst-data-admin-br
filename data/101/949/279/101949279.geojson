@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.951623,
     "lbl:longitude":-42.461144,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.951623,
     "mps:longitude":-42.461144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b0\u09bf\u09b2\u09cb"
     ],
@@ -118,7 +121,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -131,7 +134,7 @@
         "fct:id":"0386ff6a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3470065,
         "gp:id":456806,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1756010",
         "wk:page":"Berilo"
     },
@@ -151,7 +154,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841150,
+    "wof:lastmodified":1566624584,
     "wof:name":"Berilo",
     "wof:parent_id":404555423,
     "wof:placetype":"locality",

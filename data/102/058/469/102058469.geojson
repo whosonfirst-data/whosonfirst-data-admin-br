@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-21.779266,
     "lbl:longitude":-41.089367,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-21.779266,
     "mps:longitude":-41.089367,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u099c\u09cb\u09af\u09bc\u09be\u0993 \u09a1\u09be \u09ac\u09be\u09b0\u09cd\u09b0\u09be"
     ],
@@ -73,7 +76,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":102058469,
-    "wof:lastmodified":1560547677,
+    "wof:lastmodified":1566620048,
     "wof:name":"Sao Joao da Barra",
     "wof:parent_id":85681991,
     "wof:placetype":"county",

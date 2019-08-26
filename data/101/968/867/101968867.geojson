@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.716166,
     "lbl:longitude":-43.977138,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.716166,
     "mps:longitude":-43.977138,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u099c\u09cb\u09b8\u09c7 \u09a1\u09be \u09b2\u09be\u09aa\u09be"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         85681941,
@@ -127,9 +130,11 @@
     "wof:concordances":{
         "gn:id":6318487,
         "gp:id":461129,
-        "qs:id":9,
-        "qs_pg:id":1134711,
+        "qs_pg:id":9,
         "wd:id":"Q1787340"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1134711
     },
     "wof:country":"BR",
     "wof:geomhash":"1e82437e63afce357e3d19157a69c3c8",
@@ -144,7 +149,7 @@
         }
     ],
     "wof:id":101968867,
-    "wof:lastmodified":1563244911,
+    "wof:lastmodified":1566624881,
     "wof:name":"S\u00e3o Jos\u00e9 da Lapa",
     "wof:parent_id":404558363,
     "wof:placetype":"locality",

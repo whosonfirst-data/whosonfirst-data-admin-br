@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.37341,
     "lbl:longitude":-44.333658,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.37341,
     "mps:longitude":-44.333658,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09b0\u09bf\u099f\u09cb\u09b0\u09cb"
     ],
@@ -85,9 +88,6 @@
     "name:tet_x_preferred":[
         "Peritor\u00f3"
     ],
-    "name:unk_x_variant":[
-        "Santa Filomena"
-    ],
     "name:vie_x_preferred":[
         "Peritor\u00f3"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":147,
     "wof:belongsto":[
         102191577,
@@ -130,7 +130,6 @@
         "fct:id":"03890fc6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3392272,
         "gp:id":456408,
-        "qs:id":327251,
         "qs_pg:id":327251,
         "wd:id":"Q1941672",
         "wk:page":"Peritor\u00f3"
@@ -150,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841312,
+    "wof:lastmodified":1566626119,
     "wof:name":"Peritor\u00f3",
     "wof:parent_id":102053081,
     "wof:placetype":"locality",

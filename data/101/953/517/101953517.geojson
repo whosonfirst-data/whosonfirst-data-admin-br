@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.935549,
     "lbl:longitude":-42.606819,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-21.935549,
     "mps:longitude":-42.606819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09cd\u09ae\u09cb"
     ],
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681991,
@@ -127,7 +130,6 @@
         "fct:id":"0385a75a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3466913,
         "gp:id":428579,
-        "qs:id":148383,
         "qs_pg:id":148383,
         "wd:id":"Q1765089"
     },
@@ -147,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241613,
+    "wof:lastmodified":1566623372,
     "wof:name":"Carmo",
     "wof:parent_id":404562221,
     "wof:placetype":"locality",

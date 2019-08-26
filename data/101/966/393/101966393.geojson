@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.828842,
     "lbl:longitude":-42.316522,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-19.828842,
     "mps:longitude":-42.316522,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09ae \u099c\u09c7\u09b8\u09c1\u09b8 \u09a1\u09cb \u0997\u09be\u09b2\u09b9\u09cb"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -123,7 +126,6 @@
         "fct:id":"038703c0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3469426,
         "gp:id":456840,
-        "qs:id":181458,
         "qs_pg:id":181458,
         "wd:id":"Q891733",
         "wk:page":"Bom Jesus do Galho"
@@ -144,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841199,
+    "wof:lastmodified":1566625040,
     "wof:name":"Bom Jesus do Galho",
     "wof:parent_id":404555471,
     "wof:placetype":"locality",

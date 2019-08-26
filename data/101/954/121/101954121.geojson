@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.43511,
     "lbl:longitude":-41.447446,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.43511,
     "mps:longitude":-41.447446,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "S\u00e3o Pedro"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681921,
         102191577,
@@ -92,7 +95,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"721410dd9927e0c4376dc6bbf2f3eaa0",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101954121,
-    "wof:lastmodified":1564139113,
+    "wof:lastmodified":1566623305,
     "wof:name":"S\u00e3o Pedro",
     "wof:parent_id":404554525,
     "wof:placetype":"locality",

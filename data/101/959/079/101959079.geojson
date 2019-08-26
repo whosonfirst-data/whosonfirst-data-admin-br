@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-32.502982,
     "lbl:longitude":-52.581122,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.502982,
     "mps:longitude":-52.581122,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Taim"
     ],
@@ -23,9 +26,6 @@
         "Taim"
     ],
     "name:por_x_variant":[
-        "Tahim"
-    ],
-    "name:unk_x_variant":[
         "Tahim"
     ],
     "qs:a0":"Brasil",
@@ -45,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -58,10 +58,12 @@
         "fct:id":"0382a79e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3447067,
         "gp:id":458140,
-        "qs:id":9,
-        "qs_pg:id":1055237,
+        "qs_pg:id":9,
         "wd:id":"Q956641",
         "wk:page":"Taim Ecological Station"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1055237
     },
     "wof:country":"BR",
     "wof:geomhash":"1d022d790ea769c23b771ddd83c49f64",
@@ -79,7 +81,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245333,
+    "wof:lastmodified":1566625081,
     "wof:name":"Taim",
     "wof:parent_id":404564255,
     "wof:placetype":"locality",

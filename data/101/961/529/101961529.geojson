@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.912827,
     "lbl:longitude":-54.70831,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.912827,
     "mps:longitude":-54.70831,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u099f\u09c7\u09b0\u09c7\u099c\u09bf\u09a8\u09b9\u09be"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681947,
         102191577,
@@ -93,7 +96,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6318313,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"94842297e66738d3dc58e9f871ef9d75",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101961529,
-    "wof:lastmodified":1564141143,
+    "wof:lastmodified":1566624961,
     "wof:name":"Santa Terezinha",
     "wof:parent_id":404558979,
     "wof:placetype":"locality",

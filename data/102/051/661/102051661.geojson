@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-4.928214,
     "lbl:longitude":-40.046833,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-4.928214,
     "mps:longitude":-40.046833,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u09b8\u09c7\u09a8\u09b9\u09cb\u09b0\u09cd \u099f\u09be\u09ac\u09cb\u09b8\u09be"
     ],
@@ -109,7 +112,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":146,
     "wof:belongsto":[
         102191577,
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":102051661,
-    "wof:lastmodified":1563236077,
+    "wof:lastmodified":1566619890,
     "wof:name":"Monsenhor Tabosa",
     "wof:parent_id":85681907,
     "wof:placetype":"county",

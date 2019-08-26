@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.884383,
     "lbl:longitude":-42.251968,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-2.884383,
     "mps:longitude":-42.251968,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tamboril"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681931,
         102191577,
@@ -56,7 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"3877c8f1348b081a4aec3dc95ad28c44",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101981167,
-    "wof:lastmodified":1564142522,
+    "wof:lastmodified":1566626145,
     "wof:name":"Tamboril",
     "wof:parent_id":404555097,
     "wof:placetype":"locality",

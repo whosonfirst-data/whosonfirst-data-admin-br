@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.854658,
     "lbl:longitude":-44.80605,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.854658,
     "mps:longitude":-44.80605,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09ae \u099c\u09c7\u09b8\u09c1\u09b8 \u09a1\u09cb \u0993\u098f\u09b8\u09cd\u099f\u09c7"
     ],
@@ -34,7 +37,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -45,7 +48,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":428546,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"d9bb46385d03af153aa807bcaf66778b",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101979123,
-    "wof:lastmodified":1564140257,
+    "wof:lastmodified":1566624211,
     "wof:name":"Bom Jesus do Oeste",
     "wof:parent_id":404555963,
     "wof:placetype":"locality",

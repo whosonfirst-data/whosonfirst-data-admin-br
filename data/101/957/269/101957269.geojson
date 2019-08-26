@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.317249,
     "lbl:longitude":-51.563082,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.317249,
     "mps:longitude":-51.563082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09ac\u09be\u0989\u09a1\u09bf\u09af\u09bc\u09be"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":145,
     "wof:belongsto":[
         102191577,
@@ -122,7 +125,7 @@
         "fct:id":"03864f2a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3450812,
         "gp:id":447637,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1775808",
         "wk:page":"Sab\u00e1udia"
     },
@@ -141,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841167,
+    "wof:lastmodified":1566624809,
     "wof:name":"Sab\u00e1udia",
     "wof:parent_id":102058113,
     "wof:placetype":"locality",

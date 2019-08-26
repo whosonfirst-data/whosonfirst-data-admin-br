@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.833814,
     "lbl:longitude":-42.402995,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.833814,
     "mps:longitude":-42.402995,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b0\u09cd\u09b0\u09c7\u0997\u09cb \u09a8\u09cb\u09ad\u09cb"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":150,
     "wof:belongsto":[
         85681941,
@@ -123,7 +126,7 @@
         "fct:id":"0387afaa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465421,
         "gp:id":459254,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1791989",
         "wk:page":"C\u00f3rrego Novo"
     },
@@ -143,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246229,
+    "wof:lastmodified":1566625486,
     "wof:name":"C\u00f3rrego Novo",
     "wof:parent_id":404556103,
     "wof:placetype":"locality",

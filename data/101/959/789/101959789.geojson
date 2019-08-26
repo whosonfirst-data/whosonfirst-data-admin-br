@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-30.083145,
     "lbl:longitude":-51.736032,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-30.083145,
     "mps:longitude":-51.736032,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b0\u09cd\u09b0\u09cb\u0987\u0993 \u09a1\u09cb\u09b8 \u09b0\u09be\u099f\u09cb\u09b8"
     ],
@@ -104,7 +107,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -117,7 +120,7 @@
         "fct:id":"038a12cc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471425,
         "gp:id":456052,
-        "qs:id":148474,
+        "qs_pg:id":148474,
         "wd:id":"Q1750199"
     },
     "wof:country":"BR",
@@ -135,7 +138,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245456,
+    "wof:lastmodified":1566625131,
     "wof:name":"Arroio dos Ratos",
     "wof:parent_id":102059089,
     "wof:placetype":"locality",

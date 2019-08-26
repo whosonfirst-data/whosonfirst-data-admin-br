@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.378116,
     "lbl:longitude":-45.259717,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.378116,
     "mps:longitude":-45.259717,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Barraigh"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -123,7 +126,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8477261,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"1a4ebf4ecaee86eac08a0b74a4d0c67a",
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101965951,
-    "wof:lastmodified":1564139256,
+    "wof:lastmodified":1566623457,
     "wof:name":"Barra",
     "wof:parent_id":404556155,
     "wof:placetype":"locality",

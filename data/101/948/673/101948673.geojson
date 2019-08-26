@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.63063,
     "lbl:longitude":-34.816761,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.63063,
     "mps:longitude":-34.816761,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u09a8\u09cd\u099f\u09be \u09a1\u09c7 \u09aa\u09c7\u09a1\u09cd\u09b0\u09be\u09b8"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681973,
         102191577,
@@ -61,7 +64,9 @@
         "fct:id":"038175c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7602386,
         "gp:id":444949,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":246728
     },
     "wof:country":"BR",
@@ -80,7 +85,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564139705,
+    "wof:lastmodified":1566623884,
     "wof:name":"Ponta de Pedras",
     "wof:parent_id":404560373,
     "wof:placetype":"locality",

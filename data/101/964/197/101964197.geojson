@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-25.363612,
     "lbl:longitude":-49.170584,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-25.363612,
     "mps:longitude":-49.170584,
     "mz:hierarchy_label":1,
@@ -292,7 +294,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":105,
     "wof:belongsto":[
@@ -307,10 +309,12 @@
         "fct:id":"038a17c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465927,
         "gp:id":459204,
-        "qs:id":353333,
         "qs_pg:id":292356,
         "wd:id":"Q926688",
         "wk:page":"Colombo, Paran\u00e1"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":353333
     },
     "wof:country":"BR",
     "wof:geomhash":"520afc5c5af2e5fdb14017bec2755883",
@@ -328,7 +332,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242295,
+    "wof:lastmodified":1566623711,
     "wof:megacity":0,
     "wof:name":"Colombo",
     "wof:parent_id":404561065,

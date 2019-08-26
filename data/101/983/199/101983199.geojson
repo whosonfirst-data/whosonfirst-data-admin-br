@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-1.335987,
     "lbl:longitude":-47.538545,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-1.335987,
     "mps:longitude":-47.538545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jeju"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":74,
     "wof:belongsto":[
         102191577,
@@ -87,7 +90,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456500,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"5ef9067c24e2735f27620ee8ff0e6498",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101983199,
-    "wof:lastmodified":1564139909,
+    "wof:lastmodified":1566624027,
     "wof:name":"Jeju",
     "wof:parent_id":102055911,
     "wof:placetype":"locality",

@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-9.803011,
     "lbl:longitude":-36.729952,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-9.803011,
     "mps:longitude":-36.729952,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u0997\u09cb\u09af\u09bc\u09be \u09a1\u09be \u0995\u09be\u09a8\u09cb\u09af\u09bc\u09be"
     ],
@@ -115,7 +118,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191577,
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":102050157,
-    "wof:lastmodified":1563235534,
+    "wof:lastmodified":1566619537,
     "wof:name":"Lagoa Da Canoa",
     "wof:parent_id":85681879,
     "wof:placetype":"county",

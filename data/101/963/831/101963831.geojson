@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.902812,
     "lbl:longitude":-50.726602,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-22.902812,
     "mps:longitude":-50.726602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09cd\u09b2\u09cb\u09b0\u09bf\u09a8\u09bf\u09af\u09bc\u09be"
     ],
@@ -85,7 +88,7 @@
     "name:swe_x_preferred":[
         "Flor\u00ednia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pantano"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.902778,
     "wd:longitude":-50.737778,
@@ -134,7 +137,6 @@
         "fct:id":"03823d72-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3463227,
         "gp:id":433815,
-        "qs:id":875305,
         "qs_pg:id":875305,
         "wd:id":"Q1761119"
     },
@@ -153,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242084,
+    "wof:lastmodified":1566623605,
     "wof:name":"Flor\u00ednia",
     "wof:parent_id":102061405,
     "wof:placetype":"locality",

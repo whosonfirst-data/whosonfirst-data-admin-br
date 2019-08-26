@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.622319,
     "lbl:longitude":-53.207974,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.622319,
     "mps:longitude":-53.207974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be \u09b9\u09c7\u09b2\u09c7\u09a8\u09be"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -113,7 +116,7 @@
         "fct:id":"03860984-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457745,
         "gp:id":439645,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2003784",
         "wk:page":"Maria Helena"
     },
@@ -133,7 +136,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841243,
+    "wof:lastmodified":1566625368,
     "wof:name":"Maria Helena",
     "wof:parent_id":404561437,
     "wof:placetype":"locality",

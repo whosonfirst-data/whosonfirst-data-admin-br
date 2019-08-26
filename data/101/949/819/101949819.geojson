@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-12.529813,
     "lbl:longitude":-40.301384,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-12.529813,
     "mps:longitude":-40.301384,
     "mz:hierarchy_label":1,
@@ -199,7 +201,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -213,7 +215,6 @@
         "fct:id":"0386bfdc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460966,
         "gp:id":456249,
-        "qs:id":1045049,
         "qs_pg:id":1045049,
         "wd:id":"Q1800730"
     },
@@ -233,7 +234,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841146,
+    "wof:lastmodified":1566624553,
     "wof:name":"Itaberaba",
     "wof:parent_id":404551159,
     "wof:placetype":"locality",

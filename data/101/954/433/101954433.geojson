@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.22399,
     "lbl:longitude":-40.846436,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-19.22399,
     "mps:longitude":-40.846436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09a8\u0995\u09be\u09b8"
     ],
@@ -80,7 +83,7 @@
     "name:spa_x_preferred":[
         "Pancas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Luzia"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681921,
@@ -126,7 +129,6 @@
         "fct:id":"038627fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3455277,
         "gp:id":442607,
-        "qs:id":210345,
         "qs_pg:id":210345,
         "wd:id":"Q505326"
     },
@@ -146,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241512,
+    "wof:lastmodified":1566623329,
     "wof:name":"Pancas",
     "wof:parent_id":404554541,
     "wof:placetype":"locality",

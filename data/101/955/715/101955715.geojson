@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.076215,
     "lbl:longitude":-48.569645,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.076215,
     "mps:longitude":-48.569645,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Afon Apiai-Mirim"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":43,
     "wof:belongsto":[
         85682041,
@@ -53,7 +56,7 @@
     "wof:concordances":{
         "gn:id":6316412,
         "gp:id":90138553,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4779791"
     },
     "wof:country":"BR",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101955715,
-    "wof:lastmodified":1563242610,
+    "wof:lastmodified":1566623840,
     "wof:name":"Apia\u00ed-Mirim",
     "wof:parent_id":404566287,
     "wof:placetype":"locality",

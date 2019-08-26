@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.540886,
     "lbl:longitude":-47.44296,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-23.540886,
     "mps:longitude":-47.44296,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u062a\u0648\u0631\u0627\u0646\u062a\u064a\u0645"
     ],
@@ -155,7 +158,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0442\u043e\u0440\u0430\u043d\u0442\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Voturantim"
     ],
     "name:urd_x_preferred":[
@@ -193,7 +196,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682041,
@@ -207,7 +210,6 @@
         "fct:id":"03869052-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3444866,
         "gp:id":455674,
-        "qs:id":147850,
         "qs_pg:id":147850,
         "wd:id":"Q942083",
         "wk:page":"Votorantim"
@@ -228,7 +230,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241787,
+    "wof:lastmodified":1566623460,
     "wof:name":"Votorantim",
     "wof:parent_id":404567621,
     "wof:placetype":"locality",

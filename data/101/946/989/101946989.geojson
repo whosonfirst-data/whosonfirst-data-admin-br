@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.816998,
     "lbl:longitude":-42.728385,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-12.816998,
     "mps:longitude":-42.728385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u0995\u09c1\u0987\u09b0\u09be"
     ],
@@ -89,9 +92,6 @@
     "name:spa_x_preferred":[
         "Boquira"
     ],
-    "name:unk_x_variant":[
-        "Assunc\u00e3o"
-    ],
     "name:vie_x_preferred":[
         "Boquira"
     ],
@@ -124,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -138,7 +138,6 @@
         "fct:id":"0388acca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3469190,
         "gp:id":456088,
-        "qs:id":181307,
         "qs_pg:id":181307,
         "wd:id":"Q1772521",
         "wk:page":"Boquira"
@@ -159,7 +158,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841125,
+    "wof:lastmodified":1566624279,
     "wof:name":"Boquira",
     "wof:parent_id":404550575,
     "wof:placetype":"locality",

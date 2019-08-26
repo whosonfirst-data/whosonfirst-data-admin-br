@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.040055,
     "lbl:longitude":-35.633904,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-7.040055,
     "mps:longitude":-35.633904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09be\u0997\u09cb\u09af\u09bc\u09be \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -128,7 +131,6 @@
         "fct:id":"0386ef48-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3408100,
         "gp:id":456630,
-        "qs:id":233622,
         "qs_pg:id":233622,
         "wd:id":"Q1998976",
         "wk:page":"Alagoa Grande"
@@ -148,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243404,
+    "wof:lastmodified":1566624227,
     "wof:name":"Alagoa Grande",
     "wof:parent_id":102055989,
     "wof:placetype":"locality",

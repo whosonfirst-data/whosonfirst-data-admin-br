@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.646468,
     "lbl:longitude":-54.119889,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.646468,
     "mps:longitude":-54.119889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u0993\u0987\u09af\u09bc\u09be"
     ],
@@ -87,9 +90,6 @@
     "name:swe_x_preferred":[
         "J\u00f3ia"
     ],
-    "name:unk_x_variant":[
-        "Inconfid\u00eancia"
-    ],
     "name:vie_x_preferred":[
         "J\u00f3ia"
     ],
@@ -117,7 +117,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":52,
     "wof:belongsto":[
         102191577,
@@ -130,7 +130,7 @@
         "fct:id":"0387c094-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3459713,
         "gp:id":459822,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q194507",
         "wk:page":"J\u00f3ia"
     },
@@ -149,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841217,
+    "wof:lastmodified":1566625208,
     "wof:name":"J\u00f3ia",
     "wof:parent_id":102059545,
     "wof:placetype":"locality",

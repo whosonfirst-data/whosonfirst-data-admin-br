@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-29.417782,
     "lbl:longitude":-53.16515,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-29.417782,
     "mps:longitude":-53.16515,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09be\u09b0\u09be\u09ae\u09be"
     ],
@@ -109,7 +112,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":20,
     "wof:belongsto":[
         102191577,
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":102059477,
-    "wof:lastmodified":1563235379,
+    "wof:lastmodified":1566619471,
     "wof:name":"Ibarama",
     "wof:parent_id":85682015,
     "wof:placetype":"county",

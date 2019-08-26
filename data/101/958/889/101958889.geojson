@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-32.135632,
     "lbl:longitude":-53.403113,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.135632,
     "mps:longitude":-53.403113,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Antonio Mingote"
     ],
@@ -136,7 +139,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":290,
     "wof:belongsto":[
         85682015,
@@ -148,7 +151,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":457154,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q575886"
     },
     "wof:country":"BR",
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101958889,
-    "wof:lastmodified":1563245624,
+    "wof:lastmodified":1566625208,
     "wof:name":"Mingote",
     "wof:parent_id":404563531,
     "wof:placetype":"locality",

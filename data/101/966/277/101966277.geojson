@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.553531,
     "lbl:longitude":-43.506352,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.553531,
     "mps:longitude":-43.506352,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u098f\u09f1\u09ac\u09be\u09a8\u09cd\u0995 \u09a1\u09be \u0995\u09be\u09ae\u09be\u09b0\u09be"
     ],
@@ -111,7 +114,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":533,
     "wof:belongsto":[
         85681941,
@@ -125,7 +128,7 @@
         "fct:id":"0384e7d4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317106,
         "gp:id":432074,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1790705",
         "wk:page":"Ewbank da C\u00e2mara"
     },
@@ -145,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841199,
+    "wof:lastmodified":1566625044,
     "wof:name":"Ewbank da C\u00e2mara",
     "wof:parent_id":404556349,
     "wof:placetype":"locality",

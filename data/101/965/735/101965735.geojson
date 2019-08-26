@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.253256,
     "lbl:longitude":-46.143529,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-21.253256,
     "mps:longitude":-46.143529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u099f\u09c7\u09b0\u09cb\u09b8\u09be"
     ],
@@ -83,7 +86,7 @@
     "name:swe_x_preferred":[
         "Alterosa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Serra Negra"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +116,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -127,7 +130,7 @@
         "fct:id":"0382483a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472487,
         "gp:id":451894,
-        "qs:id":903447,
+        "qs_pg:id":903447,
         "wd:id":"Q1756931"
     },
     "wof:country":"BR",
@@ -146,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241779,
+    "wof:lastmodified":1566623455,
     "wof:name":"Alterosa",
     "wof:parent_id":404555191,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.90094,
     "lbl:longitude":-39.918167,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.90094,
     "mps:longitude":-39.918167,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09b0\u09bf\u09ac\u09be\u09b8"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -92,7 +95,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"b3994aee8967e22bf25dbd5e18175703",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101976887,
-    "wof:lastmodified":1564140871,
+    "wof:lastmodified":1566624671,
     "wof:name":"Guaribas",
     "wof:parent_id":404553971,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"-36.8635047703,-10.7435937167,-36.8439919237,-10.7310062785",
     "geom:latitude":-10.737921,
     "geom:longitude":-36.853521,
-    "geonames:id":"3453599,3464943",
+    "gn:id":"3453599,3464943",
     "iso:country":"BR",
     "lbl:latitude":-10.739142,
     "lbl:longitude":-36.854333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.739142,
     "mps:longitude":-36.854333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09b0\u09be\u09ae\u09ac\u09c1"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -108,9 +111,11 @@
     "wof:concordances":{
         "gn:id":3453599,
         "gp:id":457821,
-        "qs:id":7,
-        "qs_pg:id":1134539,
+        "qs_pg:id":7,
         "wd:id":"Q1809608"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1134539
     },
     "wof:country":"BR",
     "wof:geomhash":"1f489b780f661025b89065cf80d5f23a",
@@ -124,7 +129,7 @@
         }
     ],
     "wof:id":101947967,
-    "wof:lastmodified":1563243875,
+    "wof:lastmodified":1566624399,
     "wof:name":"Pirambu",
     "wof:parent_id":102060935,
     "wof:placetype":"locality",

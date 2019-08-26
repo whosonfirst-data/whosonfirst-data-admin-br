@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.556346,
     "lbl:longitude":-54.352076,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.556346,
     "mps:longitude":-54.352076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Clara"
     ],
@@ -76,9 +79,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Vila Clara"
-    ],
     "name:vie_x_preferred":[
         "Clara"
     ],
@@ -97,7 +97,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":246,
     "wof:belongsto":[
         85682015,
@@ -111,7 +111,7 @@
         "fct:id":"038345e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3466109,
         "gp:id":459185,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"4d9bc10cf460b1f8cae204724786aaa8",
@@ -129,7 +129,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564141426,
+    "wof:lastmodified":1566625231,
     "wof:name":"Clara",
     "wof:parent_id":404563921,
     "wof:placetype":"locality",

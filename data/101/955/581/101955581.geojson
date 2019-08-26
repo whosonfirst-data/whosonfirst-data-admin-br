@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.815631,
     "lbl:longitude":-49.272537,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.815631,
     "mps:longitude":-49.272537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Tom\u00e9"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":234,
     "wof:belongsto":[
         85682041,
@@ -121,7 +124,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":454296,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"60d7fcf33fba5f3ae80ba5ef31da2eb5",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101955581,
-    "wof:lastmodified":1564139665,
+    "wof:lastmodified":1566623838,
     "wof:name":"Tom\u00e9",
     "wof:parent_id":404566531,
     "wof:placetype":"locality",

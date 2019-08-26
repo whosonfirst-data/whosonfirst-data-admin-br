@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.309646,
     "lbl:longitude":-38.217104,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-11.309646,
     "mps:longitude":-38.217104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09aa\u09bf\u0995\u09c1\u09b0\u09c1"
     ],
@@ -81,9 +84,6 @@
     "name:spa_x_preferred":[
         "Itapicuru"
     ],
-    "name:unk_x_variant":[
-        "Miss\u00e3o"
-    ],
     "name:vie_x_preferred":[
         "Itapicuru"
     ],
@@ -116,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -130,7 +130,6 @@
         "fct:id":"03811c3a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460707,
         "gp:id":436071,
-        "qs:id":180936,
         "qs_pg:id":180936,
         "wd:id":"Q1795161",
         "wk:page":"Itapicuru"
@@ -151,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841157,
+    "wof:lastmodified":1566624742,
     "wof:name":"Itapicuru",
     "wof:parent_id":404551225,
     "wof:placetype":"locality",

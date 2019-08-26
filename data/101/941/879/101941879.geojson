@@ -9,14 +9,17 @@
     "geom:bbox":"-60.463331822,-3.44466589218,-60.4506315081,-3.42660429344",
     "geom:latitude":-3.434563,
     "geom:longitude":-60.457609,
-    "geonames:id":"3736810,3754199",
+    "gn:id":"3736810,3754199",
     "iso:country":"BR",
     "lbl:latitude":-3.435991,
     "lbl:longitude":-60.456456,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.435991,
     "mps:longitude":-60.456456,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09a8\u09be\u0995\u09c1\u0987\u09b0\u09bf"
     ],
@@ -77,7 +80,7 @@
     "name:spa_x_preferred":[
         "Manaquiri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Manaquery"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -120,9 +123,11 @@
     "wof:concordances":{
         "gn:id":3663524,
         "gp:id":457517,
-        "qs:id":4,
-        "qs_pg:id":883883,
+        "qs_pg:id":4,
         "wd:id":"Q1807976"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":883883
     },
     "wof:country":"BR",
     "wof:geomhash":"71f31e3b833dc23db46d86715ec1a583",
@@ -136,7 +141,7 @@
         }
     ],
     "wof:id":101941879,
-    "wof:lastmodified":1563243652,
+    "wof:lastmodified":1566624303,
     "wof:name":"Manaquiri",
     "wof:parent_id":102050369,
     "wof:placetype":"locality",

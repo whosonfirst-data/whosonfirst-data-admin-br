@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.124675,
     "lbl:longitude":-39.888826,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.124675,
     "mps:longitude":-39.888826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u0987\u0995\u09c1\u09f1\u09be\u09b0\u09be"
     ],
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -128,7 +131,7 @@
         "fct:id":"03879934-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472804,
         "gp:id":458347,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q560381",
         "wk:page":"Aiquara"
     },
@@ -148,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841136,
+    "wof:lastmodified":1566624378,
     "wof:name":"Aiquara",
     "wof:parent_id":404550381,
     "wof:placetype":"locality",

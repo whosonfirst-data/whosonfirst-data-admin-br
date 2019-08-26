@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7244230.228678,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-38.538793,-3.778699,-38.538793,-3.778699",
     "geom:latitude":-3.778699,
     "geom:longitude":-38.538793,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-38.543793,-3.783699,-38.533793,-3.773699",
     "lbl:latitude":-3.778699,
     "lbl:longitude":-38.538793,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-3.778015,
     "mps:longitude":-38.54057,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:por_x_variant":[
         "Aeroporto"
-    ],
-    "name:unk_x_variant":[
-        "Aeroporto (base A\u00e9rea)"
     ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_id":0,
@@ -64,19 +63,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681907,
         102191577,
         404552863,
         85633009,
         101944743,
-        102051533
+        102051533,
+        85681907
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56066811,
-        "qs:id":483572,
         "qs_pg:id":483572
     },
     "wof:country":"BR",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859163,
+    "wof:lastmodified":1566620738,
     "wof:name":"Aeroporto (base A\u00e9rea)",
     "wof:parent_id":101944743,
     "wof:placetype":"neighbourhood",

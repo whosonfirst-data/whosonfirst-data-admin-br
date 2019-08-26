@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.023313,
     "lbl:longitude":-44.319175,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.023313,
     "mps:longitude":-44.319175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0438\u0431\u0435\u0440\u0434\u0430\u0434\u0435"
     ],
@@ -82,9 +85,6 @@
     "name:swe_x_preferred":[
         "Liberdade"
     ],
-    "name:unk_x_variant":[
-        "Livramento"
-    ],
     "name:vie_x_preferred":[
         "Liberdade"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":151,
     "wof:belongsto":[
         85681941,
@@ -131,7 +131,6 @@
         "fct:id":"0387c33c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3458612,
         "gp:id":459943,
-        "qs:id":1045022,
         "qs_pg:id":1045022,
         "wd:id":"Q22062417",
         "wk:page":"Liberdade, Minas Gerais"
@@ -152,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246205,
+    "wof:lastmodified":1566625478,
     "wof:name":"Liberdade",
     "wof:parent_id":404557041,
     "wof:placetype":"locality",

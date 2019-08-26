@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.910955,
     "lbl:longitude":-45.333154,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.910955,
     "mps:longitude":-45.333154,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0628\u0627\u062f\u0627"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -58,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3466317,
         "gp:id":456833,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"d0b63b878f678122254169df446b525c",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101968763,
-    "wof:lastmodified":1564141053,
+    "wof:lastmodified":1566624857,
     "wof:name":"Chapada",
     "wof:parent_id":404557269,
     "wof:placetype":"locality",

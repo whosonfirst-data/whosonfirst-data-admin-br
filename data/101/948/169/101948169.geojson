@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.148691,
     "lbl:longitude":-36.367184,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-8.148691,
     "mps:longitude":-36.367184,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c7\u099c\u09cb \u09a1\u09be \u09ae\u09be\u09a1\u09cd\u09b0\u09c7 \u09a1\u09c7 \u09a1\u09c7\u0989\u09b8"
     ],
@@ -74,9 +77,6 @@
     "name:spa_x_preferred":[
         "Brejo da Madre de Deus"
     ],
-    "name:unk_x_variant":[
-        "Madre de Deus"
-    ],
     "name:vie_x_preferred":[
         "Brejo da Madre de Deus"
     ],
@@ -109,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681973,
@@ -123,7 +123,6 @@
         "fct:id":"0388b9fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3404862,
         "gp:id":456867,
-        "qs:id":213030,
         "qs_pg:id":213030,
         "wd:id":"Q1807223",
         "wk:page":"Brejo da Madre de Deus"
@@ -144,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841102,
+    "wof:lastmodified":1566623878,
     "wof:name":"Brejo da Madre de Deus",
     "wof:parent_id":404560227,
     "wof:placetype":"locality",

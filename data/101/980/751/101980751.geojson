@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.571413,
     "lbl:longitude":-43.31463,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.571413,
     "mps:longitude":-43.31463,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09ae \u09b8\u0989\u09b8\u09c7\u09b8\u09b8\u09cb"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -71,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3405241,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"1d631c20c629012b5ac6321418991c37",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101980751,
-    "wof:lastmodified":1564142045,
+    "wof:lastmodified":1566625730,
     "wof:name":"Bom Sucesso",
     "wof:parent_id":102053015,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.711173,
     "lbl:longitude":-37.430419,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.711173,
     "mps:longitude":-37.430419,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Miranda"
     ],
@@ -169,7 +172,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -179,7 +182,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":454169,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"beff1ebd90b21814c1b842ffdaa090a3",
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":101990203,
-    "wof:lastmodified":1564139457,
+    "wof:lastmodified":1566623636,
     "wof:name":"Miranda",
     "wof:parent_id":102058873,
     "wof:placetype":"locality",

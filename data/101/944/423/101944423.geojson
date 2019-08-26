@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.682819,
     "lbl:longitude":-39.58405,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-3.682819,
     "mps:longitude":-39.58405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09aa\u09be\u0997\u09c7"
     ],
@@ -95,9 +98,6 @@
     "name:swe_x_preferred":[
         "Itapag\u00e9"
     ],
-    "name:unk_x_variant":[
-        "Santa Cruz do Uruburetama"
-    ],
     "name:vie_x_preferred":[
         "Itapaj\u00e9"
     ],
@@ -127,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":145,
     "wof:belongsto":[
@@ -142,7 +142,6 @@
         "fct:id":"03893046-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3397941,
         "gp:id":456262,
-        "qs:id":669279,
         "qs_pg:id":669279,
         "wd:id":"Q2021022"
     },
@@ -162,7 +161,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841295,
+    "wof:lastmodified":1566625962,
     "wof:name":"Itapag\u00e9",
     "wof:parent_id":404553107,
     "wof:placetype":"locality",

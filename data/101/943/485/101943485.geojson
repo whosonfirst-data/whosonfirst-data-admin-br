@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.403312,
     "lbl:longitude":-44.026381,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.403312,
     "mps:longitude":-44.026381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cd\u09b0\u09c7\u09b8\u09bf\u09a1\u09c7\u09a8\u09cd\u099f\u09c7 \u09ad\u09be\u09b0\u09cd\u0997\u09be\u09b8"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -118,7 +121,7 @@
         "fct:id":"03876e14-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6318070,
         "gp:id":457887,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2003321",
         "wk:page":"Presidente Vargas, Maranh\u00e3o"
     },
@@ -137,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247395,
+    "wof:lastmodified":1566626078,
     "wof:name":"Presidente Vargas",
     "wof:parent_id":102053107,
     "wof:placetype":"locality",

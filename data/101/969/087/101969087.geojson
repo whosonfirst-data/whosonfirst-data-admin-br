@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.365655,
     "lbl:longitude":-40.658667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-20.365655,
     "mps:longitude":-40.658667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u09ae\u09bf\u09a8\u0997\u09cb\u09b8 \u09ae\u09be\u09b0\u09cd\u099f\u09bf\u09a8\u09cd\u09b8"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681921,
@@ -129,7 +132,6 @@
         "fct:id":"038720c6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3464556,
         "gp:id":457132,
-        "qs:id":148307,
         "qs_pg:id":148307,
         "wd:id":"Q616475",
         "wk:page":"Domingos Martins"
@@ -150,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841255,
+    "wof:lastmodified":1566625456,
     "wof:name":"Domingos Martins",
     "wof:parent_id":404554301,
     "wof:placetype":"locality",

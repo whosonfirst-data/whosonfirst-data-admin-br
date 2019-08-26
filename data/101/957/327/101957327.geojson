@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.762198,
     "lbl:longitude":-51.41276,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.762198,
     "mps:longitude":-51.41276,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u0993 \u09ac\u09cb\u09ae"
     ],
@@ -76,9 +79,6 @@
     "name:spa_x_preferred":[
         "Rio Bom"
     ],
-    "name:unk_x_variant":[
-        "Catugi"
-    ],
     "name:vie_x_preferred":[
         "Rio Bom"
     ],
@@ -110,7 +110,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -142,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841174,
+    "wof:lastmodified":1566624848,
     "wof:name":"Rio Bom",
     "wof:parent_id":404561761,
     "wof:placetype":"locality",

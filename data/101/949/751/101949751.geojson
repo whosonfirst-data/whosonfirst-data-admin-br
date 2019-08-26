@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.729431,
     "lbl:longitude":-40.559457,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-11.729431,
     "mps:longitude":-40.559457,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09b0\u09bf\u099f\u09bf\u09ac\u09be"
     ],
@@ -77,9 +80,6 @@
     "name:rus_x_preferred":[
         "\u041f\u0438\u0440\u0438\u0442\u0438\u0431\u0430"
     ],
-    "name:unk_x_variant":[
-        "Cinco Vargens"
-    ],
     "name:vie_x_preferred":[
         "Piritiba"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -126,7 +126,6 @@
         "fct:id":"038766d0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3453494,
         "gp:id":457828,
-        "qs:id":848330,
         "qs_pg:id":848330,
         "wd:id":"Q1807706",
         "wk:page":"Piritiba"
@@ -147,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841149,
+    "wof:lastmodified":1566624578,
     "wof:name":"Piritiba",
     "wof:parent_id":404551741,
     "wof:placetype":"locality",

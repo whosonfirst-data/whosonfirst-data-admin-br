@@ -9,10 +9,12 @@
     "geom:bbox":"-45.280499,-5.531544,-45.221044,-5.48152019426",
     "geom:latitude":-5.50713,
     "geom:longitude":-45.249368,
-    "geonames:id":"3406317,3406318",
+    "gn:id":"3406317,3406318",
     "iso:country":"BR",
     "lbl:latitude":-5.506711,
     "lbl:longitude":-45.249828,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.506711,
     "mps:longitude":-45.249828,
     "mz:hierarchy_label":1,
@@ -190,7 +192,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -201,9 +203,11 @@
     "wof:concordances":{
         "gn:id":3406318,
         "gp:id":456070,
-        "qs:id":8,
-        "qs_pg:id":469817,
+        "qs_pg:id":8,
         "wd:id":"Q1807301"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":469817
     },
     "wof:country":"BR",
     "wof:geomhash":"caf78cd8e4594b768c81559f7393f04c",
@@ -217,7 +221,7 @@
         }
     ],
     "wof:id":101942999,
-    "wof:lastmodified":1561841275,
+    "wof:lastmodified":1566625818,
     "wof:name":"Barra do Corda",
     "wof:parent_id":102052819,
     "wof:placetype":"locality",

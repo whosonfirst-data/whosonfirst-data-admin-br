@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.020236,
     "lbl:longitude":-44.995321,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.020236,
     "mps:longitude":-44.995321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09b0\u09cb\u09ac\u09c7\u09b0\u09cd\u099f\u09cb"
     ],
@@ -108,7 +111,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         102191577,
@@ -121,7 +124,7 @@
         "fct:id":"0388444c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6318584,
         "gp:id":26803932,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q744797",
         "wk:page":"S\u00e3o Roberto"
     },
@@ -140,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841305,
+    "wof:lastmodified":1566626087,
     "wof:name":"S\u00e3o Roberto",
     "wof:parent_id":102053195,
     "wof:placetype":"locality",

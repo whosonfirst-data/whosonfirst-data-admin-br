@@ -9,14 +9,17 @@
     "geom:bbox":"-49.4058482279,-26.9662091598,-49.2892011444,-26.8173939897",
     "geom:latitude":-26.905882,
     "geom:longitude":-49.341709,
-    "geonames:id":"3450978,3450982",
+    "gn:id":"3450978,3450982",
     "iso:country":"BR",
     "lbl:latitude":-26.95536,
     "lbl:longitude":-49.335919,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.95536,
     "mps:longitude":-49.335919,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09cb\u09a1\u09c7\u0987\u0993"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -115,9 +118,11 @@
     "wof:concordances":{
         "gn:id":3450982,
         "gp:id":460805,
-        "qs:id":3,
-        "qs_pg:id":1325915,
+        "qs_pg:id":3,
         "wd:id":"Q2012010"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1325915
     },
     "wof:country":"BR",
     "wof:geomhash":"b0cb8bc6b722727023cc608f254d57a7",
@@ -132,7 +137,7 @@
         }
     ],
     "wof:id":101957957,
-    "wof:lastmodified":1563244776,
+    "wof:lastmodified":1566624821,
     "wof:name":"Rodeio",
     "wof:parent_id":404565803,
     "wof:placetype":"locality",

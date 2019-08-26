@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":912470.908939,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-48.479919,-27.656771,-48.479919,-27.656771",
     "geom:latitude":-27.656771,
     "geom:longitude":-48.479919,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-48.484919,-27.661771,-48.474919,-27.651771",
     "lbl:latitude":-27.656771,
     "lbl:longitude":-48.479919,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-27.654086,
     "mps:longitude":-48.482375,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:por_x_preferred":[
-        "Lagoa Pequena"
-    ],
-    "name:unk_x_variant":[
         "Lagoa Pequena"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -55,19 +54,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682021,
         102191577,
         404565403,
         85633009,
         101958179,
-        102060383
+        102060383,
+        85682021
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56066987,
-        "qs:id":483601
+        "qs_pg:id":483601
     },
     "wof:country":"BR",
     "wof:geomhash":"a03999c992dcbf23e6175e0b18db3d62",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859199,
+    "wof:lastmodified":1566620777,
     "wof:name":"Lagoa Pequena",
     "wof:parent_id":101958179,
     "wof:placetype":"neighbourhood",

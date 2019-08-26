@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.83134,
     "lbl:longitude":-51.482908,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-21.83134,
     "mps:longitude":-51.482908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u098f\u09ae\u09bf\u09b2\u09bf\u09af\u09bc\u09be\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.833056,
     "wd:longitude":-51.483056,
@@ -131,7 +134,6 @@
         "fct:id":"0387b270-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3464288,
         "gp:id":459372,
-        "qs:id":883950,
         "qs_pg:id":883950,
         "wd:id":"Q928234",
         "wk:page":"Emilian\u00f3polis"
@@ -151,7 +153,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241459,
+    "wof:lastmodified":1566623304,
     "wof:name":"Emilian\u00f3polis",
     "wof:parent_id":102061371,
     "wof:placetype":"locality",

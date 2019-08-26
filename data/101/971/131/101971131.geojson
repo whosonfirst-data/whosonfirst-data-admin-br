@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.727241,
     "lbl:longitude":-41.866927,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.727241,
     "mps:longitude":-41.866927,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Mulungu"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -52,7 +55,7 @@
     "wof:concordances":{
         "gn:id":3456572,
         "gp:id":456848,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"336d6703e213201e46b11b88767a89fa",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101971131,
-    "wof:lastmodified":1564140546,
+    "wof:lastmodified":1566624454,
     "wof:name":"Mulungu",
     "wof:parent_id":404550569,
     "wof:placetype":"locality",

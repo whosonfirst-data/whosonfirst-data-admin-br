@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.038004,
     "lbl:longitude":-35.78186,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.038004,
     "mps:longitude":-35.78186,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0989\u09ae\u09be\u09b0\u09bf"
     ],
@@ -60,7 +64,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681973,
         102191577,
@@ -70,10 +74,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"ca9b90138f2620c05b70973889fbe6ce",
+    "wof:geomhash":"d57145783930e2f064abee1230874a48",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":101966833,
-    "wof:lastmodified":1479931467,
+    "wof:lastmodified":1566625023,
     "wof:name":"Serra de Umari",
     "wof:parent_id":404560293,
     "wof:placetype":"locality",

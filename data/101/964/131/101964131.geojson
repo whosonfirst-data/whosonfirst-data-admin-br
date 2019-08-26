@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.616158,
     "lbl:longitude":-49.180866,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.616158,
     "mps:longitude":-49.180866,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u099f\u09c7 \u0986\u09b2\u09c7\u0997\u09cd\u09b0\u09c7"
     ],
@@ -67,7 +70,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -77,7 +80,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e5e7fe1aa8764e4b7ce98008e37a0d79",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101964131,
-    "wof:lastmodified":1564139561,
+    "wof:lastmodified":1566623709,
     "wof:name":"Monte Alegre",
     "wof:parent_id":404565951,
     "wof:placetype":"locality",

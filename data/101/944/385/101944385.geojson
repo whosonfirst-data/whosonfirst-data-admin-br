@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-4.354992,
     "lbl:longitude":-39.316441,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-4.354992,
     "mps:longitude":-39.316441,
     "mz:hierarchy_label":1,
@@ -81,9 +83,6 @@
     ],
     "name:swe_x_preferred":[
         "Canind\u00e9"
-    ],
-    "name:unk_x_variant":[
-        "Caninae"
     ],
     "name:vie_x_preferred":[
         "Canind\u00e9"
@@ -206,7 +205,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":191,
     "wof:belongsto":[
@@ -221,7 +220,6 @@
         "fct:id":"038916c4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3403353,
         "gp:id":456958,
-        "qs:id":777931,
         "qs_pg:id":777931,
         "wd:id":"Q1008278"
     },
@@ -241,7 +239,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247203,
+    "wof:lastmodified":1566625974,
     "wof:name":"Canind\u00e9",
     "wof:parent_id":404552581,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":19748643.386079,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-59.964257,-3.028179,-59.964257,-3.028179",
     "geom:latitude":-3.028179,
     "geom:longitude":-59.964257,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-59.969257,-3.033179,-59.959257,-3.023179",
     "lbl:latitude":-3.028179,
     "lbl:longitude":-59.964257,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-3.032138,
     "mps:longitude":-59.970004,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:por_x_preferred":[
-        "Cidade Nova"
-    ],
-    "name:unk_x_variant":[
         "Cidade Nova"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -55,18 +54,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85681885,
         102191577,
         85633009,
         101941913,
-        102050371,
-        85681885
+        102050371
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56066804,
-        "qs:id":1001088
+        "qs_pg:id":1001088
     },
     "wof:country":"BR",
     "wof:geomhash":"48473ff4d4746f44220d949068c71676",
@@ -84,7 +83,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859161,
+    "wof:lastmodified":1566620739,
     "wof:name":"Cidade Nova",
     "wof:parent_id":101941913,
     "wof:placetype":"neighbourhood",

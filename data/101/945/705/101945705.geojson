@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.135654,
     "lbl:longitude":-38.911898,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.135654,
     "mps:longitude":-38.911898,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gado"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":49,
     "wof:belongsto":[
         85681907,
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3399221,
         "gp:id":434213,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"225301dcef064c2b7de5d4ce59defb18",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101945705,
-    "wof:lastmodified":1564142277,
+    "wof:lastmodified":1566625915,
     "wof:name":"Gado",
     "wof:parent_id":404553559,
     "wof:placetype":"locality",

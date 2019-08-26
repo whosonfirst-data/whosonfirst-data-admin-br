@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.292732,
     "lbl:longitude":-35.279655,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.292732,
     "mps:longitude":-35.279655,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0648\u0643\u0627"
     ],
@@ -67,7 +70,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":42,
     "wof:belongsto":[
         102191577,
@@ -77,7 +80,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q808959"
     },
     "wof:country":"BR",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101987623,
-    "wof:lastmodified":1563246431,
+    "wof:lastmodified":1566625572,
     "wof:name":"Barroca",
     "wof:parent_id":102058597,
     "wof:placetype":"locality",

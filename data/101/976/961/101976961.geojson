@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.701946,
     "lbl:longitude":-39.527396,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-11.701946,
     "mps:longitude":-39.527396,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0986\u09aa\u09be\u09b0\u09c7\u09b8\u09bf\u09a1\u09be"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":542.0,
     "wd:latitude":-22.847222,
@@ -116,7 +119,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"1a72a7ef3089294e55a8a4b01db0bc88",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101976961,
-    "wof:lastmodified":1564140908,
+    "wof:lastmodified":1566624691,
     "wof:name":"Aparecida",
     "wof:parent_id":404551831,
     "wof:placetype":"locality",

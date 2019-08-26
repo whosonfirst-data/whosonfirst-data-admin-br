@@ -9,14 +9,17 @@
     "geom:bbox":"-48.0522620268,-21.5035616343,-48.006498,-21.4833409994",
     "geom:latitude":-21.493868,
     "geom:longitude":-48.027709,
-    "geonames:id":"3461781,3461782",
+    "gn:id":"3461781,3461782",
     "iso:country":"BR",
     "lbl:latitude":-21.49384,
     "lbl:longitude":-48.027708,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-21.49384,
     "mps:longitude":-48.027708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u099f\u09be\u09aa\u09be\u09b0\u09be"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Guatapar\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Guarapar\u00e1"
     ],
     "name:vol_x_preferred":[
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.496667,
     "wd:longitude":-48.037778,
@@ -123,9 +126,11 @@
     "wof:concordances":{
         "gn:id":3461781,
         "gp:id":435062,
-        "qs:id":7,
-        "qs_pg:id":907896,
+        "qs_pg:id":7,
         "wd:id":"Q1795651"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":907896
     },
     "wof:country":"BR",
     "wof:geomhash":"0e701ef0f6c69346fdb91108c5271850",
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":101955885,
-    "wof:lastmodified":1563242661,
+    "wof:lastmodified":1566623856,
     "wof:name":"Guatapar\u00e1",
     "wof:parent_id":404566477,
     "wof:placetype":"locality",

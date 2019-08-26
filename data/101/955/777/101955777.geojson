@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.550095,
     "lbl:longitude":-48.515934,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.550095,
     "mps:longitude":-48.515934,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Saltu"
     ],
@@ -118,7 +121,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -129,7 +132,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":427496,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"cfab106335390df6f5ed02fcda7c91a9",
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":101955777,
-    "wof:lastmodified":1564139668,
+    "wof:lastmodified":1566623843,
     "wof:name":"Salto",
     "wof:parent_id":404566251,
     "wof:placetype":"locality",

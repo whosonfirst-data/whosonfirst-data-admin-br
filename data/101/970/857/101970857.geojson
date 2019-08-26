@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.585029,
     "lbl:longitude":-42.633435,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.585029,
     "mps:longitude":-42.633435,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0995\u09b9\u09cb\u09af\u09bc\u09c7\u0987\u09b0\u09be"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -112,7 +115,7 @@
     "wof:concordances":{
         "gn:id":3468536,
         "gp:id":458888,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"37cc218a7bb6bff03621cadf34a8bf55",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101970857,
-    "wof:lastmodified":1564140081,
+    "wof:lastmodified":1566624119,
     "wof:name":"Cachoeira",
     "wof:parent_id":404551063,
     "wof:placetype":"locality",

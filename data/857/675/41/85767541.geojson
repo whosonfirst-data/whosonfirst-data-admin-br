@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7002304.590067,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-48.503821,-27.540944,-48.503821,-27.540944",
     "geom:latitude":-27.540944,
     "geom:longitude":-48.503821,
     "gn:latitude":-27.55858,
     "gn:longitude":-48.49468,
     "iso:country":"BR",
+    "lbl:bbox":"-48.508821,-27.545944,-48.498821,-27.535944",
     "lbl:latitude":-27.540944,
     "lbl:longitude":-48.503821,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-27.539148,
     "mps:longitude":-48.503683,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:por_x_preferred":[
-        "Saco Grande"
-    ],
-    "name:unk_x_variant":[
         "Saco Grande"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682021,
         102191577,
         404565395,
         85633009,
         101958175,
-        102060383
+        102060383,
+        85682021
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7874510,
         "gp:id":56066942,
-        "qs:id":1115493,
         "qs_pg:id":1115493
     },
     "wof:country":"BR",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859193,
+    "wof:lastmodified":1566620729,
     "wof:name":"Saco Grande",
     "wof:parent_id":101958175,
     "wof:placetype":"neighbourhood",

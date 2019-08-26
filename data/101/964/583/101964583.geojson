@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.612804,
     "lbl:longitude":-48.695238,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-26.612804,
     "mps:longitude":-48.695238,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u09b0\u09be \u09ad\u09c7\u09b2\u09b9\u09be"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682021,
@@ -117,10 +120,12 @@
         "fct:id":"0385890a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3470597,
         "gp:id":458606,
-        "qs:id":5,
-        "qs_pg:id":1055257,
+        "qs_pg:id":5,
         "wd:id":"Q808787",
         "wk:page":"Barra Velha"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1055257
     },
     "wof:country":"BR",
     "wof:geomhash":"b1079251fee8c3a44e97e86b245f5460",
@@ -135,7 +140,7 @@
         }
     ],
     "wof:id":101964583,
-    "wof:lastmodified":1563242342,
+    "wof:lastmodified":1566623734,
     "wof:name":"Barra Velha",
     "wof:parent_id":404565199,
     "wof:placetype":"locality",

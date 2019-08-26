@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.761611,
     "lbl:longitude":-44.972473,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.761611,
     "mps:longitude":-44.972473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u00c1gua Branca"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         102191577,
@@ -81,7 +84,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":460510,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"064713e3066e3db33fd51da1a522af7b",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101979479,
-    "wof:lastmodified":1564140173,
+    "wof:lastmodified":1566624170,
     "wof:name":"\u00c1gua Branca",
     "wof:parent_id":102053091,
     "wof:placetype":"locality",

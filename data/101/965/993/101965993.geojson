@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.468479,
     "lbl:longitude":-44.504309,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.468479,
     "mps:longitude":-44.504309,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u064a\u062f\u0648"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -115,7 +118,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"35bbe77ce967a7d576f3e993db3c8103",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101965993,
-    "wof:lastmodified":1564139254,
+    "wof:lastmodified":1566623454,
     "wof:name":"Penedo",
     "wof:parent_id":102058379,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.223045,
     "lbl:longitude":-40.082742,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.223045,
     "mps:longitude":-40.082742,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09ae \u09aa\u09cd\u09b0\u09bf\u09a8\u0995\u09bf\u09aa\u09bf\u0993"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         85681907,
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":3405263,
         "gp:id":456348,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"bba38dee267b65c1261e5c491ed033c5",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101976801,
-    "wof:lastmodified":1564140940,
+    "wof:lastmodified":1566624710,
     "wof:name":"Bom Princ\u00edpio",
     "wof:parent_id":404553459,
     "wof:placetype":"locality",

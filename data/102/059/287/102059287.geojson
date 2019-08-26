@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-28.474791,
     "lbl:longitude":-53.001016,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-28.474791,
     "mps:longitude":-53.001016,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Colorado"
     ],
@@ -553,7 +556,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -574,7 +577,7 @@
         }
     ],
     "wof:id":102059287,
-    "wof:lastmodified":1564133192,
+    "wof:lastmodified":1566619469,
     "wof:name":"Colorado",
     "wof:parent_id":85682015,
     "wof:placetype":"county",

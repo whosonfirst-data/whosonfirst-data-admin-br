@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.221382,
     "lbl:longitude":-42.502254,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.221382,
     "mps:longitude":-42.502254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09cb\u09b8\u09c7 \u09b0\u09be\u09af\u09bc\u09a1\u09be\u09a8"
     ],
@@ -85,7 +88,7 @@
     "name:swe_x_preferred":[
         "Jos\u00e9 Raydan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "F\u00f4lha Larga"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":150,
     "wof:belongsto":[
         85681941,
@@ -128,7 +131,7 @@
     "wof:concordances":{
         "gn:id":3459587,
         "gp:id":437207,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1791503",
         "wk:page":"Jos\u00e9 Raydan"
     },
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101951917,
-    "wof:lastmodified":1561841266,
+    "wof:lastmodified":1566625534,
     "wof:name":"Jos\u00e9 Raydan",
     "wof:parent_id":404556937,
     "wof:placetype":"locality",

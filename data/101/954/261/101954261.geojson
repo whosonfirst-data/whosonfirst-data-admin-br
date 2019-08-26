@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.515821,
     "lbl:longitude":-41.011069,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-19.515821,
     "mps:longitude":-41.011069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u0987\u0995\u09cd\u09b8\u09cb \u0997\u09c1\u09f1\u09be\u09a8\u09a1\u09c1"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681921,
@@ -120,7 +123,6 @@
         "fct:id":"0386faa6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471061,
         "gp:id":456755,
-        "qs:id":1045189,
         "qs_pg:id":1045189,
         "wd:id":"Q804041",
         "wk:page":"Baixo Guandu"
@@ -141,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241430,
+    "wof:lastmodified":1566623293,
     "wof:name":"Baixo Guandu",
     "wof:parent_id":404554195,
     "wof:placetype":"locality",

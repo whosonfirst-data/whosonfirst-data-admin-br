@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.059395,
     "lbl:longitude":-46.256134,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.059395,
     "mps:longitude":-46.256134,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0989\u09b0\u09c1\u09f1\u09be\u09a8\u09be \u09a1\u09c7 \u09ae\u09bf\u09a8\u09be\u09b8"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -122,7 +125,7 @@
         "fct:id":"03885824-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6318837,
         "gp:id":26804079,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1787170",
         "wk:page":"Uruana de Minas"
     },
@@ -142,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841088,
+    "wof:lastmodified":1566623792,
     "wof:name":"Uruana de Minas",
     "wof:parent_id":404558695,
     "wof:placetype":"locality",

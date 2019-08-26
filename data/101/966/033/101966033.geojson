@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.488825,
     "lbl:longitude":-44.587311,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-22.488825,
     "mps:longitude":-44.587311,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u099f\u09bf\u09af\u09bc\u09be\u0987\u09af\u09bc\u09be"
     ],
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0442\u0430\u0442\u0456\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Campo Bello"
     ],
     "name:vie_x_preferred":[
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -146,7 +149,6 @@
         "fct:id":"0389dfb4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460602,
         "gp:id":436152,
-        "qs:id":1045047,
         "qs_pg:id":1045047,
         "wd:id":"Q817223"
     },
@@ -165,7 +167,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245283,
+    "wof:lastmodified":1566625056,
     "wof:name":"Itatiaia",
     "wof:parent_id":102058379,
     "wof:placetype":"locality",

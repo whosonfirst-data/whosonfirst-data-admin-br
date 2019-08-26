@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":0.969277,
     "lbl:longitude":-49.994694,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":0.969277,
     "mps:longitude":-49.994694,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Fregues\u00eda"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681891,
         102191577,
@@ -113,7 +116,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e6fb0f600952450005b4ddb469b21aa4",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101970491,
-    "wof:lastmodified":1564140090,
+    "wof:lastmodified":1566624124,
     "wof:name":"Freguesia",
     "wof:parent_id":404550325,
     "wof:placetype":"locality",

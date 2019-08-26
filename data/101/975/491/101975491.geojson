@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.907616,
     "lbl:longitude":-44.449142,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.907616,
     "mps:longitude":-44.449142,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cocos"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -67,7 +70,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"129213ce3e59bac0d6d05686ae7481eb",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101975491,
-    "wof:lastmodified":1564142651,
+    "wof:lastmodified":1566626216,
     "wof:name":"Cocos",
     "wof:parent_id":102052829,
     "wof:placetype":"locality",

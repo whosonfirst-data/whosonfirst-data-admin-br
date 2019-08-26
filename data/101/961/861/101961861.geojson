@@ -9,16 +9,19 @@
     "geom:bbox":"-51.6411002897,-10.8936791693,-51.6226373338,-10.8721683248",
     "geom:latitude":-10.880472,
     "geom:longitude":-51.633674,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-10.878574,
     "lbl:longitude":-51.632763,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.878574,
     "mps:longitude":-51.632763,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09b0\u09cd\u099f\u09cb \u0986\u09b2\u09c7\u0997\u09cd\u09b0\u09c7 \u09a1\u09cb \u09a8\u09cb\u09b0\u09cd\u099f\u09c7"
     ],
@@ -128,7 +131,7 @@
     "qs_pg:woe_id":457860,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -140,7 +143,6 @@
         "fct:id":"03876bd0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6318027,
         "gp:id":457860,
-        "qs:id":1287857,
         "qs_pg:id":1287857,
         "wd:id":"Q1805622",
         "wk:page":"Porto Alegre do Norte"
@@ -160,7 +162,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841187,
+    "wof:lastmodified":1566624946,
     "wof:name":"Porto Alegre do Norte",
     "wof:parent_id":102055557,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.800477,
     "lbl:longitude":-42.946202,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.800477,
     "mps:longitude":-42.946202,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09a8\u09be\u09a1\u09cb\u09b0\u09cd \u0995\u09cb\u09b0\u09cd\u099f\u098f\u09b8"
     ],
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Senador Cortes"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Monte Verde"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -125,7 +128,7 @@
         "fct:id":"0388043c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3447853,
         "gp:id":440743,
-        "qs:id":1134122,
+        "qs_pg:id":1134122,
         "wd:id":"Q1789116",
         "wk:page":"Senador Cortes"
     },
@@ -145,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841035,
+    "wof:lastmodified":1566623344,
     "wof:name":"Senador Cortes",
     "wof:parent_id":404558461,
     "wof:placetype":"locality",

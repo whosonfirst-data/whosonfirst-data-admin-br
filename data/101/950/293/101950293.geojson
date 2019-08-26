@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-12.248321,
     "lbl:longitude":-38.95461,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-12.248321,
     "mps:longitude":-38.95461,
     "mz:hierarchy_label":1,
@@ -192,9 +194,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0435\u0439\u0440\u0430-\u0434\u0435-\u0421\u0430\u043d\u0442\u0430\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Feira de Sant'Anna"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u06cc\u06cc\u0631\u0627 \u062f\u06d2 \u0633\u0627\u0646\u062a\u0627\u0646\u0627"
     ],
@@ -322,7 +321,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -336,10 +335,12 @@
         "fct:id":"0389e978-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3463478,
         "gp:id":455860,
-        "qs:id":353331,
-        "qs_pg:id":1076615,
+        "qs_pg:id":353331,
         "wd:id":"Q194343",
         "wk:page":"Feira de Santana"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1076615
     },
     "wof:country":"BR",
     "wof:geomhash":"6324dde2ccbd5b1046d9989616a1cbd1",
@@ -357,7 +358,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244571,
+    "wof:lastmodified":1566624740,
     "wof:megacity":0,
     "wof:name":"Feira de Santana",
     "wof:parent_id":404550941,

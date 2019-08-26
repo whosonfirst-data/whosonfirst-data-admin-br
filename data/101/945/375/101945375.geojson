@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.584786,
     "lbl:longitude":-39.37389,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-5.584786,
     "mps:longitude":-39.37389,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09a8\u09be\u09a1\u09cb\u09b0\u09cd \u09aa\u09cb\u09ae\u09aa\u09c7\u0989"
     ],
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -112,7 +115,6 @@
         "fct:id":"0388c87c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3387926,
         "gp:id":56125087,
-        "qs:id":1044246,
         "qs_pg:id":1044246,
         "wd:id":"Q1828350",
         "wk:page":"Senador Pompeu"
@@ -133,7 +135,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841294,
+    "wof:lastmodified":1566625945,
     "wof:name":"Senador Pompeu",
     "wof:parent_id":404553877,
     "wof:placetype":"locality",

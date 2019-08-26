@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.463266,
     "lbl:longitude":-39.715209,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-5.463266,
     "mps:longitude":-39.715209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Pedra Branca"
     ],
@@ -68,9 +71,6 @@
     "name:swe_x_preferred":[
         "Pedra Branca"
     ],
-    "name:unk_x_variant":[
-        "Tabuleiro da Peruca"
-    ],
     "name:vie_x_preferred":[
         "Pedra Branca"
     ],
@@ -100,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -114,7 +114,6 @@
         "fct:id":"0387620c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3392629,
         "gp:id":457774,
-        "qs:id":147659,
         "qs_pg:id":147659,
         "wd:id":"Q2028317"
     },
@@ -134,7 +133,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247037,
+    "wof:lastmodified":1566625895,
     "wof:name":"Pedra Branca",
     "wof:parent_id":404553595,
     "wof:placetype":"locality",

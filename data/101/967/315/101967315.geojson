@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.771078,
     "lbl:longitude":-53.662089,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.771078,
     "mps:longitude":-53.662089,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Valerio"
     ],
@@ -250,7 +253,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":445,
     "wof:belongsto":[
         85681983,
@@ -262,7 +265,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6318855,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q17524272"
     },
     "wof:country":"BR",
@@ -278,7 +281,7 @@
         }
     ],
     "wof:id":101967315,
-    "wof:lastmodified":1563245518,
+    "wof:lastmodified":1566625163,
     "wof:name":"Val\u00e9rio",
     "wof:parent_id":404561669,
     "wof:placetype":"locality",

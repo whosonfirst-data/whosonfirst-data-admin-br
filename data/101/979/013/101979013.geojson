@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.552265,
     "lbl:longitude":-45.368754,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.552265,
     "mps:longitude":-45.368754,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "curva"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":467,
     "wof:belongsto":[
         102191577,
@@ -47,7 +50,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q5196047"
     },
     "wof:country":"BR",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101979013,
-    "wof:lastmodified":1563243284,
+    "wof:lastmodified":1566624169,
     "wof:name":"Curva",
     "wof:parent_id":102053033,
     "wof:placetype":"locality",

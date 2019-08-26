@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.185898,
     "lbl:longitude":-38.267396,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-9.185898,
     "mps:longitude":-38.267396,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:deu_x_preferred":[
         "Jatob\u00e1"
     ],
@@ -66,9 +69,6 @@
     "name:rus_x_variant":[
         "\u042f\u0442\u043e\u0431\u0430"
     ],
-    "name:unk_x_variant":[
-        "Itaparica"
-    ],
     "name:vol_x_preferred":[
         "Jatob\u00e1"
     ],
@@ -98,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":149,
     "wof:belongsto":[
@@ -113,7 +113,6 @@
         "fct:id":"0388f75c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3392243,
         "gp:id":436661,
-        "qs:id":848282,
         "qs_pg:id":848282,
         "wd:id":"Q2472554",
         "wk:page":"Jatob\u00e1, Pernambuco"
@@ -134,7 +133,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841141,
+    "wof:lastmodified":1566624407,
     "wof:name":"Jatob\u00e1",
     "wof:parent_id":404560459,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.789552,
     "lbl:longitude":-38.35385,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-11.789552,
     "mps:longitude":-38.35385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0987\u09a8\u09b9\u09be\u09ae\u09ac\u09c1\u09aa\u09c7"
     ],
@@ -80,9 +83,6 @@
     "name:rus_x_preferred":[
         "\u0418\u043d\u044c\u044f\u043c\u0431\u0443\u043f\u0438"
     ],
-    "name:unk_x_variant":[
-        "Inhambupo"
-    ],
     "name:vie_x_preferred":[
         "Inhambupe"
     ],
@@ -115,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -129,7 +129,6 @@
         "fct:id":"0387308e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461224,
         "gp:id":457298,
-        "qs:id":148220,
         "qs_pg:id":148220,
         "wd:id":"Q589992",
         "wk:page":"Inhambupe"
@@ -150,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841161,
+    "wof:lastmodified":1566624768,
     "wof:name":"Inhambupe",
     "wof:parent_id":404551113,
     "wof:placetype":"locality",

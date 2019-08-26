@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.283003,
     "lbl:longitude":-46.609477,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.283003,
     "mps:longitude":-46.609477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mont Blanc"
     ],
@@ -313,7 +316,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3909,
     "wof:belongsto":[
         85682041,
@@ -324,7 +327,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"0448c8deeb5ca70561f1866fd31e2698",
@@ -339,7 +342,7 @@
         }
     ],
     "wof:id":101962965,
-    "wof:lastmodified":1564139299,
+    "wof:lastmodified":1566623495,
     "wof:name":"Mont Blanc",
     "wof:parent_id":404566701,
     "wof:placetype":"locality",

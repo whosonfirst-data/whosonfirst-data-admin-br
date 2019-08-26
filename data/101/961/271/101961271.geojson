@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.486101,
     "lbl:longitude":-55.822326,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-20.486101,
     "mps:longitude":-55.822326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u09be\u09b8\u099f\u09be\u09b8\u09bf\u0993"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":27,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
         "fct:id":"03888dbc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472284,
         "gp:id":456667,
-        "qs:id":339158,
         "qs_pg:id":339158,
         "wd:id":"Q22067433",
         "wk:page":"Anast\u00e1cio"
@@ -143,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841192,
+    "wof:lastmodified":1566624980,
     "wof:name":"Anast\u00e1cio",
     "wof:parent_id":102055177,
     "wof:placetype":"locality",

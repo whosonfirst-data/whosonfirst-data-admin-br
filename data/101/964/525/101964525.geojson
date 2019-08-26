@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.654433,
     "lbl:longitude":-48.806019,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.654433,
     "mps:longitude":-48.806019,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Bauanhof"
     ],
@@ -67,7 +70,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":397,
     "wof:belongsto":[
         102191577,
@@ -77,7 +80,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1399147"
     },
     "wof:country":"BR",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101964525,
-    "wof:lastmodified":1563242336,
+    "wof:lastmodified":1566623731,
     "wof:name":"Fazenda",
     "wof:parent_id":102061561,
     "wof:placetype":"locality",

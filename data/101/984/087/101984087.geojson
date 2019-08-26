@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.642212,
     "lbl:longitude":-36.194911,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.642212,
     "mps:longitude":-36.194911,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a8\u09c1\u09a1\u09cb\u09b8"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681967,
         102191577,
@@ -114,7 +117,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3403217,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e7d6439ad38a3324c5a9a3837fe78e58",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101984087,
-    "wof:lastmodified":1564140018,
+    "wof:lastmodified":1566624083,
     "wof:name":"Canudos",
     "wof:parent_id":404559863,
     "wof:placetype":"locality",

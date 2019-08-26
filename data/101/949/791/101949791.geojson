@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.621587,
     "lbl:longitude":-40.265719,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.621587,
     "mps:longitude":-40.265719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u0987\u0995\u09c1\u0987\u09a8\u09bf\u0995\u09c1\u09af\u09bc\u09c7"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -125,7 +128,7 @@
         "fct:id":"03874632-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3458136,
         "gp:id":457505,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1794943",
         "wk:page":"Maiquinique"
     },
@@ -145,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841145,
+    "wof:lastmodified":1566624543,
     "wof:name":"Maiquinique",
     "wof:parent_id":404551445,
     "wof:placetype":"locality",

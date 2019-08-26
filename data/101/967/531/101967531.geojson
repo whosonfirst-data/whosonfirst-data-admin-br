@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.687303,
     "lbl:longitude":-52.340098,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.687303,
     "mps:longitude":-52.340098,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09a8\u09b9\u09c7\u0987\u09b0\u09cd\u0986\u09b2"
     ],
@@ -85,7 +88,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -96,7 +99,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56067351,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"cc8763a87e9065fc1a86153752fe2c7e",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101967531,
-    "wof:lastmodified":1564141365,
+    "wof:lastmodified":1566625172,
     "wof:name":"Pinheiral",
     "wof:parent_id":404564377,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.360264,
     "lbl:longitude":-53.398082,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-27.360264,
     "mps:longitude":-53.398082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09cd\u09b0\u09c7\u09a1\u09c7\u09b0\u09bf\u0995\u09cb \u09f1\u09c7\u09b8\u09cd\u099f\u09aa\u09b9\u09be\u09b2\u09c7\u09a8"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682015,
@@ -120,7 +123,6 @@
         "fct:id":"038726e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3462956,
         "gp:id":457199,
-        "qs:id":1211943,
         "qs_pg:id":1211943,
         "wd:id":"Q375650"
     },
@@ -140,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841204,
+    "wof:lastmodified":1566625093,
     "wof:name":"Frederico Westphalen",
     "wof:parent_id":404563639,
     "wof:placetype":"locality",

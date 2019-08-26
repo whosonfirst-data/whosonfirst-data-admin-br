@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-0.114873,
     "lbl:longitude":-51.290964,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-0.114873,
     "mps:longitude":-51.290964,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0632\u0627\u063a\u0627\u0626\u0648"
     ],
@@ -83,9 +86,6 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0437\u0430\u0433\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Mazaganopolis"
-    ],
     "name:vie_x_preferred":[
         "Mazag\u00e3o"
     ],
@@ -115,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":218,
     "wof:belongsto":[
@@ -130,7 +130,6 @@
         "fct:id":"0386c95a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3395042,
         "gp:id":456327,
-        "qs:id":279742,
         "qs_pg:id":279742,
         "wd:id":"Q1800704",
         "wk:page":"Mazag\u00e3o"
@@ -151,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841286,
+    "wof:lastmodified":1566625879,
     "wof:name":"Mazag\u00e3o",
     "wof:parent_id":404550335,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.125475,
     "lbl:longitude":-38.499657,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-7.125475,
     "mps:longitude":-38.499657,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u099c\u09cb\u09b8\u09c7 \u09a1\u09c7 \u09aa\u09bf\u09b0\u09be\u09a8\u09b9\u09be\u09b8"
     ],
@@ -81,9 +84,6 @@
     "name:swe_x_preferred":[
         "S\u00e3o Jos\u00e9 de Piranhas"
     ],
-    "name:unk_x_variant":[
-        "Jatob\u00e1"
-    ],
     "name:vie_x_preferred":[
         "S\u00e3o Jos\u00e9 de Piranhas"
     ],
@@ -113,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":148,
     "wof:belongsto":[
@@ -128,7 +128,6 @@
         "fct:id":"0380df0e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3388442,
         "gp:id":436659,
-        "qs:id":1044253,
         "qs_pg:id":1044253,
         "wd:id":"Q2010773",
         "wk:page":"S\u00e3o Jos\u00e9 de Piranhas"
@@ -149,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841291,
+    "wof:lastmodified":1566625917,
     "wof:name":"S\u00e3o Jos\u00e9 de Piranhas",
     "wof:parent_id":404560057,
     "wof:placetype":"locality",

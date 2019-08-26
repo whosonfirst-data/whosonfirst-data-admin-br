@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.369511,
     "lbl:longitude":-51.63842,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.369511,
     "mps:longitude":-51.63842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09bf\u09b0\u09be\u0987\u09af\u09bc\u09be\u09b0\u09be\u09b8"
     ],
@@ -95,9 +98,6 @@
     "name:swe_x_preferred":[
         "Ibiraiaras"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Jos\u00e9"
-    ],
     "name:vie_x_preferred":[
         "Ibiraiaras"
     ],
@@ -128,7 +128,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -141,7 +141,7 @@
         "fct:id":"0387b8d8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461578,
         "gp:id":459622,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q956087",
         "wk:page":"Ibiraiaras"
     },
@@ -161,7 +161,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841230,
+    "wof:lastmodified":1566625286,
     "wof:name":"Ibiraiaras",
     "wof:parent_id":404563729,
     "wof:placetype":"locality",

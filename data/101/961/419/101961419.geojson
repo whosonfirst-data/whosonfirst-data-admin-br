@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.635701,
     "lbl:longitude":-55.014005,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.635701,
     "mps:longitude":-55.014005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u0995\u09c1\u09b0\u09c1"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -119,7 +122,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3447088,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1805286",
         "wk:page":"Tacuru"
     },
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101961419,
-    "wof:lastmodified":1561841191,
+    "wof:lastmodified":1566624974,
     "wof:name":"Tacuru",
     "wof:parent_id":102055335,
     "wof:placetype":"locality",

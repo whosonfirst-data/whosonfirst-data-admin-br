@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.570035,
     "lbl:longitude":-56.261281,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.570035,
     "mps:longitude":-56.261281,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aar_x_preferred":[
         "Pimental"
     ],
@@ -613,7 +616,7 @@
     "name:twi_x_preferred":[
         "Pimental"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pimenta"
     ],
     "name:vec_x_preferred":[
@@ -673,7 +676,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         102191577,
@@ -685,7 +688,7 @@
     "wof:concordances":{
         "gn:id":3392105,
         "gp:id":458717,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q7194631"
     },
     "wof:country":"BR",
@@ -700,7 +703,7 @@
         }
     ],
     "wof:id":101981671,
-    "wof:lastmodified":1563247627,
+    "wof:lastmodified":1566626179,
     "wof:name":"Pimental",
     "wof:parent_id":102055965,
     "wof:placetype":"locality",

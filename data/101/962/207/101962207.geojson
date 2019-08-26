@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.56,
     "lbl:longitude":-49.951138,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-15.56,
     "mps:longitude":-49.951138,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09aa\u09c1\u09b0\u09be\u0999\u09cd\u0997\u09be"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Itapuranga"
     ],
-    "name:unk_x_variant":[
-        "Xix\u00e1"
-    ],
     "name:vie_x_preferred":[
         "Itapuranga"
     ],
@@ -115,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681925,
@@ -129,7 +129,6 @@
         "fct:id":"03873750-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460648,
         "gp:id":457360,
-        "qs:id":148203,
         "qs_pg:id":148203,
         "wd:id":"Q1806805"
     },
@@ -149,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241966,
+    "wof:lastmodified":1566623545,
     "wof:name":"Itapuranga",
     "wof:parent_id":404554823,
     "wof:placetype":"locality",

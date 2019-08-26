@@ -9,16 +9,19 @@
     "geom:bbox":"-51.0596482641,-14.4088319413,-50.9868470068,-14.3781953624",
     "geom:latitude":-14.393326,
     "geom:longitude":-51.021716,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-14.394845,
     "lbl:longitude":-51.024662,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.394845,
     "mps:longitude":-51.024662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u0995\u09be\u09b2\u09bf\u09a8\u09b9\u09cb"
     ],
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "Cocalinho"
     ],
-    "name:unk_x_variant":[
-        "Cocelinho"
-    ],
     "name:vie_x_preferred":[
         "Cocalinho"
     ],
@@ -138,7 +138,7 @@
     "qs_pg:woe_id":457042,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -150,7 +150,6 @@
         "fct:id":"03871720-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465999,
         "gp:id":457042,
-        "qs:id":148347,
         "qs_pg:id":148347,
         "wd:id":"Q1793037",
         "wk:page":"Cocalinho"
@@ -170,7 +169,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841189,
+    "wof:lastmodified":1566624963,
     "wof:name":"Cocalinho",
     "wof:parent_id":102055413,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.304933,
     "lbl:longitude":-43.897845,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.304933,
     "mps:longitude":-43.897845,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vista Alegre"
     ],
@@ -73,7 +76,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -83,7 +86,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":440751,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"bebf21f8e1ce29fae440144025eb133d",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101980405,
-    "wof:lastmodified":1564142068,
+    "wof:lastmodified":1566625742,
     "wof:name":"Vista Alegre",
     "wof:parent_id":102053201,
     "wof:placetype":"locality",

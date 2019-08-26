@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-20.896663,
     "lbl:longitude":-47.585634,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-20.896663,
     "mps:longitude":-47.585634,
     "mz:hierarchy_label":1,
@@ -86,9 +88,6 @@
     ],
     "name:swe_x_preferred":[
         "Batatais"
-    ],
-    "name:unk_x_variant":[
-        "Batataes"
     ],
     "name:vie_x_preferred":[
         "Batatais"
@@ -211,7 +210,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-20.891111,
     "wd:longitude":-47.585,
@@ -228,7 +227,6 @@
         "fct:id":"0386aa92-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3470324,
         "gp:id":456076,
-        "qs:id":233534,
         "qs_pg:id":233534,
         "wd:id":"Q650500",
         "wk:page":"Batatais"
@@ -248,7 +246,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242416,
+    "wof:lastmodified":1566623767,
     "wof:name":"Batatais",
     "wof:parent_id":102061139,
     "wof:placetype":"locality",

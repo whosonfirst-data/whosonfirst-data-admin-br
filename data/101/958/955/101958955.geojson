@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.205867,
     "lbl:longitude":-53.484879,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.205867,
     "mps:longitude":-53.484879,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a8\u09a1\u09cb\u09b0\u09cd"
     ],
@@ -77,9 +80,6 @@
     "name:spa_x_preferred":[
         "Condor"
     ],
-    "name:unk_x_variant":[
-        "Liberdade"
-    ],
     "name:vol_x_preferred":[
         "Condor"
     ],
@@ -107,7 +107,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":37,
     "wof:belongsto":[
         102191577,
@@ -120,7 +120,7 @@
         "fct:id":"03976896-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465700,
         "gp:id":56067388,
-        "qs:id":208284,
+        "qs_pg:id":208284,
         "wd:id":"Q600843",
         "wk:page":"Condor, Rio Grande do Sul"
     },
@@ -139,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841216,
+    "wof:lastmodified":1566625205,
     "wof:name":"Condor",
     "wof:parent_id":102059291,
     "wof:placetype":"locality",

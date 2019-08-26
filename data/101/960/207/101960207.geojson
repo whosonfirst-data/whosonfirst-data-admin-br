@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.553199,
     "lbl:longitude":-51.734633,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.553199,
     "mps:longitude":-51.734633,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09ad\u09c7\u09b0\u09be\u09ae\u09be"
     ],
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "Paverama"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Conc\u00f3rdia"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -128,7 +131,7 @@
         "fct:id":"03862ed2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3454642,
         "gp:id":443349,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1758766",
         "wk:page":"Paverama"
     },
@@ -148,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841235,
+    "wof:lastmodified":1566625321,
     "wof:name":"Paverama",
     "wof:parent_id":404564125,
     "wof:placetype":"locality",

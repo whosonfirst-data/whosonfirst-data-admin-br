@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-22.967198,
     "lbl:longitude":-48.047103,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-22.967198,
     "mps:longitude":-48.047103,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a8\u099a\u09be\u09b8"
     ],
@@ -97,7 +100,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":102061299,
-    "wof:lastmodified":1564133157,
+    "wof:lastmodified":1566619441,
     "wof:name":"Conchas",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

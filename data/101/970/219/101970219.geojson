@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.606109,
     "lbl:longitude":-57.982624,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.606109,
     "mps:longitude":-57.982624,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09ae \u099c\u09c7\u09b8\u0989\u09b8"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681885,
         102191577,
@@ -87,7 +90,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":457191,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"ced5512781a43c9e14726b2a493523c9",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101970219,
-    "wof:lastmodified":1564140074,
+    "wof:lastmodified":1566624116,
     "wof:name":"Bom Jesus",
     "wof:parent_id":404550275,
     "wof:placetype":"locality",

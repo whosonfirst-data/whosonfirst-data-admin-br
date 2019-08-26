@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.962696,
     "lbl:longitude":-60.888817,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.962696,
     "mps:longitude":-60.888817,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b0\u09c1\u09ae\u09ac\u09bf\u09af\u09bc\u09be\u09b0\u09be"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         101988091,
@@ -119,7 +122,7 @@
         "fct:id":"03898208-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316935,
         "gp:id":55944190,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q927349",
         "wk:page":"Corumbiara"
     },
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1175611049,
-    "wof:lastmodified":1561841007,
+    "wof:lastmodified":1566622750,
     "wof:name":"Corumbiara",
     "wof:parent_id":102058901,
     "wof:placetype":"locality",

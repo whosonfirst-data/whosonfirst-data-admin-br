@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.683339,
     "lbl:longitude":-39.117098,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.683339,
     "mps:longitude":-39.117098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Retiro"
     ],
@@ -85,7 +88,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":83,
     "wof:belongsto":[
         85681895,
@@ -96,7 +99,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"3ff441305fe19121bbe6f9fc619c35d2",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101977159,
-    "wof:lastmodified":1564139748,
+    "wof:lastmodified":1566623938,
     "wof:name":"Retiro",
     "wof:parent_id":404552045,
     "wof:placetype":"locality",

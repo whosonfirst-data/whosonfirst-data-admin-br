@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.137034,
     "lbl:longitude":-37.051086,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.137034,
     "mps:longitude":-37.051086,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b8\u09b8\u09be\u0997\u09c7\u09ae"
     ],
@@ -76,9 +79,6 @@
     "name:swe_x_preferred":[
         "Passagem"
     ],
-    "name:unk_x_variant":[
-        "Espinharas"
-    ],
     "name:vie_x_preferred":[
         "Passagem"
     ],
@@ -106,7 +106,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -118,7 +118,7 @@
         "fct:id":"0387d0e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3392967,
         "gp:id":460396,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2104849"
     },
     "wof:country":"BR",
@@ -136,7 +136,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243504,
+    "wof:lastmodified":1566624262,
     "wof:name":"Passagem",
     "wof:parent_id":102056287,
     "wof:placetype":"locality",

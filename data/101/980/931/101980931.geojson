@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.060307,
     "lbl:longitude":-42.479424,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.060307,
     "mps:longitude":-42.479424,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "S\u00e3o Francisco"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":327,
     "wof:belongsto":[
         85681941,
@@ -94,7 +97,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3449172,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"37534e603ef6794532fda9a71bc2b884",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101980931,
-    "wof:lastmodified":1564141982,
+    "wof:lastmodified":1566625700,
     "wof:name":"S\u00e3o Francisco",
     "wof:parent_id":404555111,
     "wof:placetype":"locality",

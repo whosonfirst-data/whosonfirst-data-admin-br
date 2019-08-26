@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.135244,
     "lbl:longitude":-52.321656,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-23.135244,
     "mps:longitude":-52.321656,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09cd\u099f\u09cb \u09aa\u09be\u09b0\u09be\u09a8\u09be"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681983,
@@ -120,7 +123,6 @@
         "fct:id":"03889064-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472440,
         "gp:id":421581,
-        "qs:id":875146,
         "qs_pg:id":875146,
         "wd:id":"Q2075653"
     },
@@ -140,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241491,
+    "wof:lastmodified":1566623318,
     "wof:name":"Alto Paran\u00e1",
     "wof:parent_id":404560823,
     "wof:placetype":"locality",

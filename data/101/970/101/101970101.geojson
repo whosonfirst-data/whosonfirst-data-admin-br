@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.214909,
     "lbl:longitude":-60.03473,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.214909,
     "mps:longitude":-60.03473,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*AM",
     "qs:a1_lc":"13",
@@ -30,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681885,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":445012,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"e71756a88204316dd283ee051137c374",
+    "wof:geomhash":"9fff5dfc6d813d58ac037ec44d13f4d8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101970101,
-    "wof:lastmodified":1479954978,
+    "wof:lastmodified":1566624136,
     "wof:name":"Janauari",
     "wof:parent_id":404550255,
     "wof:placetype":"locality",

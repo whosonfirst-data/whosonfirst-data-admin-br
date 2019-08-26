@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":0.777107,
     "lbl:longitude":-51.952399,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":0.777107,
     "mps:longitude":-51.952399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a1\u09cd\u09b0\u09be \u09ac\u09cd\u09b0\u09be\u0999\u09cd\u0995\u09be \u09a1\u09cb \u0986\u09ae\u09be\u09aa\u09be\u09b0\u09bf"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -120,7 +123,7 @@
     "wof:concordances":{
         "gn:id":6317907,
         "gp:id":55944095,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1772647",
         "wk:page":"Pedra Branca do Amapari"
     },
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101942103,
-    "wof:lastmodified":1561841274,
+    "wof:lastmodified":1566625813,
     "wof:name":"Pedra Branca do Amapari",
     "wof:parent_id":102050431,
     "wof:placetype":"locality",

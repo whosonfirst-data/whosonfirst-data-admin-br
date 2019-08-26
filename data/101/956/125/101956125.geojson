@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.277562,
     "lbl:longitude":-46.731269,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-23.277562,
     "mps:longitude":-46.731269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u0627\u0646\u0633\u064a\u0633\u0643\u0648 \u0645\u0648\u0631\u0627\u062a\u0648"
     ],
@@ -129,7 +132,7 @@
         "Francisco Morato"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0b9a\u0bc0\u0bb8\u0bcd\u0b95\u0bcb  \u0bae\u0bcb\u0bb0\u0bbe\u0b9f\u0bcb"
+        "\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0b9a\u0bc0\u0bb8\u0bcd\u0b95\u0bcb \u0bae\u0bcb\u0bb0\u0bbe\u0b9f\u0bcb"
     ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c4d\u0c30\u0c3e\u0c28\u0c4d\u0c38\u0c4d\u0c15\u0c4b \u0c2e\u0c4b\u0c30\u0c3e\u0c24\u0c4b"
@@ -175,7 +178,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-23.281667,
     "wd:longitude":-46.7425,
@@ -193,7 +196,6 @@
         "fct:id":"038a0264-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3462980,
         "gp:id":434045,
-        "qs:id":37593,
         "qs_pg:id":37593,
         "wd:id":"Q1646103"
     },
@@ -213,7 +215,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246106,
+    "wof:lastmodified":1566625415,
     "wof:name":"Francisco Morato",
     "wof:parent_id":404566423,
     "wof:placetype":"locality",

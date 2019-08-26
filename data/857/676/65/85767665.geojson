@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7886801.139478,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-43.330962,-22.780028,-43.330962,-22.780028",
     "geom:latitude":-22.780028,
     "geom:longitude":-43.330962,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-43.335962,-22.785028,-43.325962,-22.775028",
     "lbl:latitude":-22.780028,
     "lbl:longitude":-43.330962,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-22.78009,
     "mps:longitude":-43.331928,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:por_x_preferred":[
-        "Periquitos"
-    ],
-    "name:unk_x_variant":[
         "Periquitos"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -58,20 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681991,
         102191577,
         404562571,
         85633009,
         101953273,
-        102058471
+        102058471,
+        85681991
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56067056,
-        "qs:id":899648,
         "qs_pg:id":899648
     },
     "wof:country":"BR",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859208,
+    "wof:lastmodified":1566620778,
     "wof:name":"Periquitos",
     "wof:parent_id":101953273,
     "wof:placetype":"neighbourhood",

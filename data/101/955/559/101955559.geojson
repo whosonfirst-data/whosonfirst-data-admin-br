@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.533022,
     "lbl:longitude":-49.319636,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-20.533022,
     "mps:longitude":-49.319636,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u0997\u09cd\u09b0\u09be\u09a8\u09be\u09a1\u09be"
     ],
@@ -80,9 +83,6 @@
     "name:swe_x_preferred":[
         "Nova Granada"
     ],
-    "name:unk_x_variant":[
-        "Novo Granaoa"
-    ],
     "name:vie_x_preferred":[
         "Nova Granada"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":542.0,
     "wd:latitude":-20.533889,
@@ -131,7 +131,6 @@
         "fct:id":"0386cdd8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456164,
         "gp:id":456362,
-        "qs:id":382523,
         "qs_pg:id":382523,
         "wd:id":"Q1648342",
         "wk:page":"Nova Granada"
@@ -152,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242538,
+    "wof:lastmodified":1566623815,
     "wof:name":"Nova Granada",
     "wof:parent_id":404566869,
     "wof:placetype":"locality",

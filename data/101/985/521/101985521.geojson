@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.174342,
     "lbl:longitude":-40.051264,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.174342,
     "mps:longitude":-40.051264,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aar_x_preferred":[
         "Matias"
     ],
@@ -652,7 +655,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":171,
     "wof:belongsto":[
         85681973,
@@ -665,7 +668,7 @@
     "wof:concordances":{
         "gn:id":8431574,
         "gp:id":460095,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q19688705"
     },
     "wof:country":"BR",
@@ -681,7 +684,7 @@
         }
     ],
     "wof:id":101985521,
-    "wof:lastmodified":1563244098,
+    "wof:lastmodified":1566624505,
     "wof:name":"Matias",
     "wof:parent_id":404560537,
     "wof:placetype":"locality",

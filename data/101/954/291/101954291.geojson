@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.471906,
     "lbl:longitude":-40.917425,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.471906,
     "mps:longitude":-40.917425,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0989\u09b0\u09cd\u09af\u09bc\u09be\u09a8\u09bf\u09af\u09bc\u09be"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         85681921,
@@ -103,7 +106,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6318836,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"10bf5cf504eff7cef072681ba8146c6d",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101954291,
-    "wof:lastmodified":1564139138,
+    "wof:lastmodified":1566623329,
     "wof:name":"Ur\u00e2nia",
     "wof:parent_id":404554161,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-17.466395,
     "lbl:longitude":-41.880381,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-17.466395,
     "mps:longitude":-41.880381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09cb \u0995\u09cd\u09b0\u09c1\u099c\u09af\u09bc\u09c7\u0987\u09b0\u09cb"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "Novo Cruzeiro"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gravata"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +113,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -124,7 +127,7 @@
         "fct:id":"03862022-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456070,
         "gp:id":434763,
-        "qs:id":148067,
+        "qs_pg:id":148067,
         "wd:id":"Q1755515",
         "wk:page":"Novo Cruzeiro"
     },
@@ -144,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242350,
+    "wof:lastmodified":1566623739,
     "wof:name":"Novo Cruzeiro",
     "wof:parent_id":404557429,
     "wof:placetype":"locality",

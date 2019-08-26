@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.755908,
     "lbl:longitude":-50.550487,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-14.755908,
     "mps:longitude":-50.550487,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u099c\u09be\u09b0\u09cd\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":868,
     "wof:belongsto":[
@@ -117,7 +120,6 @@
         "fct:id":"03861744-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456642,
         "gp:id":441022,
-        "qs:id":388208,
         "qs_pg:id":388208,
         "wd:id":"Q1003419",
         "wk:page":"Mozarl\u00e2ndia"
@@ -137,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841065,
+    "wof:lastmodified":1566623535,
     "wof:name":"Mozarl\u00e2ndia",
     "wof:parent_id":102052435,
     "wof:placetype":"locality",

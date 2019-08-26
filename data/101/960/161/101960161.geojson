@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.613226,
     "lbl:longitude":-51.785079,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.613226,
     "mps:longitude":-51.785079,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bom Jardim"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -68,7 +71,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"2a118d7008e04cf3f0234e6bcd9a511f",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101960161,
-    "wof:lastmodified":1564141465,
+    "wof:lastmodified":1566625273,
     "wof:name":"Bom Jardim",
     "wof:parent_id":404564129,
     "wof:placetype":"locality",

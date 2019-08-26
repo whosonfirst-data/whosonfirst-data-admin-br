@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000313,
+    "geom:area_square_m":3856451.128508,
     "geom:bbox":"-39.6863157731,-4.65744879597,-39.6634138153,-4.63663812826",
     "geom:latitude":-4.648566,
     "geom:longitude":-39.674453,
     "iso:country":"BR",
     "lbl:latitude":-4.648402,
     "lbl:longitude":-39.674235,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.648402,
     "mps:longitude":-39.674235,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Lagoa do Mato"
     ],
@@ -38,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":173,
     "wof:belongsto":[
         85681907,
@@ -51,10 +55,12 @@
     "wof:concordances":{
         "gn:id":3396756,
         "gp:id":437844,
-        "qs:id":9,
-        "qs_pg:id":472746,
+        "qs_pg:id":9,
         "wd:id":"Q6472458",
         "wk:page":"Lagoa do Mato, Cear\u00e1"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":472746
     },
     "wof:country":"BR",
     "wof:geomhash":"38dfbc2540110cdd1c7a998c5a2a1d64",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":101945319,
-    "wof:lastmodified":1527715811,
+    "wof:lastmodified":1566625943,
     "wof:name":"Lagoa do Mato",
     "wof:parent_id":404553175,
     "wof:placetype":"locality",

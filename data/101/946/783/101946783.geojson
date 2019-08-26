@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.276503,
     "lbl:longitude":-35.376204,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.276503,
     "mps:longitude":-35.376204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Passagem"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":153,
     "wof:belongsto":[
         102191577,
@@ -101,7 +104,7 @@
         "fct:id":"0387600e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3392970,
         "gp:id":457759,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2309743",
         "wk:page":"Passagem, Rio Grande do Norte"
     },
@@ -120,7 +123,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841120,
+    "wof:lastmodified":1566624250,
     "wof:name":"Passagem",
     "wof:parent_id":102058735,
     "wof:placetype":"locality",

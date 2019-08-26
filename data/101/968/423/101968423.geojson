@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.568147,
     "lbl:longitude":-48.157894,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-22.568147,
     "mps:longitude":-48.157894,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be \u09a1\u09be \u09b8\u09c7\u09b0\u09b0\u09be"
     ],
@@ -87,9 +90,6 @@
     "name:swe_x_preferred":[
         "Santa Maria da Serra"
     ],
-    "name:unk_x_variant":[
-        "Tupanci"
-    ],
     "name:vie_x_preferred":[
         "Santa Maria da Serra"
     ],
@@ -119,7 +119,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.567222,
     "wd:longitude":-48.160556,
@@ -137,7 +137,6 @@
         "fct:id":"0387dd86-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3450064,
         "gp:id":460938,
-        "qs:id":829386,
         "qs_pg:id":829386,
         "wd:id":"Q1759992",
         "wk:page":"Santa Maria da Serra"
@@ -158,7 +157,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244899,
+    "wof:lastmodified":1566624875,
     "wof:name":"Santa Maria da Serra",
     "wof:parent_id":404567175,
     "wof:placetype":"locality",

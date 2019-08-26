@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.608601,
     "lbl:longitude":-52.0193,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.608601,
     "mps:longitude":-52.0193,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mutum"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -53,7 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456623,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"fdfcd1e8ce297b688c0ad0f6478c8294",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101982345,
-    "wof:lastmodified":1564140842,
+    "wof:lastmodified":1566624656,
     "wof:name":"Mutum",
     "wof:parent_id":102055507,
     "wof:placetype":"locality",

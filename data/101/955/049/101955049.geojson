@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.301508,
     "lbl:longitude":-51.049235,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.301508,
     "mps:longitude":-51.049235,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0415\u0441\u043c\u0435\u0440\u0430\u043b\u0434\u0430"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -107,7 +110,7 @@
         "fct:id":"03851704-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317079,
         "gp:id":26797841,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"0e040e7e8b2f58d7594b17c905e13da3",
@@ -125,7 +128,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564139656,
+    "wof:lastmodified":1566623827,
     "wof:name":"Esmeralda",
     "wof:parent_id":404567137,
     "wof:placetype":"locality",

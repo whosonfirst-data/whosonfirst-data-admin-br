@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.5764,
     "lbl:longitude":-49.2037,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.5764,
     "mps:longitude":-49.2037,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Santa Cruz"
     ],
@@ -172,7 +175,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -183,7 +186,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":457779,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"31a3f04c8714bad373b60e51f60b1566",
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":101964221,
-    "wof:lastmodified":1564139532,
+    "wof:lastmodified":1566623686,
     "wof:name":"Santa Cruz",
     "wof:parent_id":404565951,
     "wof:placetype":"locality",

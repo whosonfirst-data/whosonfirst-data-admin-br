@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.325261,
     "lbl:longitude":-50.357113,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.325261,
     "mps:longitude":-50.357113,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "Guarauna"
     ],
@@ -24,9 +28,6 @@
     "name:por_x_variant":[
         "Valinhos",
         "Vallinhos"
-    ],
-    "name:unk_x_variant":[
-        "Valinhos"
     ],
     "qs:a0":"Brasil",
     "qs:a1":"*PR",
@@ -43,7 +44,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -56,7 +57,7 @@
         "fct:id":"038385c4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461850,
         "gp:id":459585,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"8b433707ce10230fc2ec7a9d1041874e",
@@ -74,7 +75,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1501266677,
+    "wof:lastmodified":1566624833,
     "wof:name":"Guara\u00fana",
     "wof:parent_id":404561983,
     "wof:placetype":"locality",

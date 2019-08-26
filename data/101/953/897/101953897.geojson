@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.430555,
     "lbl:longitude":-41.9612,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.430555,
     "mps:longitude":-41.9612,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09cd\u099f\u09cb \u099c\u09c7\u0995\u09c1\u0987\u099f\u09bf\u09ac\u09be"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":105,
     "wof:belongsto":[
         85681941,
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gn:id":6316361,
         "gp:id":449982,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q443518",
         "wk:page":"Alto Jequitib\u00e1"
     },
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101953897,
-    "wof:lastmodified":1561841047,
+    "wof:lastmodified":1566623406,
     "wof:name":"Alto Jequitib\u00e1",
     "wof:parent_id":404557845,
     "wof:placetype":"locality",

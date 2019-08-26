@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.405249,
     "lbl:longitude":-38.952287,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.405249,
     "mps:longitude":-38.952287,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09bf\u09ae\u09be \u0995\u09be\u09ae\u09cd\u09aa\u09cb\u09b8"
     ],
@@ -85,7 +88,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -98,7 +101,7 @@
         "fct:id":"0380f7b4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3396307,
         "gp:id":438545,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"942111574ddfbc655945bb68080866b0",
@@ -116,7 +119,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564142400,
+    "wof:lastmodified":1566626008,
     "wof:name":"Lima Campos",
     "wof:parent_id":404552999,
     "wof:placetype":"locality",

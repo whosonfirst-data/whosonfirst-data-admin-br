@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.650884,
     "lbl:longitude":-43.896641,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-19.650884,
     "mps:longitude":-43.896641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u0997\u09cb\u09af\u09bc\u09be \u09b8\u09be\u09a8\u09cd\u099f\u09be"
     ],
@@ -122,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":224,
     "wof:belongsto":[
@@ -137,7 +140,6 @@
         "fct:id":"038a18f8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3459138,
         "gp:id":459902,
-        "qs:id":148145,
         "qs_pg:id":148145,
         "wd:id":"Q178667",
         "wk:page":"Lagoa Santa, Minas Gerais"
@@ -158,7 +160,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841263,
+    "wof:lastmodified":1566625514,
     "wof:name":"Lagoa Santa",
     "wof:parent_id":404556997,
     "wof:placetype":"locality",

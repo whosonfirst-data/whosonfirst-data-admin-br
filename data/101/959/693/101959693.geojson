@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.874939,
     "lbl:longitude":-52.18346,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.874939,
     "mps:longitude":-52.18346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b0\u09cd\u09ad\u09cb\u09b0\u09c7\u099c\u09bf\u09a8\u09b9\u09be"
     ],
@@ -92,9 +95,6 @@
     "name:swe_x_preferred":[
         "Arvorezinha"
     ],
-    "name:unk_x_variant":[
-        "Arvoresinha"
-    ],
     "name:vie_x_preferred":[
         "Arvorezinha"
     ],
@@ -128,7 +128,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -141,7 +141,6 @@
         "fct:id":"038806b2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471383,
         "gp:id":456725,
-        "qs:id":181445,
         "qs_pg:id":181445,
         "wd:id":"Q1749878",
         "wk:page":"Arvorezinha"
@@ -162,7 +161,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245355,
+    "wof:lastmodified":1566625089,
     "wof:name":"Arvorezinha",
     "wof:parent_id":404563013,
     "wof:placetype":"locality",

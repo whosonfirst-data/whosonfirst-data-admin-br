@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.819496,
     "lbl:longitude":-53.015856,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.819496,
     "mps:longitude":-53.015856,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Machado"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -50,7 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"d02a254a3308f2ca68ffc7bbfb551c1d",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101956781,
-    "wof:lastmodified":1564141564,
+    "wof:lastmodified":1566625411,
     "wof:name":"Machado",
     "wof:parent_id":404565729,
     "wof:placetype":"locality",

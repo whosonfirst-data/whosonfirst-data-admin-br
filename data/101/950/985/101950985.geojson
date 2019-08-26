@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000128,
-    "geom:area_square_m":1463111.803822,
+    "geom:area_square_m":1463111.803821,
     "geom:bbox":"-44.9839736089,-22.4244929704,-44.9666446191,-22.4095773415",
     "geom:latitude":-22.416486,
     "geom:longitude":-44.977132,
     "iso:country":"BR",
     "lbl:latitude":-22.416224,
     "lbl:longitude":-44.977723,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.416224,
     "mps:longitude":-44.977723,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Pinheirinhos"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -52,7 +55,9 @@
         "fct:id":"03816b18-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3453735,
         "gp:id":444223,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1137991
     },
     "wof:country":"BR",
@@ -71,7 +76,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1504301580,
+    "wof:lastmodified":1566624747,
     "wof:name":"Pinheirinhos",
     "wof:parent_id":404557567,
     "wof:placetype":"locality",

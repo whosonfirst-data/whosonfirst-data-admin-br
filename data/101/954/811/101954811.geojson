@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-24.041585,
     "lbl:longitude":-52.37796,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-24.041585,
     "mps:longitude":-52.37796,
     "mz:hierarchy_label":1,
@@ -96,9 +98,6 @@
     ],
     "name:swe_x_preferred":[
         "Campo Mour\u00e3o"
-    ],
-    "name:unk_x_variant":[
-        "Mour\u00e3o"
     ],
     "name:vie_x_preferred":[
         "Campo Mour\u00e3o"
@@ -222,7 +221,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1805,
     "wof:belongsto":[
@@ -237,7 +236,6 @@
         "fct:id":"03870bf4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3467717,
         "gp:id":456936,
-        "qs:id":777932,
         "qs_pg:id":777932,
         "wd:id":"Q1773327",
         "wk:page":"Campo Mour\u00e3o"
@@ -258,7 +256,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241412,
+    "wof:lastmodified":1566623283,
     "wof:name":"Campo Mour\u00e3o",
     "wof:parent_id":404560985,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.192253,
     "lbl:longitude":-35.466841,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-5.192253,
     "mps:longitude":-35.466841,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u099f\u09cc\u09b0\u09cb\u09b8"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -125,7 +128,6 @@
         "fct:id":"0386e908-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3386213,
         "gp:id":456571,
-        "qs:id":1106478,
         "qs_pg:id":1106478,
         "wd:id":"Q1797006",
         "wk:page":"Touros"
@@ -145,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243407,
+    "wof:lastmodified":1566624229,
     "wof:name":"Touros",
     "wof:parent_id":102058867,
     "wof:placetype":"locality",

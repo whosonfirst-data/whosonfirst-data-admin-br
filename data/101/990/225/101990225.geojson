@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.969106,
     "lbl:longitude":-37.361444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.969106,
     "mps:longitude":-37.361444,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Campos"
     ],
@@ -217,7 +220,7 @@
     "name:swe_x_preferred":[
         "Campos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nossa Senhora de Campos do Rio Real"
     ],
     "name:vec_x_preferred":[
@@ -261,7 +264,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":132,
     "wof:belongsto":[
         102191577,
@@ -273,9 +276,11 @@
     "wof:concordances":{
         "gn:id":3446400,
         "gp:id":427704,
-        "qs:id":9,
-        "qs_pg:id":180797,
+        "qs_pg:id":9,
         "wd:id":"Q256047"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":180797
     },
     "wof:country":"BR",
     "wof:geomhash":"6f02e1fa5c82e01dc8ab3326ac6f1965",
@@ -289,7 +294,7 @@
         }
     ],
     "wof:id":101990225,
-    "wof:lastmodified":1563242181,
+    "wof:lastmodified":1566623658,
     "wof:name":"Campos",
     "wof:parent_id":102060883,
     "wof:placetype":"locality",

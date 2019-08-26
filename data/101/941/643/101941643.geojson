@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.685651,
     "lbl:longitude":-65.369142,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.685651,
     "mps:longitude":-65.369142,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Abun\u00e3"
     ],
@@ -35,9 +38,6 @@
         "Abunan",
         "Presidente Marques"
     ],
-    "name:unk_x_variant":[
-        "Presidente Marques"
-    ],
     "qs:a0":"Brasil",
     "qs:a1":"*RO",
     "qs:a1_lc":"11",
@@ -53,7 +53,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":81,
     "wof:belongsto":[
         85682003,
@@ -67,7 +67,7 @@
         "fct:id":"0382460a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3665510,
         "gp:id":456611,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4670642",
         "wk:page":"Abun\u00e3"
     },
@@ -87,7 +87,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841127,
+    "wof:lastmodified":1566624288,
     "wof:name":"Abun\u00e3",
     "wof:parent_id":404562815,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.93581,
     "lbl:longitude":-41.212613,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.93581,
     "mps:longitude":-41.212613,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u0995\u09cb\u09ac\u09bf\u09a8\u09be \u09a1\u09cb \u09aa\u09bf\u09af\u09bc\u09be\u0989\u0987"
     ],
@@ -105,7 +108,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":149,
     "wof:belongsto":[
         102191577,
@@ -118,7 +121,7 @@
         "fct:id":"0388f6ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317349,
         "gp:id":436374,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2064385",
         "wk:page":"Jacobina do Piau\u00ed"
     },
@@ -137,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841307,
+    "wof:lastmodified":1566626099,
     "wof:name":"Jacobina do Piau\u00ed",
     "wof:parent_id":102057125,
     "wof:placetype":"locality",

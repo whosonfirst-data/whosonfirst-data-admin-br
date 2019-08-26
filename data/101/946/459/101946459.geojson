@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.723935,
     "lbl:longitude":-36.055931,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.723935,
     "mps:longitude":-36.055931,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u09b0\u09be \u09a1\u09c7 \u09b8\u09be\u09a8\u09cd\u099f\u09be \u09b0\u09cb\u09b8\u09be"
     ],
@@ -83,7 +86,7 @@
     "name:swe_x_preferred":[
         "Barra de Santa Rosa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Rosa"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +119,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -128,7 +131,7 @@
         "fct:id":"038587ac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3406334,
         "gp:id":423646,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1800788",
         "wk:page":"Barra de Santa Rosa"
     },
@@ -147,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841124,
+    "wof:lastmodified":1566624274,
     "wof:name":"Barra de Santa Rosa",
     "wof:parent_id":102056037,
     "wof:placetype":"locality",

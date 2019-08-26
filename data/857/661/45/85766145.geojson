@@ -15,6 +15,7 @@
     "iso:country":"BR",
     "lbl:latitude":-23.708729,
     "lbl:longitude":-46.648123,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-23.708729,
     "mps:longitude":-46.648123,
     "mz:hierarchy_label":1,
@@ -86,9 +87,8 @@
     "name:swe_x_preferred":[
         "Pedreira"
     ],
-    "name:unk_x_variant":[
-        "Pedreiras",
-        "Pedreira"
+    "name:und_x_variant":[
+        "Pedreiras"
     ],
     "name:vie_x_preferred":[
         "Pedreira"
@@ -130,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -144,7 +144,6 @@
     "wof:concordances":{
         "gn:id":3454407,
         "gp:id":26804385,
-        "qs:id":897146,
         "qs_pg:id":897146,
         "wd:id":"Q786140",
         "wk:page":"Pedreira, S\u00e3o Paulo"
@@ -163,7 +162,7 @@
         }
     ],
     "wof:id":85766145,
-    "wof:lastmodified":1563237448,
+    "wof:lastmodified":1566620768,
     "wof:name":"Pedreira",
     "wof:parent_id":101965533,
     "wof:placetype":"neighbourhood",

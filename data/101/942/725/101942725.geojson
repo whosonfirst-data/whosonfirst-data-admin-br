@@ -9,14 +9,17 @@
     "geom:bbox":"-47.9513926363,-0.787665201997,-47.9440064868,-0.780936420656",
     "geom:latitude":-0.78428,
     "geom:longitude":-47.947787,
-    "geonames:id":"3394126,3411722",
+    "gn:id":"3394126,3411722",
     "iso:country":"BR",
     "lbl:latitude":-0.784259,
     "lbl:longitude":-47.947787,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-0.784259,
     "mps:longitude":-47.947787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Muraja"
     ],
@@ -26,7 +29,7 @@
     "name:pol_x_preferred":[
         "Muraja"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Curaj\u00e1"
     ],
     "name:vol_x_preferred":[
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681959,
         102191577,
@@ -61,7 +64,9 @@
     "wof:concordances":{
         "gn:id":3394126,
         "gp:id":460210,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":267203
     },
     "wof:country":"BR",
@@ -77,7 +82,7 @@
         }
     ],
     "wof:id":101942725,
-    "wof:lastmodified":1513813929,
+    "wof:lastmodified":1566625839,
     "wof:name":"Muraj\u00e1",
     "wof:parent_id":404559611,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.934333,
     "lbl:longitude":-51.548896,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-28.934333,
     "mps:longitude":-51.548896,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09c7\u09b0\u09be\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
     ],
@@ -92,9 +95,6 @@
     "name:szl_x_preferred":[
         "Veran\u00f3polis"
     ],
-    "name:unk_x_variant":[
-        "Alfredo Chaves"
-    ],
     "name:vie_x_preferred":[
         "Veran\u00f3polis"
     ],
@@ -124,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -137,7 +137,6 @@
         "fct:id":"03879420-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3445299,
         "gp:id":458261,
-        "qs:id":213474,
         "qs_pg:id":213474,
         "wd:id":"Q1101945"
     },
@@ -156,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245034,
+    "wof:lastmodified":1566624940,
     "wof:name":"Veran\u00f3polis",
     "wof:parent_id":102060119,
     "wof:placetype":"locality",

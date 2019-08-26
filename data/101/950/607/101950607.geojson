@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.4947,
     "lbl:longitude":-47.723725,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.4947,
     "mps:longitude":-47.723725,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09b0\u09c1\u09aa\u09bf\u09f1\u09be\u09b0\u09be"
     ],
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -128,7 +131,7 @@
         "fct:id":"0385d6ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3462045,
         "gp:id":434835,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1791244",
         "wk:page":"Grupiara"
     },
@@ -148,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841162,
+    "wof:lastmodified":1566624775,
     "wof:name":"Grupiara",
     "wof:parent_id":404556519,
     "wof:placetype":"locality",

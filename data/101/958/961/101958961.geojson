@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.9001,
     "lbl:longitude":-53.315037,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-27.9001,
     "mps:longitude":-53.315037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b2\u09ae\u09c7\u0987\u09b0\u09be \u09a1\u09be\u09b8 \u09ae\u09bf\u09b8\u09b8\u09cb\u09af\u09bc\u09c7\u09b8"
     ],
@@ -80,9 +83,6 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e31\u0e25\u0e40\u0e21\u0e22\u0e4c\u0e23\u0e32\u0e14\u0e31\u0e2a\u0e21\u0e35\u0e0b\u0e2d\u0e22\u0e2a\u0e4c"
     ],
-    "name:unk_x_variant":[
-        "Palmeira"
-    ],
     "name:vie_x_preferred":[
         "Palmeira das Miss\u00f5es"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":39,
     "wof:belongsto":[
@@ -127,7 +127,6 @@
         "fct:id":"03814980-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3455416,
         "gp:id":442496,
-        "qs:id":1322566,
         "qs_pg:id":1322566,
         "wd:id":"Q1750240",
         "wk:page":"Palmeira das Miss\u00f5es"
@@ -148,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245690,
+    "wof:lastmodified":1566625235,
     "wof:name":"Palmeira das Miss\u00f5es",
     "wof:parent_id":404564075,
     "wof:placetype":"locality",

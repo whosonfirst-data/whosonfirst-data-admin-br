@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.214819,
     "lbl:longitude":-44.62063,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-4.214819,
     "mps:longitude":-44.62063,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09b0\u09be\u099f\u09bf\u09a8\u09bf\u0999\u09cd\u0997\u09be"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.4155,
     "wd:longitude":-49.194,
@@ -102,7 +105,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"7c7f061fdf45f7d51365c44f2a2e7dfe",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101975419,
-    "wof:lastmodified":1564142678,
+    "wof:lastmodified":1566626230,
     "wof:name":"Piratininga",
     "wof:parent_id":102052805,
     "wof:placetype":"locality",

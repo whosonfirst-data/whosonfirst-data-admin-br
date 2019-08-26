@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.937328,
     "lbl:longitude":-41.856188,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.937328,
     "mps:longitude":-41.856188,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c1\u09b0\u09cd\u09b0\u09be\u09b2 \u09a1\u09c7 \u09a1\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09cb"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -122,7 +125,7 @@
         "fct:id":"0387b176-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3464957,
         "gp:id":459301,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1792791",
         "wk:page":"Curral de Dentro"
     },
@@ -142,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841082,
+    "wof:lastmodified":1566623752,
     "wof:name":"Curral de Dentro",
     "wof:parent_id":404556137,
     "wof:placetype":"locality",

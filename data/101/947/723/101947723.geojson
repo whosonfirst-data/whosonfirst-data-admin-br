@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.048197,
     "lbl:longitude":-37.835075,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.048197,
     "mps:longitude":-37.835075,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "Sitio dos Nunes"
     ],
@@ -29,9 +33,6 @@
     ],
     "name:spa_x_preferred":[
         "El Rancho del P\u00e1jaro Amarillo"
-    ],
-    "name:unk_x_variant":[
-        "Sitio Nunes"
     ],
     "qs:a0":"Brasil",
     "qs:a1":"*PE",
@@ -48,7 +49,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681973,
         102191577,
@@ -61,7 +62,7 @@
         "fct:id":"038484a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3387484,
         "gp:id":461282,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"757639e4e1af7e9e25e4ae4727dcca34",
@@ -79,7 +80,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1501266275,
+    "wof:lastmodified":1566624393,
     "wof:name":"S\u00edtio dos Nunes",
     "wof:parent_id":404560337,
     "wof:placetype":"locality",

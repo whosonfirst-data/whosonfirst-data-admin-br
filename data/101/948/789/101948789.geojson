@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.912533,
     "lbl:longitude":-46.100842,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-15.912533,
     "mps:longitude":-46.100842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b0\u09bf\u09a8\u09cb\u09b8"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Arinos"
     ],
-    "name:unk_x_variant":[
-        "Affonso Arinos"
-    ],
     "name:vie_x_preferred":[
         "Arinos"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -132,7 +132,6 @@
         "fct:id":"0386a7c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471522,
         "gp:id":456051,
-        "qs:id":148477,
         "qs_pg:id":148477,
         "wd:id":"Q617058"
     },
@@ -152,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242888,
+    "wof:lastmodified":1566623932,
     "wof:name":"Arinos",
     "wof:parent_id":404555309,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.310443,
     "lbl:longitude":-53.988958,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.310443,
     "mps:longitude":-53.988958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Lara"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":201,
     "wof:belongsto":[
         85682015,
@@ -103,7 +106,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":431713,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"01eaa3a78600726e367c11dd89864924",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101958709,
-    "wof:lastmodified":1564141400,
+    "wof:lastmodified":1566625203,
     "wof:name":"Lara",
     "wof:parent_id":404563571,
     "wof:placetype":"locality",

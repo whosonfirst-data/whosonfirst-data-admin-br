@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.798679,
     "lbl:longitude":-51.571945,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.798679,
     "mps:longitude":-51.571945,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u09b0\u09cd\u09a1\u09bf\u09ae \u0986\u09b2\u09c7\u0997\u09cd\u09b0\u09c7"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":6317365,
         "gp:id":461136,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"f54c4c1dafe835b659f143b2f6f2f617",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101960385,
-    "wof:lastmodified":1564141486,
+    "wof:lastmodified":1566625297,
     "wof:name":"Jardim Alegre",
     "wof:parent_id":404564641,
     "wof:placetype":"locality",

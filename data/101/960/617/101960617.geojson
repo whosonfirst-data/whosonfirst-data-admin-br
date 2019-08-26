@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.980345,
     "lbl:longitude":-50.97705,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-27.980345,
     "mps:longitude":-50.97705,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Estrela"
     ],
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682015,
@@ -58,7 +61,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3463762,
-        "qs:id":1045071,
         "qs_pg:id":1045071,
         "wd:id":"Q22044973"
     },
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":101960617,
-    "wof:lastmodified":1563245793,
+    "wof:lastmodified":1566625279,
     "wof:name":"Estrela",
     "wof:parent_id":404565031,
     "wof:placetype":"locality",

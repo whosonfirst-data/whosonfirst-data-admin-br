@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.442927,
     "lbl:longitude":-43.645399,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.442927,
     "mps:longitude":-43.645399,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09ae \u099c\u09be\u09b0\u09cd\u09a1\u09bf\u09ae \u09a1\u09c7 \u09ae\u09bf\u09a8\u09be\u09b8"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u043d-\u0416\u0430\u0440\u0434\u0438\u043d-\u0434\u0438-\u041c\u0438\u043d\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bom Jardin"
     ],
     "name:zho_x_preferred":[
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -60,7 +63,9 @@
     "wof:concordances":{
         "gn:id":3469455,
         "gp:id":439439,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1159385
     },
     "wof:country":"BR",
@@ -76,7 +81,7 @@
         }
     ],
     "wof:id":101953113,
-    "wof:lastmodified":1504301651,
+    "wof:lastmodified":1566623412,
     "wof:name":"Mantiqueira",
     "wof:parent_id":404558201,
     "wof:placetype":"locality",

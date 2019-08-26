@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-28.407149,
     "lbl:longitude":-54.961511,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-28.407149,
     "mps:longitude":-54.961511,
     "mz:hierarchy_label":1,
@@ -86,9 +88,6 @@
     ],
     "name:spa_x_preferred":[
         "S\u00e3o Luiz Gonzaga"
-    ],
-    "name:unk_x_variant":[
-        "S\u00e3o Luiz"
     ],
     "name:vie_x_preferred":[
         "S\u00e3o Luiz Gonzaga"
@@ -211,7 +210,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682015,
@@ -225,7 +224,6 @@
         "fct:id":"03881fd0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3448552,
         "gp:id":458055,
-        "qs:id":1324631,
         "qs_pg:id":1324631,
         "wd:id":"Q647406"
     },
@@ -245,7 +243,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841215,
+    "wof:lastmodified":1566625198,
     "wof:name":"S\u00e3o Luiz Gonzaga",
     "wof:parent_id":404564685,
     "wof:placetype":"locality",

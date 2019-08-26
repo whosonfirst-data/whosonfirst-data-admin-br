@@ -9,16 +9,19 @@
     "geom:bbox":"-55.9703288104,-13.1227571719,-55.8954323559,-13.0350390233",
     "geom:latitude":-13.083513,
     "geom:longitude":-55.929455,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-13.086422,
     "lbl:longitude":-55.928748,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.086422,
     "mps:longitude":-55.928748,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09c1\u0995\u09be\u09b8 \u09a1\u09cb \u09b0\u09bf\u0993 \u09ad\u09c7\u09b0\u09cd\u09a1\u09c7"
     ],
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Lucas do Rio Verde"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Flexas"
     ],
     "name:vie_x_preferred":[
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681955,
         102191577,
@@ -142,7 +145,6 @@
         "fct:id":"038744ac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3458397,
         "gp:id":457490,
-        "qs:id":1147697,
         "qs_pg:id":95631,
         "wd:id":"Q2012618"
     },
@@ -166,7 +168,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841194,
+    "wof:lastmodified":1566624987,
     "wof:name":"Lucas do Rio Verde",
     "wof:parent_id":404559251,
     "wof:placetype":"locality",

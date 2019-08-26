@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.997378,
     "lbl:longitude":-53.681897,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.997378,
     "mps:longitude":-53.681897,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vila Nova"
     ],
@@ -34,7 +37,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":134,
     "wof:belongsto":[
         85682015,
@@ -45,7 +48,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q16976716"
     },
     "wof:country":"BR",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101958915,
-    "wof:lastmodified":1563245672,
+    "wof:lastmodified":1566625228,
     "wof:name":"Vila Block",
     "wof:parent_id":404564753,
     "wof:placetype":"locality",

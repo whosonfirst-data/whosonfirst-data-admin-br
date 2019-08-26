@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.877587,
     "lbl:longitude":-39.902073,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.877587,
     "mps:longitude":-39.902073,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u0997\u09c1\u09f1\u09be\u09b8 \u09ac\u09c7\u09b2\u09be\u09b8"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":211,
     "wof:belongsto":[
         85681907,
@@ -91,7 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8431577,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"571116092de44f9c61150b1fe2bcb494",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101944281,
-    "wof:lastmodified":1564142333,
+    "wof:lastmodified":1566625962,
     "wof:name":"\u00c1guas Belas",
     "wof:parent_id":404552527,
     "wof:placetype":"locality",

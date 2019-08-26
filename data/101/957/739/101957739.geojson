@@ -9,14 +9,17 @@
     "geom:bbox":"-49.8175037137,-26.5758161307,-49.7865247792,-26.5363627881",
     "geom:latitude":-26.556461,
     "geom:longitude":-49.803079,
-    "geonames:id":"3460871,3457004",
+    "gn:id":"3460871,3457004",
     "iso:country":"BR",
     "lbl:latitude":-26.556403,
     "lbl:longitude":-49.803315,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.556403,
     "mps:longitude":-49.803315,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Moema"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -51,7 +54,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"f6005bc1825f7ce02b0160ca40c53342",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101957739,
-    "wof:lastmodified":1564141004,
+    "wof:lastmodified":1566624789,
     "wof:name":"Moema",
     "wof:parent_id":404565523,
     "wof:placetype":"locality",

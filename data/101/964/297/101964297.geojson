@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.374576,
     "lbl:longitude":-48.726713,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.374576,
     "mps:longitude":-48.726713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u0995\u09c1\u09f1\u09be\u09b0\u09bf"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Araquari"
     ],
-    "name:unk_x_variant":[
-        "Paraty"
-    ],
     "name:vie_x_preferred":[
         "Araquari"
     ],
@@ -115,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -128,7 +128,6 @@
         "fct:id":"0382d21e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471783,
         "gp:id":458495,
-        "qs:id":290421,
         "qs_pg:id":290421,
         "wd:id":"Q607184",
         "wk:page":"Araquari"
@@ -149,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242330,
+    "wof:lastmodified":1566623727,
     "wof:name":"Araquari",
     "wof:parent_id":404565161,
     "wof:placetype":"locality",

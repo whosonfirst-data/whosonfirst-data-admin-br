@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.535384,
     "lbl:longitude":-46.779918,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":-23.535384,
     "mps:longitude":-46.779918,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:abk_x_preferred":[
         "\u041e\u0437\u0430\u0441\u043a\u0443"
     ],
@@ -676,7 +679,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":760.0,
     "wd:latitude":-23.532778,
@@ -695,7 +698,6 @@
         "fct:id":"0389ecde-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3455775,
         "gp:id":455894,
-        "qs:id":1071875,
         "qs_pg:id":1071875,
         "wd:id":"Q4035",
         "wk:page":"Osasco"
@@ -716,7 +718,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245949,
+    "wof:lastmodified":1566625349,
     "wof:name":"Osasco",
     "wof:parent_id":404566899,
     "wof:placetype":"locality",

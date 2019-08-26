@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.867909,
     "lbl:longitude":-49.098937,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.867909,
     "mps:longitude":-49.098937,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u09a8\u09cd\u099f\u09be\u0993"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         102191577,
@@ -98,7 +101,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"87890e461cdf77579fc8f8fc938d92f9",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101989119,
-    "wof:lastmodified":1564142146,
+    "wof:lastmodified":1566625781,
     "wof:name":"Pont\u00e3o",
     "wof:parent_id":102062699,
     "wof:placetype":"locality",

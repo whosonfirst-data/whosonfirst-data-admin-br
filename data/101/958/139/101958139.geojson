@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.061611,
     "lbl:longitude":-48.639507,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.061611,
     "mps:longitude":-48.639507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09be\u09b0\u09cb\u09aa\u09be\u09ac\u09be"
     ],
@@ -94,9 +97,6 @@
     "name:swe_x_preferred":[
         "Garopaba"
     ],
-    "name:unk_x_variant":[
-        "Garopada"
-    ],
     "name:vie_x_preferred":[
         "Garopaba"
     ],
@@ -129,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -142,7 +142,6 @@
         "fct:id":"0387b612-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3462549,
         "gp:id":459546,
-        "qs:id":778251,
         "qs_pg:id":778251,
         "wd:id":"Q612191",
         "wk:page":"Garopaba"
@@ -163,7 +162,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245703,
+    "wof:lastmodified":1566625240,
     "wof:name":"Garopaba",
     "wof:parent_id":404565431,
     "wof:placetype":"locality",

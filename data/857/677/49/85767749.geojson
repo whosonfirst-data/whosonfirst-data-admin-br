@@ -13,8 +13,10 @@
     "gn:latitude":-22.88899,
     "gn:longitude":-43.12314,
     "iso:country":"BR",
+    "lbl:bbox":"-43.31835,-22.790713,-43.30835,-22.780713",
     "lbl:latitude":-22.785713,
     "lbl:longitude":-43.31335,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-22.786047,
     "mps:longitude":-43.314491,
     "mz:hierarchy_label":0,
@@ -56,9 +58,6 @@
     "name:spa_x_preferred":[
         "Centro"
     ],
-    "name:unk_x_variant":[
-        "Centro"
-    ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3464374,
@@ -88,8 +87,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191577,
         404562251,
@@ -103,7 +101,6 @@
         "fct:id":"039749c4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6954914,
         "gp:id":56067219,
-        "qs:id":10437,
         "qs_pg:id":10437,
         "wd:id":"Q2946148"
     },
@@ -124,7 +121,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563237494,
+    "wof:lastmodified":1566620798,
     "wof:name":"Centro",
     "wof:parent_id":101953237,
     "wof:placetype":"neighbourhood",

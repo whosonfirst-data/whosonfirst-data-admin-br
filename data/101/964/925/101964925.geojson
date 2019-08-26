@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.213887,
     "lbl:longitude":-47.523451,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-23.213887,
     "mps:longitude":-47.523451,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09b0\u09cd\u099f\u09cb \u09ab\u09c7\u09b2\u09bf\u099c"
     ],
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":523.0,
     "wd:latitude":-23.215,
@@ -143,7 +146,6 @@
         "fct:id":"0388040a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3452779,
         "gp:id":445375,
-        "qs:id":353308,
         "qs_pg:id":353308,
         "wd:id":"Q1645090",
         "wk:page":"Porto Feliz"
@@ -164,7 +166,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242285,
+    "wof:lastmodified":1566623706,
     "wof:name":"Porto Feliz",
     "wof:parent_id":404567035,
     "wof:placetype":"locality",

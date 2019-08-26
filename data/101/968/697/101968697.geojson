@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.786687,
     "lbl:longitude":-46.589427,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-22.786687,
     "mps:longitude":-46.589427,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09a8\u09b9\u09be\u09b2\u099c\u09bf\u09a8\u09b9\u09cb"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.779444,
     "wd:longitude":-45.590556,
@@ -119,7 +122,6 @@
         "fct:id":"0386379c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3453787,
         "gp:id":444199,
-        "qs:id":1208757,
         "qs_pg:id":1208757,
         "wd:id":"Q1649843",
         "wk:page":"Pinhalzinho, S\u00e3o Paulo"
@@ -139,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244970,
+    "wof:lastmodified":1566624912,
     "wof:name":"Pinhalzinho",
     "wof:parent_id":102061957,
     "wof:placetype":"locality",

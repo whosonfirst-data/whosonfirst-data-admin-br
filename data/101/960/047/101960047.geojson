@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.163122,
     "lbl:longitude":-51.927308,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.163122,
     "mps:longitude":-51.927308,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Santa Cec\u00edlia do Sul"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":137,
     "wof:belongsto":[
         102191577,
@@ -108,7 +111,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":448172,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2007657"
     },
     "wof:country":"BR",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101960047,
-    "wof:lastmodified":1561841230,
+    "wof:lastmodified":1566625284,
     "wof:name":"Santa Cec\u00edlia do Sul",
     "wof:parent_id":102059849,
     "wof:placetype":"locality",

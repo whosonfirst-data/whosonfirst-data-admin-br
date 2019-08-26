@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-17.085875,
     "lbl:longitude":-42.259303,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-17.085875,
     "mps:longitude":-42.259303,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09c7\u09a8\u09bf\u09aa\u09be\u09aa\u09cb \u09a1\u09c7 \u09ae\u09bf\u09a8\u09be\u09b8"
     ],
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -128,7 +131,7 @@
         "fct:id":"0388deac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317379,
         "gp:id":26804050,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1756319",
         "wk:page":"Jenipapo de Minas"
     },
@@ -148,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841082,
+    "wof:lastmodified":1566623749,
     "wof:name":"Jenipapo de Minas",
     "wof:parent_id":404556875,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.708436,
     "lbl:longitude":-44.921261,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.708436,
     "mps:longitude":-44.921261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09ac\u09c7\u09a8\u09c7\u09a1\u09bf\u099f\u09cb"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         102191577,
@@ -90,7 +93,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456601,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"7b20d78079e76984b7044a2228559a1e",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101979523,
-    "wof:lastmodified":1564140266,
+    "wof:lastmodified":1566624216,
     "wof:name":"S\u00e3o Benedito",
     "wof:parent_id":102053245,
     "wof:placetype":"locality",

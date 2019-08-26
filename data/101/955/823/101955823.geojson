@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.071354,
     "lbl:longitude":-48.412732,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-21.071354,
     "mps:longitude":-48.412732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u0995\u09c1\u09f1\u09be\u09b0\u09cd\u09af\u09bc\u09be\u09b2"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.071944,
     "wd:longitude":-48.41,
@@ -120,7 +123,7 @@
         "fct:id":"03867df6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3446818,
         "gp:id":453330,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q22064411",
         "wk:page":"Taquaral"
     },
@@ -139,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242652,
+    "wof:lastmodified":1566623853,
     "wof:name":"Taquaral",
     "wof:parent_id":102062335,
     "wof:placetype":"locality",

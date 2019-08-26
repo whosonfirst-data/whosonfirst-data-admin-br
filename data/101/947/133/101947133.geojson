@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.676267,
     "lbl:longitude":-40.96063,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.676267,
     "mps:longitude":-40.96063,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Arizona"
     ],
@@ -565,7 +568,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681973,
         102191577,
@@ -578,7 +581,7 @@
         "fct:id":"0384ead6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316436,
         "gp:id":458523,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"ed5b222dc9320752569f821188ebb3d2",
@@ -596,7 +599,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564140437,
+    "wof:lastmodified":1566624372,
     "wof:name":"Arizona",
     "wof:parent_id":404560097,
     "wof:placetype":"locality",

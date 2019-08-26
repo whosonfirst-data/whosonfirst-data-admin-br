@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.43521,
     "lbl:longitude":-44.739935,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-2.43521,
     "mps:longitude":-44.739935,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be\u09a8\u09be"
     ],
@@ -133,7 +136,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -142,7 +145,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"109f7ff59a314373f0a5c3051bea757e",
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101975473,
-    "wof:lastmodified":1564142687,
+    "wof:lastmodified":1566626235,
     "wof:name":"Santana",
     "wof:parent_id":102052831,
     "wof:placetype":"locality",

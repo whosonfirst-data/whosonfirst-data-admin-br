@@ -9,14 +9,15 @@
     "geom:bbox":"-43.244934082,-23.0164361481,-43.2187430898,-22.9756406529",
     "geom:latitude":-22.999628,
     "geom:longitude":-43.233912,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:latitude":-22.99385,
     "gn:longitude":-43.2403,
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-22.99001,
     "lbl:longitude":-43.236281,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-22.999315,
     "mps:longitude":-43.233918,
     "mz:hierarchy_label":1,
@@ -50,9 +51,6 @@
         "Vidigal"
     ],
     "name:tur_x_preferred":[
-        "Vidigal"
-    ],
-    "name:unk_x_variant":[
         "Vidigal"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -101,8 +99,7 @@
     "qs_pg:woe_id":55944214,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633009,
         101953261
@@ -111,7 +108,6 @@
     "wof:concordances":{
         "gn:id":7538522,
         "gp:id":55944214,
-        "qs:id":1086749,
         "qs_pg:id":1086749,
         "wd:id":"Q1754633",
         "wk:page":"Vidigal, Rio de Janeiro"
@@ -132,7 +128,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563237427,
+    "wof:lastmodified":1566620757,
     "wof:name":"Vidigal",
     "wof:parent_id":101953261,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.728868,
     "lbl:longitude":-43.376864,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-22.728868,
     "mps:longitude":-43.376864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0641\u0648\u0631\u062f \u0631\u0648\u0643\u0633\u0648"
     ],
@@ -202,7 +205,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -215,7 +218,6 @@
         "fct:id":"0389dcb2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3470142,
         "gp:id":424499,
-        "qs:id":776950,
         "qs_pg:id":776950,
         "wd:id":"Q737636",
         "wk:page":"Belford Roxo, Rio de Janeiro"
@@ -235,7 +237,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241595,
+    "wof:lastmodified":1566623364,
     "wof:name":"Belford Roxo",
     "wof:parent_id":102058323,
     "wof:placetype":"locality",

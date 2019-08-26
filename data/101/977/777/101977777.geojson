@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.376079,
     "lbl:longitude":-37.97374,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-4.376079,
     "mps:longitude":-37.97374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062c\u0648\u0627\u0632\u064a\u0631\u0648"
     ],
@@ -136,7 +139,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-9.413889,
     "wd:longitude":-40.502778,
@@ -152,7 +155,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3397169,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"37a09a957c2400c0977335902e5357c2",
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":101977777,
-    "wof:lastmodified":1564139792,
+    "wof:lastmodified":1566623960,
     "wof:name":"Juazeiro",
     "wof:parent_id":404552515,
     "wof:placetype":"locality",

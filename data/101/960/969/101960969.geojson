@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.540299,
     "lbl:longitude":-59.541888,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.540299,
     "mps:longitude":-59.541888,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Conquista d'Oeste"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -98,7 +101,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":455325,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2089624"
     },
     "wof:country":"BR",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101960969,
-    "wof:lastmodified":1561841233,
+    "wof:lastmodified":1566625310,
     "wof:name":"Conquista D'Oeste",
     "wof:parent_id":102055425,
     "wof:placetype":"locality",

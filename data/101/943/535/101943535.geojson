@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.520926,
     "lbl:longitude":-43.201097,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.520926,
     "mps:longitude":-43.201097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u099f\u09cb\u098f\u09b8"
     ],
@@ -85,9 +88,6 @@
     "name:spa_x_preferred":[
         "Mat\u00f5es"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Jose dos Mat\u00f5es"
-    ],
     "name:vie_x_preferred":[
         "Mat\u00f5es"
     ],
@@ -115,7 +115,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":147,
     "wof:belongsto":[
         102191577,
@@ -128,7 +128,7 @@
         "fct:id":"03874c04-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3395100,
         "gp:id":457572,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2012513",
         "wk:page":"Mat\u00f5es"
     },
@@ -147,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841302,
+    "wof:lastmodified":1566626076,
     "wof:name":"Mat\u00f5es",
     "wof:parent_id":102053019,
     "wof:placetype":"locality",

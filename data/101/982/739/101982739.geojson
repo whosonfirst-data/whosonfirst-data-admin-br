@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.491284,
     "lbl:longitude":-49.011914,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-18.491284,
     "mps:longitude":-49.011914,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b2\u09b8\u09be\u09ae\u09cb"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":500.0,
     "wd:latitude":-20.735,
@@ -104,7 +107,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"5fccc35accca4162b42d8eeeeb8618d0",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101982739,
-    "wof:lastmodified":1564140756,
+    "wof:lastmodified":1566624609,
     "wof:name":"B\u00e1lsamo",
     "wof:parent_id":404558635,
     "wof:placetype":"locality",

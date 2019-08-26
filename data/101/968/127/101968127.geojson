@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.803059,
     "lbl:longitude":-49.587789,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.803059,
     "mps:longitude":-49.587789,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*SP",
     "qs:a1_lc":"35",
@@ -30,7 +34,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":426864,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"09819e0b1ce7469fc1d179faef5dbe61",
+    "wof:geomhash":"117de2c7f91d793c055079c8a0074da9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101968127,
-    "wof:lastmodified":1479840675,
+    "wof:lastmodified":1566624886,
     "wof:name":"Vila Bel\u00e9m",
     "wof:parent_id":404566217,
     "wof:placetype":"locality",

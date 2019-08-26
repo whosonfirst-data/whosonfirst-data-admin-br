@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.204019,
     "lbl:longitude":-35.651812,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.204019,
     "mps:longitude":-35.651812,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b0\u09be\u0987\u09b8\u09cb"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -91,7 +94,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"3ab72e056534d8f5b9f0122d97fd161a",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101974269,
-    "wof:lastmodified":1564141923,
+    "wof:lastmodified":1566625663,
     "wof:name":"Para\u00edso",
     "wof:parent_id":102050261,
     "wof:placetype":"locality",

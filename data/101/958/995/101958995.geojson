@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.474827,
     "lbl:longitude":-53.404586,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.474827,
     "mps:longitude":-53.404586,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*RS",
     "qs:a1_lc":"43",
@@ -30,7 +34,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -42,10 +46,10 @@
     "wof:concordances":{
         "gn:id":6318902,
         "gp:id":450091,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"7b49ce5bc9230d1525f2b3a9a31a8454",
+    "wof:geomhash":"51fc729887df3b58de5530b03613800c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101958995,
-    "wof:lastmodified":1479846711,
+    "wof:lastmodified":1566625235,
     "wof:name":"Vila Cruz",
     "wof:parent_id":404564029,
     "wof:placetype":"locality",

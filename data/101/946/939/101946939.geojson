@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.307144,
     "lbl:longitude":-44.540059,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.307144,
     "mps:longitude":-44.540059,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u0987\u0986\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
     ],
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":146,
     "wof:belongsto":[
         85681895,
@@ -129,7 +132,7 @@
         "fct:id":"03882796-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316476,
         "gp:id":456751,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1761984",
         "wk:page":"Baian\u00f3polis"
     },
@@ -149,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841114,
+    "wof:lastmodified":1566624222,
     "wof:name":"Baian\u00f3polis",
     "wof:parent_id":404550491,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.676003,
     "lbl:longitude":-50.327667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-21.676003,
     "mps:longitude":-50.327667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09c1\u0987\u099c\u09bf\u09af\u09bc\u09be\u09a8\u09bf\u09af\u09bc\u09be"
     ],
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Luizi\u00e2nia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Patrim\u00f4nio da Luiziana"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.675833,
     "wd:longitude":-50.326667,
@@ -126,7 +129,7 @@
         "fct:id":"038602e0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3458354,
         "gp:id":438826,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1761054",
         "wk:page":"Luizi\u00e2nia"
     },
@@ -145,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841098,
+    "wof:lastmodified":1566623854,
     "wof:name":"Luizi\u00e2nia",
     "wof:parent_id":102061693,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"-42.3793520321,-5.46789793434,-42.3520265494,-5.44177157701",
     "geom:latitude":-5.454143,
     "geom:longitude":-42.365166,
-    "geonames:id":"3405796,3405797",
+    "gn:id":"3405796,3405797",
     "iso:country":"BR",
     "lbl:latitude":-5.454308,
     "lbl:longitude":-42.364987,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.454308,
     "mps:longitude":-42.364987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09a8\u09c7\u09a1\u09bf\u099f\u09bf\u09a8\u09cb\u09b8"
     ],
@@ -59,7 +62,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0435\u043d\u0435\u0434\u0438\u0442\u0438\u043d\u0443\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Benedito"
     ],
     "name:vie_x_preferred":[
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101943715,
-    "wof:lastmodified":1561841307,
+    "wof:lastmodified":1566626099,
     "wof:name":"Beneditinos",
     "wof:parent_id":102056959,
     "wof:placetype":"locality",

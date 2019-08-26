@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.86353,
     "lbl:longitude":-37.973433,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-7.86353,
     "mps:longitude":-37.973433,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Flores"
     ],
@@ -71,9 +74,6 @@
     "name:sco_x_preferred":[
         "Flores"
     ],
-    "name:unk_x_variant":[
-        "Fl\u00f4res da Ribeira de Paje\u00fa"
-    ],
     "name:vol_x_preferred":[
         "Flores"
     ],
@@ -103,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":119,
     "wof:belongsto":[
@@ -118,7 +118,6 @@
         "fct:id":"0386b7e4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3399539,
         "gp:id":456188,
-        "qs:id":342487,
         "qs_pg:id":342487,
         "wd:id":"Q2105990",
         "wk:page":"Flores, Pernambuco"
@@ -139,7 +138,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841141,
+    "wof:lastmodified":1566624409,
     "wof:name":"Flores",
     "wof:parent_id":404560333,
     "wof:placetype":"locality",

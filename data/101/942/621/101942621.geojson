@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.77087,
     "lbl:longitude":-48.293333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.77087,
     "mps:longitude":-48.293333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09b0\u09be\u0995\u09c1\u09af\u09bc\u09c7"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":145,
     "wof:belongsto":[
         102191577,
@@ -115,7 +118,7 @@
     "wof:concordances":{
         "gn:id":3411917,
         "gp:id":55943919,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q962028",
         "wk:page":"Piraqu\u00ea"
     },
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101942621,
-    "wof:lastmodified":1561841276,
+    "wof:lastmodified":1566625823,
     "wof:name":"Piraqu\u00ea",
     "wof:parent_id":102062663,
     "wof:placetype":"locality",

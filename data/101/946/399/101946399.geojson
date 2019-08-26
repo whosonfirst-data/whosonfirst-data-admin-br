@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.263936,
     "lbl:longitude":-36.540787,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-6.263936,
     "mps:longitude":-36.540787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c1\u09b0\u09cd\u09b0\u09be\u0987\u09b8 \u09a8\u09cb\u09ad\u09cb\u09b8"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Currais Novos"
     ],
-    "name:unk_x_variant":[
-        "Curraes Novos"
-    ],
     "name:vie_x_preferred":[
         "Currais Novos"
     ],
@@ -121,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -134,7 +134,6 @@
         "fct:id":"03871df6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3401283,
         "gp:id":457102,
-        "qs:id":1256259,
         "qs_pg:id":1256259,
         "wd:id":"Q1759405",
         "wk:page":"Currais Novos"
@@ -154,7 +153,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243393,
+    "wof:lastmodified":1566624224,
     "wof:name":"Currais Novos",
     "wof:parent_id":102058585,
     "wof:placetype":"locality",

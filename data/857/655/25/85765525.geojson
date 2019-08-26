@@ -13,8 +13,10 @@
     "gn:longitude":-38.51083,
     "gn:population":2711840,
     "iso:country":"BR",
+    "lbl:bbox":"-38.429526,-12.96595,-38.419526,-12.95595",
     "lbl:latitude":-12.96095,
     "lbl:longitude":-38.424526,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-12.96095,
     "mps:longitude":-38.424526,
     "mz:hierarchy_label":0,
@@ -344,9 +346,8 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440"
     ],
-    "name:unk_x_variant":[
-        "Bahia",
-        "Salvador"
+    "name:und_x_variant":[
+        "Bahia"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0644\u0648\u0627\u0688\u0648\u0631"
@@ -474,7 +475,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -488,7 +489,7 @@
     "wof:concordances":{
         "gn:id":3450554,
         "gp:id":455826,
-        "qs:id":777500,
+        "qs_pg:id":777500,
         "wd:id":"Q36947",
         "wk:page":"Salvador, Bahia"
     },
@@ -506,7 +507,7 @@
         }
     ],
     "wof:id":85765525,
-    "wof:lastmodified":1563237497,
+    "wof:lastmodified":1566620800,
     "wof:name":"Salvador",
     "wof:parent_id":101950447,
     "wof:placetype":"neighbourhood",

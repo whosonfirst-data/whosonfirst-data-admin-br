@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.666825,
     "lbl:longitude":-39.097444,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-12.666825,
     "mps:longitude":-39.097444,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cd\u09b0\u09c1\u099c \u09a1\u09be\u09b8 \u0986\u09b2\u09ae\u09be\u09b8"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -126,7 +129,6 @@
         "fct:id":"0387b072-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465105,
         "gp:id":459274,
-        "qs:id":778253,
         "qs_pg:id":778253,
         "wd:id":"Q1648067",
         "wk:page":"Cruz das Almas"
@@ -147,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841138,
+    "wof:lastmodified":1566624387,
     "wof:name":"Cruz das Almas",
     "wof:parent_id":404550881,
     "wof:placetype":"locality",

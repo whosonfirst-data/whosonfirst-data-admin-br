@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.899689,
     "lbl:longitude":-36.674972,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.899689,
     "mps:longitude":-36.674972,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09c7\u0987\u09b0\u09be \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Feira Grande"
     ],
-    "name:unk_x_variant":[
-        "Mocambo"
-    ],
     "name:vie_x_preferred":[
         "Feira Grande"
     ],
@@ -122,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -134,7 +134,6 @@
         "fct:id":"0387b40a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3399684,
         "gp:id":459451,
-        "qs:id":1060104,
         "qs_pg:id":1060104,
         "wd:id":"Q520936",
         "wk:page":"Feira Grande"
@@ -154,7 +153,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841103,
+    "wof:lastmodified":1566623886,
     "wof:name":"Feira Grande",
     "wof:parent_id":102050121,
     "wof:placetype":"locality",

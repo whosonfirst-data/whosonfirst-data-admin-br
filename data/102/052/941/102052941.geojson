@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-5.5348,
     "lbl:longitude":-44.084301,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-5.5348,
     "mps:longitude":-44.084301,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0997\u09cb\u09ad\u09c7\u09b0\u09cd\u09a8\u09be\u09a1\u09cb\u09b0\u09cd \u09b2\u09c1\u0987\u099c \u09b0\u09cb\u099a\u09be"
     ],
@@ -103,7 +106,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":149,
     "wof:belongsto":[
         102191577,
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102052941,
-    "wof:lastmodified":1563234970,
+    "wof:lastmodified":1566619160,
     "wof:name":"Governador Luiz Rocha",
     "wof:parent_id":85681931,
     "wof:placetype":"county",

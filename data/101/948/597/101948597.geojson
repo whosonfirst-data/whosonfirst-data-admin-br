@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.738976,
     "lbl:longitude":-35.224742,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-7.738976,
     "mps:longitude":-35.224742,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09be\u099c\u09be\u09b0\u09c7 \u09a1\u09be \u09ae\u09be\u099f\u09be"
     ],
@@ -82,9 +85,6 @@
     "name:rus_x_variant":[
         "\u041d\u0430\u0437\u0430\u0440\u0435-\u0434\u0430-\u041c\u0430\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Nazar\u00e9"
-    ],
     "name:vie_x_preferred":[
         "Nazar\u00e9 da Mata"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":189,
     "wof:belongsto":[
@@ -128,7 +128,6 @@
         "fct:id":"03875528-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3393972,
         "gp:id":457656,
-        "qs:id":233680,
         "qs_pg:id":233680,
         "wd:id":"Q1811182",
         "wk:page":"Nazar\u00e9 da Mata"
@@ -148,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242817,
+    "wof:lastmodified":1566623905,
     "wof:name":"Nazar\u00e9 da Mata",
     "wof:parent_id":102056731,
     "wof:placetype":"locality",

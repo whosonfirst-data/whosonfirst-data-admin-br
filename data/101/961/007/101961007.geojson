@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.104217,
     "lbl:longitude":-57.692721,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.104217,
     "mps:longitude":-57.692721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u0986\u09b8\u09c7\u09b0\u09c7\u09b8"
     ],
@@ -103,9 +106,6 @@
     "name:spa_x_preferred":[
         "C\u00e1ceres"
     ],
-    "name:unk_x_variant":[
-        "Vila Maria"
-    ],
     "name:vol_x_preferred":[
         "C\u00e1ceres"
     ],
@@ -130,7 +130,7 @@
     "qs:type":"Centro Subregional A",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":195,
     "wof:belongsto":[
         85681955,
@@ -144,7 +144,7 @@
         "fct:id":"03869976-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3468551,
         "gp:id":455938,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q986526",
         "wk:page":"C\u00e1ceres, Mato Grosso"
     },
@@ -164,7 +164,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245056,
+    "wof:lastmodified":1566624948,
     "wof:name":"C\u00e1ceres",
     "wof:parent_id":404559127,
     "wof:placetype":"locality",

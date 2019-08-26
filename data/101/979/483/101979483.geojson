@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.789337,
     "lbl:longitude":-44.904699,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.789337,
     "mps:longitude":-44.904699,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u043b\u0435\u0433\u0440\u0438\u044f"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -68,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":460510,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"886497d51c66972ce5a1b0b077673a80",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101979483,
-    "wof:lastmodified":1564140170,
+    "wof:lastmodified":1566624169,
     "wof:name":"Alegria",
     "wof:parent_id":102053091,
     "wof:placetype":"locality",

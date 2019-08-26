@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.299801,
     "lbl:longitude":-50.573497,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-27.299801,
     "mps:longitude":-50.573497,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c1\u09b0\u09bf\u099f\u09bf\u09ac\u09be\u09a8\u09cb\u09b8"
     ],
@@ -80,9 +83,6 @@
     "name:swe_x_preferred":[
         "Curitibanos"
     ],
-    "name:unk_x_variant":[
-        "Curitybanos"
-    ],
     "name:vie_x_preferred":[
         "Curitibanos"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682021,
@@ -126,7 +126,6 @@
         "fct:id":"0386b5dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3464974,
         "gp:id":456168,
-        "qs:id":148310,
         "qs_pg:id":148310,
         "wd:id":"Q1765072"
     },
@@ -146,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245582,
+    "wof:lastmodified":1566625192,
     "wof:name":"Curitibanos",
     "wof:parent_id":404565357,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.653531,
     "lbl:longitude":-42.868155,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.653531,
     "mps:longitude":-42.868155,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u09cd\u099f\u09cb\u09a8\u09bf\u0993 \u09a1\u09bf\u09af\u09bc\u09be\u09b8"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":75,
     "wof:belongsto":[
         85681941,
@@ -123,7 +126,7 @@
         "fct:id":"0386f470-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472024,
         "gp:id":456683,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q611911",
         "wk:page":"Ant\u00f4nio Dias"
     },
@@ -143,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841198,
+    "wof:lastmodified":1566625033,
     "wof:name":"Ant\u00f4nio Dias",
     "wof:parent_id":404555253,
     "wof:placetype":"locality",

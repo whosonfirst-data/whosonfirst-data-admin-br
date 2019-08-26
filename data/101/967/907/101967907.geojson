@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.272089,
     "lbl:longitude":-51.057229,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-23.272089,
     "mps:longitude":-51.057229,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09bf\u09aa\u09cb\u09b0\u09be"
     ],
@@ -81,9 +84,6 @@
     "name:rus_x_preferred":[
         "\u0418\u0431\u0438\u043f\u043e\u0440\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Pedro de Alcantara"
-    ],
     "name:vie_x_preferred":[
         "Ibipor\u00e3"
     ],
@@ -113,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":170,
     "wof:belongsto":[
@@ -128,7 +128,6 @@
         "fct:id":"038918fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461588,
         "gp:id":457268,
-        "qs:id":148246,
         "qs_pg:id":148246,
         "wd:id":"Q2006392",
         "wk:page":"Ibipor\u00e3"
@@ -149,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841209,
+    "wof:lastmodified":1566625136,
     "wof:name":"Ibipor\u00e3",
     "wof:parent_id":404561251,
     "wof:placetype":"locality",

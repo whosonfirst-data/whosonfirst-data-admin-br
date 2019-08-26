@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.424732,
     "lbl:longitude":-51.765497,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.424732,
     "mps:longitude":-51.765497,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Westf\u00e1lia"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -110,7 +113,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55944128,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q961485"
     },
     "wof:country":"BR",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101961881,
-    "wof:lastmodified":1563245044,
+    "wof:lastmodified":1566624944,
     "wof:name":"Westfalia",
     "wof:parent_id":102060149,
     "wof:placetype":"locality",

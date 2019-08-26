@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.489201,
     "lbl:longitude":-37.529058,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-7.489201,
     "mps:longitude":-37.529058,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09b0\u09cd\u09ac\u09cb\u09b0\u09c7\u09ae\u09be"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.62,
     "wd:longitude":-49.073889,
@@ -105,7 +108,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"b06fff28802f3dc0c75e3222e2fcc835",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101986121,
-    "wof:lastmodified":1564142856,
+    "wof:lastmodified":1566626332,
     "wof:name":"Borborema",
     "wof:parent_id":102056855,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000668,
-    "geom:area_square_m":7568069.064124,
+    "geom:area_square_m":7568069.064122,
     "geom:bbox":"-46.6575622558,-23.5388091563,-46.6232299805,-23.5085891666",
     "geom:latitude":-23.522115,
     "geom:longitude":-46.638872,
@@ -14,6 +14,7 @@
     "iso:country":"BR",
     "lbl:latitude":-23.527942,
     "lbl:longitude":-46.634142,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-23.52244,
     "mps:longitude":-46.63855,
     "mz:hierarchy_label":1,
@@ -39,9 +40,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043d-\u0420\u0435\u0442\u0456\u0440\u0443"
-    ],
-    "name:unk_x_variant":[
-        "Bom Retiro"
     ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_fcode":"PPLX",
@@ -71,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191577,
         404567359,
@@ -84,10 +82,12 @@
     "wof:concordances":{
         "gn:id":3469399,
         "gp:id":56066872,
-        "qs:id":241823,
-        "qs_pg:id":493903,
+        "qs_pg:id":241823,
         "wd:id":"Q16502057",
         "wk:page":"Bom Retiro (district of S\u00e3o Paulo)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":493903
     },
     "wof:country":"BR",
     "wof:geomhash":"67255939a119fad18c686c92a8818438",
@@ -106,7 +106,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1513902005,
+    "wof:lastmodified":1566620775,
     "wof:name":"Bom Retiro",
     "wof:parent_id":101965533,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.895947,
     "lbl:longitude":-46.418915,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.895947,
     "mps:longitude":-46.418915,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u09b0\u09cd\u0997\u09c7\u09ae"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -112,7 +115,6 @@
         "fct:id":"038689d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3445549,
         "gp:id":454717,
-        "qs:id":1060052,
         "qs_pg:id":1060052,
         "wd:id":"Q1760599"
     },
@@ -132,7 +134,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245950,
+    "wof:lastmodified":1566625349,
     "wof:name":"Vargem",
     "wof:parent_id":404567615,
     "wof:placetype":"locality",

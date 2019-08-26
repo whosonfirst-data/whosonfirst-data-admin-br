@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.212656,
     "lbl:longitude":-40.5496,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.212656,
     "mps:longitude":-40.5496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09b0\u09cb\u0986\u099f\u09be"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":376,
     "wof:belongsto":[
         85681907,
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gn:id":6316965,
         "gp:id":456464,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1816979"
     },
     "wof:country":"BR",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101945077,
-    "wof:lastmodified":1563247033,
+    "wof:lastmodified":1566625893,
     "wof:name":"Croata",
     "wof:parent_id":404554061,
     "wof:placetype":"locality",

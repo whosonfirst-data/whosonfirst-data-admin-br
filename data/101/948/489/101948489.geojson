@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.686421,
     "lbl:longitude":-35.510127,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.686421,
     "mps:longitude":-35.510127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u099a\u09be\u09a1\u09cb\u09b8"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -119,7 +122,6 @@
     "wof:concordances":{
         "gn:id":3395966,
         "gp:id":438991,
-        "qs:id":1192307,
         "qs_pg:id":1192307,
         "wd:id":"Q2064965",
         "wk:page":"Machados"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101948489,
-    "wof:lastmodified":1561841108,
+    "wof:lastmodified":1566623916,
     "wof:name":"Machados",
     "wof:parent_id":102056721,
     "wof:placetype":"locality",

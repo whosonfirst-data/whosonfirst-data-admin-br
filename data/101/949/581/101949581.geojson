@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.53205,
     "lbl:longitude":-40.902531,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-15.53205,
     "mps:longitude":-40.902531,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u098f\u09a8\u0995\u09cd\u09b0\u09c1\u099c\u0987\u09b2\u09b9\u09be\u09a1\u09be"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -126,7 +129,6 @@
         "fct:id":"0386b712-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3464262,
         "gp:id":456177,
-        "qs:id":181324,
         "qs_pg:id":181324,
         "wd:id":"Q1795353"
     },
@@ -146,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244222,
+    "wof:lastmodified":1566624569,
     "wof:name":"Encruzilhada",
     "wof:parent_id":404550907,
     "wof:placetype":"locality",

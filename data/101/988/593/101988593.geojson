@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-31.885089,
     "lbl:longitude":-52.052885,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-31.885089,
     "mps:longitude":-52.052885,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*RS",
     "qs:a1_lc":"43",
@@ -30,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":450639,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"6acf060837125c23a979410240c299a0",
+    "wof:geomhash":"0316cb96a83d841ed3b14b141d0cd623",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101988593,
-    "wof:lastmodified":1479626204,
+    "wof:lastmodified":1566626012,
     "wof:name":"Capivaras",
     "wof:parent_id":404564629,
     "wof:placetype":"locality",

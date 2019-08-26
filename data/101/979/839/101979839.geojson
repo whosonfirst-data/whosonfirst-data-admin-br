@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.401,
     "lbl:longitude":-44.149262,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.401,
     "mps:longitude":-44.149262,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a1\u09cd\u09b0\u09be \u09aa\u09cd\u09b0\u09c7\u099f\u09be"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -92,7 +95,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"59ba8d7535c742c4337c4b9f4e02aa8f",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101979839,
-    "wof:lastmodified":1564140250,
+    "wof:lastmodified":1566624208,
     "wof:name":"Pedra Preta",
     "wof:parent_id":404557313,
     "wof:placetype":"locality",

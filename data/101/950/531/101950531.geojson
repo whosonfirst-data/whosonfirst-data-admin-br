@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.48639,
     "lbl:longitude":-37.93616,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-11.48639,
     "mps:longitude":-37.93616,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u0993 \u09b0\u09c7\u09af\u09bc\u09be\u09b2"
     ],
@@ -93,9 +96,6 @@
     "name:spa_x_preferred":[
         "Rio Real"
     ],
-    "name:unk_x_variant":[
-        "Barrac\u00e3o"
-    ],
     "name:vie_x_preferred":[
         "Rio Real"
     ],
@@ -125,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -138,7 +138,6 @@
         "fct:id":"0387daac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451071,
         "gp:id":460793,
-        "qs:id":1044893,
         "qs_pg:id":1044893,
         "wd:id":"Q965807"
     },
@@ -157,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841159,
+    "wof:lastmodified":1566624755,
     "wof:name":"Rio Real",
     "wof:parent_id":102051209,
     "wof:placetype":"locality",

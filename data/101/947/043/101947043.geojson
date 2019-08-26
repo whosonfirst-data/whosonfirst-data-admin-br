@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-14.204875,
     "lbl:longitude":-41.669931,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-14.204875,
     "mps:longitude":-41.669931,
     "mz:hierarchy_label":1,
@@ -125,9 +127,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0443\u043c\u0430\u0434\u0443"
-    ],
-    "name:unk_x_variant":[
-        "Bom Jes\u00fas dos Meiras"
     ],
     "name:vie_x_preferred":[
         "Brumado"
@@ -253,7 +252,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -267,7 +266,6 @@
         "fct:id":"0386acf4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3468893,
         "gp:id":456094,
-        "qs:id":1239121,
         "qs_pg:id":1239121,
         "wd:id":"Q1808298"
     },
@@ -287,7 +285,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243902,
+    "wof:lastmodified":1566624407,
     "wof:name":"Brumado",
     "wof:parent_id":404550593,
     "wof:placetype":"locality",

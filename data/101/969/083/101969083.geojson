@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.393807,
     "lbl:longitude":-41.225549,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.393807,
     "mps:longitude":-41.225549,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09c1\u09af\u09bc\u09c7\u099f\u09be"
     ],
@@ -118,7 +121,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -131,7 +134,7 @@
         "fct:id":"0385ee90-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460529,
         "gp:id":436201,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q616539",
         "wk:page":"Itueta"
     },
@@ -151,7 +154,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841254,
+    "wof:lastmodified":1566625431,
     "wof:name":"Itueta",
     "wof:parent_id":404556785,
     "wof:placetype":"locality",

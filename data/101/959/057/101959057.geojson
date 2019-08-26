@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-30.024934,
     "lbl:longitude":-52.895988,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-30.024934,
     "mps:longitude":-52.895988,
     "mz:hierarchy_label":1,
@@ -168,9 +170,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0436\u043e\u0435\u0439\u0440\u0430-\u0434\u0443-\u0421\u0443\u043b"
     ],
-    "name:unk_x_variant":[
-        "Cachoeira"
-    ],
     "name:vie_x_preferred":[
         "Cachoeira do Sul"
     ],
@@ -292,7 +291,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682015,
@@ -306,7 +305,6 @@
         "fct:id":"038699b2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3468436,
         "gp:id":455939,
-        "qs:id":215191,
         "qs_pg:id":215191,
         "wd:id":"Q166378",
         "wk:page":"Cachoeira do Sul"
@@ -327,7 +325,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841207,
+    "wof:lastmodified":1566625120,
     "wof:name":"Cachoeira do Sul",
     "wof:parent_id":404563169,
     "wof:placetype":"locality",

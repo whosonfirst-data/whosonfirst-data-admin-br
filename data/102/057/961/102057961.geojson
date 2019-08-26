@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-26.453776,
     "lbl:longitude":-51.714452,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-26.453776,
     "mps:longitude":-51.714452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Palmas"
     ],
@@ -100,7 +103,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":168,
     "wof:belongsto":[
         102191577,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":102057961,
-    "wof:lastmodified":1564133345,
+    "wof:lastmodified":1566619721,
     "wof:name":"Palmas",
     "wof:parent_id":85681983,
     "wof:placetype":"county",

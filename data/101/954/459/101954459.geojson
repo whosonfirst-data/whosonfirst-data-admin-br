@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.095603,
     "lbl:longitude":-40.529591,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-20.095603,
     "mps:longitude":-40.529591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Santa Leopoldina"
     ],
@@ -81,7 +84,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u041b\u0435\u043e\u043f\u043e\u043b\u0434\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cachoeiro de Santa Leopoldina"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681921,
@@ -127,7 +130,6 @@
         "fct:id":"03865722-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3450166,
         "gp:id":448463,
-        "qs:id":668763,
         "qs_pg:id":668763,
         "wd:id":"Q678885"
     },
@@ -147,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841033,
+    "wof:lastmodified":1566623331,
     "wof:name":"Santa Leopoldina",
     "wof:parent_id":404554575,
     "wof:placetype":"locality",

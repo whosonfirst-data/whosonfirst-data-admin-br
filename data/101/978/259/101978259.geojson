@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-17.882345,
     "lbl:longitude":-45.889338,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-17.882345,
     "mps:longitude":-45.889338,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "S\u00e3o Sebasti\u00e3o"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -98,7 +101,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"cc9788efcdbb8cdd52e972e646593d51",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101978259,
-    "wof:lastmodified":1564140359,
+    "wof:lastmodified":1566624329,
     "wof:name":"S\u00e3o Sebasti\u00e3o",
     "wof:parent_id":404556913,
     "wof:placetype":"locality",

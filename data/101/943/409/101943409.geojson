@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.447341,
     "lbl:longitude":-43.864869,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.447341,
     "mps:longitude":-43.864869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09ad\u09cb\u09b0\u09be\u09a1\u09be \u09a1\u09cb \u0997\u09c1\u09b0\u09cd\u0997\u09c1\u0987\u09af\u09bc\u09be"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":194,
     "wof:belongsto":[
         102191577,
@@ -115,7 +118,7 @@
     "wof:concordances":{
         "gn:id":6316375,
         "gp:id":460959,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1940535",
         "wk:page":"Alvorada do Gurgu\u00e9ia"
     },
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101943409,
-    "wof:lastmodified":1561841306,
+    "wof:lastmodified":1566626089,
     "wof:name":"Alvorada do Gurgu\u00e9ia",
     "wof:parent_id":102056919,
     "wof:placetype":"locality",

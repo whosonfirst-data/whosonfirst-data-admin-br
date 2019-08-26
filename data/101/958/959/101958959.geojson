@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.792077,
     "lbl:longitude":-53.336931,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.792077,
     "mps:longitude":-53.336931,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u099c\u09cb\u09af\u09bc\u09be\u0993"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         85682015,
@@ -92,7 +95,7 @@
     "wof:concordances":{
         "gn:id":6318444,
         "gp:id":55944446,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"20d03cd341c4df739cdaa907e9bb6f6a",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101958959,
-    "wof:lastmodified":1564141431,
+    "wof:lastmodified":1566625236,
     "wof:name":"S\u00e3o Jo\u00e3o",
     "wof:parent_id":404563085,
     "wof:placetype":"locality",

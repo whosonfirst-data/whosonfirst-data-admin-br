@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.504722,
     "lbl:longitude":-42.194756,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.504722,
     "mps:longitude":-42.194756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09cb\u0986\u0995\u09c1\u0987\u09ae \u09aa\u09bf\u09b0\u09c7\u09b8"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -109,7 +112,7 @@
         "fct:id":"0385f7e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3410425,
         "gp:id":437057,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q961001",
         "wk:page":"Joaquim Pires"
     },
@@ -128,7 +131,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247493,
+    "wof:lastmodified":1566626112,
     "wof:name":"Joaquim Pires",
     "wof:parent_id":102057139,
     "wof:placetype":"locality",

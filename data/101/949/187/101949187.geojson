@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.562277,
     "lbl:longitude":-43.275271,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.562277,
     "mps:longitude":-43.275271,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09b0\u09cd\u09aa\u09be\u09b0\u09be"
     ],
@@ -91,9 +94,6 @@
     "name:swe_x_preferred":[
         "Morpar\u00e1"
     ],
-    "name:unk_x_variant":[
-        "Par\u00e1"
-    ],
     "name:vie_x_preferred":[
         "Morpar\u00e1"
     ],
@@ -121,7 +121,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         85681895,
@@ -135,7 +135,7 @@
         "fct:id":"0387c9b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456751,
         "gp:id":460185,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1794435",
         "wk:page":"Morpar\u00e1"
     },
@@ -155,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244215,
+    "wof:lastmodified":1566624567,
     "wof:name":"Morpar\u00e1",
     "wof:parent_id":404551547,
     "wof:placetype":"locality",

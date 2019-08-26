@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.931932,
     "lbl:longitude":-51.700811,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-29.931932,
     "mps:longitude":-51.700811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u099f\u09cd\u09b0\u09bf\u0989\u09a8\u09ab\u09cb"
     ],
@@ -89,9 +92,6 @@
     "name:swe_x_preferred":[
         "Triunfo"
     ],
-    "name:unk_x_variant":[
-        "Bom Jesus do Triunfo"
-    ],
     "name:vol_x_preferred":[
         "Triunfo"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682015,
@@ -132,7 +132,6 @@
         "fct:id":"0389f990-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3446019,
         "gp:id":458208,
-        "qs:id":1044796,
         "qs_pg:id":1044796,
         "wd:id":"Q606083"
     },
@@ -152,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245587,
+    "wof:lastmodified":1566625195,
     "wof:name":"Triunfo",
     "wof:parent_id":404564971,
     "wof:placetype":"locality",

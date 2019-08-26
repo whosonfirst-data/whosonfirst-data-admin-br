@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.782327,
     "lbl:longitude":-56.727893,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.782327,
     "mps:longitude":-56.727893,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Seco"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":153,
     "wof:belongsto":[
         85681955,
@@ -70,7 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6318642,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"00bdeb6bbf8b97f491520305f38ce241",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101961129,
-    "wof:lastmodified":1564141140,
+    "wof:lastmodified":1566624957,
     "wof:name":"Seco",
     "wof:parent_id":404559281,
     "wof:placetype":"locality",

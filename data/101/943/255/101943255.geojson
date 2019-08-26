@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.615124,
     "lbl:longitude":-45.3485,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-3.615124,
     "mps:longitude":-45.3485,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09a8\u09cd\u09a1\u09be\u09b0\u09c7-\u09ae\u09bf\u09b0\u09bf\u09ae"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Pindar\u00e9-Mirim"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Engenho Central"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +110,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":192,
     "wof:belongsto":[
@@ -122,7 +125,7 @@
         "fct:id":"0388a036-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3392088,
         "gp:id":444151,
-        "qs:id":1044319,
+        "qs_pg:id":1044319,
         "wd:id":"Q2065093"
     },
     "wof:country":"BR",
@@ -141,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841314,
+    "wof:lastmodified":1566626129,
     "wof:name":"Pindar\u00e9-Mirim",
     "wof:parent_id":404555055,
     "wof:placetype":"locality",

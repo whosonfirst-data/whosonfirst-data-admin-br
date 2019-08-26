@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.241502,
     "lbl:longitude":-45.231104,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-21.241502,
     "mps:longitude":-45.231104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09c7\u09aa\u09cb\u09ae\u0989\u09b8\u09c7\u09a8\u09cb"
     ],
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -121,7 +124,6 @@
         "fct:id":"03861aaa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456324,
         "gp:id":441401,
-        "qs:id":181016,
         "qs_pg:id":181016,
         "wd:id":"Q583832"
     },
@@ -141,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244584,
+    "wof:lastmodified":1566624744,
     "wof:name":"Nepomuceno",
     "wof:parent_id":404557395,
     "wof:placetype":"locality",

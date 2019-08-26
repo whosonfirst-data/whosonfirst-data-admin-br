@@ -9,14 +9,17 @@
     "geom:bbox":"-44.4665040548,-19.5314408224,-44.4386122939,-19.5128994689",
     "geom:latitude":-19.523932,
     "geom:longitude":-44.452971,
-    "geonames:id":"3468446,6316679",
+    "gn:id":"3468446,6316679",
     "iso:country":"BR",
     "lbl:latitude":-19.523381,
     "lbl:longitude":-44.455509,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.523381,
     "mps:longitude":-44.455509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0995\u09b9\u09cb\u09af\u09bc\u09c7\u0987\u09b0\u09be \u09a1\u09be \u09aa\u09cd\u09b0\u09be\u099f\u09be"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -118,9 +121,11 @@
     "wof:concordances":{
         "gn:id":6316679,
         "gp:id":26804037,
-        "qs:id":2,
-        "qs_pg:id":384594,
+        "qs_pg:id":2,
         "wd:id":"Q1792770"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":384594
     },
     "wof:country":"BR",
     "wof:geomhash":"deb1ece28d1dd25ee3ed783226f585e7",
@@ -135,7 +140,7 @@
         }
     ],
     "wof:id":101948911,
-    "wof:lastmodified":1563242875,
+    "wof:lastmodified":1566623927,
     "wof:name":"Cachoeira da Prata",
     "wof:parent_id":404555591,
     "wof:placetype":"locality",

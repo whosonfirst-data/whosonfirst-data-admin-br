@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.902653,
     "lbl:longitude":-42.985725,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.902653,
     "mps:longitude":-42.985725,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Wanderlei Silva"
     ],
@@ -86,9 +89,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043d\u0434\u0435\u0440\u043b\u0435\u0439 \u0421\u0456\u043b\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "Vanderley"
-    ],
     "name:zho_x_preferred":[
         "\u842c\u5fb7\u96f7\u00b7\u5e2d\u723e\u74e6"
     ],
@@ -107,7 +107,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":4781,
     "wof:belongsto":[
         85681895,
@@ -121,7 +121,7 @@
         "fct:id":"03822224-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3445572,
         "gp:id":454702,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q458749"
     },
     "wof:country":"BR",
@@ -140,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243214,
+    "wof:lastmodified":1566624125,
     "wof:name":"Wanderlei",
     "wof:parent_id":404550501,
     "wof:placetype":"locality",

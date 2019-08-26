@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.550521,
     "lbl:longitude":-46.385846,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-23.550521,
     "mps:longitude":-46.385846,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09cb \u0986\u09a8\u09cd\u099f\u09cb\u09a8\u09bf\u0993 \u09a1\u09cb \u099c\u09be\u09b0\u09cd\u09a1\u09bf\u09ae"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.115833,
     "wd:longitude":-46.68,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":6318373,
         "gp:id":433591,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1658504"
     },
     "wof:country":"BR",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101956157,
-    "wof:lastmodified":1563245928,
+    "wof:lastmodified":1566625341,
     "wof:name":"Santo Ant\u00f4nio Paulista",
     "wof:parent_id":404566415,
     "wof:placetype":"locality",

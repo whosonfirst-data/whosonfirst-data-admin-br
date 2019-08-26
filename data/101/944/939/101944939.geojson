@@ -9,14 +9,17 @@
     "geom:bbox":"-40.79446308,-5.5620714178,-40.7565333333,-5.50944444444",
     "geom:latitude":-5.537261,
     "geom:longitude":-40.777856,
-    "geonames:id":"3393783,3393784",
+    "gn:id":"3393783,3393784",
     "iso:country":"BR",
     "lbl:latitude":-5.535376,
     "lbl:longitude":-40.778147,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.535376,
     "mps:longitude":-40.778147,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09cb \u0993\u09b0\u09bf\u09af\u09bc\u09c7\u09a8\u09cd\u099f\u09c7"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -109,9 +112,11 @@
     "wof:concordances":{
         "gn:id":3393783,
         "gp:id":457688,
-        "qs:id":8,
-        "qs_pg:id":147667,
+        "qs_pg:id":8,
         "wd:id":"Q2028019"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":147667
     },
     "wof:country":"BR",
     "wof:geomhash":"f1208db4a6a7362de92f6cd74ad5d4bb",
@@ -126,7 +131,7 @@
         }
     ],
     "wof:id":101944939,
-    "wof:lastmodified":1563247154,
+    "wof:lastmodified":1566625951,
     "wof:name":"Novo Oriente",
     "wof:parent_id":404553489,
     "wof:placetype":"locality",

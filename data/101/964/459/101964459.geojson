@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.893012,
     "lbl:longitude":-49.02039,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-21.893012,
     "mps:longitude":-49.02039,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0987\u09af\u09bc\u09be\u0995\u09be\u09a8\u0997\u09be"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.89,
     "wd:longitude":-49.024722,
@@ -120,7 +123,7 @@
         "fct:id":"0385dc5c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461642,
         "gp:id":435233,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1648361",
         "wk:page":"Iacanga"
     },
@@ -139,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242329,
+    "wof:lastmodified":1566623727,
     "wof:name":"Iacanga",
     "wof:parent_id":102061481,
     "wof:placetype":"locality",

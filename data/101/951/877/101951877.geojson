@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.727879,
     "lbl:longitude":-42.278316,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.727879,
     "mps:longitude":-42.278316,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09c7\u09b0\u09cd\u09ad\u09c7\u09a1\u09cb\u0989\u09b0\u09cb"
     ],
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "Fervedouro"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa B\u00e1rbara do Fervedouro"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -128,7 +131,7 @@
         "fct:id":"0385cd48-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3463394,
         "gp:id":433611,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1791201",
         "wk:page":"Fervedouro"
     },
@@ -148,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841263,
+    "wof:lastmodified":1566625516,
     "wof:name":"Fervedouro",
     "wof:parent_id":404556391,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.504139,
     "lbl:longitude":-61.361796,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.504139,
     "mps:longitude":-61.361796,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u0993\u099c\u09bf\u09a8\u09b9\u09cb"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682003,
         102191577,
@@ -104,7 +107,7 @@
         "fct:id":"038199f8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3924833,
         "gp:id":447418,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"aa28da7bdce583e46cb44c4680780e5f",
@@ -122,7 +125,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564140312,
+    "wof:lastmodified":1566624288,
     "wof:name":"Riozinho",
     "wof:parent_id":404562755,
     "wof:placetype":"locality",

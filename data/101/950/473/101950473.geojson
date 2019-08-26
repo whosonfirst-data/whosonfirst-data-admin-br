@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.03964,
     "lbl:longitude":-38.431209,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.03964,
     "mps:longitude":-38.431209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u09ac\u09c7\u0987\u09b0\u09be \u09a1\u09cb \u0986\u09ae\u09cd\u09aa\u09be\u09b0\u09cb"
     ],
@@ -83,7 +86,7 @@
     "name:swe_x_preferred":[
         "Ribeira do Amparo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amparo"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +116,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -126,7 +129,7 @@
         "fct:id":"0389ac10-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451311,
         "gp:id":56066903,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1761834",
         "wk:page":"Ribeira do Amparo"
     },
@@ -146,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841160,
+    "wof:lastmodified":1566624765,
     "wof:name":"Ribeira do Amparo",
     "wof:parent_id":404551839,
     "wof:placetype":"locality",

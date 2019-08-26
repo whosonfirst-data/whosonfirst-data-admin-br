@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.095549,
     "lbl:longitude":-35.674796,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.095549,
     "mps:longitude":-35.674796,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*PE",
     "qs:a1_lc":"26",
@@ -30,7 +34,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681973,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":459287,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"97008146f0e7074506f059639ed54d96",
+    "wof:geomhash":"dd5545ab68f50107444ec080670a7afb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101966835,
-    "wof:lastmodified":1479931467,
+    "wof:lastmodified":1566625019,
     "wof:name":"Po\u00e7os",
     "wof:parent_id":404560293,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.050672,
     "lbl:longitude":-35.40882,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-9.050672,
     "mps:longitude":-35.40882,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09b0\u09cd\u099f\u09cb \u0995\u09be\u09b2\u09ad\u09cb"
     ],
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -134,7 +137,6 @@
         "fct:id":"03880a90-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3391397,
         "gp:id":460577,
-        "qs:id":1044316,
         "qs_pg:id":1044316,
         "wd:id":"Q1772636",
         "wk:page":"Porto Calvo"
@@ -154,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242844,
+    "wof:lastmodified":1566623915,
     "wof:name":"Porto Calvo",
     "wof:parent_id":102050233,
     "wof:placetype":"locality",

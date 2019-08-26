@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-0.157903,
     "lbl:longitude":-50.386473,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-0.157903,
     "mps:longitude":-50.386473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ab\u09c1\u09f1\u09be"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Afu\u00e1"
     ],
-    "name:unk_x_variant":[
-        "Affua"
-    ],
     "name:vie_x_preferred":[
         "Afu\u00e1"
     ],
@@ -115,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
@@ -129,7 +129,6 @@
         "fct:id":"03823700-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3408269,
         "gp:id":456014,
-        "qs:id":777648,
         "qs_pg:id":777648,
         "wd:id":"Q389536",
         "wk:page":"Afu\u00e1"
@@ -149,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841281,
+    "wof:lastmodified":1566625850,
     "wof:name":"Afu\u00e1",
     "wof:parent_id":102055669,
     "wof:placetype":"locality",

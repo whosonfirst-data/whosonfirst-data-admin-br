@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.895576,
     "lbl:longitude":-43.082171,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.895576,
     "mps:longitude":-43.082171,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09a8\u09b9\u09cb\u09b0\u09be \u09a1\u09cb \u09aa\u09b0\u09cd\u099f\u09cb"
     ],
@@ -89,9 +92,6 @@
     "name:swe_x_preferred":[
         "Senhora do Porto"
     ],
-    "name:unk_x_variant":[
-        "Nossa Senhora do Porto"
-    ],
     "name:vie_x_preferred":[
         "Senhora do Porto"
     ],
@@ -122,7 +122,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -135,7 +135,7 @@
         "fct:id":"038808ba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3447841,
         "gp:id":458085,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1788604",
         "wk:page":"Senhora do Porto"
     },
@@ -155,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841035,
+    "wof:lastmodified":1566623345,
     "wof:name":"Senhora do Porto",
     "wof:parent_id":404558475,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.88982,
     "lbl:longitude":-42.71199,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-3.88982,
     "mps:longitude":-42.71199,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Porto"
     ],
@@ -72,9 +75,6 @@
     "name:swe_x_preferred":[
         "Porto"
     ],
-    "name:unk_x_variant":[
-        "Jo\u00e3o Pessoa"
-    ],
     "name:vol_x_preferred":[
         "Porto"
     ],
@@ -101,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":148,
     "wof:belongsto":[
@@ -115,7 +115,6 @@
         "fct:id":"03880f18-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3391408,
         "gp:id":457857,
-        "qs:id":1210047,
         "qs_pg:id":1210047,
         "wd:id":"Q2113232",
         "wk:page":"Porto, Piau\u00ed"
@@ -135,7 +134,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247506,
+    "wof:lastmodified":1566626116,
     "wof:name":"Porto",
     "wof:parent_id":102057271,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.592114,
     "lbl:longitude":-46.794806,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.592114,
     "mps:longitude":-46.794806,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u0645\u0627\u062f\u0648"
     ],
@@ -130,7 +133,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -140,7 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"b91964d1b78a2648d17de6761a961ba1",
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101965565,
-    "wof:lastmodified":1564139257,
+    "wof:lastmodified":1566623458,
     "wof:name":"Brumado",
     "wof:parent_id":404566089,
     "wof:placetype":"locality",

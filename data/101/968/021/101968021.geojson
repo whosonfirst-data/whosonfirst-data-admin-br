@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.279888,
     "lbl:longitude":-49.925071,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-29.279888,
     "mps:longitude":-49.925071,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09be\u09b0\u09cd\u099f\u09c1\u09b0\u09be"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-23.388333,
     "wd:longitude":-49.51,
@@ -104,7 +107,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26804232,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"32adcd4c5a54f3729601098d0e82cacb",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101968021,
-    "wof:lastmodified":1564141099,
+    "wof:lastmodified":1566624910,
     "wof:name":"Fartura",
     "wof:parent_id":404563981,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.392725,
     "lbl:longitude":-37.627495,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.392725,
     "mps:longitude":-37.627495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Ilha da Queimada Grande"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":631,
     "wof:belongsto":[
         102191577,
@@ -98,7 +101,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"d64306bb6fec09b7971d050f6acefaf7",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101989999,
-    "wof:lastmodified":1527715771,
+    "wof:lastmodified":1566625761,
     "wof:name":"Queimada Grande",
     "wof:parent_id":102060987,
     "wof:placetype":"locality",

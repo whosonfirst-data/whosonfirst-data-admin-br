@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.25905,
     "lbl:longitude":-43.163058,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-14.25905,
     "mps:longitude":-43.163058,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b2\u09ae\u09be\u09b8 \u09a1\u09c7 \u09ae\u09cb\u09a8\u09cd\u099f\u09c7 \u0986\u09b2\u09cd\u099f\u09cb"
     ],
@@ -75,9 +78,6 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u043b\u043c\u0430\u0441-\u0434\u0438-\u041c\u043e\u043d\u0442\u0438-\u0410\u043b\u0442\u0443"
     ],
-    "name:unk_x_variant":[
-        "Monte Alto"
-    ],
     "name:vie_x_preferred":[
         "Palmas de Monte Alto"
     ],
@@ -107,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -121,7 +121,6 @@
         "fct:id":"03875c62-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3455447,
         "gp:id":457722,
-        "qs:id":1210009,
         "qs_pg:id":1210009,
         "wd:id":"Q1793599"
     },
@@ -141,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841149,
+    "wof:lastmodified":1566624576,
     "wof:name":"Palmas de Monte Alto",
     "wof:parent_id":404551669,
     "wof:placetype":"locality",

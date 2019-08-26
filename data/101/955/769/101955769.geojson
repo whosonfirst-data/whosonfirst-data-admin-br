@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.61449,
     "lbl:longitude":-48.366701,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-21.61449,
     "mps:longitude":-48.366701,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u099f\u09be\u0993"
     ],
@@ -78,9 +81,6 @@
     "name:spa_x_preferred":[
         "Mat\u00e3o"
     ],
-    "name:unk_x_variant":[
-        "Matt\u00e3o"
-    ],
     "name:vie_x_preferred":[
         "Mat\u00e3o"
     ],
@@ -110,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682041,
@@ -124,7 +124,6 @@
         "fct:id":"0389f85a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457509,
         "gp:id":457565,
-        "qs:id":1045005,
         "qs_pg:id":1045005,
         "wd:id":"Q1649629"
     },
@@ -144,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841096,
+    "wof:lastmodified":1566623847,
     "wof:name":"Mat\u00e3o",
     "wof:parent_id":404566743,
     "wof:placetype":"locality",

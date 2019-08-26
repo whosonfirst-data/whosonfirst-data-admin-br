@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.122056,
     "lbl:longitude":-38.204341,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.122056,
     "mps:longitude":-38.204341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09aa\u09be\u0993 \u09a6\u09cb\u09b8 \u09ab\u09c7\u09b0\u09b0\u09b8"
     ],
@@ -130,7 +133,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0443-\u0434\u043e\u0441-\u0424\u0435\u0440\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dao Dos Ferros"
     ],
     "name:urd_x_preferred":[
@@ -165,7 +168,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -176,10 +179,12 @@
     "wof:concordances":{
         "gn:id":3392777,
         "gp:id":456397,
-        "qs:id":8,
-        "qs_pg:id":813915,
+        "qs_pg:id":8,
         "wd:id":"Q1759093",
         "wk:page":"Pau dos Ferros"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":813915
     },
     "wof:country":"BR",
     "wof:geomhash":"7c66badad097d24aead1d46f5bca7542",
@@ -193,7 +198,7 @@
         }
     ],
     "wof:id":101945965,
-    "wof:lastmodified":1563247015,
+    "wof:lastmodified":1566625885,
     "wof:name":"Pau dos Ferros",
     "wof:parent_id":102058741,
     "wof:placetype":"locality",

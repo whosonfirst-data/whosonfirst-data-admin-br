@@ -9,14 +9,15 @@
     "geom:bbox":"-43.2222308955,-22.8389493489,-43.1945589217,-22.8015032576",
     "geom:latitude":-22.820129,
     "geom:longitude":-43.207875,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:latitude":-22.81559,
     "gn:longitude":-43.19976,
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-22.813216,
     "lbl:longitude":-43.207383,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-22.82049,
     "mps:longitude":-43.20788,
     "mz:hierarchy_label":1,
@@ -41,9 +42,6 @@
         "Jardim Guanabara"
     ],
     "name:por_x_preferred":[
-        "Jardim Guanabara"
-    ],
-    "name:unk_x_variant":[
         "Jardim Guanabara"
     ],
     "name:urd_x_preferred":[
@@ -98,8 +96,7 @@
     "qs_pg:woe_id":55944114,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633009,
         101953261
@@ -108,7 +105,6 @@
     "wof:concordances":{
         "gn:id":7538706,
         "gp:id":55944114,
-        "qs:id":1285755,
         "qs_pg:id":1285755,
         "wd:id":"Q3807313",
         "wk:page":"Jardim Guanabara"
@@ -129,7 +125,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563237434,
+    "wof:lastmodified":1566620760,
     "wof:name":"Jardim Guanabara",
     "wof:parent_id":101953261,
     "wof:placetype":"neighbourhood",

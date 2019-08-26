@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.549943,
     "lbl:longitude":-37.533146,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-10.549943,
     "mps:longitude":-37.533146,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09cd\u09b0\u09c7\u0987 \u09aa\u09be\u0989\u09b2\u09cb"
     ],
@@ -73,9 +76,6 @@
     "name:swe_x_preferred":[
         "Frei Paulo"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Paulo"
-    ],
     "name:vie_x_preferred":[
         "Frei Paulo"
     ],
@@ -105,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -118,9 +118,11 @@
         "fct:id":"0387b540-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3462944,
         "gp:id":459517,
-        "qs:id":9,
-        "qs_pg:id":342770,
+        "qs_pg:id":9,
         "wd:id":"Q588822"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":342770
     },
     "wof:country":"BR",
     "wof:geomhash":"a9afc7783ffab85c5aea269a69afacc5",
@@ -137,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243863,
+    "wof:lastmodified":1566624395,
     "wof:name":"Frei Paulo",
     "wof:parent_id":102060863,
     "wof:placetype":"locality",

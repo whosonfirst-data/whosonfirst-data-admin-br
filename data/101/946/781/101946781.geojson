@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.672767,
     "lbl:longitude":-35.37635,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.672767,
     "mps:longitude":-35.37635,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u0997\u09cb\u09af\u09bc\u09be \u09a1\u09c7 \u09a1\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09cb"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -113,7 +116,6 @@
     "wof:concordances":{
         "gn:id":6317428,
         "gp:id":26804007,
-        "qs:id":1028255,
         "qs_pg:id":1028255,
         "wd:id":"Q2011329",
         "wk:page":"Lagoa de Dentro"
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101946781,
-    "wof:lastmodified":1561841125,
+    "wof:lastmodified":1566624277,
     "wof:name":"Lagoa de Dentro",
     "wof:parent_id":102056215,
     "wof:placetype":"locality",

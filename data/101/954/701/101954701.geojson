@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.922537,
     "lbl:longitude":-53.477998,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-25.922537,
     "mps:longitude":-53.477998,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09aa\u09c7\u09b0\u09c7"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681983,
@@ -126,7 +129,6 @@
         "fct:id":"03857582-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472304,
         "gp:id":421751,
-        "qs:id":180700,
         "qs_pg:id":180700,
         "wd:id":"Q2004241"
     },
@@ -146,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241395,
+    "wof:lastmodified":1566623274,
     "wof:name":"Amp\u00e9re",
     "wof:parent_id":404560849,
     "wof:placetype":"locality",

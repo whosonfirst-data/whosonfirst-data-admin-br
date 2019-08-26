@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.222748,
     "lbl:longitude":-38.703345,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.222748,
     "mps:longitude":-38.703345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u0995\u09be\u09b0\u09be\u09aa\u09c7"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -118,7 +121,6 @@
         "fct:id":"0388e73a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3408373,
         "gp:id":420753,
-        "qs:id":247207,
         "qs_pg:id":247207,
         "wd:id":"Q1808379"
     },
@@ -137,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247172,
+    "wof:lastmodified":1566625961,
     "wof:name":"Acarape",
     "wof:parent_id":102051403,
     "wof:placetype":"locality",

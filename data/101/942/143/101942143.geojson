@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":2.500482,
     "lbl:longitude":-50.961421,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":2.500482,
     "mps:longitude":-50.961421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0987\u0995\u09cb\u09af\u09bc\u09c7\u09a8\u09c7"
     ],
@@ -98,9 +101,6 @@
     "name:swe_x_preferred":[
         "Cal\u00e7oene"
     ],
-    "name:unk_x_variant":[
-        "Calsoene"
-    ],
     "name:vie_x_preferred":[
         "Cal\u00e7oene"
     ],
@@ -130,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":352,
     "wof:belongsto":[
         85681891,
@@ -144,7 +144,6 @@
         "fct:id":"0386ae8e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3403899,
         "gp:id":456107,
-        "qs:id":147736,
         "qs_pg:id":147736,
         "wd:id":"Q1754431",
         "wk:page":"Cal\u00e7oene"
@@ -165,7 +164,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246909,
+    "wof:lastmodified":1566625843,
     "wof:name":"Cal\u00e7oene",
     "wof:parent_id":404550317,
     "wof:placetype":"locality",

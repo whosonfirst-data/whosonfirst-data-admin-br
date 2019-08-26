@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.687861,
     "lbl:longitude":-41.253601,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.687861,
     "mps:longitude":-41.253601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0648 \u0643\u0631\u064a\u0633\u062a\u0648\u0641\u0627\u0648"
     ],
@@ -124,7 +127,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":774,
     "wof:belongsto":[
         102191577,
@@ -135,7 +138,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":448788,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"eecbbd6d49c3d02d61fe9078c210ae36",
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101985369,
-    "wof:lastmodified":1564140659,
+    "wof:lastmodified":1566624514,
     "wof:name":"S\u00e3o Crist\u00f3v\u00e3o",
     "wof:parent_id":102057353,
     "wof:placetype":"locality",

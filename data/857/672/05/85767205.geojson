@@ -12,8 +12,10 @@
     "gn:latitude":-29.8567,
     "gn:longitude":-51.4787,
     "iso:country":"BR",
+    "lbl:bbox":"-51.164014,-29.181944,-51.154014,-29.171944",
     "lbl:latitude":-29.176944,
     "lbl:longitude":-51.159014,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-29.179342,
     "mps:longitude":-51.156345,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u0430-\u0412\u0456\u0441\u0442\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Bela Vista"
     ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_fcode":"PPL",
@@ -63,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191577,
         404563341,
@@ -76,8 +75,10 @@
     "wof:concordances":{
         "gn:id":7582746,
         "gp:id":56067555,
-        "qs:id":1102596,
         "qs_pg:id":795645
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1102596
     },
     "wof:country":"BR",
     "wof:geomhash":"585a0c5102624c7de867fa82dd9dbb63",
@@ -96,7 +97,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564134640,
+    "wof:lastmodified":1566620725,
     "wof:name":"Bela Vista",
     "wof:parent_id":101960531,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.297704,
     "lbl:longitude":-47.565363,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.297704,
     "mps:longitude":-47.565363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u0997\u09cb\u09af\u09bc\u09be \u09a1\u09cb \u099f\u09cb\u0995\u09be\u09a8\u099f\u09bf\u09a8\u09b8"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -121,7 +124,7 @@
         "fct:id":"03883fe2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3479303,
         "gp:id":26803894,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1801591",
         "wk:page":"Lagoa do Tocantins"
     },
@@ -140,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841279,
+    "wof:lastmodified":1566625838,
     "wof:name":"Lagoa do Tocantins",
     "wof:parent_id":102062591,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"-43.0375,-19.75,-43.0375,-19.75",
     "geom:latitude":-19.75,
     "geom:longitude":-43.0375,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":15595,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:population":15595,
     "iso:country":"BR",
+    "lbl:bbox":"-43.0425,-19.755,-43.0325,-19.745",
     "lbl:latitude":-19.75,
     "lbl:longitude":-43.0375,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u09af\u09bc\u09c7\u09b0\u09be"
@@ -73,7 +75,7 @@
     "name:swe_x_preferred":[
         "Nova Era"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Jos\u00e9 da Lag\u00f4a"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +111,7 @@
     "qs_pg:woe_adm0":23424768,
     "qs_pg:woe_id":56067476,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424768,
     "woe:name_adm0":"Brasil",
@@ -143,7 +145,7 @@
         }
     ],
     "wof:id":1126065755,
-    "wof:lastmodified":1564146151,
+    "wof:lastmodified":1566628440,
     "wof:name":"Nova Era",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,17 @@
     "geom:bbox":"-45.018503035,-1.62725677511,-45.0119952242,-1.62119355467",
     "geom:latitude":-1.625238,
     "geom:longitude":-45.014462,
-    "geonames:id":"3388257,3389837",
+    "gn:id":"3388257,3389837",
     "iso:country":"BR",
     "lbl:latitude":-1.625303,
     "lbl:longitude":-45.014413,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":2.5,
     "mps:latitude":-1.625303,
     "mps:longitude":-45.014413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":2.5,
     "name:abk_x_preferred":[
         "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443"
     ],
@@ -626,7 +629,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":760.0,
     "wd:latitude":-23.5,
@@ -642,7 +645,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":457113,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"17105605befc52ba87eb9e835d3b4a48",
@@ -656,7 +659,7 @@
         }
     ],
     "wof:id":101975313,
-    "wof:lastmodified":1564142663,
+    "wof:lastmodified":1566626222,
     "wof:name":"S\u00e3o Paulo",
     "wof:parent_id":102052811,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.766878,
     "lbl:longitude":-36.245969,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.766878,
     "mps:longitude":-36.245969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09cb\u09b8\u09b8\u09c7\u0997\u09cb"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -115,7 +118,7 @@
         "fct:id":"03867bbc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3387210,
         "gp:id":452621,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2010762",
         "wk:page":"Soss\u00eago, Para\u00edba"
     },
@@ -134,7 +137,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841124,
+    "wof:lastmodified":1566624274,
     "wof:name":"Soss\u00eago",
     "wof:parent_id":102056455,
     "wof:placetype":"locality",

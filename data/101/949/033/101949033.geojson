@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.950028,
     "lbl:longitude":-43.416356,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.950028,
     "mps:longitude":-43.416356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b2\u09ae\u09bf\u09b0\u09cb \u09ac\u09cd\u09b0\u09be\u0997\u09be"
     ],
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "Belmiro Braga"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vargem Grande"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -128,7 +131,7 @@
         "fct:id":"03897a06-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461554,
         "gp:id":55944124,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1793075",
         "wk:page":"Belmiro Braga"
     },
@@ -148,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841151,
+    "wof:lastmodified":1566624595,
     "wof:name":"Belmiro Braga",
     "wof:parent_id":404555397,
     "wof:placetype":"locality",

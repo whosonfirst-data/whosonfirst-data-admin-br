@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.433488,
     "lbl:longitude":-38.544562,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.433488,
     "mps:longitude":-38.544562,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cardoso"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681967,
         102191577,
@@ -69,7 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6316809,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a5afd125224fc6245d6a5eac9804537b",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101945831,
-    "wof:lastmodified":1564142298,
+    "wof:lastmodified":1566625933,
     "wof:name":"Cardoso",
     "wof:parent_id":404559919,
     "wof:placetype":"locality",

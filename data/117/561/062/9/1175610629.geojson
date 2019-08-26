@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.169416,
     "lbl:longitude":-47.668043,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.169416,
     "mps:longitude":-47.668043,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u09aa\u09cb\u09a8\u09cd\u099f\u09c7"
     ],
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Nova Ponte"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Miguel da Ponte Nova"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -125,10 +128,12 @@
         "fct:id":"03861f82-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456126,
         "gp:id":441644,
-        "qs:id":9,
-        "qs_pg:id":390406,
+        "qs_pg:id":9,
         "wd:id":"Q1754716",
         "wk:page":"Nova Ponte"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":390406
     },
     "wof:country":"BR",
     "wof:geomhash":"0f8237c3c1bea3d4e04f6f7b7c32b6cf",
@@ -146,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563240554,
+    "wof:lastmodified":1566622762,
     "wof:name":"Nova Ponte",
     "wof:parent_id":404557415,
     "wof:placetype":"locality",

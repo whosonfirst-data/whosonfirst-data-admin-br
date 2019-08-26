@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.830914,
     "lbl:longitude":-43.077512,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.830914,
     "mps:longitude":-43.077512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Neves"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":123,
     "wof:belongsto":[
         85681991,
@@ -74,7 +77,9 @@
         "fct:id":"0381313e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456315,
         "gp:id":441409,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1076358
     },
     "wof:country":"BR",
@@ -93,7 +98,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564139168,
+    "wof:lastmodified":1566623367,
     "wof:name":"Neves",
     "wof:parent_id":404562553,
     "wof:placetype":"locality",

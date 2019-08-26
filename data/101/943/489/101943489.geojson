@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.636092,
     "lbl:longitude":-43.954613,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.636092,
     "mps:longitude":-43.954613,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b0\u09cd\u099f\u09cb\u09b2\u0987\u09a8\u09bf\u09af\u09bc\u09be"
     ],
@@ -77,9 +80,6 @@
     "name:swe_x_preferred":[
         "Bertol\u00ednia"
     ],
-    "name:unk_x_variant":[
-        "Apparecida"
-    ],
     "name:vie_x_preferred":[
         "Bertol\u00ednia"
     ],
@@ -109,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":145,
     "wof:belongsto":[
         102191577,
@@ -122,7 +122,6 @@
         "fct:id":"03870028-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3405760,
         "gp:id":456808,
-        "qs:id":1238322,
         "qs_pg:id":1238322,
         "wd:id":"Q769524",
         "wk:page":"Bertol\u00ednia"
@@ -142,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841313,
+    "wof:lastmodified":1566626120,
     "wof:name":"Bertol\u00ednia",
     "wof:parent_id":102056961,
     "wof:placetype":"locality",

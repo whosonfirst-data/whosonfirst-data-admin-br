@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-17.634252,
     "lbl:longitude":-47.775677,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-17.634252,
     "mps:longitude":-47.775677,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09cd\u09aa\u09cb \u0986\u09b2\u09c7\u0997\u09cd\u09b0\u09c7 \u09a1\u09c7 \u0997\u09cb\u09af\u09bc\u09be\u09b8"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":461,
     "wof:belongsto":[
         102191577,
@@ -119,7 +122,7 @@
         "fct:id":"03870b90-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3467801,
         "gp:id":456932,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q988803",
         "wk:page":"Campo Alegre de Goi\u00e1s"
     },
@@ -138,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841067,
+    "wof:lastmodified":1566623545,
     "wof:name":"Campo Alegre de Goi\u00e1s",
     "wof:parent_id":102052111,
     "wof:placetype":"locality",

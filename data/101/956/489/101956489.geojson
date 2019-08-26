@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.825902,
     "lbl:longitude":-53.741317,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.825902,
     "mps:longitude":-53.741317,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09b0\u09cb\u09b2\u09be \u09a1\u09bf'\u0993\u098f\u09b8\u09cd\u099f\u09c7"
     ],
@@ -85,7 +88,7 @@
     "name:swe_x_preferred":[
         "P\u00e9rola d'Oeste"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u00e9rola d\u2019Oeste"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         85681983,
@@ -131,9 +134,11 @@
         "fct:id":"038164c4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317930,
         "gp:id":443924,
-        "qs:id":6,
-        "qs_pg:id":1042754,
+        "qs_pg:id":6,
         "wd:id":"Q1803472"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1042754
     },
     "wof:country":"BR",
     "wof:geomhash":"9fddb994660b99d86473fab275d58393",
@@ -151,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246064,
+    "wof:lastmodified":1566625398,
     "wof:name":"P\u00e9rola d'Oeste",
     "wof:parent_id":404561623,
     "wof:placetype":"locality",

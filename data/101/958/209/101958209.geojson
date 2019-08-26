@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00047,
-    "geom:area_square_m":5260698.125271,
+    "geom:area_square_m":5260698.125272,
     "geom:bbox":"-48.0595256491,-25.2387677484,-48.0235374346,-25.2183318002",
     "geom:latitude":-25.228494,
     "geom:longitude":-48.040706,
     "iso:country":"BR",
     "lbl:latitude":-25.228945,
     "lbl:longitude":-48.03745,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.228945,
     "mps:longitude":-48.03745,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*PR",
     "qs:a1_lc":"41",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -43,7 +47,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456704,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1076721
     },
     "wof:country":"BR",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":101958209,
-    "wof:lastmodified":1497290117,
+    "wof:lastmodified":1566625251,
     "wof:name":"Ararapira",
     "wof:parent_id":404561225,
     "wof:placetype":"locality",

@@ -9,14 +9,15 @@
     "geom:bbox":"-43.5735375976,-23.0507603781,-43.5370581054,-23.0065482552",
     "geom:latitude":-23.028782,
     "geom:longitude":-43.554921,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:latitude":-22.99859,
     "gn:longitude":-43.63333,
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-23.032085,
     "lbl:longitude":-43.55487,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-23.030186,
     "mps:longitude":-43.556397,
     "mz:hierarchy_label":1,
@@ -43,9 +44,6 @@
     "name:por_x_variant":[
         "Pedra de Guaratiba",
         "Guaratiba"
-    ],
-    "name:unk_x_variant":[
-        "Barra De Guaratiba"
     ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_fcode":"PPL",
@@ -95,9 +93,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":230,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85681991,
         102191577,
@@ -109,7 +106,6 @@
     "wof:concordances":{
         "gn:id":8355890,
         "gp:id":55944016,
-        "qs:id":217882,
         "qs_pg:id":207869,
         "wd:id":"Q3898614",
         "wk:page":"Pedra de Guaratiba"
@@ -135,7 +131,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561840920,
+    "wof:lastmodified":1566620765,
     "wof:name":"Barra De Guaratiba",
     "wof:parent_id":101953261,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.371994,
     "lbl:longitude":-39.235782,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-16.371994,
     "mps:longitude":-39.235782,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09a8\u09a1\u09cb\u09b0\u09be\u09ae\u09be"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":527.0,
     "wd:latitude":-21.185833,
@@ -108,7 +111,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"20467bc87f2b43a94702278cee50c9c2",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1175610959,
-    "wof:lastmodified":1564138163,
+    "wof:lastmodified":1566622778,
     "wof:name":"Pindorama",
     "wof:parent_id":404551883,
     "wof:placetype":"locality",

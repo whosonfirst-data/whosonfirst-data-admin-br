@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.702273,
     "lbl:longitude":-44.840669,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-2.702273,
     "mps:longitude":-44.840669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "S\u00e3o Bento"
     ],
@@ -86,9 +89,6 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u0411\u0435\u043d\u0442\u0443"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Bento das Perdizes"
-    ],
     "name:vol_x_preferred":[
         "S\u00e3o Bento"
     ],
@@ -115,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -128,7 +128,6 @@
         "fct:id":"038834d4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3389006,
         "gp:id":458027,
-        "qs:id":181622,
         "qs_pg:id":181622,
         "wd:id":"Q2104116",
         "wk:page":"S\u00e3o Bento, Maranh\u00e3o"
@@ -148,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247533,
+    "wof:lastmodified":1566626126,
     "wof:name":"S\u00e3o Bento",
     "wof:parent_id":102053147,
     "wof:placetype":"locality",

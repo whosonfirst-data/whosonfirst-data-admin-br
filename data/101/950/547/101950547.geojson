@@ -12,18 +12,19 @@
     "iso:country":"BR",
     "lbl:latitude":-11.543883,
     "lbl:longitude":-37.569052,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.543883,
     "mps:longitude":-37.569052,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Itanhi"
     ],
     "name:por_x_variant":[
         "Cachoeira da Abadia",
         "Cachoeira da Abbadia"
-    ],
-    "name:unk_x_variant":[
-        "Cachoeira da Abadia"
     ],
     "qs:a0":"Brasil",
     "qs:a1":"*BA",
@@ -40,7 +41,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -53,7 +54,7 @@
         "fct:id":"0383971c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460781,
         "gp:id":459717,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"67ac96f643a6a21d4755f60c4b75cb73",
@@ -71,7 +72,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1501266664,
+    "wof:lastmodified":1566624778,
     "wof:name":"Itanhi",
     "wof:parent_id":404551309,
     "wof:placetype":"locality",

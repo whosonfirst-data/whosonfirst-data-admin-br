@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.368525,
     "lbl:longitude":-40.83606,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-18.368525,
     "mps:longitude":-40.83606,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u098f\u0995\u09cb\u09aa\u09cb\u09b0\u09be\u0999\u09cd\u0997\u09be"
     ],
@@ -85,9 +88,6 @@
     "name:spa_x_preferred":[
         "Ecoporanga"
     ],
-    "name:unk_x_variant":[
-        "Patrim\u00f4nio do S\u00earro"
-    ],
     "name:vie_x_preferred":[
         "Ecoporanga"
     ],
@@ -115,7 +115,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681921,
@@ -129,7 +129,7 @@
         "fct:id":"03872260-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3464364,
         "gp:id":445026,
-        "qs:id":305331,
+        "qs_pg:id":305331,
         "wd:id":"Q1794439",
         "wk:page":"Ecoporanga, Esp\u00edrito Santo"
     },
@@ -149,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841027,
+    "wof:lastmodified":1566623299,
     "wof:name":"Ecoporanga",
     "wof:parent_id":404554321,
     "wof:placetype":"locality",

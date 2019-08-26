@@ -9,16 +9,19 @@
     "geom:bbox":"-57.934240752,-13.7055645807,-57.835963604,-13.6136649489",
     "geom:latitude":-13.657745,
     "geom:longitude":-57.889038,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-13.655874,
     "lbl:longitude":-57.8949,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.655874,
     "mps:longitude":-57.8949,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09cd\u09aa\u09cb \u09a8\u09cb\u09ad\u09cb \u09a1\u09cb \u09aa\u09be\u09b0\u09c7\u09b8\u09bf\u09b8"
     ],
@@ -130,7 +133,7 @@
     "qs_pg:woe_id":456937,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681955,
         102191577,
@@ -143,7 +146,6 @@
         "fct:id":"03870c26-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316745,
         "gp:id":456937,
-        "qs:id":290983,
         "qs_pg:id":290983,
         "wd:id":"Q1793164",
         "wk:page":"Campo Novo do Parecis"
@@ -164,7 +166,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841186,
+    "wof:lastmodified":1566624944,
     "wof:name":"Campo Novo do Parecis",
     "wof:parent_id":404559143,
     "wof:placetype":"locality",

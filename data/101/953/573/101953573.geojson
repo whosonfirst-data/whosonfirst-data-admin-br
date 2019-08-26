@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.156855,
     "lbl:longitude":-42.421365,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.156855,
     "mps:longitude":-42.421365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09ae \u099c\u09be\u09b0\u09cd\u09a1\u09bf\u09ae"
     ],
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "Bom Jardim"
     ],
-    "name:unk_x_variant":[
-        "Vergel"
-    ],
     "name:vol_x_preferred":[
         "Bom Jardim"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
         85681991,
@@ -131,7 +131,6 @@
         "fct:id":"0388b9c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3469481,
         "gp:id":456835,
-        "qs:id":1014213,
         "qs_pg:id":1014213,
         "wd:id":"Q628978",
         "wk:page":"Bom Jardim, Rio de Janeiro"
@@ -152,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241629,
+    "wof:lastmodified":1566623379,
     "wof:name":"Bom Jardim",
     "wof:parent_id":404562121,
     "wof:placetype":"locality",

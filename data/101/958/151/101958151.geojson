@@ -9,14 +9,17 @@
     "geom:bbox":"-48.890611808,-26.096927591,-48.7980166387,-25.9815203347",
     "geom:latitude":-26.036501,
     "geom:longitude":-48.843287,
-    "geonames:id":"3462536,3462537",
+    "gn:id":"3462536,3462537",
     "iso:country":"BR",
     "lbl:latitude":-26.037784,
     "lbl:longitude":-48.835664,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.037784,
     "mps:longitude":-48.835664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09be\u09b0\u09c1\u09ad\u09be"
     ],
@@ -83,7 +86,7 @@
     "name:swe_x_preferred":[
         "Garuva"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Palmital"
     ],
     "name:vie_x_preferred":[
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -130,10 +133,12 @@
     "wof:concordances":{
         "gn:id":3462537,
         "gp:id":457209,
-        "qs:id":9,
-        "qs_pg:id":1134525,
+        "qs_pg:id":9,
         "wd:id":"Q1784623",
         "wk:page":"Garuva"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1134525
     },
     "wof:country":"BR",
     "wof:geomhash":"10edd028e53ad2942a7e22b8285423cd",
@@ -148,7 +153,7 @@
         }
     ],
     "wof:id":101958151,
-    "wof:lastmodified":1561841216,
+    "wof:lastmodified":1566625205,
     "wof:name":"Garuva",
     "wof:parent_id":404565433,
     "wof:placetype":"locality",

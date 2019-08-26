@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.083673,
     "lbl:longitude":-37.613387,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-5.083673,
     "mps:longitude":-37.613387,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Bara\u00fana"
     ],
@@ -75,9 +78,6 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u0440\u0430\u0443\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Currais Bara\u00fana"
-    ],
     "name:vol_x_preferred":[
         "Bara\u00fana"
     ],
@@ -104,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -117,7 +117,6 @@
         "fct:id":"0387a01e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3406457,
         "gp:id":458600,
-        "qs:id":353276,
         "qs_pg:id":353276,
         "wd:id":"Q1970827"
     },
@@ -136,7 +135,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841120,
+    "wof:lastmodified":1566624252,
     "wof:name":"Bara\u00fana",
     "wof:parent_id":102058543,
     "wof:placetype":"locality",

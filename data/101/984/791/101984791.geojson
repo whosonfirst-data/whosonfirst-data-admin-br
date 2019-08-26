@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.427961,
     "lbl:longitude":-42.012359,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.427961,
     "mps:longitude":-42.012359,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Rocha Le\u00e3o"
     ],
@@ -33,7 +37,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -43,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3451008,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"2968286734532678965ce3668e0bbd3c",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101984791,
-    "wof:lastmodified":1501266544,
+    "wof:lastmodified":1566624054,
     "wof:name":"Rocha Le\u00e3o",
     "wof:parent_id":102058453,
     "wof:placetype":"locality",

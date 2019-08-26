@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.850641,
     "lbl:longitude":-43.982332,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.850641,
     "mps:longitude":-43.982332,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u0995\u09be\u099c\u09c1\u09ac\u09be"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -109,7 +112,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"df71b55a38efc787a2674bb520cdbb93",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101980255,
-    "wof:lastmodified":1564142075,
+    "wof:lastmodified":1566625746,
     "wof:name":"Macajuba",
     "wof:parent_id":102053237,
     "wof:placetype":"locality",

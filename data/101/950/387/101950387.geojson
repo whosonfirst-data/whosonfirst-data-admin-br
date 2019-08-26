@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.617114,
     "lbl:longitude":-38.687922,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-12.617114,
     "mps:longitude":-38.687922,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09ab\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09bf\u09b8\u0995\u09cb \u09a1\u09cb \u0995\u09cb\u09a8\u09cd\u09a1\u09c7"
     ],
@@ -94,9 +97,6 @@
     "name:spa_x_preferred":[
         "S\u00e3o Francisco do Conde"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Francisco"
-    ],
     "name:vie_x_preferred":[
         "S\u00e3o Francisco do Conde"
     ],
@@ -126,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":159,
     "wof:belongsto":[
@@ -141,7 +141,6 @@
         "fct:id":"0389fb8e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3449116,
         "gp:id":461065,
-        "qs:id":1044851,
         "qs_pg:id":1044851,
         "wd:id":"Q1648073",
         "wk:page":"S\u00e3o Francisco do Conde"
@@ -162,7 +161,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841163,
+    "wof:lastmodified":1566624780,
     "wof:name":"S\u00e3o Francisco do Conde",
     "wof:parent_id":404551949,
     "wof:placetype":"locality",

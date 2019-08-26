@@ -9,14 +9,18 @@
     "geom:bbox":"-45.31,-23.22167,-45.31,-23.22167",
     "geom:latitude":-23.22167,
     "geom:longitude":-45.31,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
+    "lbl:bbox":"-45.33,-23.24167,-45.29,-23.20167",
     "lbl:latitude":-23.22167,
     "lbl:longitude":-45.31,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09b2\u09c1\u0987\u09b8 \u09a1\u09cb \u09aa\u09be\u09b0\u09be\u0987\u099f\u09bf\u0999\u09cd\u0997\u09be"
@@ -78,9 +82,6 @@
     "name:swe_x_preferred":[
         "S\u00e3o Lu\u00eds do Paraitinga"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Luiz do Paraitinga"
-    ],
     "name:vie_x_preferred":[
         "S\u00e3o Luiz do Paraitinga"
     ],
@@ -114,7 +115,7 @@
     "qs_pg:woe_adm0":23424768,
     "qs_pg:woe_id":450815,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424768,
     "woe:name_adm0":"Brasil",
     "woe:name_adm1":"S\u00e3o Paulo",
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1125900551,
-    "wof:lastmodified":1561841408,
+    "wof:lastmodified":1566628421,
     "wof:name":"S\u00e3o Luiz do Parahytinga",
     "wof:parent_id":404567247,
     "wof:placetype":"locality",

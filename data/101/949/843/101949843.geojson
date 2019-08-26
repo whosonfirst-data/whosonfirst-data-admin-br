@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.142159,
     "lbl:longitude":-40.252983,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.142159,
     "mps:longitude":-40.252983,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Nova Cruz"
     ],
@@ -33,7 +37,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -44,7 +48,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3456179,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"156c6c520ca82f1d88147176ec0e7281",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101949843,
-    "wof:lastmodified":1501266633,
+    "wof:lastmodified":1566624555,
     "wof:name":"Nova Cruz",
     "wof:parent_id":404551427,
     "wof:placetype":"locality",

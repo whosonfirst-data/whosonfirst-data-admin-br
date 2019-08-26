@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.149235,
     "lbl:longitude":-44.096424,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.149235,
     "mps:longitude":-44.096424,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u09b0\u09bf\u099f\u09be \u09a1\u09c7 \u099c\u09be\u0995\u09c1\u099f\u09bf\u0999\u09cd\u0997\u09be"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Santa Rita de Jacutinga"
     ],
-    "name:unk_x_variant":[
-        "Jacutinga"
-    ],
     "name:vie_x_preferred":[
         "Santa Rita de Jacutinga"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -131,7 +131,6 @@
         "fct:id":"038544e0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3449859,
         "gp:id":448896,
-        "qs:id":336694,
         "qs_pg:id":336694,
         "wd:id":"Q1789193",
         "wk:page":"Santa Rita de Jacutinga"
@@ -152,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841087,
+    "wof:lastmodified":1566623784,
     "wof:name":"Santa Rita de Jacutinga",
     "wof:parent_id":404558131,
     "wof:placetype":"locality",

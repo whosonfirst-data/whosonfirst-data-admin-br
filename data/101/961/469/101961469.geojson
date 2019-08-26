@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.662443,
     "lbl:longitude":-54.775699,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.662443,
     "mps:longitude":-54.775699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09b2\u09be\u09a8\u09be\u09b2\u09cd\u099f\u09cb \u09a1\u09be \u09b8\u09c7\u09b0\u09b0\u09be"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -113,7 +116,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943943,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1806584"
     },
     "wof:country":"BR",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101961469,
-    "wof:lastmodified":1563245143,
+    "wof:lastmodified":1566624984,
     "wof:name":"Planalto da Serra",
     "wof:parent_id":102055547,
     "wof:placetype":"locality",

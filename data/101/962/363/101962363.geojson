@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-17.732811,
     "lbl:longitude":-49.115006,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-17.732811,
     "mps:longitude":-49.115006,
     "mz:hierarchy_label":1,
@@ -196,7 +198,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -209,7 +211,6 @@
         "fct:id":"0387521c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456735,
         "gp:id":457624,
-        "qs:id":1239139,
         "qs_pg:id":1239139,
         "wd:id":"Q1025767"
     },
@@ -228,7 +229,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241859,
+    "wof:lastmodified":1566623499,
     "wof:name":"Morrinhos",
     "wof:parent_id":102052423,
     "wof:placetype":"locality",

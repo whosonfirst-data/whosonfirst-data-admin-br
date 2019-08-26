@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.073911,
     "lbl:longitude":-48.736357,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-22.073911,
     "mps:longitude":-48.736357,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09bf\u09b0\u09bf"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Bariri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bariry"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.074444,
     "wd:longitude":-48.740278,
@@ -124,10 +127,12 @@
         "fct:id":"03858734-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3470825,
         "gp:id":423459,
-        "qs:id":5,
-        "qs_pg:id":896273,
+        "qs_pg:id":5,
         "wd:id":"Q1759107",
         "wk:page":"Bariri"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":896273
     },
     "wof:country":"BR",
     "wof:geomhash":"fe460cc73de449d1c2d597b9c5711e2a",
@@ -144,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563240559,
+    "wof:lastmodified":1566622765,
     "wof:name":"Bariri",
     "wof:parent_id":102061121,
     "wof:placetype":"locality",

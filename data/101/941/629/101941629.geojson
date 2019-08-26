@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.980684,
     "lbl:longitude":-65.161432,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-2.980684,
     "mps:longitude":-65.161432,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09bf\u09a8\u09bf"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -125,7 +128,6 @@
         "fct:id":"03821aae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3661756,
         "gp:id":454332,
-        "qs:id":584575,
         "qs_pg:id":584575,
         "wd:id":"Q517607"
     },
@@ -144,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243605,
+    "wof:lastmodified":1566624290,
     "wof:name":"Uarini",
     "wof:parent_id":102050421,
     "wof:placetype":"locality",

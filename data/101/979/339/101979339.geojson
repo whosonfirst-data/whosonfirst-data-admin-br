@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.69066,
     "lbl:longitude":-44.909557,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-2.69066,
     "mps:longitude":-44.909557,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cruzeiro"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -86,7 +89,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":458027,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"ed6124d28265204d972873255497a775",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101979339,
-    "wof:lastmodified":1564140160,
+    "wof:lastmodified":1566624164,
     "wof:name":"Cruzeiro",
     "wof:parent_id":102053055,
     "wof:placetype":"locality",

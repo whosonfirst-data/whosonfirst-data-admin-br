@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.319516,
     "lbl:longitude":-36.582913,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-10.319516,
     "mps:longitude":-36.582913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09c7\u0993\u09aa\u09cb\u09b2\u09bf\u09b8"
     ],
@@ -78,9 +81,6 @@
     "name:swe_x_preferred":[
         "Ne\u00f3polis"
     ],
-    "name:unk_x_variant":[
-        "Villa Nova"
-    ],
     "name:vie_x_preferred":[
         "Ne\u00f3polis"
     ],
@@ -110,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -123,7 +123,6 @@
         "fct:id":"0386cd2e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456325,
         "gp:id":456358,
-        "qs:id":148078,
         "qs_pg:id":148078,
         "wd:id":"Q2011928"
     },
@@ -142,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242739,
+    "wof:lastmodified":1566623879,
     "wof:name":"Ne\u00f3polis",
     "wof:parent_id":102060913,
     "wof:placetype":"locality",

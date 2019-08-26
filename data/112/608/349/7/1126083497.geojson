@@ -9,14 +9,17 @@
     "geom:bbox":"-43.58559,-22.89046,-43.58559,-22.89046",
     "geom:latitude":-22.89046,
     "geom:longitude":-43.58559,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"BR",
+    "lbl:bbox":"-43.59059,-22.89546,-43.58059,-22.88546",
     "lbl:latitude":-22.89046,
     "lbl:longitude":-43.58559,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:por_x_preferred":[
         "Calif\u00f3rnia"
@@ -42,17 +45,17 @@
     "qs_pg:woe_adm0":23424768,
     "qs_pg:woe_id":56067079,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424768,
     "woe:name_adm0":"Brasil",
     "woe:name_adm1":"Rio de Janeiro",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85681991,
         102191577,
         85633009,
         101953261,
-        102058455,
-        85681991
+        102058455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126083497,
-    "wof:lastmodified":1509411281,
+    "wof:lastmodified":1566628432,
     "wof:name":"Calif\u00f3rnia",
     "wof:parent_id":101953261,
     "wof:placetype":"neighbourhood",

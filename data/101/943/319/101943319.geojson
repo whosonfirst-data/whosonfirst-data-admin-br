@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.871241,
     "lbl:longitude":-44.879808,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.871241,
     "mps:longitude":-44.879808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u098f\u09b8\u09aa\u09c7\u09b0\u09be\u09a8\u09cd\u099f\u09bf\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
     ],
@@ -70,7 +73,7 @@
     "name:rus_x_preferred":[
         "\u042d\u0441\u043f\u0435\u0440\u0430\u043d\u0442\u0438\u043d\u043e\u043f\u043e\u043b\u0438\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boa Esperan\u00e7a do Mearim"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":159,
     "wof:belongsto":[
         102191577,
@@ -114,9 +117,11 @@
     "wof:concordances":{
         "gn:id":3400739,
         "gp:id":431747,
-        "qs:id":9,
-        "qs_pg:id":1044429,
+        "qs_pg:id":9,
         "wd:id":"Q2013171"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1044429
     },
     "wof:country":"BR",
     "wof:geomhash":"07423d9add403048b08c55d228229114",
@@ -130,7 +135,7 @@
         }
     ],
     "wof:id":101943319,
-    "wof:lastmodified":1561841316,
+    "wof:lastmodified":1566626136,
     "wof:name":"Esperantin\u00f3polis",
     "wof:parent_id":102052913,
     "wof:placetype":"locality",

@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.490235,
     "lbl:longitude":-38.979033,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.490235,
     "mps:longitude":-38.979033,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*BA",
     "qs:a1_lc":"29",
@@ -30,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":458170,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"7091d81affb34477c3fc61822c379c5a",
+    "wof:geomhash":"776c6a57dda24c901419f1072ba774a1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101977355,
-    "wof:lastmodified":1479954252,
+    "wof:lastmodified":1566623941,
     "wof:name":"Bola Verde",
     "wof:parent_id":404552101,
     "wof:placetype":"locality",

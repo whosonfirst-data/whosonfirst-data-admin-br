@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-23.951648,
     "lbl:longitude":-47.024684,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-23.951648,
     "mps:longitude":-47.024684,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u099c\u09c1\u0995\u09c1\u0987\u099f\u09bf\u09ac\u09be"
     ],
@@ -118,7 +121,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-23.931944,
     "wd:longitude":-47.068611,
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":102061657,
-    "wof:lastmodified":1563235260,
+    "wof:lastmodified":1566619381,
     "wof:name":"Juquitiba",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-1.346539,
     "lbl:longitude":-47.573178,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-1.346539,
     "mps:longitude":-47.573178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be \u09a1\u09cb \u09aa\u09be\u09b0\u09be"
     ],
@@ -77,9 +80,6 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u041c\u0430\u0440\u0438\u044f-\u0434\u0443-\u041f\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Santa Maria"
-    ],
     "name:vie_x_preferred":[
         "Santa Maria do Par\u00e1"
     ],
@@ -109,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":148,
     "wof:belongsto":[
@@ -123,7 +123,6 @@
         "fct:id":"0388d43e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3389459,
         "gp:id":456500,
-        "qs:id":814584,
         "qs_pg:id":814584,
         "wd:id":"Q1901157",
         "wk:page":"Santa Maria do Par\u00e1"
@@ -143,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841278,
+    "wof:lastmodified":1566625834,
     "wof:name":"Santa Maria do Par\u00e1",
     "wof:parent_id":102055911,
     "wof:placetype":"locality",

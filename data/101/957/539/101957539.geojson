@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.228756,
     "lbl:longitude":-50.86354,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.228756,
     "mps:longitude":-50.86354,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cd\u09b0\u09c1\u099c\u09af\u09bc\u09c7\u0987\u09b0\u09cb \u09a1\u09cb \u0993\u098f\u09b8\u09cd\u099f\u09c7"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0440\u0443\u0437\u0435\u0439\u0440\u0443-\u0434\u0443-\u0423\u044d\u0441\u0442\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Serra Morena"
     ],
     "name:zho_x_preferred":[
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":149,
     "wof:belongsto":[
         85681983,
@@ -62,7 +65,9 @@
         "fct:id":"038064ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465083,
         "gp:id":430673,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1059909
     },
     "wof:country":"BR",
@@ -81,7 +86,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527688619,
+    "wof:lastmodified":1566624822,
     "wof:name":"Cruzeiro do Norte",
     "wof:parent_id":404562059,
     "wof:placetype":"locality",

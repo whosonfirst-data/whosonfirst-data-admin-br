@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.314321,
     "lbl:longitude":-49.719622,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.314321,
     "mps:longitude":-49.719622,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b8\u09b8\u09cb \u09a1\u09c7 \u099f\u09cb\u09b0\u09cd\u09b0\u09c7\u09b8"
     ],
@@ -110,7 +113,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -123,7 +126,7 @@
         "fct:id":"03898816-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317885,
         "gp:id":55944264,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1799402",
         "wk:page":"Passo de Torres"
     },
@@ -143,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841167,
+    "wof:lastmodified":1566624806,
     "wof:name":"Passo de Torres",
     "wof:parent_id":404565701,
     "wof:placetype":"locality",

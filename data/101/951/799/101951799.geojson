@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.741739,
     "lbl:longitude":-42.459416,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.741739,
     "mps:longitude":-42.459416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u098f\u09b8\u099f\u09cd\u09b0\u09c7\u09b2\u09be \u09a1\u09be\u09b2\u09ad\u09be"
     ],
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Estrela Dalva"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Sebasti\u00e3o da Estrella"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -122,7 +125,7 @@
         "fct:id":"038801ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3463750,
         "gp:id":432030,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1790684",
         "wk:page":"Estrela Dalva"
     },
@@ -142,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246201,
+    "wof:lastmodified":1566625476,
     "wof:name":"Estrela Dalva",
     "wof:parent_id":404556319,
     "wof:placetype":"locality",

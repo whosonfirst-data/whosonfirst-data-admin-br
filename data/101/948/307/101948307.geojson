@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.997336,
     "lbl:longitude":-36.065365,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-7.997336,
     "mps:longitude":-36.065365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u099f\u09cb\u09b0\u09bf\u099f\u09be\u09ae\u09be"
     ],
@@ -77,9 +80,6 @@
     "name:swe_x_preferred":[
         "Toritama"
     ],
-    "name:unk_x_variant":[
-        "Torres"
-    ],
     "name:vie_x_preferred":[
         "Toritama"
     ],
@@ -113,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -126,7 +126,6 @@
         "fct:id":"03878b88-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3386264,
         "gp:id":458194,
-        "qs:id":181645,
         "qs_pg:id":181645,
         "wd:id":"Q2013594",
         "wk:page":"Toritama"
@@ -146,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242714,
+    "wof:lastmodified":1566623872,
     "wof:name":"Toritama",
     "wof:parent_id":102056873,
     "wof:placetype":"locality",

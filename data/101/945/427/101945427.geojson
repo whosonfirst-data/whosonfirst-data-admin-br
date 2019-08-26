@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.289714,
     "lbl:longitude":-39.257098,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-3.289714,
     "mps:longitude":-39.257098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u099f\u09cd\u09b0\u09be\u0987\u09b0\u09bf"
     ],
@@ -74,9 +77,6 @@
     "name:swe_x_preferred":[
         "Trairi"
     ],
-    "name:unk_x_variant":[
-        "Trahiry"
-    ],
     "name:vie_x_preferred":[
         "Trairi"
     ],
@@ -107,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -121,7 +121,6 @@
         "fct:id":"0388b6fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3386177,
         "gp:id":456573,
-        "qs:id":147566,
         "qs_pg:id":147566,
         "wd:id":"Q1807039",
         "wk:page":"Trairi"
@@ -142,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247112,
+    "wof:lastmodified":1566625930,
     "wof:name":"Trairi",
     "wof:parent_id":404553997,
     "wof:placetype":"locality",

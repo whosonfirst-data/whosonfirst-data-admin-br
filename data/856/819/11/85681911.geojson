@@ -36,6 +36,7 @@
     ],
     "lbl:latitude":-15.77526,
     "lbl:longitude":-47.797292,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-15.77526,
     "mps:longitude":-47.797292,
     "mz:hierarchy_label":1,
@@ -341,7 +342,7 @@
     "name:ukr_x_variant":[
         "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novo Distrito Federal"
     ],
     "name:urd_x_preferred":[
@@ -439,9 +440,9 @@
     "qs:type":"Estado",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-08-01",
+    "src:population_date":"2010-08-01",
     "statoids:area_km":"5,780",
     "statoids:area_mi":"2,232",
     "statoids:as_of_date":"2010-08-01",
@@ -487,11 +488,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565660992,
+    "wof:lastmodified":1566620863,
     "wof:name":"Federal District",
     "wof:parent_id":85633009,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"federal district",
     "wof:population":2570160,
     "wof:population_rank":12,

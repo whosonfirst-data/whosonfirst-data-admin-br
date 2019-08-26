@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.742014,
     "lbl:longitude":-47.393786,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-22.742014,
     "mps:longitude":-47.393786,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0628\u0627\u0631\u0628\u0631\u0627 \u062f\u064a \u0623\u0648\u064a\u0633\u062a\u064a"
     ],
@@ -158,7 +161,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u0411\u0430\u0440\u0431\u0430\u0440\u0430-\u0434'\u0423\u0435\u0441\u0442\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u00e1rbara do Oeste"
     ],
     "name:urd_x_preferred":[
@@ -193,7 +196,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":570.0,
     "wd:latitude":-22.753889,
@@ -212,7 +215,6 @@
         "fct:id":"038a0818-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3450404,
         "gp:id":448151,
-        "qs:id":239740,
         "qs_pg:id":239740,
         "wd:id":"Q983747",
         "wk:page":"Santa B\u00e1rbara d'Oeste"
@@ -233,7 +235,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244987,
+    "wof:lastmodified":1566624920,
     "wof:name":"Santa B\u00e1rbara D'Oeste",
     "wof:parent_id":404567157,
     "wof:placetype":"locality",

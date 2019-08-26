@@ -9,14 +9,15 @@
     "geom:bbox":"-43.1954956055,-22.9030596823,-43.1564049695,-22.8749097915",
     "geom:latitude":-22.888393,
     "geom:longitude":-43.176782,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:latitude":-22.89755,
     "gn:longitude":-43.18472,
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-22.898816,
     "lbl:longitude":-43.178824,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-22.88614,
     "mps:longitude":-43.176496,
     "mz:hierarchy_label":1,
@@ -79,9 +80,6 @@
     "name:tah_x_preferred":[
         "Sa\u00fade"
     ],
-    "name:unk_x_variant":[
-        "Sa\u00fade"
-    ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3451190,
@@ -128,8 +126,7 @@
     "qs_pg:woe_id":55943961,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -139,7 +136,6 @@
     "wof:concordances":{
         "gn:id":8304807,
         "gp:id":55943961,
-        "qs:id":74172,
         "qs_pg:id":74172,
         "wd:id":"Q3951222",
         "wk:page":"Sa\u00fade, Rio de Janeiro"
@@ -160,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563237523,
+    "wof:lastmodified":1566620814,
     "wof:name":"Sa\u00fade",
     "wof:parent_id":101953261,
     "wof:placetype":"neighbourhood",

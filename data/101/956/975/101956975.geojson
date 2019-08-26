@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.636096,
     "lbl:longitude":-52.456317,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.636096,
     "mps:longitude":-52.456317,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09aa\u09c1\u09f1\u09be\u0995\u09c1"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":238,
     "wof:belongsto":[
         102191577,
@@ -119,7 +122,7 @@
         "fct:id":"0388f55e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461077,
         "gp:id":435761,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q647194",
         "wk:page":"Ipua\u00e7u"
     },
@@ -138,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841253,
+    "wof:lastmodified":1566625419,
     "wof:name":"Ipua\u00e7u",
     "wof:parent_id":102060451,
     "wof:placetype":"locality",

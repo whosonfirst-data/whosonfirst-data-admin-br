@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.714975,
     "lbl:longitude":-46.025486,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.714975,
     "mps:longitude":-46.025486,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0634\u0648\u064a\u0631\u064a\u0646\u0647\u0627"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -97,7 +100,9 @@
         "fct:id":"038258b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3445950,
         "gp:id":426683,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1192080
     },
     "wof:country":"BR",
@@ -116,7 +121,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564141000,
+    "wof:lastmodified":1566624781,
     "wof:name":"Cachoeirinha",
     "wof:parent_id":404556097,
     "wof:placetype":"locality",

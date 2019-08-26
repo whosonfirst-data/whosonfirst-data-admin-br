@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.20822,
     "lbl:longitude":-47.604895,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-21.20822,
     "mps:longitude":-47.604895,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u09cd\u09b0\u09be\u09a8\u09be"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682041,
@@ -120,7 +123,6 @@
         "fct:id":"038782aa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3447720,
         "gp:id":458093,
-        "qs:id":147907,
         "qs_pg:id":147907,
         "wd:id":"Q374548"
     },
@@ -140,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242624,
+    "wof:lastmodified":1566623845,
     "wof:name":"Serrana",
     "wof:parent_id":404567509,
     "wof:placetype":"locality",

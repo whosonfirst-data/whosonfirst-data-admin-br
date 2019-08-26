@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.1629,
     "lbl:longitude":-44.457779,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.1629,
     "mps:longitude":-44.457779,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u0648\u0645\u0628\u064a\u0627"
     ],
@@ -184,7 +187,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -193,7 +196,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"b94679926c1ae0e6e07bf964fcbb81fe",
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":101980067,
-    "wof:lastmodified":1564142076,
+    "wof:lastmodified":1566625746,
     "wof:name":"Columbia",
     "wof:parent_id":102053099,
     "wof:placetype":"locality",

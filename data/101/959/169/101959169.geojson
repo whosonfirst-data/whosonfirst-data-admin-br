@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.334437,
     "lbl:longitude":-53.144289,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-29.334437,
     "mps:longitude":-53.144289,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Taquaral"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.071944,
     "wd:longitude":-48.41,
@@ -53,7 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":422595,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1796324"
     },
     "wof:country":"BR",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101959169,
-    "wof:lastmodified":1563245326,
+    "wof:lastmodified":1566625079,
     "wof:name":"Taquaral",
     "wof:parent_id":404563001,
     "wof:placetype":"locality",

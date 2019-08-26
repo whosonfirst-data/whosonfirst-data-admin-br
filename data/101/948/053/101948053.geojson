@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":38392.985041,
     "geom:bbox":"-36.7085650397,-8.26828926769,-36.7056786299,-8.26655619999",
     "geom:latitude":-8.267524,
     "geom:longitude":-36.707065,
     "iso:country":"BR",
     "lbl:latitude":-8.267441,
     "lbl:longitude":-36.707066,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.267441,
     "mps:longitude":-36.707066,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*PE",
     "qs:a1_lc":"26",
@@ -31,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681973,
         102191577,
@@ -43,7 +48,9 @@
     "wof:concordances":{
         "gn:id":3393175,
         "gp:id":442642,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":342297
     },
     "wof:country":"BR",
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":101948053,
-    "wof:lastmodified":1497292271,
+    "wof:lastmodified":1566623888,
     "wof:name":"P\u00e3o de A\u00e7\u00facar De Po\u00e7\u00e3o",
     "wof:parent_id":404560583,
     "wof:placetype":"locality",

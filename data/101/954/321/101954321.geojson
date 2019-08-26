@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.864306,
     "lbl:longitude":-40.930083,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-20.864306,
     "mps:longitude":-40.930083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u0993 \u09a8\u09cb\u09ad\u09cb \u09a1\u09cb \u09b8\u09c1\u09b2"
     ],
@@ -71,7 +74,7 @@
     "name:rus_x_preferred":[
         "\u0420\u0438\u0443-\u041d\u043e\u0432\u0443-\u0434\u0443-\u0421\u0443\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Itapoama"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681921,
@@ -117,7 +120,6 @@
         "fct:id":"03864b92-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451107,
         "gp:id":447362,
-        "qs:id":807944,
         "qs_pg:id":807944,
         "wd:id":"Q1994852"
     },
@@ -137,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841034,
+    "wof:lastmodified":1566623339,
     "wof:name":"Rio Novo do Sul",
     "wof:parent_id":404554571,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.241479,
     "lbl:longitude":-53.983299,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-25.241479,
     "mps:longitude":-53.983299,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u099f\u09c7\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
     ],
@@ -71,7 +74,7 @@
     "name:spa_x_preferred":[
         "Matel\u00e2ndia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Metel\u00e2ndia"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681983,
@@ -116,7 +119,6 @@
     "wof:concordances":{
         "gn:id":3457487,
         "gp:id":460093,
-        "qs:id":828036,
         "qs_pg:id":828036,
         "wd:id":"Q1803927"
     },
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101967293,
-    "wof:lastmodified":1561841211,
+    "wof:lastmodified":1566625156,
     "wof:name":"Matel\u00e2ndia",
     "wof:parent_id":404561485,
     "wof:placetype":"locality",

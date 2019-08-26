@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.413809,
     "lbl:longitude":-49.056116,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.413809,
     "mps:longitude":-49.056116,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Estreito"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":8469985,
         "gp:id":457853,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"d06ced77686826d11269908fc7ee48bd",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101977881,
-    "wof:lastmodified":1564139767,
+    "wof:lastmodified":1566623948,
     "wof:name":"Estreito",
     "wof:parent_id":102052563,
     "wof:placetype":"locality",

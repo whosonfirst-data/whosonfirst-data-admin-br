@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.359675,
     "lbl:longitude":-44.501815,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.359675,
     "mps:longitude":-44.501815,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09aa\u09c7\u09b2\u09bf\u09a8\u09b9\u09be"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681991,
         102191577,
@@ -104,7 +107,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"3718eaf3317016554bfd51b6b2eec3f1",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101966001,
-    "wof:lastmodified":1564141198,
+    "wof:lastmodified":1566625024,
     "wof:name":"Capelinha",
     "wof:parent_id":404562467,
     "wof:placetype":"locality",

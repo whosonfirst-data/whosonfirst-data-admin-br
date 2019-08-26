@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.317151,
     "lbl:longitude":-49.157044,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.317151,
     "mps:longitude":-49.157044,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09aa\u09bf\u09a8\u09cb\u09b0\u09cd\u099f\u09c7"
     ],
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "Campinorte"
     ],
-    "name:unk_x_variant":[
-        "Campinas"
-    ],
     "name:vie_x_preferred":[
         "Campinorte"
     ],
@@ -118,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681925,
         102191577,
@@ -131,7 +131,7 @@
         "fct:id":"0387a6f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3467849,
         "gp:id":458969,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1806886",
         "wk:page":"Campinorte"
     },
@@ -151,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841064,
+    "wof:lastmodified":1566623531,
     "wof:name":"Campinorte",
     "wof:parent_id":404554729,
     "wof:placetype":"locality",

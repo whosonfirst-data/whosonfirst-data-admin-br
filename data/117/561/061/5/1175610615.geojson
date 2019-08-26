@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.183035,
     "lbl:longitude":-50.928245,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-20.183035,
     "mps:longitude":-50.928245,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u09ab\u09c7 \u09a1\u09cb \u09b8\u09c1\u09b2"
     ],
@@ -122,7 +125,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-20.210833,
     "wd:longitude":-50.925833,
@@ -141,10 +144,12 @@
         "fct:id":"0386df3a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3450232,
         "gp:id":456491,
-        "qs:id":9,
-        "qs_pg:id":1044869,
+        "qs_pg:id":9,
         "wd:id":"Q1648142",
         "wk:page":"Santa F\u00e9 do Sul"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1044869
     },
     "wof:country":"BR",
     "wof:geomhash":"5f579240a35a4e282409fca7744d3b83",
@@ -162,7 +167,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841009,
+    "wof:lastmodified":1566622779,
     "wof:name":"Santa F\u00e9 do Sul",
     "wof:parent_id":404567171,
     "wof:placetype":"locality",

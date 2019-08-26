@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-1.422332,
     "lbl:longitude":-45.537213,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-1.422332,
     "mps:longitude":-45.537213,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Estandarte"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":130,
     "wof:belongsto":[
         85681931,
@@ -66,7 +69,7 @@
         "fct:id":"03823cd2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3400666,
         "gp:id":456181,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q5400617"
     },
     "wof:country":"BR",
@@ -85,7 +88,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247507,
+    "wof:lastmodified":1566626116,
     "wof:name":"Estandarte",
     "wof:parent_id":404555003,
     "wof:placetype":"locality",

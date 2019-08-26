@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.410506,
     "lbl:longitude":-42.869681,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.410506,
     "mps:longitude":-42.869681,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a8\u09cd\u09a1\u09bf\u09ac\u09be"
     ],
@@ -85,7 +88,7 @@
     "name:swe_x_preferred":[
         "Candiba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mocambo"
     ],
     "name:vie_x_preferred":[
@@ -118,7 +121,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -131,7 +134,7 @@
         "fct:id":"0387a852-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3467546,
         "gp:id":459007,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1798833",
         "wk:page":"Candiba"
     },
@@ -151,7 +154,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841119,
+    "wof:lastmodified":1566624243,
     "wof:name":"Candiba",
     "wof:parent_id":404550715,
     "wof:placetype":"locality",

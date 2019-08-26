@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.519856,
     "lbl:longitude":-37.510626,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-11.519856,
     "mps:longitude":-37.510626,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0987\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be\u09b0\u09cb\u09ac\u09be"
     ],
@@ -72,9 +75,6 @@
     "name:rus_x_preferred":[
         "\u0418\u043d\u0434\u0438\u0430\u0440\u043e\u0431\u0430"
     ],
-    "name:unk_x_variant":[
-        "Esp\u00edrito Santo"
-    ],
     "name:vie_x_preferred":[
         "Indiaroba"
     ],
@@ -104,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -117,7 +117,6 @@
         "fct:id":"0387305c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461289,
         "gp:id":457295,
-        "qs:id":819161,
         "qs_pg:id":819161,
         "wd:id":"Q2013163"
     },
@@ -136,7 +135,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841139,
+    "wof:lastmodified":1566624398,
     "wof:name":"Indiaroba",
     "wof:parent_id":102060875,
     "wof:placetype":"locality",

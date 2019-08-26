@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-1.63099,
     "lbl:longitude":-45.238705,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-1.63099,
     "mps:longitude":-45.238705,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u0430"
     ],
@@ -772,7 +775,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -782,7 +785,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":428505,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"ee1439b840a3f31052bdf02dba02ea9f",
@@ -796,7 +799,7 @@
         }
     ],
     "wof:id":101975307,
-    "wof:lastmodified":1564142611,
+    "wof:lastmodified":1566626199,
     "wof:name":"Portugal",
     "wof:parent_id":102052811,
     "wof:placetype":"locality",

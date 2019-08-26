@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.561686,
     "lbl:longitude":-42.642776,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-19.561686,
     "mps:longitude":-42.642776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Tim\u00f3teo"
     ],
@@ -233,9 +236,6 @@
     "name:swe_x_preferred":[
         "Tim\u00f3teo"
     ],
-    "name:unk_x_variant":[
-        "Timothea"
-    ],
     "name:vec_x_preferred":[
         "Tim\u00f3teo"
     ],
@@ -283,7 +283,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -297,7 +297,6 @@
         "fct:id":"0389f95e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3446445,
         "gp:id":458186,
-        "qs:id":147877,
         "qs_pg:id":147877,
         "wd:id":"Q737237"
     },
@@ -317,7 +316,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244989,
+    "wof:lastmodified":1566624921,
     "wof:name":"Tim\u00f3teo",
     "wof:parent_id":404558589,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-30.876527,
     "lbl:longitude":-55.517372,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-30.876527,
     "mps:longitude":-55.517372,
     "mz:hierarchy_label":1,
@@ -92,9 +94,6 @@
     ],
     "name:spa_x_preferred":[
         "Santana do Livramento"
-    ],
-    "name:unk_x_variant":[
-        "Livramento"
     ],
     "name:vie_x_preferred":[
         "Santana do Livramento"
@@ -217,7 +216,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682015,
@@ -231,7 +230,6 @@
         "fct:id":"0386a042-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3449936,
         "gp:id":455989,
-        "qs:id":279758,
         "qs_pg:id":279758,
         "wd:id":"Q917693"
     },
@@ -251,7 +249,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841218,
+    "wof:lastmodified":1566625216,
     "wof:name":"Santana do Livramento",
     "wof:parent_id":404564429,
     "wof:placetype":"locality",

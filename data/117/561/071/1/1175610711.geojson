@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.906734,
     "lbl:longitude":-51.068194,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.906734,
     "mps:longitude":-51.068194,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b0\u09c1\u09af\u09bc\u09be\u09a8\u09be"
     ],
@@ -101,9 +104,6 @@
     "name:swe_x_preferred":[
         "Aruan\u00e3"
     ],
-    "name:unk_x_variant":[
-        "Leopoldina"
-    ],
     "name:vie_x_preferred":[
         "Aruan\u00e3"
     ],
@@ -131,7 +131,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":484,
     "wof:belongsto":[
         102191577,
@@ -145,10 +145,12 @@
         "fct:id":"0389143a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471394,
         "gp:id":456724,
-        "qs:id":9,
-        "qs_pg:id":815554,
+        "qs_pg:id":9,
         "wd:id":"Q716209",
         "wk:page":"Aruan\u00e3"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":815554
     },
     "wof:country":"BR",
     "wof:geomhash":"cb3fe1c3a9baf8cd816f2de4f1ef1c57",
@@ -162,7 +164,7 @@
         }
     ],
     "wof:id":1175610711,
-    "wof:lastmodified":1561841008,
+    "wof:lastmodified":1566622757,
     "wof:name":"Aruan\u00e3",
     "wof:parent_id":102052051,
     "wof:placetype":"locality",

@@ -9,16 +9,19 @@
     "geom:bbox":"-53.5661617076,-16.0913809723,-53.5482105098,-16.0713071596",
     "geom:latitude":-16.080474,
     "geom:longitude":-53.554367,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-16.083659,
     "lbl:longitude":-53.553009,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.083659,
     "mps:longitude":-53.553009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c7\u09b8\u09cc\u09b0\u09cb"
     ],
@@ -125,7 +128,7 @@
     "qs_pg:woe_id":461408,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681955,
         102191577,
@@ -138,7 +141,6 @@
         "fct:id":"0387e9c0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3446561,
         "gp:id":461408,
-        "qs:id":147881,
         "qs_pg:id":147881,
         "wd:id":"Q2081481",
         "wk:page":"Tesouro"
@@ -159,7 +161,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841191,
+    "wof:lastmodified":1566624977,
     "wof:name":"Tesouro",
     "wof:parent_id":404559431,
     "wof:placetype":"locality",

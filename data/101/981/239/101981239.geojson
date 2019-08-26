@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-17.254328,
     "lbl:longitude":-41.709114,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-17.254328,
     "mps:longitude":-41.709114,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u09b2\u09c1\u099c\u09bf\u09af\u09bc\u09be"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -111,7 +114,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456976,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"14f4c9986663225e37a71ae203ba1996",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101981239,
-    "wof:lastmodified":1564142588,
+    "wof:lastmodified":1566626187,
     "wof:name":"Santa Luzia",
     "wof:parent_id":404555713,
     "wof:placetype":"locality",

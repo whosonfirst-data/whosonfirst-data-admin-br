@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-17.516099,
     "lbl:longitude":-49.446909,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-17.516099,
     "mps:longitude":-49.446909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u09a8\u09cd\u099f\u09be\u09b2\u09bf\u09a8\u09be"
     ],
@@ -82,9 +85,6 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u043d\u0442\u0430\u043b\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Santa Rita do Pontal"
-    ],
     "name:vie_x_preferred":[
         "Pontalina"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -130,7 +130,6 @@
         "fct:id":"0386d832-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3453158,
         "gp:id":456434,
-        "qs:id":181375,
         "qs_pg:id":181375,
         "wd:id":"Q509804",
         "wk:page":"Pontalina"
@@ -150,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841067,
+    "wof:lastmodified":1566623547,
     "wof:name":"Pontalina",
     "wof:parent_id":102052561,
     "wof:placetype":"locality",

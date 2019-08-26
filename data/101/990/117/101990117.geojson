@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.779008,
     "lbl:longitude":-37.40546,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.779008,
     "mps:longitude":-37.40546,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09c1\u0995\u09be\u09ae\u09ac\u09cb"
     ],
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "Mucambo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mocambo"
     ],
     "name:vie_x_preferred":[
@@ -85,7 +88,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3394720,
         "gp:id":456383,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"8b013eaa8846e41378f2108c15148cdc",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101990117,
-    "wof:lastmodified":1564139473,
+    "wof:lastmodified":1566623647,
     "wof:name":"Mucambo",
     "wof:parent_id":102060941,
     "wof:placetype":"locality",

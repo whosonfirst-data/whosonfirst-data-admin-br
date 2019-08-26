@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-1.293189,
     "lbl:longitude":-47.931829,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-1.293189,
     "mps:longitude":-47.931829,
     "mz:hierarchy_label":1,
@@ -265,7 +267,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681959,
@@ -279,7 +281,6 @@
         "fct:id":"03869a2a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3402591,
         "gp:id":455942,
-        "qs:id":896232,
         "qs_pg:id":896232,
         "wd:id":"Q984581"
     },
@@ -299,7 +300,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246908,
+    "wof:lastmodified":1566625843,
     "wof:name":"Castanhal",
     "wof:parent_id":404559593,
     "wof:placetype":"locality",

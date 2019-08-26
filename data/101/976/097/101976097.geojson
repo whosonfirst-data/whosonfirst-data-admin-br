@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.840338,
     "lbl:longitude":-41.395054,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-14.840338,
     "mps:longitude":-41.395054,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "S\u00e3o Felipe"
     ],
@@ -40,9 +43,6 @@
     "name:swe_x_preferred":[
         "S\u00e3o Felipe"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Filippe"
-    ],
     "qs:a0":"Brasil",
     "qs:a1":"*BA",
     "qs:a1_lc":"29",
@@ -58,7 +58,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -72,7 +72,7 @@
         "fct:id":"038468ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3449216,
         "gp:id":461045,
-        "qs:id":181769,
+        "qs_pg:id":181769,
         "wd:id":"Q22035103"
     },
     "wof:country":"BR",
@@ -91,7 +91,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244443,
+    "wof:lastmodified":1566624681,
     "wof:name":"S\u00e3o Filipe",
     "wof:parent_id":404552111,
     "wof:placetype":"locality",

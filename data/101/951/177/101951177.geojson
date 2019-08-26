@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-17.221826,
     "lbl:longitude":-44.436486,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-17.221826,
     "mps:longitude":-44.436486,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09c7\u0995\u09c1\u0987\u099f\u09be\u0987"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Jequita\u00ed"
     ],
-    "name:unk_x_variant":[
-        "Jequitahy"
-    ],
     "name:vie_x_preferred":[
         "Jequita\u00ed"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":387,
     "wof:belongsto":[
         85681941,
@@ -132,7 +132,6 @@
         "fct:id":"03890e22-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3459940,
         "gp:id":456288,
-        "qs:id":1226464,
         "qs_pg:id":1226464,
         "wd:id":"Q958515",
         "wk:page":"Jequita\u00ed"
@@ -153,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841266,
+    "wof:lastmodified":1566625531,
     "wof:name":"Jequita\u00ed",
     "wof:parent_id":404556889,
     "wof:placetype":"locality",

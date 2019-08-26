@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.03529,
     "lbl:longitude":-51.178296,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-29.03529,
     "mps:longitude":-51.178296,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09cd\u09b2\u09cb\u09b0\u09c7\u09b8 \u09a1\u09be \u0995\u09c1\u09a8\u09b9\u09be"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682015,
@@ -120,7 +123,6 @@
         "fct:id":"0387b4dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3463271,
         "gp:id":459474,
-        "qs:id":1325439,
         "qs_pg:id":1325439,
         "wd:id":"Q1757597",
         "wk:page":"Flores da Cunha"
@@ -141,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841071,
+    "wof:lastmodified":1566623586,
     "wof:name":"Flores da Cunha",
     "wof:parent_id":404563615,
     "wof:placetype":"locality",

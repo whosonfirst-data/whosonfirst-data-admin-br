@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.073952,
     "lbl:longitude":-52.456445,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.073952,
     "mps:longitude":-52.456445,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Arvoredu"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -122,7 +125,7 @@
         "fct:id":"03886300-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316447,
         "gp:id":26804149,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1758063"
     },
     "wof:country":"BR",
@@ -141,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245941,
+    "wof:lastmodified":1566625346,
     "wof:name":"Arvoredo",
     "wof:parent_id":404565179,
     "wof:placetype":"locality",

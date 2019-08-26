@@ -9,14 +9,17 @@
     "geom:bbox":"-45.7165109631,-22.6737462231,-45.7135926763,-22.6710385937",
     "geom:latitude":-22.672385,
     "geom:longitude":-45.715053,
-    "geonames:id":"3452013,7593452",
+    "gn:id":"3452013,7593452",
     "iso:country":"BR",
     "lbl:latitude":-22.67239,
     "lbl:longitude":-45.715052,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.67239,
     "mps:longitude":-45.715052,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0438\u043b\u043e\u043c\u0431\u0443"
     ],
@@ -71,7 +74,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -81,7 +84,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"db1a2800b122c4ca1136f08b075a38c5",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101991049,
-    "wof:lastmodified":1564139288,
+    "wof:lastmodified":1566623485,
     "wof:name":"Quilombo",
     "wof:parent_id":404567209,
     "wof:placetype":"locality",

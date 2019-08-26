@@ -9,14 +9,18 @@
     "geom:bbox":"-42.55738,-8.85119,-42.55738,-8.85119",
     "geom:latitude":-8.85119,
     "geom:longitude":-42.55738,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
+    "lbl:bbox":"-42.57738,-8.87119,-42.53738,-8.83119",
     "lbl:latitude":-8.85119,
     "lbl:longitude":-42.55738,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u09b0\u09cd\u0997\u09c7\u09ae \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
@@ -63,7 +67,7 @@
     "name:swe_x_preferred":[
         "Vargem Grande"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Varzea Grande"
     ],
     "name:vol_x_preferred":[
@@ -96,7 +100,7 @@
     "qs_pg:woe_adm0":23424768,
     "qs_pg:woe_id":461543,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424768,
     "woe:name_adm0":"Brasil",
     "woe:name_adm1":"Piau\u00ed",
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1125961627,
-    "wof:lastmodified":1564146121,
+    "wof:lastmodified":1566628425,
     "wof:name":"Vargem Grande",
     "wof:parent_id":102057045,
     "wof:placetype":"locality",

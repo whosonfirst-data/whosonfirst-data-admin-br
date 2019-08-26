@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6542170.45327,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-46.56522,-23.685988,-46.56522,-23.685988",
     "geom:latitude":-23.685988,
     "geom:longitude":-46.56522,
     "gn:latitude":-23.51992,
     "gn:longitude":-47.2388,
     "iso:country":"BR",
+    "lbl:bbox":"-46.57022,-23.690988,-46.56022,-23.680988",
     "lbl:latitude":-23.685988,
     "lbl:longitude":-46.56522,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-23.682581,
     "mps:longitude":-46.568878,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:por_x_variant":[
         "Bairro Briquituba"
-    ],
-    "name:unk_x_variant":[
-        "Jordan\u00f3polis"
     ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_fcode":"PPL",
@@ -66,20 +65,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682041,
         102191577,
         404567211,
         85633009,
         101956183,
-        102062215
+        102062215,
+        85682041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7583653,
         "gp:id":56066611,
-        "qs:id":32888,
         "qs_pg:id":32888
     },
     "wof:country":"BR",
@@ -99,7 +97,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859129,
+    "wof:lastmodified":1566620782,
     "wof:name":"Jordan\u00f3polis",
     "wof:parent_id":101956183,
     "wof:placetype":"neighbourhood",

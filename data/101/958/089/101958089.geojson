@@ -5,23 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000111,
-    "geom:area_square_m":1209321.076114,
+    "geom:area_square_m":1209321.076113,
     "geom:bbox":"-48.8938088844,-28.4887102347,-48.8770778924,-28.4774300899",
     "geom:latitude":-28.484112,
     "geom:longitude":-48.887138,
     "iso:country":"BR",
     "lbl:latitude":-28.483824,
     "lbl:longitude":-48.887975,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.483824,
     "mps:longitude":-48.887975,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "Ribeirao Pequeno"
     ],
     "name:por_x_preferred":[
         "Ribeir\u00e3o Pequeno"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Braz"
     ],
     "qs:a0":"Brasil",
@@ -41,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -54,7 +58,9 @@
         "fct:id":"038193f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451098,
         "gp:id":447149,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":992344
     },
     "wof:country":"BR",
@@ -73,7 +79,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497298303,
+    "wof:lastmodified":1566625243,
     "wof:name":"Ribeir\u00e3o Pequeno",
     "wof:parent_id":404565571,
     "wof:placetype":"locality",

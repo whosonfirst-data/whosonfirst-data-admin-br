@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.975398,
     "lbl:longitude":-38.571406,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.975398,
     "mps:longitude":-38.571406,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09bf\u0995\u09cb\u09b8\u09be"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         85681907,
@@ -88,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6318890,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"9d958ab73fa614c9478ead1b712ea02c",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101944703,
-    "wof:lastmodified":1564142363,
+    "wof:lastmodified":1566625983,
     "wof:name":"Vi\u00e7osa",
     "wof:parent_id":404552983,
     "wof:placetype":"locality",

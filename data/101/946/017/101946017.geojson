@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.406015,
     "lbl:longitude":-38.017266,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-6.406015,
     "mps:longitude":-38.017266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Alexandria"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -116,7 +119,6 @@
         "fct:id":"0386efde-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3407977,
         "gp:id":456638,
-        "qs:id":1211867,
         "qs_pg:id":1211867,
         "wd:id":"Q2099372"
     },
@@ -135,7 +137,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243521,
+    "wof:lastmodified":1566624267,
     "wof:name":"Alexandria",
     "wof:parent_id":102058521,
     "wof:placetype":"locality",

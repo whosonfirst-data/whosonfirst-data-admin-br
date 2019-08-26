@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.654258,
     "lbl:longitude":-46.579662,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-21.320355,
     "mps:longitude":-51.849218,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u0989\u09b2\u09bf\u0995\u09c7\u0987\u09af\u09bc\u09be"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"wk",
     "wd:elevation":328.0,
     "wd:latitude":-20.317778,
@@ -129,10 +132,12 @@
         "fct:id":"0396e8a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3454692,
         "gp:id":443282,
-        "qs:id":6,
-        "qs_pg:id":1059988,
+        "qs_pg:id":6,
         "wd:id":"Q1649677",
         "wk:page":"Pauliceia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1059988
     },
     "wof:country":"BR",
     "wof:geomhash":"30c765fe596b1f4f839610108e00bcd7",
@@ -149,7 +154,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242035,
+    "wof:lastmodified":1566623578,
     "wof:name":"Paulic\u00e9ia",
     "wof:parent_id":102061911,
     "wof:placetype":"locality",

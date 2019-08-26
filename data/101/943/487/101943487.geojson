@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.256916,
     "lbl:longitude":-43.937816,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-4.256916,
     "mps:longitude":-43.937816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u099f\u09bf\u09ae\u09ac\u09bf\u09b0\u09be\u09b8"
     ],
@@ -82,9 +85,6 @@
     "name:swe_x_preferred":[
         "Timbiras"
     ],
-    "name:unk_x_variant":[
-        "Monte Alegre"
-    ],
     "name:vie_x_preferred":[
         "Timbiras"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -130,7 +130,6 @@
         "fct:id":"03878aa2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3386372,
         "gp:id":458184,
-        "qs:id":1044233,
         "qs_pg:id":1044233,
         "wd:id":"Q1008188",
         "wk:page":"Timbiras"
@@ -150,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247515,
+    "wof:lastmodified":1566626119,
     "wof:name":"Timbiras",
     "wof:parent_id":102053217,
     "wof:placetype":"locality",

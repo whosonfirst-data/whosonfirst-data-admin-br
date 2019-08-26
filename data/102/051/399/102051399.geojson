@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-11.089267,
     "lbl:longitude":-42.949377,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-11.089267,
     "mps:longitude":-42.949377,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cd\u09b8\u09bf\u0995\u09c1\u09af\u09bc\u09c7-\u0995\u09cd\u09b8\u09bf\u0995\u09c1\u09af\u09bc\u09c7"
     ],
@@ -124,7 +127,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":249,
     "wof:belongsto":[
         102191577,
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":102051399,
-    "wof:lastmodified":1563236033,
+    "wof:lastmodified":1566619855,
     "wof:name":"Xique-Xique",
     "wof:parent_id":85681895,
     "wof:placetype":"county",

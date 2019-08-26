@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-23.337075,
     "lbl:longitude":-47.858571,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-23.337075,
     "mps:longitude":-47.858571,
     "mz:hierarchy_label":1,
@@ -150,9 +152,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0442\u0443\u0456"
     ],
-    "name:unk_x_variant":[
-        "Tatuhy"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u062a\u0648\u06cc"
     ],
@@ -277,7 +276,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-23.355556,
     "wd:longitude":-47.856944,
@@ -294,7 +293,6 @@
         "fct:id":"0386a114-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3446692,
         "gp:id":455998,
-        "qs:id":353296,
         "qs_pg:id":353296,
         "wd:id":"Q1795613",
         "wk:page":"Tatu\u00ed"
@@ -314,7 +312,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841099,
+    "wof:lastmodified":1566623860,
     "wof:name":"Tatu\u00ed",
     "wof:parent_id":102062347,
     "wof:placetype":"locality",

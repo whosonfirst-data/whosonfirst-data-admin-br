@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.425234,
     "lbl:longitude":-38.356991,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.425234,
     "mps:longitude":-38.356991,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cabrito"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":376,
     "wof:belongsto":[
         85681907,
@@ -63,7 +66,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q5878377"
     },
     "wof:country":"BR",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101944799,
-    "wof:lastmodified":1563247147,
+    "wof:lastmodified":1566625948,
     "wof:name":"Cabrito",
     "wof:parent_id":404552311,
     "wof:placetype":"locality",

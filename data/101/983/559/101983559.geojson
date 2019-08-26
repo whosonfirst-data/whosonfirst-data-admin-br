@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.395812,
     "lbl:longitude":-45.647577,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.395812,
     "mps:longitude":-45.647577,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09cd\u099f\u09bf\u09a8\u09b9\u09cb \u0995\u09be\u09ae\u09cd\u09aa\u09cb\u09b8"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -104,7 +107,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"de53e200ddad8620afc0eefb34f30a6c",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101983559,
-    "wof:lastmodified":1564139855,
+    "wof:lastmodified":1566623995,
     "wof:name":"Martinho Campos",
     "wof:parent_id":404558627,
     "wof:placetype":"locality",

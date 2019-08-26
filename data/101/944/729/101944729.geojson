@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.765463,
     "lbl:longitude":-38.631871,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.765463,
     "mps:longitude":-38.631871,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jurema"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":6317406,
         "gp:id":455830,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"5bacd4e97827f2fb97a0f771fa88efba",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101944729,
-    "wof:lastmodified":1564142402,
+    "wof:lastmodified":1566626009,
     "wof:name":"Jurema",
     "wof:parent_id":404552675,
     "wof:placetype":"locality",

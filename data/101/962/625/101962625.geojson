@@ -9,14 +9,17 @@
     "geom:bbox":"-48.2977910959,-15.1844974274,-48.2669931969,-15.149722263",
     "geom:latitude":-15.164294,
     "geom:longitude":-48.282181,
-    "geonames:id":"3455580,6317839",
+    "gn:id":"3455580,6317839",
     "iso:country":"BR",
     "lbl:latitude":-15.163022,
     "lbl:longitude":-48.280943,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.163022,
     "mps:longitude":-48.280943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09a1\u09cd\u09b0\u09c7 \u09ac\u09c7\u09b0\u09cd\u09a8\u09be\u09b0\u09cd\u09a1\u09cb"
     ],
@@ -74,7 +77,7 @@
     "name:spa_x_preferred":[
         "Padre Bernardo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barroca"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -117,9 +120,11 @@
     "wof:concordances":{
         "gn:id":3455580,
         "gp:id":56125155,
-        "qs:id":9,
-        "qs_pg:id":1242667,
+        "qs_pg:id":9,
         "wd:id":"Q1003435"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1242667
     },
     "wof:country":"BR",
     "wof:geomhash":"5577d1b82f9dbf666cf9ccca1f5cf428",
@@ -133,7 +138,7 @@
         }
     ],
     "wof:id":101962625,
-    "wof:lastmodified":1563241947,
+    "wof:lastmodified":1566623536,
     "wof:name":"Padre Bernardo",
     "wof:parent_id":102052495,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.128087,
     "lbl:longitude":-40.365347,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-18.128087,
     "mps:longitude":-40.365347,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Montanha"
     ],
@@ -83,9 +86,6 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0430\u043d\u044c\u044f"
     ],
-    "name:unk_x_variant":[
-        "Santo Ant\u00f4nio da Montanha"
-    ],
     "name:vie_x_preferred":[
         "Montanha"
     ],
@@ -115,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":50,
     "wof:belongsto":[
@@ -130,7 +130,6 @@
         "fct:id":"0388ce12-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456905,
         "gp:id":460163,
-        "qs:id":342793,
         "qs_pg:id":342793,
         "wd:id":"Q2013818",
         "wk:page":"Montanha, Esp\u00edrito Santo"
@@ -151,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841024,
+    "wof:lastmodified":1566623290,
     "wof:name":"Montanha",
     "wof:parent_id":404554505,
     "wof:placetype":"locality",

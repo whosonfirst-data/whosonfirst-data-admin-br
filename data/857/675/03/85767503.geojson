@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4351750.491201,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-48.580946,-27.580782,-48.580946,-27.580782",
     "geom:latitude":-27.580782,
     "geom:longitude":-48.580946,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-48.585946,-27.585782,-48.575946,-27.575782",
     "lbl:latitude":-27.580782,
     "lbl:longitude":-48.580946,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-27.574618,
     "mps:longitude":-48.578414,
     "mz:hierarchy_label":0,
@@ -58,9 +60,6 @@
     "name:spa_x_preferred":[
         "Balne\u00e1rio Rinc\u00e3o"
     ],
-    "name:unk_x_variant":[
-        "Balne\u00e1rio"
-    ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_id":0,
     "qs:gn_local":3463237,
@@ -86,19 +85,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682021,
         102191577,
         404565395,
         85633009,
         101958175,
-        102060383
+        102060383,
+        85682021
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56066927,
-        "qs:id":483593
+        "qs_pg:id":483593
     },
     "wof:country":"BR",
     "wof:geomhash":"3951939116c938fd47e8a9b793a8848e",
@@ -117,7 +116,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859187,
+    "wof:lastmodified":1566620727,
     "wof:name":"Balne\u00e1rio",
     "wof:parent_id":101958175,
     "wof:placetype":"neighbourhood",

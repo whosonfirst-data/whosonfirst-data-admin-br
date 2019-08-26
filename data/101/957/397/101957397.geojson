@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.959565,
     "lbl:longitude":-51.123363,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.959565,
     "mps:longitude":-51.123363,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "Concordia",
         "Pinare"
@@ -23,9 +27,6 @@
         "Pinar\u00e9"
     ],
     "name:por_x_variant":[
-        "Conc\u00f3rdia"
-    ],
-    "name:unk_x_variant":[
         "Conc\u00f3rdia"
     ],
     "qs:a0":"Brasil",
@@ -43,7 +44,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -56,7 +57,7 @@
         "fct:id":"03829272-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3453861,
         "gp:id":457803,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"fb92265559e7f0c6e4aca501ea103f0a",
@@ -74,7 +75,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1501266614,
+    "wof:lastmodified":1566624794,
     "wof:name":"Pinar\u00e9",
     "wof:parent_id":404561107,
     "wof:placetype":"locality",

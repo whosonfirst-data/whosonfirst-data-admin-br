@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.113791,
     "lbl:longitude":-51.737434,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-19.113791,
     "mps:longitude":-51.737434,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b8\u09b8\u09bf\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681947,
@@ -117,7 +120,6 @@
         "fct:id":"0388ad92-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3466750,
         "gp:id":456130,
-        "qs:id":813388,
         "qs_pg:id":813388,
         "wd:id":"Q1806605"
     },
@@ -137,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841195,
+    "wof:lastmodified":1566624993,
     "wof:name":"Cassil\u00e2ndia",
     "wof:parent_id":404558861,
     "wof:placetype":"locality",

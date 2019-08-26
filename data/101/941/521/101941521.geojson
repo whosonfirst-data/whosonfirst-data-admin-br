@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.048404,
     "lbl:longitude":-71.688386,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.048404,
     "mps:longitude":-71.688386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09aa\u09bf\u0995\u09cd\u09b8\u09c1\u09a8\u09be"
     ],
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -127,7 +130,7 @@
         "fct:id":"0384fa12-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3663974,
         "gp:id":456242,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1794374",
         "wk:page":"Ipixuna"
     },
@@ -146,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841129,
+    "wof:lastmodified":1566624294,
     "wof:name":"Ipixuna",
     "wof:parent_id":102050347,
     "wof:placetype":"locality",

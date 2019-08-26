@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.640505,
     "lbl:longitude":-46.452027,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-15.640505,
     "mps:longitude":-46.452027,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c1\u09b0\u09bf\u099f\u09bf\u09b8"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Buritis"
     ],
-    "name:unk_x_variant":[
-        "Burity"
-    ],
     "name:vol_x_preferred":[
         "Buritis"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -126,7 +126,6 @@
         "fct:id":"038707bc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3468732,
         "gp:id":456883,
-        "qs:id":1045125,
         "qs_pg:id":1045125,
         "wd:id":"Q1792148"
     },
@@ -146,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242895,
+    "wof:lastmodified":1566623934,
     "wof:name":"Buritis",
     "wof:parent_id":404555563,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.607796,
     "lbl:longitude":-38.763879,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.607796,
     "mps:longitude":-38.763879,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u0997\u09c1\u09f1\u09be\u09b0\u09c7\u099f\u09be\u09ae\u09be"
     ],
@@ -77,9 +80,6 @@
     "name:swe_x_preferred":[
         "Jaguaretama"
     ],
-    "name:unk_x_variant":[
-        "Frade"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u06af\u0631\u062a\u0645\u0627"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -124,7 +124,6 @@
         "fct:id":"03873a48-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3397680,
         "gp:id":457394,
-        "qs:id":305393,
         "qs_pg:id":305393,
         "wd:id":"Q2027316"
     },
@@ -143,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247027,
+    "wof:lastmodified":1566625891,
     "wof:name":"Jaguaretama",
     "wof:parent_id":102051607,
     "wof:placetype":"locality",

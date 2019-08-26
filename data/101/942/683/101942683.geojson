@@ -9,14 +9,17 @@
     "geom:bbox":"-47.7578260398,-8.78106689981,-47.7408319272,-8.76880617651",
     "geom:latitude":-8.775534,
     "geom:longitude":-47.748497,
-    "geonames:id":"3411906,6318284",
+    "gn:id":"3411906,6318284",
     "iso:country":"BR",
     "lbl:latitude":-8.775078,
     "lbl:longitude":-47.746952,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.775078,
     "mps:longitude":-47.746952,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be \u09a1\u09cb \u099f\u09cb\u0995\u09be\u09a8\u099f\u09bf\u09a8\u09b8"
     ],
@@ -98,7 +101,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -107,7 +110,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q522587"
     },
     "wof:country":"BR",
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101942683,
-    "wof:lastmodified":1561841283,
+    "wof:lastmodified":1566625863,
     "wof:name":"Santa Maria do Tocantins",
     "wof:parent_id":102062701,
     "wof:placetype":"locality",

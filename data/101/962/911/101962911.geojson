@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.744232,
     "lbl:longitude":-46.885583,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.744232,
     "mps:longitude":-46.885583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u09b0\u09cb\u09ae\u09be"
     ],
@@ -79,9 +82,6 @@
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u0430-\u0420\u043e\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Guata\u00e7aba"
-    ],
     "name:vie_x_preferred":[
         "Nova Roma"
     ],
@@ -111,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":297,
     "wof:belongsto":[
         102191577,
@@ -124,7 +124,6 @@
         "fct:id":"0380aa7a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456121,
         "gp:id":457681,
-        "qs:id":1287851,
         "qs_pg:id":1287851,
         "wd:id":"Q1003412",
         "wk:page":"Nova Roma, Goi\u00e1s"
@@ -144,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241982,
+    "wof:lastmodified":1566623552,
     "wof:name":"Nova Roma",
     "wof:parent_id":102052461,
     "wof:placetype":"locality",

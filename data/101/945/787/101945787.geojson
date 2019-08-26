@@ -9,14 +9,17 @@
     "geom:bbox":"-38.6046438878,-6.58621044066,-38.5860258486,-6.57521267308",
     "geom:latitude":-6.580512,
     "geom:longitude":-38.594998,
-    "geonames:id":"3386026,3386027",
+    "gn:id":"3386026,3386027",
     "iso:country":"BR",
     "lbl:latitude":-6.579964,
     "lbl:longitude":-38.594998,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.579964,
     "mps:longitude":-38.594998,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Triunfo"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -99,9 +102,11 @@
     "wof:concordances":{
         "gn:id":3386027,
         "gp:id":454167,
-        "qs:id":4,
-        "qs_pg:id":812795,
+        "qs_pg:id":4,
         "wd:id":"Q2097715"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":812795
     },
     "wof:country":"BR",
     "wof:geomhash":"01f1438b3de612f04ccc7faa8d27e498",
@@ -115,7 +120,7 @@
         }
     ],
     "wof:id":101945787,
-    "wof:lastmodified":1563247139,
+    "wof:lastmodified":1566625943,
     "wof:name":"Triunfo",
     "wof:parent_id":102056473,
     "wof:placetype":"locality",

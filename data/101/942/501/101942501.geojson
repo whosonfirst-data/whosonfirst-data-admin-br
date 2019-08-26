@@ -9,10 +9,12 @@
     "geom:bbox":"-47.39526,-3.033337,-47.318387,-2.95457123467",
     "geom:latitude":-2.994373,
     "geom:longitude":-47.356258,
-    "geonames:id":"3393105,3393106",
+    "gn:id":"3393105,3393106",
     "iso:country":"BR",
     "lbl:latitude":-2.993658,
     "lbl:longitude":-47.356839,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-2.993658,
     "mps:longitude":-47.356839,
     "mz:hierarchy_label":1,
@@ -262,7 +264,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -273,9 +275,11 @@
     "wof:concordances":{
         "gn:id":3393106,
         "gp:id":456387,
-        "qs:id":9,
-        "qs_pg:id":1188095,
+        "qs_pg:id":9,
         "wd:id":"Q935005"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1188095
     },
     "wof:country":"BR",
     "wof:geomhash":"6bf72a875ea843f0205e3ad782b1dd95",
@@ -289,7 +293,7 @@
         }
     ],
     "wof:id":101942501,
-    "wof:lastmodified":1563246922,
+    "wof:lastmodified":1566625849,
     "wof:name":"Paragominas",
     "wof:parent_id":102055859,
     "wof:placetype":"locality",

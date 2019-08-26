@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.709446,
     "lbl:longitude":-40.739058,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.709446,
     "mps:longitude":-40.739058,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09aa\u09c7\u09b0\u09c1\u09a8\u09be"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681921,
         102191577,
@@ -114,7 +117,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6317330,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"68bdb0d524632b9191d7a8a33b1a250e",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101954477,
-    "wof:lastmodified":1564139094,
+    "wof:lastmodified":1566623286,
     "wof:name":"Itaperuna",
     "wof:parent_id":404554211,
     "wof:placetype":"locality",

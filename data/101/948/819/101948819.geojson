@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.616723,
     "lbl:longitude":-44.467234,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.616723,
     "mps:longitude":-44.467234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0416\u0430\u0431\u043e\u0440\u0430\u043d\u0434\u0438"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":149,
     "wof:belongsto":[
         85681895,
@@ -120,7 +123,7 @@
         "fct:id":"03895756-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317345,
         "gp:id":55943736,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2027295",
         "wk:page":"Jaborandi, Bahia"
     },
@@ -140,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242756,
+    "wof:lastmodified":1566623884,
     "wof:name":"Jaborandi",
     "wof:parent_id":404551261,
     "wof:placetype":"locality",

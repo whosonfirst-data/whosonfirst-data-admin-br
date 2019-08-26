@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.592754,
     "lbl:longitude":-44.409601,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.592754,
     "mps:longitude":-44.409601,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Cruz"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -47,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":449805,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"fa0e4aa62efbc7e72fadf725d6036f04",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101980001,
-    "wof:lastmodified":1564142025,
+    "wof:lastmodified":1566625720,
     "wof:name":"Cruz",
     "wof:parent_id":102053155,
     "wof:placetype":"locality",

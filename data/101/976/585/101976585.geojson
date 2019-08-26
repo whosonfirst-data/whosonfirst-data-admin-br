@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.694954,
     "lbl:longitude":-40.604757,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.694954,
     "mps:longitude":-40.604757,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646"
     ],
@@ -178,7 +181,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":495,
     "wof:belongsto":[
         85681907,
@@ -189,7 +192,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q310468"
     },
     "wof:country":"BR",
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":101976585,
-    "wof:lastmodified":1563244497,
+    "wof:lastmodified":1566624713,
     "wof:name":"Moringa",
     "wof:parent_id":404553487,
     "wof:placetype":"locality",

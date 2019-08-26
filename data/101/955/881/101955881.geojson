@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.020577,
     "lbl:longitude":-47.893049,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-22.049222,
     "mps:longitude":-47.908303,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0648 \u0643\u0627\u0631\u0644\u0648\u0633"
     ],
@@ -152,7 +155,7 @@
         "S\u00e3o Carlos"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbe\u0bb5\u0bcd  \u0b95\u0bbe\u0bb0\u0bcd\u0bb2\u0bcb\u0bb8\u0bcd"
+        "\u0b9a\u0bbe\u0bb5\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0bb2\u0bcb\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c36\u0c3e\u0c35\u0c4d \u0c15\u0c3e\u0c30\u0c4d\u0c32\u0c4b\u0c38\u0c4d"
@@ -199,7 +202,7 @@
     "qs:type":"Local urban major",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"wk",
     "wd:elevation":856.0,
     "wd:latitude":-22.017778,
@@ -218,7 +221,7 @@
         "fct:id":"0397967c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316552,
         "gp:id":56067642,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q194338"
     },
     "wof:country":"BR",
@@ -237,7 +240,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242569,
+    "wof:lastmodified":1566623827,
     "wof:name":"Bela Vista S\u00e3o-Carlense",
     "wof:parent_id":404567219,
     "wof:placetype":"locality",

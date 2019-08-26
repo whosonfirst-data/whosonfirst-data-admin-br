@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9513828.714364,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-45.222876,-23.528798,-45.222876,-23.528798",
     "geom:latitude":-23.528798,
     "geom:longitude":-45.222876,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-45.227876,-23.533798,-45.217876,-23.523798",
     "lbl:latitude":-23.528798,
     "lbl:longitude":-45.222876,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-23.529854,
     "mps:longitude":-45.218147,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     "name:por_x_preferred":[
         "Praia Do Sap\u00ea",
         "Vila Vint\u00e9m"
-    ],
-    "name:unk_x_variant":[
-        "Praia Do Sap\u00ea"
     ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_id":0,
@@ -62,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682041,
         102191577,
         404567603,
         85633009,
         101956363,
-        102062389
+        102062389,
+        85682041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56066718,
-        "qs:id":897597,
         "qs_pg:id":897597
     },
     "wof:country":"BR",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859149,
+    "wof:lastmodified":1566620727,
     "wof:name":"Praia Do Sap\u00ea",
     "wof:parent_id":101956363,
     "wof:placetype":"neighbourhood",

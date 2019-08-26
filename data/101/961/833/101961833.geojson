@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.570613,
     "lbl:longitude":-52.019357,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.570613,
     "mps:longitude":-52.019357,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09bf\u0986\u09a1\u09c1\u099f\u09cb\u09b8"
     ],
@@ -85,7 +88,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0430\u0434\u0443\u0442\u0443\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Viaducto"
     ],
     "name:vie_x_preferred":[
@@ -118,7 +121,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -130,7 +133,7 @@
         "fct:id":"03868d78-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3445157,
         "gp:id":455245,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q772750",
         "wk:page":"Viadutos"
     },
@@ -149,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245064,
+    "wof:lastmodified":1566624952,
     "wof:name":"Viadutos",
     "wof:parent_id":102060123,
     "wof:placetype":"locality",

@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.203324,
     "lbl:longitude":-41.464459,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.203324,
     "mps:longitude":-41.464459,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "\u00c9zio"
     ],
@@ -26,9 +30,6 @@
         "\u00c9zio"
     ],
     "name:por_x_variant":[
-        "Itabapoana"
-    ],
-    "name:unk_x_variant":[
         "Itabapoana"
     ],
     "qs:a0":"Brasil",
@@ -46,7 +47,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681921,
         102191577,
@@ -59,7 +60,7 @@
         "fct:id":"03829510-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3453109,
         "gp:id":457849,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"bf329990efb38b9006dec39579ffd23d",
@@ -77,7 +78,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1501266610,
+    "wof:lastmodified":1566623291,
     "wof:name":"Ponte de Itabapoana",
     "wof:parent_id":404554497,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.213028,
     "lbl:longitude":-37.35415,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.213028,
     "mps:longitude":-37.35415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u099c\u09cb\u09b8\u09c7 \u09a1\u09cb \u09ac\u09cd\u09b0\u09c7\u099c\u09cb \u09a1\u09cb \u0995\u09cd\u09b0\u09c1\u099c"
     ],
@@ -105,7 +108,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":152,
     "wof:belongsto":[
         102191577,
@@ -118,7 +121,7 @@
         "fct:id":"03884e06-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6318499,
         "gp:id":26804018,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q644127",
         "wk:page":"S\u00e3o Jos\u00e9 do Brejo do Cruz"
     },
@@ -137,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841118,
+    "wof:lastmodified":1566624242,
     "wof:name":"S\u00e3o Jos\u00e9 do Brejo do Cruz",
     "wof:parent_id":102056415,
     "wof:placetype":"locality",

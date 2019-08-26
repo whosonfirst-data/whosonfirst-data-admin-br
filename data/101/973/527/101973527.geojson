@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.072241,
     "lbl:longitude":-37.717016,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.072241,
     "mps:longitude":-37.717016,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u0430\u0442\u0430"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -110,7 +113,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"300900ccafb22e6a43089f3829f06094",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101973527,
-    "wof:lastmodified":1564141839,
+    "wof:lastmodified":1566625613,
     "wof:name":"Mata",
     "wof:parent_id":404550919,
     "wof:placetype":"locality",

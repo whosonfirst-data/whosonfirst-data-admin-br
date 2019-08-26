@@ -9,14 +9,15 @@
     "geom:bbox":"-43.1845092773,-22.9457476168,-43.1433105469,-22.9229823481",
     "geom:latitude":-22.93354,
     "geom:longitude":-43.163885,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:latitude":-22.92942,
     "gn:longitude":-43.17188,
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-22.934638,
     "lbl:longitude":-43.174589,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-22.933188,
     "mps:longitude":-43.168396,
     "mz:hierarchy_label":1,
@@ -119,8 +120,7 @@
     "qs_pg:woe_id":433687,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -130,7 +130,6 @@
     "wof:concordances":{
         "gn:id":3473662,
         "gp:id":433687,
-        "qs:id":900608,
         "qs_pg:id":900608,
         "wd:id":"Q995561",
         "wk:page":"Flamengo, Rio de Janeiro"
@@ -151,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563237399,
+    "wof:lastmodified":1566620741,
     "wof:name":"Flamengo",
     "wof:parent_id":101953261,
     "wof:placetype":"neighbourhood",

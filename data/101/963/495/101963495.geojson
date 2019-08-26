@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.518398,
     "lbl:longitude":-51.667381,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.518398,
     "mps:longitude":-51.667381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09a8\u09cb\u09af\u09bc\u09c7\u09b2 \u09b0\u09bf\u09ac\u09be\u09b8"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Manoel Ribas"
     ],
-    "name:unk_x_variant":[
-        "Col\u00f4nia Manuel Ribas"
-    ],
     "name:vie_x_preferred":[
         "Manoel Ribas"
     ],
@@ -121,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -134,7 +134,6 @@
         "fct:id":"0380520a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457886,
         "gp:id":439466,
-        "qs:id":1042903,
         "qs_pg:id":1042903,
         "wd:id":"Q1803614",
         "wk:page":"Manoel Ribas"
@@ -155,7 +154,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841072,
+    "wof:lastmodified":1566623609,
     "wof:name":"Manoel Ribas",
     "wof:parent_id":404561415,
     "wof:placetype":"locality",

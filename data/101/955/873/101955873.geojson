@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.074964,
     "lbl:longitude":-47.972886,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-23.074964,
     "mps:longitude":-47.972886,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09b0\u09c7\u0987\u09b0\u09be\u09b8"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-23.076111,
     "wd:longitude":-47.975833,
@@ -116,7 +119,6 @@
         "fct:id":"038633a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3454128,
         "gp:id":443860,
-        "qs:id":1042756,
         "qs_pg:id":1042756,
         "wd:id":"Q1795718",
         "wk:page":"Pereiras"
@@ -136,7 +138,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242561,
+    "wof:lastmodified":1566623824,
     "wof:name":"Pereiras",
     "wof:parent_id":102061941,
     "wof:placetype":"locality",

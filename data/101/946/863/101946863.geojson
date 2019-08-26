@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.245415,
     "lbl:longitude":-35.054166,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.245415,
     "mps:longitude":-35.054166,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09bf\u09ac\u09be\u0989 \u09a1\u09cb \u09b8\u09c1\u09b2"
     ],
@@ -89,9 +92,6 @@
     "name:swe_x_preferred":[
         "Tibau do Sul"
     ],
-    "name:unk_x_variant":[
-        "Tiba\u00fa"
-    ],
     "name:vie_x_preferred":[
         "Tibau do Sul"
     ],
@@ -124,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -136,7 +136,6 @@
         "fct:id":"03880478-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3386445,
         "gp:id":453627,
-        "qs:id":1323493,
         "qs_pg:id":1323493,
         "wd:id":"Q1759083",
         "wk:page":"Tibau do Sul"
@@ -156,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841125,
+    "wof:lastmodified":1566624275,
     "wof:name":"Tibau do Sul",
     "wof:parent_id":102058863,
     "wof:placetype":"locality",

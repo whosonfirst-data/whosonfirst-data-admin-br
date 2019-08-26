@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
-    "geom:area_square_m":1477104.107355,
+    "geom:area_square_m":1477104.107356,
     "geom:bbox":"-48.3112190988,-1.3155747549,-48.2948814541,-1.30373463445",
     "geom:latitude":-1.309256,
     "geom:longitude":-48.302619,
     "iso:country":"BR",
     "lbl:latitude":-1.308814,
     "lbl:longitude":-48.302457,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-1.308814,
     "mps:longitude":-48.302457,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Bemfica"
     ],
     "qs:a0":"Brasil",
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681959,
         102191577,
@@ -47,7 +51,9 @@
     "wof:concordances":{
         "gn:id":3405790,
         "gp:id":458695,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":292068
     },
     "wof:country":"BR",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":101942637,
-    "wof:lastmodified":1497299717,
+    "wof:lastmodified":1566625866,
     "wof:name":"Benfica",
     "wof:parent_id":404559533,
     "wof:placetype":"locality",

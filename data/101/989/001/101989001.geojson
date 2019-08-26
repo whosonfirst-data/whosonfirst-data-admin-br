@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.724031,
     "lbl:longitude":-49.224417,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.724031,
     "mps:longitude":-49.224417,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0435\u0440\u0430\u0434\u043e"
     ],
@@ -124,7 +127,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3619,
     "wof:belongsto":[
         85682041,
@@ -136,7 +139,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":454296,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"5faa6e21c30ab31e454125a01914bac6",
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101989001,
-    "wof:lastmodified":1564142133,
+    "wof:lastmodified":1566625775,
     "wof:name":"Cerrado",
     "wof:parent_id":404566535,
     "wof:placetype":"locality",

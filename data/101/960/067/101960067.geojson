@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.390556,
     "lbl:longitude":-51.868994,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.390556,
     "mps:longitude":-51.868994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b2\u09bf\u09a8\u09be\u09b8"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -114,7 +117,6 @@
         "fct:id":"03886ddc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316883,
         "gp:id":26804213,
-        "qs:id":891425,
         "qs_pg:id":891425,
         "wd:id":"Q1759203"
     },
@@ -133,7 +135,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245897,
+    "wof:lastmodified":1566625326,
     "wof:name":"Colinas",
     "wof:parent_id":102059285,
     "wof:placetype":"locality",

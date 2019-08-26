@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.849124,
     "lbl:longitude":-52.256552,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.849124,
     "mps:longitude":-52.256552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09be\u0995\u09cd\u09b8\u09bf\u09a8\u09be\u09b2 \u09a1\u09cb\u09b8 \u0997\u09c1\u098f\u09a1\u09c7\u09b8"
     ],
@@ -79,9 +82,6 @@
     "name:szl_x_preferred":[
         "Faxinal dos Guedes"
     ],
-    "name:unk_x_variant":[
-        "Fachinal dos Guedes"
-    ],
     "name:vie_x_preferred":[
         "Faxinal dos Guedes"
     ],
@@ -111,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -124,7 +124,6 @@
         "fct:id":"0387b3a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3463558,
         "gp:id":459427,
-        "qs:id":148286,
         "qs_pg:id":148286,
         "wd:id":"Q1799399",
         "wk:page":"Faxinal dos Guedes"
@@ -145,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244842,
+    "wof:lastmodified":1566624845,
     "wof:name":"Faxinal dos Guedes",
     "wof:parent_id":404565389,
     "wof:placetype":"locality",

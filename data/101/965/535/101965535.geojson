@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.11996,
     "lbl:longitude":-46.559836,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-23.11996,
     "mps:longitude":-46.559836,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0623\u062a\u064a\u0628\u0627\u064a\u0627"
     ],
@@ -175,7 +178,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":803.0,
     "wd:latitude":-23.117222,
@@ -194,10 +197,12 @@
         "fct:id":"0389f698-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471335,
         "gp:id":456731,
-        "qs:id":148471,
-        "qs_pg:id":1055155,
+        "qs_pg:id":148471,
         "wd:id":"Q1637405",
         "wk:page":"Atibaia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1055155
     },
     "wof:country":"BR",
     "wof:geomhash":"c2e2fa6ec63b5d42d15493fdae5f6d06",
@@ -215,7 +220,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241730,
+    "wof:lastmodified":1566623425,
     "wof:name":"Atibaia",
     "wof:parent_id":404566135,
     "wof:placetype":"locality",

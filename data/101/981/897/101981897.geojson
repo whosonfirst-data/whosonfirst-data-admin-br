@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.49089,
     "lbl:longitude":-55.00951,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.49089,
     "mps:longitude":-55.00951,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*MS",
     "qs:a1_lc":"50",
@@ -30,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681947,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456474,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"361749f9e6ce669adc642bd30bb8f6c7",
+    "wof:geomhash":"9484280a9d473ccafec9751cfee76be6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101981897,
-    "wof:lastmodified":1479915707,
+    "wof:lastmodified":1566626191,
     "wof:name":"Povoado S\u00e3o Francisco",
     "wof:parent_id":404559033,
     "wof:placetype":"locality",

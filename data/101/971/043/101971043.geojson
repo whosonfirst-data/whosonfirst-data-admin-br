@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.306892,
     "lbl:longitude":-42.150125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.306892,
     "mps:longitude":-42.150125,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*BA",
     "qs:a1_lc":"29",
@@ -30,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":460981,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"8f152462daa3fae3246b9c52f6b91efb",
+    "wof:geomhash":"bcdf1df95df34be7e41ab3aee6709fe1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101971043,
-    "wof:lastmodified":1479944345,
+    "wof:lastmodified":1566624463,
     "wof:name":"Porteira",
     "wof:parent_id":404550379,
     "wof:placetype":"locality",

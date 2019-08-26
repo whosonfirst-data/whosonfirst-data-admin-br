@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.957678,
     "lbl:longitude":-46.428069,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-23.957678,
     "mps:longitude":-46.428069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0648 \u0641\u064a\u0633\u0646\u062a\u064a\u060c \u0633\u0627\u0648 \u0628\u0627\u0648\u0644\u0648"
     ],
@@ -161,10 +164,10 @@
         "S\u00e3o Vicente"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0baf\u0bcb  \u0bb5\u0bbf\u0b9a\u0bbf\u0ba3\u0bcd\u0b9f\u0bc7"
+        "\u0b9a\u0baf\u0bcb \u0bb5\u0bbf\u0b9a\u0bbf\u0ba3\u0bcd\u0b9f\u0bc7"
     ],
     "name:tam_x_variant":[
-        "\u0b9a\u0baf\u0bcb  \u0bb5\u0bbf\u0b9a\u0bbf\u0ba3\u0bcd\u0b9f\u0bc7 "
+        "\u0b9a\u0baf\u0bcb \u0bb5\u0bbf\u0b9a\u0bbf\u0ba3\u0bcd\u0b9f\u0bc7 "
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c35\u0c4b \u0c35\u0c3f\u0c38\u0c46\u0c02\u0c1f\u0c47"
@@ -213,7 +216,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":6.0,
     "wd:latitude":-23.963333,
@@ -232,7 +235,6 @@
         "fct:id":"0389e3e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3448136,
         "gp:id":451401,
-        "qs:id":239736,
         "qs_pg:id":239736,
         "wd:id":"Q272254",
         "wk:page":"S\u00e3o Vicente, S\u00e3o Paulo"
@@ -253,7 +255,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246087,
+    "wof:lastmodified":1566625408,
     "wof:name":"S\u00e3o Vicente",
     "wof:parent_id":404567497,
     "wof:placetype":"locality",

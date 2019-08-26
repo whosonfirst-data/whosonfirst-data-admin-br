@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.726648,
     "lbl:longitude":-51.842986,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-15.726648,
     "mps:longitude":-51.842986,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u0997\u09c1\u09f1\u09be\u0987\u09af\u09bc\u09be\u09a8\u09be"
     ],
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "Araguaiana"
     ],
-    "name:unk_x_variant":[
-        "Registro do Araguaia"
-    ],
     "name:vie_x_preferred":[
         "Araguaiana"
     ],
@@ -118,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -131,7 +131,7 @@
         "fct:id":"03818f58-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471834,
         "gp:id":446514,
-        "qs:id":1208654,
+        "qs_pg:id":1208654,
         "wd:id":"Q1792161",
         "wk:page":"Araguaiana"
     },
@@ -150,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245130,
+    "wof:lastmodified":1566624979,
     "wof:name":"Araguaiana",
     "wof:parent_id":102055367,
     "wof:placetype":"locality",

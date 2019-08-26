@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-7.519798,
     "lbl:longitude":-46.04508,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-7.519798,
     "mps:longitude":-46.04508,
     "mz:hierarchy_label":1,
@@ -91,9 +93,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0441\u0430\u0441"
-    ],
-    "name:unk_x_variant":[
-        "Sant' Antonio de Balsas"
     ],
     "name:vol_x_preferred":[
         "Balsas"
@@ -213,7 +212,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -226,7 +225,6 @@
         "fct:id":"0388abc6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3406545,
         "gp:id":456062,
-        "qs:id":1211827,
         "qs_pg:id":1211827,
         "wd:id":"Q1813001"
     },
@@ -245,7 +243,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247003,
+    "wof:lastmodified":1566625879,
     "wof:name":"Balsas",
     "wof:parent_id":102052815,
     "wof:placetype":"locality",

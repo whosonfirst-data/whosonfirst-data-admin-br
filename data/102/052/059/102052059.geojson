@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-16.384422,
     "lbl:longitude":-52.454957,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-16.384422,
     "mps:longitude":-52.454957,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b2\u09bf\u099c\u09be"
     ],
@@ -103,7 +106,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":459,
     "wof:belongsto":[
         102191577,
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102052059,
-    "wof:lastmodified":1563235011,
+    "wof:lastmodified":1566619189,
     "wof:name":"Baliza",
     "wof:parent_id":85681925,
     "wof:placetype":"county",

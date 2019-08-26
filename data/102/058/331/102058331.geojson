@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-22.517399,
     "lbl:longitude":-42.732324,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-22.517399,
     "mps:longitude":-42.732324,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0995\u09b9\u09cb\u09af\u09bc\u09c7\u0987\u09b0\u09be\u09b8 \u09a1\u09c7 \u09ae\u09be\u0995\u09be\u0995\u09c1"
     ],
@@ -88,7 +91,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":52,
     "wof:belongsto":[
         102191577,
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":102058331,
-    "wof:lastmodified":1561840888,
+    "wof:lastmodified":1566619973,
     "wof:name":"Cachoeiras De Macacu",
     "wof:parent_id":85681991,
     "wof:placetype":"county",

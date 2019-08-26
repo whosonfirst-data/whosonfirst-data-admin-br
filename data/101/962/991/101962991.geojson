@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.101529,
     "lbl:longitude":-46.635711,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-14.101529,
     "mps:longitude":-46.635711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0987\u09af\u09bc\u09be\u09b8\u09bf\u09f1\u09be\u09b0\u09be"
     ],
@@ -78,9 +81,6 @@
     "name:rus_x_preferred":[
         "\u0418\u0430\u0441\u0438\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Ia\u00e7ara"
-    ],
     "name:vie_x_preferred":[
         "Iaciara"
     ],
@@ -110,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -123,7 +123,6 @@
         "fct:id":"0386bc1c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461641,
         "gp:id":456222,
-        "qs:id":1209216,
         "qs_pg:id":1209216,
         "wd:id":"Q1806877",
         "wk:page":"Iaciara"
@@ -143,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841058,
+    "wof:lastmodified":1566623495,
     "wof:name":"Iaciara",
     "wof:parent_id":102052237,
     "wof:placetype":"locality",

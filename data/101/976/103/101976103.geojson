@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.183168,
     "lbl:longitude":-41.428988,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.183168,
     "mps:longitude":-41.428988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u0641\u0627\u064a\u0644"
     ],
@@ -115,7 +118,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         85681895,
@@ -127,7 +130,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":461256,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"ea7a5149603893a7adc043c83abebd06",
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101976103,
-    "wof:lastmodified":1564140854,
+    "wof:lastmodified":1566624663,
     "wof:name":"Penafiel",
     "wof:parent_id":404552111,
     "wof:placetype":"locality",

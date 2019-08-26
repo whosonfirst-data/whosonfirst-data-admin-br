@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.150752,
     "lbl:longitude":-40.710845,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.150752,
     "mps:longitude":-40.710845,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Oiticica"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":22,
     "wof:belongsto":[
         85681907,
@@ -53,7 +56,7 @@
     "wof:concordances":{
         "gn:id":6317808,
         "gp:id":457747,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"66fd4ef23d0986ede92be12e93420acb",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101944973,
-    "wof:lastmodified":1564142396,
+    "wof:lastmodified":1566626005,
     "wof:name":"Oiticica",
     "wof:parent_id":404553593,
     "wof:placetype":"locality",

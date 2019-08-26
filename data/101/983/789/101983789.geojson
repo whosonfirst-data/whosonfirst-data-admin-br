@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.905659,
     "lbl:longitude":-42.670847,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.905659,
     "mps:longitude":-42.670847,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u0994\u09b0\u09cb\u09b0\u09be"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":8441223,
         "gp:id":457947,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"3f2e66307933f5d2ae305b24401cb48a",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101983789,
-    "wof:lastmodified":1564139953,
+    "wof:lastmodified":1566624047,
     "wof:name":"Nova Aurora",
     "wof:parent_id":404557953,
     "wof:placetype":"locality",

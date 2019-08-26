@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-17.255843,
     "lbl:longitude":-40.570929,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-17.255843,
     "mps:longitude":-40.570929,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0989\u09ae\u09ac\u09c1\u09b0\u09be\u099f\u09bf\u09ac\u09be"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -119,7 +122,7 @@
         "fct:id":"0386874c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3445792,
         "gp:id":454439,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1754681",
         "wk:page":"Umburatiba"
     },
@@ -139,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841029,
+    "wof:lastmodified":1566623312,
     "wof:name":"Umburatiba",
     "wof:parent_id":404558677,
     "wof:placetype":"locality",

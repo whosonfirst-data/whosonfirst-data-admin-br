@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.540378,
     "lbl:longitude":-55.974714,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.540378,
     "mps:longitude":-55.974714,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u0995\u09c1\u09af\u09bc\u09c7\u0987\u09b0\u09cd\u0986\u09b2"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681955,
         102191577,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":6316914,
         "gp:id":90218187,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"061ffccac347c14e6bd7f2794c8264bb",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101961229,
-    "wof:lastmodified":1564141122,
+    "wof:lastmodified":1566624937,
     "wof:name":"Coqueiral",
     "wof:parent_id":404559271,
     "wof:placetype":"locality",

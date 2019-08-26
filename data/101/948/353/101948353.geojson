@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.430868,
     "lbl:longitude":-35.808708,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-8.430868,
     "mps:longitude":-35.808708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u099c\u09cb\u0986\u0995\u09c1\u0987\u09ae \u09a1\u09cb \u09ae\u09cb\u09a8\u09cd\u099f\u09c7"
     ],
@@ -80,9 +83,6 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u0416\u0443\u0430\u043a\u0438\u043d-\u0434\u0443-\u041c\u043e\u043d\u0442\u0438"
     ],
-    "name:unk_x_variant":[
-        "Camaratuba"
-    ],
     "name:vie_x_preferred":[
         "S\u00e3o Joaquim do Monte"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":177,
     "wof:belongsto":[
@@ -127,7 +127,6 @@
         "fct:id":"0387e1e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3388567,
         "gp:id":461107,
-        "qs:id":843882,
         "qs_pg:id":843882,
         "wd:id":"Q2013565",
         "wk:page":"S\u00e3o Joaquim do Monte"
@@ -148,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841101,
+    "wof:lastmodified":1566623874,
     "wof:name":"S\u00e3o Joaquim do Monte",
     "wof:parent_id":404560673,
     "wof:placetype":"locality",

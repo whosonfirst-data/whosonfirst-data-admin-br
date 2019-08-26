@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.312872,
     "lbl:longitude":-47.106851,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.312872,
     "mps:longitude":-47.106851,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u099c\u09c7"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -98,7 +101,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"995083c53fdf1c7131b1b8892e2c20a5",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101978023,
-    "wof:lastmodified":1564140345,
+    "wof:lastmodified":1566624322,
     "wof:name":"Laje",
     "wof:parent_id":404556599,
     "wof:placetype":"locality",

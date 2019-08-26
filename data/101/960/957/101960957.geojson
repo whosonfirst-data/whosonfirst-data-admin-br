@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.418977,
     "lbl:longitude":-58.755334,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.418977,
     "mps:longitude":-58.755334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09c1\u0987\u09a8\u09be"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"Centro de Zona A",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":181,
     "wof:belongsto":[
         85681955,
@@ -126,7 +129,7 @@
         "fct:id":"0387fff0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317400,
         "gp:id":22695668,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1880608",
         "wk:page":"Ju\u00edna"
     },
@@ -146,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841233,
+    "wof:lastmodified":1566625303,
     "wof:name":"Ju\u00edna",
     "wof:parent_id":404559233,
     "wof:placetype":"locality",

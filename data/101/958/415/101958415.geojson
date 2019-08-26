@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.499231,
     "lbl:longitude":-54.692935,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.499231,
     "mps:longitude":-54.692935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u0997\u09c1\u09f1\u09be\u09b0\u09bf"
     ],
@@ -82,9 +85,6 @@
     "name:swe_x_preferred":[
         "Jaguari"
     ],
-    "name:unk_x_variant":[
-        "Jaguary"
-    ],
     "name:vie_x_preferred":[
         "Jaguari"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -130,7 +130,6 @@
         "fct:id":"03873a7a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460221,
         "gp:id":457395,
-        "qs:id":305394,
         "qs_pg:id":305394,
         "wd:id":"Q634501",
         "wk:page":"Jaguari"
@@ -151,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841217,
+    "wof:lastmodified":1566625213,
     "wof:name":"Jaguari",
     "wof:parent_id":404563809,
     "wof:placetype":"locality",

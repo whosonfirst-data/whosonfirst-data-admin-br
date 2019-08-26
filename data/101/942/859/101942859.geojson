@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.60013,
     "lbl:longitude":-46.677432,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.60013,
     "mps:longitude":-46.677432,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09bf\u099c\u09be\u09b0\u09cd\u09a1\u09be"
     ],
@@ -85,9 +88,6 @@
     "name:tet_x_preferred":[
         "Lizarda"
     ],
-    "name:unk_x_variant":[
-        "Boa Sorte"
-    ],
     "name:vie_x_preferred":[
         "Lizarda"
     ],
@@ -118,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682053,
         102191577,
@@ -131,7 +131,7 @@
         "fct:id":"0387443e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3396214,
         "gp:id":457487,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1786619",
         "wk:page":"Lizarda"
     },
@@ -151,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841277,
+    "wof:lastmodified":1566625830,
     "wof:name":"Lizarda",
     "wof:parent_id":404567657,
     "wof:placetype":"locality",

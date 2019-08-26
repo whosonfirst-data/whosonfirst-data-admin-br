@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.60863,
     "lbl:longitude":-42.938126,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-13.60863,
     "mps:longitude":-42.938126,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u09af\u09bc\u09be\u0995\u09b9\u09cb \u09a1\u09c7 \u09b8\u09be\u09a8\u09cd\u099f\u09be\u09a8\u09be"
     ],
@@ -82,9 +85,6 @@
     "name:rus_x_preferred":[
         "\u0420\u0438\u0430\u0448\u0443-\u0434\u0438-\u0421\u0430\u043d\u0442\u0430\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Riacho de Sant'Anna"
-    ],
     "name:vol_x_preferred":[
         "Riacho de Santana"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -128,7 +128,6 @@
         "fct:id":"0386dbd4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451448,
         "gp:id":456467,
-        "qs:id":814429,
         "qs_pg:id":814429,
         "wd:id":"Q2013792",
         "wk:page":"Riacho de Santana, Bahia"
@@ -149,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244169,
+    "wof:lastmodified":1566624546,
     "wof:name":"Riacho de Santana",
     "wof:parent_id":404551835,
     "wof:placetype":"locality",

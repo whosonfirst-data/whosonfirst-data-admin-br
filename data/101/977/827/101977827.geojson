@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.218926,
     "lbl:longitude":-50.57202,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.218926,
     "mps:longitude":-50.57202,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09c1\u0987\u099c \u0986\u09b2\u09ad\u09c7\u09b8"
     ],
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Luiz Alves"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lu\u00eds Alves"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +91,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -98,7 +101,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8470665,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"6e13a3dddb687968b8bc0e7dde340fea",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101977827,
-    "wof:lastmodified":1564139757,
+    "wof:lastmodified":1566623942,
     "wof:name":"Luiz Alves",
     "wof:parent_id":102052681,
     "wof:placetype":"locality",

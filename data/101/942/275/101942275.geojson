@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.77468,
     "lbl:longitude":-49.570512,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.77468,
     "mps:longitude":-49.570512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c7\u0989 \u09ac\u09cd\u09b0\u09be\u0999\u09cd\u0995\u09cb"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -107,9 +110,11 @@
     "wof:concordances":{
         "gn:id":6316653,
         "gp:id":55943918,
-        "qs:id":9,
-        "qs_pg:id":1026625,
+        "qs_pg:id":9,
         "wd:id":"Q2008139"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1026625
     },
     "wof:country":"BR",
     "wof:geomhash":"47dbe70309c0e3752813935da772293f",
@@ -123,7 +128,7 @@
         }
     ],
     "wof:id":101942275,
-    "wof:lastmodified":1563246869,
+    "wof:lastmodified":1566625829,
     "wof:name":"Breu Branco",
     "wof:parent_id":102055721,
     "wof:placetype":"locality",

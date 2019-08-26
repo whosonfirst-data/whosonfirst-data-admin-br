@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.943027,
     "lbl:longitude":-41.715632,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.943027,
     "mps:longitude":-41.715632,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09b0\u09bf\u09aa\u09be"
     ],
@@ -89,9 +92,6 @@
     "name:swe_x_preferred":[
         "Pirip\u00e1"
     ],
-    "name:unk_x_variant":[
-        "Perip\u00e1"
-    ],
     "name:vie_x_preferred":[
         "Pirip\u00e1"
     ],
@@ -121,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":146,
     "wof:belongsto":[
         85681895,
@@ -135,7 +135,6 @@
         "fct:id":"0386d72e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3453498,
         "gp:id":456423,
-        "qs:id":181371,
         "qs_pg:id":181371,
         "wd:id":"Q1794920",
         "wk:page":"Pirip\u00e1"
@@ -156,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841146,
+    "wof:lastmodified":1566624549,
     "wof:name":"Pirip\u00e1",
     "wof:parent_id":404551739,
     "wof:placetype":"locality",

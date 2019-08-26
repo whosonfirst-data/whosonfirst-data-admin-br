@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.917519,
     "lbl:longitude":-37.344457,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.917519,
     "mps:longitude":-37.344457,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u0130panema \u00e7im\u0259rliyi"
     ],
@@ -124,7 +127,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -133,7 +136,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"558ff64b07b65e23f984971bc5634415",
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":101990229,
-    "wof:lastmodified":1564139437,
+    "wof:lastmodified":1566623626,
     "wof:name":"Ipanema",
     "wof:parent_id":102060883,
     "wof:placetype":"locality",

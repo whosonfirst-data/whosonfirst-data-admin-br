@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.249005,
     "lbl:longitude":-49.952208,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.249005,
     "mps:longitude":-49.952208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09cb \u09b0\u09c7\u09aa\u09be\u09b0\u09cd\u099f\u09bf\u09ae\u09c7\u09a8\u099f\u09cb"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681959,
         102191577,
@@ -108,9 +111,11 @@
     "wof:concordances":{
         "gn:id":6317801,
         "gp:id":56125269,
-        "qs:id":9,
-        "qs_pg:id":368804,
+        "qs_pg:id":9,
         "wd:id":"Q769811"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":368804
     },
     "wof:country":"BR",
     "wof:geomhash":"9e87e6f01db0624689da60a0628199e5",
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":101942213,
-    "wof:lastmodified":1563246962,
+    "wof:lastmodified":1566625863,
     "wof:name":"Novo Repartimento",
     "wof:parent_id":404559699,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.692601,
     "lbl:longitude":-35.535872,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-6.692601,
     "mps:longitude":-35.535872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Bel\u00e9m"
     ],
@@ -104,9 +107,6 @@
     "name:tah_x_preferred":[
         "Bel\u00e9m"
     ],
-    "name:unk_x_variant":[
-        "Curimata\u00fa"
-    ],
     "name:vol_x_preferred":[
         "Bel\u00e9m"
     ],
@@ -133,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681967,
@@ -147,7 +147,6 @@
         "fct:id":"0386fdd0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3405863,
         "gp:id":456792,
-        "qs:id":1044505,
         "qs_pg:id":1044505,
         "wd:id":"Q792606",
         "wk:page":"Bel\u00e9m, Para\u00edba"
@@ -168,7 +167,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243456,
+    "wof:lastmodified":1566624243,
     "wof:name":"Bel\u00e9m",
     "wof:parent_id":404559851,
     "wof:placetype":"locality",

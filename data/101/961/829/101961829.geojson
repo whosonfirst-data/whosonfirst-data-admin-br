@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.200644,
     "lbl:longitude":-52.17094,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.200644,
     "mps:longitude":-52.17094,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09ae \u099c\u09be\u09b0\u09cd\u09a1\u09bf\u09ae \u09a1\u09c7 \u0997\u09cb\u09af\u09bc\u09be\u09b8"
     ],
@@ -92,9 +95,6 @@
     "name:swe_x_preferred":[
         "Bom Jardim de Goi\u00e1s"
     ],
-    "name:unk_x_variant":[
-        "Ibotim"
-    ],
     "name:vie_x_preferred":[
         "Bom Jardim de Goi\u00e1s"
     ],
@@ -124,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":402,
     "wof:belongsto":[
         102191577,
@@ -137,7 +137,6 @@
         "fct:id":"0387a320-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3469456,
         "gp:id":458778,
-        "qs:id":883928,
         "qs_pg:id":883928,
         "wd:id":"Q16827",
         "wk:page":"Bom Jardim de Goi\u00e1s"
@@ -157,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841185,
+    "wof:lastmodified":1566624938,
     "wof:name":"Bom Jardim de Goi\u00e1s",
     "wof:parent_id":102052065,
     "wof:placetype":"locality",

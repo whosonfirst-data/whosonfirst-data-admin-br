@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6257849.765595,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-46.314459,-23.920339,-46.314459,-23.920339",
     "geom:latitude":-23.920339,
     "geom:longitude":-46.314459,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-46.319459,-23.925339,-46.309459,-23.915339",
     "lbl:latitude":-23.920339,
     "lbl:longitude":-46.314459,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-23.915241,
     "mps:longitude":-46.309678,
     "mz:hierarchy_label":0,
@@ -58,9 +60,6 @@
     "name:swe_x_preferred":[
         "Paquet\u00e1"
     ],
-    "name:unk_x_variant":[
-        "Porto Paquet\u00e1"
-    ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_id":0,
     "qs:gn_local":3449433,
@@ -89,19 +88,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682041,
         102191577,
         404567207,
         85633009,
         101965657,
-        102062211
+        102062211,
+        85682041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56066857,
-        "qs:id":238207,
         "qs_pg:id":238207
     },
     "wof:country":"BR",
@@ -121,7 +119,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859179,
+    "wof:lastmodified":1566620735,
     "wof:name":"Porto Paquet\u00e1",
     "wof:parent_id":101965657,
     "wof:placetype":"neighbourhood",

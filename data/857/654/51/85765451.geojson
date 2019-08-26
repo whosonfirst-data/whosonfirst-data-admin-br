@@ -9,14 +9,15 @@
     "geom:bbox":"-51.196417767,-30.0147122133,-51.1341040039,-29.96159095",
     "geom:latitude":-29.992437,
     "geom:longitude":-51.162103,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-30.00417,
     "gn:longitude":-51.175,
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-30.005969,
     "lbl:longitude":-51.176638,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-30.004161,
     "mps:longitude":-51.167999,
     "mz:hierarchy_label":1,
@@ -78,9 +79,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0416\u0443\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Jo\u00e3o"
-    ],
     "name:vie_x_preferred":[
         "S\u00e3o Jo\u00e3o"
     ],
@@ -132,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -146,7 +144,6 @@
     "wof:concordances":{
         "gn:id":3473920,
         "gp:id":56067552,
-        "qs:id":1137994,
         "qs_pg:id":795646
     },
     "wof:concordances_alt":{
@@ -169,7 +166,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564134777,
+    "wof:lastmodified":1566620821,
     "wof:name":"S\u00e3o Jo\u00e3o",
     "wof:parent_id":101960525,
     "wof:placetype":"neighbourhood",

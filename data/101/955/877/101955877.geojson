@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-22.008223,
     "lbl:longitude":-47.894618,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-22.008223,
     "mps:longitude":-47.894618,
     "mz:hierarchy_label":1,
@@ -167,7 +169,7 @@
         "S\u00e3o Carlos"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbe\u0bb5\u0bcd  \u0b95\u0bbe\u0bb0\u0bcd\u0bb2\u0bcb\u0bb8\u0bcd"
+        "\u0b9a\u0bbe\u0bb5\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0bb2\u0bcb\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c36\u0c3e\u0c35\u0c4d \u0c15\u0c3e\u0c30\u0c4d\u0c32\u0c4b\u0c38\u0c4d"
@@ -180,9 +182,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041a\u0430\u0440\u043b\u0443\u0441"
-    ],
-    "name:unk_x_variant":[
-        "S\u00e3o Carlos do Pinhal"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0624 \u06a9\u0627\u0631\u0644\u0648\u0633"
@@ -311,7 +310,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":856.0,
     "wd:latitude":-22.017778,
@@ -330,7 +329,6 @@
         "fct:id":"0389e374-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3449319,
         "gp:id":449704,
-        "qs:id":239734,
         "qs_pg:id":239734,
         "wd:id":"Q194338",
         "wk:page":"S\u00e3o Carlos"
@@ -351,7 +349,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841098,
+    "wof:lastmodified":1566623853,
     "wof:name":"S\u00e3o Carlos",
     "wof:parent_id":404567219,
     "wof:placetype":"locality",

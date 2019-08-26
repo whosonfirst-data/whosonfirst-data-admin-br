@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.420088,
     "lbl:longitude":-48.212346,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-2.420088,
     "mps:longitude":-48.212346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u099f\u09cb\u09ae\u09c7-\u0986\u0995\u09c1"
     ],
@@ -104,7 +107,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":146,
     "wof:belongsto":[
@@ -118,7 +121,7 @@
         "fct:id":"0386e8a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3386279,
         "gp:id":456569,
-        "qs:id":279736,
+        "qs_pg:id":279736,
         "wd:id":"Q1805230"
     },
     "wof:country":"BR",
@@ -136,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841274,
+    "wof:lastmodified":1566625811,
     "wof:name":"Tom\u00e9-A\u00e7u",
     "wof:parent_id":102055961,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.238941,
     "lbl:longitude":-54.788137,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.238941,
     "mps:longitude":-54.788137,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u0997\u09cd\u09b0\u09c7\u099c\u09bf\u09a8\u09b9\u09be"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -108,7 +111,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":447506,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"6c9ceb993bddb1b8d8367e044b5cc0fe",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101958361,
-    "wof:lastmodified":1564141429,
+    "wof:lastmodified":1566625234,
     "wof:name":"Igrejinha",
     "wof:parent_id":404564289,
     "wof:placetype":"locality",

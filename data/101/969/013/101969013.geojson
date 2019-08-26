@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.247693,
     "lbl:longitude":-42.146031,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.247693,
     "mps:longitude":-42.146031,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09c7\u09af\u09bc\u09be\u09b2\u09c7\u099c\u09be"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -104,7 +107,7 @@
         "fct:id":"0382995c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451784,
         "gp:id":457909,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"aed2be960994f62e32ca2ebe6d0dfcb7",
@@ -122,7 +125,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564141588,
+    "wof:lastmodified":1566625431,
     "wof:name":"Realeza",
     "wof:parent_id":404557109,
     "wof:placetype":"locality",

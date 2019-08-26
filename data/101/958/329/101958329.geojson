@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.495118,
     "lbl:longitude":-55.04469,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.495118,
     "mps:longitude":-55.04469,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ad\u09be\u0987"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":128,
     "wof:belongsto":[
         85682015,
@@ -104,7 +107,7 @@
     "wof:concordances":{
         "gn:id":6317340,
         "gp:id":458055,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"ff9bb0019224f49cc9abb665ad8041b6",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101958329,
-    "wof:lastmodified":1564141456,
+    "wof:lastmodified":1566625261,
     "wof:name":"Iva\u00ed",
     "wof:parent_id":404563125,
     "wof:placetype":"locality",

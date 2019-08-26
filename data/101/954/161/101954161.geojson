@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.485425,
     "lbl:longitude":-41.168463,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.485425,
     "mps:longitude":-41.168463,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09bf\u09ae\u09cb\u09af\u09bc\u09c7\u0987\u09b0\u09cb"
     ],
@@ -85,7 +88,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681921,
         102191577,
@@ -95,7 +98,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"d0e9739667ac3de61d4e42d4b4589f35",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101954161,
-    "wof:lastmodified":1564139085,
+    "wof:lastmodified":1566623276,
     "wof:name":"Limoeiro",
     "wof:parent_id":404554273,
     "wof:placetype":"locality",

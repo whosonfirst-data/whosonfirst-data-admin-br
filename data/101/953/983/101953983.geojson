@@ -9,14 +9,17 @@
     "geom:bbox":"-41.6887756418,-20.7260964832,-41.6736343655,-20.7089961856",
     "geom:latitude":-20.717663,
     "geom:longitude":-41.681183,
-    "geonames:id":"3448186,3448185,3461361",
+    "gn:id":"3448186,3448185,3461361",
     "iso:country":"BR",
     "lbl:latitude":-20.717596,
     "lbl:longitude":-41.681068,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.717596,
     "mps:longitude":-41.681068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u099f\u09bf\u09af\u09bc\u09be\u0997\u09cb"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":41,
     "wof:belongsto":[
         85681921,
@@ -107,7 +110,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":459570,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"201e28312fea703da95d459f29883989",
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101953983,
-    "wof:lastmodified":1564139171,
+    "wof:lastmodified":1566623371,
     "wof:name":"S\u00e3o Tiago",
     "wof:parent_id":404554363,
     "wof:placetype":"locality",

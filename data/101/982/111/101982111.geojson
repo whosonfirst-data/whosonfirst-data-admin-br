@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.543005,
     "lbl:longitude":-53.137429,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-13.543005,
     "mps:longitude":-53.137429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u0986\u09b2\u09bf\u09af\u09bc\u09be\u09a8\u0995\u09be"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":464.0,
     "wd:latitude":-21.015833,
@@ -107,7 +110,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26804286,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a128c8bfa2a5ebc1a357b4eb8427be2c",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101982111,
-    "wof:lastmodified":1564140795,
+    "wof:lastmodified":1566624629,
     "wof:name":"Nova Alian\u00e7a",
     "wof:parent_id":102055445,
     "wof:placetype":"locality",

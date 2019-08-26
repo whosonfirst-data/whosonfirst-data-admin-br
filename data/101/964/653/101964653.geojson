@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.117506,
     "lbl:longitude":-48.730073,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-23.117506,
     "mps:longitude":-48.730073,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u098f\u09a8\u0997\u09c7\u09a8\u09b9\u09c7\u0987\u09b0\u09cb \u0995\u09cb\u09af\u09bc\u09c7\u09b2\u09b9\u09cb"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.488333,
     "wd:longitude":-47.215,
@@ -123,7 +126,7 @@
     "wof:concordances":{
         "gn:id":8477794,
         "gp:id":456270,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q952726"
     },
     "wof:country":"BR",
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101964653,
-    "wof:lastmodified":1563242327,
+    "wof:lastmodified":1566623726,
     "wof:name":"Engenheiro Serra",
     "wof:parent_id":404566603,
     "wof:placetype":"locality",

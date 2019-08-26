@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.100708,
     "lbl:longitude":-48.257116,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-23.100708,
     "mps:longitude":-48.257116,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09ab\u09c7\u099f\u09c7"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-23.102222,
     "wd:longitude":-48.257778,
@@ -121,7 +124,7 @@
         "fct:id":"0387028a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3469587,
         "gp:id":456828,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1749936",
         "wk:page":"Bofete"
     },
@@ -141,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242288,
+    "wof:lastmodified":1566623707,
     "wof:name":"Bofete",
     "wof:parent_id":404566179,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.471711,
     "lbl:longitude":-52.874635,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.471711,
     "mps:longitude":-52.874635,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Rio Verde"
     ],
@@ -67,7 +70,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -79,7 +82,7 @@
     "wof:concordances":{
         "gn:id":6318169,
         "gp:id":437405,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"19b29097c2789f91ca0fd3b4a49ecf5f",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101956825,
-    "wof:lastmodified":1564141555,
+    "wof:lastmodified":1566625398,
     "wof:name":"Rio Verde",
     "wof:parent_id":404561361,
     "wof:placetype":"locality",

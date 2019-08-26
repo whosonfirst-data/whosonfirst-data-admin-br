@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.116688,
     "lbl:longitude":-41.268234,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.116688,
     "mps:longitude":-41.268234,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u0420\u043e\u0441\u0430 \u0434\u0435 \u041b\u0438\u043c\u0430"
     ],
@@ -34,7 +37,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681921,
         102191577,
@@ -44,7 +47,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"504fbf6bff306e30fcef831e02e8b530",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101969051,
-    "wof:lastmodified":1564141639,
+    "wof:lastmodified":1566625466,
     "wof:name":"Santa Rosa de Lima",
     "wof:parent_id":404554501,
     "wof:placetype":"locality",

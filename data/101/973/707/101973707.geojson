@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.46974,
     "lbl:longitude":-37.176053,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.46974,
     "mps:longitude":-37.176053,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09be\u099c\u09c7\u09a8\u09cd\u09a1\u09be \u09a8\u09cb\u09ad\u09be"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -107,7 +110,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3400023,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"67f2f6241816ca8eb18929fd0e110b60",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101973707,
-    "wof:lastmodified":1564141803,
+    "wof:lastmodified":1566625596,
     "wof:name":"Fazenda Nova",
     "wof:parent_id":102050201,
     "wof:placetype":"locality",

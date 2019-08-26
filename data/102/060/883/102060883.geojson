@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-11.154165,
     "lbl:longitude":-37.247988,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-11.154165,
     "mps:longitude":-37.247988,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09aa\u09cb\u09b0\u09be\u0999\u09cd\u0997\u09be \u09a1\u09bf'\u0986\u099c\u09c1\u09a1\u09be"
     ],
@@ -103,7 +106,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":75,
     "wof:belongsto":[
         102191577,
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":102060883,
-    "wof:lastmodified":1563236470,
+    "wof:lastmodified":1566620146,
     "wof:name":"Itaporanga D'Ajuda",
     "wof:parent_id":85682037,
     "wof:placetype":"county",

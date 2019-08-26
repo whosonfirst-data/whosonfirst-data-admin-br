@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.240486,
     "lbl:longitude":-51.522423,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-29.240486,
     "mps:longitude":-51.522423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0997\u09be\u09b0\u09bf\u09ac\u09be\u09b2\u09a1\u09bf"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682015,
@@ -126,7 +129,6 @@
         "fct:id":"0389f45e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3462557,
         "gp:id":456201,
-        "qs:id":1323971,
         "qs_pg:id":1323971,
         "wd:id":"Q385465"
     },
@@ -146,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245540,
+    "wof:lastmodified":1566625174,
     "wof:name":"Garibaldi",
     "wof:parent_id":404563645,
     "wof:placetype":"locality",

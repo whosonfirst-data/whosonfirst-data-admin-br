@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.567505,
     "lbl:longitude":-37.393268,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.567505,
     "mps:longitude":-37.393268,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Jo\u00e3o Ferreira"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":15,
     "wof:belongsto":[
         102191577,
@@ -59,7 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"dc330f8080b498b245a4b6773f2485d5",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101990197,
-    "wof:lastmodified":1564139481,
+    "wof:lastmodified":1566623651,
     "wof:name":"Jo\u00e3o Ferreira",
     "wof:parent_id":102060951,
     "wof:placetype":"locality",

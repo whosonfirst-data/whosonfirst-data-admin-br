@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.979523,
     "lbl:longitude":-71.476567,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.979523,
     "mps:longitude":-71.476567,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Pernambuco"
     ],
@@ -292,7 +295,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -303,7 +306,7 @@
     "wof:concordances":{
         "gn:id":3662875,
         "gp:id":456242,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a301b0e4204c69631c6e9aea5b69caf9",
@@ -317,7 +320,7 @@
         }
     ],
     "wof:id":101969227,
-    "wof:lastmodified":1564141583,
+    "wof:lastmodified":1566625428,
     "wof:name":"Pernambuco",
     "wof:parent_id":102050347,
     "wof:placetype":"locality",

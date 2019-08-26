@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-30.811471,
     "lbl:longitude":-53.900156,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.811471,
     "mps:longitude":-53.900156,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u09ad\u09cd\u09b0\u09be\u09b8 \u09a1\u09cb \u09b8\u09c1\u09b2"
     ],
@@ -80,9 +83,6 @@
     "name:swe_x_preferred":[
         "Lavras do Sul"
     ],
-    "name:unk_x_variant":[
-        "Lavras do Batov\u00ed"
-    ],
     "name:vie_x_preferred":[
         "Lavras do Sul"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -125,7 +125,6 @@
         "fct:id":"0387c2ce-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3458691,
         "gp:id":459938,
-        "qs:id":1231118,
         "qs_pg:id":1231118,
         "wd:id":"Q1750149"
     },
@@ -145,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841224,
+    "wof:lastmodified":1566625250,
     "wof:name":"Lavras do Sul",
     "wof:parent_id":404563853,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.785689,
     "lbl:longitude":-51.604165,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-28.785689,
     "mps:longitude":-51.604165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u09aa\u09cd\u09b0\u09be\u099f\u09be"
     ],
@@ -78,9 +81,6 @@
     "name:spa_x_preferred":[
         "Nova Prata"
     ],
-    "name:unk_x_variant":[
-        "Prata"
-    ],
     "name:vie_x_preferred":[
         "Nova Prata"
     ],
@@ -113,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -126,7 +126,6 @@
         "fct:id":"038757d0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456125,
         "gp:id":457680,
-        "qs:id":148074,
         "qs_pg:id":148074,
         "wd:id":"Q1758146",
         "wk:page":"Nova Prata"
@@ -146,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841215,
+    "wof:lastmodified":1566625195,
     "wof:name":"Nova Prata",
     "wof:parent_id":102059671,
     "wof:placetype":"locality",

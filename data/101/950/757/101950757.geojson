@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.996622,
     "lbl:longitude":-46.309897,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-18.996622,
     "mps:longitude":-46.309897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09cd\u09ae\u09cb \u09a1\u09cb \u09aa\u09be\u09b0\u09be\u09a8\u09be\u0987\u09ac\u09be"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Carmo do Parana\u00edba"
     ],
-    "name:unk_x_variant":[
-        "Carmo do Paranahyba"
-    ],
     "name:vie_x_preferred":[
         "Carmo do Parana\u00edba"
     ],
@@ -115,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":485,
     "wof:belongsto":[
@@ -130,7 +130,6 @@
         "fct:id":"03871126-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3466902,
         "gp:id":456994,
-        "qs:id":148382,
         "qs_pg:id":148382,
         "wd:id":"Q1792297",
         "wk:page":"Carmo do Parana\u00edba"
@@ -151,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841159,
+    "wof:lastmodified":1566624756,
     "wof:name":"Carmo do Parana\u00edba",
     "wof:parent_id":404555797,
     "wof:placetype":"locality",

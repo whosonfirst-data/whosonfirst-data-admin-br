@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.342412,
     "lbl:longitude":-50.39226,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-22.342412,
     "mps:longitude":-50.39226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09c1\u099f\u09c7\u09b8\u09bf\u09af\u09bc\u09be"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.34,
     "wd:longitude":-50.392222,
@@ -126,7 +129,7 @@
         "fct:id":"03860380-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3458334,
         "gp:id":438841,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1649656",
         "wk:page":"Lut\u00e9cia"
     },
@@ -145,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841092,
+    "wof:lastmodified":1566623820,
     "wof:name":"Lut\u00e9cia",
     "wof:parent_id":102061697,
     "wof:placetype":"locality",

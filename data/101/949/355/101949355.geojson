@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.4475,
     "lbl:longitude":-42.240902,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-13.4475,
     "mps:longitude":-42.240902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b0\u09be\u09ae\u09bf\u09b0\u09bf\u09ae"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -123,7 +126,6 @@
         "fct:id":"03875e9c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3455082,
         "gp:id":457748,
-        "qs:id":821555,
         "qs_pg:id":821555,
         "wd:id":"Q1793379",
         "wk:page":"Paramirim"
@@ -144,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841145,
+    "wof:lastmodified":1566624545,
     "wof:name":"Paramirim",
     "wof:parent_id":404551681,
     "wof:placetype":"locality",

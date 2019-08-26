@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.242607,
     "lbl:longitude":-48.639279,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-27.242607,
     "mps:longitude":-48.639279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u099f\u09bf\u099c\u09c1\u0995\u09be\u09b8"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682021,
@@ -123,7 +126,6 @@
         "fct:id":"0387e9f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3446500,
         "gp:id":461415,
-        "qs:id":208715,
         "qs_pg:id":208715,
         "wd:id":"Q951660"
     },
@@ -143,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245902,
+    "wof:lastmodified":1566625329,
     "wof:name":"Tijucas",
     "wof:parent_id":404565935,
     "wof:placetype":"locality",

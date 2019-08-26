@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.269912,
     "lbl:longitude":-58.039922,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.269912,
     "mps:longitude":-58.039922,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0624\u064a\u0629 \u0634\u0627\u0645\u0644\u0629"
     ],
@@ -148,7 +151,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -159,7 +162,7 @@
     "wof:concordances":{
         "gn:id":8456685,
         "gp:id":460363,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"2c3e3e8abde464e9718f03821be14cb9",
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101981591,
-    "wof:lastmodified":1564142568,
+    "wof:lastmodified":1566626175,
     "wof:name":"Panorama",
     "wof:parent_id":102055583,
     "wof:placetype":"locality",

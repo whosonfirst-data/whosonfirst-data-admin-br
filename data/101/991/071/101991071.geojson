@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.542843,
     "lbl:longitude":-37.693543,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-8.542843,
     "mps:longitude":-37.693543,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09bf\u09ae\u09bf\u09b0\u09bf\u09ae"
     ],
@@ -71,9 +74,6 @@
     "name:rus_x_preferred":[
         "\u0418\u0431\u0438\u043c\u0438\u0440\u0438\u043d"
     ],
-    "name:unk_x_variant":[
-        "Mirim"
-    ],
     "name:vie_x_preferred":[
         "Ibimirim"
     ],
@@ -106,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681973,
@@ -120,7 +120,6 @@
         "fct:id":"0386bcda-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3398401,
         "gp:id":56125134,
-        "qs:id":1044411,
         "qs_pg:id":1044411,
         "wd:id":"Q1804109",
         "wk:page":"Ibimirim"
@@ -141,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841055,
+    "wof:lastmodified":1566623485,
     "wof:name":"Ibimirim",
     "wof:parent_id":404560385,
     "wof:placetype":"locality",

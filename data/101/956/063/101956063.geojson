@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.755044,
     "lbl:longitude":-47.341207,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.755044,
     "mps:longitude":-47.341207,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "Santa Cruz da Estrela",
         "Sta Cruz da Estrela",
@@ -26,9 +30,6 @@
     "name:por_x_variant":[
         "Sta Cruz da Estr\u00eala",
         "Sta. Cruz da Estr\u00eala"
-    ],
-    "name:unk_x_variant":[
-        "Santa Cruz da Estr\u00eala"
     ],
     "qs:a0":"Brasil",
     "qs:a1":"*SP",
@@ -45,7 +46,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -58,7 +59,7 @@
         "fct:id":"0381a5d8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460348,
         "gp:id":448285,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"17e96a62a1c77ee5835d8707defdd7d2",
@@ -76,7 +77,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1501266660,
+    "wof:lastmodified":1566625367,
     "wof:name":"Santa Cruz da Estrela",
     "wof:parent_id":404567191,
     "wof:placetype":"locality",

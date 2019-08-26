@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.027422,
     "lbl:longitude":-34.873388,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.027422,
     "mps:longitude":-34.873388,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u09ac\u09c7\u0987\u09b0\u09be"
     ],
@@ -85,7 +88,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681967,
         102191577,
@@ -95,7 +98,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"f2ddfc195431cdc70bb1c4a1d1f40509",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101987869,
-    "wof:lastmodified":1564141732,
+    "wof:lastmodified":1566625553,
     "wof:name":"Ribeira",
     "wof:parent_id":404560049,
     "wof:placetype":"locality",

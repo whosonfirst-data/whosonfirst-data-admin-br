@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.771944,
     "lbl:longitude":-37.012491,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.771944,
     "mps:longitude":-37.012491,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kapibara"
     ],
@@ -274,7 +277,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2817,
     "wof:belongsto":[
         102191577,
@@ -285,7 +288,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3403117,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q131538"
     },
     "wof:country":"BR",
@@ -300,7 +303,7 @@
         }
     ],
     "wof:id":101966759,
-    "wof:lastmodified":1563245259,
+    "wof:lastmodified":1566625042,
     "wof:name":"Capivara",
     "wof:parent_id":102050281,
     "wof:placetype":"locality",

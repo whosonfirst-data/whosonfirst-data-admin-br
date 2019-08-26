@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.910251,
     "lbl:longitude":-44.518141,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.910251,
     "mps:longitude":-44.518141,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u09bf\u099f\u09bf\u0999\u09cd\u0997\u09be"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -124,7 +127,7 @@
     "wof:concordances":{
         "gn:id":3447789,
         "gp:id":451780,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1789225",
         "wk:page":"Seritinga"
     },
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101952853,
-    "wof:lastmodified":1561841089,
+    "wof:lastmodified":1566623797,
     "wof:name":"Seritinga",
     "wof:parent_id":404558485,
     "wof:placetype":"locality",

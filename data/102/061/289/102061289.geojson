@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-22.53314,
     "lbl:longitude":-47.751828,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-22.53314,
     "mps:longitude":-47.751828,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u099a\u09be\u09b0\u09cd\u0995\u09c1\u09af\u09bc\u09c7\u0986\u09a1\u09be"
     ],
@@ -115,7 +118,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.509722,
     "wd:longitude":-47.778056,
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":102061289,
-    "wof:lastmodified":1563235235,
+    "wof:lastmodified":1566619361,
     "wof:name":"Charqueada",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.648487,
     "lbl:longitude":-53.13477,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.648487,
     "mps:longitude":-53.13477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u09be\u09b9\u09cd\u09af"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -129,7 +132,6 @@
         "fct:id":"03885bd0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316387,
         "gp:id":26804105,
-        "qs:id":1158824,
         "qs_pg:id":1158824,
         "wd:id":"Q970744",
         "wk:page":"Anahy"
@@ -149,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841028,
+    "wof:lastmodified":1566623306,
     "wof:name":"Anahy",
     "wof:parent_id":102057431,
     "wof:placetype":"locality",

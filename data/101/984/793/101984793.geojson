@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.408045,
     "lbl:longitude":-41.939732,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.408045,
     "mps:longitude":-41.939732,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cantagalo"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -79,7 +82,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e0898024f94035ffe5a4512b819451aa",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101984793,
-    "wof:lastmodified":1564140009,
+    "wof:lastmodified":1566624078,
     "wof:name":"Cantagalo",
     "wof:parent_id":102058453,
     "wof:placetype":"locality",

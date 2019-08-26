@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.457455,
     "lbl:longitude":-35.942918,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-8.457455,
     "mps:longitude":-35.942918,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u0997\u09cd\u09b0\u09c7\u09b8\u099f\u09bf\u09a8\u09be"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Agrestina"
     ],
-    "name:unk_x_variant":[
-        "Bebedouro"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06af\u0631\u0633\u062a\u06cc\u0646\u0627"
     ],
@@ -121,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681973,
@@ -135,7 +135,6 @@
         "fct:id":"0386ede0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3408251,
         "gp:id":456621,
-        "qs:id":815497,
         "qs_pg:id":815497,
         "wd:id":"Q1787629",
         "wk:page":"Agrestina"
@@ -156,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841101,
+    "wof:lastmodified":1566623873,
     "wof:name":"Agrestina",
     "wof:parent_id":404560103,
     "wof:placetype":"locality",

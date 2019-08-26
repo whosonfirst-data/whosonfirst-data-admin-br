@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.385227,
     "lbl:longitude":-44.96806,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-22.385227,
     "mps:longitude":-44.96806,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b8\u09b8\u09be \u0995\u09c1\u09f1\u09be\u099f\u09cd\u09b0\u09cb"
     ],
@@ -89,7 +92,7 @@
     "name:swe_x_preferred":[
         "Passa Quatro"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Passo Quatro"
     ],
     "name:vie_x_preferred":[
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -135,7 +138,6 @@
         "fct:id":"03862c02-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3454901,
         "gp:id":443014,
-        "qs:id":1134200,
         "qs_pg:id":1134200,
         "wd:id":"Q1638378"
     },
@@ -155,7 +157,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244694,
+    "wof:lastmodified":1566624784,
     "wof:name":"Passa Quatro",
     "wof:parent_id":404557563,
     "wof:placetype":"locality",

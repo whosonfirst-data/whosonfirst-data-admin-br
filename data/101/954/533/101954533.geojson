@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.934947,
     "lbl:longitude":-40.40496,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-19.934947,
     "mps:longitude":-40.40496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09c1\u09a8\u09cd\u09a1\u09af\u09bc\u09be\u0993"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681921,
@@ -123,7 +126,6 @@
         "fct:id":"038a1c68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3462882,
         "gp:id":457202,
-        "qs:id":818400,
         "qs_pg:id":818400,
         "wd:id":"Q593133"
     },
@@ -143,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841022,
+    "wof:lastmodified":1566623274,
     "wof:name":"Fund\u00e3o",
     "wof:parent_id":404554339,
     "wof:placetype":"locality",

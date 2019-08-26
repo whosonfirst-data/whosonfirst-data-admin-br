@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.787307,
     "lbl:longitude":-41.895141,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.787307,
     "mps:longitude":-41.895141,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Concei\u00e7\u00e3o"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":114,
     "wof:belongsto":[
         85681895,
@@ -81,7 +84,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"624527213d13c5a67fcefaede1fdd508",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101971121,
-    "wof:lastmodified":1564140539,
+    "wof:lastmodified":1566624450,
     "wof:name":"Concei\u00e7\u00e3o",
     "wof:parent_id":404550569,
     "wof:placetype":"locality",

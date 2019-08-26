@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-4.564818,
     "lbl:longitude":-37.764002,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-4.564818,
     "mps:longitude":-37.764002,
     "mz:hierarchy_label":1,
@@ -92,9 +94,6 @@
     ],
     "name:swe_x_preferred":[
         "Aracati"
-    ],
-    "name:unk_x_variant":[
-        "Aracaty"
     ],
     "name:vie_x_preferred":[
         "Aracati"
@@ -217,7 +216,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -231,7 +230,6 @@
         "fct:id":"0386a6b4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3407378,
         "gp:id":456044,
-        "qs:id":1044528,
         "qs_pg:id":1044528,
         "wd:id":"Q1754397"
     },
@@ -251,7 +249,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245295,
+    "wof:lastmodified":1566625063,
     "wof:name":"Aracati",
     "wof:parent_id":404552365,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-18.76197,
     "lbl:longitude":-44.434004,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-18.76197,
     "mps:longitude":-44.434004,
     "mz:hierarchy_label":1,
@@ -86,9 +88,6 @@
     ],
     "name:swe_x_preferred":[
         "Curvelo"
-    ],
-    "name:unk_x_variant":[
-        "Curvello"
     ],
     "name:vie_x_preferred":[
         "Curvelo"
@@ -214,7 +213,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -228,7 +227,6 @@
         "fct:id":"03871ec8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3464891,
         "gp:id":457114,
-        "qs:id":274352,
         "qs_pg:id":274352,
         "wd:id":"Q1749748",
         "wk:page":"Curvelo"
@@ -249,7 +247,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246301,
+    "wof:lastmodified":1566625513,
     "wof:name":"Curvelo",
     "wof:parent_id":404556141,
     "wof:placetype":"locality",

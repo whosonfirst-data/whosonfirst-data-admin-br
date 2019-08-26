@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.077464,
     "lbl:longitude":-49.628866,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.077464,
     "mps:longitude":-49.628866,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u0997\u09c1\u09f1\u09be\u09b0\u09bf\u099f\u09be"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":6317740,
         "gp:id":26804152,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"36fe804cee258fb37e19178078984a93",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101960907,
-    "wof:lastmodified":1564141463,
+    "wof:lastmodified":1566625270,
     "wof:name":"Nova Guarita",
     "wof:parent_id":404565919,
     "wof:placetype":"locality",

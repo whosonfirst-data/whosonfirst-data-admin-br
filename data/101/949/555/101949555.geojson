@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.818197,
     "lbl:longitude":-41.301965,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-13.818197,
     "mps:longitude":-41.301965,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09c1\u09af\u09bc\u09be\u0995\u09c1"
     ],
@@ -81,9 +84,6 @@
     "name:rus_x_preferred":[
         "\u0418\u0442\u0443\u0430\u0441\u0443"
     ],
-    "name:unk_x_variant":[
-        "Ituass\u00fa"
-    ],
     "name:vie_x_preferred":[
         "Itua\u00e7u"
     ],
@@ -113,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -127,7 +127,6 @@
         "fct:id":"0387391c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460531,
         "gp:id":457376,
-        "qs:id":339203,
         "qs_pg:id":339203,
         "wd:id":"Q1795113"
     },
@@ -147,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841149,
+    "wof:lastmodified":1566624576,
     "wof:name":"Itua\u00e7u",
     "wof:parent_id":404551253,
     "wof:placetype":"locality",

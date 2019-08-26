@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.267174,
     "lbl:longitude":-37.901523,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.267174,
     "mps:longitude":-37.901523,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sucupira"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3387169,
         "gp:id":456303,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"35fb8266b31bceaaf99f7bc495b11582",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101977757,
-    "wof:lastmodified":1564139804,
+    "wof:lastmodified":1566623967,
     "wof:name":"Sucupira",
     "wof:parent_id":404553253,
     "wof:placetype":"locality",

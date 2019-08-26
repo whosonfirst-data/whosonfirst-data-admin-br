@@ -9,17 +9,19 @@
     "geom:bbox":"-56.3537195865,-14.7344651396,-56.300113401,-14.6927623041",
     "geom:latitude":-14.713601,
     "geom:longitude":-56.326765,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":12009,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:population":12009,
     "iso:country":"BR",
     "lbl:latitude":-14.711355,
     "lbl:longitude":-56.319658,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-14.711355,
     "mps:longitude":-56.319658,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ac\u09cd\u09b0\u09c7\u09b8"
     ],
@@ -77,9 +79,6 @@
     "name:spa_x_preferred":[
         "Nobres"
     ],
-    "name:unk_x_variant":[
-        "Bananal Nobre"
-    ],
     "name:vie_x_preferred":[
         "Nobres"
     ],
@@ -125,7 +124,7 @@
     "qs_pg:woe_id":457664,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681955,
@@ -139,7 +138,6 @@
         "fct:id":"0387562c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456277,
         "gp:id":457664,
-        "qs:id":339267,
         "qs_pg:id":339267,
         "wd:id":"Q1805596"
     },
@@ -159,7 +157,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841191,
+    "wof:lastmodified":1566624977,
     "wof:name":"Nobres",
     "wof:parent_id":404559267,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.279006,
     "lbl:longitude":-49.308208,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.279006,
     "mps:longitude":-49.308208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barrac\u00e3o"
     ],
@@ -67,7 +70,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         85682021,
@@ -80,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3470758,
         "gp:id":457703,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"66a44e14c7a98a07767198634dd5461b",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101957897,
-    "wof:lastmodified":1564141045,
+    "wof:lastmodified":1566624847,
     "wof:name":"Barrac\u00e3o",
     "wof:parent_id":404565663,
     "wof:placetype":"locality",

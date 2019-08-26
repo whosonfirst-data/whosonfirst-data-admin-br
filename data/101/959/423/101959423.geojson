@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.117755,
     "lbl:longitude":-52.77908,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.117755,
     "mps:longitude":-52.77908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u0995\u09c1\u09af\u09bc\u09c7\u0987\u09b0\u09cb\u09b8 \u09a1\u09cb \u09b8\u09c1\u09b2"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -125,7 +128,7 @@
         "fct:id":"03881184-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6318986,
         "gp:id":430243,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1749866",
         "wk:page":"Coqueiros do Sul"
     },
@@ -145,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841203,
+    "wof:lastmodified":1566625086,
     "wof:name":"Coqueiros do Sul",
     "wof:parent_id":404563413,
     "wof:placetype":"locality",

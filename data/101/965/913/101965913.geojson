@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.642131,
     "lbl:longitude":-45.361781,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.642131,
     "mps:longitude":-45.361781,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0628\u064a\u062a"
     ],
@@ -241,7 +244,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":545,
     "wof:belongsto":[
         85681941,
@@ -253,7 +256,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8477263,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q131449"
     },
     "wof:country":"BR",
@@ -269,7 +272,7 @@
         }
     ],
     "wof:id":101965913,
-    "wof:lastmodified":1563241768,
+    "wof:lastmodified":1566623450,
     "wof:name":"Flora",
     "wof:parent_id":404558619,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.774386,
     "lbl:longitude":-39.171807,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-12.774386,
     "mps:longitude":-39.171807,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a8\u09cd\u09b8\u09c7\u0987\u0995\u09af\u09bc\u09be\u0993 \u09a1\u09cb \u0986\u09b2\u09ae\u09c7\u0987\u09a1\u09be"
     ],
@@ -80,7 +83,7 @@
     "name:spa_x_preferred":[
         "Concei\u00e7\u00e3o do Almeida"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Affonso Penna"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +113,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -124,7 +127,7 @@
         "fct:id":"03889640-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465752,
         "gp:id":420857,
-        "qs:id":883762,
+        "qs_pg:id":883762,
         "wd:id":"Q1772585"
     },
     "wof:country":"BR",
@@ -143,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841138,
+    "wof:lastmodified":1566624386,
     "wof:name":"Concei\u00e7\u00e3o do Almeida",
     "wof:parent_id":404550811,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.893869,
     "lbl:longitude":-52.605192,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.893869,
     "mps:longitude":-52.605192,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u043d\u0456\u0442\u0430 \u0413\u0430\u0440\u044b\u0431\u0430\u043b\u044c\u0434\u0437\u0456"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -80,7 +83,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"ca93d2c9c27833287c0849e8d7302d91",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101959539,
-    "wof:lastmodified":1564141287,
+    "wof:lastmodified":1566625102,
     "wof:name":"Anita Garibaldi",
     "wof:parent_id":404566007,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.804335,
     "lbl:longitude":-37.79676,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.804335,
     "mps:longitude":-37.79676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09cd\u09a8\u09be\u0987\u09ac\u09be"
     ],
@@ -68,9 +71,6 @@
     "name:sco_x_preferred":[
         "Carna\u00edba"
     ],
-    "name:unk_x_variant":[
-        "Carnahyba"
-    ],
     "name:vie_x_preferred":[
         "Carna\u00edba"
     ],
@@ -100,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":161,
     "wof:belongsto":[
         85681973,
@@ -114,7 +114,6 @@
         "fct:id":"03803c34-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3402849,
         "gp:id":428601,
-        "qs:id":1246725,
         "qs_pg:id":1246725,
         "wd:id":"Q2064956",
         "wk:page":"Carna\u00edba"
@@ -135,7 +134,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841144,
+    "wof:lastmodified":1566624423,
     "wof:name":"Carna\u00edba",
     "wof:parent_id":404560267,
     "wof:placetype":"locality",

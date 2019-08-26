@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.315612,
     "lbl:longitude":-50.904139,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.315612,
     "mps:longitude":-50.904139,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u0627\u0646\u062f\u064a\u0627"
     ],
@@ -98,9 +101,6 @@
     "name:swe_x_preferred":[
         "Israel\u00e2ndia"
     ],
-    "name:unk_x_variant":[
-        "Monc\u00e3o do Vaz"
-    ],
     "name:vie_x_preferred":[
         "Israel\u00e2ndia"
     ],
@@ -128,7 +128,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":351,
     "wof:belongsto":[
         85681925,
@@ -142,7 +142,7 @@
         "fct:id":"0387bb44-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460982,
         "gp:id":459692,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q985190",
         "wk:page":"Israel\u00e2ndia"
     },
@@ -162,7 +162,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241865,
+    "wof:lastmodified":1566623501,
     "wof:name":"Israel\u00e2ndia",
     "wof:parent_id":404554809,
     "wof:placetype":"locality",

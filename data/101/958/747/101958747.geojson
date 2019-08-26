@@ -9,14 +9,17 @@
     "geom:bbox":"-54.0023534562,-27.494464908,-53.9947465733,-27.4830762696",
     "geom:latitude":-27.489395,
     "geom:longitude":-53.999,
-    "geonames:id":"3455574,3458973",
+    "gn:id":"3455574,3458973",
     "iso:country":"BR",
     "lbl:latitude":-27.489663,
     "lbl:longitude":-53.99926,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.489663,
     "mps:longitude":-53.99926,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u099c\u09c7\u0986\u09a1\u09cb \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
     ],
@@ -86,7 +89,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -97,7 +100,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":438168,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"9b4f82c46d87ebd9bd10dcac269bc26f",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101958747,
-    "wof:lastmodified":1564141425,
+    "wof:lastmodified":1566625228,
     "wof:name":"Lajeado Grande",
     "wof:parent_id":404563443,
     "wof:placetype":"locality",

@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-10.587273,
     "lbl:longitude":-46.550109,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-10.587273,
     "mps:longitude":-46.550109,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u099f\u09c7\u0987\u09b0\u09cb\u09b8"
     ],
@@ -112,7 +115,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":166,
     "wof:belongsto":[
         102191577,
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":102062605,
-    "wof:lastmodified":1563234438,
+    "wof:lastmodified":1566618714,
     "wof:name":"Mateiros",
     "wof:parent_id":85682053,
     "wof:placetype":"county",

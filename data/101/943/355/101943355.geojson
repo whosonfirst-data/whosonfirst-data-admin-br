@@ -9,14 +9,17 @@
     "geom:bbox":"-44.5928243348,-9.49868319764,-44.5758811909,-9.47786530331",
     "geom:latitude":-9.48817,
     "geom:longitude":-44.582823,
-    "geonames:id":"3390731,6318108",
+    "gn:id":"3390731,6318108",
     "iso:country":"BR",
     "lbl:latitude":-9.487867,
     "lbl:longitude":-44.582695,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.487867,
     "mps:longitude":-44.582695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09c7\u09a1\u09c7\u09a8\u0995\u09af\u09bc\u09be\u0993 \u09a1\u09cb \u0997\u09c1\u09b0\u09cd\u0997\u09c1\u0987\u09af\u09bc\u09be"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":149,
     "wof:belongsto":[
         102191577,
@@ -112,9 +115,11 @@
     "wof:concordances":{
         "gn:id":6318108,
         "gp:id":446479,
-        "qs:id":3,
-        "qs_pg:id":367385,
+        "qs_pg:id":3,
         "wd:id":"Q1848362"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":367385
     },
     "wof:country":"BR",
     "wof:geomhash":"339b9595040867e592e0fb4c238ce6b0",
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":101943355,
-    "wof:lastmodified":1561841302,
+    "wof:lastmodified":1566626075,
     "wof:name":"Reden\u00e7\u00e3o do Gurgu\u00e9ia",
     "wof:parent_id":102057281,
     "wof:placetype":"locality",

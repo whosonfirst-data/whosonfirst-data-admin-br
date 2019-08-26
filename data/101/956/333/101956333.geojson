@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.835709,
     "lbl:longitude":-45.271302,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-22.835709,
     "mps:longitude":-45.271302,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u099f\u09bf\u09ae"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.842778,
     "wd:longitude":-45.251389,
@@ -119,7 +122,6 @@
         "fct:id":"0388dfb0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6318041,
         "gp:id":26804098,
-        "qs:id":320962,
         "qs_pg:id":320962,
         "wd:id":"Q1795824",
         "wk:page":"Potim"
@@ -139,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246038,
+    "wof:lastmodified":1566625387,
     "wof:name":"Potim",
     "wof:parent_id":102062015,
     "wof:placetype":"locality",

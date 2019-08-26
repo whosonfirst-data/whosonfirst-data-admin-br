@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6633319.754741,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-48.511221,-27.687713,-48.511221,-27.687713",
     "geom:latitude":-27.687713,
     "geom:longitude":-48.511221,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-48.516221,-27.692713,-48.506221,-27.682713",
     "lbl:latitude":-27.687713,
     "lbl:longitude":-48.511221,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-27.688952,
     "mps:longitude":-48.511871,
     "mz:hierarchy_label":0,
@@ -60,9 +62,6 @@
     "name:spa_x_preferred":[
         "Aut\u00f3dromo Oscar y Juan G\u00e1lvez"
     ],
-    "name:unk_x_variant":[
-        "Aut\u00f3dromo"
-    ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_id":0,
     "qs:gn_local":3463237,
@@ -88,19 +87,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682021,
         102191577,
         404565403,
         85633009,
         101958179,
-        102060383
+        102060383,
+        85682021
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56066995,
-        "qs:id":231110
+        "qs_pg:id":231110
     },
     "wof:country":"BR",
     "wof:geomhash":"a33337e2c286c2538f92d142f71b843e",
@@ -119,7 +118,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859202,
+    "wof:lastmodified":1566620777,
     "wof:name":"Aut\u00f3dromo",
     "wof:parent_id":101958179,
     "wof:placetype":"neighbourhood",

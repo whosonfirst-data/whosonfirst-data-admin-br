@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.084253,
     "lbl:longitude":-41.967162,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.084253,
     "mps:longitude":-41.967162,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u0641\u0648\u0631\u0627\u062f\u0627"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -98,7 +101,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"2f982fff5e94c9435f874953113f1f7b",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101971083,
-    "wof:lastmodified":1564140504,
+    "wof:lastmodified":1566624433,
     "wof:name":"Alvorada",
     "wof:parent_id":404550851,
     "wof:placetype":"locality",

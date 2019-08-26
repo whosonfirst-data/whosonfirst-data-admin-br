@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-1.428799,
     "lbl:longitude":-47.912959,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-1.428799,
     "mps:longitude":-47.912959,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09a8\u09b9\u09be\u09a8\u0997\u09be\u09aa\u09bf"
     ],
@@ -76,9 +79,6 @@
     "name:swe_x_preferred":[
         "Inhangapi"
     ],
-    "name:unk_x_variant":[
-        "Inhangapy"
-    ],
     "name:vie_x_preferred":[
         "Inhangapi"
     ],
@@ -111,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -123,7 +123,6 @@
         "fct:id":"03827242-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3398195,
         "gp:id":457299,
-        "qs:id":1246782,
         "qs_pg:id":1246782,
         "wd:id":"Q1880531",
         "wk:page":"Inhangapi"
@@ -143,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841284,
+    "wof:lastmodified":1566625868,
     "wof:name":"Inhangapi",
     "wof:parent_id":102055785,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.021826,
     "lbl:longitude":-43.410983,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.021826,
     "mps:longitude":-43.410983,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09cd\u099f\u09cb \u09b0\u09bf\u0993 \u09a1\u09cb\u09b8\u09c7"
     ],
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -128,7 +131,7 @@
         "fct:id":"0385737a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472433,
         "gp:id":421589,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1757130",
         "wk:page":"Alto Rio Doce"
     },
@@ -148,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841146,
+    "wof:lastmodified":1566624555,
     "wof:name":"Alto Rio Doce",
     "wof:parent_id":404555199,
     "wof:placetype":"locality",

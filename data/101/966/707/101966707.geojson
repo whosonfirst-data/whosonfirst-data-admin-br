@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.804999,
     "lbl:longitude":-37.623207,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-11.804999,
     "mps:longitude":-37.623207,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Conde"
     ],
@@ -84,9 +87,6 @@
     "name:spa_x_preferred":[
         "Conde"
     ],
-    "name:unk_x_variant":[
-        "Nossa Senhora do Monte de Itapicuru da Praia"
-    ],
     "name:vol_x_preferred":[
         "Conde"
     ],
@@ -113,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -127,7 +127,6 @@
         "fct:id":"0386b406-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465713,
         "gp:id":456150,
-        "qs:id":949170,
         "qs_pg:id":949170,
         "wd:id":"Q1003399"
     },
@@ -147,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841196,
+    "wof:lastmodified":1566625007,
     "wof:name":"Conde",
     "wof:parent_id":404550833,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-1.852905,
     "lbl:longitude":-65.578981,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-1.852905,
     "mps:longitude":-65.578981,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09be\u09af\u09bc\u09be"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         102191577,
@@ -117,10 +120,12 @@
     "wof:concordances":{
         "gn:id":3663475,
         "gp:id":457532,
-        "qs:id":7,
-        "qs_pg:id":584576,
+        "qs_pg:id":7,
         "wd:id":"Q1763270",
         "wk:page":"Mara\u00e3"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":584576
     },
     "wof:country":"BR",
     "wof:geomhash":"d3ab45ba56e9ece14e681e5969ac1e0d",
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":101941627,
-    "wof:lastmodified":1561841128,
+    "wof:lastmodified":1566624290,
     "wof:name":"Mara\u00e3",
     "wof:parent_id":102050375,
     "wof:placetype":"locality",

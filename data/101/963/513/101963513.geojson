@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.128359,
     "lbl:longitude":-51.512279,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.128359,
     "mps:longitude":-51.512279,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u1201\u1208\u1275"
     ],
@@ -205,7 +208,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -215,7 +218,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"42392291680d7ea3abde4a690fbdd00b",
@@ -230,7 +233,7 @@
         }
     ],
     "wof:id":101963513,
-    "wof:lastmodified":1564139420,
+    "wof:lastmodified":1566623615,
     "wof:name":"2",
     "wof:parent_id":404563079,
     "wof:placetype":"locality",

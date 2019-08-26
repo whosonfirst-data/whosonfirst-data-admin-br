@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.666211,
     "lbl:longitude":-35.103834,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-7.666211,
     "mps:longitude":-35.103834,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u0995\u09c1\u0987\u099f\u09bf\u0999\u09cd\u0997\u09be"
     ],
@@ -68,7 +71,7 @@
     "name:rus_x_preferred":[
         "\u0418\u0442\u0430\u043a\u0438\u0442\u0438\u043d\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Areias"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +104,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -114,7 +117,7 @@
         "fct:id":"0385ecf6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3397886,
         "gp:id":56073222,
-        "qs:id":147711,
+        "qs_pg:id":147711,
         "wd:id":"Q2010908",
         "wk:page":"Itaquitinga"
     },
@@ -133,7 +136,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841108,
+    "wof:lastmodified":1566623915,
     "wof:name":"Itaquitinga",
     "wof:parent_id":102056681,
     "wof:placetype":"locality",

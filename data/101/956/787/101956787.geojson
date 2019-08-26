@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.099528,
     "lbl:longitude":-52.870497,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-25.099528,
     "mps:longitude":-52.870497,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09b0\u09be\u09a8\u09bf\u09af\u09bc\u09be\u0995\u09c1"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681983,
@@ -114,7 +117,6 @@
         "fct:id":"03872b5c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461892,
         "gp:id":457242,
-        "qs:id":818524,
         "qs_pg:id":818524,
         "wd:id":"Q1803606"
     },
@@ -134,7 +136,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841253,
+    "wof:lastmodified":1566625416,
     "wof:name":"Guarania\u00e7u",
     "wof:parent_id":404561199,
     "wof:placetype":"locality",

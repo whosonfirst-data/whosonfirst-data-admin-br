@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.454511,
     "lbl:longitude":-45.925818,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.454511,
     "mps:longitude":-45.925818,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0641\u0644\u0648\u0631\u064a\u0633"
     ],
@@ -196,7 +199,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -206,7 +209,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":459019,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"fa872742945f13ca84d4fd7e67c375f4",
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":101978709,
-    "wof:lastmodified":1564140341,
+    "wof:lastmodified":1566624319,
     "wof:name":"Flores",
     "wof:parent_id":102052949,
     "wof:placetype":"locality",

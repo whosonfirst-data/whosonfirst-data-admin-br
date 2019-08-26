@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.813832,
     "lbl:longitude":-42.154298,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.813832,
     "mps:longitude":-42.154298,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mundo Novo"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -74,7 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3394176,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e6bb4f5691fc85075595663a20922e31",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101985007,
-    "wof:lastmodified":1564140630,
+    "wof:lastmodified":1566624498,
     "wof:name":"Mundo Novo",
     "wof:parent_id":102057079,
     "wof:placetype":"locality",

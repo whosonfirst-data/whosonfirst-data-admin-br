@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.087067,
     "lbl:longitude":-48.155495,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.087067,
     "mps:longitude":-48.155495,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0424\u043b\u0430\u0440\u044d\u0441\u0442\u0430"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -92,7 +95,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":458432,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"928f382e672709e3285efd702142835d",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101989101,
-    "wof:lastmodified":1564142157,
+    "wof:lastmodified":1566625788,
     "wof:name":"Floresta",
     "wof:parent_id":102062751,
     "wof:placetype":"locality",

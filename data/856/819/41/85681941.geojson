@@ -36,6 +36,7 @@
     ],
     "lbl:latitude":-18.509838,
     "lbl:longitude":-44.291828,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-18.509838,
     "mps:longitude":-44.291828,
     "mz:hierarchy_label":1,
@@ -333,7 +334,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043d\u0430\u0441-\u0416\u0435\u0440\u0430\u0439\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Minas Geraes"
     ],
     "name:urd_x_preferred":[
@@ -440,9 +441,9 @@
     "qs:type":"Estado",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-08-01",
+    "src:population_date":"2010-08-01",
     "statoids:area_km":"586,522",
     "statoids:area_mi":"226,457",
     "statoids:as_of_date":"2010-08-01",
@@ -487,11 +488,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565660999,
+    "wof:lastmodified":1566620875,
     "wof:name":"Minas Gerais",
     "wof:parent_id":85633009,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":19597330,
     "wof:population_rank":14,

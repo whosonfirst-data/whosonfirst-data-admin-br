@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-0.98183,
     "lbl:longitude":-62.939157,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-0.98183,
     "mps:longitude":-62.939157,
     "mz:hierarchy_label":1,
@@ -80,9 +82,6 @@
     ],
     "name:spa_x_preferred":[
         "Barcelos"
-    ],
-    "name:unk_x_variant":[
-        "Barcellos"
     ],
     "name:vie_x_preferred":[
         "Barcelos"
@@ -205,7 +204,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -218,7 +217,6 @@
         "fct:id":"0388abf8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3665098,
         "gp:id":456066,
-        "qs:id":1053889,
         "qs_pg:id":1053889,
         "wd:id":"Q807939"
     },
@@ -237,7 +235,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841128,
+    "wof:lastmodified":1566624293,
     "wof:name":"Barcelos",
     "wof:parent_id":102050303,
     "wof:placetype":"locality",

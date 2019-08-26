@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.312292,
     "lbl:longitude":-40.960909,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.312292,
     "mps:longitude":-40.960909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u09ae\u09cb\u09a8\u09bf\u0995\u09be"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":155,
     "wof:belongsto":[
         85681895,
@@ -99,7 +102,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a05fd30180becf1f2ecc72a7bd183fea",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101971543,
-    "wof:lastmodified":1564140531,
+    "wof:lastmodified":1566624447,
     "wof:name":"Santa M\u00f4nica",
     "wof:parent_id":404551561,
     "wof:placetype":"locality",

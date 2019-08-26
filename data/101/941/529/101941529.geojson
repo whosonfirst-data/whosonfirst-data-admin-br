@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.439809,
     "lbl:longitude":-70.018352,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.439809,
     "mps:longitude":-70.018352,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u098f\u09a8\u09ad\u09bf\u09b0\u09be"
     ],
@@ -79,7 +82,7 @@
     "name:spa_x_preferred":[
         "Envira"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Emvira"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -126,10 +129,12 @@
         "fct:id":"038a68a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3664301,
         "gp:id":56125254,
-        "qs:id":8,
-        "qs_pg:id":584577,
+        "qs_pg:id":8,
         "wd:id":"Q1750090",
         "wk:page":"Envira"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":584577
     },
     "wof:country":"BR",
     "wof:geomhash":"0bdb4d8f04eac66c93ebce4871748259",
@@ -146,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841130,
+    "wof:lastmodified":1566624296,
     "wof:name":"Envira",
     "wof:parent_id":102050337,
     "wof:placetype":"locality",

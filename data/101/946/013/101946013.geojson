@@ -9,14 +9,17 @@
     "geom:bbox":"-38.2169046407,-4.69070611339,-38.2121451736,-4.68463811351",
     "geom:latitude":-4.687509,
     "geom:longitude":-38.215008,
-    "geonames:id":"3396688,6318989",
+    "gn:id":"3396688,6318989",
     "iso:country":"BR",
     "lbl:latitude":-4.687492,
     "lbl:longitude":-38.214963,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.687492,
     "mps:longitude":-38.214963,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u0997\u09cb\u09af\u09bc\u09be \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
     ],
@@ -65,7 +68,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -76,7 +79,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":437949,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"f7efe1efdeee48ebf733bb1e9ff398b5",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101946013,
-    "wof:lastmodified":1564140277,
+    "wof:lastmodified":1566624231,
     "wof:name":"Lagoa Grande",
     "wof:parent_id":404553775,
     "wof:placetype":"locality",

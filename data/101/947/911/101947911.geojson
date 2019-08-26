@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.531074,
     "lbl:longitude":-36.985408,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-9.531074,
     "mps:longitude":-36.985408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u099c\u09cb\u09b0\u09cd \u0987\u09b8\u09bf\u09a1\u09cb\u09b0\u09cb"
     ],
@@ -96,9 +99,6 @@
     "name:spa_x_preferred":[
         "Major Isidoro"
     ],
-    "name:unk_x_variant":[
-        "Sert\u00e3ozinho"
-    ],
     "name:vie_x_preferred":[
         "Major Isidoro"
     ],
@@ -131,7 +131,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681879,
@@ -145,7 +145,6 @@
         "fct:id":"0388b0c6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3395880,
         "gp:id":456316,
-        "qs:id":181347,
         "qs_pg:id":181347,
         "wd:id":"Q1808271",
         "wk:page":"Major Isidoro"
@@ -166,7 +165,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841143,
+    "wof:lastmodified":1566624417,
     "wof:name":"Major Isidoro",
     "wof:parent_id":404550177,
     "wof:placetype":"locality",

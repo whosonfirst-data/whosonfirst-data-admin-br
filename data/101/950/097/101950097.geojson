@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.067095,
     "lbl:longitude":-39.640098,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-14.067095,
     "mps:longitude":-39.640098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09bf\u09b0\u09be\u099f\u09be\u0987\u09af\u09bc\u09be"
     ],
@@ -81,9 +84,6 @@
     "name:spa_x_preferred":[
         "Ibirataia"
     ],
-    "name:unk_x_variant":[
-        "Ubirataia"
-    ],
     "name:vie_x_preferred":[
         "Ibirataia"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -128,7 +128,6 @@
         "fct:id":"03882dfe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461565,
         "gp:id":459624,
-        "qs:id":148243,
         "qs_pg:id":148243,
         "wd:id":"Q1772538"
     },
@@ -148,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841156,
+    "wof:lastmodified":1566624741,
     "wof:name":"Ibirataia",
     "wof:parent_id":404551057,
     "wof:placetype":"locality",

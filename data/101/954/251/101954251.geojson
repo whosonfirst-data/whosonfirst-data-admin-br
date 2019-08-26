@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.899099,
     "lbl:longitude":-41.059197,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-19.899099,
     "mps:longitude":-41.059197,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u09b0\u09be\u09a8\u099c\u09be \u09a1\u09be \u099f\u09c7\u09b0\u09b0\u09be"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681921,
@@ -120,7 +123,6 @@
         "fct:id":"0385fe26-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3458805,
         "gp:id":438353,
-        "qs:id":1045025,
         "qs_pg:id":1045025,
         "wd:id":"Q616506"
     },
@@ -140,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841026,
+    "wof:lastmodified":1566623296,
     "wof:name":"Laranja da Terra",
     "wof:parent_id":404554433,
     "wof:placetype":"locality",

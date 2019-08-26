@@ -13,6 +13,7 @@
     "iso:country":"BR",
     "lbl:latitude":-25.450521,
     "lbl:longitude":-49.361305,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.46026,
     "mps:longitude":-49.374505,
     "mz:hierarchy_label":1,
@@ -138,9 +139,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0433\u0430\u0441\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Augusta"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u06af\u0633\u0679\u0627"
     ],
@@ -175,7 +173,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191577,
         404561111,
@@ -187,7 +185,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943979,
-        "qs:id":1345238
+        "qs_pg:id":1345238
     },
     "wof:country":"BR",
     "wof:geomhash":"8bfedc7d92cb53995e39d2fd53b3ca03",
@@ -206,7 +204,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564134770,
+    "wof:lastmodified":1566620817,
     "wof:name":"Augusta",
     "wof:parent_id":101957995,
     "wof:placetype":"neighbourhood",

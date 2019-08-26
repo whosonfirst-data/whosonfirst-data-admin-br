@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.400225,
     "lbl:longitude":-36.990605,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-9.400225,
     "mps:longitude":-36.990605,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b8\u09bf\u09ae\u09ac\u09bf\u09a8\u09b9\u09be\u09b8"
     ],
@@ -77,9 +80,6 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0441\u0438\u043c\u0431\u0438\u043d\u044c\u044f\u0441"
     ],
-    "name:unk_x_variant":[
-        "Cacimbinha"
-    ],
     "name:vie_x_preferred":[
         "Cacimbinhas"
     ],
@@ -109,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -122,7 +122,6 @@
         "fct:id":"0387a58c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3404257,
         "gp:id":458907,
-        "qs:id":181693,
         "qs_pg:id":181693,
         "wd:id":"Q1808791"
     },
@@ -141,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841139,
+    "wof:lastmodified":1566624397,
     "wof:name":"Cacimbinhas",
     "wof:parent_id":102050083,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.673039,
     "lbl:longitude":-35.18031,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.673039,
     "mps:longitude":-35.18031,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Jo\u00e3o Pereira"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         85681967,
@@ -57,7 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"d2ab61515964c8d528db43fdfffdb939",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101984235,
-    "wof:lastmodified":1564139985,
+    "wof:lastmodified":1566624065,
     "wof:name":"Jo\u00e3o Pereira",
     "wof:parent_id":404559971,
     "wof:placetype":"locality",

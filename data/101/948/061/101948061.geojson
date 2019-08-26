@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-10.278912,
     "lbl:longitude":-36.556461,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-10.278912,
     "mps:longitude":-36.556461,
     "mz:hierarchy_label":1,
@@ -37,9 +39,6 @@
     ],
     "name:swe_x_preferred":[
         "Penedo"
-    ],
-    "name:unk_x_variant":[
-        "S\u00e3o Francisco"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Brazil",
@@ -151,7 +150,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -164,7 +163,6 @@
         "fct:id":"0386d526-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3454231,
         "gp:id":456406,
-        "qs:id":479072,
         "qs_pg:id":479072,
         "wd:id":"Q22035906"
     },
@@ -183,7 +181,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242855,
+    "wof:lastmodified":1566623920,
     "wof:name":"Penedo",
     "wof:parent_id":102050221,
     "wof:placetype":"locality",

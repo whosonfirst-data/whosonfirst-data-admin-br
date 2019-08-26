@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.616144,
     "lbl:longitude":-44.941938,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.616144,
     "mps:longitude":-44.941938,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Campos"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":132,
     "wof:belongsto":[
         85681941,
@@ -91,7 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3467694,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"95d78a91233a4cde44a5e83b6d77f3b8",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101978999,
-    "wof:lastmodified":1564140343,
+    "wof:lastmodified":1566624320,
     "wof:name":"Campos",
     "wof:parent_id":404555783,
     "wof:placetype":"locality",

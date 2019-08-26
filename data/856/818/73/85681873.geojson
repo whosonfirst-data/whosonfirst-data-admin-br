@@ -36,6 +36,7 @@
     ],
     "lbl:latitude":-8.842391,
     "lbl:longitude":-71.446526,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-8.842391,
     "mps:longitude":-71.446526,
     "mz:hierarchy_label":1,
@@ -445,7 +446,7 @@
     "name:ukr_x_variant":[
         "\u0410\u043a\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Territorio do Acre"
     ],
     "name:urd_x_preferred":[
@@ -558,9 +559,9 @@
     "qs:type":"Estado",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-08-01",
+    "src:population_date":"2010-08-01",
     "statoids:area_km":"164,123",
     "statoids:area_mi":"63,368",
     "statoids:as_of_date":"2010-08-01",
@@ -605,11 +606,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565660979,
+    "wof:lastmodified":1566620840,
     "wof:name":"Acre",
     "wof:parent_id":85633009,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":733559,
     "wof:population_rank":11,

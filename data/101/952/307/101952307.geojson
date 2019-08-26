@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.781678,
     "lbl:longitude":-40.982331,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.781678,
     "mps:longitude":-40.982331,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0442\u0435\u043d\u0430"
     ],
@@ -91,9 +94,6 @@
     "name:swe_x_preferred":[
         "Mantena"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Gabriel"
-    ],
     "name:vie_x_preferred":[
         "Mantena"
     ],
@@ -123,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -136,7 +136,6 @@
         "fct:id":"03860754-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457933,
         "gp:id":439434,
-        "qs:id":1156252,
         "qs_pg:id":1156252,
         "wd:id":"Q2008042"
     },
@@ -156,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242347,
+    "wof:lastmodified":1566623737,
     "wof:name":"Mantena",
     "wof:parent_id":404557121,
     "wof:placetype":"locality",

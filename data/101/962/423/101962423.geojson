@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.52922,
     "lbl:longitude":-49.134306,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-14.52922,
     "mps:longitude":-49.134306,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0989\u09b0\u09c1\u0986\u0995\u09c1"
     ],
@@ -91,9 +94,6 @@
     "name:swe_x_preferred":[
         "Urua\u00e7u"
     ],
-    "name:unk_x_variant":[
-        "Santana"
-    ],
     "name:vie_x_preferred":[
         "Urua\u00e7u"
     ],
@@ -123,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681925,
@@ -137,7 +137,6 @@
         "fct:id":"0386eb10-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3445713,
         "gp:id":456590,
-        "qs:id":344447,
         "qs_pg:id":344447,
         "wd:id":"Q22067078"
     },
@@ -157,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241881,
+    "wof:lastmodified":1566623508,
     "wof:name":"Urua\u00e7u",
     "wof:parent_id":404554943,
     "wof:placetype":"locality",

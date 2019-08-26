@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.51961,
     "lbl:longitude":-39.765327,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-6.51961,
     "mps:longitude":-39.765327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u09b0\u09bf\u09a8\u09b9\u09be"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.193611,
     "wd:longitude":-48.163889,
@@ -110,7 +113,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3406102,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"ac60aa84e7922600f4d39c314d9563d5",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101945197,
-    "wof:lastmodified":1564142283,
+    "wof:lastmodified":1566625921,
     "wof:name":"Barrinha",
     "wof:parent_id":404553783,
     "wof:placetype":"locality",

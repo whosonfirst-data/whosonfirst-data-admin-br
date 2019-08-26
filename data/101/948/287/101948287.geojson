@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.313418,
     "lbl:longitude":-35.944849,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-9.313418,
     "mps:longitude":-35.944849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09c1\u09b0\u09bf\u09b8\u09bf"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -128,7 +131,6 @@
         "fct:id":"03875492-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3394116,
         "gp:id":457645,
-        "qs:id":231249,
         "qs_pg:id":231249,
         "wd:id":"Q1795628"
     },
@@ -147,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242745,
+    "wof:lastmodified":1566623880,
     "wof:name":"Murici",
     "wof:parent_id":102050189,
     "wof:placetype":"locality",

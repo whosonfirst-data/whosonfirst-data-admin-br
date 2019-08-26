@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.926188,
     "lbl:longitude":-52.361218,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.926188,
     "mps:longitude":-52.361218,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09be\u09ad\u09c7\u0997\u09be\u09a8\u09cd\u099f\u098f\u09b8"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -97,7 +100,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"18346fe129e554657d8fafc61de79fda",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101967533,
-    "wof:lastmodified":1564141319,
+    "wof:lastmodified":1566625137,
     "wof:name":"Navegantes",
     "wof:parent_id":102059387,
     "wof:placetype":"locality",

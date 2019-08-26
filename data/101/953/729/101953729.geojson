@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.781615,
     "lbl:longitude":-42.366336,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.781615,
     "mps:longitude":-42.366336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09b0\u09cd\u09a1\u09cb\u09af\u09bc\u09be"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":147,
     "wof:belongsto":[
         85681941,
@@ -123,7 +126,7 @@
         "fct:id":"03867252-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3447977,
         "gp:id":451581,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1789104",
         "wk:page":"Sardo\u00e1"
     },
@@ -143,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841048,
+    "wof:lastmodified":1566623414,
     "wof:name":"Sardo\u00e1",
     "wof:parent_id":404558443,
     "wof:placetype":"locality",

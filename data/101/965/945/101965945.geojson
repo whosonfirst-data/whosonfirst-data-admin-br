@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.683224,
     "lbl:longitude":-45.329089,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.683224,
     "mps:longitude":-45.329089,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Amadeu"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         85681941,
@@ -69,7 +72,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q16148772"
     },
     "wof:country":"BR",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101965945,
-    "wof:lastmodified":1563241820,
+    "wof:lastmodified":1566623479,
     "wof:name":"Amadeu",
     "wof:parent_id":404558619,
     "wof:placetype":"locality",

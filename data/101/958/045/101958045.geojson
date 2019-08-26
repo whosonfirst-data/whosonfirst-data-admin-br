@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.674749,
     "lbl:longitude":-49.026027,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.674749,
     "mps:longitude":-49.026027,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Ran\u00e7o-Kueymado"
     ],
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "Rancho Queimado"
     ],
-    "name:unk_x_variant":[
-        "Rancho Quemado"
-    ],
     "name:vie_x_preferred":[
         "Rancho Queimado"
     ],
@@ -123,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -136,7 +136,6 @@
         "fct:id":"038770b2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451833,
         "gp:id":457905,
-        "qs:id":669583,
         "qs_pg:id":669583,
         "wd:id":"Q1764967",
         "wk:page":"Rancho Queimado"
@@ -157,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841223,
+    "wof:lastmodified":1566625244,
     "wof:name":"Rancho Queimado",
     "wof:parent_id":404565775,
     "wof:placetype":"locality",

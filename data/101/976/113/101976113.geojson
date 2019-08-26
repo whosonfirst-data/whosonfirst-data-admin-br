@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.034508,
     "lbl:longitude":-41.073083,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":2.5,
     "mps:latitude":-21.034508,
     "mps:longitude":-41.073083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":2.5,
     "name:abk_x_preferred":[
         "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443"
     ],
@@ -625,7 +628,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":760.0,
     "wd:latitude":-23.5,
@@ -641,7 +644,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3448440,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"4141ac9d7d5b7bf71dab77c3aa593486",
@@ -655,7 +658,7 @@
         }
     ],
     "wof:id":101976113,
-    "wof:lastmodified":1564140958,
+    "wof:lastmodified":1566624717,
     "wof:name":"S\u00e3o Paulo",
     "wof:parent_id":102051949,
     "wof:placetype":"locality",

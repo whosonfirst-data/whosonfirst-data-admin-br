@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.16339,
     "lbl:longitude":-40.754121,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-4.16339,
     "mps:longitude":-40.754121,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09b0\u09be\u09b8\u09bf\u09af\u09bc\u09be\u09ac\u09be \u09a1\u09cb \u09a8\u09cb\u09b0\u09cd\u099f\u09c7"
     ],
@@ -68,7 +71,7 @@
     "name:rus_x_preferred":[
         "\u0413\u0443\u0430\u0440\u0430\u0441\u0438\u0430\u0431\u0430-\u0434\u0443-\u041d\u043e\u0440\u0442\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Campo Grande"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -117,7 +120,6 @@
         "fct:id":"0385d888-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3398569,
         "gp:id":434936,
-        "qs:id":342152,
         "qs_pg:id":342152,
         "wd:id":"Q2027331",
         "wk:page":"Guaraciaba do Norte"
@@ -138,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841296,
+    "wof:lastmodified":1566625968,
     "wof:name":"Guaraciaba do Norte",
     "wof:parent_id":404552917,
     "wof:placetype":"locality",

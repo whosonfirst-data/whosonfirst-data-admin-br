@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-17.981567,
     "lbl:longitude":-44.070804,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-17.981567,
     "mps:longitude":-44.070804,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c7\u0987\u0995\u09cd\u09b8\u09c7\u0987\u09b0\u09be\u09b8"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -105,7 +108,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":422730,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"2d1ebaf18ab85049abdf33cb29e63fa1",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101979665,
-    "wof:lastmodified":1564140247,
+    "wof:lastmodified":1566624207,
     "wof:name":"Teixeiras",
     "wof:parent_id":404555329,
     "wof:placetype":"locality",

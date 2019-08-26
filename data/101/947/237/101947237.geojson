@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.766244,
     "lbl:longitude":-40.367657,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.766244,
     "mps:longitude":-40.367657,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u0997\u09cb\u09af\u09bc\u09be \u09a1\u09cb \u09ac\u09be\u09b0\u09cd\u09b0\u09cb \u09a1\u09cb \u09aa\u09bf\u09af\u09bc\u09be\u0989\u0987"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":151,
     "wof:belongsto":[
         85681973,
@@ -66,7 +69,7 @@
         "fct:id":"0380eec2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3396800,
         "gp:id":437773,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2064717"
     },
     "wof:country":"BR",
@@ -85,7 +88,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243927,
+    "wof:lastmodified":1566624414,
     "wof:name":"Lagoa do Barro",
     "wof:parent_id":404560145,
     "wof:placetype":"locality",

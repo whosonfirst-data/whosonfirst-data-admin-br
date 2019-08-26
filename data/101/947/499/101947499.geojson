@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.67466,
     "lbl:longitude":-38.535061,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.67466,
     "mps:longitude":-38.535061,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a8\u09a1\u09c7\u0987\u09af\u09bc\u09be\u09b8"
     ],
@@ -94,9 +97,6 @@
     "name:swe_x_preferred":[
         "Candeias"
     ],
-    "name:unk_x_variant":[
-        "Nossa Senhora das Candeias"
-    ],
     "name:vol_x_preferred":[
         "Candeias"
     ],
@@ -126,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -139,7 +139,6 @@
         "fct:id":"0389f3aa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3467555,
         "gp:id":456114,
-        "qs:id":342495,
         "qs_pg:id":342495,
         "wd:id":"Q1762379",
         "wk:page":"Candeias"
@@ -160,7 +159,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243833,
+    "wof:lastmodified":1566624385,
     "wof:name":"Candeias",
     "wof:parent_id":404550699,
     "wof:placetype":"locality",

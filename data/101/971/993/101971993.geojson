@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.038691,
     "lbl:longitude":-40.490818,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.038691,
     "mps:longitude":-40.490818,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0644\u0639\u0628 \u062f\u0648\u064a\u0633 \u0627\u0644\u0623\u0648\u0643\u0627\u0644\u0628\u062a\u0648\u0633"
     ],
@@ -60,7 +64,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -71,7 +75,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8438017,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"6068df15ca46ccebf445608a7d13a959",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":101971993,
-    "wof:lastmodified":1501273488,
+    "wof:lastmodified":1566624455,
     "wof:name":"Eucalipto",
     "wof:parent_id":404551599,
     "wof:placetype":"locality",

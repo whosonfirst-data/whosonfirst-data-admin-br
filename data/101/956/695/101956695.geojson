@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.929646,
     "lbl:longitude":-53.13441,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-22.929646,
     "mps:longitude":-53.13441,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09cb\u0986\u09a8\u09a1\u09be"
     ],
@@ -71,9 +74,6 @@
     "name:rus_x_preferred":[
         "\u041b\u043e\u0430\u043d\u0434\u0430"
     ],
-    "name:unk_x_variant":[
-        "Luanda"
-    ],
     "name:vie_x_preferred":[
         "Loanda"
     ],
@@ -103,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -116,7 +116,6 @@
         "fct:id":"03874470-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3458479,
         "gp:id":457488,
-        "qs:id":305403,
         "qs_pg:id":305403,
         "wd:id":"Q1804157"
     },
@@ -135,7 +134,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841244,
+    "wof:lastmodified":1566625369,
     "wof:name":"Loanda",
     "wof:parent_id":102057829,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.130989,
     "lbl:longitude":-54.463712,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.130989,
     "mps:longitude":-54.463712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u099f\u09c7 \u09a1\u09c7 \u09b8\u09c7\u099f\u09c7\u09ae\u09ac\u09cd\u09b0\u09cb"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         102191577,
@@ -111,7 +114,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3447630,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q601766",
         "wk:page":"Sete de Setembro, Rio Grande do Sul"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101958541,
-    "wof:lastmodified":1561841226,
+    "wof:lastmodified":1566625264,
     "wof:name":"Sete de Setembro",
     "wof:parent_id":102060005,
     "wof:placetype":"locality",

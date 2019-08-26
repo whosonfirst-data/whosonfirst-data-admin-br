@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.42934,
     "lbl:longitude":-50.205576,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-22.42934,
     "mps:longitude":-50.205576,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u098f\u099a\u09be\u09aa\u09cb\u09b0\u09be"
     ],
@@ -85,7 +88,7 @@
     "name:swe_x_preferred":[
         "Echapor\u00e3"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bela Vista"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.429444,
     "wd:longitude":-50.200556,
@@ -135,10 +138,12 @@
         "fct:id":"03823d0e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3464366,
         "gp:id":431369,
-        "qs:id":7,
-        "qs_pg:id":148303,
+        "qs_pg:id":7,
         "wd:id":"Q1759751",
         "wk:page":"Echapor\u00e3"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":148303
     },
     "wof:country":"BR",
     "wof:geomhash":"a89f8f06e4e7afaefc4937ec8e64611b",
@@ -155,7 +160,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563240592,
+    "wof:lastmodified":1566622782,
     "wof:name":"Echapor\u00e3",
     "wof:parent_id":102061355,
     "wof:placetype":"locality",

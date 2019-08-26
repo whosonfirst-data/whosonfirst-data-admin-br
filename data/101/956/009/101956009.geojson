@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.460077,
     "lbl:longitude":-47.535744,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-22.460077,
     "mps:longitude":-47.535744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u0997\u09af\u09bc\u09c7\u09b0\u099f\u09cd\u09b0\u09c1\u09a1\u09c7\u09b8"
     ],
@@ -110,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":595.0,
     "wd:latitude":-22.456944,
@@ -128,7 +131,6 @@
         "fct:id":"0386560a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3450225,
         "gp:id":448374,
-        "qs:id":239464,
         "qs_pg:id":239464,
         "wd:id":"Q1222916",
         "wk:page":"Santa Gertrudes"
@@ -148,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245983,
+    "wof:lastmodified":1566625364,
     "wof:name":"Santa Gertrudes",
     "wof:parent_id":102062165,
     "wof:placetype":"locality",

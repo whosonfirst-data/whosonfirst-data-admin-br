@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.077645,
     "lbl:longitude":-41.127285,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-20.077645,
     "mps:longitude":-41.127285,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ab\u09cb\u09a8\u09cd\u09b8\u09cb \u0995\u09b2\u09be\u0989\u09a1\u09bf\u0993"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "Afonso Cl\u00e1udio"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Affonso Claudio"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681921,
@@ -125,7 +128,6 @@
     "wof:concordances":{
         "gn:id":3473129,
         "gp:id":456619,
-        "qs:id":1045232,
         "qs_pg:id":1045232,
         "wd:id":"Q1793672"
     },
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101954219,
-    "wof:lastmodified":1563241420,
+    "wof:lastmodified":1566623287,
     "wof:name":"Afonso Cl\u00e1udio",
     "wof:parent_id":404554093,
     "wof:placetype":"locality",

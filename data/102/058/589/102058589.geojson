@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-6.117167,
     "lbl:longitude":-38.400039,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-6.117167,
     "mps:longitude":-38.400039,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u0989\u099f\u09cb\u09b0\u09cd \u09b8\u09c7\u09ad\u09c7\u09b0\u09bf\u09af\u09bc\u09be\u09a8\u09cb"
     ],
@@ -109,7 +112,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":135,
     "wof:belongsto":[
         102191577,
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":102058589,
-    "wof:lastmodified":1563236271,
+    "wof:lastmodified":1566620019,
     "wof:name":"Doutor Severiano",
     "wof:parent_id":85681999,
     "wof:placetype":"county",

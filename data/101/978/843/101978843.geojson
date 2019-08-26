@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.853694,
     "lbl:longitude":-45.532388,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.853694,
     "mps:longitude":-45.532388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*MA",
     "qs:a1_lc":"21",
@@ -31,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":211,
     "wof:belongsto":[
         102191577,
@@ -41,7 +44,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"6a113bb08de064de34b002619aa4e2ad",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101978843,
-    "wof:lastmodified":1527688362,
+    "wof:lastmodified":1566624327,
     "wof:name":"\u00c1gua Bela",
     "wof:parent_id":102053225,
     "wof:placetype":"locality",

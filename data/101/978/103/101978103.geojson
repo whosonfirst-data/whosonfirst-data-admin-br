@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.440448,
     "lbl:longitude":-47.263758,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.440448,
     "mps:longitude":-47.263758,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u0995\u09be \u09a1\u09be \u09ae\u09be\u099f\u09be"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -110,7 +113,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26803935,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"1876dc398e8fe15533d8b50f8590233f",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101978103,
-    "wof:lastmodified":1564140335,
+    "wof:lastmodified":1566624316,
     "wof:name":"Boca da Mata",
     "wof:parent_id":102053203,
     "wof:placetype":"locality",

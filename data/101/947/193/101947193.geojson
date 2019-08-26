@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.574712,
     "lbl:longitude":-40.5009,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-7.574712,
     "mps:longitude":-40.5009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u09b0\u09bf\u09aa\u09bf\u09a8\u09be"
     ],
@@ -82,9 +85,6 @@
     "name:swe_x_preferred":[
         "Araripina"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Gon\u00e7alo"
-    ],
     "name:vie_x_preferred":[
         "Araripina"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681973,
@@ -131,7 +131,6 @@
         "fct:id":"0388b896-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3407243,
         "gp:id":456707,
-        "qs:id":353277,
         "qs_pg:id":353277,
         "wd:id":"Q626344",
         "wk:page":"Araripina"
@@ -152,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841135,
+    "wof:lastmodified":1566624373,
     "wof:name":"Araripina",
     "wof:parent_id":404560139,
     "wof:placetype":"locality",

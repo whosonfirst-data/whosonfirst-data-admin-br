@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.40795,
     "lbl:longitude":-44.264707,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-22.40795,
     "mps:longitude":-44.264707,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c1\u09f1\u09be\u099f\u09bf\u09b8"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681991,
@@ -114,7 +117,6 @@
         "fct:id":"0386430e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3452148,
         "gp:id":446035,
-        "qs:id":668622,
         "qs_pg:id":668622,
         "wd:id":"Q1800698"
     },
@@ -134,7 +136,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841087,
+    "wof:lastmodified":1566623782,
     "wof:name":"Quatis",
     "wof:parent_id":404562451,
     "wof:placetype":"locality",

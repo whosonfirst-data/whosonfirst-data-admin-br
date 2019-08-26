@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11015460.444036,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-48.483984,-27.689217,-48.483984,-27.689217",
     "geom:latitude":-27.689217,
     "geom:longitude":-48.483984,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-48.488984,-27.694217,-48.478984,-27.684217",
     "lbl:latitude":-27.689217,
     "lbl:longitude":-48.483984,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-27.69498,
     "mps:longitude":-48.481892,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:por_x_preferred":[
-        "Campeche Leste"
-    ],
-    "name:unk_x_variant":[
         "Campeche Leste"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -55,20 +54,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682021,
         102191577,
         404565403,
         85633009,
         101958179,
-        102060383
+        102060383,
+        85682021
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56066991,
-        "qs:id":483602
+        "qs_pg:id":483602
     },
     "wof:country":"BR",
     "wof:geomhash":"5aa3e08796227f823759b27345fd639f",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859201,
+    "wof:lastmodified":1566620777,
     "wof:name":"Campeche Leste",
     "wof:parent_id":101958179,
     "wof:placetype":"neighbourhood",

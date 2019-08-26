@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.32584,
     "lbl:longitude":-52.049545,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.32584,
     "mps:longitude":-52.049545,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09cd\u09aa\u09cb \u09a1\u09cb \u09ae\u09c7\u0987\u0993"
     ],
@@ -31,7 +34,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043c\u043f\u0443-\u0434\u0443-\u041c\u0435\u044e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Erecat\u00fa"
     ],
     "name:zho_x_preferred":[
@@ -52,7 +55,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -65,7 +68,7 @@
         "fct:id":"03832548-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472335,
         "gp:id":458978,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"0c314f71f0dc6b2706902100a4eb8799",
@@ -83,7 +86,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564141296,
+    "wof:lastmodified":1566625111,
     "wof:name":"Campo do Meio",
     "wof:parent_id":404563667,
     "wof:placetype":"locality",

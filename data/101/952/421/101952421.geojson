@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.442577,
     "lbl:longitude":-49.764003,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-22.442577,
     "mps:longitude":-49.764003,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09ad\u09bf\u09a8\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
     ],
@@ -85,7 +88,7 @@
     "name:swe_x_preferred":[
         "Alvinl\u00e2ndia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vila Couto"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.444444,
     "wd:longitude":-49.763333,
@@ -132,7 +135,7 @@
         "fct:id":"03857424-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472408,
         "gp:id":421628,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1750195",
         "wk:page":"Alvinl\u00e2ndia"
     },
@@ -151,7 +154,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841087,
+    "wof:lastmodified":1566623785,
     "wof:name":"Alvinl\u00e2ndia",
     "wof:parent_id":102061027,
     "wof:placetype":"locality",

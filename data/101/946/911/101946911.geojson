@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.251652,
     "lbl:longitude":-34.917821,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-7.251652,
     "mps:longitude":-34.917821,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Conde"
     ],
@@ -65,7 +68,7 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043d\u0434\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jacoca"
     ],
     "name:vol_x_preferred":[
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681967,
@@ -107,7 +110,6 @@
     "wof:concordances":{
         "gn:id":3385077,
         "gp:id":430120,
-        "qs:id":239448,
         "qs_pg:id":239448,
         "wd:id":"Q1999780",
         "wk:page":"Conde, Para\u00edba"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101946911,
-    "wof:lastmodified":1561841125,
+    "wof:lastmodified":1566624276,
     "wof:name":"Conde",
     "wof:parent_id":404559923,
     "wof:placetype":"locality",

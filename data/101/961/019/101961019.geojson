@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.495167,
     "lbl:longitude":-58.577246,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.495167,
     "mps:longitude":-58.577246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be\u09ad\u09be\u0987"
     ],
@@ -107,7 +110,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":150,
     "wof:belongsto":[
         102191577,
@@ -120,7 +123,7 @@
         "fct:id":"0384bdf4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317287,
         "gp:id":461660,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q781642",
         "wk:page":"Indiava\u00ed"
     },
@@ -139,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841192,
+    "wof:lastmodified":1566624982,
     "wof:name":"Indiava\u00ed",
     "wof:parent_id":102055457,
     "wof:placetype":"locality",

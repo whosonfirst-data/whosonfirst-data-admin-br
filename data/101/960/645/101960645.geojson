@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.687268,
     "lbl:longitude":-50.785616,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.687268,
     "mps:longitude":-50.785616,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u099f\u09c7 \u0986\u09b2\u09c7\u0997\u09cd\u09b0\u09c7 \u09a1\u09cb\u09b8 \u0995\u09be\u09ae\u09cd\u09aa\u09cb\u09b8"
     ],
@@ -113,7 +116,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -126,7 +129,7 @@
         "fct:id":"03897862-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317621,
         "gp:id":55944100,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q985495",
         "wk:page":"Monte Alegre dos Campos"
     },
@@ -146,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841229,
+    "wof:lastmodified":1566625280,
     "wof:name":"Monte Alegre dos Campos",
     "wof:parent_id":404563939,
     "wof:placetype":"locality",

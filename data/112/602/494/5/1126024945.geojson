@@ -9,15 +9,18 @@
     "geom:bbox":"-55.74972,-15.46056,-55.74972,-15.46056",
     "geom:latitude":-15.46056,
     "geom:longitude":-55.74972,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":13650,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:population":13650,
     "iso:country":"BR",
+    "lbl:bbox":"-55.76972,-15.48056,-55.72972,-15.44056",
     "lbl:latitude":-15.46056,
     "lbl:longitude":-55.74972,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u099a\u09be\u09aa\u09be\u09a1\u09be \u09a1\u09cb\u09b8 \u0997\u09c1\u0987\u09ae\u09be\u09b0\u09be\u09af\u09bc\u09c7\u09b8"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Chapada dos Guimar\u00e3es"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santana da Chapada"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +118,7 @@
     "qs_pg:woe_adm0":23424768,
     "qs_pg:woe_id":457028,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424768,
     "woe:name_adm0":"Brasil",
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":1126024945,
-    "wof:lastmodified":1563250384,
+    "wof:lastmodified":1566628399,
     "wof:name":"Chapada dos Guimar\u00e3es",
     "wof:parent_id":404559157,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.222627,
     "lbl:longitude":-46.822011,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-23.222627,
     "mps:longitude":-46.822011,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0631\u0632\u064a\u0627 \u0628\u0627\u0648\u0644\u064a\u0633\u062a\u0627"
     ],
@@ -132,7 +135,7 @@
         "V\u00e1rzea Paulista"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0bbe\u0bb0\u0bcd\u0bb8\u0bbf\u0baf\u0bbe  \u0baa\u0bbe\u0bb5\u0bc1\u0bb2\u0bbf\u0bb8\u0bcd\u0b9f\u0bbe"
+        "\u0bb5\u0bbe\u0bb0\u0bcd\u0bb8\u0bbf\u0baf\u0bbe \u0baa\u0bbe\u0bb5\u0bc1\u0bb2\u0bbf\u0bb8\u0bcd\u0b9f\u0bbe"
     ],
     "name:tat_x_preferred":[
         "\u0412\u0430\u0440\u0437\u0435\u0430-\u041f\u0430\u0443\u043b\u0438\u0441\u0442\u0430"
@@ -149,7 +152,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0440\u0437\u0435\u0430-\u041f\u0430\u0443\u043b\u0456\u0441\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Secundino Veiga"
     ],
     "name:urd_x_preferred":[
@@ -184,7 +187,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-23.210833,
     "wd:longitude":-46.827778,
@@ -202,7 +205,6 @@
         "fct:id":"03868b3e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3445446,
         "gp:id":454971,
-        "qs:id":507924,
         "qs_pg:id":507924,
         "wd:id":"Q1759112",
         "wk:page":"V\u00e1rzea Paulista"
@@ -223,7 +225,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241729,
+    "wof:lastmodified":1566623425,
     "wof:name":"V\u00e1rzea Paulista",
     "wof:parent_id":404567619,
     "wof:placetype":"locality",

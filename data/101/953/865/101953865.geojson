@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.16151,
     "lbl:longitude":-42.291855,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-16.16151,
     "mps:longitude":-42.291855,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09b2\u09bf\u09a8\u09be\u09b8"
     ],
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -121,7 +124,6 @@
         "fct:id":"03877954-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3450671,
         "gp:id":457983,
-        "qs:id":210798,
         "qs_pg:id":210798,
         "wd:id":"Q22065209"
     },
@@ -141,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241676,
+    "wof:lastmodified":1566623400,
     "wof:name":"Salinas",
     "wof:parent_id":404558011,
     "wof:placetype":"locality",

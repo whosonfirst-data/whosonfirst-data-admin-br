@@ -9,14 +9,17 @@
     "geom:bbox":"-39.7899324862,-16.5921488965,-39.775262799,-16.5748032485",
     "geom:latitude":-16.583494,
     "geom:longitude":-39.782683,
-    "geonames:id":"3461860,6317238",
+    "gn:id":"3461860,6317238",
     "iso:country":"BR",
     "lbl:latitude":-16.58333,
     "lbl:longitude":-39.782794,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.58333,
     "mps:longitude":-39.782794,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09b0\u09be\u099f\u09bf\u0999\u09cd\u0997\u09be"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -121,9 +124,11 @@
     "wof:concordances":{
         "gn:id":3461860,
         "gp:id":456216,
-        "qs:id":1,
-        "qs_pg:id":95632,
+        "qs_pg:id":1,
         "wd:id":"Q1798829"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":95632
     },
     "wof:country":"BR",
     "wof:geomhash":"a065be0c457bd6013c1373db17ae974d",
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":101949817,
-    "wof:lastmodified":1563244185,
+    "wof:lastmodified":1566624553,
     "wof:name":"Guaratinga",
     "wof:parent_id":404551011,
     "wof:placetype":"locality",

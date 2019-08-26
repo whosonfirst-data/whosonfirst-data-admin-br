@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.006959,
     "lbl:longitude":-67.03911,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.006959,
     "mps:longitude":-67.03911,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Reden\u00e7\u00e3o"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":36,
     "wof:belongsto":[
         102191577,
@@ -74,7 +77,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"54a4fc0057ea13af9df40625a21077f4",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101967099,
-    "wof:lastmodified":1564141340,
+    "wof:lastmodified":1566625155,
     "wof:name":"Reden\u00e7\u00e3o",
     "wof:parent_id":102050009,
     "wof:placetype":"locality",

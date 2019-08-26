@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.672015,
     "lbl:longitude":-36.886134,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-7.672015,
     "mps:longitude":-36.886134,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c1\u09ae\u09c7"
     ],
@@ -85,9 +88,6 @@
     "name:rus_x_preferred":[
         "\u0421\u0443\u043c\u0435"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Tom\u00e9"
-    ],
     "name:vie_x_preferred":[
         "Sum\u00e9"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":152,
     "wof:belongsto":[
@@ -132,7 +132,6 @@
         "fct:id":"038911ce-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3387130,
         "gp:id":456552,
-        "qs:id":777847,
         "qs_pg:id":777847,
         "wd:id":"Q2008324",
         "wk:page":"Sum\u00e9"
@@ -153,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841117,
+    "wof:lastmodified":1566624235,
     "wof:name":"Sum\u00e9",
     "wof:parent_id":404560081,
     "wof:placetype":"locality",

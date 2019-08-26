@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.572104,
     "lbl:longitude":-45.110973,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.572104,
     "mps:longitude":-45.110973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rita"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":233,
     "wof:belongsto":[
         102191577,
@@ -81,7 +84,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":460484,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"866a1c5abb1c2b80ddffe69c3dbbfbe0",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101979185,
-    "wof:lastmodified":1564140268,
+    "wof:lastmodified":1566624217,
     "wof:name":"Rita",
     "wof:parent_id":102052959,
     "wof:placetype":"locality",

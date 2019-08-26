@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.363364,
     "lbl:longitude":-44.979535,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-12.363364,
     "mps:longitude":-44.979535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09a1\u09c7\u09b8\u09bf\u09a1\u09c7\u09b0\u09bf\u0993"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -128,7 +131,6 @@
         "fct:id":"0386e192-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3449304,
         "gp:id":456513,
-        "qs:id":1044853,
         "qs_pg:id":1044853,
         "wd:id":"Q1761582"
     },
@@ -148,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841104,
+    "wof:lastmodified":1566623889,
     "wof:name":"S\u00e3o Desid\u00e9rio",
     "wof:parent_id":404551929,
     "wof:placetype":"locality",

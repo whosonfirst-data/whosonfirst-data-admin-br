@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.773192,
     "lbl:longitude":-42.107537,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.773192,
     "mps:longitude":-42.107537,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Cafarnaum"
     ],
@@ -85,7 +88,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -95,7 +98,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"425b5715004222d15d99cea3e0b99e01",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101981071,
-    "wof:lastmodified":1564142533,
+    "wof:lastmodified":1566626151,
     "wof:name":"Cafarnaum",
     "wof:parent_id":404556355,
     "wof:placetype":"locality",

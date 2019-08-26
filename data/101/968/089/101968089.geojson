@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.079585,
     "lbl:longitude":-49.912879,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-20.079585,
     "mps:longitude":-49.912879,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09cd\u09a1\u09cb\u09b8\u09cb"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682041,
@@ -126,7 +129,6 @@
         "fct:id":"0385a638-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3466970,
         "gp:id":428523,
-        "qs:id":548469,
         "qs_pg:id":548469,
         "wd:id":"Q1649954",
         "wk:page":"Cardoso, S\u00e3o Paulo"
@@ -147,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244948,
+    "wof:lastmodified":1566624901,
     "wof:name":"Cardoso",
     "wof:parent_id":404566305,
     "wof:placetype":"locality",

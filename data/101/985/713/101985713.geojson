@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.817218,
     "lbl:longitude":-39.148389,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.817218,
     "mps:longitude":-39.148389,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Rosa"
     ],
@@ -124,7 +127,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681973,
         102191577,
@@ -136,7 +139,7 @@
     "wof:concordances":{
         "gn:id":3389272,
         "gp:id":443764,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"36d4f9b2661f728d2849dfd7291e5f2e",
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101985713,
-    "wof:lastmodified":1564140640,
+    "wof:lastmodified":1566624505,
     "wof:name":"Santa Rosa",
     "wof:parent_id":404560721,
     "wof:placetype":"locality",

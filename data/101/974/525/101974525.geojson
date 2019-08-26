@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.306186,
     "lbl:longitude":-48.812347,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.306186,
     "mps:longitude":-48.812347,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*GO",
     "qs:a1_lc":"52",
@@ -30,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681925,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":458293,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"4c61d64c4f9a320d9d4268ca8f801c40",
+    "wof:geomhash":"55cfcb9c98fcdbb502df437344a832ad",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101974525,
-    "wof:lastmodified":1479878655,
+    "wof:lastmodified":1566625695,
     "wof:name":"Branapolis",
     "wof:parent_id":404554705,
     "wof:placetype":"locality",

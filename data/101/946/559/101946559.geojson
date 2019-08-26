@@ -9,14 +9,17 @@
     "geom:bbox":"-35.872002472,-7.11105565452,-35.8610770597,-7.09706325535",
     "geom:latitude":-7.104133,
     "geom:longitude":-35.866889,
-    "geonames:id":"3408102,6318608",
+    "gn:id":"3408102,6318608",
     "iso:country":"BR",
     "lbl:latitude":-7.104717,
     "lbl:longitude":-35.867259,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.104717,
     "mps:longitude":-35.867259,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09b8\u09c7\u09ac\u09be\u09b8\u099f\u09bf\u09af\u09bc\u09be\u0993 \u09a1\u09c7 \u09b2\u09be\u0997\u09cb\u09af\u09bc\u09be \u09a1\u09c7 \u09b0\u09cb\u0995\u09be"
     ],
@@ -71,7 +74,7 @@
     "name:swe_x_preferred":[
         "S\u00e3o Sebasti\u00e3o de Lagoa de Ro\u00e7a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bultrim"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":152,
     "wof:belongsto":[
         102191577,
@@ -115,9 +118,11 @@
     "wof:concordances":{
         "gn:id":3408102,
         "gp:id":26804019,
-        "qs:id":9,
-        "qs_pg:id":1118324,
+        "qs_pg:id":9,
         "wd:id":"Q2009298"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1118324
     },
     "wof:country":"BR",
     "wof:geomhash":"0ad5ff6049ff43194f72dfeed609a239",
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":101946559,
-    "wof:lastmodified":1561841114,
+    "wof:lastmodified":1566624222,
     "wof:name":"S\u00e3o Sebasti\u00e3o de Lagoa De Ro\u00e7a",
     "wof:parent_id":102056425,
     "wof:placetype":"locality",

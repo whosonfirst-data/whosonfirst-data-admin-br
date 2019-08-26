@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.257,
     "lbl:longitude":-48.975071,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.257,
     "mps:longitude":-48.975071,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aar_x_preferred":[
         "Robert"
     ],
@@ -751,7 +754,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":769,
     "wof:belongsto":[
         85682041,
@@ -765,7 +768,7 @@
         "fct:id":"03819a7a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451031,
         "gp:id":447431,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4927937"
     },
     "wof:country":"BR",
@@ -784,7 +787,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242597,
+    "wof:lastmodified":1566623835,
     "wof:name":"Roberto",
     "wof:parent_id":404566969,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.086778,
     "lbl:longitude":-43.50836,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.086778,
     "mps:longitude":-43.50836,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09c7\u09b0\u09c1\u09ae\u09c7\u09a8\u09b9\u09be"
     ],
@@ -73,9 +76,6 @@
     "name:swe_x_preferred":[
         "Jerumenha"
     ],
-    "name:unk_x_variant":[
-        "Jeromenha"
-    ],
     "name:vie_x_preferred":[
         "Jerumenha"
     ],
@@ -106,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -118,7 +118,7 @@
         "fct:id":"03873d4a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3397367,
         "gp:id":457423,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2089161",
         "wk:page":"Jerumenha"
     },
@@ -137,7 +137,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841316,
+    "wof:lastmodified":1566626137,
     "wof:name":"Jerumenha",
     "wof:parent_id":102057135,
     "wof:placetype":"locality",

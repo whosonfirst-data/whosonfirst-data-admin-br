@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.659345,
     "lbl:longitude":-49.313107,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.659345,
     "mps:longitude":-49.313107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09be\u099c\u098f\u09a8\u09a1\u09be \u09b0\u09bf\u0993 \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Local urban major",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -112,7 +115,7 @@
         "fct:id":"038a1b00-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317123,
         "gp:id":26804116,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2004440",
         "wk:page":"Fazenda Rio Grande"
     },
@@ -131,7 +134,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244783,
+    "wof:lastmodified":1566624823,
     "wof:name":"Fazenda Rio Grande",
     "wof:parent_id":102057649,
     "wof:placetype":"locality",

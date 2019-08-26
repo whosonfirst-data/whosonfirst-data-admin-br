@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.213315,
     "lbl:longitude":-40.648359,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.213315,
     "mps:longitude":-40.648359,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u09ac\u09c1\u09b2\u09af\u09bc\u09c7\u0987\u09b0\u09cb"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -102,7 +105,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":444419,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"240e4df01951821c9637de26db65aca5",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101976559,
-    "wof:lastmodified":1564140858,
+    "wof:lastmodified":1566624665,
     "wof:name":"Tabuleiro",
     "wof:parent_id":404553647,
     "wof:placetype":"locality",

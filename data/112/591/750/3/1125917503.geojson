@@ -9,14 +9,18 @@
     "geom:bbox":"-52.2575,-30.87833,-52.2575,-30.87833",
     "geom:latitude":-30.87833,
     "geom:longitude":-52.2575,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
+    "lbl:bbox":"-52.2775,-30.89833,-52.2375,-30.85833",
     "lbl:latitude":-30.87833,
     "lbl:longitude":-52.2575,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u099f\u09cd\u09b0\u09cb\u0995\u0987\u09a8\u09bf\u0993"
@@ -69,7 +73,7 @@
     "name:swe_x_preferred":[
         "Patroc\u00ednio"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aboli\u00e7\u00e3o"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +105,7 @@
     "qs_pg:woe_adm0":23424768,
     "qs_pg:woe_id":443149,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424768,
     "woe:name_adm0":"Brasil",
     "woe:name_adm1":"Rio Grande do Sul",
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":1125917503,
-    "wof:lastmodified":1564146122,
+    "wof:lastmodified":1566628427,
     "wof:name":"Patroc\u00ednio",
     "wof:parent_id":102059065,
     "wof:placetype":"locality",

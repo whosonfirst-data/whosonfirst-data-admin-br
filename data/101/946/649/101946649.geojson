@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.155934,
     "lbl:longitude":-35.603665,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.155934,
     "mps:longitude":-35.603665,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u09a8\u09f1\u09be\u09b0\u09bf\u0993 \u09b8\u09bf\u0995\u09cd\u0995\u09cb"
     ],
@@ -98,9 +101,6 @@
     "name:swe_x_preferred":[
         "Janu\u00e1rio Cicco"
     ],
-    "name:unk_x_variant":[
-        "Boa-Sa\u00fade"
-    ],
     "name:vie_x_preferred":[
         "Janu\u00e1rio Cicco"
     ],
@@ -130,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681999,
         102191577,
@@ -143,7 +143,6 @@
         "fct:id":"03873bb0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3397635,
         "gp:id":457403,
-        "qs:id":1056199,
         "qs_pg:id":1056199,
         "wd:id":"Q1802783",
         "wk:page":"Boa Sa\u00fade"
@@ -164,7 +163,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243508,
+    "wof:lastmodified":1566624264,
     "wof:name":"Janu\u00e1rio Cicco",
     "wof:parent_id":404562677,
     "wof:placetype":"locality",

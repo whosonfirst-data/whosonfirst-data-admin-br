@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.962625,
     "lbl:longitude":-42.80892,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.962625,
     "mps:longitude":-42.80892,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u81f4\u9053\u535a\u7269\u9928"
     ],
@@ -33,7 +37,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -45,10 +49,10 @@
     "wof:concordances":{
         "gn:id":3457140,
         "gp:id":457160,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"0be57546731049bfcb4cd252e57eeb2f",
+    "wof:geomhash":"f0e23d59c2f7b0bf86cd67d6b7523e31",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101980659,
-    "wof:lastmodified":1479869249,
+    "wof:lastmodified":1566625719,
     "wof:name":"Mingu",
     "wof:parent_id":404556307,
     "wof:placetype":"locality",

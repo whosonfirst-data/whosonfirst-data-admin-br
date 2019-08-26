@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.989126,
     "lbl:longitude":-42.250822,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.989126,
     "mps:longitude":-42.250822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u0995\u09c1\u0995\u09cb"
     ],
@@ -76,7 +79,7 @@
     "name:spa_x_preferred":[
         "Macuco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Macaco"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -121,7 +124,7 @@
         "fct:id":"03860524-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3458185,
         "gp:id":439005,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1787503",
         "wk:page":"Macuco"
     },
@@ -140,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841041,
+    "wof:lastmodified":1566623375,
     "wof:name":"Macuco",
     "wof:parent_id":102058387,
     "wof:placetype":"locality",

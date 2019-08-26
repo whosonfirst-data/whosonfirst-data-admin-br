@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.568778,
     "lbl:longitude":-43.561406,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.568778,
     "mps:longitude":-43.561406,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u043b\u044c\u0442\u0430\u043c\u0456\u0440\u0430"
     ],
@@ -115,7 +118,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -126,7 +129,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3472492,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"fe41f0bcd523078997f57a00216fca64",
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101980345,
-    "wof:lastmodified":1564142085,
+    "wof:lastmodified":1566625750,
     "wof:name":"Altamira",
     "wof:parent_id":404556943,
     "wof:placetype":"locality",

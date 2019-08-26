@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.248616,
     "lbl:longitude":-45.50514,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.248616,
     "mps:longitude":-45.50514,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be\u09a8\u09be \u09a1\u09be \u09ad\u09be\u09b0\u09cd\u0997\u09c7\u09ae"
     ],
@@ -84,9 +87,6 @@
     "name:swe_x_preferred":[
         "Santana da Vargem"
     ],
-    "name:unk_x_variant":[
-        "Santa Anna da Vargem"
-    ],
     "name:vie_x_preferred":[
         "Santana da Vargem"
     ],
@@ -116,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -129,7 +129,6 @@
         "fct:id":"03877bde-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3449952,
         "gp:id":458012,
-        "qs:id":1156394,
         "qs_pg:id":1156394,
         "wd:id":"Q22065194",
         "wk:page":"Santana da Vargem"
@@ -150,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841086,
+    "wof:lastmodified":1566623776,
     "wof:name":"Santana da Vargem",
     "wof:parent_id":404558093,
     "wof:placetype":"locality",

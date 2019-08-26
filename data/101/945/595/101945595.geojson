@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.728945,
     "lbl:longitude":-39.009721,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.728945,
     "mps:longitude":-39.009721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09cb\u09b2\u09cb\u09a8\u09cb\u09aa\u09cb\u09b2\u09c7"
     ],
@@ -84,9 +87,6 @@
     "name:swe_x_preferred":[
         "Solon\u00f3pole"
     ],
-    "name:unk_x_variant":[
-        "Cachoeira"
-    ],
     "name:vie_x_preferred":[
         "Solon\u00f3pole"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":145,
     "wof:belongsto":[
         85681907,
@@ -131,7 +131,6 @@
         "fct:id":"0387857a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3387242,
         "gp:id":458120,
-        "qs:id":147584,
         "qs_pg:id":147584,
         "wd:id":"Q975946"
     },
@@ -151,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841287,
+    "wof:lastmodified":1566625886,
     "wof:name":"Solon\u00f3pole",
     "wof:parent_id":404553925,
     "wof:placetype":"locality",

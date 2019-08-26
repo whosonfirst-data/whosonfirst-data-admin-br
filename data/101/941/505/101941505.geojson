@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.533038,
     "lbl:longitude":-72.562191,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.533038,
     "mps:longitude":-72.562191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Guajar\u00e1"
     ],
@@ -76,7 +79,7 @@
     "name:spa_x_preferred":[
         "Guajar\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Povoado de Guajar\u00e1"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         102191577,
@@ -121,10 +124,12 @@
         "fct:id":"0389661a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3398612,
         "gp:id":459573,
-        "qs:id":2,
-        "qs_pg:id":251903,
+        "qs_pg:id":2,
         "wd:id":"Q1808440",
         "wk:page":"Guajar\u00e1"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":251903
     },
     "wof:country":"BR",
     "wof:geomhash":"57f0d7543d213740102814797bd35130",
@@ -141,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841127,
+    "wof:lastmodified":1566624284,
     "wof:name":"Guajar\u00e1",
     "wof:parent_id":102050341,
     "wof:placetype":"locality",

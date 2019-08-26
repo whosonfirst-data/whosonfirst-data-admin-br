@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.546995,
     "lbl:longitude":-44.238381,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.546995,
     "mps:longitude":-44.238381,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u062a\u0648\u0633"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -113,7 +116,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":460338,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a197c531b019773a85b1f0da53266444",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101979977,
-    "wof:lastmodified":1564140190,
+    "wof:lastmodified":1566624179,
     "wof:name":"Patos",
     "wof:parent_id":102053155,
     "wof:placetype":"locality",

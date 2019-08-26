@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.128008,
     "lbl:longitude":-40.273738,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-20.128008,
     "mps:longitude":-40.273738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u0627\u060c \u0625\u0633\u0628\u064a\u0631\u064a\u062a\u0648 \u0633\u0627\u0646\u062a\u0648"
     ],
@@ -193,7 +196,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681921,
@@ -207,7 +210,6 @@
         "fct:id":"0389f5c6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3447779,
         "gp:id":456543,
-        "qs:id":1044820,
         "qs_pg:id":1044820,
         "wd:id":"Q927537"
     },
@@ -227,7 +229,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241537,
+    "wof:lastmodified":1566623339,
     "wof:name":"Serra",
     "wof:parent_id":404554631,
     "wof:placetype":"locality",

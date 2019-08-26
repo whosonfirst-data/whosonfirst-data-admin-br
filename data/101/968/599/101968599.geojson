@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.518853,
     "lbl:longitude":-46.955383,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.518853,
     "mps:longitude":-46.955383,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Martim Francisco"
     ],
@@ -61,7 +64,7 @@
     "name:swe_x_preferred":[
         "Martim Francisco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Conselho Martim Francisco"
     ],
     "qs:a0":"Brasil",
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":4165,
     "wof:belongsto":[
         85682041,
@@ -94,9 +97,11 @@
     "wof:concordances":{
         "gn:id":3457603,
         "gp:id":439778,
-        "qs:id":9,
-        "qs_pg:id":1054819,
+        "qs_pg:id":9,
         "wd:id":"Q3850019"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1054819
     },
     "wof:country":"BR",
     "wof:geomhash":"63b640555b9e3905130e7fed5de19ea7",
@@ -111,7 +116,7 @@
         }
     ],
     "wof:id":101968599,
-    "wof:lastmodified":1563244935,
+    "wof:lastmodified":1566624893,
     "wof:name":"Martim Francisco",
     "wof:parent_id":404566809,
     "wof:placetype":"locality",

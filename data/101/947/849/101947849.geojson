@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.47479,
     "lbl:longitude":-37.277201,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-7.47479,
     "mps:longitude":-37.277201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u099c\u09cb\u09b8\u09c7 \u09a1\u09cb \u0987\u0997\u09bf\u099f\u09cb"
     ],
@@ -74,7 +77,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u0416\u043e\u0437\u0435-\u0434\u0443-\u042d\u0436\u0438\u0442\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Queimadas"
     ],
     "name:vie_x_preferred":[
@@ -104,7 +107,7 @@
     "qs:type":"Centro de Zona B",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":171,
     "wof:belongsto":[
@@ -119,7 +122,7 @@
         "fct:id":"0381d904-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3388435,
         "gp:id":450578,
-        "qs:id":181173,
+        "qs_pg:id":181173,
         "wd:id":"Q1911145",
         "wk:page":"S\u00e3o Jos\u00e9 do Egito"
     },
@@ -139,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841141,
+    "wof:lastmodified":1566624406,
     "wof:name":"S\u00e3o Jos\u00e9 do Egito",
     "wof:parent_id":404560685,
     "wof:placetype":"locality",

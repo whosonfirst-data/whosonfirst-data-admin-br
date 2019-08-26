@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-12.672348,
     "lbl:longitude":-38.484599,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-12.672348,
     "mps:longitude":-38.484599,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a8\u09a1\u09c7\u0987\u09af\u09bc\u09be\u09b8"
     ],
@@ -118,7 +121,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":146,
     "wof:belongsto":[
         102191577,
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":102050639,
-    "wof:lastmodified":1563235680,
+    "wof:lastmodified":1566619640,
     "wof:name":"Candeias",
     "wof:parent_id":85681895,
     "wof:placetype":"county",

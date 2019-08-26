@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-11.076213,
     "lbl:longitude":-37.755854,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-11.076213,
     "mps:longitude":-37.755854,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u09af\u09bc\u09be\u099a\u09af\u09bc\u09be\u0993 \u09a1\u09cb \u09a1\u09be\u09a8\u09cd\u099f\u09be\u09b8"
     ],
@@ -73,7 +76,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102060947,
-    "wof:lastmodified":1560547700,
+    "wof:lastmodified":1566620124,
     "wof:name":"Riachao do Dantas",
     "wof:parent_id":85682037,
     "wof:placetype":"county",

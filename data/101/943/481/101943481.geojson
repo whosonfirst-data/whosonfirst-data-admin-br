@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.773595,
     "lbl:longitude":-44.058327,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-2.773595,
     "mps:longitude":-44.058327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0987\u0995\u09be\u099f\u09c1"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681931,
@@ -111,7 +114,6 @@
         "fct:id":"03872ef4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3398381,
         "gp:id":457280,
-        "qs:id":1044410,
         "qs_pg:id":1044410,
         "wd:id":"Q2068290",
         "wk:page":"Icatu"
@@ -132,7 +134,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841311,
+    "wof:lastmodified":1566626115,
     "wof:name":"Icatu",
     "wof:parent_id":404555023,
     "wof:placetype":"locality",

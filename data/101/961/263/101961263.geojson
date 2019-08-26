@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.529319,
     "lbl:longitude":-55.707874,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.529319,
     "mps:longitude":-55.707874,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09cb\u09b0\u09cd\u09b0\u09bf\u09b8\u09cb"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"Centro de Zona A",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681955,
         102191577,
@@ -125,7 +128,7 @@
         "fct:id":"0388b666-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6318714,
         "gp:id":456549,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2012374",
         "wk:page":"Sorriso"
     },
@@ -145,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245159,
+    "wof:lastmodified":1566624989,
     "wof:name":"Sorriso",
     "wof:parent_id":404559399,
     "wof:placetype":"locality",

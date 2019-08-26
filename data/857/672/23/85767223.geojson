@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7125725.435547,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-51.198795,-29.140505,-51.198795,-29.140505",
     "geom:latitude":-29.140505,
     "geom:longitude":-51.198795,
@@ -13,8 +13,10 @@
     "gn:latitude":-28.34361,
     "gn:longitude":-51.68611,
     "iso:country":"BR",
+    "lbl:bbox":"-51.203795,-29.145505,-51.193795,-29.135505",
     "lbl:latitude":-29.140505,
     "lbl:longitude":-51.198795,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-29.140505,
     "mps:longitude":-51.198795,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Nossa Senhora Da Saude"
     ],
     "name:por_x_preferred":[
-        "Nossa Senhora Da Sa\u00fade"
-    ],
-    "name:unk_x_variant":[
         "Nossa Senhora Da Sa\u00fade"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -63,21 +62,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85682015,
         102191577,
         404563341,
         85633009,
         101960531,
-        102059251
+        102059251,
+        85682015
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"0396f582-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317692,
         "gp:id":56066676,
-        "qs:id":238194,
         "qs_pg:id":238194
     },
     "wof:country":"BR",
@@ -94,7 +92,7 @@
         }
     ],
     "wof:id":85767223,
-    "wof:lastmodified":1531859144,
+    "wof:lastmodified":1566620727,
     "wof:name":"Nossa Senhora Da Sa\u00fade",
     "wof:parent_id":101960531,
     "wof:placetype":"neighbourhood",

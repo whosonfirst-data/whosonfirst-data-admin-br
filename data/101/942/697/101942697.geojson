@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.103348,
     "lbl:longitude":-47.656714,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.103348,
     "mps:longitude":-47.656714,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cartucho"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1403,
     "wof:belongsto":[
         85682053,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":3411886,
         "gp:id":457328,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q5047445"
     },
     "wof:country":"BR",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101942697,
-    "wof:lastmodified":1563246967,
+    "wof:lastmodified":1566625865,
     "wof:name":"Cartucho",
     "wof:parent_id":404567647,
     "wof:placetype":"locality",

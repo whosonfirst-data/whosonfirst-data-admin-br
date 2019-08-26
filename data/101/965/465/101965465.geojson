@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.721497,
     "lbl:longitude":-46.842384,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.721497,
     "mps:longitude":-46.842384,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*SP",
     "qs:a1_lc":"35",
@@ -30,7 +34,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -42,10 +46,10 @@
     "wof:concordances":{
         "gn:id":3471688,
         "gp:id":422357,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"0393e56ac1135964f019e75cbf5daace",
+    "wof:geomhash":"b87f2c052fafe67a2b387651acf655c4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101965465,
-    "wof:lastmodified":1479631052,
+    "wof:lastmodified":1566623442,
     "wof:name":"Arcadas",
     "wof:parent_id":404566091,
     "wof:placetype":"locality",

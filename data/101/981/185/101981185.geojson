@@ -9,14 +9,17 @@
     "geom:bbox":"-42.5155955208,-3.39370672389,-42.4968183293,-3.37708965227",
     "geom:latitude":-3.383978,
     "geom:longitude":-42.505264,
-    "geonames:id":"3409023,3409331",
+    "gn:id":"3409023,3409331",
     "iso:country":"BR",
     "lbl:latitude":-3.384647,
     "lbl:longitude":-42.504638,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.384647,
     "mps:longitude":-42.504638,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c1\u09b0\u09cd\u09b0\u09be\u0987\u09b8"
     ],
@@ -83,7 +86,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -93,7 +96,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":458004,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"7a4bb9bd0891b11401e4b8d0b60da456",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101981185,
-    "wof:lastmodified":1564142606,
+    "wof:lastmodified":1566626198,
     "wof:name":"Currais",
     "wof:parent_id":102053149,
     "wof:placetype":"locality",

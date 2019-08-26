@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.366461,
     "lbl:longitude":-39.152419,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.366461,
     "mps:longitude":-39.152419,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Estrada"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":198,
     "wof:belongsto":[
         85681907,
@@ -82,7 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3400633,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"5dfe65d4674ac69e7fd7078d7f076d31",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101977311,
-    "wof:lastmodified":1564139834,
+    "wof:lastmodified":1566623983,
     "wof:name":"Estrada",
     "wof:parent_id":404553013,
     "wof:placetype":"locality",

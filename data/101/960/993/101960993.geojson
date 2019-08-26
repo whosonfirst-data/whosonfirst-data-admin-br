@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.339584,
     "lbl:longitude":-58.871631,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.339584,
     "mps:longitude":-58.871631,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u0989\u09b0\u09c1"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681955,
         102191577,
@@ -119,7 +122,7 @@
         "fct:id":"03873d18-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317376,
         "gp:id":457416,
-        "qs:id":160602,
+        "qs_pg:id":160602,
         "wd:id":"Q2012195",
         "wk:page":"Jauru"
     },
@@ -139,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841233,
+    "wof:lastmodified":1566625308,
     "wof:name":"Jauru",
     "wof:parent_id":404559219,
     "wof:placetype":"locality",

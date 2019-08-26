@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.168812,
     "lbl:longitude":-53.412683,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.168812,
     "mps:longitude":-53.412683,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u0993 \u09a1\u09cb\u09b8 \u0987\u09a8\u09a1\u09bf\u0993\u09b8"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         85682015,
@@ -118,7 +121,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":455257,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1758315"
     },
     "wof:country":"BR",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101988401,
-    "wof:lastmodified":1563247303,
+    "wof:lastmodified":1566626025,
     "wof:name":"Rio dos \u00cdndios",
     "wof:parent_id":404565085,
     "wof:placetype":"locality",

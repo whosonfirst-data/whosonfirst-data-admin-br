@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.737103,
     "lbl:longitude":-56.513405,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.737103,
     "mps:longitude":-56.513405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u09aa\u09c1\u09b0\u09be\u09b9"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681955,
         102191577,
@@ -122,7 +125,7 @@
         "fct:id":"038a53f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6318744,
         "gp:id":56125148,
-        "qs:id":1026664,
+        "qs_pg:id":1026664,
         "wd:id":"Q2011944",
         "wk:page":"Tapurah"
     },
@@ -142,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841188,
+    "wof:lastmodified":1566624956,
     "wof:name":"Tapurah",
     "wof:parent_id":404559417,
     "wof:placetype":"locality",

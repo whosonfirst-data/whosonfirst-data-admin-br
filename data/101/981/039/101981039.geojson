@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.192664,
     "lbl:longitude":-42.241189,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.192664,
     "mps:longitude":-42.241189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "S\u00e3o Caetano"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":64,
     "wof:belongsto":[
         85681941,
@@ -69,7 +72,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"2bff259190e627ed46a3e4b1c0d4ff44",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101981039,
-    "wof:lastmodified":1564142546,
+    "wof:lastmodified":1566626160,
     "wof:name":"S\u00e3o Caetano",
     "wof:parent_id":404555711,
     "wof:placetype":"locality",

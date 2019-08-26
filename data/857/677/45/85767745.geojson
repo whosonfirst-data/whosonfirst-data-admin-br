@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9495164.852764,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-47.806031,-21.176281,-47.806031,-21.176281",
     "geom:latitude":-21.176281,
     "geom:longitude":-47.806031,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-47.811031,-21.181281,-47.801031,-21.171281",
     "lbl:latitude":-21.176281,
     "lbl:longitude":-47.806031,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-21.171703,
     "mps:longitude":-47.809203,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:por_x_preferred":[
-        "Setor Central"
-    ],
-    "name:unk_x_variant":[
         "Setor Central"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -56,19 +55,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682041,
         102191577,
         404567119,
         85633009,
         101964909,
-        102062087
+        102062087,
+        85682041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56067198,
-        "qs:id":10436,
         "qs_pg:id":10436
     },
     "wof:country":"BR",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859223,
+    "wof:lastmodified":1566620796,
     "wof:name":"Setor Central",
     "wof:parent_id":101964909,
     "wof:placetype":"neighbourhood",

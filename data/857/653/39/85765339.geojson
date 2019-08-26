@@ -9,14 +9,16 @@
     "geom:bbox":"-38.497951,-13.012011,-38.497951,-13.012011",
     "geom:latitude":-13.012011,
     "geom:longitude":-38.497951,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-13.01667,
     "gn:longitude":-38.5,
+    "gn:population":0,
     "iso:country":"BR",
+    "lbl:bbox":"-38.502951,-13.017011,-38.492951,-13.007011",
     "lbl:latitude":-13.012011,
     "lbl:longitude":-38.497951,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-13.016208,
     "mps:longitude":-38.499652,
     "mz:hierarchy_label":0,
@@ -79,9 +81,6 @@
     "name:swe_x_preferred":[
         "Rio Vermelho"
     ],
-    "name:unk_x_variant":[
-        "Rio Vermelho"
-    ],
     "name:vie_x_preferred":[
         "Rio Vermelho"
     ],
@@ -142,8 +141,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191577
     ],
@@ -151,7 +149,6 @@
     "wof:concordances":{
         "gn:id":3451046,
         "gp:id":447413,
-        "qs:id":1114295,
         "qs_pg:id":1114295
     },
     "wof:country":"BR",
@@ -169,7 +166,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564134775,
+    "wof:lastmodified":1566620820,
     "wof:name":"Rio Vermelho",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

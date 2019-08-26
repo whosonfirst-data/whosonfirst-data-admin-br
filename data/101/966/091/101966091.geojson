@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.239663,
     "lbl:longitude":-43.70162,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-22.239663,
     "mps:longitude":-43.70162,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:deu_x_preferred":[
         "Valen\u00e7a"
     ],
@@ -84,9 +87,6 @@
     "name:swe_x_preferred":[
         "Valen\u00e7a"
     ],
-    "name:unk_x_variant":[
-        "Marqu\u00eas de Valen\u00e7a"
-    ],
     "name:vol_x_preferred":[
         "Valen\u00e7a"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":114,
     "wof:belongsto":[
@@ -129,7 +129,6 @@
         "fct:id":"0387ed26-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3445596,
         "gp:id":461535,
-        "qs:id":44777,
         "qs_pg:id":44777,
         "wd:id":"Q1005931",
         "wk:page":"Valen\u00e7a, Rio de Janeiro"
@@ -150,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841197,
+    "wof:lastmodified":1566625017,
     "wof:name":"Valen\u00e7a",
     "wof:parent_id":404562643,
     "wof:placetype":"locality",

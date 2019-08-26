@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-29.182731,
     "lbl:longitude":-54.872392,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-29.182731,
     "mps:longitude":-54.872392,
     "mz:hierarchy_label":1,
@@ -89,9 +91,6 @@
     ],
     "name:swe_x_preferred":[
         "Santiago"
-    ],
-    "name:unk_x_variant":[
-        "Santiago do Boqueir\u00e3o"
     ],
     "name:vol_x_preferred":[
         "Santiago"
@@ -211,7 +210,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682015,
@@ -225,7 +224,6 @@
         "fct:id":"03880db0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3449741,
         "gp:id":456506,
-        "qs:id":1326848,
         "qs_pg:id":1326848,
         "wd:id":"Q996716"
     },
@@ -245,7 +243,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245668,
+    "wof:lastmodified":1566625226,
     "wof:megacity":1,
     "wof:name":"Santiago",
     "wof:parent_id":404564461,

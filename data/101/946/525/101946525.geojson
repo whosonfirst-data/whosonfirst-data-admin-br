@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.685789,
     "lbl:longitude":-35.899587,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":-5.685789,
     "mps:longitude":-35.899587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Belo Horizonte"
     ],
@@ -340,7 +343,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":760.0,
     "wd:latitude":-19.891667,
@@ -357,7 +360,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3405823,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"673e45143668c7a01d0088d79a7f7b0c",
@@ -372,7 +375,7 @@
         }
     ],
     "wof:id":101946525,
-    "wof:lastmodified":1564140305,
+    "wof:lastmodified":1566624278,
     "wof:name":"Belo Horizonte",
     "wof:parent_id":404562669,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.755782,
     "lbl:longitude":-36.787835,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.755782,
     "mps:longitude":-36.787835,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barbosa"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -91,7 +94,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"def080697f4c0f77bcbf13fdd9214ebb",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101973873,
-    "wof:lastmodified":1564141809,
+    "wof:lastmodified":1566625600,
     "wof:name":"Barbosa",
     "wof:parent_id":102050129,
     "wof:placetype":"locality",

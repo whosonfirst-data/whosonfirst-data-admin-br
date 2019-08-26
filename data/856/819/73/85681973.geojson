@@ -36,6 +36,7 @@
     ],
     "lbl:latitude":-8.288781,
     "lbl:longitude":-38.542336,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-8.288781,
     "mps:longitude":-38.542336,
     "mz:hierarchy_label":1,
@@ -318,9 +319,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u043d\u0430\u043c\u0431\u0443\u043a\u0443"
     ],
-    "name:unk_x_variant":[
-        "Estado de Pernambuco"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0631\u0646\u0627\u0645\u0628\u0648\u06a9\u0648"
     ],
@@ -422,9 +420,9 @@
     "qs:type":"Estado",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-08-01",
+    "src:population_date":"2010-08-01",
     "statoids:area_km":"98,148",
     "statoids:area_mi":"37,895",
     "statoids:as_of_date":"2010-08-01",
@@ -469,11 +467,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565660993,
+    "wof:lastmodified":1566620864,
     "wof:name":"Pernambuco",
     "wof:parent_id":85633009,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":8796448,
     "wof:population_rank":13,

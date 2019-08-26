@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.922965,
     "lbl:longitude":-42.256545,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.922965,
     "mps:longitude":-42.256545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gavi\u00e3o"
     ],
@@ -67,7 +70,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         85681941,
@@ -78,7 +81,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"af4b23ae7666dc1faa9e754506b45c26",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101951931,
-    "wof:lastmodified":1564141651,
+    "wof:lastmodified":1566625475,
     "wof:name":"Gavi\u00e3o",
     "wof:parent_id":404556341,
     "wof:placetype":"locality",

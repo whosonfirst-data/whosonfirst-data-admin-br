@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.61208,
     "lbl:longitude":-41.205964,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-20.61208,
     "mps:longitude":-41.205964,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b8\u099f\u09c7\u09b2\u09cb"
     ],
@@ -81,9 +84,6 @@
     "name:sco_x_preferred":[
         "Castelo"
     ],
-    "name:unk_x_variant":[
-        "Estancia do Castello"
-    ],
     "name:vie_x_preferred":[
         "Castelo"
     ],
@@ -113,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681921,
@@ -127,7 +127,6 @@
         "fct:id":"0387125c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3466723,
         "gp:id":457004,
-        "qs:id":1324292,
         "qs_pg:id":1324292,
         "wd:id":"Q1794952"
     },
@@ -147,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841022,
+    "wof:lastmodified":1566623275,
     "wof:name":"Castelo",
     "wof:parent_id":404554269,
     "wof:placetype":"locality",

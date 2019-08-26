@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.858442,
     "lbl:longitude":-50.689461,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-21.858442,
     "mps:longitude":-50.689461,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0987\u09af\u09bc\u09be\u0995\u09b0\u09bf"
     ],
@@ -80,9 +83,6 @@
     "name:swe_x_preferred":[
         "Iacri"
     ],
-    "name:unk_x_variant":[
-        "Santana"
-    ],
     "name:vie_x_preferred":[
         "Iacri"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.858333,
     "wd:longitude":-50.689444,
@@ -130,7 +130,6 @@
         "fct:id":"0387b810-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461640,
         "gp:id":459606,
-        "qs:id":148252,
         "qs_pg:id":148252,
         "wd:id":"Q1759390",
         "wk:page":"Iacri"
@@ -151,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242092,
+    "wof:lastmodified":1566623610,
     "wof:name":"Iacri",
     "wof:parent_id":404566487,
     "wof:placetype":"locality",

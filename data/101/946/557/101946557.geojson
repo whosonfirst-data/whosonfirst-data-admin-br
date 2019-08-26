@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.583401,
     "lbl:longitude":-35.790647,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.583401,
     "mps:longitude":-35.790647,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09be\u09a1\u09cb \u09ac\u09cd\u09b0\u09be\u09ad\u09cb"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -118,7 +121,7 @@
         "fct:id":"03884c9e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317181,
         "gp:id":26804006,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q674753",
         "wk:page":"Gado Bravo"
     },
@@ -137,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841114,
+    "wof:lastmodified":1566624223,
     "wof:name":"Gado Bravo",
     "wof:parent_id":102056169,
     "wof:placetype":"locality",

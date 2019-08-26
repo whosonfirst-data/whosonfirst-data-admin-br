@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.856857,
     "lbl:longitude":-39.936482,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.856857,
     "mps:longitude":-39.936482,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0648\u0644\u064a\u0633\u062a\u0627"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681921,
         102191577,
@@ -122,7 +125,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"aea706beb6314543333a29adfec3d6e5",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101976479,
-    "wof:lastmodified":1564140874,
+    "wof:lastmodified":1566624673,
     "wof:name":"Paulista",
     "wof:parent_id":404554615,
     "wof:placetype":"locality",

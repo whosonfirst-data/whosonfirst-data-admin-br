@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.279673,
     "lbl:longitude":-48.126768,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-22.279673,
     "mps:longitude":-48.126768,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cd\u09b0\u09cb\u099f\u09be\u09b8"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":647.0,
     "wd:latitude":-22.283889,
@@ -125,7 +128,6 @@
         "fct:id":"0386acb8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3468899,
         "gp:id":456093,
-        "qs:id":669199,
         "qs_pg:id":669199,
         "wd:id":"Q1648408",
         "wk:page":"Brotas"
@@ -146,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244953,
+    "wof:lastmodified":1566624904,
     "wof:name":"Brotas",
     "wof:parent_id":404566195,
     "wof:placetype":"locality",

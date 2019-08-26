@@ -16,6 +16,7 @@
     "iso:country":"BR",
     "lbl:latitude":-23.542161,
     "lbl:longitude":-46.430402,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-23.542161,
     "mps:longitude":-46.430402,
     "mz:hierarchy_label":1,
@@ -75,9 +76,6 @@
     "name:swe_x_preferred":[
         "Jos\u00e9 Bonif\u00e1cio"
     ],
-    "name:unk_x_variant":[
-        "Jose Bonifacio"
-    ],
     "name:vie_x_preferred":[
         "Jos\u00e9 Bonif\u00e1cio"
     ],
@@ -118,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -133,9 +131,11 @@
         "fct:id":"039667f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3459667,
         "gp:id":26804373,
-        "qs:id":1322062,
         "qs_pg:id":896680,
         "wk:page":"Jos\u00e9 Bonif\u00e1cio, S\u00e3o Paulo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1322062
     },
     "wof:country":"BR",
     "wof:geomhash":"4774ad6f5e75d23fc792ca2445e9e151",
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":85766111,
-    "wof:lastmodified":1564134706,
+    "wof:lastmodified":1566620767,
     "wof:name":"Jose Bonifacio",
     "wof:parent_id":101965533,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,17 @@
     "geom:bbox":"-38.6236785967,-12.7260276332,-38.6170975926,-12.7208244711",
     "geom:latitude":-12.722978,
     "geom:longitude":-38.620697,
-    "geonames:id":"3449466,3457502",
+    "gn:id":"3449466,3457502",
     "iso:country":"BR",
     "lbl:latitude":-12.723044,
     "lbl:longitude":-38.62076,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.723044,
     "mps:longitude":-38.62076,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09cb \u098f\u09b8\u09cd\u099f\u09c7\u09ad\u09cd\u09af\u09be\u0993"
     ],
@@ -98,7 +101,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":17,
     "wof:belongsto":[
         85681895,
@@ -110,7 +113,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":439035,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1794190"
     },
     "wof:country":"BR",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101966615,
-    "wof:lastmodified":1563245273,
+    "wof:lastmodified":1566625049,
     "wof:name":"Santo Est\u00eav\u00e3o",
     "wof:parent_id":404551951,
     "wof:placetype":"locality",

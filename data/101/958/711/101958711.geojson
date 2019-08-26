@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.321209,
     "lbl:longitude":-54.043425,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.321209,
     "mps:longitude":-54.043425,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ismael"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":52,
     "wof:belongsto":[
         85682015,
@@ -55,7 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":431713,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"1a5711c15d8430d52db4458176d23a18",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101958711,
-    "wof:lastmodified":1564141460,
+    "wof:lastmodified":1566625266,
     "wof:name":"Ismael",
     "wof:parent_id":404563573,
     "wof:placetype":"locality",

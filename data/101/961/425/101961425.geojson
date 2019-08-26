@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.291774,
     "lbl:longitude":-54.964201,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.291774,
     "mps:longitude":-54.964201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Nova Esperan\u00e7a"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":56,
     "wof:belongsto":[
         85681947,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":6317732,
         "gp:id":456474,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"ecefe2c322204dbc951e8aa0e67df034",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101961425,
-    "wof:lastmodified":1564141125,
+    "wof:lastmodified":1566624940,
     "wof:name":"Nova Esperan\u00e7a",
     "wof:parent_id":404559035,
     "wof:placetype":"locality",

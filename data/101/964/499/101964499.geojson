@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.498342,
     "lbl:longitude":-48.944637,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.498342,
     "mps:longitude":-48.944637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09b0\u09be\u09b8\u09bf"
     ],
@@ -76,9 +79,6 @@
     "name:swe_x_preferred":[
         "Guaraci"
     ],
-    "name:unk_x_variant":[
-        "Guaracy"
-    ],
     "name:vie_x_preferred":[
         "Guaraci"
     ],
@@ -105,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -117,7 +117,6 @@
         "fct:id":"03872af8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461925,
         "gp:id":457240,
-        "qs:id":342600,
         "qs_pg:id":342600,
         "wd:id":"Q986503",
         "wk:page":"Guaraci, S\u00e3o Paulo"
@@ -137,7 +136,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242256,
+    "wof:lastmodified":1566623693,
     "wof:name":"Guaraci",
     "wof:parent_id":102061447,
     "wof:placetype":"locality",

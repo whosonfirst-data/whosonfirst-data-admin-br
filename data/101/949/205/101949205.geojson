@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.054562,
     "lbl:longitude":-42.717314,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.054562,
     "mps:longitude":-42.717314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cd\u09b0\u09be\u0989\u09a8\u09be\u09b8"
     ],
@@ -91,9 +94,6 @@
     "name:swe_x_preferred":[
         "Bra\u00fanas"
     ],
-    "name:unk_x_variant":[
-        "Baraunas"
-    ],
     "name:vie_x_preferred":[
         "Bra\u00fanas"
     ],
@@ -121,7 +121,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -134,7 +134,7 @@
         "fct:id":"0386ac54-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3469043,
         "gp:id":456090,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q252608",
         "wk:page":"Bra\u00fanas"
     },
@@ -154,7 +154,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841147,
+    "wof:lastmodified":1566624565,
     "wof:name":"Bra\u00fanas",
     "wof:parent_id":404555533,
     "wof:placetype":"locality",

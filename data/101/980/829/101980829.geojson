@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.552472,
     "lbl:longitude":-43.37606,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-2.552472,
     "mps:longitude":-43.37606,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09af\u09bc\u09c7\u099f\u09c7"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":160,
     "wof:belongsto":[
         102191577,
@@ -112,7 +115,7 @@
     "wof:concordances":{
         "gn:id":8430840,
         "gp:id":435228,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e9f3c0b7db81ebf0d15d47dea0e64e4e",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101980829,
-    "wof:lastmodified":1564141995,
+    "wof:lastmodified":1566625707,
     "wof:name":"Caet\u00e9",
     "wof:parent_id":102053109,
     "wof:placetype":"locality",

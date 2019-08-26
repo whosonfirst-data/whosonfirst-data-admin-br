@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.534267,
     "lbl:longitude":-37.521653,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.534267,
     "mps:longitude":-37.521653,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0431\u043e\u043a\u043b\u0443"
     ],
@@ -73,7 +76,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":612,
     "wof:belongsto":[
         102191577,
@@ -84,7 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3404536,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1024920"
     },
     "wof:country":"BR",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101973621,
-    "wof:lastmodified":1563246470,
+    "wof:lastmodified":1566625599,
     "wof:name":"Caboclo",
     "wof:parent_id":102050259,
     "wof:placetype":"locality",

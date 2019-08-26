@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.175942,
     "lbl:longitude":-38.922249,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.175942,
     "mps:longitude":-38.922249,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c7\u099c\u09bf\u09a8\u09b9\u09cb"
     ],
@@ -73,7 +76,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gn:id":3404919,
         "gp:id":449258,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"651d04bb40d7d05cbb00cdcdfdd58e70",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101944609,
-    "wof:lastmodified":1564142393,
+    "wof:lastmodified":1566626002,
     "wof:name":"Brejinho",
     "wof:parent_id":404552477,
     "wof:placetype":"locality",

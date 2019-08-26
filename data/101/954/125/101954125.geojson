@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.951309,
     "lbl:longitude":-41.34381,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.951309,
     "mps:longitude":-41.34381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09c1\u0995\u09c1\u0987"
     ],
@@ -86,9 +89,6 @@
     "name:rus_x_preferred":[
         "\u041c\u0443\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o-Joao-do-Muqui"
-    ],
     "name:vie_x_preferred":[
         "Muqui"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         85681921,
@@ -132,7 +132,6 @@
         "fct:id":"03875460-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456509,
         "gp:id":457643,
-        "qs:id":246285,
         "qs_pg:id":246285,
         "wd:id":"Q739272",
         "wk:page":"Muqui, Esp\u00edrito Santo"
@@ -153,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841034,
+    "wof:lastmodified":1566623338,
     "wof:name":"Muqui",
     "wof:parent_id":404554531,
     "wof:placetype":"locality",

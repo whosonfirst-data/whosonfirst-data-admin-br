@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.715343,
     "lbl:longitude":-49.171983,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-26.715343,
     "mps:longitude":-49.171983,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u09ae\u09c7\u09b0\u09cb\u09a1\u09c7"
     ],
@@ -87,9 +90,6 @@
     "name:swe_x_preferred":[
         "Pomerode"
     ],
-    "name:unk_x_variant":[
-        "Rio do Testo"
-    ],
     "name:vie_x_preferred":[
         "Pomerode"
     ],
@@ -119,7 +119,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682021,
@@ -133,7 +133,6 @@
         "fct:id":"038a19fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3453245,
         "gp:id":460532,
-        "qs:id":1044930,
         "qs_pg:id":1044930,
         "wd:id":"Q326651"
     },
@@ -153,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245746,
+    "wof:lastmodified":1566625258,
     "wof:name":"Pomerode",
     "wof:parent_id":404565739,
     "wof:placetype":"locality",

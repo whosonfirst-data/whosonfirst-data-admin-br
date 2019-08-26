@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.474009,
     "lbl:longitude":-48.83032,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.474009,
     "mps:longitude":-48.83032,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09b0\u09cd\u09b0\u09c7\u099f\u09c7\u09b8"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -116,7 +119,7 @@
         "fct:id":"0386cc5c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456750,
         "gp:id":456347,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q781087",
         "wk:page":"Morretes"
     },
@@ -136,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245762,
+    "wof:lastmodified":1566625265,
     "wof:name":"Morretes",
     "wof:parent_id":404561505,
     "wof:placetype":"locality",

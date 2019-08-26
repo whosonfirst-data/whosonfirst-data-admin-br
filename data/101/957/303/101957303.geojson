@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.145184,
     "lbl:longitude":-51.507029,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.145184,
     "mps:longitude":-51.507029,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7\u09b8 \u09b0\u09bf\u0993\u09b8"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -122,7 +125,7 @@
         "fct:id":"0385d64e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3462112,
         "gp:id":434749,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1803568",
         "wk:page":"Grandes Rios"
     },
@@ -142,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841169,
+    "wof:lastmodified":1566624824,
     "wof:name":"Grandes Rios",
     "wof:parent_id":404561185,
     "wof:placetype":"locality",

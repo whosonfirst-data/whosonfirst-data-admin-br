@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.447764,
     "lbl:longitude":-58.738291,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.447764,
     "mps:longitude":-58.738291,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09bf\u0997\u09c1\u09f1\u09c7\u0987\u09b0\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8 \u09a1\u09bf'\u0993\u098f\u09b8\u09cd\u099f\u09c7"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":151,
     "wof:belongsto":[
         102191577,
@@ -121,7 +124,7 @@
     "wof:concordances":{
         "gn:id":6317141,
         "gp:id":55944500,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2013037"
     },
     "wof:country":"BR",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101961005,
-    "wof:lastmodified":1561841194,
+    "wof:lastmodified":1566624988,
     "wof:name":"Figueir\u00f3polis D'Oeste",
     "wof:parent_id":102055443,
     "wof:placetype":"locality",

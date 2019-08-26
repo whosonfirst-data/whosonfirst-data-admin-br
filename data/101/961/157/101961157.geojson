@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.823354,
     "lbl:longitude":-56.429835,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-14.823354,
     "mps:longitude":-56.429835,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09cb\u09b8\u09be\u09b0\u09bf\u0993 \u0993\u098f\u09b8\u09cd\u099f\u09c7"
     ],
@@ -75,7 +78,7 @@
     "name:rus_x_preferred":[
         "\u0420\u043e\u0437\u0430\u0440\u0438\u0443-\u0423\u044d\u0441\u0442\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rosario Oueste"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":169,
     "wof:belongsto":[
@@ -120,7 +123,7 @@
         "fct:id":"03819d5e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3450872,
         "gp:id":447580,
-        "qs:id":808098,
+        "qs_pg:id":808098,
         "wd:id":"Q2012402",
         "wk:page":"Ros\u00e1rio Oeste"
     },
@@ -140,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841184,
+    "wof:lastmodified":1566624931,
     "wof:name":"Ros\u00e1rio Oeste",
     "wof:parent_id":404559367,
     "wof:placetype":"locality",

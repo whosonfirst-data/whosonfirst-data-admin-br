@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.236074,
     "lbl:longitude":-44.418627,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.236074,
     "mps:longitude":-44.418627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09b0\u09bf\u09b8\u099f\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
     ],
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         85681895,
@@ -129,7 +132,7 @@
         "fct:id":"0388bd32-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316963,
         "gp:id":457094,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1761896",
         "wk:page":"Crist\u00f3polis"
     },
@@ -149,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841120,
+    "wof:lastmodified":1566624249,
     "wof:name":"Crist\u00f3polis",
     "wof:parent_id":404550879,
     "wof:placetype":"locality",

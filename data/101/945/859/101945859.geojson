@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.512047,
     "lbl:longitude":-38.410716,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-6.512047,
     "mps:longitude":-38.410716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0989\u0987\u09b0\u09be\u0989\u09a8\u09be"
     ],
@@ -90,9 +93,6 @@
     "name:twi_x_preferred":[
         "Uira\u00fana"
     ],
-    "name:unk_x_variant":[
-        "Cana\u00e3"
-    ],
     "name:vie_x_preferred":[
         "Uira\u00fana"
     ],
@@ -122,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1411,
     "wof:belongsto":[
@@ -136,7 +136,6 @@
         "fct:id":"03878e6c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3385850,
         "gp:id":458222,
-        "qs:id":883927,
         "qs_pg:id":883927,
         "wd:id":"Q2010393",
         "wk:page":"Uira\u00fana"
@@ -156,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247043,
+    "wof:lastmodified":1566625899,
     "wof:name":"Uira\u00fana",
     "wof:parent_id":102056475,
     "wof:placetype":"locality",

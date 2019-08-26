@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.02194,
     "lbl:longitude":-50.577931,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.02194,
     "mps:longitude":-50.577931,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09aa\u09bf\u09b0\u09be\u0999\u09cd\u0997\u09be"
     ],
@@ -88,9 +91,6 @@
     "name:swe_x_preferred":[
         "Ipiranga"
     ],
-    "name:unk_x_variant":[
-        "Ypiranga"
-    ],
     "name:vie_x_preferred":[
         "Ipiranga"
     ],
@@ -120,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         85681983,
@@ -134,7 +134,6 @@
         "fct:id":"0387ba72-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461113,
         "gp:id":459674,
-        "qs:id":987120,
         "qs_pg:id":987120,
         "wd:id":"Q2064845",
         "wk:page":"Ipiranga, Paran\u00e1"
@@ -155,7 +154,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841168,
+    "wof:lastmodified":1566624819,
     "wof:name":"Ipiranga",
     "wof:parent_id":404561265,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.181786,
     "lbl:longitude":-50.656085,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-23.181786,
     "mps:longitude":-50.656085,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b0\u09cd\u09a8\u09c7\u09b2\u09bf\u0993 \u09aa\u09cd\u09b0\u09cb\u0995\u09cb\u09aa\u09bf\u0993"
     ],
@@ -81,9 +84,6 @@
     "name:spa_x_preferred":[
         "Corn\u00e9lio Proc\u00f3pio"
     ],
-    "name:unk_x_variant":[
-        "Cor Procopio"
-    ],
     "name:vie_x_preferred":[
         "Corn\u00e9lio Proc\u00f3pio"
     ],
@@ -111,7 +111,7 @@
     "qs:type":"Centro de Zona A",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681983,
@@ -125,7 +125,7 @@
         "fct:id":"03871ac2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465508,
         "gp:id":457076,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2007572"
     },
     "wof:country":"BR",
@@ -144,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841096,
+    "wof:lastmodified":1566623847,
     "wof:name":"Corn\u00e9lio Proc\u00f3pio",
     "wof:parent_id":404561089,
     "wof:placetype":"locality",

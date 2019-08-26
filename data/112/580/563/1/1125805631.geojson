@@ -9,15 +9,18 @@
     "geom:bbox":"-42.73111,-10.82167,-42.73111,-10.82167",
     "geom:latitude":-10.82167,
     "geom:longitude":-42.73111,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":35433,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:population":35433,
     "iso:country":"BR",
+    "lbl:bbox":"-42.75111,-10.84167,-42.71111,-10.80167",
     "lbl:latitude":-10.82167,
     "lbl:longitude":-42.73111,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u0995\u09cd\u09b8\u09bf\u0995\u09c1\u09af\u09bc\u09c7-\u0995\u09cd\u09b8\u09bf\u0995\u09c1\u09af\u09bc\u09c7"
@@ -88,7 +91,7 @@
     "name:swe_x_preferred":[
         "Xique-Xique"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chique-Chique"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +118,7 @@
     "qs_pg:qs_id":1244290,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":1125805631,
-    "wof:lastmodified":1563250410,
+    "wof:lastmodified":1566628415,
     "wof:name":"Xique Xique",
     "wof:parent_id":404552243,
     "wof:placetype":"locality",

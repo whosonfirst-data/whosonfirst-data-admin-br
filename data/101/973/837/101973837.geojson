@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.432321,
     "lbl:longitude":-36.805849,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.432321,
     "mps:longitude":-36.805849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09c7\u09a8\u09be\u09b8\u09b8\u09c7\u09a8\u09cd\u09b8\u09be"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":153,
     "wof:belongsto":[
         102191577,
@@ -102,7 +105,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26804026,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"95e48e8a1fa0a6cab21595146f845484",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101973837,
-    "wof:lastmodified":1564141873,
+    "wof:lastmodified":1566625633,
     "wof:name":"Renascen\u00e7a",
     "wof:parent_id":102050119,
     "wof:placetype":"locality",

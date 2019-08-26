@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.402101,
     "lbl:longitude":-42.701189,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-21.402101,
     "mps:longitude":-42.701189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u099f\u09be\u0997\u09c1\u09f1\u09be\u09b8\u09c7\u09b8"
     ],
@@ -92,9 +95,6 @@
     "name:tha_x_preferred":[
         "\u0e01\u0e32\u0e15\u0e32\u0e01\u0e27\u0e32\u0e0b\u0e34\u0e2a"
     ],
-    "name:unk_x_variant":[
-        "Cataguazes"
-    ],
     "name:vie_x_preferred":[
         "Cataguases"
     ],
@@ -124,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -138,7 +138,6 @@
         "fct:id":"0386b230-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3466698,
         "gp:id":456132,
-        "qs:id":353325,
         "qs_pg:id":353325,
         "wd:id":"Q1749746"
     },
@@ -158,7 +157,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246365,
+    "wof:lastmodified":1566625534,
     "wof:name":"Cataguases",
     "wof:parent_id":404555835,
     "wof:placetype":"locality",

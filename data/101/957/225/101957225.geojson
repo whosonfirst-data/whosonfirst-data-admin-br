@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.366891,
     "lbl:longitude":-51.601007,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-27.366891,
     "mps:longitude":-51.601007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09aa\u09bf\u09a8\u099c\u09be\u09b2"
     ],
@@ -77,9 +80,6 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043f\u0438\u043d\u0437\u0430\u043b"
     ],
-    "name:unk_x_variant":[
-        "Rio Capinzal"
-    ],
     "name:vie_x_preferred":[
         "Capinzal"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682021,
@@ -126,7 +126,6 @@
         "fct:id":"03870ef6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3467261,
         "gp:id":456968,
-        "qs:id":816986,
         "qs_pg:id":816986,
         "wd:id":"Q780452",
         "wk:page":"Capinzal"
@@ -147,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841171,
+    "wof:lastmodified":1566624835,
     "wof:name":"Capinzal",
     "wof:parent_id":404565303,
     "wof:placetype":"locality",

@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
-    "geom:area_square_m":1642592.872958,
+    "geom:area_square_m":1642592.872961,
     "geom:bbox":"-40.3756089624,-3.88239167368,-40.3632500682,-3.86425944173",
     "geom:latitude":-3.873309,
     "geom:longitude":-40.370708,
     "iso:country":"BR",
     "lbl:latitude":-3.873942,
     "lbl:longitude":-40.370208,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.873942,
     "mps:longitude":-40.370208,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Pilar"
     ],
     "qs:a0":"Brasil",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -48,7 +51,9 @@
     "wof:concordances":{
         "gn:id":3397963,
         "gp:id":456126,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1044401
     },
     "wof:country":"BR",
@@ -64,7 +69,7 @@
         }
     ],
     "wof:id":101944259,
-    "wof:lastmodified":1504301508,
+    "wof:lastmodified":1566625963,
     "wof:name":"Itamarac\u00e1",
     "wof:parent_id":404552901,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.819704,
     "lbl:longitude":-40.273941,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-19.819704,
     "mps:longitude":-40.273941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u0995\u09cd\u09b0\u09c1\u099c"
     ],
@@ -85,7 +88,7 @@
     "name:swe_x_preferred":[
         "Aracruz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saua\u00e7u"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681921,
@@ -131,9 +134,11 @@
         "fct:id":"0384e8d8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471848,
         "gp:id":422220,
-        "qs:id":220700,
-        "qs_pg:id":1058234,
+        "qs_pg:id":220700,
         "wd:id":"Q1794219"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1058234
     },
     "wof:country":"BR",
     "wof:geomhash":"7d93070c35563c72d9bd1292f8851ac0",
@@ -151,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246167,
+    "wof:lastmodified":1566625453,
     "wof:name":"Aracruz",
     "wof:parent_id":404554183,
     "wof:placetype":"locality",

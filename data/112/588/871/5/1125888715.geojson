@@ -9,15 +9,18 @@
     "geom:bbox":"-52.23833,-1.74833,-52.23833,-1.74833",
     "geom:latitude":-1.74833,
     "geom:longitude":-52.23833,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9912,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:population":9912,
     "iso:country":"BR",
+    "lbl:bbox":"-52.25833,-1.76833,-52.21833,-1.72833",
     "lbl:latitude":-1.74833,
     "lbl:longitude":-52.23833,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u09aa\u09b0\u09cd\u099f\u09cb \u09a1\u09c7 \u09ae\u09cb\u099c"
@@ -67,7 +70,7 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0443-\u0434\u0438-\u041c\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u00f4rto de M\u00f3s"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "qs_pg:woe_adm0":23424768,
     "qs_pg:woe_id":456438,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424768,
     "woe:name_adm0":"Brasil",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1125888715,
-    "wof:lastmodified":1563250404,
+    "wof:lastmodified":1566628411,
     "wof:name":"P\u00f4rto de Moz",
     "wof:parent_id":404559713,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-2.92532,
     "lbl:longitude":-41.71929,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-2.92532,
     "mps:longitude":-41.71929,
     "mz:hierarchy_label":1,
@@ -167,9 +169,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u043d\u0430\u0456\u0431\u0430"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Joao da Parnahiba"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0631\u0646\u0627\u06cc\u0628\u0627"
     ],
@@ -294,7 +293,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1028,
     "wof:belongsto":[
@@ -308,10 +307,12 @@
         "fct:id":"03869e30-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3393001,
         "gp:id":455975,
-        "qs:id":353241,
-        "qs_pg:id":466521,
+        "qs_pg:id":353241,
         "wd:id":"Q1643864",
         "wk:page":"Parna\u00edba"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":466521
     },
     "wof:country":"BR",
     "wof:geomhash":"8c90f79f9d14ca58bef0e166f0975430",
@@ -328,7 +329,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247497,
+    "wof:lastmodified":1566626113,
     "wof:name":"Parna\u00edba",
     "wof:parent_id":102057241,
     "wof:placetype":"locality",

@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-30.636116,
     "lbl:longitude":-51.854002,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.636116,
     "mps:longitude":-51.854002,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*RS",
     "qs:a1_lc":"43",
@@ -30,7 +34,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6316493,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"86ac3ffbaf87cd2a0d673af7e9e6ff8a",
+    "wof:geomhash":"5e4b4b3ab4911061113f0f33e8133770",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101960089,
-    "wof:lastmodified":1479846889,
+    "wof:lastmodified":1566625313,
     "wof:name":"Bandeirinha",
     "wof:parent_id":404563195,
     "wof:placetype":"locality",

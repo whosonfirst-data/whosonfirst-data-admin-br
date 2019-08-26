@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.049373,
     "lbl:longitude":-35.925294,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.049373,
     "mps:longitude":-35.925294,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b0\u09c7\u0987\u0986\u09b2"
     ],
@@ -85,7 +88,7 @@
     "name:swe_x_preferred":[
         "Areial"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ari\u00fas"
     ],
     "name:vie_x_preferred":[
@@ -118,7 +121,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -130,7 +133,7 @@
         "fct:id":"03857eb0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3393801,
         "gp:id":422413,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q963490",
         "wk:page":"Areial"
     },
@@ -149,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841120,
+    "wof:lastmodified":1566624250,
     "wof:name":"Areial",
     "wof:parent_id":102056021,
     "wof:placetype":"locality",

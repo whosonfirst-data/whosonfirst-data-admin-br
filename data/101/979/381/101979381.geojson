@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-1.309647,
     "lbl:longitude":-44.895548,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-1.309647,
     "mps:longitude":-44.895548,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*MA",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681931,
         102191577,
@@ -42,10 +46,10 @@
     "wof:concordances":{
         "gn:id":3405967,
         "gp:id":457845,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"30c63c220a27d61eacde434a3b04e779",
+    "wof:geomhash":"a6f4d13651c0fb1b8372a1a1f190a949",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101979381,
-    "wof:lastmodified":1479937445,
+    "wof:lastmodified":1566624216,
     "wof:name":"Bate-Vento",
     "wof:parent_id":404555011,
     "wof:placetype":"locality",

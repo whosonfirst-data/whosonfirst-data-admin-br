@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.426082,
     "lbl:longitude":-41.883499,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.426082,
     "mps:longitude":-41.883499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0995\u09cd\u09b8\u09bf\u09a8\u0997\u09cb"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":147,
     "wof:belongsto":[
         102191577,
@@ -116,7 +119,7 @@
         "fct:id":"0388ed34-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3402379,
         "gp:id":429107,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1938789",
         "wk:page":"Caxing\u00f3"
     },
@@ -135,7 +138,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841303,
+    "wof:lastmodified":1566626079,
     "wof:name":"Caxing\u00f3",
     "wof:parent_id":102057027,
     "wof:placetype":"locality",

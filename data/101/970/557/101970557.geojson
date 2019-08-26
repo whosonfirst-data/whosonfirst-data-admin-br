@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.273363,
     "lbl:longitude":-44.515587,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.273363,
     "mps:longitude":-44.515587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Novaci"
     ],
@@ -73,7 +76,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":60,
     "wof:belongsto":[
         85681895,
@@ -84,7 +87,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"47ed29d901ccab1480d1b40562f089fd",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101970557,
-    "wof:lastmodified":1564140062,
+    "wof:lastmodified":1566624109,
     "wof:name":"Novaci",
     "wof:parent_id":404550807,
     "wof:placetype":"locality",

@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.714762,
     "lbl:longitude":-50.397887,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.714762,
     "mps:longitude":-50.397887,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*SP",
     "qs:a1_lc":"35",
@@ -30,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -42,10 +46,10 @@
     "wof:concordances":{
         "gn:id":3456132,
         "gp:id":434495,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"f39ad1550585c081bd6060d78a6077b7",
+    "wof:geomhash":"eb557663c6780655767ea227a87b8f53",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101988915,
-    "wof:lastmodified":1479842912,
+    "wof:lastmodified":1566626033,
     "wof:name":"Nova Palmira",
     "wof:parent_id":404566433,
     "wof:placetype":"locality",

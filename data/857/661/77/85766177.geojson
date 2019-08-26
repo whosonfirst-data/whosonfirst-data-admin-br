@@ -15,6 +15,7 @@
     "iso:country":"BR",
     "lbl:latitude":-23.68243,
     "lbl:longitude":-46.712261,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-23.68243,
     "mps:longitude":-46.712261,
     "mz:hierarchy_label":1,
@@ -89,9 +90,8 @@
     "name:swe_x_preferred":[
         "Socorro"
     ],
-    "name:unk_x_variant":[
-        "Soccorro",
-        "Socorro"
+    "name:und_x_variant":[
+        "Soccorro"
     ],
     "name:vol_x_preferred":[
         "Socorro"
@@ -130,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -144,7 +144,6 @@
     "wof:concordances":{
         "gn:id":3447437,
         "gp:id":26804402,
-        "qs:id":468985,
         "qs_pg:id":468985,
         "wd:id":"Q1797503",
         "wk:page":"Socorro, S\u00e3o Paulo"
@@ -163,7 +162,7 @@
         }
     ],
     "wof:id":85766177,
-    "wof:lastmodified":1563237450,
+    "wof:lastmodified":1566620769,
     "wof:name":"Socorro",
     "wof:parent_id":101965533,
     "wof:placetype":"neighbourhood",

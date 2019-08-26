@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.657233,
     "lbl:longitude":-49.008007,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.657233,
     "mps:longitude":-49.008007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ribeira"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -110,7 +113,7 @@
         "fct:id":"0386478c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451396,
         "gp:id":447085,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1808722",
         "wk:page":"Ribeira, S\u00e3o Paulo"
     },
@@ -130,7 +133,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841077,
+    "wof:lastmodified":1566623708,
     "wof:name":"Ribeira",
     "wof:parent_id":404567099,
     "wof:placetype":"locality",

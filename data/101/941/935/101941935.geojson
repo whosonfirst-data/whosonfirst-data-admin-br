@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.577086,
     "lbl:longitude":-59.118067,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-3.577086,
     "mps:longitude":-59.118067,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0994\u099f\u09be\u099c\u09be\u09b8"
     ],
@@ -89,9 +92,6 @@
     "name:spa_x_preferred":[
         "Autazes"
     ],
-    "name:unk_x_variant":[
-        "Sao Longuilho"
-    ],
     "name:vie_x_preferred":[
         "Autazes"
     ],
@@ -121,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681885,
@@ -135,7 +135,6 @@
         "fct:id":"03824c72-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3406948,
         "gp:id":456738,
-        "qs:id":147752,
         "qs_pg:id":147752,
         "wd:id":"Q1772695"
     },
@@ -155,7 +154,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243639,
+    "wof:lastmodified":1566624300,
     "wof:name":"Autazes",
     "wof:parent_id":404550221,
     "wof:placetype":"locality",

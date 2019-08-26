@@ -9,17 +9,19 @@
     "geom:bbox":"-56.8692158408,-14.4877422493,-56.8003845456,-14.4312430388",
     "geom:latitude":-14.463094,
     "geom:longitude":-56.834393,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9059,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:population":9059,
     "iso:country":"BR",
     "lbl:latitude":-14.464772,
     "lbl:longitude":-56.835054,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-14.464772,
     "mps:longitude":-56.835054,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b0\u09c7\u09a8\u09be\u09aa\u09cb\u09b2\u09bf\u09b8"
     ],
@@ -132,7 +134,7 @@
     "qs_pg:woe_id":456711,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":161,
     "wof:belongsto":[
@@ -146,7 +148,6 @@
         "fct:id":"0388d470-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471551,
         "gp:id":456711,
-        "qs:id":433687,
         "qs_pg:id":433687,
         "wd:id":"Q1806305",
         "wk:page":"Aren\u00e1polis"
@@ -166,7 +167,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245184,
+    "wof:lastmodified":1566624998,
     "wof:name":"Aren\u00e1polis",
     "wof:parent_id":102055373,
     "wof:placetype":"locality",

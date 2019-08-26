@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.094427,
     "lbl:longitude":-38.075118,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.094427,
     "mps:longitude":-38.075118,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b0\u09cd\u09b0\u09be\u0987\u0986\u09b2"
     ],
@@ -73,7 +76,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gn:id":3407076,
         "gp:id":456303,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"29c942d0fb58734dc49761060d6995ea",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101977727,
-    "wof:lastmodified":1564139846,
+    "wof:lastmodified":1566623989,
     "wof:name":"Arraial",
     "wof:parent_id":404553253,
     "wof:placetype":"locality",

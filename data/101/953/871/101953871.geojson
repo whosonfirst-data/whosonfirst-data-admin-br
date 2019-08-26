@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.263519,
     "lbl:longitude":-41.981394,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.263519,
     "mps:longitude":-41.981394,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b0\u09cd\u09b0\u09c7\u0997\u09cb \u09a1\u09cb \u0994\u09b0\u09cb"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":295,
     "wof:belongsto":[
         85681991,
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":6316931,
         "gp:id":456309,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"c845977e79a8f186eeda05b1f93c9565",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101953871,
-    "wof:lastmodified":1564139192,
+    "wof:lastmodified":1566623392,
     "wof:name":"C\u00f3rrego do Ouro",
     "wof:parent_id":404562323,
     "wof:placetype":"locality",

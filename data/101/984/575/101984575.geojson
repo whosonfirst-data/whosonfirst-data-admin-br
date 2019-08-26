@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.577901,
     "lbl:longitude":-43.668869,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.577901,
     "mps:longitude":-43.668869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "V\u00e1rzea Grande"
     ],
@@ -73,7 +76,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":22,
     "wof:belongsto":[
         102191577,
@@ -84,7 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":446353,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e6a1a7b744b21fa165647d118f418ba1",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101984575,
-    "wof:lastmodified":1564139999,
+    "wof:lastmodified":1566624072,
     "wof:name":"V\u00e1rzea Grande",
     "wof:parent_id":102057009,
     "wof:placetype":"locality",

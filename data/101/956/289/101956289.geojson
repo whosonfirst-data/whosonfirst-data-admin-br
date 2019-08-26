@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.530879,
     "lbl:longitude":-45.857855,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-23.530879,
     "mps:longitude":-45.857855,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09b2\u09c7\u09b8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
     ],
@@ -91,9 +94,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043b\u0435\u0437\u043e\u043f\u043e\u043b\u0456\u0441"
     ],
-    "name:unk_x_variant":[
-        "Sallesopolis"
-    ],
     "name:vie_x_preferred":[
         "Sales\u00f3polis"
     ],
@@ -123,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":850.0,
     "wd:latitude":-23.531944,
@@ -142,7 +142,6 @@
         "fct:id":"038a1236-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3450719,
         "gp:id":456486,
-        "qs:id":360084,
         "qs_pg:id":360084,
         "wd:id":"Q1645107"
     },
@@ -162,7 +161,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841241,
+    "wof:lastmodified":1566625354,
     "wof:name":"Sales\u00f3polis",
     "wof:parent_id":404567139,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.516746,
     "lbl:longitude":-43.752258,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.516746,
     "mps:longitude":-43.752258,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u09ac\u09cb\u099f\u09bf\u0995\u09be\u099f\u09c1\u09ac\u09be\u09b8"
     ],
@@ -89,9 +92,6 @@
     "name:swe_x_preferred":[
         "Jaboticatubas"
     ],
-    "name:unk_x_variant":[
-        "Jaboticabas"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u0628\u0648\u062a\u06cc\u06a9\u062a\u0628\u0627\u0633"
     ],
@@ -127,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -140,7 +140,6 @@
         "fct:id":"038a0430-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460450,
         "gp:id":436263,
-        "qs:id":1133970,
         "qs_pg:id":1133970,
         "wd:id":"Q1749813",
         "wk:page":"Jaboticatubas"
@@ -161,7 +160,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841200,
+    "wof:lastmodified":1566625056,
     "wof:name":"Jaboticatubas",
     "wof:parent_id":404556803,
     "wof:placetype":"locality",

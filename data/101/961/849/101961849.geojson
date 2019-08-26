@@ -9,18 +9,20 @@
     "geom:bbox":"-51.8303341849,-15.746088158,-51.8182898034,-15.7347532934",
     "geom:latitude":-15.740358,
     "geom:longitude":-51.824218,
-    "geonames:id":"3451703,3471834",
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3512,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:id":"3451703,3471834",
     "gn:population":3512,
     "iso:country":"BR",
     "lbl:latitude":-15.740289,
     "lbl:longitude":-51.824127,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-15.740289,
     "mps:longitude":-51.824127,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u0997\u09c1\u09f1\u09be\u0987\u09af\u09bc\u09be\u09a8\u09be"
     ],
@@ -81,7 +83,7 @@
     "name:swe_x_preferred":[
         "Araguaiana"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Araguiana"
     ],
     "name:vie_x_preferred":[
@@ -127,7 +129,7 @@
     "qs_pg:woe_id":446514,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681925,
@@ -140,9 +142,11 @@
     "wof:concordances":{
         "gn:id":3471834,
         "gp:id":446514,
-        "qs:id":9,
-        "qs_pg:id":1208654,
+        "qs_pg:id":9,
         "wd:id":"Q1792161"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1208654
     },
     "wof:country":"BR",
     "wof:geomhash":"92a6b61b757bfb308c35cae0dfbace39",
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":101961849,
-    "wof:lastmodified":1563245128,
+    "wof:lastmodified":1566624979,
     "wof:name":"Registro do Araguaia",
     "wof:parent_id":404554871,
     "wof:placetype":"locality",

@@ -5,19 +5,22 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
-    "geom:area_square_m":1005934.976805,
+    "geom:area_square_m":1005934.976806,
     "geom:bbox":"-40.5207181023,-2.79449808922,-40.4995784205,-2.78656126133",
     "geom:latitude":-2.7906,
     "geom:longitude":-40.510952,
-    "geonames:id":"3397384,3410836",
+    "gn:id":"3397384,3410836",
     "iso:country":"BR",
     "lbl:latitude":-2.790264,
     "lbl:longitude":-40.510231,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-2.790264,
     "mps:longitude":-40.510231,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Jericoaquara"
     ],
     "qs:a0":"Brasil",
@@ -37,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -48,7 +51,9 @@
     "wof:concordances":{
         "gn:id":3397384,
         "gp:id":457422,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1324386
     },
     "wof:country":"BR",
@@ -63,7 +68,7 @@
         }
     ],
     "wof:id":101976679,
-    "wof:lastmodified":1504301508,
+    "wof:lastmodified":1566624704,
     "wof:name":"Jericoacoara",
     "wof:parent_id":102051619,
     "wof:placetype":"locality",

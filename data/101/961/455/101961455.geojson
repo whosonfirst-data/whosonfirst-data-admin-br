@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.903147,
     "lbl:longitude":-54.877169,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.903147,
     "mps:longitude":-54.877169,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Entre Rios"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681955,
         102191577,
@@ -76,7 +79,7 @@
     "wof:concordances":{
         "gn:id":6317070,
         "gp:id":456175,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a0f2bd1b876423044dc99248c783d2af",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101961455,
-    "wof:lastmodified":1564141135,
+    "wof:lastmodified":1566624950,
     "wof:name":"Entre Rios",
     "wof:parent_id":404559195,
     "wof:placetype":"locality",

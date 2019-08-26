@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.263896,
     "lbl:longitude":-64.064495,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.263896,
     "mps:longitude":-64.064495,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Rio Branco"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -107,7 +110,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":460779,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"92cfe9d84bca330b0e1580afc75568a5",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101987977,
-    "wof:lastmodified":1564141737,
+    "wof:lastmodified":1566625556,
     "wof:name":"Rio Branco",
     "wof:parent_id":102058955,
     "wof:placetype":"locality",

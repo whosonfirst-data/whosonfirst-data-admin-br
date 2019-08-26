@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-17.892858,
     "lbl:longitude":-51.724822,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-17.892858,
     "mps:longitude":-51.724822,
     "mz:hierarchy_label":1,
@@ -90,9 +92,6 @@
     ],
     "name:swe_x_preferred":[
         "Jata\u00ed"
-    ],
-    "name:unk_x_variant":[
-        "Jatahy"
     ],
     "name:vie_x_preferred":[
         "Jata\u00ed"
@@ -215,7 +214,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -228,7 +227,6 @@
         "fct:id":"03891bce-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460064,
         "gp:id":457411,
-        "qs:id":274337,
         "qs_pg:id":274337,
         "wd:id":"Q963195"
     },
@@ -247,7 +245,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245144,
+    "wof:lastmodified":1566624984,
     "wof:name":"Jata\u00ed",
     "wof:parent_id":102052329,
     "wof:placetype":"locality",

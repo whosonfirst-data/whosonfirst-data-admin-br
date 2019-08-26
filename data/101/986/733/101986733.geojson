@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.234469,
     "lbl:longitude":-36.304175,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.234469,
     "mps:longitude":-36.304175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vila Nova"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":340,
     "wof:belongsto":[
         85681973,
@@ -81,7 +84,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"f14848fef1bcec9871463c6e0643e342",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101986733,
-    "wof:lastmodified":1564142862,
+    "wof:lastmodified":1566626335,
     "wof:name":"Vila Nova",
     "wof:parent_id":404560175,
     "wof:placetype":"locality",

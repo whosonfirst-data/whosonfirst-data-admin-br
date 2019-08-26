@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.377272,
     "lbl:longitude":-39.349276,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.377272,
     "mps:longitude":-39.349276,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Caldas"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -93,7 +96,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3403897,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a5647fc19e4d2299d81c32e21eb814d4",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101944473,
-    "wof:lastmodified":1564142378,
+    "wof:lastmodified":1566625994,
     "wof:name":"Caldas",
     "wof:parent_id":404552461,
     "wof:placetype":"locality",

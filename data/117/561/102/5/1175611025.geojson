@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-16.308177,
     "lbl:longitude":-39.042259,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-16.308177,
     "mps:longitude":-39.042259,
     "mz:hierarchy_label":1,
@@ -107,9 +109,6 @@
     ],
     "name:spa_x_preferred":[
         "Santa Cruz Cabr\u00e1lia"
-    ],
-    "name:unk_x_variant":[
-        "Santa Cruz de Cabr\u00e1lia"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0631\u0648\u0632 \u06a9\u0627\u0628\u0631\u0627\u0644\u06cc\u0627"
@@ -236,7 +235,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -251,7 +250,6 @@
         "fct:id":"0386df08-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3450288,
         "gp:id":456490,
-        "qs:id":1044861,
         "qs_pg:id":1044861,
         "wd:id":"Q993466",
         "wk:page":"Santa Cruz Cabr\u00e1lia"
@@ -272,7 +270,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563240537,
+    "wof:lastmodified":1566622752,
     "wof:name":"Santa Cruz Cabr\u00e1lia",
     "wof:parent_id":404551883,
     "wof:placetype":"locality",

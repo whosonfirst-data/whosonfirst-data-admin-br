@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.680582,
     "lbl:longitude":-44.608336,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.680582,
     "mps:longitude":-44.608336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09bf\u09a8\u09a1\u09c1\u09b0\u09bf"
     ],
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -128,7 +131,7 @@
         "fct:id":"03874f42-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457151,
         "gp:id":457590,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1790055",
         "wk:page":"Minduri"
     },
@@ -148,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841257,
+    "wof:lastmodified":1566625485,
     "wof:name":"Minduri",
     "wof:parent_id":404557249,
     "wof:placetype":"locality",

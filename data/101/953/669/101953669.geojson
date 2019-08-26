@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.470511,
     "lbl:longitude":-42.070514,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.470511,
     "mps:longitude":-42.070514,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Rio Dourado"
     ],
@@ -33,7 +37,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681991,
         102191577,
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3451149,
         "gp:id":428859,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"10793caf840a0d51bdaca04124cd4b79",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101953669,
-    "wof:lastmodified":1501266545,
+    "wof:lastmodified":1566623364,
     "wof:name":"Rio Dourado",
     "wof:parent_id":404562235,
     "wof:placetype":"locality",

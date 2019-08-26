@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-17.842411,
     "lbl:longitude":-42.078224,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-17.842411,
     "mps:longitude":-42.078224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b2\u09be\u0995\u09be\u0995\u09b9\u09c7\u099f\u09be"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -123,7 +126,6 @@
         "fct:id":"038746d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3458121,
         "gp:id":457509,
-        "qs:id":1045016,
         "qs_pg:id":1045016,
         "wd:id":"Q1755703"
     },
@@ -143,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242492,
+    "wof:lastmodified":1566623797,
     "wof:name":"Malacacheta",
     "wof:parent_id":404557081,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-9.069732,
     "lbl:longitude":-68.654564,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-9.069732,
     "mps:longitude":-68.654564,
     "mz:hierarchy_label":1,
@@ -105,9 +107,6 @@
     ],
     "name:spa_x_preferred":[
         "Sena Madureira"
-    ],
-    "name:unk_x_variant":[
-        "Pur\u00fas"
     ],
     "name:vie_x_preferred":[
         "Sena Madureira"
@@ -234,7 +233,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -247,7 +246,6 @@
         "fct:id":"0386e502-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3662155,
         "gp:id":456540,
-        "qs:id":181401,
         "qs_pg:id":181401,
         "wd:id":"Q1754389",
         "wk:page":"Sena Madureira"
@@ -267,7 +265,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243621,
+    "wof:lastmodified":1566624295,
     "wof:name":"Sena Madureira",
     "wof:parent_id":102050049,
     "wof:placetype":"locality",

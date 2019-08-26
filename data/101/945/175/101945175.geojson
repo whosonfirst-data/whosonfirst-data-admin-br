@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.091191,
     "lbl:longitude":-40.032753,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.091191,
     "mps:longitude":-40.032753,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u099f\u09c7\u09a8\u0997\u09bf"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Potengi"
     ],
-    "name:unk_x_variant":[
-        "Chique-Chique"
-    ],
     "name:vie_x_preferred":[
         "Potengi"
     ],
@@ -119,7 +119,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -132,7 +132,6 @@
         "fct:id":"03876cde-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3391336,
         "gp:id":457877,
-        "qs:id":244790,
         "qs_pg:id":244790,
         "wd:id":"Q1112312",
         "wk:page":"Potengi"
@@ -153,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841290,
+    "wof:lastmodified":1566625913,
     "wof:name":"Potengi",
     "wof:parent_id":404553669,
     "wof:placetype":"locality",

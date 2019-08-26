@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.456429,
     "lbl:longitude":-46.884838,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.456429,
     "mps:longitude":-46.884838,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*MG",
     "qs:a1_lc":"31",
@@ -30,7 +34,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456171,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"6826267a5a49a53e5ce893ea55229c60",
+    "wof:geomhash":"d9dd0fe899c73d0e3d43ba048976d527",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101965395,
-    "wof:lastmodified":1479875115,
+    "wof:lastmodified":1566623451,
     "wof:name":"Portal do Itamb\u00e9",
     "wof:parent_id":404555831,
     "wof:placetype":"locality",

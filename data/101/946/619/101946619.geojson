@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.123463,
     "lbl:longitude":-35.639719,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.123463,
     "mps:longitude":-35.639719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09ae\u09bf\u0997\u09c1\u09f1\u09c7\u09b2 \u09a1\u09c7 \u099f\u09cc\u09b0\u09cb\u09b8"
     ],
@@ -81,9 +84,6 @@
     "name:swe_x_preferred":[
         "S\u00e3o Miguel do Gostoso"
     ],
-    "name:unk_x_variant":[
-        "Santo Cristo"
-    ],
     "name:vie_x_preferred":[
         "S\u00e3o Miguel do Gostoso"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":718,
     "wof:belongsto":[
         102191577,
@@ -127,7 +127,6 @@
         "fct:id":"0381bfdc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3388307,
         "gp:id":449433,
-        "qs:id":386411,
         "qs_pg:id":386411,
         "wd:id":"Q988901",
         "wk:page":"S\u00e3o Miguel do Gostoso"
@@ -147,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841116,
+    "wof:lastmodified":1566624231,
     "wof:name":"S\u00e3o Miguel do Gostoso",
     "wof:parent_id":102058817,
     "wof:placetype":"locality",

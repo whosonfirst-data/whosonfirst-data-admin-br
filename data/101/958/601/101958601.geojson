@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.777471,
     "lbl:longitude":-54.235959,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-27.777471,
     "mps:longitude":-54.235959,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0422\u0440\u044d\u0441-\u0434\u0437\u0456-\u041c\u0430\u044e"
     ],
@@ -94,9 +97,6 @@
     "name:swe_x_preferred":[
         "Tr\u00eas de Maio"
     ],
-    "name:unk_x_variant":[
-        "3 do Maio"
-    ],
     "name:vie_x_preferred":[
         "Tr\u00eas de Maio"
     ],
@@ -126,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":121,
     "wof:belongsto":[
@@ -141,7 +141,6 @@
         "fct:id":"03878bf6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3446130,
         "gp:id":458199,
-        "qs:id":213964,
         "qs_pg:id":213964,
         "wd:id":"Q1786482",
         "wk:page":"Tr\u00eas de Maio"
@@ -162,7 +161,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245737,
+    "wof:lastmodified":1566625255,
     "wof:name":"Tr\u00eas de Maio",
     "wof:parent_id":404564939,
     "wof:placetype":"locality",

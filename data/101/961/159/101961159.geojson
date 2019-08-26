@@ -9,17 +9,19 @@
     "geom:bbox":"-56.815474564,-14.4699289386,-56.7876244208,-14.4387973971",
     "geom:latitude":-14.452726,
     "geom:longitude":-56.800687,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9634,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:population":9634,
     "iso:country":"BR",
     "lbl:latitude":-14.452591,
     "lbl:longitude":-56.797655,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-14.452591,
     "mps:longitude":-56.797655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09b0\u09cd\u099f\u09c7\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
     ],
@@ -126,7 +128,7 @@
     "qs_pg:woe_id":456359,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":150,
     "wof:belongsto":[
@@ -140,7 +142,6 @@
         "fct:id":"0389adaa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456248,
         "gp:id":456359,
-        "qs:id":1044978,
         "qs_pg:id":1044978,
         "wd:id":"Q1805662",
         "wk:page":"Nortel\u00e2ndia"
@@ -160,7 +161,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245009,
+    "wof:lastmodified":1566624931,
     "wof:name":"Nortel\u00e2ndia",
     "wof:parent_id":102055501,
     "wof:placetype":"locality",

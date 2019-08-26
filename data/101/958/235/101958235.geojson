@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-30.380796,
     "lbl:longitude":-56.445314,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-30.380796,
     "mps:longitude":-56.445314,
     "mz:hierarchy_label":1,
@@ -90,9 +92,6 @@
     ],
     "name:spa_x_preferred":[
         "Quara\u00ed"
-    ],
-    "name:unk_x_variant":[
-        "Quarahy"
     ],
     "name:vie_x_preferred":[
         "Quara\u00ed"
@@ -215,7 +214,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -228,7 +227,6 @@
         "fct:id":"038910ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3452179,
         "gp:id":456456,
-        "qs:id":1324112,
         "qs_pg:id":1324112,
         "wd:id":"Q1637478"
     },
@@ -247,7 +245,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245649,
+    "wof:lastmodified":1566625219,
     "wof:name":"Quara\u00ed",
     "wof:parent_id":102059789,
     "wof:placetype":"locality",

@@ -36,6 +36,7 @@
     ],
     "lbl:latitude":1.27729,
     "lbl:longitude":-51.785142,
+    "lbl:min_zoom":8.0,
     "mps:latitude":1.27729,
     "mps:longitude":-51.785142,
     "mz:hierarchy_label":1,
@@ -301,9 +302,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043c\u0430\u043f\u0430"
     ],
-    "name:unk_x_variant":[
-        "Amap\u00e1"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0645\u0627\u067e\u0627"
     ],
@@ -396,9 +394,9 @@
     "qs:type":"Estado",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-08-01",
+    "src:population_date":"2010-08-01",
     "statoids:area_km":"142,829",
     "statoids:area_mi":"55,146",
     "statoids:as_of_date":"2010-08-01",
@@ -442,11 +440,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565660981,
+    "wof:lastmodified":1566620842,
     "wof:name":"Amapa",
     "wof:parent_id":85633009,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":669526,
     "wof:population_rank":11,

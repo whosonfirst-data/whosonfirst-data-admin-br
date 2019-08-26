@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.904369,
     "lbl:longitude":-48.561173,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-7.904369,
     "mps:longitude":-48.561173,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09cd\u099f\u09bf\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-23.145833,
     "wd:longitude":-51.170833,
@@ -95,7 +98,7 @@
     "wof:concordances":{
         "gn:id":8472762,
         "gp:id":458792,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"166b6e44e488fa6da62e7efc1b1ead4a",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101989185,
-    "wof:lastmodified":1564142195,
+    "wof:lastmodified":1566625810,
     "wof:name":"Martin\u00f3polis",
     "wof:parent_id":102062487,
     "wof:placetype":"locality",

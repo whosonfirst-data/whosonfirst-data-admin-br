@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.369438,
     "lbl:longitude":-53.491372,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.369438,
     "mps:longitude":-53.491372,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09bf\u09b8\u09cd\u099f\u09be \u0986\u09b2\u09c7\u0997\u09cd\u09b0\u09c7"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         102191577,
@@ -119,7 +122,7 @@
         "fct:id":"0387f956-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6318943,
         "gp:id":461685,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1774451",
         "wk:page":"Vista Alegre, Rio Grande do Sul"
     },
@@ -138,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245057,
+    "wof:lastmodified":1566624949,
     "wof:name":"Vista Alegre",
     "wof:parent_id":102060141,
     "wof:placetype":"locality",

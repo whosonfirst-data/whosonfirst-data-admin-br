@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.727722,
     "lbl:longitude":-50.7225,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-21.727722,
     "mps:longitude":-50.7225,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.725833,
     "wd:longitude":-50.721944,
@@ -125,7 +128,6 @@
         "fct:id":"038648f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451272,
         "gp:id":447188,
-        "qs:id":367392,
         "qs_pg:id":367392,
         "wd:id":"Q1761556",
         "wk:page":"Rin\u00f3polis"
@@ -145,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841210,
+    "wof:lastmodified":1566625143,
     "wof:name":"Rin\u00f3polis",
     "wof:parent_id":102062095,
     "wof:placetype":"locality",

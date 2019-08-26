@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.640705,
     "lbl:longitude":-51.103789,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-20.640705,
     "mps:longitude":-51.103789,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09b0\u09c7\u0987\u09b0\u09be \u09ac\u09be\u09b0\u09cd\u09b0\u09c7\u099f\u09cb"
     ],
@@ -80,9 +83,6 @@
     "name:swe_x_preferred":[
         "Pereira Barreto"
     ],
-    "name:unk_x_variant":[
-        "Novo Oriente"
-    ],
     "name:vie_x_preferred":[
         "Pereira Barreto"
     ],
@@ -113,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-20.638333,
     "wd:longitude":-51.109167,
@@ -130,7 +130,6 @@
         "fct:id":"0386d558-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3454131,
         "gp:id":456407,
-        "qs:id":148035,
         "qs_pg:id":148035,
         "wd:id":"Q928154",
         "wk:page":"Pereira Barreto"
@@ -150,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242656,
+    "wof:lastmodified":1566623855,
     "wof:name":"Pereira Barreto",
     "wof:parent_id":102061939,
     "wof:placetype":"locality",

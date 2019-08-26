@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.156729,
     "lbl:longitude":-53.374046,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-24.156729,
     "mps:longitude":-53.374046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u0989\u09b2\u09bf\u09b8\u099f\u09be\u09a8\u09bf\u09af\u09bc\u09be"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.578333,
     "wd:longitude":-49.402778,
@@ -107,7 +110,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6317902,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"56697e16082282d8a0d6a3ec0d885246",
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101954717,
-    "wof:lastmodified":1564139146,
+    "wof:lastmodified":1566623336,
     "wof:name":"Paulist\u00e2nia",
     "wof:parent_id":404560835,
     "wof:placetype":"locality",

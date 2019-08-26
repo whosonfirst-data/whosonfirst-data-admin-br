@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.454483,
     "lbl:longitude":-44.775301,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-3.454483,
     "mps:longitude":-44.775301,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u09b0\u09bf"
     ],
@@ -77,9 +80,6 @@
     "name:tet_x_preferred":[
         "Arari"
     ],
-    "name:unk_x_variant":[
-        "Arary"
-    ],
     "name:vie_x_preferred":[
         "Arari"
     ],
@@ -109,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681931,
@@ -123,7 +123,6 @@
         "fct:id":"037fce2a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3407258,
         "gp:id":422314,
-        "qs:id":1222417,
         "qs_pg:id":1222417,
         "wd:id":"Q1813008"
     },
@@ -143,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247529,
+    "wof:lastmodified":1566626124,
     "wof:name":"Arari",
     "wof:parent_id":404554985,
     "wof:placetype":"locality",

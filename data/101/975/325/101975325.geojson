@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.211647,
     "lbl:longitude":-45.21135,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.211647,
     "mps:longitude":-45.21135,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0643\u0627\u0648"
     ],
@@ -211,7 +214,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1683,
     "wof:belongsto":[
         102191577,
@@ -221,7 +224,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q57148"
     },
     "wof:country":"BR",
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":101975325,
-    "wof:lastmodified":1563247710,
+    "wof:lastmodified":1566626222,
     "wof:name":"Cacau",
     "wof:parent_id":102052819,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"-49.158234184,-24.3254380136,-49.1363193065,-24.3049743649",
     "geom:latitude":-24.314394,
     "geom:longitude":-49.147206,
-    "geonames:id":"6316616,8469382",
+    "gn:id":"6316616,8469382",
     "iso:country":"BR",
     "lbl:latitude":-24.314564,
     "lbl:longitude":-49.145899,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-24.314564,
     "mps:longitude":-49.145899,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09ae \u09b8\u09c1\u09b8\u09c7\u09b8\u09b8\u09cb \u09a1\u09c7 \u0987\u099f\u09be\u09b0\u09be\u09b0\u09c7"
     ],
@@ -104,7 +107,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-24.317778,
     "wd:longitude":-49.143889,
@@ -119,7 +122,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26804089,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q734464"
     },
     "wof:country":"BR",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101955601,
-    "wof:lastmodified":1561841099,
+    "wof:lastmodified":1566623861,
     "wof:name":"Bom Sucesso de Itarar\u00e9",
     "wof:parent_id":102061171,
     "wof:placetype":"locality",

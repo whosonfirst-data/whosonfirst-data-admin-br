@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.673456,
     "lbl:longitude":-46.224089,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.673456,
     "mps:longitude":-46.224089,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barroso"
     ],
@@ -73,7 +76,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -84,7 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":452972,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a07c8e152b9518d6181db81d21fb6f76",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101965795,
-    "wof:lastmodified":1564139258,
+    "wof:lastmodified":1566623458,
     "wof:name":"Barroso",
     "wof:parent_id":404566795,
     "wof:placetype":"locality",

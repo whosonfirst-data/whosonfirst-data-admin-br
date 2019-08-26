@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.126933,
     "lbl:longitude":-54.336112,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.126933,
     "mps:longitude":-54.336112,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Santa In\u00eas"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":200,
     "wof:belongsto":[
         85681983,
@@ -88,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26804121,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"980e3e269ebf04a578eb3107c2bd5494",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101988321,
-    "wof:lastmodified":1564142487,
+    "wof:lastmodified":1566626063,
     "wof:name":"Santa In\u00eas",
     "wof:parent_id":404561291,
     "wof:placetype":"locality",

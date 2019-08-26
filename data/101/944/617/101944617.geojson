@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.165234,
     "lbl:longitude":-38.884531,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.165234,
     "mps:longitude":-38.884531,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09cb \u0986\u09a8\u09cd\u099f\u09cb\u09a8\u09bf\u0993"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":345,
     "wof:belongsto":[
         85681907,
@@ -84,7 +87,7 @@
         "fct:id":"0384c5f6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3389127,
         "gp:id":449258,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"4f8a4899073716d1ca19b9b4169b42c0",
@@ -102,7 +105,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564142328,
+    "wof:lastmodified":1566625957,
     "wof:name":"Santo Ant\u00f4nio",
     "wof:parent_id":404552487,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.042224,
     "lbl:longitude":-42.525562,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.042224,
     "mps:longitude":-42.525562,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u0997\u09cb\u09af\u09bc\u09be \u09a8\u09cb\u09ad\u09be"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -108,7 +111,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456875,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"2f6cd007fd7846494c6f96f5bf6144ed",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101970887,
-    "wof:lastmodified":1564140072,
+    "wof:lastmodified":1566624115,
     "wof:name":"Lagoa Nova",
     "wof:parent_id":404550589,
     "wof:placetype":"locality",

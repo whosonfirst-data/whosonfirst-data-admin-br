@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.828141,
     "lbl:longitude":-53.909381,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-27.828141,
     "mps:longitude":-53.909381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b0\u09cb\u0986\u09a1\u09cb\u09b8"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.351944,
     "wd:longitude":-50.281389,
@@ -102,7 +105,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"23b17ab493b1591f6c99f84dbdc2a34c",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101988371,
-    "wof:lastmodified":1564142440,
+    "wof:lastmodified":1566626034,
     "wof:name":"Coroados",
     "wof:parent_id":102059969,
     "wof:placetype":"locality",

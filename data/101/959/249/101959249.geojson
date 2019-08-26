@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.733037,
     "lbl:longitude":-52.996563,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.733037,
     "mps:longitude":-52.996563,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Constantina"
     ],
@@ -76,9 +79,6 @@
     "name:swe_x_preferred":[
         "Constantina"
     ],
-    "name:unk_x_variant":[
-        "Benjamin Constant"
-    ],
     "name:vol_x_preferred":[
         "Constantina"
     ],
@@ -105,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -118,7 +118,6 @@
         "fct:id":"037ff936-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465629,
         "gp:id":457067,
-        "qs:id":904812,
         "qs_pg:id":904812,
         "wd:id":"Q1996363"
     },
@@ -138,7 +137,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245412,
+    "wof:lastmodified":1566625114,
     "wof:name":"Constantina",
     "wof:parent_id":404563399,
     "wof:placetype":"locality",

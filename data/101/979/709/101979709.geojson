@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.083705,
     "lbl:longitude":-44.680503,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-2.083705,
     "mps:longitude":-44.680503,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Prata"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -79,7 +82,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"b519f1b4a9c4c5b1ef97e01a8efe7858",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101979709,
-    "wof:lastmodified":1564140160,
+    "wof:lastmodified":1566624164,
     "wof:name":"Prata",
     "wof:parent_id":102052951,
     "wof:placetype":"locality",

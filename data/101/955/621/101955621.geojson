@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.119168,
     "lbl:longitude":-48.906971,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-24.119168,
     "mps:longitude":-48.906971,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u0995\u09be\u09ae\u09aa\u09bf\u09a8\u09be"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-24.120833,
     "wd:longitude":-48.903611,
@@ -120,7 +123,6 @@
         "fct:id":"03885a72-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317719,
         "gp:id":26804095,
-        "qs:id":904552,
         "qs_pg:id":904552,
         "wd:id":"Q946930",
         "wk:page":"Nova Campina"
@@ -141,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242558,
+    "wof:lastmodified":1566623823,
     "wof:name":"Nova Campina",
     "wof:parent_id":404566865,
     "wof:placetype":"locality",

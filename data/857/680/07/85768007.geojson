@@ -12,8 +12,10 @@
     "gn:latitude":-19.75,
     "gn:longitude":-55.21667,
     "iso:country":"BR",
+    "lbl:bbox":"-54.629502,-20.447232,-54.619502,-20.437232",
     "lbl:latitude":-20.442232,
     "lbl:longitude":-54.624502,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-20.437422,
     "mps:longitude":-54.628547,
     "mz:hierarchy_label":0,
@@ -73,9 +75,8 @@
     "name:swe_x_preferred":[
         "S\u00e3o Francisco"
     ],
-    "name:unk_x_variant":[
-        "Fazenda S\u00e3o Francisco",
-        "S\u00e3o Francisco"
+    "name:und_x_variant":[
+        "Fazenda S\u00e3o Francisco"
     ],
     "name:vie_x_preferred":[
         "S\u00e3o Francisco"
@@ -111,7 +112,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191577,
         404558855,
@@ -124,8 +125,10 @@
     "wof:concordances":{
         "gn:id":3449169,
         "gp:id":56067894,
-        "qs:id":1206421,
         "qs_pg:id":1199873
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1206421
     },
     "wof:country":"BR",
     "wof:geomhash":"6f57fb94c47b76b0795dfa6502de3933",
@@ -144,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564134655,
+    "wof:lastmodified":1566620733,
     "wof:name":"S\u00e3o Francisco",
     "wof:parent_id":101961475,
     "wof:placetype":"neighbourhood",

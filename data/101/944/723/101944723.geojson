@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.349195,
     "lbl:longitude":-38.58536,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.349195,
     "mps:longitude":-38.58536,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a1\u09cd\u09b0\u09bf\u09a8\u09b9\u09be\u09b8"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -94,7 +97,7 @@
     "wof:concordances":{
         "gn:id":3392444,
         "gp:id":443660,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"ab791fb9adb93baa68d8f05137077d3d",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101944723,
-    "wof:lastmodified":1564142352,
+    "wof:lastmodified":1566625976,
     "wof:name":"Pedrinhas",
     "wof:parent_id":404553001,
     "wof:placetype":"locality",

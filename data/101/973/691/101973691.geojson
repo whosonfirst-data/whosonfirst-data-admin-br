@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.813193,
     "lbl:longitude":-37.297979,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.813193,
     "mps:longitude":-37.297979,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Restingao"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":3390648,
         "gp:id":456798,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"ca94283259bef6b7aaf47afe3af81943",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101973691,
-    "wof:lastmodified":1564141873,
+    "wof:lastmodified":1566625633,
     "wof:name":"Restinga",
     "wof:parent_id":102050077,
     "wof:placetype":"locality",

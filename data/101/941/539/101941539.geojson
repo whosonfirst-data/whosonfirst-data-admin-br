@@ -9,14 +9,17 @@
     "geom:bbox":"-68.9915031003,-3.481579,-68.9130599166,-3.45598346171",
     "geom:latitude":-3.468532,
     "geom:longitude":-68.946496,
-    "geonames:id":"3662252,8521335",
+    "gn:id":"3662252,8521335",
     "iso:country":"BR",
     "lbl:latitude":-3.469588,
     "lbl:longitude":-68.94709,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.469588,
     "mps:longitude":-68.94709,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0626\u0648 \u0628\u0627\u0626\u0648\u0644\u0648 \u062f\u064a \u0625\u0648\u0644\u064a\u0641\u0646\u0633\u0627"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":153,
     "wof:belongsto":[
         85681885,
@@ -80,9 +83,11 @@
     "wof:concordances":{
         "gn:id":3662252,
         "gp:id":56125209,
-        "qs:id":9,
-        "qs_pg:id":149805,
+        "qs_pg:id":9,
         "wd:id":"Q1794983"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":149805
     },
     "wof:country":"BR",
     "wof:geomhash":"aa3549882febca600fff189be5139ea4",
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":101941539,
-    "wof:lastmodified":1563243636,
+    "wof:lastmodified":1566624299,
     "wof:name":"S\u00e3o Paulo de Oliven\u00e7a",
     "wof:parent_id":404550299,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2277389.664583,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-48.633728,-27.583763,-48.633728,-27.583763",
     "geom:latitude":-27.583763,
     "geom:longitude":-48.633728,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-48.638728,-27.588763,-48.628728,-27.578763",
     "lbl:latitude":-27.583763,
     "lbl:longitude":-48.633728,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-27.583763,
     "mps:longitude":-48.637328,
     "mz:hierarchy_label":0,
@@ -60,9 +62,6 @@
     "name:spa_x_preferred":[
         "S\u00e3o Jos\u00e9"
     ],
-    "name:unk_x_variant":[
-        "Bosque Das Mans\u00f5es"
-    ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_id":0,
     "qs:gn_local":3448744,
@@ -91,21 +90,23 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682021,
         102191577,
         404565871,
         85633009,
         101960935,
-        102060743
+        102060743,
+        85682021
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3448742,
         "gp:id":56073291,
-        "qs:id":795243,
         "qs_pg:id":368395
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":795243
     },
     "wof:country":"BR",
     "wof:geomhash":"9f79cdb1e100bc928bb483e778a01174",
@@ -124,7 +125,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859197,
+    "wof:lastmodified":1566620779,
     "wof:name":"Bosque Das Mans\u00f5es",
     "wof:parent_id":101960935,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.914356,
     "lbl:longitude":-62.556115,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.914356,
     "mps:longitude":-62.556115,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u0987\u0989\u09a8\u09bf\u09af\u09bc\u09be\u0989"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -109,7 +112,7 @@
         "fct:id":"03883a42-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317773,
         "gp:id":26803854,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2364475",
         "wk:page":"Nova Uni\u00e3o, Rond\u00f4nia"
     },
@@ -128,7 +131,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243590,
+    "wof:lastmodified":1566624286,
     "wof:name":"Nova Uni\u00e3o",
     "wof:parent_id":102058977,
     "wof:placetype":"locality",

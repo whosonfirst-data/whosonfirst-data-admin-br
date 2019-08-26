@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.510705,
     "lbl:longitude":-48.845211,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-24.510705,
     "mps:longitude":-48.845211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0986\u09aa\u09bf\u0986\u0987"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Apia\u00ed"
     ],
-    "name:unk_x_variant":[
-        "Apiahy"
-    ],
     "name:vie_x_preferred":[
         "Apia\u00ed"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-24.509722,
     "wd:longitude":-48.842778,
@@ -136,7 +136,6 @@
         "fct:id":"0386a650-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471927,
         "gp:id":456041,
-        "qs:id":1323876,
         "qs_pg:id":1323876,
         "wd:id":"Q1760259",
         "wk:page":"Apia\u00ed"
@@ -157,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242375,
+    "wof:lastmodified":1566623749,
     "wof:name":"Apia\u00ed",
     "wof:parent_id":404566107,
     "wof:placetype":"locality",

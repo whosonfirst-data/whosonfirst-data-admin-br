@@ -9,16 +9,19 @@
     "geom:bbox":"-53.5820787102,-16.9916907497,-53.4785755971,-16.8920757335",
     "geom:latitude":-16.941958,
     "geom:longitude":-53.530466,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-16.927712,
     "lbl:longitude":-53.525369,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.927712,
     "mps:longitude":-53.525369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09cd\u099f\u09cb \u0997\u09be\u09b0\u09cd\u0995\u09be\u09b8"
     ],
@@ -94,9 +97,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0442\u0443-\u0413\u0430\u0440\u0441\u0430\u0441"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Vicente"
-    ],
     "name:vie_x_preferred":[
         "Alto Gar\u00e7as"
     ],
@@ -140,7 +140,7 @@
     "qs_pg:woe_id":456647,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":236,
     "wof:belongsto":[
         102191577,
@@ -153,7 +153,6 @@
         "fct:id":"0386f092-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472448,
         "gp:id":456647,
-        "qs:id":342531,
         "qs_pg:id":342531,
         "wd:id":"Q443458"
     },
@@ -172,7 +171,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245049,
+    "wof:lastmodified":1566624946,
     "wof:name":"Alto Gar\u00e7as",
     "wof:parent_id":102055357,
     "wof:placetype":"locality",

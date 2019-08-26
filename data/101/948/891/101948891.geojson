@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.739159,
     "lbl:longitude":-44.308744,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-21.739159,
     "mps:longitude":-44.308744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u09a1\u09cd\u09b0\u09c7\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
     ],
@@ -93,9 +96,6 @@
     "name:swe_x_preferred":[
         "Andrel\u00e2ndia"
     ],
-    "name:unk_x_variant":[
-        "Turvo"
-    ],
     "name:vie_x_preferred":[
         "Andrel\u00e2ndia"
     ],
@@ -125,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":217,
     "wof:belongsto":[
@@ -140,7 +140,6 @@
         "fct:id":"0386f308-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472245,
         "gp:id":456672,
-        "qs:id":148499,
         "qs_pg:id":148499,
         "wd:id":"Q503236",
         "wk:page":"Andrel\u00e2ndia"
@@ -161,7 +160,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841109,
+    "wof:lastmodified":1566623920,
     "wof:name":"Andrel\u00e2ndia",
     "wof:parent_id":404555239,
     "wof:placetype":"locality",

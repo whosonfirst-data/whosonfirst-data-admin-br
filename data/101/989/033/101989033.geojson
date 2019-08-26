@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.381051,
     "lbl:longitude":-49.021491,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.381051,
     "mps:longitude":-49.021491,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "S\u00e3o Martinho"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":119,
     "wof:belongsto":[
         85682021,
@@ -94,7 +97,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":459565,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2065307"
     },
     "wof:country":"BR",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101989033,
-    "wof:lastmodified":1561841273,
+    "wof:lastmodified":1566625800,
     "wof:name":"S\u00e3o Martinho",
     "wof:parent_id":404565445,
     "wof:placetype":"locality",

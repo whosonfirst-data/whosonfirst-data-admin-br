@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.595838,
     "lbl:longitude":-41.963927,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.595838,
     "mps:longitude":-41.963927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ae\u09ac\u09c7 \u09a1\u09c7 \u09ae\u09bf\u09a8\u09be\u09b8"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":151,
     "wof:belongsto":[
         85681941,
@@ -126,7 +129,7 @@
         "fct:id":"0389657a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317278,
         "gp:id":55943882,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1791308",
         "wk:page":"Imb\u00e9 de Minas"
     },
@@ -146,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841085,
+    "wof:lastmodified":1566623772,
     "wof:name":"Imb\u00e9 de Minas",
     "wof:parent_id":404556627,
     "wof:placetype":"locality",

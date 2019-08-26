@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.471086,
     "lbl:longitude":-43.404559,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.471086,
     "mps:longitude":-43.404559,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u0987\u0995\u09cd\u09b8\u09c7"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -94,7 +97,7 @@
     "wof:concordances":{
         "gn:id":3392414,
         "gp:id":460446,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"1fc98f1769496db18fd85ec3408a2e9b",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101946975,
-    "wof:lastmodified":1564140308,
+    "wof:lastmodified":1566624282,
     "wof:name":"Peixe",
     "wof:parent_id":404550677,
     "wof:placetype":"locality",

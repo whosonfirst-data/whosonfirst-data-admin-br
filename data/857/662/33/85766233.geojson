@@ -13,6 +13,7 @@
     "iso:country":"BR",
     "lbl:latitude":-23.460975,
     "lbl:longitude":-46.576494,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-23.450647,
     "mps:longitude":-46.57356,
     "mz:hierarchy_label":1,
@@ -127,9 +128,6 @@
     "name:tur_x_preferred":[
         "Jakana"
     ],
-    "name:unk_x_variant":[
-        "Jacana"
-    ],
     "name:vie_x_preferred":[
         "H\u1ecd G\u00e0 l\u00f4i n\u01b0\u1edbc"
     ],
@@ -166,7 +164,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191577,
         404567359,
@@ -178,7 +176,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26804426,
-        "qs:id":1154664,
         "qs_pg:id":1154664
     },
     "wof:country":"BR",
@@ -198,7 +195,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564134761,
+    "wof:lastmodified":1566620811,
     "wof:name":"Jacana",
     "wof:parent_id":101965533,
     "wof:placetype":"neighbourhood",

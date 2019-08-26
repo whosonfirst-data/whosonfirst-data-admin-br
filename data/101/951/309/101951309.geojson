@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.251601,
     "lbl:longitude":-44.167368,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-16.251601,
     "mps:longitude":-44.167368,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09bf\u09b0\u09be\u09ac\u09c7\u09b2\u09be"
     ],
@@ -81,9 +84,6 @@
     "name:swe_x_preferred":[
         "Mirabela"
     ],
-    "name:unk_x_variant":[
-        "Bella Vista"
-    ],
     "name:vie_x_preferred":[
         "Mirabela"
     ],
@@ -113,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -127,7 +127,6 @@
         "fct:id":"0386c9f0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457136,
         "gp:id":456332,
-        "qs:id":1209288,
         "qs_pg:id":1209288,
         "wd:id":"Q1790146"
     },
@@ -147,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246200,
+    "wof:lastmodified":1566625476,
     "wof:name":"Mirabela",
     "wof:parent_id":404557251,
     "wof:placetype":"locality",

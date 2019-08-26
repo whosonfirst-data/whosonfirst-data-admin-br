@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.577467,
     "lbl:longitude":-53.442492,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.577467,
     "mps:longitude":-53.442492,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09be\u0995\u09cd\u09b8\u09bf\u09a8\u09be\u09b2 \u09a1\u09cb \u09b8\u09cb\u099f\u09c1\u09b0\u09cd\u09a8\u09cb"
     ],
@@ -73,9 +76,6 @@
     "name:swe_x_preferred":[
         "Faxinal do Soturno"
     ],
-    "name:unk_x_variant":[
-        "Faxinal"
-    ],
     "name:vie_x_preferred":[
         "Faxinal do Soturno"
     ],
@@ -105,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -117,10 +117,12 @@
         "fct:id":"0397665c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3463555,
         "gp:id":461718,
-        "qs:id":290366,
         "qs_pg:id":272909,
         "wd:id":"Q1758171",
         "wk:page":"Faxinal do Soturno"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":290366
     },
     "wof:country":"BR",
     "wof:geomhash":"60e50c91aa2ed9449fef8ebf786b4771",
@@ -137,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841209,
+    "wof:lastmodified":1566625139,
     "wof:name":"Faxinal do Soturno",
     "wof:parent_id":102059405,
     "wof:placetype":"locality",

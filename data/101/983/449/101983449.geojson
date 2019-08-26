@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-1.801162,
     "lbl:longitude":-46.698491,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-1.801162,
     "mps:longitude":-46.698491,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*PA",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681959,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":459021,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"771e7990787a8debe02359322da2208c",
+    "wof:geomhash":"0c4e7ea15f883f6a22e9078a4decc23d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101983449,
-    "wof:lastmodified":1479912369,
+    "wof:lastmodified":1566624000,
     "wof:name":"Japim",
     "wof:parent_id":404559823,
     "wof:placetype":"locality",

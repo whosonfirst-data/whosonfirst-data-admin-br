@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-5.051453,
     "lbl:longitude":-42.786841,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":-5.051453,
     "mps:longitude":-42.786841,
     "mz:hierarchy_label":1,
@@ -244,9 +246,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0440\u0435\u0437\u0456\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Poti"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u06cc\u0631\u06cc\u0633\u06cc\u0646\u0627"
     ],
@@ -374,7 +373,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -387,7 +386,6 @@
         "fct:id":"038691f6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3386496,
         "gp:id":455835,
-        "qs:id":368743,
         "qs_pg:id":368743,
         "wd:id":"Q165341",
         "wk:page":"Teresina"
@@ -407,7 +405,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247544,
+    "wof:lastmodified":1566626129,
     "wof:megacity":1,
     "wof:name":"Teresina",
     "wof:parent_id":102057387,

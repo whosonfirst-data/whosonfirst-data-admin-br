@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.776006,
     "lbl:longitude":-56.077498,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.776006,
     "mps:longitude":-56.077498,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u098f\u09a8\u0997\u09c7\u09a8\u09b9\u09cb \u09ad\u09c7\u09b2\u09b9\u09cb"
     ],
@@ -70,9 +73,6 @@
     "name:swe_x_preferred":[
         "Engenho Velho"
     ],
-    "name:unk_x_variant":[
-        "Fazenda Velha"
-    ],
     "name:vie_x_preferred":[
         "Engenho Velho"
     ],
@@ -100,7 +100,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681955,
         102191577,
@@ -114,7 +114,7 @@
         "fct:id":"0383638c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3464122,
         "gp:id":459378,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"287279c00938636d8a710c59e03633a4",
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":1175610905,
-    "wof:lastmodified":1564138148,
+    "wof:lastmodified":1566622766,
     "wof:name":"Engenho Velho",
     "wof:parent_id":404559385,
     "wof:placetype":"locality",
