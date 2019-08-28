@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.036819,
     "lbl:longitude":-41.680098,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-18.036819,
     "mps:longitude":-41.680098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09ae\u09ac\u09be\u0995\u09c1\u09b0\u09bf"
     ],
@@ -87,9 +90,6 @@
     "name:swe_x_preferred":[
         "Itambacuri"
     ],
-    "name:unk_x_variant":[
-        "Itambacury"
-    ],
     "name:vie_x_preferred":[
         "Itambacuri"
     ],
@@ -122,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -136,7 +136,6 @@
         "fct:id":"0380cb18-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460817,
         "gp:id":435988,
-        "qs:id":148208,
         "qs_pg:id":148208,
         "wd:id":"Q1754657",
         "wk:page":"Itambacuri"
@@ -157,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242360,
+    "wof:lastmodified":1566623743,
     "wof:name":"Itambacuri",
     "wof:parent_id":404556729,
     "wof:placetype":"locality",

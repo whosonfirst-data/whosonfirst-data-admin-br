@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.029751,
     "lbl:longitude":-35.465093,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-7.029751,
     "mps:longitude":-35.465093,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09c1\u09b2\u09c1\u0999\u09cd\u0997\u09c1"
     ],
@@ -68,9 +71,6 @@
     "name:rus_x_preferred":[
         "\u041c\u0443\u043b\u0443\u043d\u0433\u0443"
     ],
-    "name:unk_x_variant":[
-        "Camarazal"
-    ],
     "name:vie_x_preferred":[
         "Mulungu"
     ],
@@ -100,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -113,7 +113,6 @@
         "fct:id":"0387c9ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3394238,
         "gp:id":460201,
-        "qs:id":1060128,
         "qs_pg:id":1060128,
         "wd:id":"Q2341988",
         "wk:page":"Mulungu, Para\u00edba"
@@ -133,7 +132,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243562,
+    "wof:lastmodified":1566624278,
     "wof:name":"Mulungu",
     "wof:parent_id":102056263,
     "wof:placetype":"locality",

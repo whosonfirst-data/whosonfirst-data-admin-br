@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-23.069403,
     "lbl:longitude":-52.109088,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-23.069403,
     "mps:longitude":-52.109088,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0989\u09a8\u09bf\u09ab\u09cd\u09b2\u09cb\u09b0\u09cd"
     ],
@@ -112,7 +115,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":145,
     "wof:belongsto":[
         102191577,
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":102058279,
-    "wof:lastmodified":1563236300,
+    "wof:lastmodified":1566620037,
     "wof:name":"Uniflor",
     "wof:parent_id":85681983,
     "wof:placetype":"county",

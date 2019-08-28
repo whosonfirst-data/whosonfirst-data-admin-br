@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.641286,
     "lbl:longitude":-35.553803,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-7.641286,
     "mps:longitude":-35.553803,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09be\u099f\u09c1\u09ac\u09be"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681967,
@@ -114,7 +117,6 @@
         "fct:id":"038619b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3394018,
         "gp:id":441327,
-        "qs:id":904807,
         "qs_pg:id":904807,
         "wd:id":"Q2008665",
         "wk:page":"Natuba"
@@ -135,7 +137,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841118,
+    "wof:lastmodified":1566624241,
     "wof:name":"Natuba",
     "wof:parent_id":404559993,
     "wof:placetype":"locality",

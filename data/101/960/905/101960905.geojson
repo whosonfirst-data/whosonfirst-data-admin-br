@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.106306,
     "lbl:longitude":-49.637998,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-29.106306,
     "mps:longitude":-49.637998,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09cb\u09ae\u09ac\u09cd\u09b0\u09bf\u0993"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682021,
@@ -120,7 +123,6 @@
         "fct:id":"0387e754-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3447409,
         "gp:id":461295,
-        "qs:id":190065,
         "qs_pg:id":190065,
         "wd:id":"Q1784827",
         "wk:page":"Sombrio"
@@ -141,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841234,
+    "wof:lastmodified":1566625310,
     "wof:name":"Sombrio",
     "wof:parent_id":404565915,
     "wof:placetype":"locality",

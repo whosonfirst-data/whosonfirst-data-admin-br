@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.005446,
     "lbl:longitude":-40.2929,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.005446,
     "mps:longitude":-40.2929,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jatob\u00e1"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":49,
     "wof:belongsto":[
         85681973,
@@ -74,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3397510,
         "gp:id":457708,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"2f4975c20c03c7951161180d93c28b50",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101985529,
-    "wof:lastmodified":1564140645,
+    "wof:lastmodified":1566624508,
     "wof:name":"Jatob\u00e1",
     "wof:parent_id":404560515,
     "wof:placetype":"locality",

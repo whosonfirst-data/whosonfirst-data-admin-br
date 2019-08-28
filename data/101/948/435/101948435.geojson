@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.676765,
     "lbl:longitude":-35.582389,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-8.676765,
     "mps:longitude":-35.582389,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b2\u09ae\u09be\u09b0\u09c7\u09b8"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":196,
     "wof:belongsto":[
@@ -115,7 +118,6 @@
         "fct:id":"0388c49e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3393264,
         "gp:id":457720,
-        "qs:id":1324435,
         "qs_pg:id":1324435,
         "wd:id":"Q547095",
         "wk:page":"Palmares, Pernambuco"
@@ -136,7 +138,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841110,
+    "wof:lastmodified":1566623925,
     "wof:name":"Palmares",
     "wof:parent_id":404560519,
     "wof:placetype":"locality",

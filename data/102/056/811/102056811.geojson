@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-8.608413,
     "lbl:longitude":-39.880639,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-8.608413,
     "mps:longitude":-39.880639,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be \u09a1\u09be \u09ac\u09cb\u09f1\u09be \u09ad\u09bf\u09b8\u09cd\u099f\u09be"
     ],
@@ -91,7 +94,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":177,
     "wof:belongsto":[
         102191577,
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":102056811,
-    "wof:lastmodified":1563235884,
+    "wof:lastmodified":1566619775,
     "wof:name":"Santa Maria Da Boa Vista",
     "wof:parent_id":85681973,
     "wof:placetype":"county",

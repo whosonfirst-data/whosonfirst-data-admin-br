@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.857352,
     "lbl:longitude":-52.399064,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.857352,
     "mps:longitude":-52.399064,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Leandro"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":32,
     "wof:belongsto":[
         85682021,
@@ -67,7 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":90218000,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"2592fb4b85c364b0e25edfdea4e71805",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101963369,
-    "wof:lastmodified":1564139395,
+    "wof:lastmodified":1566623594,
     "wof:name":"Leandro",
     "wof:parent_id":404565997,
     "wof:placetype":"locality",

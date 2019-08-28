@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.542535,
     "lbl:longitude":-36.509769,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.542535,
     "mps:longitude":-36.509769,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Ermo"
     ],
@@ -34,7 +37,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -43,7 +46,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"5254ef6e9276549b2cb737763b15be35",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101986615,
-    "wof:lastmodified":1564142882,
+    "wof:lastmodified":1566626344,
     "wof:name":"Ermo",
     "wof:parent_id":102058571,
     "wof:placetype":"locality",

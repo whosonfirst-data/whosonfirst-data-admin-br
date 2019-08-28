@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.603412,
     "lbl:longitude":-53.058727,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.603412,
     "mps:longitude":-53.058727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Saltinho"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":151,
     "wof:belongsto":[
         102191577,
@@ -107,7 +110,7 @@
         "fct:id":"03886878-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6318204,
         "gp:id":26804181,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2011982",
         "wk:page":"Saltinho, Santa Catarina"
     },
@@ -126,7 +129,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245934,
+    "wof:lastmodified":1566625343,
     "wof:name":"Saltinho",
     "wof:parent_id":102060691,
     "wof:placetype":"locality",

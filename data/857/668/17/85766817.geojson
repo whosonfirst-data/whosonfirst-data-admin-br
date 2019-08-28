@@ -9,14 +9,15 @@
     "geom:bbox":"-43.2119750976,-22.8051774486,-43.1857823954,-22.783907235",
     "geom:latitude":-22.792781,
     "geom:longitude":-43.19832,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:latitude":-22.79707,
     "gn:longitude":-43.19933,
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-22.795452,
     "lbl:longitude":-43.200152,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-22.793222,
     "mps:longitude":-43.19595,
     "mz:hierarchy_label":1,
@@ -41,9 +42,6 @@
         "Monero"
     ],
     "name:por_x_preferred":[
-        "Moner\u00f3"
-    ],
-    "name:unk_x_variant":[
         "Moner\u00f3"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -92,8 +90,7 @@
     "qs_pg:woe_id":55944237,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633009,
         101953261
@@ -102,7 +99,6 @@
     "wof:concordances":{
         "gn:id":7538748,
         "gp:id":55944237,
-        "qs:id":968606,
         "qs_pg:id":968606,
         "wd:id":"Q3860678",
         "wk:page":"Moner\u00f3, Rio de Janeiro"
@@ -123,7 +119,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561840920,
+    "wof:lastmodified":1566620771,
     "wof:name":"Moner\u00f3",
     "wof:parent_id":101953261,
     "wof:placetype":"neighbourhood",

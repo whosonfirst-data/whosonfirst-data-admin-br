@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.173181,
     "lbl:longitude":-47.366048,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.173181,
     "mps:longitude":-47.366048,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09aa\u09c7\u09b8\u099f\u09cd\u09b0\u09c7 \u09a1\u09cb \u09ae\u09be\u09b0\u09be\u09a8\u09b9\u09cb"
     ],
@@ -104,7 +107,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":149,
     "wof:belongsto":[
         102191577,
@@ -117,7 +120,7 @@
         "fct:id":"038965e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316719,
         "gp:id":55943890,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1122744",
         "wk:page":"Campestre do Maranh\u00e3o"
     },
@@ -136,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841285,
+    "wof:lastmodified":1566625870,
     "wof:name":"Campestre do Maranh\u00e3o",
     "wof:parent_id":102052865,
     "wof:placetype":"locality",

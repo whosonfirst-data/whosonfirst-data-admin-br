@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.237703,
     "lbl:longitude":-43.873635,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.237703,
     "mps:longitude":-43.873635,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aar_x_preferred":[
         "Faria"
     ],
@@ -679,7 +682,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":171,
     "wof:belongsto":[
         85681941,
@@ -691,7 +694,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6316286,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1396644"
     },
     "wof:country":"BR",
@@ -707,7 +710,7 @@
         }
     ],
     "wof:id":101948959,
-    "wof:lastmodified":1563242812,
+    "wof:lastmodified":1566623903,
     "wof:name":"Faria",
     "wof:parent_id":404555367,
     "wof:placetype":"locality",

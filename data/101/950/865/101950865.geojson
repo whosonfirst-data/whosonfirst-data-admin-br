@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-20.459348,
     "lbl:longitude":-45.435814,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-20.459348,
     "mps:longitude":-45.435814,
     "mz:hierarchy_label":1,
@@ -202,7 +204,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -216,10 +218,12 @@
         "fct:id":"038725e4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3463174,
         "gp:id":457188,
-        "qs:id":353328,
         "qs_pg:id":291244,
         "wd:id":"Q1791720",
         "wk:page":"Formiga"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":353328
     },
     "wof:country":"BR",
     "wof:geomhash":"fa6aee044e991f8fad96a9da83e3b9bf",
@@ -237,7 +241,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841161,
+    "wof:lastmodified":1566624770,
     "wof:name":"Formiga",
     "wof:parent_id":404556401,
     "wof:placetype":"locality",

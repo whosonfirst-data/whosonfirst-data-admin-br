@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.33881,
     "lbl:longitude":-42.035058,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.33881,
     "mps:longitude":-42.035058,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Areia Branca"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681991,
         102191577,
@@ -75,7 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456309,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"220a39d541308db3050d4fe524d34a1a",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101984789,
-    "wof:lastmodified":1564140047,
+    "wof:lastmodified":1566624101,
     "wof:name":"Areia Branca",
     "wof:parent_id":404562319,
     "wof:placetype":"locality",

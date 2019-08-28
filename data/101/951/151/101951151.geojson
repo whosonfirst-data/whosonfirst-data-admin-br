@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.298956,
     "lbl:longitude":-44.412639,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.298956,
     "mps:longitude":-44.412639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a8\u09c7\u0997\u09cb \u09ae\u09be\u09b0\u09bf\u09a8\u09b9\u09cb"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":217,
     "wof:belongsto":[
         85681941,
@@ -123,7 +126,7 @@
         "fct:id":"0387ae6a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465696,
         "gp:id":459228,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1792069",
         "wk:page":"C\u00f4nego Marinho"
     },
@@ -143,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841257,
+    "wof:lastmodified":1566625481,
     "wof:name":"C\u00f4nego Marinho",
     "wof:parent_id":404555973,
     "wof:placetype":"locality",

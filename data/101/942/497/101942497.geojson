@@ -12,6 +12,8 @@
     "iso:country":"BR",
     "lbl:latitude":-10.716074,
     "lbl:longitude":-48.38723,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.716074,
     "mps:longitude":-48.38723,
     "mz:hierarchy_label":1,
@@ -210,7 +212,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682053,
         102191577,
@@ -223,7 +225,6 @@
         "fct:id":"0386d8fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3452711,
         "gp:id":456444,
-        "qs:id":148002,
         "qs_pg:id":148002,
         "wd:id":"Q1784315",
         "wk:page":"Porto Nacional"
@@ -244,7 +245,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841277,
+    "wof:lastmodified":1566625833,
     "wof:name":"Porto Nacional",
     "wof:parent_id":404567671,
     "wof:placetype":"locality",

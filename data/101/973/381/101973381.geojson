@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.406099,
     "lbl:longitude":-38.172175,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.406099,
     "mps:longitude":-38.172175,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Pinto"
     ],
@@ -175,7 +178,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":797,
     "wof:belongsto":[
         85681895,
@@ -186,7 +189,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2898899"
     },
     "wof:country":"BR",
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":101973381,
-    "wof:lastmodified":1563246543,
+    "wof:lastmodified":1566625641,
     "wof:name":"Pinto",
     "wof:parent_id":404550877,
     "wof:placetype":"locality",

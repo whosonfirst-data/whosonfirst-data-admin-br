@@ -9,14 +9,17 @@
     "geom:bbox":"-43.8969776381,-7.12904933536,-43.8787117551,-7.11139926963",
     "geom:latitude":-7.120603,
     "geom:longitude":-43.89008,
-    "geonames:id":"3395396,6317541",
+    "gn:id":"3395396,6317541",
     "iso:country":"BR",
     "lbl:latitude":-7.120665,
     "lbl:longitude":-43.890254,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.120665,
     "mps:longitude":-43.890254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09cd\u0995\u09cb\u09b8 \u09aa\u09be\u09b0\u09c7\u09a8\u09cd\u099f\u09c7"
     ],
@@ -98,7 +101,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -108,7 +111,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55944060,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1938857"
     },
     "wof:country":"BR",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101943475,
-    "wof:lastmodified":1563247505,
+    "wof:lastmodified":1566626115,
     "wof:name":"Marcos Parente",
     "wof:parent_id":102057179,
     "wof:placetype":"locality",

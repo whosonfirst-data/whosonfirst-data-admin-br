@@ -15,6 +15,7 @@
     "iso:country":"BR",
     "lbl:latitude":-30.103232,
     "lbl:longitude":-51.23878,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-30.104719,
     "mps:longitude":-51.235985,
     "mz:hierarchy_label":1,
@@ -41,9 +42,8 @@
     "name:swe_x_preferred":[
         "Camaqu\u00e3"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Jo\u00e3o de Camaquam",
-        "Camaqu\u00e3"
+    "name:und_x_variant":[
+        "S\u00e3o Jo\u00e3o de Camaquam"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Brazil",
@@ -141,7 +141,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85682015,
@@ -154,7 +154,6 @@
     "wof:concordances":{
         "gn:id":3468014,
         "gp:id":55943939,
-        "qs:id":1045100,
         "qs_pg:id":1045100,
         "wd:id":"Q22047028"
     },
@@ -174,7 +173,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563237524,
+    "wof:lastmodified":1566620815,
     "wof:name":"Camaqu\u00e3",
     "wof:parent_id":101960525,
     "wof:placetype":"neighbourhood",

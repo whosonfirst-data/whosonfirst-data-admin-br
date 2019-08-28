@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.0702,
     "lbl:longitude":-53.16551,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.0702,
     "mps:longitude":-53.16551,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b2\u09ae\u09bf\u099f\u09cb\u09b8"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -119,7 +122,7 @@
         "fct:id":"03862798-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3455304,
         "gp:id":442582,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q588170",
         "wk:page":"Palmitos"
     },
@@ -139,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841243,
+    "wof:lastmodified":1566625364,
     "wof:name":"Palmitos",
     "wof:parent_id":404565683,
     "wof:placetype":"locality",

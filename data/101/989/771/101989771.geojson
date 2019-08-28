@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.215072,
     "lbl:longitude":-40.468166,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.215072,
     "mps:longitude":-40.468166,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u09a8\u0995\u09c1\u09af\u09bc\u09c7 \u09a8\u09cb\u09ad\u09cb"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -105,7 +108,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":447923,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"0642309a31e63bcccb856b90a89150a3",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101989771,
-    "wof:lastmodified":1564142138,
+    "wof:lastmodified":1566625778,
     "wof:name":"Tanque Novo",
     "wof:parent_id":404553795,
     "wof:placetype":"locality",

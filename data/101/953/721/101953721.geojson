@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.729133,
     "lbl:longitude":-42.410858,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.729133,
     "mps:longitude":-42.410858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09a8\u0997\u09cb-\u09a1\u09bf'\u0986\u0997\u09c1\u09f1\u09be"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":131,
     "wof:belongsto":[
         85681941,
@@ -118,7 +121,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26797847,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1789616"
     },
     "wof:country":"BR",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101953721,
-    "wof:lastmodified":1563241699,
+    "wof:lastmodified":1566623410,
     "wof:name":"Pingo-d'\u00c1gua",
     "wof:parent_id":404557701,
     "wof:placetype":"locality",

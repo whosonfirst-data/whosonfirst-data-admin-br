@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.979732,
     "lbl:longitude":-49.680064,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-19.979732,
     "mps:longitude":-49.680064,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u0993\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
     ],
@@ -88,9 +91,6 @@
     "name:swe_x_preferred":[
         "Riol\u00e2ndia"
     ],
-    "name:unk_x_variant":[
-        "Veadinho"
-    ],
     "name:vie_x_preferred":[
         "Riol\u00e2ndia"
     ],
@@ -118,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":57,
     "wof:belongsto":[
@@ -132,7 +132,7 @@
         "fct:id":"0387dade-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451131,
         "gp:id":460796,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1759077",
         "wk:page":"Riol\u00e2ndia"
     },
@@ -151,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841179,
+    "wof:lastmodified":1566624885,
     "wof:name":"Riol\u00e2ndia",
     "wof:parent_id":102062105,
     "wof:placetype":"locality",

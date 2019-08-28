@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.850636,
     "lbl:longitude":-35.368654,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.850636,
     "mps:longitude":-35.368654,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0633\u0648 \u0623\u0644\u064a\u063a\u0631\u064a"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -121,7 +124,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"8864a19e9941f7e165a4f3ecdd9d0c37",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101987529,
-    "wof:lastmodified":1564141744,
+    "wof:lastmodified":1566625561,
     "wof:name":"Pouso Alegre",
     "wof:parent_id":102056703,
     "wof:placetype":"locality",

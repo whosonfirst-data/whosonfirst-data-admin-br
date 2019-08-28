@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.071342,
     "lbl:longitude":-50.914083,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.071342,
     "mps:longitude":-50.914083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09be\u09a8\u0995\u09b9\u09cb \u0986\u09b2\u09c7\u0997\u09cd\u09b0\u09c7"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -115,7 +118,7 @@
         "fct:id":"038644a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451844,
         "gp:id":446345,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q730276"
     },
     "wof:country":"BR",
@@ -133,7 +136,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244820,
+    "wof:lastmodified":1566624836,
     "wof:name":"Rancho Alegre",
     "wof:parent_id":102058071,
     "wof:placetype":"locality",

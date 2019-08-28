@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-1.202326,
     "lbl:longitude":-46.140256,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-1.202326,
     "mps:longitude":-46.140256,
     "mz:hierarchy_label":1,
@@ -72,9 +74,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0412\u0438\u0437\u0435\u0443"
-    ],
-    "name:unk_x_variant":[
-        "Vizeu"
     ],
     "name:vie_x_preferred":[
         "Viseu"
@@ -197,7 +196,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":31,
     "wof:belongsto":[
@@ -212,7 +211,6 @@
         "fct:id":"038244b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3385022,
         "gp:id":456603,
-        "qs:id":274289,
         "qs_pg:id":274289,
         "wd:id":"Q772569",
         "wk:page":"Viseu, Par\u00e1"
@@ -233,7 +231,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247008,
+    "wof:lastmodified":1566625880,
     "wof:name":"Viseu",
     "wof:parent_id":404559815,
     "wof:placetype":"locality",

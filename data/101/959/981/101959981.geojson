@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.330056,
     "lbl:longitude":-51.980789,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.330056,
     "mps:longitude":-51.980789,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*RS",
     "qs:a1_lc":"43",
@@ -30,7 +34,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":422593,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"796327ff9ae2f5c24ad797a6ad0d6499",
+    "wof:geomhash":"cc4a8f936be6418d7e7b90c70df1b606",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101959981,
-    "wof:lastmodified":1479846752,
+    "wof:lastmodified":1566625133,
     "wof:name":"Vale do Arroio Grande",
     "wof:parent_id":404562985,
     "wof:placetype":"locality",

@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20323596.322789,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-47.888274,-22.029101,-47.888274,-22.029101",
     "geom:latitude":-22.029101,
     "geom:longitude":-47.888274,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPLL",
     "gn:latitude":-22.03056,
     "gn:longitude":-47.90944,
+    "gn:population":0,
     "iso:country":"BR",
+    "lbl:bbox":"-47.893274,-22.034101,-47.883274,-22.024101",
     "lbl:latitude":-22.029101,
     "lbl:longitude":-47.888274,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-22.029101,
     "mps:longitude":-47.888274,
     "mz:hierarchy_label":0,
@@ -62,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         404567219,
@@ -75,13 +77,12 @@
     "wof:concordances":{
         "gn:id":3470176,
         "gp:id":55944403,
-        "qs:id":78729,
-        "qs_pg:id":1016643
+        "qs_pg:id":78729
     },
     "wof:concordances_alt":{
         "gn:id":6316552,
         "gp:id":56067642,
-        "qs_pg:id":78729
+        "qs_pg:id":1016643
     },
     "wof:country":"BR",
     "wof:geomhash":"0a12128abf24b01d92d0f3a1137e7bad",
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":85767841,
-    "wof:lastmodified":1534379238,
+    "wof:lastmodified":1566620786,
     "wof:name":"Bela Vista S\u00e3o-Carlense",
     "wof:parent_id":101955877,
     "wof:placetype":"neighbourhood",

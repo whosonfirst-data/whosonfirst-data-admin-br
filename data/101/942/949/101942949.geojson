@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-1.054899,
     "lbl:longitude":-46.774294,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-1.054899,
     "mps:longitude":-46.774294,
     "mz:hierarchy_label":1,
@@ -271,7 +273,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681959,
@@ -285,7 +287,6 @@
         "fct:id":"0387055a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3405006,
         "gp:id":456859,
-        "qs:id":221589,
         "qs_pg:id":221589,
         "wd:id":"Q320487"
     },
@@ -305,7 +306,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246912,
+    "wof:lastmodified":1566625845,
     "wof:name":"Bragan\u00e7a",
     "wof:parent_id":404559535,
     "wof:placetype":"locality",

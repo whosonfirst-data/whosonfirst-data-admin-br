@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4047860.332015,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-43.97035,-19.896882,-43.97035,-19.896882",
     "geom:latitude":-19.896882,
     "geom:longitude":-43.97035,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-43.97535,-19.901882,-43.96535,-19.891882",
     "lbl:latitude":-19.896882,
     "lbl:longitude":-43.97035,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-19.894597,
     "mps:longitude":-43.970388,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Alto Dos Caicaras"
     ],
     "name:por_x_preferred":[
-        "Alto Dos Cai\u00e7aras"
-    ],
-    "name:unk_x_variant":[
         "Alto Dos Cai\u00e7aras"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -61,20 +60,22 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681941,
         102191577,
         404555403,
         85633009,
         101948979,
-        102053515
+        102053515,
+        85681941
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55944326,
-        "qs:id":1345303,
         "qs_pg:id":242382
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1345303
     },
     "wof:country":"BR",
     "wof:geomhash":"49f69671718ec2f265273a747de5b90a",
@@ -93,7 +94,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859103,
+    "wof:lastmodified":1566620770,
     "wof:name":"Alto Dos Cai\u00e7aras",
     "wof:parent_id":101948979,
     "wof:placetype":"neighbourhood",

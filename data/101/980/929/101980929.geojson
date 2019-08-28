@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.169271,
     "lbl:longitude":-43.137222,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.169271,
     "mps:longitude":-43.137222,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0438\u0440\u0435\u0441"
     ],
@@ -616,7 +619,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -625,7 +628,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a9c2396c07826d472aab457a0543edd0",
@@ -639,7 +642,7 @@
         }
     ],
     "wof:id":101980929,
-    "wof:lastmodified":1564142083,
+    "wof:lastmodified":1566625748,
     "wof:name":"Buenos Aires",
     "wof:parent_id":102052895,
     "wof:placetype":"locality",

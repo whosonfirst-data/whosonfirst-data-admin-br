@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.921065,
     "lbl:longitude":-42.48219,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-22.921065,
     "mps:longitude":-42.48219,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0995\u09c1\u09f1\u09be\u09b0\u09c7\u09ae\u09be"
     ],
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681991,
@@ -135,7 +138,6 @@
         "fct:id":"0389e446-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3448011,
         "gp:id":451540,
-        "qs:id":147913,
         "qs_pg:id":147913,
         "wd:id":"Q653716",
         "wk:page":"Saquarema"
@@ -156,7 +158,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241596,
+    "wof:lastmodified":1566623365,
     "wof:name":"Saquarema",
     "wof:parent_id":404562597,
     "wof:placetype":"locality",

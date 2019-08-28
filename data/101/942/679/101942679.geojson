@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.944093,
     "lbl:longitude":-47.615331,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.944093,
     "mps:longitude":-47.615331,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u0440\u044b\u043d\u0441\u0456\u043f\u0456"
     ],
@@ -151,7 +154,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":455,
     "wof:belongsto":[
         85682053,
@@ -165,7 +168,7 @@
         "fct:id":"0381847c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3452253,
         "gp:id":445923,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"769e08ebcb45a8cf40a7b0fde253564d",
@@ -183,7 +186,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564142226,
+    "wof:lastmodified":1566625863,
     "wof:name":"Pr\u00edncipe",
     "wof:parent_id":404567663,
     "wof:placetype":"locality",

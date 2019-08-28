@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-1.255044,
     "lbl:longitude":-48.266466,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-1.255044,
     "mps:longitude":-48.266466,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09bf\u09ad\u09cd\u09b0\u09be\u09ae\u09c7\u09a8\u099f\u09cb"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -65,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26803873,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"fa389af6dfb87d380aeaf2c1c6a9a7a7",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101982997,
-    "wof:lastmodified":1564140761,
+    "wof:lastmodified":1566624612,
     "wof:name":"Livramento",
     "wof:parent_id":102055899,
     "wof:placetype":"locality",

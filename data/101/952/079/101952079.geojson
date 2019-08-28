@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.378989,
     "lbl:longitude":-42.109752,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.378989,
     "mps:longitude":-42.109752,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u09ae \u0995\u09be\u09ad\u09be\u099f\u09bf"
     ],
@@ -118,7 +121,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -131,7 +134,7 @@
         "fct:id":"03880158-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3464571,
         "gp:id":431225,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1755986",
         "wk:page":"Dom Cavati"
     },
@@ -151,7 +154,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841082,
+    "wof:lastmodified":1566623749,
     "wof:name":"Dom Cavati",
     "wof:parent_id":404556241,
     "wof:placetype":"locality",

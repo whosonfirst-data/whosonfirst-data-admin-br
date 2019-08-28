@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.004351,
     "lbl:longitude":-37.205827,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-11.004351,
     "mps:longitude":-37.205827,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0648 \u0643\u0631\u064a\u0633\u062a\u0648\u0641\u0627\u0648"
     ],
@@ -121,9 +124,6 @@
     "name:tur_x_preferred":[
         "S\u00e3o Crist\u00f3v\u00e3o"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Christov\u00e3o"
-    ],
     "name:vie_x_preferred":[
         "S\u00e3o Crist\u00f3v\u00e3o"
     ],
@@ -153,7 +153,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -166,7 +166,6 @@
         "fct:id":"0386e160-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3449310,
         "gp:id":456512,
-        "qs:id":454485,
         "qs_pg:id":454485,
         "wd:id":"Q839003"
     },
@@ -185,7 +184,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245191,
+    "wof:lastmodified":1566625002,
     "wof:name":"S\u00e3o Crist\u00f3v\u00e3o",
     "wof:parent_id":102060967,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.984523,
     "lbl:longitude":-48.170152,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.984523,
     "mps:longitude":-48.170152,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a1\u09cd\u09b0\u09cb \u0986\u09ab\u09cb\u09a8\u09cd\u09b8\u09cb"
     ],
@@ -80,9 +83,6 @@
     "name:swe_x_preferred":[
         "Pedro Afonso"
     ],
-    "name:unk_x_variant":[
-        "Pedro Affonso"
-    ],
     "name:vie_x_preferred":[
         "Pedro Afonso"
     ],
@@ -115,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682053,
         102191577,
@@ -128,7 +128,6 @@
         "fct:id":"0386d422-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3392438,
         "gp:id":456401,
-        "qs:id":738747,
         "qs_pg:id":738747,
         "wd:id":"Q1801535",
         "wk:page":"Pedro Afonso"
@@ -149,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841283,
+    "wof:lastmodified":1566625860,
     "wof:name":"Pedro Afonso",
     "wof:parent_id":404567665,
     "wof:placetype":"locality",

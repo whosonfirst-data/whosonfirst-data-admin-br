@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.289107,
     "lbl:longitude":-49.01173,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.289107,
     "mps:longitude":-49.01173,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Esp\u00edrito Santo"
     ],
@@ -268,7 +271,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -278,7 +281,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":461092,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"972978ce2dc2087efa99f1bcf3391de3",
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":101982467,
-    "wof:lastmodified":1564140827,
+    "wof:lastmodified":1566624647,
     "wof:name":"Esp\u00edrito Santo",
     "wof:parent_id":102055809,
     "wof:placetype":"locality",

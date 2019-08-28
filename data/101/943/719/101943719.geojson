@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.038122,
     "lbl:longitude":-42.461061,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-5.038122,
     "mps:longitude":-42.461061,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09cd\u099f\u09cb\u09b8"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -125,7 +128,6 @@
         "fct:id":"038a3bb2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3407797,
         "gp:id":456650,
-        "qs:id":304225,
         "qs_pg:id":304225,
         "wd:id":"Q22060469"
     },
@@ -144,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247556,
+    "wof:lastmodified":1566626133,
     "wof:name":"Altos",
     "wof:parent_id":102056917,
     "wof:placetype":"locality",

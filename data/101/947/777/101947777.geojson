@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.75271,
     "lbl:longitude":-37.639246,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-7.75271,
     "mps:longitude":-37.639246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ab\u09cb\u0997\u09be\u09a1\u09cb\u09b8 \u09a1\u09be \u0987\u0999\u09cd\u0997\u09be\u099c\u09af\u09bc\u09c7\u0987\u09b0\u09be"
     ],
@@ -88,9 +91,6 @@
     "name:swe_x_preferred":[
         "Afogados da Ingazeira"
     ],
-    "name:unk_x_variant":[
-        "Passagem dos Afogados"
-    ],
     "name:vie_x_preferred":[
         "Afogados da Ingazeira"
     ],
@@ -123,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -136,7 +136,6 @@
         "fct:id":"03880680-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3408274,
         "gp:id":456618,
-        "qs:id":815441,
         "qs_pg:id":815441,
         "wd:id":"Q1761348",
         "wk:page":"Afogados da Ingazeira"
@@ -156,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243860,
+    "wof:lastmodified":1566624394,
     "wof:name":"Afogados da Ingazeira",
     "wof:parent_id":102056489,
     "wof:placetype":"locality",

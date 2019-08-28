@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.176553,
     "lbl:longitude":-61.899048,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-11.176553,
     "mps:longitude":-61.899048,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cd\u09b0\u09c7\u09b8\u09bf\u09a1\u09c7\u09a8\u09cd\u099f\u09c7 \u09ae\u09c7\u09a1\u09bf\u09b8\u09bf"
     ],
@@ -77,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0437\u0456\u0434\u0435\u043d\u0442\u0456-\u041c\u0435\u0434\u0456\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Presidente Hermes"
     ],
     "name:vol_x_preferred":[
@@ -101,7 +104,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682003,
@@ -115,7 +118,7 @@
         "fct:id":"03818378-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3924872,
         "gp:id":445867,
-        "qs:id":873476,
+        "qs_pg:id":873476,
         "wd:id":"Q1871362"
     },
     "wof:country":"BR",
@@ -134,7 +137,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243602,
+    "wof:lastmodified":1566624289,
     "wof:name":"Presidente M\u00e9dici",
     "wof:parent_id":404562839,
     "wof:placetype":"locality",

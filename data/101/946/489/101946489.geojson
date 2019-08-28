@@ -9,14 +9,17 @@
     "geom:bbox":"-36.081773266,-7.74689858442,-36.0495510853,-7.73510209528",
     "geom:latitude":-7.741007,
     "geom:longitude":-36.066564,
-    "geonames:id":"3408071,3408070",
+    "gn:id":"3408071,3408070",
     "iso:country":"BR",
     "lbl:latitude":-7.740914,
     "lbl:longitude":-36.066561,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.740914,
     "mps:longitude":-36.066561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u0995\u09be\u09a8\u09cd\u099f\u09bf\u09b2"
     ],
@@ -107,7 +110,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -117,7 +120,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":421166,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1816058"
     },
     "wof:country":"BR",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101946489,
-    "wof:lastmodified":1563243525,
+    "wof:lastmodified":1566624268,
     "wof:name":"Alcantil",
     "wof:parent_id":102055997,
     "wof:placetype":"locality",

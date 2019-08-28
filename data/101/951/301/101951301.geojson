@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.336195,
     "lbl:longitude":-44.054544,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.336195,
     "mps:longitude":-44.054544,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09af\u09bc\u09c7\u09a1\u09be"
     ],
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -133,7 +136,6 @@
         "fct:id":"038611b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457014,
         "gp:id":440483,
-        "qs:id":1322331,
         "qs_pg:id":1322331,
         "wd:id":"Q1804868",
         "wk:page":"Moeda"
@@ -154,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246209,
+    "wof:lastmodified":1566625480,
     "wof:name":"Moeda",
     "wof:parent_id":404557265,
     "wof:placetype":"locality",

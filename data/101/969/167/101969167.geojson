@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.806235,
     "lbl:longitude":-37.038314,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.806235,
     "mps:longitude":-37.038314,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0627\u0646\u0627\u0633"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -101,7 +104,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3391976,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"cba310817152d2f3029a8a5d0e8e825f",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101969167,
-    "wof:lastmodified":1564141577,
+    "wof:lastmodified":1566625426,
     "wof:name":"Piranhas",
     "wof:parent_id":102050071,
     "wof:placetype":"locality",

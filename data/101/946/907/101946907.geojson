@@ -9,14 +9,17 @@
     "geom:bbox":"-34.9971,-7.17163695656,-34.9318545365,-7.11055640784",
     "geom:latitude":-7.138046,
     "geom:longitude":-34.969454,
-    "geonames:id":"3389320,3389321",
+    "gn:id":"3389320,3389321",
     "iso:country":"BR",
     "lbl:latitude":-7.132406,
     "lbl:longitude":-34.966756,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.132406,
     "mps:longitude":-34.966756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0631\u064a\u062a\u0627\u060c \u0628\u0627\u0631\u0627\u064a\u0628\u0627"
     ],
@@ -181,7 +184,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681967,
         102191577,
@@ -193,9 +196,11 @@
     "wof:concordances":{
         "gn:id":3389321,
         "gp:id":456503,
-        "qs:id":9,
-        "qs_pg:id":1044267,
+        "qs_pg:id":9,
         "wd:id":"Q1937304"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1044267
     },
     "wof:country":"BR",
     "wof:geomhash":"dc7db5f61d6771339bfdb3c5e531f7e8",
@@ -210,7 +215,7 @@
         }
     ],
     "wof:id":101946907,
-    "wof:lastmodified":1563243376,
+    "wof:lastmodified":1566624218,
     "wof:name":"Santa Rita",
     "wof:parent_id":404560047,
     "wof:placetype":"locality",

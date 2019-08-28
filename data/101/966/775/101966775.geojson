@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.385558,
     "lbl:longitude":-36.461506,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.385558,
     "mps:longitude":-36.461506,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u0997\u09c1\u09f1\u09be \u09ab\u09cd\u09b0\u09bf\u09af\u09bc\u09be"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":152,
     "wof:belongsto":[
         85681973,
@@ -111,7 +114,7 @@
         "fct:id":"037faf44-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3408189,
         "gp:id":420965,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"f155ce4ae219358fbea5405a733ba504",
@@ -129,7 +132,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564141241,
+    "wof:lastmodified":1566625061,
     "wof:name":"\u00c1gua Fria",
     "wof:parent_id":404560173,
     "wof:placetype":"locality",

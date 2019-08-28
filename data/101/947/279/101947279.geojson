@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.785658,
     "lbl:longitude":-39.933843,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.785658,
     "mps:longitude":-39.933843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09a1\u09cb\u0995\u09cb"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":160,
     "wof:belongsto":[
         85681973,
@@ -122,7 +125,6 @@
         "fct:id":"0389153e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3405429,
         "gp:id":456826,
-        "qs:id":181456,
         "qs_pg:id":181456,
         "wd:id":"Q524487"
     },
@@ -142,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841140,
+    "wof:lastmodified":1566624404,
     "wof:name":"Bodoc\u00f3",
     "wof:parent_id":404560191,
     "wof:placetype":"locality",

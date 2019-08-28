@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.71815,
     "lbl:longitude":-42.203838,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.71815,
     "mps:longitude":-42.203838,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aguada"
     ],
@@ -40,7 +43,7 @@
     "name:swe_x_preferred":[
         "Aguada"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aguado"
     ],
     "name:vie_x_preferred":[
@@ -61,7 +64,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":3473014,
         "gp:id":457273,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"4022488a94a1fd9ae42d1ff30c4dc423",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101970931,
-    "wof:lastmodified":1564140053,
+    "wof:lastmodified":1566624104,
     "wof:name":"Aguada",
     "wof:parent_id":404551061,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.188809,
     "lbl:longitude":-40.950188,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.188809,
     "mps:longitude":-40.950188,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09a8\u09be\u09a8\u09c7\u0987\u09b0\u09be\u09b8"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -94,7 +97,7 @@
     "wof:concordances":{
         "gn:id":8440907,
         "gp:id":459856,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"1fd43b33bcb80559e956f607c3ba217b",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101971501,
-    "wof:lastmodified":1564140545,
+    "wof:lastmodified":1566624452,
     "wof:name":"Bananeiras",
     "wof:parent_id":404551169,
     "wof:placetype":"locality",

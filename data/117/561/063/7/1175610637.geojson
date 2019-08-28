@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.222097,
     "lbl:longitude":-51.305273,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-22.222097,
     "mps:longitude":-51.305273,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09c7\u0997\u09c7\u09a8\u09cd\u099f\u09c7 \u09ab\u09c7\u0987\u099c\u09cb"
     ],
@@ -110,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.220833,
     "wd:longitude":-51.302778,
@@ -129,7 +132,6 @@
         "fct:id":"03877152-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451709,
         "gp:id":457914,
-        "qs:id":291229,
         "qs_pg:id":291229,
         "wd:id":"Q1760843",
         "wk:page":"Regente Feij\u00f3, S\u00e3o Paulo"
@@ -150,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841008,
+    "wof:lastmodified":1566622764,
     "wof:name":"Regente Feij\u00f3",
     "wof:parent_id":404567093,
     "wof:placetype":"locality",

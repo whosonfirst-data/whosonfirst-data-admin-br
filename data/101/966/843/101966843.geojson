@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.010574,
     "lbl:longitude":-35.701562,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-8.010574,
     "mps:longitude":-35.701562,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c1\u09ae\u09be\u09b0\u09c1"
     ],
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681973,
@@ -106,7 +109,6 @@
         "fct:id":"0387b0d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3401404,
         "gp:id":459287,
-        "qs:id":382648,
         "qs_pg:id":382648,
         "wd:id":"Q2089188",
         "wk:page":"Cumaru"
@@ -127,7 +129,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841197,
+    "wof:lastmodified":1566625016,
     "wof:name":"Cumaru",
     "wof:parent_id":404560291,
     "wof:placetype":"locality",

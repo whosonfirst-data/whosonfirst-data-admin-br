@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.767597,
     "lbl:longitude":-43.030099,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-19.767597,
     "mps:longitude":-43.030099,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u09af\u09bc\u09c7\u09b0\u09be"
     ],
@@ -97,9 +100,6 @@
     "name:swe_x_preferred":[
         "Nova Era"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Jos\u00e9 da Lag\u00f4a"
-    ],
     "name:vie_x_preferred":[
         "Nova Era"
     ],
@@ -127,7 +127,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -141,7 +141,7 @@
         "fct:id":"0387cbc0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456176,
         "gp:id":56067476,
-        "qs:id":1044974,
+        "qs_pg:id":1044974,
         "wd:id":"Q1789722"
     },
     "wof:country":"BR",
@@ -160,7 +160,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244932,
+    "wof:lastmodified":1566624892,
     "wof:name":"Nova Era",
     "wof:parent_id":404557409,
     "wof:placetype":"locality",

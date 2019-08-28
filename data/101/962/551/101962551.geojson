@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.967983,
     "lbl:longitude":-48.920982,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-14.967983,
     "mps:longitude":-48.920982,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u09b0\u09cb \u0986\u09b2\u09cd\u099f\u09cb"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -116,7 +119,6 @@
         "fct:id":"0386aa2e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3470409,
         "gp:id":456074,
-        "qs:id":1045169,
         "qs_pg:id":1045169,
         "wd:id":"Q2155729"
     },
@@ -135,7 +137,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241841,
+    "wof:lastmodified":1566623492,
     "wof:name":"Barro Alto",
     "wof:parent_id":102052061,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.282855,
     "lbl:longitude":-47.811678,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.282855,
     "mps:longitude":-47.811678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u099f\u09c7\u09b0\u09c7\u099c\u09be \u09a1\u09cb \u099f\u09cb\u0995\u09be\u09a8\u099f\u09bf\u09a8\u09b8"
     ],
@@ -110,7 +113,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -122,7 +125,7 @@
         "fct:id":"0387f08c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3479316,
         "gp:id":461639,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1801050",
         "wk:page":"Santa Tereza do Tocantins"
     },
@@ -141,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841274,
+    "wof:lastmodified":1566625815,
     "wof:name":"Santa Tereza do Tocantins",
     "wof:parent_id":102062707,
     "wof:placetype":"locality",

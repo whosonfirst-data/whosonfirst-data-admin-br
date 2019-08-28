@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.179914,
     "lbl:longitude":-38.150115,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.179914,
     "mps:longitude":-38.150115,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u0997\u09be\u09b0\u09be\u0995\u09af\u09bc"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -118,7 +121,7 @@
         "fct:id":"03899360-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317264,
         "gp:id":55944414,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2010961",
         "wk:page":"Igaracy"
     },
@@ -137,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841291,
+    "wof:lastmodified":1566625920,
     "wof:name":"Igaracy",
     "wof:parent_id":102056063,
     "wof:placetype":"locality",

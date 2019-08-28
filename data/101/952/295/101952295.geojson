@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.982272,
     "lbl:longitude":-41.221837,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.982272,
     "mps:longitude":-41.221837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09cb\u0987\u0986\u09ac\u09af\u09bc\u09c7\u0987\u09b0\u09be"
     ],
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Goiabeira"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Goiabeiras"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -119,7 +122,7 @@
         "fct:id":"0385d450-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3462388,
         "gp:id":434618,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1805781"
     },
     "wof:country":"BR",
@@ -138,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242397,
+    "wof:lastmodified":1566623758,
     "wof:name":"Goiabeira",
     "wof:parent_id":404556473,
     "wof:placetype":"locality",

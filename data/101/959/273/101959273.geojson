@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.942753,
     "lbl:longitude":-52.922292,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-27.942753,
     "mps:longitude":-52.922292,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Sarandi"
     ],
@@ -71,9 +74,6 @@
     "name:spa_x_preferred":[
         "Sarandi"
     ],
-    "name:unk_x_variant":[
-        "Colonia Sarandy"
-    ],
     "name:vol_x_preferred":[
         "Sarandi"
     ],
@@ -106,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":39,
     "wof:belongsto":[
@@ -121,7 +121,6 @@
         "fct:id":"0386e494-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3447997,
         "gp:id":456538,
-        "qs:id":1054136,
         "qs_pg:id":1054136,
         "wd:id":"Q430538",
         "wk:page":"Sarandi, Rio Grande do Sul"
@@ -142,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841203,
+    "wof:lastmodified":1566625081,
     "wof:name":"Sarandi",
     "wof:parent_id":404564773,
     "wof:placetype":"locality",

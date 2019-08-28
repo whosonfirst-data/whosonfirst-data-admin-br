@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.804881,
     "lbl:longitude":-49.512603,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-20.804881,
     "mps:longitude":-49.512603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09bf\u09b0\u09be\u09b8\u09b8\u09cb\u09b2"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Mirassol"
     ],
-    "name:unk_x_variant":[
-        "Mira Sol"
-    ],
     "name:vol_x_preferred":[
         "Mirassol"
     ],
@@ -113,7 +113,7 @@
     "qs:type":"Local urban major",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":587.0,
     "wd:latitude":-20.818889,
@@ -132,7 +132,7 @@
         "fct:id":"03875046-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457095,
         "gp:id":457599,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q648757",
         "wk:page":"Mirassol"
     },
@@ -152,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242664,
+    "wof:lastmodified":1566623857,
     "wof:name":"Mirassol",
     "wof:parent_id":404566773,
     "wof:placetype":"locality",

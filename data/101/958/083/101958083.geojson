@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.688654,
     "lbl:longitude":-48.747843,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-27.688654,
     "mps:longitude":-48.747843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09cb \u0986\u09ae\u09be\u09b0\u09cb \u09a1\u09be \u0987\u09ae\u09aa\u09c7\u09b0\u09be\u099f\u09cd\u09b0\u09bf\u099c"
     ],
@@ -93,9 +96,6 @@
     "name:spa_x_preferred":[
         "Santo Amaro da Imperatriz"
     ],
-    "name:unk_x_variant":[
-        "Cambirela"
-    ],
     "name:vie_x_preferred":[
         "Santo Amaro da Imperatriz"
     ],
@@ -131,7 +131,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -144,7 +144,6 @@
         "fct:id":"0387debc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3449711,
         "gp:id":460986,
-        "qs:id":670986,
         "qs_pg:id":670986,
         "wd:id":"Q327210",
         "wk:page":"Santo Amaro da Imperatriz"
@@ -164,7 +163,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841217,
+    "wof:lastmodified":1566625209,
     "wof:name":"Santo Amaro da Imperatriz",
     "wof:parent_id":102060715,
     "wof:placetype":"locality",

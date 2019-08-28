@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2898589.643751,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-38.486452,-3.757285,-38.486452,-3.757285",
     "geom:latitude":-3.757285,
     "geom:longitude":-38.486452,
     "gn:latitude":-3.37573,
     "gn:longitude":-39.29085,
     "iso:country":"BR",
+    "lbl:bbox":"-38.491452,-3.762285,-38.481452,-3.752285",
     "lbl:latitude":-3.757285,
     "lbl:longitude":-38.486452,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-3.758281,
     "mps:longitude":-38.486919,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:por_x_preferred":[
-        "Guarapes"
-    ],
-    "name:unk_x_variant":[
         "Guarapes"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -60,20 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681907,
         102191577,
         404552859,
         85633009,
         101944739,
-        102051533
+        102051533,
+        85681907
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3398617,
         "gp:id":56068209,
-        "qs:id":1206420,
         "qs_pg:id":1206420
     },
     "wof:country":"BR",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859279,
+    "wof:lastmodified":1566620730,
     "wof:name":"Guarapes",
     "wof:parent_id":101944739,
     "wof:placetype":"neighbourhood",

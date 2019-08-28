@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.907217,
     "lbl:longitude":-37.600849,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.907217,
     "mps:longitude":-37.600849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Condado"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -106,7 +109,7 @@
         "fct:id":"03896ae8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316907,
         "gp:id":55943944,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q635267",
         "wk:page":"Condado, Para\u00edba"
     },
@@ -125,7 +128,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841115,
+    "wof:lastmodified":1566624225,
     "wof:name":"Condado",
     "wof:parent_id":102056119,
     "wof:placetype":"locality",

@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.32431,
     "lbl:longitude":-49.239697,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.32431,
     "mps:longitude":-49.239697,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Stasiun Ana Rosa"
     ],
@@ -39,7 +43,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -50,10 +54,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":421445,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"e305e8d5842e257343bb41c3e75f9d7a",
+    "wof:geomhash":"f66c18b2b522f9211d5242f957c537c4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":101968199,
-    "wof:lastmodified":1479942136,
+    "wof:lastmodified":1566624899,
     "wof:name":"Ana Rosa II",
     "wof:parent_id":404561065,
     "wof:placetype":"locality",

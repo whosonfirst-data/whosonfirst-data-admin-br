@@ -9,15 +9,18 @@
     "geom:bbox":"-56.4275,-14.83611,-56.4275,-14.83611",
     "geom:latitude":-14.83611,
     "geom:longitude":-56.4275,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10468,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:population":10468,
     "iso:country":"BR",
+    "lbl:bbox":"-56.4475,-14.85611,-56.4075,-14.81611",
     "lbl:latitude":-14.83611,
     "lbl:longitude":-56.4275,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u09b0\u09cb\u09b8\u09be\u09b0\u09bf\u0993 \u0993\u098f\u09b8\u09cd\u099f\u09c7"
@@ -70,7 +73,7 @@
     "name:rus_x_preferred":[
         "\u0420\u043e\u0437\u0430\u0440\u0438\u0443-\u0423\u044d\u0441\u0442\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ros\u00e1rio do Rio Acima"
     ],
     "name:vie_x_preferred":[
@@ -104,7 +107,7 @@
     "qs_pg:woe_adm0":23424768,
     "qs_pg:woe_id":447580,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424768,
     "woe:name_adm0":"Brasil",
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1125845119,
-    "wof:lastmodified":1561841412,
+    "wof:lastmodified":1566628468,
     "wof:name":"Rosario Oueste",
     "wof:parent_id":404559367,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.131762,
     "lbl:longitude":-38.509915,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.131762,
     "mps:longitude":-38.509915,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0645\u0627\u062f\u0648\u0633"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -115,7 +118,7 @@
     "wof:concordances":{
         "gn:id":6318089,
         "gp:id":435203,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"3bd2044776facf2e8bbf3938e52ca03a",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101944779,
-    "wof:lastmodified":1564142355,
+    "wof:lastmodified":1566625977,
     "wof:name":"Queimados",
     "wof:parent_id":404552951,
     "wof:placetype":"locality",

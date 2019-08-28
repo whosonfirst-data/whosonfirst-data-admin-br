@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.419915,
     "lbl:longitude":-44.368235,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.419915,
     "mps:longitude":-44.368235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u099f\u09be\u09b2\u09ad\u09be\u09a8\u09bf\u09af\u09bc\u09be"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":262,
     "wof:belongsto":[
         85681941,
@@ -126,7 +129,7 @@
         "fct:id":"0386caf4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317616,
         "gp:id":456339,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1790238",
         "wk:page":"Montalv\u00e2nia"
     },
@@ -146,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841256,
+    "wof:lastmodified":1566625481,
     "wof:name":"Montalv\u00e2nia",
     "wof:parent_id":404557277,
     "wof:placetype":"locality",

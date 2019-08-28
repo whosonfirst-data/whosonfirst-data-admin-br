@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-1.997533,
     "lbl:longitude":-44.533932,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-1.997533,
     "mps:longitude":-44.533932,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Cedral"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -94,7 +97,7 @@
         "fct:id":"0386b26c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316837,
         "gp:id":456133,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2095187",
         "wk:page":"Cedral, Maranh\u00e3o"
     },
@@ -113,7 +116,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841305,
+    "wof:lastmodified":1566626087,
     "wof:name":"Cedral",
     "wof:parent_id":102052879,
     "wof:placetype":"locality",

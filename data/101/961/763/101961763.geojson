@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-20.790108,
     "lbl:longitude":-51.704595,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-20.790108,
     "mps:longitude":-51.704595,
     "mz:hierarchy_label":1,
@@ -171,9 +173,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0435\u0441-\u041b\u0430\u0433\u043e\u0430\u0441"
     ],
-    "name:unk_x_variant":[
-        "Lagoas"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0631\u06cc\u0633 \u0644\u06af\u0648\u0627\u0633"
     ],
@@ -298,7 +297,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":128,
     "wof:belongsto":[
@@ -313,10 +312,12 @@
         "fct:id":"0386a146-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3446098,
         "gp:id":456000,
-        "qs:id":353294,
-        "qs_pg:id":466537,
+        "qs_pg:id":353294,
         "wd:id":"Q22067368",
         "wk:page":"Tr\u00eas Lagoas"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":466537
     },
     "wof:country":"BR",
     "wof:geomhash":"c2ebec039ca41aceeb0bb382d2ae210f",
@@ -334,7 +335,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245001,
+    "wof:lastmodified":1566624928,
     "wof:name":"Tr\u00eas Lagoas",
     "wof:parent_id":404559059,
     "wof:placetype":"locality",

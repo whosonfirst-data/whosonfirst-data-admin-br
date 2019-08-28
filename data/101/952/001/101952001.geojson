@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.019186,
     "lbl:longitude":-42.414404,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.019186,
     "mps:longitude":-42.414404,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09cb\u09b0\u09bf\u099c\u09cb\u09a8\u09cd\u099f\u09c7"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -125,7 +128,7 @@
         "fct:id":"03885554-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317807,
         "gp:id":26804063,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1790081",
         "wk:page":"Novorizonte"
     },
@@ -145,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841084,
+    "wof:lastmodified":1566623765,
     "wof:name":"Novorizonte",
     "wof:parent_id":404557439,
     "wof:placetype":"locality",

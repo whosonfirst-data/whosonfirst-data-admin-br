@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.872647,
     "lbl:longitude":-38.756422,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-7.872647,
     "mps:longitude":-38.756422,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u099c\u09cb\u09b8\u09c7 \u09a1\u09cb \u09ac\u09c7\u09b2\u09ae\u09cb\u09a8\u09cd\u099f\u09c7"
     ],
@@ -82,9 +85,6 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u0416\u043e\u0437\u0435-\u0434\u0443-\u0411\u0435\u043b\u043c\u043e\u043d\u0442\u0438"
     ],
-    "name:unk_x_variant":[
-        "Belmonte"
-    ],
     "name:vie_x_preferred":[
         "S\u00e3o Jos\u00e9 do Belmonte"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":170,
     "wof:belongsto":[
@@ -129,7 +129,6 @@
         "fct:id":"03877eae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3388440,
         "gp:id":458048,
-        "qs:id":342700,
         "qs_pg:id":342700,
         "wd:id":"Q2011317",
         "wk:page":"S\u00e3o Jos\u00e9 do Belmonte"
@@ -150,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841139,
+    "wof:lastmodified":1566624392,
     "wof:name":"S\u00e3o Jos\u00e9 do Belmonte",
     "wof:parent_id":404560679,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.611622,
     "lbl:longitude":-46.061412,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-22.611622,
     "mps:longitude":-46.061412,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09ac\u09c1\u0987"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Cambu\u00ed"
     ],
-    "name:unk_x_variant":[
-        "Cambuhy"
-    ],
     "name:vie_x_preferred":[
         "Cambu\u00ed"
     ],
@@ -116,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -130,7 +130,6 @@
         "fct:id":"03870a8c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3467956,
         "gp:id":456923,
-        "qs:id":454486,
         "qs_pg:id":454486,
         "wd:id":"Q1756818"
     },
@@ -150,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241734,
+    "wof:lastmodified":1566623428,
     "wof:name":"Cambu\u00ed",
     "wof:parent_id":404555637,
     "wof:placetype":"locality",

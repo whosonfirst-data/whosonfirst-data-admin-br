@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.536577,
     "lbl:longitude":-37.855984,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.536577,
     "mps:longitude":-37.855984,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09cb\u09b0\u09c7\u099f\u09cb"
     ],
@@ -115,7 +118,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -125,7 +128,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8432496,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"290b1fe70728794303f83352a4267062",
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101977751,
-    "wof:lastmodified":1564139799,
+    "wof:lastmodified":1566623964,
     "wof:name":"Loreto",
     "wof:parent_id":102051209,
     "wof:placetype":"locality",

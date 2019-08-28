@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.174549,
     "lbl:longitude":-50.806909,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.174549,
     "mps:longitude":-50.806909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09cd\u09b0\u09c7\u0987 \u09b0\u09cb\u0997\u09c7\u09b0\u09bf\u0993"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":14,
     "wof:belongsto":[
         85682021,
@@ -123,7 +126,7 @@
         "fct:id":"0385d144-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3462941,
         "gp:id":56068045,
-        "qs:id":1060235,
+        "qs_pg:id":1060235,
         "wd:id":"Q1765020",
         "wk:page":"Frei Rog\u00e9rio"
     },
@@ -143,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841168,
+    "wof:lastmodified":1566624814,
     "wof:name":"Frei Rog\u00e9rio",
     "wof:parent_id":404565427,
     "wof:placetype":"locality",

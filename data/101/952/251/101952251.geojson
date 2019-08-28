@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.227724,
     "lbl:longitude":-41.47782,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-16.227724,
     "mps:longitude":-41.47782,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Medina"
     ],
@@ -82,9 +85,6 @@
     "name:swe_x_preferred":[
         "Medina"
     ],
-    "name:unk_x_variant":[
-        "Santa Rita do Medina"
-    ],
     "name:vol_x_preferred":[
         "Medina"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":352,
     "wof:belongsto":[
@@ -129,7 +129,6 @@
         "fct:id":"0386c9be-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457358,
         "gp:id":456330,
-        "qs:id":813795,
         "qs_pg:id":813795,
         "wd:id":"Q22062380",
         "wk:page":"Medina, Minas Gerais"
@@ -150,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242404,
+    "wof:lastmodified":1566623762,
     "wof:name":"Medina",
     "wof:parent_id":404557223,
     "wof:placetype":"locality",

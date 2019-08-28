@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.883631,
     "lbl:longitude":-53.880639,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.883631,
     "mps:longitude":-53.880639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Flora"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":6318244,
         "gp:id":425246,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q7419588",
         "wk:page":"Santa Flora, Santa Maria"
     },
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101958695,
-    "wof:lastmodified":1563245659,
+    "wof:lastmodified":1566625224,
     "wof:name":"Santa Flora",
     "wof:parent_id":404564411,
     "wof:placetype":"locality",

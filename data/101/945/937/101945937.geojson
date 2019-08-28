@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.406914,
     "lbl:longitude":-38.323155,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.406914,
     "mps:longitude":-38.323155,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u099c\u09cb\u09b0\u09cd \u09b8\u09be\u09b2\u09c7\u09b8"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -118,7 +121,7 @@
         "fct:id":"038605ba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3395876,
         "gp:id":439074,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1802362",
         "wk:page":"Major Sales"
     },
@@ -137,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841287,
+    "wof:lastmodified":1566625888,
     "wof:name":"Major Sales",
     "wof:parent_id":102058689,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.549243,
     "lbl:longitude":-53.323342,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.549243,
     "mps:longitude":-53.323342,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nova Uni\u00e3o"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -74,7 +77,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"6d2b639c44711d3f80124f9c49acea3b",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101988435,
-    "wof:lastmodified":1564142478,
+    "wof:lastmodified":1566626056,
     "wof:name":"Nova Uni\u00e3o",
     "wof:parent_id":404562047,
     "wof:placetype":"locality",

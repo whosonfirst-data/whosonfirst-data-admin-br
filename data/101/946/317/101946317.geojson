@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.484759,
     "lbl:longitude":-36.66125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.484759,
     "mps:longitude":-36.66125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u09b0\u09be \u09ac\u09cd\u09b0\u09be\u0999\u09cd\u0995\u09be"
     ],
@@ -76,9 +79,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u0440\u0430-\u0411\u0440\u0430\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Itamorotinga"
-    ],
     "name:vie_x_preferred":[
         "Serra Branca"
     ],
@@ -108,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681967,
         102191577,
@@ -121,7 +121,6 @@
         "fct:id":"03878214-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3387879,
         "gp:id":458088,
-        "qs:id":896644,
         "qs_pg:id":896644,
         "wd:id":"Q2009097",
         "wk:page":"Serra Branca, Para\u00edba"
@@ -142,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243570,
+    "wof:lastmodified":1566624279,
     "wof:name":"Serra Branca",
     "wof:parent_id":404560069,
     "wof:placetype":"locality",

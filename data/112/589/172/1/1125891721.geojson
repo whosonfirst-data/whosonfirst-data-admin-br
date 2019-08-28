@@ -9,14 +9,18 @@
     "geom:bbox":"-44.87056,-20.55778,-44.87056,-20.55778",
     "geom:latitude":-20.55778,
     "geom:longitude":-44.87056,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
+    "lbl:bbox":"-44.89056,-20.57778,-44.85056,-20.53778",
     "lbl:latitude":-20.55778,
     "lbl:longitude":-44.87056,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09cd\u09ae\u09cb \u09a1\u09be \u09ae\u09be\u099f\u09be"
@@ -81,7 +85,7 @@
     "name:swe_x_preferred":[
         "Carmo da Mata"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Carmo da Matta"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +117,7 @@
     "qs_pg:woe_adm0":23424768,
     "qs_pg:woe_id":428597,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424768,
     "woe:name_adm0":"Brasil",
     "woe:name_adm1":"Minas Gerais",
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":1125891721,
-    "wof:lastmodified":1563250406,
+    "wof:lastmodified":1566628412,
     "wof:name":"Carmo do Mata",
     "wof:parent_id":404555783,
     "wof:placetype":"locality",

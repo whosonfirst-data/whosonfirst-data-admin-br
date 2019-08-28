@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.285086,
     "lbl:longitude":-40.464561,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.285086,
     "mps:longitude":-40.464561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*PE",
     "qs:a1_lc":"26",
@@ -31,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":72,
     "wof:belongsto":[
         85681973,
@@ -42,7 +45,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"0de87d4cf6f5371701718ac7a8862e4a",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101985423,
-    "wof:lastmodified":1527688417,
+    "wof:lastmodified":1566624495,
     "wof:name":"N8",
     "wof:parent_id":404560571,
     "wof:placetype":"locality",

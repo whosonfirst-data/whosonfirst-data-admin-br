@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.518801,
     "lbl:longitude":-44.886847,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.518801,
     "mps:longitude":-44.886847,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u099c\u09cb\u09af\u09bc\u09be\u0993 \u09a1\u09be \u09ae\u09be\u099f\u09be"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":133,
     "wof:belongsto":[
         102191577,
@@ -93,7 +96,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":450738,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"adf00a18eeac2ef0a81a1ba08a7b4c3f",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101979615,
-    "wof:lastmodified":1564140235,
+    "wof:lastmodified":1566624201,
     "wof:name":"S\u00e3o Jo\u00e3o da Mata",
     "wof:parent_id":102052985,
     "wof:placetype":"locality",

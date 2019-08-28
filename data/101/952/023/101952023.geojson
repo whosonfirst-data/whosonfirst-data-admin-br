@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.545773,
     "lbl:longitude":-42.119813,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-19.545773,
     "mps:longitude":-42.119813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0987\u09a8\u09b9\u09be\u09aa\u09bf\u09ae"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -129,7 +132,6 @@
         "fct:id":"03889a78-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461214,
         "gp:id":435642,
-        "qs:id":148215,
         "qs_pg:id":148215,
         "wd:id":"Q1791428",
         "wk:page":"Inhapim"
@@ -150,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242370,
+    "wof:lastmodified":1566623747,
     "wof:name":"Inhapim",
     "wof:parent_id":404556641,
     "wof:placetype":"locality",

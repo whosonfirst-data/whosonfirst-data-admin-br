@@ -9,14 +9,15 @@
     "geom:bbox":"-51.2269588113,-30.0274885627,-51.2100219727,-30.0120306233",
     "geom:latitude":-30.01667,
     "geom:longitude":-51.218134,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-30.02083,
     "gn:longitude":-51.2,
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-30.018115,
     "lbl:longitude":-51.218628,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-30.016403,
     "mps:longitude":-51.217632,
     "mz:hierarchy_label":1,
@@ -73,9 +74,6 @@
     "name:swe_x_preferred":[
         "Floresta"
     ],
-    "name:unk_x_variant":[
-        "Floresta"
-    ],
     "name:vol_x_preferred":[
         "Floresta"
     ],
@@ -130,7 +128,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -142,12 +140,11 @@
     "wof:concordances":{
         "gn:id":3473919,
         "gp:id":56066653,
-        "qs:id":239182,
-        "qs_pg:id":1155591
+        "qs_pg:id":239182
     },
     "wof:concordances_alt":{
         "gp:id":433781,
-        "qs_pg:id":239182
+        "qs_pg:id":1155591
     },
     "wof:country":"BR",
     "wof:geomhash":"d8e66120d8f5ca4adf00a12088620b5d",
@@ -165,7 +162,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564134674,
+    "wof:lastmodified":1566620744,
     "wof:name":"Floresta",
     "wof:parent_id":101960525,
     "wof:placetype":"neighbourhood",

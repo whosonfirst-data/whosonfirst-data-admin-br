@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-1.749426,
     "lbl:longitude":-52.234695,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-1.749426,
     "mps:longitude":-52.234695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09b0\u09cd\u099f\u09cb \u09a1\u09c7 \u09ae\u09cb\u099c"
     ],
@@ -68,7 +71,7 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0443-\u0434\u0438-\u041c\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u00f4rto de M\u00f3s"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +104,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681959,
@@ -115,7 +118,7 @@
         "fct:id":"038a62cc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3391387,
         "gp:id":456438,
-        "qs:id":1336212,
+        "qs_pg:id":1336212,
         "wd:id":"Q2011894",
         "wk:page":"Porto de Moz"
     },
@@ -135,7 +138,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246983,
+    "wof:lastmodified":1566625871,
     "wof:name":"Porto de Moz",
     "wof:parent_id":404559713,
     "wof:placetype":"locality",

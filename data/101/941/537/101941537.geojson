@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.834357,
     "lbl:longitude":-69.260985,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-8.834357,
     "mps:longitude":-69.260985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u0648\u0626\u064a\u0644 \u0623\u0631\u0628\u0627\u0646\u0648"
     ],
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -134,7 +137,6 @@
         "fct:id":"03881d3c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3663495,
         "gp:id":457529,
-        "qs:id":1209903,
         "qs_pg:id":1209903,
         "wd:id":"Q1772688"
     },
@@ -153,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243633,
+    "wof:lastmodified":1566624298,
     "wof:name":"Manoel Urbano",
     "wof:parent_id":102050031,
     "wof:placetype":"locality",

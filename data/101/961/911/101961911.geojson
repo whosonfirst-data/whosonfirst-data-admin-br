@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.083753,
     "lbl:longitude":-51.099341,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-20.083753,
     "mps:longitude":-51.099341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09aa\u09be\u09b0\u09c7\u09b8\u09bf\u09a1\u09be \u09a1\u09cb \u099f\u09be\u09ac\u09cb\u09f1\u09be\u09a1\u09cb"
     ],
@@ -80,9 +83,6 @@
     "name:swe_x_preferred":[
         "Aparecida do Taboado"
     ],
-    "name:unk_x_variant":[
-        "Aparecida do Tabuado"
-    ],
     "name:vie_x_preferred":[
         "Aparecida do Taboado"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -125,7 +125,6 @@
         "fct:id":"0386f506-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471940,
         "gp:id":56125195,
-        "qs:id":148493,
         "qs_pg:id":148493,
         "wd:id":"Q22067429",
         "wk:page":"Aparecida do Taboado"
@@ -145,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841194,
+    "wof:lastmodified":1566624991,
     "wof:name":"Aparecida do Taboado",
     "wof:parent_id":102055187,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.813727,
     "lbl:longitude":-50.05133,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.813727,
     "mps:longitude":-50.05133,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cd\u09b8\u09be\u09a8\u0997\u09cd\u09b0\u09bf-\u09b2\u09be"
     ],
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":37,
     "wof:belongsto":[
         85682015,
@@ -129,7 +132,7 @@
         "fct:id":"03897358-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6318964,
         "gp:id":55944055,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q546227"
     },
     "wof:country":"BR",
@@ -148,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241938,
+    "wof:lastmodified":1566623532,
     "wof:name":"Xangri-l\u00e1",
     "wof:parent_id":404565105,
     "wof:placetype":"locality",

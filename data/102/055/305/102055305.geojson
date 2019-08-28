@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-22.366198,
     "lbl:longitude":-55.525993,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-22.366198,
     "mps:longitude":-55.525993,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u09a8\u09cd\u099f\u09be \u09aa\u09cb\u09b0\u09be"
     ],
@@ -73,7 +76,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102055305,
-    "wof:lastmodified":1560547431,
+    "wof:lastmodified":1566619287,
     "wof:name":"Ponta Pora",
     "wof:parent_id":85681947,
     "wof:placetype":"county",

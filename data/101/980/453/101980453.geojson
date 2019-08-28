@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.676128,
     "lbl:longitude":-43.871454,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-2.676128,
     "mps:longitude":-43.871454,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09b2\u0997\u09be\u09a1\u09cb"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681931,
         102191577,
@@ -87,7 +90,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3389912,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"fc124f813d4c85a318ff09f6ed419bf3",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101980453,
-    "wof:lastmodified":1564142024,
+    "wof:lastmodified":1566625719,
     "wof:name":"Salgado",
     "wof:parent_id":404555023,
     "wof:placetype":"locality",

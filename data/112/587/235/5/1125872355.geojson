@@ -9,15 +9,18 @@
     "geom:bbox":"-56.07667,-15.86556,-56.07667,-15.86556",
     "geom:latitude":-15.86556,
     "geom:longitude":-56.07667,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6387,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:population":6387,
     "iso:country":"BR",
+    "lbl:bbox":"-56.09667,-15.88556,-56.05667,-15.84556",
     "lbl:latitude":-15.86556,
     "lbl:longitude":-56.07667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09cb \u0986\u09a8\u09cd\u099f\u09cb\u09a8\u09bf\u0993 \u09a1\u09cb \u09b2\u09c7\u09ad\u09c7\u09b0\u09cd\u0997\u09af\u09bc\u09c7\u09b0"
@@ -73,7 +76,7 @@
     "name:swe_x_preferred":[
         "Santo Ant\u00f4nio do Leverger"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Leverger"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +110,7 @@
     "qs_pg:woe_adm0":23424768,
     "qs_pg:woe_id":449156,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424768,
     "woe:name_adm0":"Brasil",
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":1125872355,
-    "wof:lastmodified":1561841408,
+    "wof:lastmodified":1566628416,
     "wof:name":"Santo Antonio",
     "wof:parent_id":404559383,
     "wof:placetype":"locality",

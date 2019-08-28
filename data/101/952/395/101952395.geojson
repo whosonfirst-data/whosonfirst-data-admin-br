@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.684025,
     "lbl:longitude":-50.552402,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-20.684025,
     "mps:longitude":-50.552402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0994\u09b0\u09bf\u09ab\u09cd\u09b2\u09be\u09ae\u09be"
     ],
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":595.0,
     "wd:latitude":-20.685833,
@@ -131,7 +134,6 @@
         "fct:id":"0386f90c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471309,
         "gp:id":456734,
-        "qs:id":342528,
         "qs_pg:id":342528,
         "wd:id":"Q268956",
         "wk:page":"Auriflama"
@@ -151,7 +153,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242437,
+    "wof:lastmodified":1566623774,
     "wof:name":"Auriflama",
     "wof:parent_id":102061099,
     "wof:placetype":"locality",

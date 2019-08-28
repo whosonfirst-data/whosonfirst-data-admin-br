@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.50737,
     "lbl:longitude":-40.017943,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-18.50737,
     "mps:longitude":-40.017943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u0627 \u0644\u064a\u0645\u0627"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-19.985833,
     "wd:longitude":-43.846944,
@@ -118,7 +121,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"887efe65c293ef2c6e42ed4f5c56669a",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101976387,
-    "wof:lastmodified":1564140952,
+    "wof:lastmodified":1566624715,
     "wof:name":"Nova Lima",
     "wof:parent_id":404554619,
     "wof:placetype":"locality",

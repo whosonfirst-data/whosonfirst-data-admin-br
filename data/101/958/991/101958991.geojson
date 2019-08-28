@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.468897,
     "lbl:longitude":-53.475421,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.468897,
     "mps:longitude":-53.475421,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u09aa\u09be\u09b2\u09ae\u09be"
     ],
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Nova Palma"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Palma"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -125,7 +128,7 @@
         "fct:id":"03861eec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456134,
         "gp:id":441632,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1758164",
         "wk:page":"Nova Palma"
     },
@@ -145,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245600,
+    "wof:lastmodified":1566625200,
     "wof:name":"Nova Palma",
     "wof:parent_id":404564025,
     "wof:placetype":"locality",

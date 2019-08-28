@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-20.159766,
     "lbl:longitude":-45.755145,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-20.159766,
     "mps:longitude":-45.755145,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0987\u0997\u09c1\u09f1\u09be\u099f\u09be\u09ae\u09be"
     ],
@@ -121,7 +124,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":520,
     "wof:belongsto":[
         102191577,
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":102054023,
-    "wof:lastmodified":1563234541,
+    "wof:lastmodified":1566618802,
     "wof:name":"Iguatama",
     "wof:parent_id":85681941,
     "wof:placetype":"county",

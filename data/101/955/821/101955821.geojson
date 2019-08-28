@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.544007,
     "lbl:longitude":-48.235263,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.544007,
     "mps:longitude":-48.235263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tupy"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         85682041,
@@ -48,7 +51,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"9fdc25c03660bb303e1760af3ea74565",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101955821,
-    "wof:lastmodified":1564139654,
+    "wof:lastmodified":1566623825,
     "wof:name":"Tupy",
     "wof:parent_id":404566559,
     "wof:placetype":"locality",

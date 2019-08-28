@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.942234,
     "lbl:longitude":-45.825886,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.942234,
     "mps:longitude":-45.825886,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09b2\u09bf\u0995\u0987\u09a8\u09c7\u0986"
     ],
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "Ilic\u00ednea"
     ],
-    "name:unk_x_variant":[
-        "Ilicinea"
-    ],
     "name:vie_x_preferred":[
         "Ilic\u00ednea"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":147,
     "wof:belongsto":[
         85681941,
@@ -131,7 +131,6 @@
         "fct:id":"0385e256-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461403,
         "gp:id":435480,
-        "qs:id":356925,
         "qs_pg:id":356925,
         "wd:id":"Q1791254",
         "wk:page":"Ilic\u00ednea"
@@ -152,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841159,
+    "wof:lastmodified":1566624758,
     "wof:name":"Ilic\u00ednea",
     "wof:parent_id":404556625,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.103416,
     "lbl:longitude":-50.585807,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-20.103416,
     "mps:longitude":-50.585807,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b0\u09be\u09a8\u09be\u09aa\u09c1\u09f1\u09be"
     ],
@@ -82,9 +85,6 @@
     "name:tgl_x_preferred":[
         "Paranapu\u00e3"
     ],
-    "name:unk_x_variant":[
-        "Paranapu\u00e1"
-    ],
     "name:vie_x_preferred":[
         "Paranapu\u00e3"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-20.102778,
     "wd:longitude":-50.585833,
@@ -130,10 +130,12 @@
     "wof:concordances":{
         "gn:id":6317870,
         "gp:id":442822,
-        "qs:id":4,
-        "qs_pg:id":244686,
+        "qs_pg:id":4,
         "wd:id":"Q633898",
         "wk:page":"Paranapu\u00e3"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":244686
     },
     "wof:country":"BR",
     "wof:geomhash":"a96f3517b2c8eb8aecd975b32c3fdfb2",
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":101955161,
-    "wof:lastmodified":1563242537,
+    "wof:lastmodified":1566623814,
     "wof:name":"Paranapu\u00e3",
     "wof:parent_id":102061897,
     "wof:placetype":"locality",

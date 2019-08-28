@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.600475,
     "lbl:longitude":-36.297465,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.600475,
     "mps:longitude":-36.297465,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Riacho Fundo"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":54,
     "wof:belongsto":[
         102191577,
@@ -54,7 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3390378,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"07ac442abdee84929c069f73faa754a5",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101984069,
-    "wof:lastmodified":1564140037,
+    "wof:lastmodified":1566624094,
     "wof:name":"Riacho Fundo",
     "wof:parent_id":102056039,
     "wof:placetype":"locality",

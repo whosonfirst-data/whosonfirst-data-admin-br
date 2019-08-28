@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.375126,
     "lbl:longitude":-35.466864,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.375126,
     "mps:longitude":-35.466864,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u0645\u0628\u0627\u0648\u0628\u0627"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":159,
     "wof:belongsto":[
         102191577,
@@ -110,7 +113,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q929867"
     },
     "wof:country":"BR",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101987223,
-    "wof:lastmodified":1563246430,
+    "wof:lastmodified":1566625572,
     "wof:name":"Timba\u00faba",
     "wof:parent_id":102058793,
     "wof:placetype":"locality",

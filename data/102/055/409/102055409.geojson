@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-15.158242,
     "lbl:longitude":-55.55002,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-15.158242,
     "mps:longitude":-55.55002,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u099a\u09be\u09aa\u09be\u09a1\u09be \u09a1\u09cb\u09b8 \u0997\u09c1\u0987\u09ae\u09be\u09b0\u09be\u09af\u09bc\u09c7\u09b8"
     ],
@@ -73,7 +76,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102055409,
-    "wof:lastmodified":1560547418,
+    "wof:lastmodified":1566619249,
     "wof:name":"Chapada dos Guimaraes",
     "wof:parent_id":85681955,
     "wof:placetype":"county",

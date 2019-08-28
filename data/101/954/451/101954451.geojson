@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.835197,
     "lbl:longitude":-40.71355,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-18.835197,
     "mps:longitude":-40.71355,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09b0\u09be\u09b0\u09c7\u09ae\u09be"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":585.0,
     "wd:latitude":-23.415,
@@ -110,7 +113,7 @@
         "fct:id":"0380a78c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461872,
         "gp:id":434978,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a3c2bf6931a3e9f12379b5fc05ca53a0",
@@ -128,7 +131,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564139136,
+    "wof:lastmodified":1566623327,
     "wof:name":"Guararema",
     "wof:parent_id":404554537,
     "wof:placetype":"locality",

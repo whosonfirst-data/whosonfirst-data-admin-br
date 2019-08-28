@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.939645,
     "lbl:longitude":-38.535476,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-3.939645,
     "mps:longitude":-38.535476,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u0987\u099f\u09bf\u0999\u09cd\u0997\u09be"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -114,7 +117,6 @@
         "fct:id":"0387bcac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3397969,
         "gp:id":459706,
-        "qs:id":935646,
         "qs_pg:id":935646,
         "wd:id":"Q2013483",
         "wk:page":"Itaitinga"
@@ -135,7 +137,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841297,
+    "wof:lastmodified":1566625990,
     "wof:name":"Itaitinga",
     "wof:parent_id":404553103,
     "wof:placetype":"locality",

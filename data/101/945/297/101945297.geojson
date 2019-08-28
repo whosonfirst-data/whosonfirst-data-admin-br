@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.524417,
     "lbl:longitude":-39.533637,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-6.524417,
     "mps:longitude":-39.533637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u099c\u09c1\u0995\u0986\u09b8"
     ],
@@ -84,9 +87,6 @@
     "name:swe_x_preferred":[
         "Juc\u00e1s"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Mateus"
-    ],
     "name:vie_x_preferred":[
         "Juc\u00e1s"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":147,
     "wof:belongsto":[
@@ -132,7 +132,6 @@
         "fct:id":"03873eda-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3397119,
         "gp:id":457440,
-        "qs:id":305391,
         "qs_pg:id":305391,
         "wd:id":"Q2027711"
     },
@@ -152,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247126,
+    "wof:lastmodified":1566625937,
     "wof:name":"Juc\u00e1s",
     "wof:parent_id":404553225,
     "wof:placetype":"locality",

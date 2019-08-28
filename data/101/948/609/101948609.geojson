@@ -12,6 +12,8 @@
     "iso:country":"BR",
     "lbl:latitude":-8.288198,
     "lbl:longitude":-35.034804,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.288198,
     "mps:longitude":-35.034804,
     "mz:hierarchy_label":1,
@@ -279,7 +281,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681973,
         102191577,
@@ -291,10 +293,12 @@
     "wof:concordances":{
         "gn:id":3404545,
         "gp:id":456100,
-        "qs:id":9,
-        "qs_pg:id":218129,
+        "qs_pg:id":9,
         "wd:id":"Q1637538",
         "wk:page":"Cabo de Santo Agostinho"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":218129
     },
     "wof:country":"BR",
     "wof:geomhash":"2313fc30208ba78aa314ee6b25c8cb0f",
@@ -309,7 +313,7 @@
         }
     ],
     "wof:id":101948609,
-    "wof:lastmodified":1561841110,
+    "wof:lastmodified":1566623927,
     "wof:name":"Cabo de Santo Agostinho",
     "wof:parent_id":404560247,
     "wof:placetype":"locality",

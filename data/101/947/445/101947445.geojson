@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.077377,
     "lbl:longitude":-39.000877,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.077377,
     "mps:longitude":-39.000877,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u099f\u09c1\u0987\u09aa\u09c7"
     ],
@@ -92,9 +95,6 @@
     "name:swe_x_preferred":[
         "Aratu\u00edpe"
     ],
-    "name:unk_x_variant":[
-        "Aratuhype"
-    ],
     "name:vie_x_preferred":[
         "Aratu\u00edpe"
     ],
@@ -122,7 +122,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":146,
     "wof:belongsto":[
         85681895,
@@ -136,7 +136,7 @@
         "fct:id":"03879e8e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471701,
         "gp:id":458504,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1762335",
         "wk:page":"Aratu\u00edpe"
     },
@@ -156,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841141,
+    "wof:lastmodified":1566624409,
     "wof:name":"Aratu\u00edpe",
     "wof:parent_id":404550481,
     "wof:placetype":"locality",

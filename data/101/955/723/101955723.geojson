@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.907214,
     "lbl:longitude":-48.642429,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-20.907214,
     "mps:longitude":-48.642429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u099f\u09c7 \u0986\u099c\u09c1\u09b2 \u09aa\u09be\u0989\u09b2\u09bf\u09b8\u09cd\u099f\u09be"
     ],
@@ -83,7 +86,7 @@
     "name:swe_x_preferred":[
         "Monte Azul Paulista"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Monte Azul"
     ],
     "name:vol_x_preferred":[
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-20.907222,
     "wd:longitude":-48.641389,
@@ -130,7 +133,6 @@
         "fct:id":"038614a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456863,
         "gp:id":440659,
-        "qs:id":1044995,
         "qs_pg:id":1044995,
         "wd:id":"Q1800695",
         "wk:page":"Monte Azul Paulista"
@@ -151,7 +153,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242616,
+    "wof:lastmodified":1566623842,
     "wof:name":"Monte Azul Paulista",
     "wof:parent_id":404566831,
     "wof:placetype":"locality",

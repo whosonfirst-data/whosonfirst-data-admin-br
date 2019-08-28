@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.270662,
     "lbl:longitude":-37.988446,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.270662,
     "mps:longitude":-37.988446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09cd\u0995\u09be\u0995\u09af\u09bc\u09be\u0993"
     ],
@@ -85,7 +88,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":147,
     "wof:belongsto":[
         102191577,
@@ -96,7 +99,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":442880,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"33644a25e94a7596598ccafad0ad90e7",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101973541,
-    "wof:lastmodified":1564141885,
+    "wof:lastmodified":1566625639,
     "wof:name":"Marca\u00e7\u00e3o",
     "wof:parent_id":102050211,
     "wof:placetype":"locality",

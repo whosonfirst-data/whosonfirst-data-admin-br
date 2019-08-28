@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.535921,
     "lbl:longitude":-39.282676,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.535921,
     "mps:longitude":-39.282676,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Lagoa do Saco"
     ],
@@ -33,7 +37,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":8437634,
         "gp:id":457616,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e4f0b8770fc9bb86406fc4884e155ce2",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101972465,
-    "wof:lastmodified":1501273487,
+    "wof:lastmodified":1566626271,
     "wof:name":"Lagoa do Saco",
     "wof:parent_id":404551545,
     "wof:placetype":"locality",

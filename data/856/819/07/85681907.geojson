@@ -36,6 +36,7 @@
     ],
     "lbl:latitude":-4.982296,
     "lbl:longitude":-39.442746,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-4.982296,
     "mps:longitude":-39.442746,
     "mz:categories":[],
@@ -304,9 +305,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Cear\u00e1"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0626\u06cc\u0631\u0627"
     ],
@@ -405,9 +403,9 @@
     "qs:type":"Estado",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-08-01",
+    "src:population_date":"2010-08-01",
     "statoids:area_km":"148,920",
     "statoids:area_mi":"57,499",
     "statoids:as_of_date":"2010-08-01",
@@ -451,11 +449,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565660994,
+    "wof:lastmodified":1566620866,
     "wof:name":"Ceara",
     "wof:parent_id":85633009,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":8452381,
     "wof:population_rank":13,

@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-22.394582,
     "lbl:longitude":-47.569073,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-22.394582,
     "mps:longitude":-47.569073,
     "mz:hierarchy_label":1,
@@ -274,7 +276,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682041,
@@ -288,7 +290,6 @@
         "fct:id":"0389eda6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451234,
         "gp:id":455905,
-        "qs:id":452984,
         "qs_pg:id":452984,
         "wd:id":"Q291277"
     },
@@ -308,7 +309,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242626,
+    "wof:lastmodified":1566623846,
     "wof:name":"Rio Claro",
     "wof:parent_id":404567125,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-5.132047,
     "lbl:longitude":-49.335185,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-5.132047,
     "mps:longitude":-49.335185,
     "mz:hierarchy_label":1,
@@ -202,7 +204,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -215,7 +217,6 @@
         "fct:id":"0385ef30-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3397851,
         "gp:id":436212,
-        "qs:id":274295,
         "qs_pg:id":274295,
         "wd:id":"Q2008167",
         "wk:page":"Itupiranga"
@@ -235,7 +236,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246874,
+    "wof:lastmodified":1566625830,
     "wof:name":"Itupiranga",
     "wof:parent_id":102055793,
     "wof:placetype":"locality",

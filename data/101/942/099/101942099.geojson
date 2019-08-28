@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":3.81563,
     "lbl:longitude":-51.862483,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.81563,
     "mps:longitude":-51.862483,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041a\u043b\u0435\u0432\u0435\u043b\u0430\u043d\u0434\u0438\u044f"
     ],
@@ -31,7 +34,7 @@
     "name:por_x_preferred":[
         "Clevel\u00e2ndia do Norte"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Clevlandia"
     ],
     "qs:a0":"Brasil",
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":42,
     "wof:belongsto":[
         85681891,
@@ -65,9 +68,11 @@
         "fct:id":"03804f76-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3402076,
         "gp:id":429586,
-        "qs:id":9,
-        "qs_pg:id":464650,
+        "qs_pg:id":9,
         "wd:id":"Q12293439"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":464650
     },
     "wof:country":"BR",
     "wof:geomhash":"507be80417a9ac720e313a1bf84b5ccc",
@@ -85,7 +90,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841278,
+    "wof:lastmodified":1566625835,
     "wof:name":"Clevel\u00e2ndia do Norte",
     "wof:parent_id":404550343,
     "wof:placetype":"locality",

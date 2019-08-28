@@ -9,14 +9,17 @@
     "geom:bbox":"-49.514049796,-18.5233192728,-49.4629934947,-18.4777535543",
     "geom:latitude":-18.495137,
     "geom:longitude":-49.486397,
-    "geonames:id":"3468434,3468435",
+    "gn:id":"3468434,3468435",
     "iso:country":"BR",
     "lbl:latitude":-18.499228,
     "lbl:longitude":-49.478709,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.499228,
     "mps:longitude":-49.478709,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0995\u09b9\u09cb\u09af\u09bc\u09c7\u0987\u09b0\u09be \u09a1\u09cb\u0989\u09b0\u09be\u09a1\u09be"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         101962277,
@@ -100,7 +103,9 @@
     "wof:concordances":{
         "gn:id":3468434,
         "gp:id":426649,
-        "qs:id":7,
+        "qs_pg:id":7
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":367207
     },
     "wof:country":"BR",
@@ -115,7 +120,7 @@
         }
     ],
     "wof:id":1175611039,
-    "wof:lastmodified":1564138126,
+    "wof:lastmodified":1566622751,
     "wof:name":"Cachoeira Dourada",
     "wof:parent_id":102052093,
     "wof:placetype":"locality",

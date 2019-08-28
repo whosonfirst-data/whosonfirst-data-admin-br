@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.132883,
     "lbl:longitude":-48.563768,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.132883,
     "mps:longitude":-48.563768,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b0\u09c1\u09ae\u09ac\u09be\u0987\u09ac\u09be"
     ],
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "Corumba\u00edba"
     ],
-    "name:unk_x_variant":[
-        "Corumbahyba"
-    ],
     "name:vie_x_preferred":[
         "Corumba\u00edba"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":548,
     "wof:belongsto":[
         102191577,
@@ -130,7 +130,6 @@
         "fct:id":"03871bbc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465338,
         "gp:id":457084,
-        "qs:id":148320,
         "qs_pg:id":148320,
         "wd:id":"Q985606",
         "wk:page":"Corumba\u00edba"
@@ -150,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841064,
+    "wof:lastmodified":1566623529,
     "wof:name":"Corumba\u00edba",
     "wof:parent_id":102052149,
     "wof:placetype":"locality",

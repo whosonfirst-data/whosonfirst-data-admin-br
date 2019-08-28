@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.000605,
     "lbl:longitude":-42.884878,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.000605,
     "mps:longitude":-42.884878,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u0420\u0438\u0442\u0430"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -107,7 +110,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"b05117155c6146768bac65ec835f8930",
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101983777,
-    "wof:lastmodified":1564139897,
+    "wof:lastmodified":1566624020,
     "wof:name":"Santa Rita",
     "wof:parent_id":404558213,
     "wof:placetype":"locality",

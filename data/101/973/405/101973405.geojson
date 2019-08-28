@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.501821,
     "lbl:longitude":-38.242403,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.501821,
     "mps:longitude":-38.242403,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0995\u09cd\u09b8\u0987\u09af\u09bc\u09be\u09b8"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -86,7 +89,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"382f17aa3a8e4af632ae2d45ba0b555b",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101973405,
-    "wof:lastmodified":1564141870,
+    "wof:lastmodified":1566625632,
     "wof:name":"Caxias",
     "wof:parent_id":404550793,
     "wof:placetype":"locality",

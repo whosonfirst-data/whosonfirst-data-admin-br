@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.50852,
     "lbl:longitude":-42.083255,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.50852,
     "mps:longitude":-42.083255,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09bf\u09b2\u09be\u0995"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -122,7 +125,7 @@
         "fct:id":"03860a1a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457699,
         "gp:id":439682,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1790216",
         "wk:page":"Marilac"
     },
@@ -142,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841087,
+    "wof:lastmodified":1566623783,
     "wof:name":"Marilac",
     "wof:parent_id":404557165,
     "wof:placetype":"locality",

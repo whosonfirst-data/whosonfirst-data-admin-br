@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.945077,
     "lbl:longitude":-38.964599,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-6.945077,
     "mps:longitude":-38.964599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Aurora"
     ],
@@ -266,7 +269,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -280,7 +283,6 @@
         "fct:id":"0386f93e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3406954,
         "gp:id":456735,
-        "qs:id":342541,
         "qs_pg:id":342541,
         "wd:id":"Q2289941"
     },
@@ -300,7 +302,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247230,
+    "wof:lastmodified":1566625985,
     "wof:name":"Aurora",
     "wof:parent_id":404552435,
     "wof:placetype":"locality",

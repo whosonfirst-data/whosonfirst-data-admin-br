@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.036707,
     "lbl:longitude":-37.455869,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.036707,
     "mps:longitude":-37.455869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tombo"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":60,
     "wof:belongsto":[
         102191577,
@@ -62,7 +65,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"27a994d5b4ca6715e213c80362df8903",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101990183,
-    "wof:lastmodified":1564139511,
+    "wof:lastmodified":1566623668,
     "wof:name":"Tombo",
     "wof:parent_id":102060955,
     "wof:placetype":"locality",

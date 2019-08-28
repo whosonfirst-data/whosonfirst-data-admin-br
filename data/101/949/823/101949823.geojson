@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-15.24994,
     "lbl:longitude":-40.241608,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-15.24994,
     "mps:longitude":-40.241608,
     "mz:hierarchy_label":1,
@@ -80,9 +82,6 @@
     ],
     "name:spa_x_preferred":[
         "Itapetinga"
-    ],
-    "name:unk_x_variant":[
-        "Itatinga"
     ],
     "name:vie_x_preferred":[
         "Itapetinga"
@@ -208,7 +207,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -222,7 +221,6 @@
         "fct:id":"0387367e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460730,
         "gp:id":457350,
-        "qs:id":1324368,
         "qs_pg:id":1324368,
         "wd:id":"Q921827",
         "wk:page":"Itapetinga"
@@ -243,7 +241,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841150,
+    "wof:lastmodified":1566624585,
     "wof:name":"Itapetinga",
     "wof:parent_id":404551221,
     "wof:placetype":"locality",

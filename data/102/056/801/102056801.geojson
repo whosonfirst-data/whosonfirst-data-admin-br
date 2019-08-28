@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-8.288715,
     "lbl:longitude":-40.320505,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-8.288715,
     "mps:longitude":-40.320505,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:arg_x_preferred":[
         "Santa Cruz"
     ],
@@ -181,7 +184,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":102056801,
-    "wof:lastmodified":1564133444,
+    "wof:lastmodified":1566619829,
     "wof:name":"Santa Cruz",
     "wof:parent_id":85681973,
     "wof:placetype":"county",

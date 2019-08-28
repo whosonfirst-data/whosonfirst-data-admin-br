@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.123806,
     "lbl:longitude":-44.129184,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.123806,
     "mps:longitude":-44.129184,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*MA",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -39,10 +43,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"a3c8538c43534283f2dd20675bee2f69",
+    "wof:geomhash":"d9e2efc7b66061358c3a9a6f98d17733",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101980019,
-    "wof:lastmodified":1479934257,
+    "wof:lastmodified":1566625739,
     "wof:name":"Cocal",
     "wof:parent_id":102053101,
     "wof:placetype":"locality",

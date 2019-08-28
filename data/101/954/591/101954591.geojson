@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.433285,
     "lbl:longitude":-40.357451,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.433285,
     "mps:longitude":-40.357451,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Comuna Jucu"
     ],
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0416\u0443\u043a\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jacu"
     ],
     "name:vie_x_preferred":[
@@ -94,7 +97,7 @@
     "qs:type":"Local urban major",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":176,
     "wof:belongsto":[
         85681921,
@@ -107,7 +110,7 @@
     "wof:concordances":{
         "gn:id":3459525,
         "gp:id":455442,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"ad707f9870b568833d0a5f6f922727e2",
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101954591,
-    "wof:lastmodified":1564139123,
+    "wof:lastmodified":1566623315,
     "wof:name":"Jucu",
     "wof:parent_id":404554679,
     "wof:placetype":"locality",

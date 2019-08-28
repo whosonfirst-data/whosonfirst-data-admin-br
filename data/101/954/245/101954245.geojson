@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.019017,
     "lbl:longitude":-40.841339,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-21.019017,
     "mps:longitude":-40.841339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09aa\u09c7\u09ae\u09bf\u09b0\u09bf\u09ae"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":90,
     "wof:belongsto":[
@@ -121,7 +124,6 @@
         "fct:id":"0386c0e0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460738,
         "gp:id":456263,
-        "qs:id":240050,
         "qs_pg:id":240050,
         "wd:id":"Q1806710",
         "wk:page":"Itapemirim, Esp\u00edrito Santo"
@@ -142,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241416,
+    "wof:lastmodified":1566623285,
     "wof:name":"Itapemirim",
     "wof:parent_id":404554399,
     "wof:placetype":"locality",

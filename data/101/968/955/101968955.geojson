@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.465725,
     "lbl:longitude":-42.654425,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-22.465725,
     "mps:longitude":-42.654425,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0995\u09b9\u09cb\u09af\u09bc\u09c7\u0987\u09b0\u09be\u09b8 \u09a1\u09c7 \u09ae\u09be\u0995\u09be\u0995\u09c1"
     ],
@@ -74,9 +77,6 @@
     "name:spa_x_preferred":[
         "Cachoeiras de Macacu"
     ],
-    "name:unk_x_variant":[
-        "Cachoeiras"
-    ],
     "name:vie_x_preferred":[
         "Cachoeiras de Macacu"
     ],
@@ -106,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681991,
@@ -120,7 +120,6 @@
         "fct:id":"03870924-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3468425,
         "gp:id":456897,
-        "qs:id":148428,
         "qs_pg:id":148428,
         "wd:id":"Q1983181"
     },
@@ -140,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841176,
+    "wof:lastmodified":1566624866,
     "wof:name":"Cachoeiras de Macacu",
     "wof:parent_id":404562149,
     "wof:placetype":"locality",

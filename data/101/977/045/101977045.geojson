@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.343008,
     "lbl:longitude":-39.445446,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.343008,
     "mps:longitude":-39.445446,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0646\u0643"
     ],
@@ -127,7 +130,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":291,
     "wof:belongsto":[
         85681895,
@@ -139,7 +142,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":461536,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q857319"
     },
     "wof:country":"BR",
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101977045,
-    "wof:lastmodified":1563242955,
+    "wof:lastmodified":1566623969,
     "wof:name":"Junco",
     "wof:parent_id":404552183,
     "wof:placetype":"locality",

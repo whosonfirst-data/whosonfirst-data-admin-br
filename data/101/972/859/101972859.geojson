@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.126944,
     "lbl:longitude":-39.005944,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.126944,
     "mps:longitude":-39.005944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "S\u00e3o Bernardo"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         85681895,
@@ -69,7 +72,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"2e64142f4acab2628207b02928aad70e",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101972859,
-    "wof:lastmodified":1564142739,
+    "wof:lastmodified":1566626266,
     "wof:name":"S\u00e3o Bernardo",
     "wof:parent_id":404551295,
     "wof:placetype":"locality",

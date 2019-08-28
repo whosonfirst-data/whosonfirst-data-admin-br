@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-5.29135,
     "lbl:longitude":-44.487887,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-5.29135,
     "mps:longitude":-44.487887,
     "mz:hierarchy_label":1,
@@ -74,9 +76,6 @@
     ],
     "name:swe_x_preferred":[
         "Presidente Dutra"
-    ],
-    "name:unk_x_variant":[
-        "Curador"
     ],
     "name:vol_x_preferred":[
         "Presidente Dutra"
@@ -196,7 +195,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -209,7 +208,6 @@
         "fct:id":"038816a2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3391220,
         "gp:id":445864,
-        "qs:id":1059993,
         "qs_pg:id":1059993,
         "wd:id":"Q637452",
         "wk:page":"Presidente Dutra, Maranh\u00e3o"
@@ -229,7 +227,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247370,
+    "wof:lastmodified":1566626068,
     "wof:name":"Presidente Dutra",
     "wof:parent_id":102053099,
     "wof:placetype":"locality",

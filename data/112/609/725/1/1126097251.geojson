@@ -9,14 +9,17 @@
     "geom:bbox":"-43.40541,-22.83909,-43.40541,-22.83909",
     "geom:latitude":-22.83909,
     "geom:longitude":-43.40541,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"BR",
+    "lbl:bbox":"-43.41041,-22.84409,-43.40041,-22.83409",
     "lbl:latitude":-22.83909,
     "lbl:longitude":-43.40541,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:por_x_preferred":[
         "Ricardo de Albuquerque"
@@ -42,17 +45,17 @@
     "qs_pg:woe_adm0":23424768,
     "qs_pg:woe_id":55944473,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424768,
     "woe:name_adm0":"Brasil",
     "woe:name_adm1":"Rio de Janeiro",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85681991,
         102191577,
         85633009,
         101953261,
-        102058455,
-        85681991
+        102058455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126097251,
-    "wof:lastmodified":1509411943,
+    "wof:lastmodified":1566628456,
     "wof:name":"Ricardo De Albuquerque",
     "wof:parent_id":101953261,
     "wof:placetype":"neighbourhood",

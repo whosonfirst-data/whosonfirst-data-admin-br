@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.083512,
     "lbl:longitude":-51.189858,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.083512,
     "mps:longitude":-51.189858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u0997\u09cb\u099f\u09be\u09b0\u09cd\u09a1\u09cb"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":631,
     "wof:belongsto":[
         85682015,
@@ -107,7 +110,7 @@
     "wof:concordances":{
         "gn:id":7582867,
         "gp:id":459474,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"5a74d93258dcfe870eae2d155206ce7a",
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101963577,
-    "wof:lastmodified":1564139423,
+    "wof:lastmodified":1566623617,
     "wof:name":"S\u00e3o Gotardo",
     "wof:parent_id":404563615,
     "wof:placetype":"locality",

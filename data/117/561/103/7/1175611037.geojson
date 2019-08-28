@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.295149,
     "lbl:longitude":-45.08047,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.295149,
     "mps:longitude":-45.08047,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Salgadinho"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         101975375,
@@ -74,7 +77,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"6b66813856acb3aff1f80993426c2885",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1175611037,
-    "wof:lastmodified":1564138126,
+    "wof:lastmodified":1566622751,
     "wof:name":"Salgadinho",
     "wof:parent_id":102052805,
     "wof:placetype":"locality",

@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":3.167171,
     "lbl:longitude":-52.32908,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.167171,
     "mps:longitude":-52.32908,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*AP",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681891,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":379841,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"7e284916e3d46988a51d90cd46315a32",
+    "wof:geomhash":"640b0f9e785c5fba0c0b128ffa050cc1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101970417,
-    "wof:lastmodified":1479591284,
+    "wof:lastmodified":1566624139,
     "wof:name":"Vila Brasil",
     "wof:parent_id":404550343,
     "wof:placetype":"locality",

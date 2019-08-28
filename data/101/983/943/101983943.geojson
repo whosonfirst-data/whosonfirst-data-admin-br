@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.68563,
     "lbl:longitude":-41.195203,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.68563,
     "mps:longitude":-41.195203,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u09b0\u09cd\u0997\u09c7\u09ae \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
     ],
@@ -61,7 +64,7 @@
     "name:swe_x_preferred":[
         "Vargem Grande"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ametista"
     ],
     "name:vol_x_preferred":[
@@ -88,7 +91,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -99,7 +102,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3445511,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"d932a64b11c86cae48a2bf0cc8dd82fc",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101983943,
-    "wof:lastmodified":1564139957,
+    "wof:lastmodified":1566624049,
     "wof:name":"Vargem Grande",
     "wof:parent_id":404558327,
     "wof:placetype":"locality",

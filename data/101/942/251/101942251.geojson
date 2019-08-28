@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-1.893658,
     "lbl:longitude":-50.208708,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-1.893658,
     "mps:longitude":-50.208708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u0997\u09cd\u09b0\u09c7"
     ],
@@ -76,9 +79,6 @@
     "name:swe_x_preferred":[
         "Bagre"
     ],
-    "name:unk_x_variant":[
-        "Bacre"
-    ],
     "name:vie_x_preferred":[
         "Bagre"
     ],
@@ -108,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681959,
         102191577,
@@ -121,7 +121,6 @@
         "fct:id":"038238fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3406856,
         "gp:id":456060,
-        "qs:id":382513,
         "qs_pg:id":382513,
         "wd:id":"Q1804902"
     },
@@ -141,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246887,
+    "wof:lastmodified":1566625836,
     "wof:name":"Bagre",
     "wof:parent_id":404559493,
     "wof:placetype":"locality",

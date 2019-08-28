@@ -9,16 +9,19 @@
     "geom:bbox":"-55.3883884068,-12.3738573214,-55.2065919214,-12.1950797767",
     "geom:latitude":-12.284472,
     "geom:longitude":-55.29749,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-12.284468,
     "lbl:longitude":-55.29749,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.284468,
     "mps:longitude":-55.29749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09c7\u09b0\u09be"
     ],
@@ -128,7 +131,7 @@
     "qs_pg:woe_id":458260,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":150,
     "wof:belongsto":[
         102191577,
@@ -141,7 +144,6 @@
         "fct:id":"0387939e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6318877,
         "gp:id":458260,
-        "qs:id":181661,
         "qs_pg:id":181661,
         "wd:id":"Q2007965",
         "wk:page":"Vera, Mato Grosso"
@@ -161,7 +163,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245003,
+    "wof:lastmodified":1566624929,
     "wof:name":"Vera",
     "wof:parent_id":102055649,
     "wof:placetype":"locality",

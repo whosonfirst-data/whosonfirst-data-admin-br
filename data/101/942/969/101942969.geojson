@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.881003,
     "lbl:longitude":-46.002941,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.881003,
     "mps:longitude":-46.002941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u0440\u0430\u043c\u0435"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681931,
         102191577,
@@ -113,7 +116,7 @@
         "fct:id":"0386f66e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316424,
         "gp:id":456700,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2036277"
     },
     "wof:country":"BR",
@@ -132,7 +135,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246933,
+    "wof:lastmodified":1566625853,
     "wof:name":"Arame",
     "wof:parent_id":404554983,
     "wof:placetype":"locality",

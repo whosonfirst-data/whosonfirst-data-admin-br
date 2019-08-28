@@ -16,10 +16,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.737774,
     "lbl:longitude":-46.565822,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":-23.737774,
     "mps:longitude":-46.565822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0648 \u0628\u0631\u0646\u0627\u0631\u062f\u0648 \u062f\u0648 \u0643\u0627\u0645\u0628\u0648"
     ],
@@ -199,7 +202,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0411\u0435\u0440\u043d\u0430\u0440\u0434\u0443-\u0434\u0443-\u041a\u0430\u043c\u043f\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Bernardo"
     ],
     "name:urd_x_preferred":[
@@ -240,7 +243,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":762.0,
     "wd:latitude":-23.693889,
@@ -259,7 +262,6 @@
         "fct:id":"0389e306-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3449344,
         "gp:id":449648,
-        "qs:id":147940,
         "qs_pg:id":147940,
         "wd:id":"Q184403",
         "wk:page":"S\u00e3o Bernardo do Campo"
@@ -280,7 +282,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841252,
+    "wof:lastmodified":1566625413,
     "wof:name":"S\u00e3o Bernardo do Campo",
     "wof:parent_id":404567211,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.35772,
     "lbl:longitude":-35.780209,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-7.35772,
     "mps:longitude":-35.780209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09be\u0997\u09c1\u09a8\u09cd\u09a1\u09c7\u09b8"
     ],
@@ -101,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -114,7 +117,6 @@
         "fct:id":"038a4850-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3400515,
         "gp:id":432157,
-        "qs:id":1044427,
         "qs_pg:id":1044427,
         "wd:id":"Q2011192",
         "wk:page":"Fagundes, Para\u00edba"
@@ -134,7 +136,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243558,
+    "wof:lastmodified":1566624277,
     "wof:name":"Fagundes",
     "wof:parent_id":102056165,
     "wof:placetype":"locality",

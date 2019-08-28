@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.876655,
     "lbl:longitude":-39.224976,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.876655,
     "mps:longitude":-39.224976,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09be\u09ad\u09bf\u09b2\u09b9\u09be"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -99,7 +102,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6317536,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e857e959171b51a0418431cd061c22dc",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101944523,
-    "wof:lastmodified":1564142401,
+    "wof:lastmodified":1566626009,
     "wof:name":"Maravilha",
     "wof:parent_id":404552711,
     "wof:placetype":"locality",

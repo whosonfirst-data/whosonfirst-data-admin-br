@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.44054,
     "lbl:longitude":-52.313839,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.44054,
     "mps:longitude":-52.313839,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "S\u00e3o Miguel"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":465,
     "wof:belongsto":[
         85682015,
@@ -88,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3448479,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"be63f1820c26117c93c143c389493038",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101959603,
-    "wof:lastmodified":1564141274,
+    "wof:lastmodified":1566625091,
     "wof:name":"S\u00e3o Miguel",
     "wof:parent_id":404563903,
     "wof:placetype":"locality",

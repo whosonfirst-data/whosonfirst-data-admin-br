@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.607411,
     "lbl:longitude":-43.727137,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-20.607411,
     "mps:longitude":-43.727137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u0633\u0644\u0647\u064a\u0631\u0648 \u0644\u0627\u0641\u0627\u064a\u062a"
     ],
@@ -136,7 +139,7 @@
         "Conselheiro Lafaiete"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbe\u0ba3\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb9\u0bc7\u0baf\u0bcd\u0bb0\u0bcb  \u0bb2\u0bbe\u0baa\u0bbe\u0baf\u0b9f\u0bc7"
+        "\u0b95\u0bbe\u0ba3\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb9\u0bc7\u0baf\u0bcd\u0bb0\u0bcb \u0bb2\u0bbe\u0baa\u0bbe\u0baf\u0b9f\u0bc7"
     ],
     "name:tat_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0435\u043b\u044c\u0435\u0439\u0440\u0443-\u041b\u0430\u0444\u0430\u0435\u0442\u0438"
@@ -152,9 +155,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0435\u043b\u044c\u0454\u0439\u0440\u0443-\u041b\u0430\u0444\u0430\u0454\u0442\u0456"
-    ],
-    "name:unk_x_variant":[
-        "Lafaiete"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0646\u0633\u06cc\u0644\u062d\u06cc\u06cc\u0631\u0648 \u0644\u0627\u0641\u0627\u06cc\u06cc\u062a\u06cc"
@@ -186,7 +186,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -200,7 +200,7 @@
         "fct:id":"03869aca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465644,
         "gp:id":455946,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q570312",
         "wk:page":"Conselheiro Lafaiete"
     },
@@ -217,7 +217,7 @@
         }
     ],
     "wof:id":101966199,
-    "wof:lastmodified":1563245256,
+    "wof:lastmodified":1566625040,
     "wof:name":"Conselheiro Lafaiete",
     "wof:parent_id":404555999,
     "wof:placetype":"locality",

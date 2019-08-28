@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.117424,
     "lbl:longitude":-49.098643,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.117424,
     "mps:longitude":-49.098643,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09c1\u09f1\u09be\u09b0\u09bf\u09a8\u09be"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -116,7 +119,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3411894,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q374444",
         "wk:page":"Juarina"
     },
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101942411,
-    "wof:lastmodified":1561841283,
+    "wof:lastmodified":1566625860,
     "wof:name":"Juarina",
     "wof:parent_id":102062587,
     "wof:placetype":"locality",

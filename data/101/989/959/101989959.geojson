@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.117839,
     "lbl:longitude":-37.549009,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.117839,
     "mps:longitude":-37.549009,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "S\u00e3o Clemente"
     ],
@@ -34,7 +37,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -43,7 +46,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"dd250c9164b45a3dec5c93321c3975b0",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101989959,
-    "wof:lastmodified":1564142151,
+    "wof:lastmodified":1566625783,
     "wof:name":"S\u00e3o Clemente",
     "wof:parent_id":102060917,
     "wof:placetype":"locality",

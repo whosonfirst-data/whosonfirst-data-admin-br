@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-8.055802,
     "lbl:longitude":-34.921399,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":-8.055802,
     "mps:longitude":-34.921399,
     "mz:hierarchy_label":1,
@@ -328,9 +330,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0441\u0456\u0444\u0456"
     ],
-    "name:unk_x_variant":[
-        "Arrecife"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0633\u06cc\u0641"
     ],
@@ -467,7 +466,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681973,
@@ -484,7 +483,6 @@
         "gn:id":3390760,
         "gp:id":455824,
         "nyt:id":"N38379536931964206711",
-        "qs:id":274293,
         "qs_pg:id":274293,
         "wd:id":"Q48344",
         "wk:page":"Recife"
@@ -505,7 +503,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242769,
+    "wof:lastmodified":1566623888,
     "wof:megacity":1,
     "wof:name":"Recife",
     "wof:parent_id":404560597,

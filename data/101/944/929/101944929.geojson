@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.040236,
     "lbl:longitude":-40.870366,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.040236,
     "mps:longitude":-40.870366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09ac\u09c7\u09a8\u09c7\u09a1\u09bf\u099f\u09cb"
     ],
@@ -77,9 +80,6 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u0411\u0435\u043d\u0435\u0434\u0438\u0442\u0443"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Benedicto"
-    ],
     "name:vie_x_preferred":[
         "S\u00e3o Benedito"
     ],
@@ -109,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         85681907,
@@ -123,7 +123,6 @@
         "fct:id":"0389044a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3389023,
         "gp:id":449511,
-        "qs:id":1145974,
         "qs_pg:id":1145974,
         "wd:id":"Q2068831",
         "wk:page":"S\u00e3o Benedito"
@@ -144,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841298,
+    "wof:lastmodified":1566626003,
     "wof:name":"S\u00e3o Benedito",
     "wof:parent_id":404553853,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"-48.8773239117,-24.6077792214,-48.8703559536,-24.5994800579",
     "geom:latitude":-24.604056,
     "geom:longitude":-48.874155,
-    "geonames:id":"7615488,7615720",
+    "gn:id":"7615488,7615720",
     "iso:country":"BR",
     "lbl:latitude":-24.604169,
     "lbl:longitude":-48.874393,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.604169,
     "mps:longitude":-48.874393,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043a\u0430\u0441"
     ],
@@ -473,7 +476,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":4701,
     "wof:belongsto":[
         102191577,
@@ -483,7 +486,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a8a753084c4a0465d92d2ad9ed5c6f9e",
@@ -497,7 +500,7 @@
         }
     ],
     "wof:id":101964529,
-    "wof:lastmodified":1564139555,
+    "wof:lastmodified":1566623704,
     "wof:name":"Caracas",
     "wof:parent_id":102061561,
     "wof:placetype":"locality",

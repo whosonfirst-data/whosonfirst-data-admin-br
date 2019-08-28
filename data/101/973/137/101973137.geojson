@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.48292,
     "lbl:longitude":-38.500016,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.48292,
     "mps:longitude":-38.500016,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*BA",
     "qs:a1_lc":"29",
@@ -31,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":81,
     "wof:belongsto":[
         85681895,
@@ -42,7 +45,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"4f0078e99d915bf5ee08b74b8c5282b7",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101973137,
-    "wof:lastmodified":1527715701,
+    "wof:lastmodified":1566625622,
     "wof:name":"Campinas de Castro",
     "wof:parent_id":404550795,
     "wof:placetype":"locality",

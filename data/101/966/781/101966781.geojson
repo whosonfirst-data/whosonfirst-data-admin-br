@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.186951,
     "lbl:longitude":-36.310741,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.186951,
     "mps:longitude":-36.310741,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u099f\u09c7\u09b0\u09c7\u09b8\u09bf\u09a8\u09b9\u09be"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681879,
         102191577,
@@ -98,7 +101,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"4afb010f0663d32f83c7d33b4a3ae680",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101966781,
-    "wof:lastmodified":1564141242,
+    "wof:lastmodified":1566625061,
     "wof:name":"Santa Teresinha",
     "wof:parent_id":404550173,
     "wof:placetype":"locality",

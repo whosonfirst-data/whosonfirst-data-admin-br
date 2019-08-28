@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.014707,
     "lbl:longitude":-39.090795,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.014707,
     "mps:longitude":-39.090795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Amaral"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":275,
     "wof:belongsto":[
         85681895,
@@ -67,7 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":460207,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"6d624f8c6e57380f5368d3fa44b83572",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101972901,
-    "wof:lastmodified":1527716063,
+    "wof:lastmodified":1566626255,
     "wof:name":"Amaral",
     "wof:parent_id":404551603,
     "wof:placetype":"locality",

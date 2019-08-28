@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-31.81703,
     "lbl:longitude":-52.041213,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-31.81703,
     "mps:longitude":-52.041213,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "V\u00e1rzea"
     ],
@@ -73,7 +76,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
         85682015,
@@ -85,7 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":450639,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"1d3f05ac48245daef6b2fddf9b86eb92",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101988595,
-    "wof:lastmodified":1564142409,
+    "wof:lastmodified":1566626014,
     "wof:name":"V\u00e1rzea",
     "wof:parent_id":404564629,
     "wof:placetype":"locality",

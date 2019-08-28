@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.459481,
     "lbl:longitude":-41.014147,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-6.459481,
     "mps:longitude":-41.014147,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u0997\u09cb\u0987\u09a8\u09b9\u09be"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":913.0,
     "wd:latitude":-23.090556,
@@ -106,7 +109,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"ac6f350e100423294d5d91815aa42577",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101985499,
-    "wof:lastmodified":1564140631,
+    "wof:lastmodified":1566624499,
     "wof:name":"Lagoinha",
     "wof:parent_id":102057263,
     "wof:placetype":"locality",

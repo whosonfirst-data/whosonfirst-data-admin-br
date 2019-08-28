@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.761555,
     "lbl:longitude":-41.535541,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-20.761555,
     "mps:longitude":-41.535541,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09c7\u0997\u09cd\u09b0\u09c7"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":28,
     "wof:belongsto":[
@@ -124,7 +127,6 @@
         "fct:id":"0386ef7a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472666,
         "gp:id":456635,
-        "qs:id":1106507,
         "qs_pg:id":1106507,
         "wd:id":"Q1807909",
         "wk:page":"Alegre, Esp\u00edrito Santo"
@@ -145,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241487,
+    "wof:lastmodified":1566623316,
     "wof:name":"Alegre",
     "wof:parent_id":404554129,
     "wof:placetype":"locality",

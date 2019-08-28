@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-0.407485,
     "lbl:longitude":-65.005387,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-0.407485,
     "mps:longitude":-65.005387,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u0987\u09b8\u09be\u09ac\u09c7\u09b2 \u09a1\u09cb \u09b0\u09bf\u0993 \u09a8\u09c7\u0997\u09cd\u09b0\u09cb"
     ],
@@ -111,9 +114,6 @@
     "name:spa_x_preferred":[
         "Santa Isabel do Rio Negro"
     ],
-    "name:unk_x_variant":[
-        "Santa Isabel"
-    ],
     "name:vie_x_preferred":[
         "Santa Isabel do Rio Negro"
     ],
@@ -146,7 +146,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -159,7 +159,6 @@
         "fct:id":"03824380-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3662489,
         "gp:id":456497,
-        "qs:id":814560,
         "qs_pg:id":814560,
         "wd:id":"Q1754543",
         "wk:page":"Santa Isabel do Rio Negro"
@@ -179,7 +178,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243641,
+    "wof:lastmodified":1566624301,
     "wof:name":"Santa Isabel do Rio Negro",
     "wof:parent_id":102050399,
     "wof:placetype":"locality",

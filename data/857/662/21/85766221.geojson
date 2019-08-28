@@ -14,6 +14,7 @@
     "iso:country":"BR",
     "lbl:latitude":-23.549319,
     "lbl:longitude":-46.737521,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-23.545104,
     "mps:longitude":-46.744455,
     "mz:hierarchy_label":1,
@@ -31,9 +32,6 @@
     "name:por_x_variant":[
         "Jaguar\u00e9",
         "S\u00edtio dos Pil\u00f5es"
-    ],
-    "name:unk_x_variant":[
-        "Jaguare"
     ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_fcode":"PPL",
@@ -63,8 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191577,
         404567359,
@@ -77,7 +74,6 @@
     "wof:concordances":{
         "gn:id":3475907,
         "gp:id":26804414,
-        "qs:id":62330,
         "qs_pg:id":62330
     },
     "wof:country":"BR",
@@ -97,7 +93,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497316215,
+    "wof:lastmodified":1566620812,
     "wof:name":"Jaguare",
     "wof:parent_id":101965533,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.851223,
     "lbl:longitude":-44.460209,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.851223,
     "mps:longitude":-44.460209,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09be\u09ae\u09c7\u09b2\u09af\u09bc\u09c7\u0987\u09b0\u09be"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -86,7 +89,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"df4cc0632248794781b81caadbde7171",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101966047,
-    "wof:lastmodified":1564141187,
+    "wof:lastmodified":1566625016,
     "wof:name":"Gameleira",
     "wof:parent_id":404556397,
     "wof:placetype":"locality",

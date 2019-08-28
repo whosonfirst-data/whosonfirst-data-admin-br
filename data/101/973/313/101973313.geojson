@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.440551,
     "lbl:longitude":-38.378124,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.440551,
     "mps:longitude":-38.378124,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Duas Caras"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2920,
     "wof:belongsto":[
         85681895,
@@ -105,7 +108,7 @@
         "fct:id":"038361fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3464385,
         "gp:id":459366,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1262765"
     },
     "wof:country":"BR",
@@ -124,7 +127,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246502,
+    "wof:lastmodified":1566625615,
     "wof:name":"Duas Serras",
     "wof:parent_id":404550447,
     "wof:placetype":"locality",

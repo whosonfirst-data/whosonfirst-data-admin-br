@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.067882,
     "lbl:longitude":-42.28751,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.067882,
     "mps:longitude":-42.28751,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a1\u09cd\u09b0\u09cb \u09b2\u09cc\u09b0\u09c7\u09a8\u09cd\u099f\u09bf\u09a8\u09cb"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -115,7 +118,7 @@
         "fct:id":"03884794-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317918,
         "gp:id":26803972,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1938919",
         "wk:page":"Pedro Laurentino"
     },
@@ -134,7 +137,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841309,
+    "wof:lastmodified":1566626105,
     "wof:name":"Pedro Laurentino",
     "wof:parent_id":102057257,
     "wof:placetype":"locality",

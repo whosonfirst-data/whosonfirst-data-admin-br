@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.159395,
     "lbl:longitude":-51.860811,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.159395,
     "mps:longitude":-51.860811,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Planalto"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -69,7 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6317989,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"b475c8bad1c3b8425b463ead91800172",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101957203,
-    "wof:lastmodified":1564141017,
+    "wof:lastmodified":1566624807,
     "wof:name":"Planalto",
     "wof:parent_id":404565335,
     "wof:placetype":"locality",

@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-29.838445,
     "lbl:longitude":-52.114108,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-29.838445,
     "mps:longitude":-52.114108,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u09b2\u09c7 \u09ad\u09c7\u09b0\u09cd\u09a1\u09c7"
     ],
@@ -106,7 +109,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":17,
     "wof:belongsto":[
         102191577,
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":102060105,
-    "wof:lastmodified":1563236370,
+    "wof:lastmodified":1566620082,
     "wof:name":"Vale Verde",
     "wof:parent_id":85682015,
     "wof:placetype":"county",

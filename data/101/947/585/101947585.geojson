@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.987764,
     "lbl:longitude":-38.28921,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-7.987764,
     "mps:longitude":-38.28921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u09b0\u09be \u099f\u09be\u09b2\u09b9\u09be\u09a1\u09be"
     ],
@@ -72,9 +75,6 @@
     "name:rus_x_preferred":[
         "\u0421\u0435\u0440\u0440\u0430-\u0422\u0430\u043b\u044c\u044f\u0434\u0430"
     ],
-    "name:unk_x_variant":[
-        "Vila Bela"
-    ],
     "name:vie_x_preferred":[
         "Serra Talhada"
     ],
@@ -107,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681973,
@@ -121,7 +121,6 @@
         "fct:id":"03878278-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3387786,
         "gp:id":458092,
-        "qs:id":189680,
         "qs_pg:id":189680,
         "wd:id":"Q2000133",
         "wk:page":"Serra Talhada"
@@ -142,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841143,
+    "wof:lastmodified":1566624418,
     "wof:name":"Serra Talhada",
     "wof:parent_id":404560699,
     "wof:placetype":"locality",

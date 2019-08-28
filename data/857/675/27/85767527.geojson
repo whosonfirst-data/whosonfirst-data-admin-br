@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8619259.430948,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-48.565607,-27.681257,-48.565607,-27.681257",
     "geom:latitude":-27.681257,
     "geom:longitude":-48.565607,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-48.570607,-27.686257,-48.560607,-27.676257",
     "lbl:latitude":-27.681257,
     "lbl:longitude":-48.565607,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-27.684524,
     "mps:longitude":-48.56515,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:por_x_preferred":[
-        "Tapera Da Base"
-    ],
-    "name:unk_x_variant":[
         "Tapera Da Base"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -55,19 +54,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682021,
         102191577,
         404565415,
         85633009,
         101958191,
-        102060383
+        102060383,
+        85682021
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56066935,
-        "qs:id":483597
+        "qs_pg:id":483597
     },
     "wof:country":"BR",
     "wof:geomhash":"55ee38b5beab80800a0a8e5ddbcecf12",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859190,
+    "wof:lastmodified":1566620728,
     "wof:name":"Tapera Da Base",
     "wof:parent_id":101958191,
     "wof:placetype":"neighbourhood",

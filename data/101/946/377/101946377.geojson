@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.260228,
     "lbl:longitude":-36.717098,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-5.260228,
     "mps:longitude":-36.717098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a8\u09cd\u09a1\u09c7\u09a8\u0995\u0987\u09af\u09bc\u09be\u09b8"
     ],
@@ -82,9 +85,6 @@
     "name:spa_x_preferred":[
         "Pend\u00eancias"
     ],
-    "name:unk_x_variant":[
-        "Independencia"
-    ],
     "name:vie_x_preferred":[
         "Pend\u00eancias"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":151,
     "wof:belongsto":[
@@ -128,7 +128,6 @@
         "fct:id":"0387d2c8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3392361,
         "gp:id":460451,
-        "qs:id":828989,
         "qs_pg:id":828989,
         "wd:id":"Q1786911",
         "wk:page":"Pend\u00eancias"
@@ -148,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841119,
+    "wof:lastmodified":1566624244,
     "wof:name":"Pend\u00eancias",
     "wof:parent_id":102058753,
     "wof:placetype":"locality",

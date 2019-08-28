@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.050401,
     "lbl:longitude":-37.033119,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-6.050401,
     "mps:longitude":-37.033119,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u099c\u09c1\u0995\u09c1\u09b0\u09c1\u099f\u09c1"
     ],
@@ -86,9 +89,6 @@
     "name:spa_x_preferred":[
         "Jucurutu"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Miguel"
-    ],
     "name:vie_x_preferred":[
         "Jucurutu"
     ],
@@ -121,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -134,7 +134,6 @@
         "fct:id":"0384ce48-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3397108,
         "gp:id":457442,
-        "qs:id":305390,
         "qs_pg:id":305390,
         "wd:id":"Q1787030",
         "wk:page":"Jucurutu"
@@ -154,7 +153,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841117,
+    "wof:lastmodified":1566624237,
     "wof:name":"Jucurutu",
     "wof:parent_id":102058661,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.669445,
     "lbl:longitude":-48.245195,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.669445,
     "mps:longitude":-48.245195,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Francisco \u00c1lvaro Bueno de Paiva"
     ],
@@ -29,7 +32,7 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u0439\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Itaquere"
     ],
     "qs:a0":"Brasil",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
         85682041,
@@ -63,9 +66,11 @@
         "fct:id":"03801326-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3468868,
         "gp:id":426159,
-        "qs:id":9,
-        "qs_pg:id":272905,
+        "qs_pg:id":9,
         "wd:id":"Q3081987"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":272905
     },
     "wof:country":"BR",
     "wof:geomhash":"4a73068b8b516fd09b19ebac097914ba",
@@ -83,7 +88,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527642195,
+    "wof:lastmodified":1566623794,
     "wof:name":"Bueno de Andrada",
     "wof:parent_id":404566125,
     "wof:placetype":"locality",

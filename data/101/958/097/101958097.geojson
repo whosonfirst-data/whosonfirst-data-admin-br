@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.711113,
     "lbl:longitude":-48.912421,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.711113,
     "mps:longitude":-48.912421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09c1\u0987\u099c \u0986\u09b2\u09ad\u09c7\u09b8"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -122,7 +125,7 @@
         "fct:id":"03882318-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3458367,
         "gp:id":459979,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1784358",
         "wk:page":"Luiz Alves"
     },
@@ -142,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841219,
+    "wof:lastmodified":1566625223,
     "wof:name":"Luiz Alves",
     "wof:parent_id":404565593,
     "wof:placetype":"locality",

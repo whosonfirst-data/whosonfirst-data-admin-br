@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.648167,
     "lbl:longitude":-44.896463,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-2.648167,
     "mps:longitude":-44.896463,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b2\u09ae\u09c7\u0987\u09b0\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":193,
     "wof:belongsto":[
         102191577,
@@ -119,7 +122,7 @@
         "fct:id":"038982a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317857,
         "gp:id":55944197,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q2064709",
         "wk:page":"Palmeir\u00e2ndia"
     },
@@ -138,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247476,
+    "wof:lastmodified":1566626106,
     "wof:name":"Palmeir\u00e2ndia",
     "wof:parent_id":102053055,
     "wof:placetype":"locality",

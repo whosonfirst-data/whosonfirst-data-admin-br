@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.294337,
     "lbl:longitude":-54.098198,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-25.294337,
     "mps:longitude":-54.098198,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09c7\u09a1\u09bf\u09af\u09bc\u09be\u09a8\u09af\u09bc\u09c7\u0987\u09b0\u09be"
     ],
@@ -82,9 +85,6 @@
     "name:spa_x_preferred":[
         "Medianeira"
     ],
-    "name:unk_x_variant":[
-        "Nova Santa Medianeira"
-    ],
     "name:vie_x_preferred":[
         "Medianeira"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681983,
@@ -128,7 +128,6 @@
         "fct:id":"0386c98c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457359,
         "gp:id":456329,
-        "qs:id":1241374,
         "qs_pg:id":1241374,
         "wd:id":"Q375318"
     },
@@ -148,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245496,
+    "wof:lastmodified":1566625151,
     "wof:name":"Medianeira",
     "wof:parent_id":404561489,
     "wof:placetype":"locality",

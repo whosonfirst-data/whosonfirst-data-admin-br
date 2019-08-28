@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.01825,
     "lbl:longitude":-51.350727,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.01825,
     "mps:longitude":-51.350727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cd\u09b0\u09c1\u099c \u09ae\u09be\u099a\u09be\u09a1\u09cb"
     ],
@@ -79,9 +82,6 @@
     "name:swe_x_preferred":[
         "Cruz Machado"
     ],
-    "name:unk_x_variant":[
-        "Cruz Muchado"
-    ],
     "name:vie_x_preferred":[
         "Cruz Machado"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -127,7 +127,6 @@
         "fct:id":"0386b53c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465067,
         "gp:id":456162,
-        "qs:id":181311,
         "qs_pg:id":181311,
         "wd:id":"Q2004256",
         "wk:page":"Cruz Machado"
@@ -148,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841170,
+    "wof:lastmodified":1566624830,
     "wof:name":"Cruz Machado",
     "wof:parent_id":404561105,
     "wof:placetype":"locality",

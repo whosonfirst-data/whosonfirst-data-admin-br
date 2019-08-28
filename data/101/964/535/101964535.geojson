@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.686189,
     "lbl:longitude":-48.784606,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.686189,
     "mps:longitude":-48.784606,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rio Novo"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -62,7 +65,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"b332bdb1cdf5d19e845404965d69cc01",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101964535,
-    "wof:lastmodified":1564139526,
+    "wof:lastmodified":1566623682,
     "wof:name":"Rio Novo",
     "wof:parent_id":404565199,
     "wof:placetype":"locality",

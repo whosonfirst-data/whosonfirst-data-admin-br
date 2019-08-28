@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.863261,
     "lbl:longitude":-49.144238,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-23.863261,
     "mps:longitude":-49.144238,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09ac\u09c7\u09b0\u09be"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-23.861944,
     "wd:longitude":-49.137222,
@@ -127,7 +130,6 @@
         "fct:id":"038733c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460967,
         "gp:id":457323,
-        "qs:id":848335,
         "qs_pg:id":848335,
         "wd:id":"Q920242",
         "wk:page":"Itaber\u00e1"
@@ -148,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841100,
+    "wof:lastmodified":1566623869,
     "wof:name":"Itaber\u00e1",
     "wof:parent_id":404566529,
     "wof:placetype":"locality",

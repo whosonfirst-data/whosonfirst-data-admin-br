@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.552315,
     "lbl:longitude":-45.780056,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-22.552315,
     "mps:longitude":-45.780056,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b0\u09be\u0987\u09b8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -123,7 +126,6 @@
         "fct:id":"03862996-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3455089,
         "gp:id":442789,
-        "qs:id":444365,
         "qs_pg:id":444365,
         "wd:id":"Q522717"
     },
@@ -143,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244652,
+    "wof:lastmodified":1566624769,
     "wof:name":"Parais\u00f3polis",
     "wof:parent_id":404557555,
     "wof:placetype":"locality",

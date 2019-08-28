@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.017268,
     "lbl:longitude":-45.970397,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-20.017268,
     "mps:longitude":-45.970397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09ae\u09ac\u09c1\u0987"
     ],
@@ -90,9 +93,6 @@
     "name:swe_x_preferred":[
         "Bambu\u00ed"
     ],
-    "name:unk_x_variant":[
-        "Bambuhy"
-    ],
     "name:vie_x_preferred":[
         "Bambu\u00ed"
     ],
@@ -123,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":545,
     "wof:belongsto":[
@@ -138,7 +138,6 @@
         "fct:id":"03890c7e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471005,
         "gp:id":456063,
-        "qs:id":148461,
         "qs_pg:id":148461,
         "wd:id":"Q1756027",
         "wk:page":"Bambu\u00ed"
@@ -159,7 +158,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242729,
+    "wof:lastmodified":1566623876,
     "wof:name":"Bambu\u00ed",
     "wof:parent_id":404555341,
     "wof:placetype":"locality",

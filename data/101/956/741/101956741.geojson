@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.050401,
     "lbl:longitude":-53.010678,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-24.050401,
     "mps:longitude":-53.010678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09b0\u09c7\u0987\u09b0\u09be \u09b8\u09be\u09b2\u09c7\u09b8"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681983,
@@ -117,7 +120,6 @@
         "fct:id":"0386160e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456763,
         "gp:id":440834,
-        "qs:id":1044992,
         "qs_pg:id":1044992,
         "wd:id":"Q2005476",
         "wk:page":"Moreira Sales"
@@ -138,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841246,
+    "wof:lastmodified":1566625379,
     "wof:name":"Moreira Sales",
     "wof:parent_id":404561501,
     "wof:placetype":"locality",

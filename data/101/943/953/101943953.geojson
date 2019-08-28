@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.932874,
     "lbl:longitude":-41.337472,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-2.932874,
     "mps:longitude":-41.337472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u099c\u09c1\u09af\u09bc\u09c7\u0987\u09b0\u09cb \u09a1\u09be \u09aa\u09cd\u09b0\u09be\u0987\u09af\u09bc\u09be"
     ],
@@ -104,7 +107,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -116,7 +119,7 @@
         "fct:id":"03895d8c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316702,
         "gp:id":55943808,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2064154",
         "wk:page":"Cajueiro da Praia"
     },
@@ -135,7 +138,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247372,
+    "wof:lastmodified":1566626069,
     "wof:name":"Cajueiro da Praia",
     "wof:parent_id":102056993,
     "wof:placetype":"locality",

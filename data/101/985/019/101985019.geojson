@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.696428,
     "lbl:longitude":-42.358113,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.696428,
     "mps:longitude":-42.358113,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09aa\u09bf\u09ae \u0997\u09cd\u09b0\u09cb\u09b8\u09b8\u09cb"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -98,7 +101,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3410596,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a03b7b110f8f48d243a2fb5156c6bad7",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101985019,
-    "wof:lastmodified":1564140675,
+    "wof:lastmodified":1566624523,
     "wof:name":"Capim Grosso",
     "wof:parent_id":102057171,
     "wof:placetype":"locality",

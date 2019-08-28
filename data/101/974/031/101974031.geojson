@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.705388,
     "lbl:longitude":-36.512396,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.705388,
     "mps:longitude":-36.512396,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0435\u0440\u0430 \u041d\u043e\u0432\u0430"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -112,7 +115,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"f89edd8c0a2fe9aa5c83de8ac62ff783",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101974031,
-    "wof:lastmodified":1564141920,
+    "wof:lastmodified":1566625661,
     "wof:name":"Terra Nova",
     "wof:parent_id":102050159,
     "wof:placetype":"locality",

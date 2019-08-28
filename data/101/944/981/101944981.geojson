@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.840527,
     "lbl:longitude":-40.730754,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.840527,
     "mps:longitude":-40.730754,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*CE",
     "qs:a1_lc":"23",
@@ -30,7 +34,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -42,10 +46,10 @@
     "wof:concordances":{
         "gn:id":3402717,
         "gp:id":441029,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"cf7b84deb38036d91366158718022bcd",
+    "wof:geomhash":"f346df055d955ae5e3219b6c3bc16ec6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101944981,
-    "wof:lastmodified":1479945900,
+    "wof:lastmodified":1566626009,
     "wof:name":"Carqueijo",
     "wof:parent_id":404553467,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.463427,
     "lbl:longitude":-48.391537,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-21.463427,
     "mps:longitude":-48.391537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u09af\u09bc\u09c7\u09b0\u09a8\u09c7\u09b8\u099f\u09bf\u09a8\u09be"
     ],
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.462778,
     "wd:longitude":-48.390833,
@@ -124,7 +127,6 @@
         "fct:id":"038655ce-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3450255,
         "gp:id":448331,
-        "qs:id":381770,
         "qs_pg:id":381770,
         "wd:id":"Q1760235",
         "wk:page":"Santa Ernestina"
@@ -144,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242553,
+    "wof:lastmodified":1566623821,
     "wof:name":"Santa Ernestina",
     "wof:parent_id":102062161,
     "wof:placetype":"locality",

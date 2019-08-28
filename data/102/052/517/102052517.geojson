@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-18.212763,
     "lbl:longitude":-49.413858,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-18.212763,
     "mps:longitude":-49.413858,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Panama"
     ],
@@ -625,7 +628,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -646,7 +649,7 @@
         }
     ],
     "wof:id":102052517,
-    "wof:lastmodified":1564132900,
+    "wof:lastmodified":1566619159,
     "wof:name":"Panama",
     "wof:parent_id":85681925,
     "wof:placetype":"county",

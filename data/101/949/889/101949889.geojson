@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.257654,
     "lbl:longitude":-40.194945,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-10.257654,
     "mps:longitude":-40.194945,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u0997\u09c1\u09f1\u09be\u09b0\u09be\u09b0\u09bf"
     ],
@@ -80,9 +83,6 @@
     "name:rus_x_preferred":[
         "\u0416\u0430\u0433\u0443\u0430\u0440\u0430\u0440\u0438"
     ],
-    "name:unk_x_variant":[
-        "Jaguarary"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u06af\u0631\u0627\u0631\u06cc"
     ],
@@ -115,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -129,7 +129,6 @@
         "fct:id":"0386c310-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460225,
         "gp:id":456278,
-        "qs:id":342498,
         "qs_pg:id":342498,
         "wd:id":"Q1070926"
     },
@@ -149,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841146,
+    "wof:lastmodified":1566624550,
     "wof:name":"Jaguarari",
     "wof:parent_id":404551285,
     "wof:placetype":"locality",

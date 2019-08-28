@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.798017,
     "lbl:longitude":-46.445181,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-22.798017,
     "mps:longitude":-46.445181,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a1\u09cd\u09b0\u09be \u09ac\u09c7\u09b2\u09be"
     ],
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Pedra Bela"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pedra Grande"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.793056,
     "wd:longitude":-46.443333,
@@ -123,7 +126,7 @@
         "fct:id":"03862f68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3454575,
         "gp:id":443441,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1649666",
         "wk:page":"Pedra Bela"
     },
@@ -142,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245953,
+    "wof:lastmodified":1566625350,
     "wof:name":"Pedra Bela",
     "wof:parent_id":102061923,
     "wof:placetype":"locality",

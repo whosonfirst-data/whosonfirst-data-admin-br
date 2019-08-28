@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.000763,
     "lbl:longitude":-39.948034,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.000763,
     "mps:longitude":-39.948034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09b2\u09cd\u099f\u09cb \u09a1\u09be \u09a1\u09bf\u09ad\u09bf\u09b8\u09be"
     ],
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "Salto da Divisa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Sebasti\u00e3o do Salto Grande"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -128,7 +131,7 @@
         "fct:id":"03865164-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3450566,
         "gp:id":447973,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1755556",
         "wk:page":"Salto da Divisa"
     },
@@ -148,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241439,
+    "wof:lastmodified":1566623296,
     "wof:name":"Salto da Divisa",
     "wof:parent_id":404558017,
     "wof:placetype":"locality",

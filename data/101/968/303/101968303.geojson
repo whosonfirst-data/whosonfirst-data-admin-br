@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.136273,
     "lbl:longitude":-49.04415,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-18.136273,
     "mps:longitude":-49.04415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c1\u09b0\u09bf\u099f\u09bf \u0986\u09b2\u09c7\u0997\u09cd\u09b0\u09c7"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Buriti Alegre"
     ],
-    "name:unk_x_variant":[
-        "Burity Alegre"
-    ],
     "name:vie_x_preferred":[
         "Buriti Alegre"
     ],
@@ -121,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -134,7 +134,6 @@
         "fct:id":"03870758-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3468745,
         "gp:id":456881,
-        "qs:id":1070241,
         "qs_pg:id":1070241,
         "wd:id":"Q779122",
         "wk:page":"Buriti Alegre"
@@ -154,7 +153,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244934,
+    "wof:lastmodified":1566624893,
     "wof:name":"Buriti Alegre",
     "wof:parent_id":102052079,
     "wof:placetype":"locality",

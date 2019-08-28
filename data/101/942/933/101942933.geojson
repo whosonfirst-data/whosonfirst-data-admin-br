@@ -9,14 +9,17 @@
     "geom:bbox":"-46.6383333333,-11.8283325558,-46.6174735255,-11.808518745",
     "geom:latitude":-11.819791,
     "geom:longitude":-46.626652,
-    "geonames:id":"3460092,3479306",
+    "gn:id":"3460092,3479306",
     "iso:country":"BR",
     "lbl:latitude":-11.819729,
     "lbl:longitude":-46.626809,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.819729,
     "mps:longitude":-46.626809,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09cb \u099c\u09be\u09b0\u09cd\u09a1\u09bf\u09ae"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Novo Jardim"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jardin"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -117,9 +120,11 @@
     "wof:concordances":{
         "gn:id":3460092,
         "gp:id":459788,
-        "qs:id":9,
-        "qs_pg:id":148185,
+        "qs_pg:id":9,
         "wd:id":"Q1801252"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":148185
     },
     "wof:country":"BR",
     "wof:geomhash":"85ddec77e2427c7603356dd79f9044fa",
@@ -133,7 +138,7 @@
         }
     ],
     "wof:id":101942933,
-    "wof:lastmodified":1563246941,
+    "wof:lastmodified":1566625856,
     "wof:name":"Novo Jardim",
     "wof:parent_id":102062635,
     "wof:placetype":"locality",

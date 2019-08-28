@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.93359,
     "lbl:longitude":-38.969371,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.93359,
     "mps:longitude":-38.969371,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09c7\u09b0\u09cd\u09a1\u09c7\u099c\u09be\u09a8\u09cd\u099f\u09c7"
     ],
@@ -73,7 +76,7 @@
     "name:swe_x_preferred":[
         "Verdejante"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Riacho Verde"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -118,7 +121,7 @@
         "fct:id":"03868c42-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3385209,
         "gp:id":455149,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2013582",
         "wk:page":"Verdejante"
     },
@@ -137,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841137,
+    "wof:lastmodified":1566624384,
     "wof:name":"Verdejante",
     "wof:parent_id":102056889,
     "wof:placetype":"locality",

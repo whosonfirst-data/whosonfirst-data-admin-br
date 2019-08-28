@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.349306,
     "lbl:longitude":-46.907066,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-16.349306,
     "mps:longitude":-46.907066,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bpy_x_preferred":[
         "\u0989\u09a8\u09be\u0987"
     ],
@@ -90,9 +93,6 @@
     "name:swe_x_preferred":[
         "Una\u00ed"
     ],
-    "name:unk_x_variant":[
-        "Capim Branco"
-    ],
     "name:vie_x_preferred":[
         "Una\u00ed"
     ],
@@ -122,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -136,7 +136,6 @@
         "fct:id":"03878f02-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3445764,
         "gp:id":458227,
-        "qs:id":1044786,
         "qs_pg:id":1044786,
         "wd:id":"Q1780258"
     },
@@ -156,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242420,
+    "wof:lastmodified":1566623769,
     "wof:name":"Una\u00ed",
     "wof:parent_id":404558679,
     "wof:placetype":"locality",

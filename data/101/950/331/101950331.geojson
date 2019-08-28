@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.844431,
     "lbl:longitude":-39.090865,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.844431,
     "mps:longitude":-39.090865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09ab\u09c7\u09b2\u09bf\u09aa\u09c7"
     ],
@@ -76,7 +79,7 @@
     "name:spa_x_preferred":[
         "S\u00e3o Felipe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Felippe"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":149,
     "wof:belongsto":[
         85681895,
@@ -121,10 +124,12 @@
     "wof:concordances":{
         "gn:id":3449216,
         "gp:id":461045,
-        "qs:id":5,
-        "qs_pg:id":181769,
+        "qs_pg:id":5,
         "wd:id":"Q1794400",
         "wk:page":"S\u00e3o Felipe"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":181769
     },
     "wof:country":"BR",
     "wof:geomhash":"e623a4d6aa54597cdacdb71f64dff03e",
@@ -139,7 +144,7 @@
         }
     ],
     "wof:id":101950331,
-    "wof:lastmodified":1561841153,
+    "wof:lastmodified":1566624721,
     "wof:name":"S\u00e3o Felipe",
     "wof:parent_id":404551945,
     "wof:placetype":"locality",

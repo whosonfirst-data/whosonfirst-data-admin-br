@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.584982,
     "lbl:longitude":-47.865327,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-20.584982,
     "mps:longitude":-47.865327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u099c\u09cb\u09af\u09bc\u09be\u0995\u09c1\u0987\u09ae \u09a1\u09be \u09ac\u09be\u09b0\u09cd\u09b0\u09be"
     ],
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "S\u00e3o Joaquim da Barra"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Joaquim"
-    ],
     "name:vie_x_preferred":[
         "S\u00e3o Joaquim da Barra"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-20.580833,
     "wd:longitude":-47.855,
@@ -134,7 +134,6 @@
         "fct:id":"0381d42c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3448825,
         "gp:id":450361,
-        "qs:id":1044845,
         "qs_pg:id":1044845,
         "wd:id":"Q1759699",
         "wk:page":"S\u00e3o Joaquim da Barra"
@@ -154,7 +153,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242677,
+    "wof:lastmodified":1566623860,
     "wof:name":"S\u00e3o Joaquim da Barra",
     "wof:parent_id":102062233,
     "wof:placetype":"locality",

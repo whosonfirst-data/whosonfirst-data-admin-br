@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.38854,
     "lbl:longitude":-44.498318,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":-3.38854,
     "mps:longitude":-44.498318,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
         "Colombo"
     ],
@@ -361,7 +364,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":6.916667,
     "wd:longitude":79.833333,
@@ -376,7 +379,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":457052,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"90af7765eb947640153cdd6d1ad1b360",
@@ -390,7 +393,7 @@
         }
     ],
     "wof:id":101979959,
-    "wof:lastmodified":1564140211,
+    "wof:lastmodified":1566624188,
     "wof:name":"Colombo",
     "wof:parent_id":102052967,
     "wof:placetype":"locality",

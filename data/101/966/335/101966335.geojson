@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.719053,
     "lbl:longitude":-43.062927,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-21.719053,
     "mps:longitude":-43.062927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0411\u0456\u043a\u0430\u0441"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -141,7 +144,6 @@
         "fct:id":"03870096-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3470025,
         "gp:id":456811,
-        "qs:id":342543,
         "qs_pg:id":342543,
         "wd:id":"Q1792282",
         "wk:page":"Bicas"
@@ -162,7 +164,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245250,
+    "wof:lastmodified":1566625037,
     "wof:name":"Bicas",
     "wof:parent_id":404555439,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.497841,
     "lbl:longitude":-48.411205,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-23.497841,
     "mps:longitude":-48.411205,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u0997\u09be\u099f\u09c1\u09ac\u09be"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-23.490278,
     "wd:longitude":-48.412778,
@@ -124,7 +127,6 @@
         "fct:id":"0386a5ec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472234,
         "gp:id":456037,
-        "qs:id":27893,
         "qs_pg:id":27893,
         "wd:id":"Q1750222",
         "wk:page":"Angatuba"
@@ -145,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242382,
+    "wof:lastmodified":1566623751,
     "wof:name":"Angatuba",
     "wof:parent_id":404566097,
     "wof:placetype":"locality",

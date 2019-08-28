@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.759151,
     "lbl:longitude":-35.660678,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.759151,
     "mps:longitude":-35.660678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09cb\u09b2\u09be\u09a8\u09c7\u09af\u09bc\u09be"
     ],
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Sol\u00e2nea"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moreno"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":145,
     "wof:belongsto":[
         102191577,
@@ -114,9 +117,11 @@
     "wof:concordances":{
         "gn:id":3387266,
         "gp:id":461290,
-        "qs:id":9,
-        "qs_pg:id":342855,
+        "qs_pg:id":9,
         "wd:id":"Q2010744"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":342855
     },
     "wof:country":"BR",
     "wof:geomhash":"90091235145ae4ae8faec0a31dbd43a0",
@@ -130,7 +135,7 @@
         }
     ],
     "wof:id":101946667,
-    "wof:lastmodified":1563243440,
+    "wof:lastmodified":1566624238,
     "wof:name":"Sol\u00e2nea",
     "wof:parent_id":102056451,
     "wof:placetype":"locality",

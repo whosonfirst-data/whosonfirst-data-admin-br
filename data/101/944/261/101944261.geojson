@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.803432,
     "lbl:longitude":-40.265125,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-3.803432,
     "mps:longitude":-40.265125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09cb\u09b0\u09cd\u0995\u09c1\u0987\u09b2\u09b9\u09be"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -111,7 +114,6 @@
         "fct:id":"0385cf00-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3399445,
         "gp:id":433919,
-        "qs:id":935310,
         "qs_pg:id":935310,
         "wd:id":"Q587627"
     },
@@ -131,7 +133,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247180,
+    "wof:lastmodified":1566625964,
     "wof:name":"Forquilha",
     "wof:parent_id":404552847,
     "wof:placetype":"locality",

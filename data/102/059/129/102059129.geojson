@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-29.111869,
     "lbl:longitude":-52.591906,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-29.111869,
     "mps:longitude":-52.591906,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u09b0\u09cb\u09b8 \u0995\u09be\u09b8\u09b8\u09be\u09b2"
     ],
@@ -112,7 +115,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":38,
     "wof:belongsto":[
         102191577,
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":102059129,
-    "wof:lastmodified":1563235420,
+    "wof:lastmodified":1566619488,
     "wof:name":"Barros Cassal",
     "wof:parent_id":85682015,
     "wof:placetype":"county",

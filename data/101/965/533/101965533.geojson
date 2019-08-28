@@ -9,14 +9,17 @@
     "geom:bbox":"-46.826199,-24.008431,-46.365084,-23.356293",
     "geom:latitude":-23.650081,
     "geom:longitude":-46.648111,
-    "geonames:id":"3448439,7630231",
+    "gn:id":"3448439,7630231",
     "iso:country":"BR",
     "lbl:latitude":-23.570533,
     "lbl:longitude":-46.663713,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":2.5,
     "mps:latitude":-23.570533,
     "mps:longitude":-46.663713,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":2.5,
     "name:abk_x_preferred":[
         "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443"
     ],
@@ -635,9 +638,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443"
     ],
-    "name:unk_x_variant":[
-        "San Paulo"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0624 \u067e\u0627\u0644\u0648"
     ],
@@ -712,7 +712,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":760.0,
     "wd:latitude":-23.5,
@@ -730,9 +730,11 @@
     "wof:concordances":{
         "gn:id":3448439,
         "gp:id":455827,
-        "qs:id":1,
-        "qs_pg:id":1044826,
+        "qs_pg:id":1,
         "wd:id":"Q174"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1044826
     },
     "wof:country":"BR",
     "wof:geomhash":"6f73e47080e465f2802ab8d2998ab9d9",
@@ -747,7 +749,7 @@
         }
     ],
     "wof:id":101965533,
-    "wof:lastmodified":1563241718,
+    "wof:lastmodified":1566623418,
     "wof:name":"S\u00e3o Paulo",
     "wof:parent_id":404567359,
     "wof:placetype":"locality",

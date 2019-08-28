@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.42696,
     "lbl:longitude":-51.374735,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.42696,
     "mps:longitude":-51.374735,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Raimundo"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":182,
     "wof:belongsto":[
         85681947,
@@ -58,7 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8463424,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"d06c4f8d2a1973409c459dabe6b45b65",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101961951,
-    "wof:lastmodified":1564141151,
+    "wof:lastmodified":1566624971,
     "wof:name":"Raimundo",
     "wof:parent_id":404559007,
     "wof:placetype":"locality",

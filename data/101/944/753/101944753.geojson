@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.296913,
     "lbl:longitude":-38.503972,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-4.296913,
     "mps:longitude":-38.503972,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0995\u09b9\u09cb\u09b0\u09cb\u099c\u09bf\u09a8\u09b9\u09cb"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -114,7 +117,6 @@
         "fct:id":"038800c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3402164,
         "gp:id":429460,
-        "qs:id":271681,
         "qs_pg:id":271681,
         "wd:id":"Q251350"
     },
@@ -134,7 +136,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247154,
+    "wof:lastmodified":1566625951,
     "wof:name":"Chorozinho",
     "wof:parent_id":404552717,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.291939,
     "lbl:longitude":-39.151557,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.291939,
     "mps:longitude":-39.151557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bel\u00e9m"
     ],
@@ -259,7 +262,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":4147,
     "wof:belongsto":[
         85681907,
@@ -270,7 +273,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"0c0e3b9ebcc50ac2e27e810d89404fed",
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":101945387,
-    "wof:lastmodified":1564142311,
+    "wof:lastmodified":1566625942,
     "wof:name":"Bel\u00e9m",
     "wof:parent_id":404553721,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.151577,
     "lbl:longitude":-39.244975,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-12.151577,
     "mps:longitude":-39.244975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u0999\u09cd\u0997\u09c1\u09af\u09bc\u09c7\u09b0\u09be"
     ],
@@ -92,9 +95,6 @@
     "name:swe_x_preferred":[
         "Anguera"
     ],
-    "name:unk_x_variant":[
-        "Almas"
-    ],
     "name:vie_x_preferred":[
         "Anguera"
     ],
@@ -127,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -141,7 +141,6 @@
         "fct:id":"03879ca4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472174,
         "gp:id":458452,
-        "qs:id":342731,
         "qs_pg:id":342731,
         "wd:id":"Q1761950",
         "wk:page":"Anguera"
@@ -162,7 +161,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243816,
+    "wof:lastmodified":1566624380,
     "wof:name":"Anguera",
     "wof:parent_id":404550445,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.965216,
     "lbl:longitude":-37.001955,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-9.965216,
     "mps:longitude":-37.001955,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u0627\u064a\u0628\u0648"
     ],
@@ -89,9 +92,6 @@
     "name:swe_x_preferred":[
         "Traipu"
     ],
-    "name:unk_x_variant":[
-        "P\u00f4rto da F\u00f4lha"
-    ],
     "name:vie_x_preferred":[
         "Traipu"
     ],
@@ -121,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -134,7 +134,6 @@
         "fct:id":"0386e93a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3386198,
         "gp:id":456572,
-        "qs:id":147567,
         "qs_pg:id":147567
     },
     "wof:country":"BR",
@@ -152,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564141176,
+    "wof:lastmodified":1566625004,
     "wof:name":"Traipu",
     "wof:parent_id":102050281,
     "wof:placetype":"locality",

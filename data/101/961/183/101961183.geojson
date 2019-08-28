@@ -9,16 +9,19 @@
     "geom:bbox":"-56.1364853155,-13.8632571543,-56.0639677208,-13.7767907883",
     "geom:latitude":-13.819033,
     "geom:longitude":-56.10044,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-13.797579,
     "lbl:longitude":-56.090826,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.797579,
     "mps:longitude":-56.090826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u09ae\u09c1\u099f\u09c1\u09ae"
     ],
@@ -130,7 +133,7 @@
     "qs_pg:woe_id":55944442,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -142,7 +145,6 @@
         "fct:id":"03899694-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317755,
         "gp:id":55944442,
-        "qs:id":1140258,
         "qs_pg:id":1140258,
         "wd:id":"Q263731",
         "wk:page":"Nova Mutum"
@@ -162,7 +164,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841195,
+    "wof:lastmodified":1566624994,
     "wof:name":"Nova Mutum",
     "wof:parent_id":102055519,
     "wof:placetype":"locality",

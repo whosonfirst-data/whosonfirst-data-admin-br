@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.034276,
     "lbl:longitude":-46.768215,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-13.034276,
     "mps:longitude":-46.768215,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09cd\u09aa\u09cb\u09b8 \u09ac\u09c7\u09b2\u09cb\u09b8"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Campos Belos"
     ],
-    "name:unk_x_variant":[
-        "Campos Bellos"
-    ],
     "name:vie_x_preferred":[
         "Campos Belos"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -131,7 +131,6 @@
         "fct:id":"03870c62-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3467687,
         "gp:id":456939,
-        "qs:id":984815,
         "qs_pg:id":984815,
         "wd:id":"Q991108",
         "wk:page":"Campos Belos"
@@ -151,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841058,
+    "wof:lastmodified":1566623498,
     "wof:name":"Campos Belos",
     "wof:parent_id":102052115,
     "wof:placetype":"locality",

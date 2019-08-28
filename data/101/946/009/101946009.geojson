@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.748179,
     "lbl:longitude":-37.9619,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.748179,
     "mps:longitude":-37.9619,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b2\u09b9\u09be\u09a8\u09cb"
     ],
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Palhano"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cruz do Palhano"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -122,7 +125,7 @@
         "fct:id":"038625f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3393279,
         "gp:id":442433,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2028077",
         "wk:page":"Palhano"
     },
@@ -142,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243439,
+    "wof:lastmodified":1566624238,
     "wof:name":"Palhano",
     "wof:parent_id":404553551,
     "wof:placetype":"locality",

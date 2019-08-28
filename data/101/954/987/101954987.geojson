@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.997218,
     "lbl:longitude":-51.19694,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-22.997218,
     "mps:longitude":-51.19694,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b2\u09be \u09ad\u09bf\u09b8\u09cd\u099f\u09be \u09a1\u09cb \u09aa\u09be\u09b0\u09be\u0987\u09b8\u09cb"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681983,
@@ -117,7 +120,6 @@
         "fct:id":"0387a1b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3470162,
         "gp:id":458683,
-        "qs:id":1045167,
         "qs_pg:id":1045167,
         "wd:id":"Q1805395"
     },
@@ -137,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841033,
+    "wof:lastmodified":1566623335,
     "wof:name":"Bela Vista do Para\u00edso",
     "wof:parent_id":404560943,
     "wof:placetype":"locality",

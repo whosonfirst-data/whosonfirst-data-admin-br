@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.089271,
     "lbl:longitude":-40.434124,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.089271,
     "mps:longitude":-40.434124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09af\u09bc\u09c7\u09ae"
     ],
@@ -80,9 +83,6 @@
     "name:swe_x_preferred":[
         "Ca\u00e9m"
     ],
-    "name:unk_x_variant":[
-        "Cahem"
-    ],
     "name:vie_x_preferred":[
         "Ca\u00e9m"
     ],
@@ -110,7 +110,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":146,
     "wof:belongsto":[
         85681895,
@@ -124,7 +124,7 @@
         "fct:id":"0387a5be-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3468336,
         "gp:id":458910,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1946795",
         "wk:page":"Ca\u00e9m"
     },
@@ -144,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841138,
+    "wof:lastmodified":1566624387,
     "wof:name":"Ca\u00e9m",
     "wof:parent_id":404550623,
     "wof:placetype":"locality",

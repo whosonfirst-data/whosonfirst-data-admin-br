@@ -36,6 +36,7 @@
     ],
     "lbl:latitude":-22.154376,
     "lbl:longitude":-48.428808,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-22.154376,
     "mps:longitude":-48.428808,
     "mz:hierarchy_label":1,
@@ -324,7 +325,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Paulo"
     ],
     "name:urd_x_preferred":[
@@ -428,9 +429,9 @@
     "qs:type":"Estado",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-08-01",
+    "src:population_date":"2010-08-01",
     "statoids:area_km":"248,223",
     "statoids:area_mi":"95,839",
     "statoids:as_of_date":"2010-08-01",
@@ -474,11 +475,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565660988,
+    "wof:lastmodified":1566620854,
     "wof:name":"Sao Paulo",
     "wof:parent_id":85633009,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":41262199,
     "wof:population_rank":14,

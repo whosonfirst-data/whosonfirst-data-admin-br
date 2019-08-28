@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-4.605377,
     "lbl:longitude":-44.944568,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-4.605377,
     "mps:longitude":-44.944568,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u0997\u09cb \u09a1\u09cb\u09b8 \u09b0\u09cb\u09a1\u09cd\u09b0\u09bf\u0997\u09c1\u09f1\u09c7\u09b8"
     ],
@@ -115,7 +118,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":149,
     "wof:belongsto":[
         102191577,
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":102052993,
-    "wof:lastmodified":1563234987,
+    "wof:lastmodified":1566619173,
     "wof:name":"Lago Dos Rodrigues",
     "wof:parent_id":85681931,
     "wof:placetype":"county",

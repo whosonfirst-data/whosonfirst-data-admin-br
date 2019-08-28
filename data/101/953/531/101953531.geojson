@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.247167,
     "lbl:longitude":-42.736021,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.247167,
     "mps:longitude":-42.736021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09af\u09bc\u09c7\u09a1\u09be\u09a1\u09c7 \u09a1\u09c7 \u09aa\u09cb\u09a8\u09cd\u099f\u09c7 \u09a8\u09cb\u09ad\u09be"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -121,7 +124,7 @@
     "wof:concordances":{
         "gn:id":3453920,
         "gp:id":437464,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1789621",
         "wk:page":"Piedade de Ponte Nova"
     },
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101953531,
-    "wof:lastmodified":1561841043,
+    "wof:lastmodified":1566623384,
     "wof:name":"Piedade de Ponte Nova",
     "wof:parent_id":404557685,
     "wof:placetype":"locality",

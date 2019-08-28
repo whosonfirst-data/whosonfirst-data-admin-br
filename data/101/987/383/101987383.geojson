@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.608512,
     "lbl:longitude":-35.448809,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.608512,
     "mps:longitude":-35.448809,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Capela"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -71,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3403201,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"3f33dc8cb09030972494e8feacb78015",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101987383,
-    "wof:lastmodified":1564141738,
+    "wof:lastmodified":1566625557,
     "wof:name":"Capela",
     "wof:parent_id":102058575,
     "wof:placetype":"locality",

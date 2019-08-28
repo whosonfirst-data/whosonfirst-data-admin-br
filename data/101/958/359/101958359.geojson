@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.25506,
     "lbl:longitude":-54.819438,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.25506,
     "mps:longitude":-54.819438,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u043e\u043b\u0430\u0434\u043e\u0440"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -122,7 +125,7 @@
         "fct:id":"03864d2c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3450965,
         "gp:id":447506,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1802196",
         "wk:page":"Rolador"
     },
@@ -142,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841221,
+    "wof:lastmodified":1566625235,
     "wof:name":"Rolador",
     "wof:parent_id":404564287,
     "wof:placetype":"locality",

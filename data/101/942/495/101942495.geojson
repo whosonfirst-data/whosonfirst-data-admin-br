@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.564129,
     "lbl:longitude":-48.402514,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.564129,
     "mps:longitude":-48.402514,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09bf\u09b0\u09be\u09b8\u09c7\u09ae\u09be \u09a1\u09cb \u099f\u09cb\u0995\u09be\u09a8\u099f\u09bf\u09a8\u09b8"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Miracema do Tocantins"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Xerente"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +113,7 @@
     "qs:type":"Centro de Zona B",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -122,7 +125,7 @@
         "fct:id":"0389aaa8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3394817,
         "gp:id":456333,
-        "qs:id":147682,
+        "qs_pg:id":147682,
         "wd:id":"Q993530",
         "wk:page":"Miracema do Tocantins"
     },
@@ -141,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841284,
+    "wof:lastmodified":1566625869,
     "wof:name":"Miracema do Tocantins",
     "wof:parent_id":102062609,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.199961,
     "lbl:longitude":-58.189049,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.199961,
     "mps:longitude":-58.189049,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Agostinho"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":176,
     "wof:belongsto":[
         85681885,
@@ -51,7 +54,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"19281d74b2d3b815d8a5619f6048a6b9",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101970307,
-    "wof:lastmodified":1564140053,
+    "wof:lastmodified":1566624104,
     "wof:name":"Agostinho",
     "wof:parent_id":404550267,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.692152,
     "lbl:longitude":-47.656193,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.692152,
     "mps:longitude":-47.656193,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u09a8\u09cd\u099f\u09c7 \u0986\u09b2\u09cd\u099f\u09be"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":6318009,
         "gp:id":455916,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"dd3c27e9d913c24404a0cda929eeb971",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101965031,
-    "wof:lastmodified":1564139234,
+    "wof:lastmodified":1566623439,
     "wof:name":"Ponte Alta",
     "wof:parent_id":404558663,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.183667,
     "lbl:longitude":-41.680287,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.183667,
     "mps:longitude":-41.680287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "V\u00e1rzea"
     ],
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0440\u0437\u0435\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "V\u00e1rzea da Canabrava"
     ],
     "name:vie_x_preferred":[
@@ -76,7 +79,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
         85681895,
@@ -89,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3445460,
         "gp:id":456245,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"61bcc65496eb27da09422946e7276da9",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101971257,
-    "wof:lastmodified":1564140512,
+    "wof:lastmodified":1566624437,
     "wof:name":"V\u00e1rzea",
     "wof:parent_id":404551139,
     "wof:placetype":"locality",

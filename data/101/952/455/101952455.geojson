@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.524643,
     "lbl:longitude":-49.060758,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.524643,
     "mps:longitude":-49.060758,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Altair"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -116,7 +119,7 @@
         "fct:id":"0385721c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472502,
         "gp:id":421455,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q305132",
         "wk:page":"Altair, S\u00e3o Paulo"
     },
@@ -136,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841083,
+    "wof:lastmodified":1566623760,
     "wof:name":"Altair",
     "wof:parent_id":404566059,
     "wof:placetype":"locality",

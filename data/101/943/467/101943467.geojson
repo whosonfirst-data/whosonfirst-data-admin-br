@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.474021,
     "lbl:longitude":-44.071589,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.474021,
     "mps:longitude":-44.071589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09cb\u09ad\u09c7\u09b0\u09cd\u09a8\u09be\u09a1\u09cb\u09b0\u09cd \u09b2\u09c1\u0987\u099c \u09b0\u09cb\u099a\u09be"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -114,7 +117,7 @@
     "wof:concordances":{
         "gn:id":6317217,
         "gp:id":90139308,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q432254",
         "wk:page":"Governador Luiz Rocha"
     },
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101943467,
-    "wof:lastmodified":1561841313,
+    "wof:lastmodified":1566626122,
     "wof:name":"Governador Luiz Rocha",
     "wof:parent_id":102052941,
     "wof:placetype":"locality",

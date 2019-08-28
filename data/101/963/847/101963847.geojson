@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-30.040803,
     "lbl:longitude":-50.268747,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.040803,
     "mps:longitude":-50.268747,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u098f\u09b8\u099f\u09be\u09a8\u09cd\u09b8\u09bf\u09af\u09bc\u09be \u09ad\u09c7\u09b2\u09b9\u09be"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
         85682015,
@@ -112,7 +115,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6317097,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q985499"
     },
     "wof:country":"BR",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101963847,
-    "wof:lastmodified":1563242078,
+    "wof:lastmodified":1566623602,
     "wof:name":"Est\u00e2ncia Velha",
     "wof:parent_id":404564921,
     "wof:placetype":"locality",

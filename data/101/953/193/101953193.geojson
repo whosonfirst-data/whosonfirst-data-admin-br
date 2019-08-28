@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.021802,
     "lbl:longitude":-43.310843,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.021802,
     "mps:longitude":-43.310843,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Afonso Arinos"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":58,
     "wof:belongsto":[
         85681991,
@@ -75,7 +78,7 @@
         "fct:id":"037fad14-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3473131,
         "gp:id":420851,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q327204"
     },
     "wof:country":"BR",
@@ -94,7 +97,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241557,
+    "wof:lastmodified":1566623348,
     "wof:name":"Afonso Arinos",
     "wof:parent_id":404562171,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.080295,
     "lbl:longitude":-36.848448,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.080295,
     "mps:longitude":-36.848448,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u099c\u09cb\u09af\u09bc\u09be\u0993 \u09a1\u09cb \u099f\u09bf\u0997\u09cd\u09b0\u09c7"
     ],
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "S\u00e3o Jo\u00e3o do Tigre"
     ],
-    "name:unk_x_variant":[
-        "Jacarar\u00e1"
-    ],
     "name:vie_x_preferred":[
         "S\u00e3o Jo\u00e3o do Tigre"
     ],
@@ -115,7 +115,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         85681967,
@@ -129,7 +129,7 @@
         "fct:id":"0388cf7a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3388613,
         "gp:id":461096,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2009071",
         "wk:page":"S\u00e3o Jo\u00e3o do Tigre"
     },
@@ -149,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841118,
+    "wof:lastmodified":1566624240,
     "wof:name":"S\u00e3o Jo\u00e3o do Tigre",
     "wof:parent_id":404560051,
     "wof:placetype":"locality",

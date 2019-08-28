@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.168755,
     "lbl:longitude":-38.470337,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-4.168755,
     "mps:longitude":-38.470337,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u0995\u09be\u099c\u09c1\u09b8"
     ],
@@ -72,9 +75,6 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u043a\u0430\u0436\u0443\u0441"
     ],
-    "name:unk_x_variant":[
-        "Guarany"
-    ],
     "name:vie_x_preferred":[
         "Pacajus"
     ],
@@ -107,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -121,7 +121,6 @@
         "fct:id":"0386cf54-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3393409,
         "gp:id":456376,
-        "qs:id":1044334,
         "qs_pg:id":1044334,
         "wd:id":"Q2021230",
         "wk:page":"Pacajus"
@@ -142,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841292,
+    "wof:lastmodified":1566625929,
     "wof:name":"Pacajus",
     "wof:parent_id":404553527,
     "wof:placetype":"locality",

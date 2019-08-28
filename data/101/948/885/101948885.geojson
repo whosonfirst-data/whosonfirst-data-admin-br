@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.973761,
     "lbl:longitude":-44.610149,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.973761,
     "mps:longitude":-44.610149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u0987\u0989\u09b0\u09c1\u0993\u0995\u09be"
     ],
@@ -88,9 +91,6 @@
     "name:swe_x_preferred":[
         "Aiuruoca"
     ],
-    "name:unk_x_variant":[
-        "Ayuruoca"
-    ],
     "name:vie_x_preferred":[
         "Aiuruoca"
     ],
@@ -123,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -136,7 +136,6 @@
         "fct:id":"0386a3b2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472798,
         "gp:id":456019,
-        "qs:id":906385,
         "qs_pg:id":906385,
         "wd:id":"Q1749739",
         "wk:page":"Aiuruoca"
@@ -157,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841108,
+    "wof:lastmodified":1566623914,
     "wof:name":"Aiuruoca",
     "wof:parent_id":404555163,
     "wof:placetype":"locality",

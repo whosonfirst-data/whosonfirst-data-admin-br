@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-9.711621,
     "lbl:longitude":-37.108808,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-9.711621,
     "mps:longitude":-37.108808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bre_x_preferred":[
         "Batalha"
     ],
@@ -85,7 +88,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         102191577,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":102050071,
-    "wof:lastmodified":1564133256,
+    "wof:lastmodified":1566619560,
     "wof:name":"Batalha",
     "wof:parent_id":85681879,
     "wof:placetype":"county",

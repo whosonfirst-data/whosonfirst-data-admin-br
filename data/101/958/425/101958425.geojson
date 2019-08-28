@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.251594,
     "lbl:longitude":-54.597908,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.251594,
     "mps:longitude":-54.597908,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Florida"
     ],
@@ -544,7 +547,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -556,7 +559,7 @@
     "wof:concordances":{
         "gn:id":3463231,
         "gp:id":459482,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a114addc890cfab6e6572e8eaadaff40",
@@ -571,7 +574,7 @@
         }
     ],
     "wof:id":101958425,
-    "wof:lastmodified":1564141408,
+    "wof:lastmodified":1566625208,
     "wof:name":"Florida",
     "wof:parent_id":404564467,
     "wof:placetype":"locality",

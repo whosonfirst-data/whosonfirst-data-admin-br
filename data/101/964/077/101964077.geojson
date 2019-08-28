@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.905166,
     "lbl:longitude":-49.61753,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-22.905166,
     "mps:longitude":-49.61753,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u0995\u09cd\u09b0\u09c1\u099c \u09a1\u09cb \u09b0\u09bf\u0993 \u09aa\u09be\u09b0\u09cd\u09a1\u09cb"
     ],
@@ -110,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.898889,
     "wd:longitude":-49.632778,
@@ -128,7 +131,6 @@
         "fct:id":"0386559c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3450272,
         "gp:id":448311,
-        "qs:id":777351,
         "qs_pg:id":777351,
         "wd:id":"Q1646321",
         "wk:page":"Santa Cruz do Rio Pardo"
@@ -149,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841075,
+    "wof:lastmodified":1566623685,
     "wof:name":"Santa Cruz do Rio Pardo",
     "wof:parent_id":404567161,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.138595,
     "lbl:longitude":-38.091448,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-5.138595,
     "mps:longitude":-38.091448,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09bf\u09ae\u09cb\u09af\u09bc\u09c7\u0987\u09b0\u09cb \u09a1\u09cb \u09a8\u09cb\u09b0\u09cd\u099f\u09c7"
     ],
@@ -77,9 +80,6 @@
     "name:swe_x_preferred":[
         "Limoeiro do Norte"
     ],
-    "name:unk_x_variant":[
-        "Limoeiro"
-    ],
     "name:vie_x_preferred":[
         "Limoeiro do Norte"
     ],
@@ -109,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -123,7 +123,6 @@
         "fct:id":"0386c658-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3396266,
         "gp:id":456303,
-        "qs:id":213312,
         "qs_pg:id":213312,
         "wd:id":"Q1795215"
     },
@@ -143,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841290,
+    "wof:lastmodified":1566625907,
     "wof:name":"Limoeiro do Norte",
     "wof:parent_id":404553253,
     "wof:placetype":"locality",

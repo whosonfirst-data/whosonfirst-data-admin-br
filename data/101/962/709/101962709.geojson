@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.137397,
     "lbl:longitude":-47.524969,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.137397,
     "mps:longitude":-47.524969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09cd\u099f\u09cb \u09aa\u09be\u09b0\u09be\u0987\u09b8\u09cb \u09a1\u09c7 \u0997\u09cb\u09af\u09bc\u09be\u09b8"
     ],
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "Alto Para\u00edso de Goi\u00e1s"
     ],
-    "name:unk_x_variant":[
-        "Veadeiros"
-    ],
     "name:vie_x_preferred":[
         "Alto Para\u00edso de Goi\u00e1s"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":714,
     "wof:belongsto":[
         85681925,
@@ -131,10 +131,12 @@
         "fct:id":"038226ac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472441,
         "gp:id":455036,
-        "qs:id":1321086,
         "qs_pg:id":328898,
         "wd:id":"Q22060523",
         "wk:page":"Alto Para\u00edso de Goi\u00e1s"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1321086
     },
     "wof:country":"BR",
     "wof:geomhash":"5d101d0977aec3bf1dff7a6dd850b937",
@@ -152,7 +154,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841058,
+    "wof:lastmodified":1566623498,
     "wof:name":"Alto Para\u00edso de Goi\u00e1s",
     "wof:parent_id":404554701,
     "wof:placetype":"locality",

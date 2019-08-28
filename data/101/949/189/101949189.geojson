@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.800785,
     "lbl:longitude":-43.17905,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.800785,
     "mps:longitude":-43.17905,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c1\u0987\u0995\u09cd\u09b8\u09be\u09ac\u09be"
     ],
@@ -61,9 +64,6 @@
     "name:sco_x_preferred":[
         "Quixaba"
     ],
-    "name:unk_x_variant":[
-        "Quizaba"
-    ],
     "name:vie_x_preferred":[
         "Quixaba"
     ],
@@ -91,7 +91,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -104,7 +104,7 @@
         "fct:id":"03818cc4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451913,
         "gp:id":446276,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a99478b4553754c13f6ff04c3497bba5",
@@ -122,7 +122,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564140721,
+    "wof:lastmodified":1566624569,
     "wof:name":"Quixaba",
     "wof:parent_id":404551549,
     "wof:placetype":"locality",

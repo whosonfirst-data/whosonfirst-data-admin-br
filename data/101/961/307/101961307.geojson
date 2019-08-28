@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.75119,
     "lbl:longitude":-54.968438,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.75119,
     "mps:longitude":-54.968438,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u0993\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         85681955,
@@ -103,7 +106,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6318171,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"0ed1eb04460c705bcde03da6546cdc13",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101961307,
-    "wof:lastmodified":1564141116,
+    "wof:lastmodified":1566624928,
     "wof:name":"Riol\u00e2ndia",
     "wof:parent_id":404559285,
     "wof:placetype":"locality",

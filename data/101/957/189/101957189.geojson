@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.412364,
     "lbl:longitude":-51.771837,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.412364,
     "mps:longitude":-51.771837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09aa\u09bf\u09b0\u09be"
     ],
@@ -76,7 +79,7 @@
     "name:spa_x_preferred":[
         "Ipira"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ipyra"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -122,7 +125,7 @@
         "fct:id":"0388f4e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461123,
         "gp:id":435725,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q968703",
         "wk:page":"Ipira"
     },
@@ -142,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841168,
+    "wof:lastmodified":1566624814,
     "wof:name":"Ipira",
     "wof:parent_id":404565497,
     "wof:placetype":"locality",

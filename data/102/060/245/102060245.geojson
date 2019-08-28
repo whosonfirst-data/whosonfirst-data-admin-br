@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-29.022643,
     "lbl:longitude":-49.47629,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-29.022643,
     "mps:longitude":-49.47629,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b2\u09a8\u09c7\u0986\u09b0\u09bf\u0993 \u0986\u09b0\u09cd\u09b0\u09cb\u0987\u0993 \u09a1\u09cb \u09b8\u09bf\u09b2\u09ad\u09be"
     ],
@@ -73,7 +76,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102060245,
-    "wof:lastmodified":1560547692,
+    "wof:lastmodified":1566620096,
     "wof:name":"Balneario Arroio do Silva",
     "wof:parent_id":85682021,
     "wof:placetype":"county",

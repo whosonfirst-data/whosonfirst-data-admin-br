@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.341178,
     "lbl:longitude":-41.286315,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.341178,
     "mps:longitude":-41.286315,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nova Olinda"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -80,7 +83,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3393855,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"940504ce5702cf4a1584724002db5e80",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101985069,
-    "wof:lastmodified":1564140686,
+    "wof:lastmodified":1566624529,
     "wof:name":"Nova Olinda",
     "wof:parent_id":102056987,
     "wof:placetype":"locality",

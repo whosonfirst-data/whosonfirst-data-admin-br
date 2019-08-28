@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.718426,
     "lbl:longitude":-41.230026,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.718426,
     "mps:longitude":-41.230026,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u09aa\u09be"
     ],
@@ -73,7 +76,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -83,7 +86,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3396401,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"b70882d9c3890573b996a13767834b23",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101985193,
-    "wof:lastmodified":1564140612,
+    "wof:lastmodified":1566624486,
     "wof:name":"Lapa",
     "wof:parent_id":102057253,
     "wof:placetype":"locality",

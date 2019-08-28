@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-17.965024,
     "lbl:longitude":-41.537127,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-17.965024,
     "mps:longitude":-41.537127,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u099c\u09bf\u09a8\u09b9\u09be"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -104,7 +107,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"dae7a7a7fd45a8935c1d53a3c00196ca",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101983931,
-    "wof:lastmodified":1564139848,
+    "wof:lastmodified":1566623991,
     "wof:name":"Lajinha",
     "wof:parent_id":404558573,
     "wof:placetype":"locality",

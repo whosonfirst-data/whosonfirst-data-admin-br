@@ -9,14 +9,17 @@
     "geom:bbox":"-43.1984036535,-22.2598272277,-43.1809391801,-22.2460474243",
     "geom:latitude":-22.252825,
     "geom:longitude":-43.190527,
-    "geonames:id":"3461335,3480609",
+    "gn:id":"3461335,3480609",
     "iso:country":"BR",
     "lbl:latitude":-22.254371,
     "lbl:longitude":-43.191852,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.254371,
     "mps:longitude":-43.191852,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Inconfid\u00eancia Mineira"
     ],
@@ -62,7 +65,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":812,
     "wof:belongsto":[
         85681991,
@@ -74,7 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":435545,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2558843"
     },
     "wof:country":"BR",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101953223,
-    "wof:lastmodified":1563241657,
+    "wof:lastmodified":1566623390,
     "wof:name":"Inconfid\u00eancia",
     "wof:parent_id":404562405,
     "wof:placetype":"locality",

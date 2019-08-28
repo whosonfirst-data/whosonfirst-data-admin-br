@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000082,
-    "geom:area_square_m":985886.773823,
+    "geom:area_square_m":985886.773822,
     "geom:bbox":"-39.0379147955,-13.4078763872,-39.0279999784,-13.3919515176",
     "geom:latitude":-13.399854,
     "geom:longitude":-39.033792,
     "iso:country":"BR",
     "lbl:latitude":-13.398842,
     "lbl:longitude":-39.033717,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.398842,
     "mps:longitude":-39.033717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Gale\u00e3o"
     ],
@@ -25,7 +28,7 @@
     "name:por_x_preferred":[
         "Gale\u00e3o"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Galeno"
     ],
     "qs:a0":"Brasil",
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":94,
     "wof:belongsto":[
         85681895,
@@ -59,7 +62,9 @@
         "fct:id":"03809684-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3462723,
         "gp:id":434240,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1043276
     },
     "wof:country":"BR",
@@ -78,7 +83,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527688382,
+    "wof:lastmodified":1566624374,
     "wof:name":"Gale\u00e3o",
     "wof:parent_id":404550649,
     "wof:placetype":"locality",

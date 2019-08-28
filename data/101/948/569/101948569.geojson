@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-7.856314,
     "lbl:longitude":-35.251177,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-7.856314,
     "mps:longitude":-35.251177,
     "mz:hierarchy_label":1,
@@ -203,7 +205,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -216,7 +218,6 @@
         "fct:id":"03871162-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3402721,
         "gp:id":456995,
-        "qs:id":274296,
         "qs_pg:id":274296,
         "wd:id":"Q1993877",
         "wk:page":"Carpina"
@@ -236,7 +237,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242716,
+    "wof:lastmodified":1566623872,
     "wof:name":"Carpina",
     "wof:parent_id":102056583,
     "wof:placetype":"locality",

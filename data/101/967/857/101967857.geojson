@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.203613,
     "lbl:longitude":-51.08344,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.203613,
     "mps:longitude":-51.08344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09a1\u09cb\u09ae\u09bf\u09a8\u0997\u09cb\u09b8"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"Local urban major",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":200,
     "wof:belongsto":[
         85681983,
@@ -91,7 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6318403,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"bf63162bdd19c27d8238d0fe6e08cd8a",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101967857,
-    "wof:lastmodified":1564141337,
+    "wof:lastmodified":1566625152,
     "wof:name":"S\u00e3o Domingos",
     "wof:parent_id":404562055,
     "wof:placetype":"locality",

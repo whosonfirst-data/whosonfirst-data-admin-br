@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.982384,
     "lbl:longitude":-44.317302,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-2.982384,
     "mps:longitude":-44.317302,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u0995\u09be\u09ac\u09c7\u0987\u09b0\u09be"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -111,7 +114,7 @@
     "wof:concordances":{
         "gn:id":6316471,
         "gp:id":456482,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2068936",
         "wk:page":"Bacabeira"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101943055,
-    "wof:lastmodified":1561841306,
+    "wof:lastmodified":1566626090,
     "wof:name":"Bacabeira",
     "wof:parent_id":102052807,
     "wof:placetype":"locality",

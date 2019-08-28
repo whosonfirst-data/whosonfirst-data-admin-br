@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.184911,
     "lbl:longitude":-63.186659,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.184911,
     "mps:longitude":-63.186659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09aa\u09c1\u09f1\u09be \u09a1\u09cb \u0993\u098f\u09b8\u09cd\u099f\u09c7"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":53,
     "wof:belongsto":[
         102191577,
@@ -108,7 +111,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":90138794,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1802170"
     },
     "wof:country":"BR",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101941723,
-    "wof:lastmodified":1561841130,
+    "wof:lastmodified":1566624296,
     "wof:name":"Itapu\u00e3 do Oeste",
     "wof:parent_id":102058969,
     "wof:placetype":"locality",

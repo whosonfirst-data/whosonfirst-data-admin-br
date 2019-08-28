@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.94309,
     "lbl:longitude":-42.924529,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.94309,
     "mps:longitude":-42.924529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c1\u09b0\u09bf\u099f\u09bf"
     ],
@@ -73,9 +76,6 @@
     "name:swe_x_preferred":[
         "Buriti"
     ],
-    "name:unk_x_variant":[
-        "Burity"
-    ],
     "name:vie_x_preferred":[
         "Buriti"
     ],
@@ -102,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -114,7 +114,6 @@
         "fct:id":"0387a4ba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3404740,
         "gp:id":458855,
-        "qs:id":1237331,
         "qs_pg:id":1237331,
         "wd:id":"Q2135872"
     },
@@ -133,7 +132,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247418,
+    "wof:lastmodified":1566626086,
     "wof:name":"Buriti",
     "wof:parent_id":102052849,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.398955,
     "lbl:longitude":-46.316716,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-23.398955,
     "mps:longitude":-46.316716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b0\u09c1\u099c\u09be"
     ],
@@ -99,9 +102,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0443\u0436\u0430"
     ],
-    "name:unk_x_variant":[
-        "Uruj\u00e1"
-    ],
     "name:vie_x_preferred":[
         "Aruj\u00e1"
     ],
@@ -131,7 +131,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":755.0,
     "wd:latitude":-23.396667,
@@ -150,10 +150,12 @@
         "fct:id":"038a1060-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471393,
         "gp:id":456053,
-        "qs:id":148473,
-        "qs_pg:id":1058506,
+        "qs_pg:id":148473,
         "wd:id":"Q1750250",
         "wk:page":"Aruj\u00e1"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1058506
     },
     "wof:country":"BR",
     "wof:geomhash":"2a26fc6f220f41c45d3b71c140c71e58",
@@ -171,7 +173,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841055,
+    "wof:lastmodified":1566623483,
     "wof:name":"Aruj\u00e1",
     "wof:parent_id":404566133,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.033479,
     "lbl:longitude":-44.310363,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.033479,
     "mps:longitude":-44.310363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c1\u09b0\u09bf\u09ae\u09be\u099f\u09be"
     ],
@@ -76,9 +79,6 @@
     "name:swe_x_preferred":[
         "Curimat\u00e1"
     ],
-    "name:unk_x_variant":[
-        "Get\u00ed"
-    ],
     "name:vie_x_preferred":[
         "Curimat\u00e1"
     ],
@@ -109,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":162,
     "wof:belongsto":[
         102191577,
@@ -122,7 +122,6 @@
         "fct:id":"03871d92-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3464982,
         "gp:id":457100,
-        "qs:id":148311,
         "qs_pg:id":148311,
         "wd:id":"Q655584"
     },
@@ -141,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247485,
+    "wof:lastmodified":1566626109,
     "wof:name":"Curimat\u00e1",
     "wof:parent_id":102057053,
     "wof:placetype":"locality",

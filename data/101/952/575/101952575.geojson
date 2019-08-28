@@ -9,14 +9,17 @@
     "geom:bbox":"-46.3720383867,-20.259283837,-46.3546692144,-20.2418417219",
     "geom:latitude":-20.250807,
     "geom:longitude":-46.364657,
-    "geonames:id":"3461752,6318593",
+    "gn:id":"3461752,6318593",
     "iso:country":"BR",
     "lbl:latitude":-20.250468,
     "lbl:longitude":-46.365248,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.250468,
     "mps:longitude":-46.365248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09b0\u09cb\u0995\u09c1\u09af\u09bc\u09c7 \u09a1\u09c7 \u09ae\u09bf\u09a8\u09be\u09b8"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":532,
     "wof:belongsto":[
         85681941,
@@ -119,9 +122,11 @@
     "wof:concordances":{
         "gn:id":6318593,
         "gp:id":451204,
-        "qs:id":1,
-        "qs_pg:id":43489,
+        "qs_pg:id":1,
         "wd:id":"Q1755169"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":43489
     },
     "wof:country":"BR",
     "wof:geomhash":"4ba3271fb13fb56c8a68bd67905f58a1",
@@ -136,7 +141,7 @@
         }
     ],
     "wof:id":101952575,
-    "wof:lastmodified":1561841084,
+    "wof:lastmodified":1566623768,
     "wof:name":"S\u00e3o Roque de Minas",
     "wof:parent_id":404558399,
     "wof:placetype":"locality",

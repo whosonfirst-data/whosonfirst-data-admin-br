@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.153077,
     "lbl:longitude":-48.077046,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.153077,
     "mps:longitude":-48.077046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b2\u09bf\u09a8\u09be\u09b8 \u09a1\u09cb \u09b8\u09c1\u09b2"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681925,
         102191577,
@@ -125,7 +128,7 @@
         "fct:id":"03882246-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316884,
         "gp:id":459203,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1003417",
         "wk:page":"Colinas do Sul"
     },
@@ -145,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841061,
+    "wof:lastmodified":1566623512,
     "wof:name":"Colinas do Sul",
     "wof:parent_id":404554739,
     "wof:placetype":"locality",

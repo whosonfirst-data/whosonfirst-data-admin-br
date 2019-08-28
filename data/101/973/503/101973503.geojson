@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.517847,
     "lbl:longitude":-38.159074,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.517847,
     "mps:longitude":-38.159074,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0648\u0627\u0631\u0648"
     ],
@@ -133,7 +136,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -143,7 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"eb841c3c25113cd9772662a5db8e2125",
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":101973503,
-    "wof:lastmodified":1564141800,
+    "wof:lastmodified":1566625595,
     "wof:name":"Caruaru",
     "wof:parent_id":404550935,
     "wof:placetype":"locality",

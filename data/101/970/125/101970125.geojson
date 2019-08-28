@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000027,
-    "geom:area_square_m":332509.777046,
+    "geom:area_square_m":332509.777045,
     "geom:bbox":"-59.0316966858,-3.2195928986,-59.0217159702,-3.21224164425",
     "geom:latitude":-3.216545,
     "geom:longitude":-59.02696,
     "iso:country":"BR",
     "lbl:latitude":-3.216674,
     "lbl:longitude":-59.027035,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.216674,
     "mps:longitude":-59.027035,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Reman\u00e7o"
     ],
     "qs:a0":"Brasil",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681885,
         102191577,
@@ -48,7 +51,9 @@
     "wof:concordances":{
         "gn:id":3662599,
         "gp:id":460727,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":149856
     },
     "wof:country":"BR",
@@ -64,7 +69,7 @@
         }
     ],
     "wof:id":101970125,
-    "wof:lastmodified":1504301655,
+    "wof:lastmodified":1566624155,
     "wof:name":"Novo Remanso",
     "wof:parent_id":404550269,
     "wof:placetype":"locality",

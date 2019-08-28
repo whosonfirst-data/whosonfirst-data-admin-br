@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.732738,
     "lbl:longitude":-45.526813,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.732738,
     "mps:longitude":-45.526813,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09b0\u09be\u09a1\u09be \u09a8\u09cb\u09ad\u09be"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681931,
         102191577,
@@ -89,7 +92,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"7daa55c8cfa138e02de97c2103b0a735",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101978821,
-    "wof:lastmodified":1564140353,
+    "wof:lastmodified":1566624325,
     "wof:name":"Morada Nova",
     "wof:parent_id":404555057,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.768577,
     "lbl:longitude":-52.449798,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-23.768577,
     "mps:longitude":-52.449798,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c7\u09b0\u09b0\u09be \u09ac\u09cb\u09f1\u09be"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -119,7 +122,6 @@
         "fct:id":"03878976-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3446598,
         "gp:id":458176,
-        "qs:id":761071,
         "qs_pg:id":761071,
         "wd:id":"Q956038",
         "wk:page":"Terra Boa, Paran\u00e1"
@@ -139,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244743,
+    "wof:lastmodified":1566624805,
     "wof:name":"Terra Boa",
     "wof:parent_id":102058247,
     "wof:placetype":"locality",

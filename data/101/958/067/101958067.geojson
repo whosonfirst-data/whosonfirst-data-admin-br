@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.188014,
     "lbl:longitude":-49.313496,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-25.188014,
     "mps:longitude":-49.313496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u0993 \u09ac\u09cd\u09b0\u09be\u0999\u09cd\u0995\u09cb \u09a1\u09cb \u09b8\u09c1\u09b2"
     ],
@@ -75,9 +78,6 @@
     "name:rus_x_preferred":[
         "\u0420\u0438\u0443-\u0411\u0440\u0430\u043d\u043a\u0443-\u0434\u0443-\u0421\u0443\u043b"
     ],
-    "name:unk_x_variant":[
-        "Votuverava"
-    ],
     "name:vie_x_preferred":[
         "Rio Branco do Sul"
     ],
@@ -110,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681983,
@@ -124,7 +124,6 @@
         "fct:id":"03877418-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451242,
         "gp:id":457940,
-        "qs:id":147963,
         "qs_pg:id":147963,
         "wd:id":"Q2004402",
         "wk:page":"Rio Branco do Sul"
@@ -145,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841225,
+    "wof:lastmodified":1566625259,
     "wof:name":"Rio Branco do Sul",
     "wof:parent_id":404561777,
     "wof:placetype":"locality",

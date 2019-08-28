@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.000738,
     "lbl:longitude":-35.303841,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.000738,
     "mps:longitude":-35.303841,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Per-Banebdjedet"
     ],
@@ -73,7 +76,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -83,7 +86,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3394946,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"544d1cfed1286daad7aa550af97c35bf",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101990845,
-    "wof:lastmodified":1564139440,
+    "wof:lastmodified":1566623628,
     "wof:name":"Mendes",
     "wof:parent_id":102058809,
     "wof:placetype":"locality",

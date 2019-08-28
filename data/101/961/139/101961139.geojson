@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.728987,
     "lbl:longitude":-57.049077,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.728987,
     "mps:longitude":-57.049077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09c7\u09a8\u09bf\u09b8\u09c7"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":150,
     "wof:belongsto":[
         102191577,
@@ -116,7 +119,7 @@
         "fct:id":"03894fb8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317000,
         "gp:id":55943648,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1847425",
         "wk:page":"Denise, Mato Grosso"
     },
@@ -135,7 +138,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245110,
+    "wof:lastmodified":1566624971,
     "wof:name":"Denise",
     "wof:parent_id":102055433,
     "wof:placetype":"locality",

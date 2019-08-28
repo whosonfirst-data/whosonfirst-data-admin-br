@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.295433,
     "lbl:longitude":-51.907741,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-22.295433,
     "mps:longitude":-51.907741,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09bf\u09b0\u09be\u09a8\u09cd\u099f\u09c7 \u09a1\u09cb \u09aa\u09be\u09b0\u09be\u09a8\u09be\u09aa\u09be\u09a8\u09c7\u09ae\u09be"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.291944,
     "wd:longitude":-51.906389,
@@ -121,7 +124,6 @@
         "fct:id":"03861118-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457098,
         "gp:id":440350,
-        "qs:id":1045002,
         "qs_pg:id":1045002,
         "wd:id":"Q383765",
         "wk:page":"Mirante do Paranapanema"
@@ -142,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841024,
+    "wof:lastmodified":1566623290,
     "wof:name":"Mirante do Paranapanema",
     "wof:parent_id":404566765,
     "wof:placetype":"locality",

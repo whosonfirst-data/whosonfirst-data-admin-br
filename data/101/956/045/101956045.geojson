@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.621668,
     "lbl:longitude":-47.018517,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.621668,
     "mps:longitude":-47.018517,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u09b0\u09cd\u0997\u09c7\u09ae \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7 \u09aa\u09be\u0989\u09b2\u09bf\u09b8\u09cd\u099f\u09be"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -121,9 +124,11 @@
         "fct:id":"0387fe60-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6318864,
         "gp:id":461715,
-        "qs:id":1037061,
-        "qs_pg:id":1055401,
+        "qs_pg:id":1037061,
         "wd:id":"Q1750075"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1055401
     },
     "wof:country":"BR",
     "wof:geomhash":"0084aea8033ed23823dd6abc32da363d",
@@ -141,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246042,
+    "wof:lastmodified":1566625389,
     "wof:name":"Vargem Grande Paulista",
     "wof:parent_id":404567617,
     "wof:placetype":"locality",

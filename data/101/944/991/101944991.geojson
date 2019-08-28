@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000096,
-    "geom:area_square_m":1181812.707018,
+    "geom:area_square_m":1181812.707017,
     "geom:bbox":"-40.462183152,-3.19493708002,-40.4502395998,-3.18092239193",
     "geom:latitude":-3.187008,
     "geom:longitude":-40.456814,
     "iso:country":"BR",
     "lbl:latitude":-3.187307,
     "lbl:longitude":-40.457222,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.187307,
     "mps:longitude":-40.457222,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*CE",
     "qs:a1_lc":"23",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -44,7 +48,9 @@
     "wof:concordances":{
         "gn:id":3387724,
         "gp:id":451991,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":357162
     },
     "wof:country":"BR",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":101944991,
-    "wof:lastmodified":1497302741,
+    "wof:lastmodified":1566625950,
     "wof:name":"Serrota",
     "wof:parent_id":404553893,
     "wof:placetype":"locality",

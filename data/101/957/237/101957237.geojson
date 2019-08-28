@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.707261,
     "lbl:longitude":-51.64171,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.707261,
     "mps:longitude":-51.64171,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09c1\u09ae\u09ac\u09bf"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -112,7 +115,7 @@
         "fct:id":"03860c4a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457581,
         "gp:id":439806,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1803525",
         "wk:page":"Marumbi"
     },
@@ -131,7 +134,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841173,
+    "wof:lastmodified":1566624844,
     "wof:name":"Marumbi",
     "wof:parent_id":102057887,
     "wof:placetype":"locality",

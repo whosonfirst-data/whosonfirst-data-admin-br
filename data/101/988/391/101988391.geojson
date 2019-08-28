@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.722278,
     "lbl:longitude":-53.598868,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-23.722278,
     "mps:longitude":-53.598868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Casa Branca"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.773889,
     "wd:longitude":-47.085833,
@@ -67,7 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":455690,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"8c0c3e9b3add67f3dedfd18342fa185e",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101988391,
-    "wof:lastmodified":1564142407,
+    "wof:lastmodified":1566626012,
     "wof:name":"Casa Branca",
     "wof:parent_id":102058303,
     "wof:placetype":"locality",

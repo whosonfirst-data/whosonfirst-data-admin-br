@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.36118,
     "lbl:longitude":-39.825324,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-3.36118,
     "mps:longitude":-39.825324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cb\u09a8\u09cd\u099f\u09be\u09a1\u09be"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Amontada"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Bento"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -123,7 +126,6 @@
         "fct:id":"03891336-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3407703,
         "gp:id":456661,
-        "qs:id":305364,
         "qs_pg:id":305364,
         "wd:id":"Q947378"
     },
@@ -143,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247279,
+    "wof:lastmodified":1566626008,
     "wof:name":"Amontada",
     "wof:parent_id":404552315,
     "wof:placetype":"locality",

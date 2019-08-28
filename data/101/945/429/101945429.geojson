@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.360658,
     "lbl:longitude":-39.359682,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.360658,
     "mps:longitude":-39.359682,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b0\u09cd\u09b0\u09c7\u0997\u09cb \u09ab\u09c1\u09a8\u09a1\u09cb"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":495,
     "wof:belongsto":[
         85681907,
@@ -106,7 +109,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3401657,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"447fb7853c1f568458bc5dffae4a55fa",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101945429,
-    "wof:lastmodified":1564142292,
+    "wof:lastmodified":1566625929,
     "wof:name":"C\u00f3rrego Fundo",
     "wof:parent_id":404553999,
     "wof:placetype":"locality",

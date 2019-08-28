@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.070179,
     "lbl:longitude":-52.340477,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.070179,
     "mps:longitude":-52.340477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cd\u09b8\u09be\u09ad\u09be\u09a8\u09cd\u099f\u09bf\u09a8\u09be"
     ],
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Xavantina"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nova Xavantina"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -128,7 +131,7 @@
         "fct:id":"038690b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3444841,
         "gp:id":455702,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q923208",
         "wk:page":"Xavantina"
     },
@@ -148,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841207,
+    "wof:lastmodified":1566625122,
     "wof:name":"Xavantina",
     "wof:parent_id":404566001,
     "wof:placetype":"locality",

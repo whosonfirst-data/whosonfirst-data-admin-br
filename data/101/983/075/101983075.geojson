@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.966873,
     "lbl:longitude":-47.54275,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-3.966873,
     "mps:longitude":-47.54275,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b0\u09cd\u0995\u09cb-\u0987\u09b0\u09bf\u09b8"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.772778,
     "wd:longitude":-50.465278,
@@ -106,7 +109,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943644,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"b4d5779d3716cbcea5324137a33c7dc0",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101983075,
-    "wof:lastmodified":1564139920,
+    "wof:lastmodified":1566624033,
     "wof:name":"Arco-\u00cdris",
     "wof:parent_id":102055971,
     "wof:placetype":"locality",

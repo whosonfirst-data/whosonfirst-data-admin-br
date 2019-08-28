@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.421495,
     "lbl:longitude":-38.351125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.421495,
     "mps:longitude":-38.351125,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u099c\u0986\u09a8\u099f\u09c7"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681967,
         102191577,
@@ -110,7 +113,7 @@
         "fct:id":"0382260c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3385324,
         "gp:id":455021,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"265d2a79d4d2dee71560a104ed318fbc",
@@ -128,7 +131,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564142293,
+    "wof:lastmodified":1566625929,
     "wof:name":"Vazante",
     "wof:parent_id":404559935,
     "wof:placetype":"locality",

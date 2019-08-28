@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.910596,
     "lbl:longitude":-51.114428,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.910596,
     "mps:longitude":-51.114428,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Campo Alegre"
     ],
@@ -67,7 +70,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681925,
         102191577,
@@ -78,7 +81,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":457439,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"99cd588cec43b6ae4b88cea1b1f3df43",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101974397,
-    "wof:lastmodified":1564141901,
+    "wof:lastmodified":1566625650,
     "wof:name":"Campo Alegre",
     "wof:parent_id":404554839,
     "wof:placetype":"locality",

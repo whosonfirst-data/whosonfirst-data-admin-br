@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-2.897778,
     "lbl:longitude":-40.861904,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-2.897778,
     "mps:longitude":-40.861904,
     "mz:hierarchy_label":1,
@@ -197,7 +199,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -211,10 +213,12 @@
         "fct:id":"0386af24-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3403687,
         "gp:id":456111,
-        "qs:id":1044468,
-        "qs_pg:id":1076656,
+        "qs_pg:id":1044468,
         "wd:id":"Q1807057",
         "wk:page":"Camocim"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1076656
     },
     "wof:country":"BR",
     "wof:geomhash":"9a65b77c551a08dbb8ae8284f2d1c88f",
@@ -232,7 +236,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841298,
+    "wof:lastmodified":1566626001,
     "wof:name":"Camocim",
     "wof:parent_id":404552561,
     "wof:placetype":"locality",

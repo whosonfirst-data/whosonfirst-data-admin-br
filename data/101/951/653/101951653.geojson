@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.161303,
     "lbl:longitude":-42.966399,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.161303,
     "mps:longitude":-42.966399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u09ae \u09b8\u09bf\u09b2\u09ad\u09c7\u09b0\u09bf\u0993"
     ],
@@ -88,9 +91,6 @@
     "name:swe_x_preferred":[
         "Dom Silv\u00e9rio"
     ],
-    "name:unk_x_variant":[
-        "Sa\u00fade"
-    ],
     "name:vie_x_preferred":[
         "Dom Silv\u00e9rio"
     ],
@@ -118,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":32,
     "wof:belongsto":[
         85681941,
@@ -132,7 +132,7 @@
         "fct:id":"0381f290-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3464543,
         "gp:id":55943996,
-        "qs:id":368312,
+        "qs_pg:id":368312,
         "wd:id":"Q1756586",
         "wk:page":"Dom Silv\u00e9rio"
     },
@@ -152,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246339,
+    "wof:lastmodified":1566625525,
     "wof:name":"Dom Silv\u00e9rio",
     "wof:parent_id":404556247,
     "wof:placetype":"locality",

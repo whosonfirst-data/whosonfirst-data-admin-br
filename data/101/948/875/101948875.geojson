@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.322964,
     "lbl:longitude":-44.757373,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.322964,
     "mps:longitude":-44.757373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09a8\u09bf\u099f\u09cb \u09a1\u09c7 \u09ae\u09bf\u09a8\u09be\u09b8"
     ],
@@ -113,7 +116,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -126,7 +129,7 @@
         "fct:id":"03895620-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316626,
         "gp:id":55943718,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1791871",
         "wk:page":"Bonito de Minas"
     },
@@ -146,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841103,
+    "wof:lastmodified":1566623885,
     "wof:name":"Bonito de Minas",
     "wof:parent_id":404555493,
     "wof:placetype":"locality",

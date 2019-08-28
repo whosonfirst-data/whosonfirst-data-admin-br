@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-28.300098,
     "lbl:longitude":-52.795661,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-28.300098,
     "mps:longitude":-52.795661,
     "mz:hierarchy_label":1,
@@ -84,9 +86,6 @@
     ],
     "name:spa_x_preferred":[
         "Carazinho"
-    ],
-    "name:unk_x_variant":[
-        "Carasinho"
     ],
     "name:vie_x_preferred":[
         "Carazinho"
@@ -209,7 +208,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682015,
@@ -223,7 +222,6 @@
         "fct:id":"038699e4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3466978,
         "gp:id":455941,
-        "qs:id":274361,
         "qs_pg:id":274361,
         "wd:id":"Q772910"
     },
@@ -243,7 +241,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245352,
+    "wof:lastmodified":1566625088,
     "wof:name":"Carazinho",
     "wof:parent_id":404563303,
     "wof:placetype":"locality",

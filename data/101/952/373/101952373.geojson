@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.388847,
     "lbl:longitude":-40.255436,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.388847,
     "mps:longitude":-40.255436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u0997\u09c1\u09f1\u09be\u09b0\u09be\u0993"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":70,
     "wof:belongsto":[
         85681941,
@@ -117,7 +120,7 @@
         "fct:id":"0380d9f0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460233,
         "gp:id":436466,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"b4af7137686240917f94ddf00e66bee2",
@@ -135,7 +138,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564139643,
+    "wof:lastmodified":1566623805,
     "wof:name":"Jaguar\u00e3o",
     "wof:parent_id":404556811,
     "wof:placetype":"locality",

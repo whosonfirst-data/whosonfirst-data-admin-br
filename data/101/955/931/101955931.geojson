@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-24.72899,
     "lbl:longitude":-47.706082,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-24.72899,
     "mps:longitude":-47.706082,
     "mz:hierarchy_label":1,
@@ -89,9 +91,6 @@
     ],
     "name:swe_x_preferred":[
         "Iguape"
-    ],
-    "name:unk_x_variant":[
-        "Bom Jesus da Ribeira"
     ],
     "name:vol_x_preferred":[
         "Iguape"
@@ -211,7 +210,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":3.0,
     "wd:latitude":-24.708056,
@@ -230,7 +229,6 @@
         "fct:id":"0386bda2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461465,
         "gp:id":456230,
-        "qs:id":669251,
         "qs_pg:id":669251,
         "wd:id":"Q1646941",
         "wk:page":"Iguape"
@@ -251,7 +249,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242528,
+    "wof:lastmodified":1566623811,
     "wof:name":"Iguape",
     "wof:parent_id":404566507,
     "wof:placetype":"locality",

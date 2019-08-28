@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-19.38463,
     "lbl:longitude":-45.767207,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-19.38463,
     "mps:longitude":-45.767207,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u09b0\u09be \u09a1\u09be \u09b8\u09be\u0989\u09a1\u09be\u09a1\u09c7"
     ],
@@ -115,7 +118,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":485,
     "wof:belongsto":[
         102191577,
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":102055011,
-    "wof:lastmodified":1563235159,
+    "wof:lastmodified":1566619295,
     "wof:name":"Serra Da Saudade",
     "wof:parent_id":85681941,
     "wof:placetype":"county",

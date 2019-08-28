@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.11642,
     "lbl:longitude":-40.065131,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-15.11642,
     "mps:longitude":-40.065131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09cb\u09b0\u09cb\u09b0\u09cb"
     ],
@@ -85,9 +88,6 @@
     "name:rus_x_preferred":[
         "\u0418\u0442\u043e\u0440\u043e\u0440\u043e"
     ],
-    "name:unk_x_variant":[
-        "Itapu\u00ed"
-    ],
     "name:vie_x_preferred":[
         "Itoror\u00f3"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -131,7 +131,6 @@
         "fct:id":"0384fb48-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460542,
         "gp:id":459745,
-        "qs:id":1045042,
         "qs_pg:id":1045042,
         "wd:id":"Q1798854"
     },
@@ -151,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841149,
+    "wof:lastmodified":1566624581,
     "wof:name":"Itoror\u00f3",
     "wof:parent_id":404551245,
     "wof:placetype":"locality",

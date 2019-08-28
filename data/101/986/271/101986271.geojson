@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.741982,
     "lbl:longitude":-37.312236,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.741982,
     "mps:longitude":-37.312236,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u099f\u09bf\u0999\u09cd\u0997\u09c1\u09f1\u09c7\u0987\u09b0\u09be"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681973,
         102191577,
@@ -101,7 +104,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"15db8aa46b5533c31a6fc6495f15811e",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101986271,
-    "wof:lastmodified":1564142882,
+    "wof:lastmodified":1566626344,
     "wof:name":"Catingueira",
     "wof:parent_id":404560401,
     "wof:placetype":"locality",

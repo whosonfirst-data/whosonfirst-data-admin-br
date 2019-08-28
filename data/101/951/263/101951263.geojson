@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.997652,
     "lbl:longitude":-44.274981,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.997652,
     "mps:longitude":-44.274981,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u09aa\u09cb\u09a8\u09ad\u09be\u09b0\u09cd"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -125,7 +128,7 @@
         "fct:id":"0389637c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317362,
         "gp:id":55943862,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q931874",
         "wk:page":"Japonvar"
     },
@@ -145,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841265,
+    "wof:lastmodified":1566625526,
     "wof:name":"Japonvar",
     "wof:parent_id":404556863,
     "wof:placetype":"locality",

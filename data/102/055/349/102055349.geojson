@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-13.924649,
     "lbl:longitude":-52.488996,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-13.924649,
     "mps:longitude":-52.488996,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u0997\u09c1\u09f1\u09be \u09ac\u09cb\u09f1\u09be"
     ],
@@ -88,7 +91,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":102055349,
-    "wof:lastmodified":1564132966,
+    "wof:lastmodified":1566619264,
     "wof:name":"Agua Boa",
     "wof:parent_id":85681955,
     "wof:placetype":"county",

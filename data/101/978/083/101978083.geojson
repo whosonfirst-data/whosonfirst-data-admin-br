@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.437672,
     "lbl:longitude":-47.463286,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.437672,
     "mps:longitude":-47.463286,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*MA",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681931,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":457428,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"ad616342a26f81059fdc26c81706341c",
+    "wof:geomhash":"f6ebab79a87579b9b0912e248989a790",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101978083,
-    "wof:lastmodified":1479934421,
+    "wof:lastmodified":1566624324,
     "wof:name":"Centro Novo",
     "wof:parent_id":404555027,
     "wof:placetype":"locality",

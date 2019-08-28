@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.907198,
     "lbl:longitude":-38.373718,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-3.907198,
     "mps:longitude":-38.373718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bpy_x_preferred":[
         "\u0986\u0995\u09c1\u0987\u09b0\u09be\u099c"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -123,7 +126,6 @@
         "fct:id":"038579c4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3407407,
         "gp:id":422157,
-        "qs:id":776910,
         "qs_pg:id":776910,
         "wd:id":"Q1794121"
     },
@@ -143,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247240,
+    "wof:lastmodified":1566625991,
     "wof:name":"Aquiraz",
     "wof:parent_id":404552347,
     "wof:placetype":"locality",

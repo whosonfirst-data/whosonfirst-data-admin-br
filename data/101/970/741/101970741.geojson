@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.061834,
     "lbl:longitude":-42.428471,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.061834,
     "mps:longitude":-42.428471,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a1\u09cd\u09b0\u09c7\u0987\u09b0\u09be\u09b8"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -71,7 +74,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"d5f2519e7134ebbb505ecd9f6c823768",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101970741,
-    "wof:lastmodified":1564140102,
+    "wof:lastmodified":1566624130,
     "wof:name":"Pedreiras",
     "wof:parent_id":404551711,
     "wof:placetype":"locality",

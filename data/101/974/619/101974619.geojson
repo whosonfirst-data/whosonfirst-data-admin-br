@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.585482,
     "lbl:longitude":-47.921486,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.585482,
     "mps:longitude":-47.921486,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09f1\u09be \u09ad\u09bf\u09b8\u09cd\u099f\u09be"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -118,7 +121,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"79a6262fcc1b168ddf35c2721a870ed3",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101974619,
-    "wof:lastmodified":1564141906,
+    "wof:lastmodified":1566625654,
     "wof:name":"Boa Vista",
     "wof:parent_id":102051815,
     "wof:placetype":"locality",

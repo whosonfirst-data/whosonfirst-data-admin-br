@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-15.062848,
     "lbl:longitude":-57.193495,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-15.062848,
     "mps:longitude":-57.193495,
     "mz:hierarchy_label":1,
@@ -81,9 +83,6 @@
     ],
     "name:spa_x_preferred":[
         "Barra do Bugres"
-    ],
-    "name:unk_x_variant":[
-        "Barra do Rio dos Bugres"
     ],
     "name:vie_x_preferred":[
         "Barra do Bugres"
@@ -210,7 +209,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681955,
@@ -224,7 +223,6 @@
         "fct:id":"0386a95c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3470718,
         "gp:id":456069,
-        "qs:id":1045171,
         "qs_pg:id":1045171,
         "wd:id":"Q1805676",
         "wk:page":"Barra do Bugres"
@@ -245,7 +243,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841193,
+    "wof:lastmodified":1566624983,
     "wof:name":"Barra do Bugres",
     "wof:parent_id":404559107,
     "wof:placetype":"locality",

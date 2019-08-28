@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4108084.829574,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-60.022443,-3.116877,-60.022443,-3.116877",
     "geom:latitude":-3.116877,
     "geom:longitude":-60.022443,
     "gn:latitude":-3.11083,
     "gn:longitude":-60.02111,
     "iso:country":"BR",
+    "lbl:bbox":"-60.027443,-3.121877,-60.017443,-3.111877",
     "lbl:latitude":-3.116877,
     "lbl:longitude":-60.022443,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-3.114205,
     "mps:longitude":-60.023158,
     "mz:hierarchy_label":0,
@@ -47,9 +49,8 @@
     "name:spa_x_preferred":[
         "Z\u00e9lia Gattai"
     ],
-    "name:unk_x_variant":[
-        "Nossa Senhora das Gra\u00e7as",
-        "N. S. das Gra\u00e7as"
+    "name:und_x_variant":[
+        "Nossa Senhora das Gra\u00e7as"
     ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_fcode":"PPLX",
@@ -79,19 +80,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85681885,
         102191577,
         85633009,
         101941913,
-        102050371,
-        85681885
+        102050371
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3754131,
         "gp:id":441759,
-        "qs:id":1114270,
         "qs_pg:id":1114270
     },
     "wof:country":"BR",
@@ -110,7 +110,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859004,
+    "wof:lastmodified":1566620802,
     "wof:name":"N. S. das Gra\u00e7as",
     "wof:parent_id":101941913,
     "wof:placetype":"neighbourhood",

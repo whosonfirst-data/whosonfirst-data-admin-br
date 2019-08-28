@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.596037,
     "lbl:longitude":-37.834273,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.596037,
     "mps:longitude":-37.834273,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09cb\u09b2\u09c7\u09a1\u09be\u09a1\u09c7"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-28.817778,
     "wd:longitude":-52.51,
     "wd:wordcount":104,
@@ -71,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3387262,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"94b69069491add9eb97edd1c2a93f28a",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101986015,
-    "wof:lastmodified":1564142828,
+    "wof:lastmodified":1566626315,
     "wof:name":"Soledade",
     "wof:parent_id":102058531,
     "wof:placetype":"locality",

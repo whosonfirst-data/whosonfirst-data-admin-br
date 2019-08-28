@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.054564,
     "lbl:longitude":-46.979165,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-22.054564,
     "mps:longitude":-46.979165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0986\u0997\u09c1\u09f1\u09be\u0987"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Agua\u00ed"
     ],
-    "name:unk_x_variant":[
-        "Cascavel"
-    ],
     "name:vie_x_preferred":[
         "Agua\u00ed"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.060278,
     "wd:longitude":-46.973611,
@@ -135,7 +135,6 @@
         "fct:id":"0386eeda-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472969,
         "gp:id":456627,
-        "qs:id":1106487,
         "qs_pg:id":1106487,
         "wd:id":"Q1760037",
         "wk:page":"Agua\u00ed"
@@ -155,7 +154,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841051,
+    "wof:lastmodified":1566623437,
     "wof:name":"Agua\u00ed",
     "wof:parent_id":102060993,
     "wof:placetype":"locality",

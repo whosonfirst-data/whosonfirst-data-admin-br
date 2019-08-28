@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.892367,
     "lbl:longitude":-50.066428,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-23.892367,
     "mps:longitude":-50.066428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "qs:a0":"Brasil",
     "qs:a1":"*PR",
     "qs:a1_lc":"41",
@@ -31,7 +34,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.570833,
     "wd:longitude":-44.902222,
@@ -47,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3458685,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"3c0bbbf699af7d3e8d222ceb1aa6b05d",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101957761,
-    "wof:lastmodified":1527688620,
+    "wof:lastmodified":1566624828,
     "wof:name":"Lavrinha",
     "wof:parent_id":404561633,
     "wof:placetype":"locality",

@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.954772,
     "lbl:longitude":-46.834771,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.954772,
     "mps:longitude":-46.834771,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Term\u00f3polis"
     ],
@@ -33,7 +37,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -44,7 +48,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3446604,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"b8879bb08c382fe75386cba5f33b963b",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101965561,
-    "wof:lastmodified":1501266499,
+    "wof:lastmodified":1566623422,
     "wof:name":"Term\u00f3polis",
     "wof:parent_id":404558421,
     "wof:placetype":"locality",

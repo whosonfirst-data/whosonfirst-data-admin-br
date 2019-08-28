@@ -9,14 +9,17 @@
     "geom:bbox":"-48.0235558279,-23.0442214794,-47.9950028279,-22.9932898294",
     "geom:latitude":-23.021269,
     "geom:longitude":-48.011633,
-    "geonames:id":"3465728,3465729",
+    "gn:id":"3465728,3465729",
     "iso:country":"BR",
     "lbl:latitude":-23.018364,
     "lbl:longitude":-48.009038,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-23.018364,
     "mps:longitude":-48.009038,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a8\u099a\u09be\u09b8"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-23.015278,
     "wd:longitude":-48.010556,
@@ -120,9 +123,11 @@
     "wof:concordances":{
         "gn:id":3465729,
         "gp:id":456148,
-        "qs:id":3,
-        "qs_pg:id":469807,
+        "qs_pg:id":3,
         "wd:id":"Q1760352"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":469807
     },
     "wof:country":"BR",
     "wof:geomhash":"31ba6857a95646e6eaad38225055121b",
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":101964823,
-    "wof:lastmodified":1563242309,
+    "wof:lastmodified":1566623716,
     "wof:name":"Conchas",
     "wof:parent_id":404566341,
     "wof:placetype":"locality",

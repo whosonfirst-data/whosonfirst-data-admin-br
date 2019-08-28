@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.735882,
     "lbl:longitude":-51.535637,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.735882,
     "mps:longitude":-51.535637,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u09cd\u09b0\u09cb \u0986\u099c\u09c1\u09b2"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -91,7 +94,7 @@
     "wof:concordances":{
         "gn:id":6316850,
         "gp:id":456775,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"680200d730284c5b7a55541619a2b749",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101960383,
-    "wof:lastmodified":1564141483,
+    "wof:lastmodified":1566625294,
     "wof:name":"Cerro Azul",
     "wof:parent_id":404564639,
     "wof:placetype":"locality",

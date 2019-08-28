@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000053,
+    "geom:area_square_m":599490.518641,
     "geom:bbox":"-53.2078374433,-23.4163715348,-53.1971473466,-23.4079464252",
     "geom:latitude":-23.412069,
     "geom:longitude":-53.202214,
     "iso:country":"BR",
     "lbl:latitude":-23.411955,
     "lbl:longitude":-53.202213,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.411955,
     "mps:longitude":-53.202213,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*PR",
     "qs:a1_lc":"41",
@@ -31,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -41,7 +46,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":448364,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1054958
     },
     "wof:country":"BR",
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":101988429,
-    "wof:lastmodified":1497302191,
+    "wof:lastmodified":1566626048,
     "wof:name":"Santa Felicidade",
     "wof:parent_id":102058239,
     "wof:placetype":"locality",

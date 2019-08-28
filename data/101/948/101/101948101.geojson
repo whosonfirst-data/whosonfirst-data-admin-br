@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.923421,
     "lbl:longitude":-36.474319,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-9.923421,
     "mps:longitude":-36.474319,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u099c\u09c1\u09a8\u0995\u09c1\u09af\u09bc\u09c7\u0987\u09b0\u09cb"
     ],
@@ -110,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -123,7 +126,6 @@
         "fct:id":"0387c166-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3397063,
         "gp:id":459851,
-        "qs:id":210805,
         "qs_pg:id":210805,
         "wd:id":"Q1808328"
     },
@@ -142,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242823,
+    "wof:lastmodified":1566623908,
     "wof:name":"Junqueiro",
     "wof:parent_id":102050155,
     "wof:placetype":"locality",

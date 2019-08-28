@@ -36,6 +36,7 @@
     ],
     "lbl:latitude":-7.145337,
     "lbl:longitude":-36.005747,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-7.145337,
     "mps:longitude":-36.005747,
     "mz:hierarchy_label":1,
@@ -316,7 +317,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u0430\u0457\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Parahyba do Norte"
     ],
     "name:urd_x_preferred":[
@@ -414,9 +415,9 @@
     "qs:type":"Estado",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-08-01",
+    "src:population_date":"2010-08-01",
     "statoids:area_km":"56,470",
     "statoids:area_mi":"21,803",
     "statoids:as_of_date":"2010-08-01",
@@ -460,11 +461,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565660992,
+    "wof:lastmodified":1566620862,
     "wof:name":"Paraiba",
     "wof:parent_id":85633009,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":3766528,
     "wof:population_rank":12,

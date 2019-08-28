@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.666238,
     "lbl:longitude":-37.790472,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-9.666238,
     "mps:longitude":-37.790472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a8\u09bf\u09a8\u09a1\u09c7 \u09a1\u09c7 \u09b8\u09be\u0993 \u09ab\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09bf\u09b8\u0995\u09cb"
     ],
@@ -75,9 +78,6 @@
     "name:slk_x_preferred":[
         "Canind\u00e9 de S\u00e3o Francisco"
     ],
-    "name:unk_x_variant":[
-        "Curituba"
-    ],
     "name:vie_x_preferred":[
         "Canind\u00e9 de S\u00e3o Francisco"
     ],
@@ -107,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":88,
     "wof:belongsto":[
@@ -121,7 +121,6 @@
         "fct:id":"03870df2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3403344,
         "gp:id":456959,
-        "qs:id":233643,
         "qs_pg:id":233643,
         "wd:id":"Q1807399",
         "wk:page":"Canind\u00e9 de S\u00e3o Francisco"
@@ -141,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841137,
+    "wof:lastmodified":1566624384,
     "wof:name":"Canind\u00e9 de S\u00e3o Francisco",
     "wof:parent_id":102060841,
     "wof:placetype":"locality",

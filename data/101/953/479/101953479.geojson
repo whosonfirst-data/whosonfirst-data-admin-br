@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.104003,
     "lbl:longitude":-42.842057,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.104003,
     "mps:longitude":-42.842057,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09ae-\u09aa\u09c7\u0987\u0995\u09cd\u09b8\u09c7"
     ],
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Sem-Peixe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Sebasti\u00e3o do Sem Peixe"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -122,7 +125,7 @@
         "fct:id":"0381f394-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3447861,
         "gp:id":451682,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1789146"
     },
     "wof:country":"BR",
@@ -141,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241577,
+    "wof:lastmodified":1566623356,
     "wof:name":"Sem-Peixe",
     "wof:parent_id":404558453,
     "wof:placetype":"locality",

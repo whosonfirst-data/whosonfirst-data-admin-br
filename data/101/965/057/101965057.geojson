@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.784207,
     "lbl:longitude":-47.303424,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-22.784207,
     "mps:longitude":-47.303424,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u0993\u09a1\u09c7\u09b8\u09cd\u09b8\u09be"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":570.0,
     "wd:latitude":-22.777778,
@@ -131,7 +134,6 @@
         "fct:id":"03861e56-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456138,
         "gp:id":441613,
-        "qs:id":1191221,
         "qs_pg:id":1191221,
         "wd:id":"Q1648345",
         "wk:page":"Nova Odessa"
@@ -152,7 +154,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241806,
+    "wof:lastmodified":1566623470,
     "wof:name":"Nova Odessa",
     "wof:parent_id":404566879,
     "wof:placetype":"locality",

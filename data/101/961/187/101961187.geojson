@@ -9,16 +9,19 @@
     "geom:bbox":"-56.5040370532,-15.2433023066,-56.4808653431,-15.2245919252",
     "geom:latitude":-15.234266,
     "geom:longitude":-56.492736,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-15.234677,
     "lbl:longitude":-56.492956,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.234677,
     "mps:longitude":-56.492956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u0999\u09cd\u0997\u09be\u09a1\u09be"
     ],
@@ -69,9 +72,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0416\u0430\u043d\u0433\u0430\u0434\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Travessia"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0627\u0646\u06af\u062f\u0627\u060c \u0645\u0627\u0679\u0648 \u06af\u0631\u0648\u0633\u0633\u0648"
@@ -124,7 +124,7 @@
     "qs_pg:woe_id":457400,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":33,
     "wof:belongsto":[
         102191577,
@@ -137,7 +137,6 @@
         "fct:id":"0388c0c0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460165,
         "gp:id":457400,
-        "qs:id":819801,
         "qs_pg:id":819801,
         "wd:id":"Q678587",
         "wk:page":"Jangada, Mato Grosso"
@@ -157,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245073,
+    "wof:lastmodified":1566624955,
     "wof:name":"Jangada",
     "wof:parent_id":102055469,
     "wof:placetype":"locality",

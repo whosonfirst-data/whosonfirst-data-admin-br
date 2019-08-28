@@ -13,8 +13,10 @@
     "gn:latitude":-21.31778,
     "gn:longitude":-51.83056,
     "iso:country":"BR",
+    "lbl:bbox":"-46.580361,-23.667013,-46.570361,-23.657013",
     "lbl:latitude":-23.662013,
     "lbl:longitude":-46.575361,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-23.662013,
     "mps:longitude":-46.575361,
     "mz:hierarchy_label":0,
@@ -77,9 +79,6 @@
     "name:swe_x_preferred":[
         "Paulic\u00e9ia"
     ],
-    "name:unk_x_variant":[
-        "Paulic\u00e9ia"
-    ],
     "name:vie_x_preferred":[
         "Paulic\u00e9ia"
     ],
@@ -120,7 +119,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         404567211,
@@ -134,9 +133,11 @@
         "fct:id":"0396e8a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3454692,
         "gp:id":56066609,
-        "qs:id":1059988,
         "qs_pg:id":242245,
         "wk:page":"Pauliceia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1059988
     },
     "wof:country":"BR",
     "wof:geomhash":"4ff37e73ccbc1b49e20e3bad87e1325c",
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":85767133,
-    "wof:lastmodified":1564134721,
+    "wof:lastmodified":1566620780,
     "wof:name":"Paulic\u00e9ia",
     "wof:parent_id":101956183,
     "wof:placetype":"neighbourhood",

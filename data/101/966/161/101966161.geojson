@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.866426,
     "lbl:longitude":-43.771332,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.866426,
     "mps:longitude":-43.771332,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u09ae\u09aa\u09c7\u0989"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":627,
     "wof:belongsto":[
         85681941,
@@ -118,7 +121,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":457979,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1789633"
     },
     "wof:country":"BR",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101966161,
-    "wof:lastmodified":1563245193,
+    "wof:lastmodified":1566625003,
     "wof:name":"Pomp\u00e9u",
     "wof:parent_id":404557995,
     "wof:placetype":"locality",

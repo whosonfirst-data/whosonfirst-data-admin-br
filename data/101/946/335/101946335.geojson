@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.808203,
     "lbl:longitude":-36.703492,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.808203,
     "mps:longitude":-36.703492,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u099f\u09c7\u09b0\u09c7\u09b8\u09be"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681999,
         102191577,
@@ -99,7 +102,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3389242,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"222d42c8479035c429c53e8eb881b627",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101946335,
-    "wof:lastmodified":1564140291,
+    "wof:lastmodified":1566624256,
     "wof:name":"Santa Teresa",
     "wof:parent_id":404562711,
     "wof:placetype":"locality",

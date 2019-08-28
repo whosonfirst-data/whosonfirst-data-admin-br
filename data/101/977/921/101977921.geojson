@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.977627,
     "lbl:longitude":-49.084667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.977627,
     "mps:longitude":-49.084667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09c7\u09b0\u09cd\u09a1\u09c7\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":413,
     "wof:belongsto":[
         102191577,
@@ -105,7 +108,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":90210385,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"1c82a1e762cba8978d265cc77de358f0",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101977921,
-    "wof:lastmodified":1564139841,
+    "wof:lastmodified":1566623987,
     "wof:name":"Verdel\u00e2ndia",
     "wof:parent_id":102052623,
     "wof:placetype":"locality",

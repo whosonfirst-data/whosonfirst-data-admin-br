@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.024347,
     "lbl:longitude":-43.000548,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.024347,
     "mps:longitude":-43.000548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Varas"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":68,
     "wof:belongsto":[
         102191577,
@@ -54,7 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":460045,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"ec90064488587bd344b502125e16cb14",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101975837,
-    "wof:lastmodified":1564142696,
+    "wof:lastmodified":1566626239,
     "wof:name":"Varas",
     "wof:parent_id":102052821,
     "wof:placetype":"locality",

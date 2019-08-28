@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-1.304585,
     "lbl:longitude":-48.15937,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-1.304585,
     "mps:longitude":-48.15937,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u0987\u09b8\u09be\u09ac\u09c7\u09b2 \u09a1\u09cb \u09aa\u09be\u09b0\u09be"
     ],
@@ -93,9 +96,6 @@
     "name:swe_x_preferred":[
         "Santa Isabel do Par\u00e1"
     ],
-    "name:unk_x_variant":[
-        "Jo\u00e3o-Coelho"
-    ],
     "name:vie_x_preferred":[
         "Santa Isabel do Par\u00e1"
     ],
@@ -125,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         85681959,
@@ -139,10 +139,12 @@
         "fct:id":"0388b562-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3389597,
         "gp:id":448425,
-        "qs:id":3,
-        "qs_pg:id":260073,
+        "qs_pg:id":3,
         "wd:id":"Q2008554",
         "wk:page":"Santa Isabel do Par\u00e1"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":260073
     },
     "wof:country":"BR",
     "wof:geomhash":"6ca2e8995d3c958c731826c78cbe04a6",
@@ -160,7 +162,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841284,
+    "wof:lastmodified":1566625866,
     "wof:name":"Santa Isabel do Par\u00e1",
     "wof:parent_id":404559739,
     "wof:placetype":"locality",

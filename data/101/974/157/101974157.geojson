@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.955561,
     "lbl:longitude":-36.077497,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.955561,
     "mps:longitude":-36.077497,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09be\u0997\u09cb\u0987\u09a8\u09b9\u09be"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -88,7 +91,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"bdf19e3df5a011c4f93c4180cd5db405",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101974157,
-    "wof:lastmodified":1564141894,
+    "wof:lastmodified":1566625645,
     "wof:name":"Alagoinha",
     "wof:parent_id":102050149,
     "wof:placetype":"locality",

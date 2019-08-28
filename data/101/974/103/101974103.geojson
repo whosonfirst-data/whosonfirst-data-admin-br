@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.51801,
     "lbl:longitude":-36.376623,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.51801,
     "mps:longitude":-36.376623,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u099f\u09be \u09ad\u09c7\u09b0\u09cd\u09a1\u09c7"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -104,7 +107,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3395133,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"979555096a8517697b674df3ba79a643",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101974103,
-    "wof:lastmodified":1564141893,
+    "wof:lastmodified":1566625644,
     "wof:name":"Mata Verde",
     "wof:parent_id":102050173,
     "wof:placetype":"locality",

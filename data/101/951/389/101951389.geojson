@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-18.239915,
     "lbl:longitude":-43.602135,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-18.239915,
     "mps:longitude":-43.602135,
     "mz:hierarchy_label":1,
@@ -162,9 +164,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0456\u0430\u043c\u0430\u043d\u0442\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Tejuco"
-    ],
     "name:vie_x_preferred":[
         "Diamantina"
     ],
@@ -292,7 +291,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -306,7 +305,6 @@
         "fct:id":"03871f90-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3464728,
         "gp:id":457121,
-        "qs:id":274351,
         "qs_pg:id":274351,
         "wd:id":"Q34028"
     },
@@ -326,7 +324,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246353,
+    "wof:lastmodified":1566625530,
     "wof:name":"Diamantina",
     "wof:parent_id":404556177,
     "wof:placetype":"locality",

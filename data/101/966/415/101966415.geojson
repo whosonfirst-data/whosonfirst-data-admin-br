@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.51666,
     "lbl:longitude":-41.932636,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-22.51666,
     "mps:longitude":-41.932636,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0648 \u062f\u0627\u0633 \u0623\u0648\u0633\u062a\u0631\u0627\u0633"
     ],
@@ -179,7 +182,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -192,7 +195,6 @@
         "fct:id":"03864958-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451205,
         "gp:id":447256,
-        "qs:id":239738,
         "qs_pg:id":239738,
         "wd:id":"Q1787668",
         "wk:page":"Rio das Ostras"
@@ -212,7 +214,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245213,
+    "wof:lastmodified":1566625015,
     "wof:name":"Rio das Ostras",
     "wof:parent_id":102058453,
     "wof:placetype":"locality",

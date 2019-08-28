@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.426849,
     "lbl:longitude":-61.949298,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.426849,
     "mps:longitude":-61.949298,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b8\u09cd\u099f\u09be\u09a8\u09b9\u09c7\u0987\u09b0\u09be\u09b8"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -118,7 +121,7 @@
         "fct:id":"0388d808-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316825,
         "gp:id":26803851,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1785860",
         "wk:page":"Castanheiras"
     },
@@ -137,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841127,
+    "wof:lastmodified":1566624288,
     "wof:name":"Castanheiras",
     "wof:parent_id":102058959,
     "wof:placetype":"locality",

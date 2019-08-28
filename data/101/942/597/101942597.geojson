@@ -9,14 +9,17 @@
     "geom:bbox":"-48.1392560952,-5.67170201149,-48.1018444025,-5.62970436415",
     "geom:latitude":-5.646436,
     "geom:longitude":-48.118279,
-    "geonames:id":"3407353,6316422",
+    "gn:id":"3407353,6316422",
     "iso:country":"BR",
     "lbl:latitude":-5.64553,
     "lbl:longitude":-48.117922,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.64553,
     "mps:longitude":-48.117922,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u0997\u09c1\u09f1\u09be\u099f\u09bf\u09a8\u09cd\u09b8"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Araguatins"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Vicente"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682053,
         102191577,
@@ -121,9 +124,11 @@
     "wof:concordances":{
         "gn:id":6316422,
         "gp:id":456698,
-        "qs:id":3,
-        "qs_pg:id":1224175,
+        "qs_pg:id":3,
         "wd:id":"Q1783966"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1224175
     },
     "wof:country":"BR",
     "wof:geomhash":"197d115b190c2b3bac128cb87b2cc97b",
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":101942597,
-    "wof:lastmodified":1563246929,
+    "wof:lastmodified":1566625852,
     "wof:name":"Araguatins",
     "wof:parent_id":404567633,
     "wof:placetype":"locality",

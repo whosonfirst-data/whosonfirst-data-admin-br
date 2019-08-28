@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.485422,
     "lbl:longitude":-37.090826,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.485422,
     "mps:longitude":-37.090826,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Pedras"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":56,
     "wof:belongsto":[
         85682037,
@@ -74,9 +77,11 @@
         "fct:id":"03815ed4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3454394,
         "gp:id":443584,
-        "qs:id":9,
-        "qs_pg:id":367361,
+        "qs_pg:id":9,
         "wd:id":"Q10514562"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":367361
     },
     "wof:country":"BR",
     "wof:geomhash":"53c826ac7430b013d8807714c451d267",
@@ -94,7 +99,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243934,
+    "wof:lastmodified":1566624417,
     "wof:name":"Pedras",
     "wof:parent_id":404566019,
     "wof:placetype":"locality",

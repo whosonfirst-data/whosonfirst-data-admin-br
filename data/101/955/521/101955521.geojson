@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.692789,
     "lbl:longitude":-49.428992,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-22.692789,
     "mps:longitude":-49.428992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u098f\u09b8\u09aa\u09bf\u09b0\u09bf\u099f\u09cb \u09b8\u09be\u09a8\u09cd\u099f\u09cb \u09a1\u09cb \u099f\u09c1\u09b0\u09cd\u09ad\u09cb"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Esp\u00edrito Santo do Turvo"
     ],
-    "name:unk_x_variant":[
-        "Rio Turvo"
-    ],
     "name:vie_x_preferred":[
         "Esp\u00edrito Santo do Turvo"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.692222,
     "wd:longitude":-49.430278,
@@ -135,7 +135,6 @@
         "fct:id":"03888c86-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3463921,
         "gp:id":457161,
-        "qs:id":1156303,
         "qs_pg:id":1156303,
         "wd:id":"Q1760344",
         "wk:page":"Esp\u00edrito Santo do Turvo"
@@ -155,7 +154,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841095,
+    "wof:lastmodified":1566623838,
     "wof:name":"Esp\u00edrito Santo do Turvo",
     "wof:parent_id":102061379,
     "wof:placetype":"locality",

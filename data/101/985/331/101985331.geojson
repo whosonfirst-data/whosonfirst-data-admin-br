@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.091414,
     "lbl:longitude":-41.344258,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.091414,
     "mps:longitude":-41.344258,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0412\u0430\u043b\u043f\u0430\u0440\u0430\u0438\u0441\u043e"
     ],
@@ -694,7 +697,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -704,7 +707,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26803955,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"689e0df0e0f878415b7d43b719199fa6",
@@ -718,7 +721,7 @@
         }
     ],
     "wof:id":101985331,
-    "wof:lastmodified":1564140606,
+    "wof:lastmodified":1566624483,
     "wof:name":"Valpara\u00edso",
     "wof:parent_id":102057261,
     "wof:placetype":"locality",

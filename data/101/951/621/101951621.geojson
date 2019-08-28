@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.080055,
     "lbl:longitude":-43.250066,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.080055,
     "mps:longitude":-43.250066,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09c7\u09b2\u0987\u09b8\u09bf\u0993 \u09a1\u09cb\u09b8 \u09b8\u09be\u09a8\u09cd\u099f\u09cb\u09b8"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":380,
     "wof:belongsto":[
         85681941,
@@ -123,7 +126,7 @@
         "fct:id":"0385cb18-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3463457,
         "gp:id":433541,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1790814",
         "wk:page":"Fel\u00edcio dos Santos"
     },
@@ -143,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841257,
+    "wof:lastmodified":1566625485,
     "wof:name":"Fel\u00edcio dos Santos",
     "wof:parent_id":404556357,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.496865,
     "lbl:longitude":-47.1052,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.496865,
     "mps:longitude":-47.1052,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bezerra"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":38,
     "wof:belongsto":[
         85681925,
@@ -52,7 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456190,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"2bb0d3b98ab41ee211c74dc22c4f6e71",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101962797,
-    "wof:lastmodified":1564139295,
+    "wof:lastmodified":1566623490,
     "wof:name":"Bezerra",
     "wof:parent_id":404554769,
     "wof:placetype":"locality",

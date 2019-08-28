@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.717283,
     "lbl:longitude":-49.486558,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.717283,
     "mps:longitude":-49.486558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u0989\u099f\u09cb\u09b0\u09cd \u09aa\u09c7\u09a1\u09cd\u09b0\u09bf\u09a8\u09b9\u09cb"
     ],
@@ -79,9 +82,6 @@
     "name:swe_x_preferred":[
         "Doutor Pedrinho"
     ],
-    "name:unk_x_variant":[
-        "Rio Forca\u00e7\u00e3o"
-    ],
     "name:vie_x_preferred":[
         "Doutor Pedrinho"
     ],
@@ -112,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -125,7 +125,7 @@
         "fct:id":"0387b23e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3464432,
         "gp:id":459362,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1784602",
         "wk:page":"Doutor Pedrinho"
     },
@@ -145,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841183,
+    "wof:lastmodified":1566624920,
     "wof:name":"Doutor Pedrinho",
     "wof:parent_id":404565379,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.288239,
     "lbl:longitude":-52.275632,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.288239,
     "mps:longitude":-52.275632,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09c1\u0987\u099c\u09bf\u09af\u09bc\u09be\u09a8\u09be"
     ],
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "Luiziana"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Luisana"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -127,7 +130,7 @@
         "fct:id":"03885f36-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3458355,
         "gp:id":26804123,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1804169",
         "wk:page":"Luiziana"
     },
@@ -146,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841171,
+    "wof:lastmodified":1566624837,
     "wof:name":"Luiziana",
     "wof:parent_id":102057837,
     "wof:placetype":"locality",

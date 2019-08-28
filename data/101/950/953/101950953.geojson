@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.121538,
     "lbl:longitude":-45.124905,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.121538,
     "mps:longitude":-45.124905,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09cd\u09ae\u09cb \u09a1\u09c7 \u09ae\u09bf\u09a8\u09be\u09b8"
     ],
@@ -92,9 +95,6 @@
     "name:swe_x_preferred":[
         "Carmo de Minas"
     ],
-    "name:unk_x_variant":[
-        "Sylvestre Ferraz"
-    ],
     "name:vie_x_preferred":[
         "Carmo de Minas"
     ],
@@ -127,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -140,7 +140,6 @@
         "fct:id":"038710ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3466904,
         "gp:id":456993,
-        "qs:id":1072492,
         "qs_pg:id":1072492,
         "wd:id":"Q1756231",
         "wk:page":"Carmo de Minas"
@@ -161,7 +160,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841153,
+    "wof:lastmodified":1566624722,
     "wof:name":"Carmo de Minas",
     "wof:parent_id":404555785,
     "wof:placetype":"locality",

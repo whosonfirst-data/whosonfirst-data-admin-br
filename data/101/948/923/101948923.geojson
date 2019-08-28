@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-13.388258,
     "lbl:longitude":-44.209962,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-13.388258,
     "mps:longitude":-44.209962,
     "mz:hierarchy_label":1,
@@ -98,9 +100,6 @@
     ],
     "name:spa_x_preferred":[
         "Santa Maria da Vit\u00f3ria"
-    ],
-    "name:unk_x_variant":[
-        "Santa Maria"
     ],
     "name:vie_x_preferred":[
         "Santa Maria da Vit\u00f3ria"
@@ -223,7 +222,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":226,
     "wof:belongsto":[
@@ -238,7 +237,6 @@
         "fct:id":"03883402-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3450063,
         "gp:id":456501,
-        "qs:id":274322,
         "qs_pg:id":274322,
         "wd:id":"Q1761852",
         "wk:page":"Santa Maria da Vit\u00f3ria"
@@ -259,7 +257,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841105,
+    "wof:lastmodified":1566623898,
     "wof:name":"Santa Maria da Vit\u00f3ria",
     "wof:parent_id":404551895,
     "wof:placetype":"locality",

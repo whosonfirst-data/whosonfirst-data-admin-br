@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.005452,
     "lbl:longitude":-44.041374,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.005452,
     "mps:longitude":-44.041374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be\u09a8\u09be \u09a1\u09c7 \u09aa\u09bf\u09b0\u09be\u09aa\u09be\u09ae\u09be"
     ],
@@ -93,9 +96,6 @@
     "name:swe_x_preferred":[
         "Santana de Pirapama"
     ],
-    "name:unk_x_variant":[
-        "Trahyras"
-    ],
     "name:vie_x_preferred":[
         "Santana de Pirapama"
     ],
@@ -126,7 +126,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -139,7 +139,7 @@
         "fct:id":"03877c10-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3449945,
         "gp:id":458013,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1789173",
         "wk:page":"Santana de Pirapama"
     },
@@ -159,7 +159,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841045,
+    "wof:lastmodified":1566623396,
     "wof:name":"Santana de Pirapama",
     "wof:parent_id":404558097,
     "wof:placetype":"locality",

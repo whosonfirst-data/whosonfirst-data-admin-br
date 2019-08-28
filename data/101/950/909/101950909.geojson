@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.974501,
     "lbl:longitude":-45.347058,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-21.974501,
     "mps:longitude":-45.347058,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u09ae\u09ac\u09be\u09b0\u09bf"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Lambari"
     ],
-    "name:unk_x_variant":[
-        "Lambary"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0645\u0628\u0627\u0631\u06cc\u060c \u0645\u06cc\u0646\u0627\u0633 \u06af\u06cc\u0631\u0627\u06cc\u0633"
     ],
@@ -121,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -135,7 +135,6 @@
         "fct:id":"0386c5b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3458881,
         "gp:id":456297,
-        "qs:id":1324025,
         "qs_pg:id":1324025,
         "wd:id":"Q1780214"
     },
@@ -155,7 +154,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244512,
+    "wof:lastmodified":1566624720,
     "wof:name":"Lambari",
     "wof:parent_id":404557007,
     "wof:placetype":"locality",

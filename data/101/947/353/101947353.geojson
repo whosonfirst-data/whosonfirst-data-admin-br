@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.962695,
     "lbl:longitude":-39.288849,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-14.962695,
     "mps:longitude":-39.288849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c1\u09af\u09bc\u09c7\u09b0\u09be\u09b0\u09c7\u09ae\u09be"
     ],
@@ -81,9 +84,6 @@
     "name:spa_x_preferred":[
         "Buerarema"
     ],
-    "name:unk_x_variant":[
-        "Macuco"
-    ],
     "name:vie_x_preferred":[
         "Buerarema"
     ],
@@ -113,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -127,7 +127,6 @@
         "fct:id":"0387a488-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3468858,
         "gp:id":458848,
-        "qs:id":247203,
         "qs_pg:id":247203,
         "wd:id":"Q1761955"
     },
@@ -147,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841134,
+    "wof:lastmodified":1566624369,
     "wof:name":"Buerarema",
     "wof:parent_id":404550601,
     "wof:placetype":"locality",

@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-6.565069,
     "lbl:longitude":-39.090983,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-6.565069,
     "mps:longitude":-39.090983,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Cedro"
     ],
@@ -100,7 +103,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":160,
     "wof:belongsto":[
         102191577,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":102051501,
-    "wof:lastmodified":1563236108,
+    "wof:lastmodified":1566619912,
     "wof:name":"Cedro",
     "wof:parent_id":85681907,
     "wof:placetype":"county",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.042918,
     "lbl:longitude":-45.195162,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-11.042918,
     "mps:longitude":-45.195162,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09cb\u09b0\u09cd\u09ae\u09cb\u09b8\u09be \u09a1\u09cb \u09b0\u09bf\u0993 \u09aa\u09cd\u09b0\u09c7\u099f\u09cb"
     ],
@@ -91,9 +94,6 @@
     "name:spa_x_preferred":[
         "Formosa do Rio Preto"
     ],
-    "name:unk_x_variant":[
-        "Itaju\u00ed"
-    ],
     "name:vie_x_preferred":[
         "Formosa do Rio Preto"
     ],
@@ -126,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -140,7 +140,6 @@
         "fct:id":"0388d132-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3463124,
         "gp:id":456191,
-        "qs:id":1060050,
         "qs_pg:id":1060050,
         "wd:id":"Q1762128",
         "wk:page":"Formosa do Rio Preto"
@@ -161,7 +160,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841106,
+    "wof:lastmodified":1566623900,
     "wof:name":"Formosa do Rio Preto",
     "wof:parent_id":404550971,
     "wof:placetype":"locality",

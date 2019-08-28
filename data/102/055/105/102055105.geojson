@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-17.280389,
     "lbl:longitude":-40.669205,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-17.280389,
     "mps:longitude":-40.669205,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0989\u09ae\u09ac\u09c1\u09b0\u09be\u099f\u09bf\u09ac\u09be"
     ],
@@ -109,7 +112,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":407,
     "wof:belongsto":[
         102191577,
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":102055105,
-    "wof:lastmodified":1563235047,
+    "wof:lastmodified":1566619215,
     "wof:name":"Umburatiba",
     "wof:parent_id":85681941,
     "wof:placetype":"county",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.91166,
     "lbl:longitude":-49.250405,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-26.91166,
     "mps:longitude":-49.250405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0987\u09a8\u09cd\u09a1\u09be\u0987\u0986\u09b2"
     ],
@@ -71,9 +74,6 @@
     "name:rus_x_preferred":[
         "\u0418\u043d\u0434\u0430\u044f\u043b"
     ],
-    "name:unk_x_variant":[
-        "Indaval"
-    ],
     "name:vie_x_preferred":[
         "Indaial"
     ],
@@ -106,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682021,
@@ -120,7 +120,6 @@
         "fct:id":"038a1100-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461316,
         "gp:id":456235,
-        "qs:id":148222,
         "qs_pg:id":148222,
         "wd:id":"Q1784570",
         "wk:page":"Indaial"
@@ -141,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841217,
+    "wof:lastmodified":1566625210,
     "wof:name":"Indaial",
     "wof:parent_id":404565493,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.414166,
     "lbl:longitude":-35.280426,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.414166,
     "mps:longitude":-35.280426,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c1\u0987\u099f\u09c7"
     ],
@@ -85,7 +88,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":159,
     "wof:belongsto":[
         102191577,
@@ -96,7 +99,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3401420,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2064364"
     },
     "wof:country":"BR",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101987705,
-    "wof:lastmodified":1563246416,
+    "wof:lastmodified":1566625563,
     "wof:name":"Cuit\u00e9",
     "wof:parent_id":102058751,
     "wof:placetype":"locality",

@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-21.523189,
     "lbl:longitude":-42.436241,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-21.523189,
     "mps:longitude":-42.436241,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09c7\u0995\u09cd\u09b0\u09c7\u0987\u0993"
     ],
@@ -118,7 +121,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":149,
     "wof:belongsto":[
         102191577,
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":102054667,
-    "wof:lastmodified":1563234583,
+    "wof:lastmodified":1566618836,
     "wof:name":"Recreio",
     "wof:parent_id":85681941,
     "wof:placetype":"county",

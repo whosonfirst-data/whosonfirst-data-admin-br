@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.115406,
     "lbl:longitude":-44.171108,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-21.115406,
     "mps:longitude":-44.171108,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u099f\u09bf\u09b0\u09be\u09a1\u09c7\u09a8\u099f\u09c7\u09b8"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -129,7 +132,6 @@
         "fct:id":"0386e872-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3446420,
         "gp:id":456568,
-        "qs:id":218207,
         "qs_pg:id":218207,
         "wd:id":"Q1003423"
     },
@@ -149,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242440,
+    "wof:lastmodified":1566623776,
     "wof:name":"Tiradentes",
     "wof:parent_id":404558593,
     "wof:placetype":"locality",

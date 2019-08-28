@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-17.788412,
     "lbl:longitude":-40.493191,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-17.788412,
     "mps:longitude":-40.493191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u0987\u09b0\u09bf\u09a8\u0995\u09c1\u09af\u09bc\u09c7"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":850.0,
     "wd:latitude":-23.546389,
@@ -105,7 +108,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3458133,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"ef262814b6f8f0b80d9ab1ade18ac34d",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101981315,
-    "wof:lastmodified":1564142551,
+    "wof:lastmodified":1566626164,
     "wof:name":"Mairinque",
     "wof:parent_id":404555771,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000069,
-    "geom:area_square_m":753601.474947,
+    "geom:area_square_m":753601.474945,
     "geom:bbox":"-51.3681041015,-28.6825478913,-51.3551487309,-28.6729763459",
     "geom:latitude":-28.677672,
     "geom:longitude":-51.361542,
     "iso:country":"BR",
     "lbl:latitude":-28.677687,
     "lbl:longitude":-51.361542,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.677687,
     "mps:longitude":-51.361542,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*RS",
     "qs:a1_lc":"43",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -44,7 +48,9 @@
     "wof:concordances":{
         "gn:id":3448436,
         "gp:id":450975,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1042899
     },
     "wof:country":"BR",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":101960431,
-    "wof:lastmodified":1497302036,
+    "wof:lastmodified":1566625289,
     "wof:name":"Vila S\u00e3o Paulo",
     "wof:parent_id":404563775,
     "wof:placetype":"locality",

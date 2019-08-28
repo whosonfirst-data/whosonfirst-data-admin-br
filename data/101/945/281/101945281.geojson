@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.187434,
     "lbl:longitude":-39.73727,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.187434,
     "mps:longitude":-39.73727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be\u09a8\u09be \u09a1\u09cb \u0995\u09be\u09b0\u09bf\u09b0\u09bf"
     ],
@@ -79,9 +82,6 @@
     "name:swe_x_preferred":[
         "Santana do Cariri"
     ],
-    "name:unk_x_variant":[
-        "Sant'Anna do Cariry"
-    ],
     "name:vie_x_preferred":[
         "Santana do Cariri"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -127,7 +127,6 @@
         "fct:id":"0388cf16-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3389386,
         "gp:id":460979,
-        "qs:id":829485,
         "qs_pg:id":829485,
         "wd:id":"Q2068856",
         "wk:page":"Santana do Cariri"
@@ -148,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841289,
+    "wof:lastmodified":1566625898,
     "wof:name":"Santana do Cariri",
     "wof:parent_id":404553819,
     "wof:placetype":"locality",

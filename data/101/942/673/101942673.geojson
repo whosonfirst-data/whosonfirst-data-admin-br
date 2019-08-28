@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.971532,
     "lbl:longitude":-48.159334,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.971532,
     "mps:longitude":-48.159334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09ae \u099c\u09c7\u09b8\u0989\u09b8 \u09a1\u09cb \u099f\u09cb\u0995\u09be\u09a8\u099f\u09bf\u09a8\u09b8"
     ],
@@ -64,9 +67,6 @@
     "name:spa_x_preferred":[
         "Bom Jesus do Tocantins"
     ],
-    "name:unk_x_variant":[
-        "Bom Jesus"
-    ],
     "name:vol_x_preferred":[
         "Bom Jesus do Tocantins"
     ],
@@ -92,7 +92,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -122,7 +122,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841276,
+    "wof:lastmodified":1566625826,
     "wof:name":"Bom Jesus do Tocantins",
     "wof:parent_id":102062497,
     "wof:placetype":"locality",

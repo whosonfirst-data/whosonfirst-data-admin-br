@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.960761,
     "lbl:longitude":-53.29445,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.960761,
     "mps:longitude":-53.29445,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u0995\u09cd\u09b0\u09c1\u099c \u09a1\u09c7 \u09ae\u09cb\u09a8\u09cd\u099f\u09c7 \u0995\u09be\u09b8\u099f\u09c7\u09b2\u09cb"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gn:id":3450276,
         "gp:id":448306,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2003729",
         "wk:page":"Santa Cruz de Monte Castelo"
     },
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101956605,
-    "wof:lastmodified":1561841242,
+    "wof:lastmodified":1566625362,
     "wof:name":"Santa Cruz de Monte Castelo",
     "wof:parent_id":404561801,
     "wof:placetype":"locality",

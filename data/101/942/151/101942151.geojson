@@ -12,6 +12,8 @@
     "iso:country":"BR",
     "lbl:latitude":3.212503,
     "lbl:longitude":-51.229102,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":3.212503,
     "mps:longitude":-51.229102,
     "mz:hierarchy_label":1,
@@ -121,9 +123,6 @@
     ],
     "name:tur_x_preferred":[
         "Vila Velha"
-    ],
-    "name:unk_x_variant":[
-        "Vila Velha do Cacipor\u00e9"
     ],
     "name:vie_x_preferred":[
         "Vila Velha"
@@ -246,7 +245,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-20.336389,
     "wd:longitude":-40.293611,
@@ -264,7 +263,7 @@
         "fct:id":"0382b0a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3385049,
         "gp:id":458276,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"2c5766f9d58f92ac676fa344e9ebd638",
@@ -282,7 +281,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564142200,
+    "wof:lastmodified":1566625819,
     "wof:name":"Vila Velha",
     "wof:parent_id":404550345,
     "wof:placetype":"locality",

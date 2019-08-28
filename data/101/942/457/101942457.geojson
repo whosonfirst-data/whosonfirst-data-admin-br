@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.558829,
     "lbl:longitude":-47.500595,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-2.558829,
     "mps:longitude":-47.500595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09aa\u09bf\u0995\u09cd\u09b8\u09c1\u09a8\u09be \u09a1\u09cb \u09aa\u09be\u09b0\u09be"
     ],
@@ -101,7 +104,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":149,
     "wof:belongsto":[
         102191577,
@@ -114,7 +117,7 @@
         "fct:id":"03895828-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317294,
         "gp:id":55943742,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q675175",
         "wk:page":"Ipixuna do Par\u00e1"
     },
@@ -133,7 +136,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841284,
+    "wof:lastmodified":1566625869,
     "wof:name":"Ipixuna do Par\u00e1",
     "wof:parent_id":102055787,
     "wof:placetype":"locality",

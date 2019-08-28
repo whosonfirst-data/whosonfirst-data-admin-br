@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.744541,
     "lbl:longitude":-35.725332,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.744541,
     "mps:longitude":-35.725332,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b8\u09bf\u09a8\u09b9\u09be\u09b8"
     ],
@@ -76,9 +79,6 @@
     "name:swe_x_preferred":[
         "Casinhas"
     ],
-    "name:unk_x_variant":[
-        "Casinha"
-    ],
     "name:vie_x_preferred":[
         "Casinhas"
     ],
@@ -111,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -123,7 +123,6 @@
         "fct:id":"038040da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3402598,
         "gp:id":428861,
-        "qs:id":1026608,
         "qs_pg:id":1026608,
         "wd:id":"Q923741",
         "wk:page":"Casinhas"
@@ -143,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841107,
+    "wof:lastmodified":1566623910,
     "wof:name":"Casinhas",
     "wof:parent_id":102056587,
     "wof:placetype":"locality",

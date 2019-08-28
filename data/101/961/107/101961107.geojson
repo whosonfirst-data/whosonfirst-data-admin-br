@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.312384,
     "lbl:longitude":-56.820762,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.312384,
     "mps:longitude":-56.820762,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u09ac\u09be\u09aa\u09cb\u09b0\u09be"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":150,
     "wof:belongsto":[
         102191577,
@@ -119,7 +122,7 @@
         "fct:id":"038a3df6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6318729,
         "gp:id":56123423,
-        "qs:id":1151657,
+        "qs_pg:id":1151657,
         "wd:id":"Q1806591"
     },
     "wof:country":"BR",
@@ -137,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245103,
+    "wof:lastmodified":1566624968,
     "wof:name":"Tabapor\u00e3",
     "wof:parent_id":102055629,
     "wof:placetype":"locality",

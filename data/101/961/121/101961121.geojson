@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.538461,
     "lbl:longitude":-57.410411,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.538461,
     "mps:longitude":-57.410411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09b0\u09cd\u099f\u09cb \u09a1\u09cb\u09b8 \u0997\u09be\u0989\u0995\u09b9\u09cb\u09b8"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":150,
     "wof:belongsto":[
         102191577,
@@ -117,7 +120,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3452801,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q928704",
         "wk:page":"Porto dos Ga\u00fachos"
     },
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101961121,
-    "wof:lastmodified":1561841189,
+    "wof:lastmodified":1566624962,
     "wof:name":"Porto dos Ga\u00fachos",
     "wof:parent_id":102055559,
     "wof:placetype":"locality",

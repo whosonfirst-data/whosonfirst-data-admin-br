@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-9.440299,
     "lbl:longitude":-49.352515,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-9.440299,
     "mps:longitude":-49.352515,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Abreulandia"
     ],
@@ -43,7 +46,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102062443,
-    "wof:lastmodified":1560547222,
+    "wof:lastmodified":1566618745,
     "wof:name":"Abreulandia",
     "wof:parent_id":85682053,
     "wof:placetype":"county",

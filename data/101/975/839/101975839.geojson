@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.856343,
     "lbl:longitude":-42.908885,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-2.856343,
     "mps:longitude":-42.908885,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09cb\u09ac\u09cd\u09b0\u09be\u09a1\u09bf\u09a8\u09b9\u09cb"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -79,7 +82,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e13db4dda9d8a13739c0274bd527e00f",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101975839,
-    "wof:lastmodified":1564142698,
+    "wof:lastmodified":1566626241,
     "wof:name":"Sobradinho",
     "wof:parent_id":102052821,
     "wof:placetype":"locality",

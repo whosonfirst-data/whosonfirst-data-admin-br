@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.047032,
     "lbl:longitude":-35.240774,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.047032,
     "mps:longitude":-35.240774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09ac\u09c7\u09a8\u099f\u09cb"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":170,
     "wof:belongsto":[
         85681879,
@@ -88,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3388973,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"7010e1935f7c9fcba1d6a964c12b1750",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101966869,
-    "wof:lastmodified":1564141194,
+    "wof:lastmodified":1566625021,
     "wof:name":"S\u00e3o Bento",
     "wof:parent_id":404550181,
     "wof:placetype":"locality",

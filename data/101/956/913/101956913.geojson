@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.706319,
     "lbl:longitude":-52.806319,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.706319,
     "mps:longitude":-52.806319,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ouro Verde"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -71,7 +74,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"b5dac3a82bcf8cc404c2c0fce5ebfc80",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101956913,
-    "wof:lastmodified":1564141542,
+    "wof:lastmodified":1566625379,
     "wof:name":"Ouro Verde",
     "wof:parent_id":404561877,
     "wof:placetype":"locality",

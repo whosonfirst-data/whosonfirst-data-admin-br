@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.102101,
     "lbl:longitude":-39.791321,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.102101,
     "mps:longitude":-39.791321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c7\u099c\u09cb\u09af\u09bc\u09c7\u09b8"
     ],
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "Brej\u00f5es"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brej\u00e3o"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":129,
     "wof:belongsto":[
         85681895,
@@ -126,7 +129,7 @@
         "fct:id":"0387a456-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3468945,
         "gp:id":458840,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1800651",
         "wk:page":"Brej\u00f5es"
     },
@@ -146,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841143,
+    "wof:lastmodified":1566624415,
     "wof:name":"Brej\u00f5es",
     "wof:parent_id":404550581,
     "wof:placetype":"locality",

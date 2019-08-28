@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.070902,
     "lbl:longitude":-38.351995,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.070902,
     "mps:longitude":-38.351995,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09c7\u09b0\u09c7\u09ae\u09cb\u09af\u09bc\u09be\u09ac\u09cb"
     ],
@@ -79,7 +82,7 @@
     "name:spa_x_preferred":[
         "Jeremoabo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Geremoabo"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -123,9 +126,11 @@
     "wof:concordances":{
         "gn:id":3459922,
         "gp:id":56125130,
-        "qs:id":1,
-        "qs_pg:id":148171,
+        "qs_pg:id":1,
         "wd:id":"Q1761820"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":148171
     },
     "wof:country":"BR",
     "wof:geomhash":"3fdb4d4074126b3de1867d95e6d4603c",
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":101950383,
-    "wof:lastmodified":1561841157,
+    "wof:lastmodified":1566624744,
     "wof:name":"Jeremoabo",
     "wof:parent_id":404551331,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.290335,
     "lbl:longitude":-53.3989,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-24.290335,
     "mps:longitude":-53.3989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09bf\u09b0\u09bf\u0997\u09c1\u0987"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":406.0,
     "wd:latitude":-21.288889,
@@ -115,7 +118,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"9afddbd4156de5547112a925863b7392",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101963257,
-    "wof:lastmodified":1564139371,
+    "wof:lastmodified":1566623576,
     "wof:name":"Birigui",
     "wof:parent_id":102057671,
     "wof:placetype":"locality",

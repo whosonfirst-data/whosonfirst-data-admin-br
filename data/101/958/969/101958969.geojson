@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.73578,
     "lbl:longitude":-53.520972,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.73578,
     "mps:longitude":-53.520972,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09ae\u09bf\u0997\u09c1\u09f1\u09c7\u09b2 \u09a1\u09cb \u0993\u098f\u09b8\u09cd\u099f\u09c7"
     ],
@@ -114,7 +117,7 @@
     "qs:type":"Centro Subregional B",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":134,
     "wof:belongsto":[
         85682021,
@@ -128,7 +131,7 @@
         "fct:id":"03866d48-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3448454,
         "gp:id":450959,
-        "qs:id":233468,
+        "qs_pg:id":233468,
         "wd:id":"Q1757748",
         "wk:page":"S\u00e3o Miguel do Oeste"
     },
@@ -148,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841222,
+    "wof:lastmodified":1566625239,
     "wof:name":"S\u00e3o Miguel do Oeste",
     "wof:parent_id":404565899,
     "wof:placetype":"locality",

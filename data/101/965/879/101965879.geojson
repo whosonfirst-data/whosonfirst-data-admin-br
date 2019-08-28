@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.445445,
     "lbl:longitude":-46.616941,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-22.970804,
     "mps:longitude":-45.551084,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u099f\u09cd\u09b0\u09c7\u09ae\u09c7\u09ae\u09ac\u09c7"
     ],
@@ -104,7 +107,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"wk",
     "wd:elevation":560.0,
     "wd:latitude":-22.957778,
@@ -123,7 +126,7 @@
         "fct:id":"03966d38-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3446194,
         "gp:id":26804405,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q22064399"
     },
     "wof:country":"BR",
@@ -142,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241786,
+    "wof:lastmodified":1566623459,
     "wof:name":"Trememb\u00e9",
     "wof:parent_id":404567441,
     "wof:placetype":"locality",

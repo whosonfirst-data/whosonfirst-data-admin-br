@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.346275,
     "lbl:longitude":-40.051405,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.346275,
     "mps:longitude":-40.051405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*BA",
     "qs:a1_lc":"29",
@@ -31,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         85681895,
@@ -42,7 +45,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"9c71665f05e7660f7011b075ece2608e",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101976805,
-    "wof:lastmodified":1527688456,
+    "wof:lastmodified":1566624683,
     "wof:name":"Cai\u00e7ara",
     "wof:parent_id":404551805,
     "wof:placetype":"locality",

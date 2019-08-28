@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.587461,
     "lbl:longitude":-52.202725,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.587461,
     "mps:longitude":-52.202725,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09be\u09b0\u09cd\u0997\u09cb"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         102191577,
@@ -110,7 +113,7 @@
         "fct:id":"03859d14-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3468002,
         "gp:id":427341,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1822931",
         "wk:page":"Camargo, Rio Grande do Sul"
     },
@@ -129,7 +132,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841208,
+    "wof:lastmodified":1566625128,
     "wof:name":"Camargo",
     "wof:parent_id":102059187,
     "wof:placetype":"locality",

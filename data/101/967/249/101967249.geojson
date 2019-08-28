@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.34894,
     "lbl:longitude":-54.241024,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-25.34894,
     "mps:longitude":-54.241024,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09ae\u09bf\u0997\u09c1\u09f1\u09c7\u09b2 \u09a1\u09cb \u0987\u0997\u09c1\u09f1\u09be\u0995\u09c1"
     ],
@@ -76,7 +79,7 @@
     "name:spa_x_preferred":[
         "S\u00e3o Miguel do Igua\u00e7u"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ga\u00facha"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681983,
@@ -122,7 +125,6 @@
         "fct:id":"0381e192-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3448453,
         "gp:id":450962,
-        "qs:id":810674,
         "qs_pg:id":810674,
         "wd:id":"Q1773060"
     },
@@ -142,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841213,
+    "wof:lastmodified":1566625180,
     "wof:name":"S\u00e3o Miguel do Igua\u00e7u",
     "wof:parent_id":404561935,
     "wof:placetype":"locality",

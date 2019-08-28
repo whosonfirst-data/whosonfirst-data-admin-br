@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.332991,
     "lbl:longitude":-41.252558,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-19.332991,
     "mps:longitude":-41.252558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09c7\u09b8\u09aa\u09b2\u09c7\u09a8\u09a1\u09cb\u09b0\u09cd"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -123,7 +126,6 @@
         "fct:id":"0386dba2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451650,
         "gp:id":456465,
-        "qs:id":1256027,
         "qs_pg:id":1256027,
         "wd:id":"Q986252"
     },
@@ -143,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241409,
+    "wof:lastmodified":1566623282,
     "wof:name":"Resplendor",
     "wof:parent_id":404557887,
     "wof:placetype":"locality",

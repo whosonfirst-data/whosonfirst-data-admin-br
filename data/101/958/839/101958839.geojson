@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.539977,
     "lbl:longitude":-53.615909,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.539977,
     "mps:longitude":-53.615909,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*RS",
     "qs:a1_lc":"43",
@@ -30,7 +34,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -42,10 +46,10 @@
     "wof:concordances":{
         "gn:id":6318700,
         "gp:id":457911,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"b8cc10901f9a45c74a468c6262177060",
+    "wof:geomhash":"3965fa00e868feea0d6669275d413bc4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101958839,
-    "wof:lastmodified":1479625983,
+    "wof:lastmodified":1566625257,
     "wof:name":"S\u00edtio Cassemiro",
     "wof:parent_id":404564241,
     "wof:placetype":"locality",

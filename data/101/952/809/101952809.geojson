@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.48132,
     "lbl:longitude":-44.479897,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-22.48132,
     "mps:longitude":-44.479897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0632\u0646\u062f\u064a"
     ],
@@ -168,9 +171,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0437\u0435\u043d\u0434\u0456"
     ],
-    "name:unk_x_variant":[
-        "Rezende"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0633\u06cc\u0646\u062f\u06cc"
     ],
@@ -203,7 +203,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.468889,
     "wd:longitude":-44.446944,
@@ -221,7 +221,6 @@
         "fct:id":"0389f8c8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451668,
         "gp:id":457919,
-        "qs:id":147977,
         "qs_pg:id":147977,
         "wd:id":"Q913390",
         "wk:page":"Resende, Rio de Janeiro"
@@ -242,7 +241,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242490,
+    "wof:lastmodified":1566623796,
     "wof:name":"Resende",
     "wof:parent_id":404562457,
     "wof:placetype":"locality",

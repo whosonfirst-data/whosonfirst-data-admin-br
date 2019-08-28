@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.850696,
     "lbl:longitude":-46.939976,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-23.850696,
     "mps:longitude":-46.939976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09b2\u09cb\u0989\u09b0\u09c7\u09a8\u0995\u09cb \u09a1\u09be \u09b8\u09c7\u09b0\u09b0\u09be"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682041,
@@ -125,7 +128,6 @@
         "fct:id":"038a09ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3448599,
         "gp:id":450735,
-        "qs:id":1210850,
         "qs_pg:id":1210850,
         "wd:id":"Q581348"
     },
@@ -145,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245995,
+    "wof:lastmodified":1566625371,
     "wof:name":"S\u00e3o Louren\u00e7o da Serra",
     "wof:parent_id":404567245,
     "wof:placetype":"locality",

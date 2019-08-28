@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.661113,
     "lbl:longitude":-43.60478,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-22.661113,
     "mps:longitude":-43.60478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062c\u0627\u0628\u064a\u0631\u064a"
     ],
@@ -175,7 +178,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -189,7 +192,6 @@
         "fct:id":"038a0462-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460132,
         "gp:id":436553,
-        "qs:id":443680,
         "qs_pg:id":443680,
         "wd:id":"Q1787673",
         "wk:page":"Japeri"
@@ -209,7 +211,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563240576,
+    "wof:lastmodified":1566622774,
     "wof:name":"Japeri",
     "wof:parent_id":102058381,
     "wof:placetype":"locality",

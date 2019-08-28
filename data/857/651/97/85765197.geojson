@@ -9,14 +9,15 @@
     "geom:bbox":"-43.2112884521,-23.0366596042,-43.1800024414,-22.9710378247",
     "geom:latitude":-23.006571,
     "geom:longitude":-43.195098,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:latitude":-22.98097,
     "gn:longitude":-43.20286,
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-22.983411,
     "lbl:longitude":-43.204205,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-23.02524,
     "mps:longitude":-43.191313,
     "mz:hierarchy_label":1,
@@ -154,9 +155,6 @@
     "name:tur_x_preferred":[
         "Ipanema"
     ],
-    "name:unk_x_variant":[
-        "Ipanema"
-    ],
     "name:vie_x_preferred":[
         "Ipanema"
     ],
@@ -209,8 +207,7 @@
     "qs_pg:woe_id":435695,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85633009,
         101953261
@@ -219,7 +216,6 @@
     "wof:concordances":{
         "gn:id":3461147,
         "gp:id":435695,
-        "qs:id":975768,
         "qs_pg:id":975768,
         "wd:id":"Q468540",
         "wk:page":"Ipanema"
@@ -240,7 +236,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563237408,
+    "wof:lastmodified":1566620745,
     "wof:name":"Ipanema",
     "wof:parent_id":101953261,
     "wof:placetype":"neighbourhood",

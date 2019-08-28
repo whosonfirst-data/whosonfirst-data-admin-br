@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.596488,
     "lbl:longitude":-51.578612,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.596488,
     "mps:longitude":-51.578612,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09ac\u09bf\u09b0\u09be"
     ],
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Cambira"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Jos\u00e9 do Cambira"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -124,7 +127,7 @@
         "fct:id":"03859d50-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3467975,
         "gp:id":427367,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q509067",
         "wk:page":"Cambira"
     },
@@ -143,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841029,
+    "wof:lastmodified":1566623310,
     "wof:name":"Cambira",
     "wof:parent_id":102057523,
     "wof:placetype":"locality",

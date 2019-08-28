@@ -12,8 +12,10 @@
     "gn:latitude":-30.04167,
     "gn:longitude":-51.1875,
     "iso:country":"BR",
+    "lbl:bbox":"-51.153466,-29.165701,-51.143466,-29.155701",
     "lbl:latitude":-29.160701,
     "lbl:longitude":-51.148466,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-29.158891,
     "mps:longitude":-51.150856,
     "mz:hierarchy_label":0,
@@ -157,9 +159,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u043f\u043e\u043b\u0456\u0441"
     ],
-    "name:unk_x_variant":[
-        "Petr\u00f3polis"
-    ],
     "name:vie_x_preferred":[
         "Petr\u00f3polis"
     ],
@@ -200,7 +199,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191577,
         404563341,
@@ -213,7 +212,7 @@
     "wof:concordances":{
         "gn:id":3473951,
         "gp:id":56066668,
-        "qs:id":489474
+        "qs_pg:id":489474
     },
     "wof:country":"BR",
     "wof:geomhash":"668804040ad759ba0d880172f51c0ab0",
@@ -232,7 +231,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564134645,
+    "wof:lastmodified":1566620727,
     "wof:name":"Petr\u00f3polis",
     "wof:parent_id":101960531,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.288457,
     "lbl:longitude":-45.271715,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-2.288457,
     "mps:longitude":-45.271715,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Juncal"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":39.6,
     "wd:longitude":-8.9,
     "wd:wordcount":43,
@@ -69,7 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456493,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"f91daf7b87fd2a214d1a920b5d4686cb",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101978891,
-    "wof:lastmodified":1564140410,
+    "wof:lastmodified":1566624355,
     "wof:name":"Juncal",
     "wof:parent_id":404555065,
     "wof:placetype":"locality",

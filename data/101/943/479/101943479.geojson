@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.544109,
     "lbl:longitude":-43.918665,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-3.544109,
     "mps:longitude":-43.918665,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u09b0\u09cd\u0997\u09c7\u09ae \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -110,7 +113,6 @@
         "fct:id":"0387927c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3385538,
         "gp:id":458250,
-        "qs:id":357383,
         "qs_pg:id":357383,
         "wd:id":"Q1019640",
         "wk:page":"Vargem Grande"
@@ -130,7 +132,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247408,
+    "wof:lastmodified":1566626082,
     "wof:name":"Vargem Grande",
     "wof:parent_id":102053237,
     "wof:placetype":"locality",

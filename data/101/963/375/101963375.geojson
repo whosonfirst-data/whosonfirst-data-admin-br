@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.54603,
     "lbl:longitude":-52.30337,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.54603,
     "mps:longitude":-52.30337,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ac\u09af\u09bc\u09c7\u09b2\u09be\u09b0\u09cd\u09a1\u09cb \u09b2\u09c1\u099c"
     ],
@@ -97,9 +100,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0435\u043b\u0430\u0440\u0434\u0443-\u041b\u0443\u0441"
     ],
-    "name:unk_x_variant":[
-        "Registro"
-    ],
     "name:vie_x_preferred":[
         "Abelardo Luz"
     ],
@@ -130,7 +130,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -143,7 +143,7 @@
         "fct:id":"03879768-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3473252,
         "gp:id":458297,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1637506",
         "wk:page":"Abelardo Luz"
     },
@@ -160,7 +160,7 @@
         }
     ],
     "wof:id":101963375,
-    "wof:lastmodified":1561841073,
+    "wof:lastmodified":1566623618,
     "wof:name":"Abelardo Luz",
     "wof:parent_id":404565115,
     "wof:placetype":"locality",

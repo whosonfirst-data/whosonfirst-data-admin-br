@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.737656,
     "lbl:longitude":-37.081673,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-10.737656,
     "mps:longitude":-37.081673,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09c1\u0987\u09ae"
     ],
@@ -66,9 +69,6 @@
     "name:spa_x_preferred":[
         "Maruim"
     ],
-    "name:unk_x_variant":[
-        "Maroim"
-    ],
     "name:vie_x_preferred":[
         "Maruim"
     ],
@@ -98,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -111,7 +111,6 @@
         "fct:id":"0387c6e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457582,
         "gp:id":460082,
-        "qs:id":210806,
         "qs_pg:id":210806,
         "wd:id":"Q609459"
     },
@@ -130,7 +129,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243849,
+    "wof:lastmodified":1566624390,
     "wof:name":"Maruim",
     "wof:parent_id":102060903,
     "wof:placetype":"locality",

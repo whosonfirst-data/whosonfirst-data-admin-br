@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.670755,
     "lbl:longitude":-44.181969,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-2.670755,
     "mps:longitude":-44.181969,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Mato Grosso"
     ],
@@ -286,7 +289,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681931,
         102191577,
@@ -297,7 +300,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":460954,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"db44e81954a863feb6644dd44aaa5efe",
@@ -312,7 +315,7 @@
         }
     ],
     "wof:id":101980471,
-    "wof:lastmodified":1564141997,
+    "wof:lastmodified":1566625707,
     "wof:name":"Mato Grosso",
     "wof:parent_id":404555083,
     "wof:placetype":"locality",

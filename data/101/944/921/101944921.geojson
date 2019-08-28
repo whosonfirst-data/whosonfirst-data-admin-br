@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.85116,
     "lbl:longitude":-40.919897,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-3.85116,
     "mps:longitude":-40.919897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0989\u09ac\u09be\u099c\u09be\u09b0\u09be"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -117,7 +120,6 @@
         "fct:id":"03868652-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3385873,
         "gp:id":454340,
-        "qs:id":668962,
         "qs_pg:id":668962,
         "wd:id":"Q1821314"
     },
@@ -137,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247278,
+    "wof:lastmodified":1566626007,
     "wof:name":"Ubajara",
     "wof:parent_id":404554019,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.683177,
     "lbl:longitude":-41.883289,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.683177,
     "mps:longitude":-41.883289,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bananal"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3470995,
         "gp:id":431709,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"02250f46d56037af48a6975a5aac32fc",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101966467,
-    "wof:lastmodified":1564141230,
+    "wof:lastmodified":1566625052,
     "wof:name":"Bananal",
     "wof:parent_id":404555613,
     "wof:placetype":"locality",

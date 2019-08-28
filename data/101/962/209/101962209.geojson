@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.423766,
     "lbl:longitude":-50.115048,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.423766,
     "mps:longitude":-50.115048,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kibele"
     ],
@@ -178,7 +181,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":9098,
     "wof:belongsto":[
         85681925,
@@ -191,7 +194,7 @@
     "wof:concordances":{
         "gn:id":6316870,
         "gp:id":458914,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q188236"
     },
     "wof:country":"BR",
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":101962209,
-    "wof:lastmodified":1563241962,
+    "wof:lastmodified":1566623543,
     "wof:name":"Cibele",
     "wof:parent_id":404554825,
     "wof:placetype":"locality",

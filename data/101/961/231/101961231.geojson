@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.008015,
     "lbl:longitude":-55.241665,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.008015,
     "mps:longitude":-55.241665,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u0989\u09ac\u09be"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":150,
     "wof:belongsto":[
         102191577,
@@ -122,7 +125,7 @@
         "fct:id":"0387384a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317336,
         "gp:id":457369,
-        "qs:id":1147573,
+        "qs_pg:id":1147573,
         "wd:id":"Q2012214",
         "wk:page":"Ita\u00faba"
     },
@@ -141,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841193,
+    "wof:lastmodified":1566624983,
     "wof:name":"Ita\u00faba",
     "wof:parent_id":102055463,
     "wof:placetype":"locality",

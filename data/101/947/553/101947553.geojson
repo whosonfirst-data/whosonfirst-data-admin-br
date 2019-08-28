@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.727081,
     "lbl:longitude":-38.687426,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.727081,
     "mps:longitude":-38.687426,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u0995\u09c1\u09b0\u09c1\u09ac\u09be"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -106,7 +109,7 @@
         "fct:id":"038394ba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3397990,
         "gp:id":459697,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1804119"
     },
     "wof:country":"BR",
@@ -124,7 +127,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243883,
+    "wof:lastmodified":1566624402,
     "wof:name":"Itacuruba",
     "wof:parent_id":102056667,
     "wof:placetype":"locality",

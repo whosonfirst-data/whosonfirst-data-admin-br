@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.0038,
     "lbl:longitude":-47.502889,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-23.0038,
     "mps:longitude":-47.502889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09aa\u09bf\u09ad\u09be\u09b0\u09bf"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Capivari"
     ],
-    "name:unk_x_variant":[
-        "Capivary"
-    ],
     "name:vie_x_preferred":[
         "Capivari"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":636.0,
     "wd:latitude":-22.995,
@@ -136,7 +136,6 @@
         "fct:id":"0386b096-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3467197,
         "gp:id":456122,
-        "qs:id":1045082,
         "qs_pg:id":1045082,
         "wd:id":"Q1750439",
         "wk:page":"Capivari"
@@ -156,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244998,
+    "wof:lastmodified":1566624926,
     "wof:name":"Capivari",
     "wof:parent_id":102061259,
     "wof:placetype":"locality",

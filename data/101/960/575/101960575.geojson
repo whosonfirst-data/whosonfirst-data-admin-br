@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.846367,
     "lbl:longitude":-51.16725,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-29.846367,
     "mps:longitude":-51.16725,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bpy_x_preferred":[
         "\u098f\u09b8\u099f\u09c7\u0987\u0993"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -128,7 +131,6 @@
         "fct:id":"0389f076-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3463859,
         "gp:id":455949,
-        "qs:id":453002,
         "qs_pg:id":453002,
         "wd:id":"Q958661",
         "wk:page":"Esteio"
@@ -148,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245833,
+    "wof:lastmodified":1566625296,
     "wof:name":"Esteio",
     "wof:parent_id":102059391,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-30.873171,
     "lbl:longitude":-53.115344,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.873171,
     "mps:longitude":-53.115344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be\u09a8\u09be \u09a1\u09be \u09ac\u09cb\u09f1\u09be \u09ad\u09bf\u09b8\u09cd\u099f\u09be"
     ],
@@ -89,9 +92,6 @@
     "name:swe_x_preferred":[
         "Santana da Boa Vista"
     ],
-    "name:unk_x_variant":[
-        "Sant'Anna da B\u00f4a Vista"
-    ],
     "name:vie_x_preferred":[
         "Santana da Boa Vista"
     ],
@@ -122,7 +122,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -134,7 +134,7 @@
         "fct:id":"03877bac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3449954,
         "gp:id":458011,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1749815",
         "wk:page":"Santana da Boa Vista"
     },
@@ -153,7 +153,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841204,
+    "wof:lastmodified":1566625092,
     "wof:name":"Santana da Boa Vista",
     "wof:parent_id":102059861,
     "wof:placetype":"locality",

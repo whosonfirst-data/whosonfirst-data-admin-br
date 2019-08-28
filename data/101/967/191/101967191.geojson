@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.015704,
     "lbl:longitude":-57.029039,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.015704,
     "mps:longitude":-57.029039,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Caracol"
     ],
@@ -74,9 +77,6 @@
     "name:spa_x_preferred":[
         "Caracol"
     ],
-    "name:unk_x_variant":[
-        "Porteira"
-    ],
     "name:vol_x_preferred":[
         "Caracol"
     ],
@@ -106,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":27,
     "wof:belongsto":[
         102191577,
@@ -119,7 +119,6 @@
         "fct:id":"03870f8c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3467104,
         "gp:id":456974,
-        "qs:id":342552,
         "qs_pg:id":342552,
         "wd:id":"Q2289933",
         "wk:page":"Caracol, Mato Grosso do Sul"
@@ -139,7 +138,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841212,
+    "wof:lastmodified":1566625169,
     "wof:name":"Caracol",
     "wof:parent_id":102055215,
     "wof:placetype":"locality",

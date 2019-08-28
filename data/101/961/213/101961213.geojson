@@ -9,16 +9,19 @@
     "geom:bbox":"-56.377339899,-15.2123881666,-56.3459218365,-15.1909674281",
     "geom:latitude":-15.200477,
     "geom:longitude":-56.361626,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-15.201854,
     "lbl:longitude":-56.357462,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.201854,
     "mps:longitude":-56.357462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u0995\u09cb\u09b0\u09bf\u099c\u0986\u09b2"
     ],
@@ -101,9 +104,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u043e\u0440\u0438\u0437\u0430\u043b"
     ],
-    "name:unk_x_variant":[
-        "Brotas"
-    ],
     "name:vie_x_preferred":[
         "Acorizal"
     ],
@@ -152,7 +152,7 @@
     "qs_pg:woe_id":458310,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681955,
         102191577,
@@ -165,7 +165,6 @@
         "fct:id":"038797fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3473198,
         "gp:id":458310,
-        "qs:id":825300,
         "qs_pg:id":825300,
         "wd:id":"Q507567",
         "wk:page":"Acorizal"
@@ -186,7 +185,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245139,
+    "wof:lastmodified":1566624982,
     "wof:name":"Acorizal",
     "wof:parent_id":404559077,
     "wof:placetype":"locality",

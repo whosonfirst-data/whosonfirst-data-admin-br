@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.197764,
     "lbl:longitude":-59.825306,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-3.197764,
     "mps:longitude":-59.825306,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09c7\u0987\u09b0\u09cb \u09a1\u09be \u09ad\u09be\u09b0\u09cd\u099c\u09c7\u09af\u09bc\u09be"
     ],
@@ -83,9 +86,6 @@
     "name:spa_x_preferred":[
         "Careiro da V\u00e1rzea"
     ],
-    "name:unk_x_variant":[
-        "Careiro"
-    ],
     "name:vie_x_preferred":[
         "Careiro da V\u00e1rzea"
     ],
@@ -115,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":59,
     "wof:belongsto":[
@@ -129,7 +129,6 @@
         "fct:id":"03833696-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3402920,
         "gp:id":456125,
-        "qs:id":290814,
         "qs_pg:id":290814,
         "wd:id":"Q1807045",
         "wk:page":"Careiro da V\u00e1rzea"
@@ -149,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243684,
+    "wof:lastmodified":1566624313,
     "wof:name":"Careiro da V\u00e1rzea",
     "wof:parent_id":102050329,
     "wof:placetype":"locality",

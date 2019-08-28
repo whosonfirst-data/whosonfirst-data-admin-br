@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
+    "geom:area_square_m":75774.737933,
     "geom:bbox":"-51.3793555616,-28.7626183866,-51.3756571083,-28.7603379043",
     "geom:latitude":-28.761476,
     "geom:longitude":-51.377513,
     "iso:country":"BR",
     "lbl:latitude":-28.761475,
     "lbl:longitude":-51.377514,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.761475,
     "mps:longitude":-51.377514,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*RS",
     "qs:a1_lc":"43",
@@ -31,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -43,7 +48,9 @@
     "wof:concordances":{
         "gn:id":3447878,
         "gp:id":451661,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":387968
     },
     "wof:country":"BR",
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":101960435,
-    "wof:lastmodified":1497295936,
+    "wof:lastmodified":1566625325,
     "wof:name":"Vila Segr\u00eado",
     "wof:parent_id":404563777,
     "wof:placetype":"locality",

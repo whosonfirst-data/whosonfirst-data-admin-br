@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.560301,
     "lbl:longitude":-41.503541,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.560301,
     "mps:longitude":-41.503541,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u0993\u09ac\u09bf\u09ae"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -122,7 +125,7 @@
         "fct:id":"038735de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317328,
         "gp:id":457345,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1790804",
         "wk:page":"Itaobim"
     },
@@ -142,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242476,
+    "wof:lastmodified":1566623791,
     "wof:name":"Itaobim",
     "wof:parent_id":404556751,
     "wof:placetype":"locality",

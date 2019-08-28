@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.123286,
     "lbl:longitude":-50.809318,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.123286,
     "mps:longitude":-50.809318,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u044f\u0441\u043d\u0430"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -104,7 +107,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":438494,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"032c73de88d7b881c10839ec0fcd650b",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101988841,
-    "wof:lastmodified":1564142460,
+    "wof:lastmodified":1566626044,
     "wof:name":"Primavera",
     "wof:parent_id":102057823,
     "wof:placetype":"locality",

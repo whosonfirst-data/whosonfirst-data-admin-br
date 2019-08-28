@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.659064,
     "lbl:longitude":-40.505742,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.659064,
     "mps:longitude":-40.505742,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u0997\u09cb\u09af\u09bc\u09be \u09a1\u09c7 \u09a1\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09cb"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681973,
         102191577,
@@ -63,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3396829,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"bb2dfe9c2324d1f30ece52591ef4122b",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101985517,
-    "wof:lastmodified":1564140638,
+    "wof:lastmodified":1566624504,
     "wof:name":"Lagoa de Dentro",
     "wof:parent_id":404560139,
     "wof:placetype":"locality",

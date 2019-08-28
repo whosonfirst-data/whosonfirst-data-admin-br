@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.934699,
     "lbl:longitude":-62.256473,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.934699,
     "mps:longitude":-62.256473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c7\u0987\u0995\u09cd\u09b8\u09c7\u0987\u09b0\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         102191577,
@@ -119,7 +122,7 @@
         "fct:id":"0388a7b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3969415,
         "gp:id":453474,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1802088",
         "wk:page":"Teixeir\u00f3polis"
     },
@@ -138,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841130,
+    "wof:lastmodified":1566624297,
     "wof:name":"Teixeir\u00f3polis",
     "wof:parent_id":102058993,
     "wof:placetype":"locality",

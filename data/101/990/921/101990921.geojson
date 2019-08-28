@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.813672,
     "lbl:longitude":-48.628095,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.813672,
     "mps:longitude":-48.628095,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cd\u09b0\u09be\u099f\u09bf\u09a8\u09b9\u09be"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -103,7 +106,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"ad79d4436abf84f4872874d159de9967",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101990921,
-    "wof:lastmodified":1564139514,
+    "wof:lastmodified":1566623670,
     "wof:name":"Pratinha",
     "wof:parent_id":102062027,
     "wof:placetype":"locality",

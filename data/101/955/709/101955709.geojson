@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.997714,
     "lbl:longitude":-48.684385,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.997714,
     "mps:longitude":-48.684385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lobo"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":407,
     "wof:belongsto":[
         85682041,
@@ -95,7 +98,7 @@
     "wof:concordances":{
         "gn:id":3458466,
         "gp:id":438678,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"3e5c298d8419bec3819bc33de7a9a572",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101955709,
-    "wof:lastmodified":1564139650,
+    "wof:lastmodified":1566623817,
     "wof:name":"Lobo",
     "wof:parent_id":404566607,
     "wof:placetype":"locality",

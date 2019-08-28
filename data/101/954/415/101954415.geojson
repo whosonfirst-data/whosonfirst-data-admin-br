@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.807802,
     "lbl:longitude":-40.851507,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.807802,
     "mps:longitude":-40.851507,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u09b0\u09cd\u0997\u09c7\u09ae \u0986\u09b2\u09c7\u0997\u09cd\u09b0\u09c7"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681921,
         102191577,
@@ -105,7 +108,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456068,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"cb62f728d6c7213a5da470e7071c9f5f",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101954415,
-    "wof:lastmodified":1564139097,
+    "wof:lastmodified":1566623289,
     "wof:name":"Vargem Alegre",
     "wof:parent_id":404554225,
     "wof:placetype":"locality",

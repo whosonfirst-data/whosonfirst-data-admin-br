@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.596333,
     "lbl:longitude":-40.931962,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.596333,
     "mps:longitude":-40.931962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "S\u00e3o Tom\u00e9"
     ],
@@ -298,7 +301,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Thom\u00e9"
     ],
     "name:urd_x_preferred":[
@@ -346,7 +349,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":0.333333,
     "wd:longitude":6.733333,
     "wd:wordcount":739,
@@ -361,7 +364,7 @@
     "wof:concordances":{
         "gn:id":3448176,
         "gp:id":461210,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a64b631aa2c7abfebdeee6da614ad16a",
@@ -376,7 +379,7 @@
         }
     ],
     "wof:id":101971447,
-    "wof:lastmodified":1564140498,
+    "wof:lastmodified":1566624431,
     "wof:name":"S\u00e3o Tom\u00e9",
     "wof:parent_id":404550679,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.729109,
     "lbl:longitude":-36.493805,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.729109,
     "mps:longitude":-36.493805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09be\u0989\u09ac\u09be\u09b8"
     ],
@@ -80,9 +83,6 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0443\u0431\u0430\u0441"
     ],
-    "name:unk_x_variant":[
-        "Caraibeiras"
-    ],
     "name:vol_x_preferred":[
         "Cara\u00fabas"
     ],
@@ -109,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":147,
     "wof:belongsto":[
         102191577,
@@ -122,7 +122,6 @@
         "fct:id":"0387a9e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3402942,
         "gp:id":459080,
-        "qs:id":1044465,
         "qs_pg:id":1044465,
         "wd:id":"Q284134",
         "wk:page":"Cara\u00fabas"
@@ -142,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841126,
+    "wof:lastmodified":1566624279,
     "wof:name":"Cara\u00fabas",
     "wof:parent_id":102056105,
     "wof:placetype":"locality",

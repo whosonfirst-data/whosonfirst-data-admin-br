@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.550584,
     "lbl:longitude":-39.764988,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.550584,
     "mps:longitude":-39.764988,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aar_x_preferred":[
         "Felipe"
     ],
@@ -691,7 +694,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":302,
     "wof:belongsto":[
         85681907,
@@ -703,7 +706,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6317133,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q15727141"
     },
     "wof:country":"BR",
@@ -719,7 +722,7 @@
         }
     ],
     "wof:id":101945273,
-    "wof:lastmodified":1563247031,
+    "wof:lastmodified":1566625892,
     "wof:name":"Felipe",
     "wof:parent_id":404553785,
     "wof:placetype":"locality",

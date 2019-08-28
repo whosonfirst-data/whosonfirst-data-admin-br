@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-14.873991,
     "lbl:longitude":-40.842653,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-14.873991,
     "mps:longitude":-40.842653,
     "mz:hierarchy_label":1,
@@ -163,7 +165,7 @@
         "Vit\u00f3ria da Conquista"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0bbf\u0b95\u0bcd\u0b9f\u0bcb\u0bb0\u0bbf\u0baf\u0bbe \u0b9f\u0bbe  \u0b95\u0ba3\u0bbf\u0baf\u0bc2\u0bb8\u0bcd\u0b9f\u0bcd\u0b9f\u0bbe"
+        "\u0bb5\u0bbf\u0b95\u0bcd\u0b9f\u0bcb\u0bb0\u0bbf\u0baf\u0bbe \u0b9f\u0bbe \u0b95\u0ba3\u0bbf\u0baf\u0bc2\u0bb8\u0bcd\u0b9f\u0bcd\u0b9f\u0bbe"
     ],
     "name:tat_x_preferred":[
         "\u0412\u0438\u0442\u043e\u0440\u0438\u044f-\u0434\u0430-\u041a\u043e\u043d\u043a\u0438\u0441\u0442\u0430"
@@ -180,7 +182,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043a\u0442\u043e\u0440\u0456\u044f-\u0434\u0430-\u041a\u043e\u043d\u043a\u0456\u0441\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Conquista"
     ],
     "name:urd_x_preferred":[
@@ -307,7 +309,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":669,
     "wof:belongsto":[
@@ -322,7 +324,6 @@
         "fct:id":"0397cdb8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3444914,
         "gp:id":455923,
-        "qs:id":1239043,
         "qs_pg:id":1239043,
         "wd:id":"Q22062839",
         "wk:page":"Vit\u00f3ria da Conquista"
@@ -343,7 +344,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244179,
+    "wof:lastmodified":1566624550,
     "wof:name":"Vit\u00f3ria da Conquista",
     "wof:parent_id":404552209,
     "wof:placetype":"locality",

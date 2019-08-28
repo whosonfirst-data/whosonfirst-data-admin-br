@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.67052,
     "lbl:longitude":-49.110277,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.67052,
     "mps:longitude":-49.110277,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09b0\u09cd\u09b0\u09cb \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
     ],
@@ -58,9 +61,6 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u0440\u0440\u0443-\u0413\u0440\u0430\u043d\u0434\u0438"
     ],
-    "name:unk_x_variant":[
-        "Barra Grande"
-    ],
     "name:vie_x_preferred":[
         "Morro Grande"
     ],
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -103,7 +103,9 @@
         "fct:id":"03852f8c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456676,
         "gp:id":440946,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":472816
     },
     "wof:country":"BR",
@@ -122,7 +124,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564141442,
+    "wof:lastmodified":1566625247,
     "wof:name":"Morro Grande",
     "wof:parent_id":404565811,
     "wof:placetype":"locality",

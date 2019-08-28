@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.768053,
     "lbl:longitude":-38.231523,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-6.768053,
     "mps:longitude":-38.231523,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Sousa"
     ],
@@ -80,9 +83,6 @@
     "name:swe_x_preferred":[
         "Sousa"
     ],
-    "name:unk_x_variant":[
-        "Souza"
-    ],
     "name:vie_x_preferred":[
         "Sousa"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -125,7 +125,6 @@
         "fct:id":"0386e5ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3387202,
         "gp:id":456550,
-        "qs:id":777848,
         "qs_pg:id":777848,
         "wd:id":"Q2011653"
     },
@@ -144,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247141,
+    "wof:lastmodified":1566625944,
     "wof:name":"Sousa",
     "wof:parent_id":102056457,
     "wof:placetype":"locality",

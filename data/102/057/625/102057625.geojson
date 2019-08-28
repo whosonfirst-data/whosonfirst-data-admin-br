@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-24.942612,
     "lbl:longitude":-54.098386,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-24.942612,
     "mps:longitude":-54.098386,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09bf\u09af\u09bc\u09be\u09ae\u09be\u09a8\u09cd\u099f\u09c7 \u09a1\u09bf'\u0993\u098f\u09b8\u09cd\u099f\u09c7"
     ],
@@ -118,7 +121,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         102191577,
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":102057625,
-    "wof:lastmodified":1563235813,
+    "wof:lastmodified":1566619732,
     "wof:name":"Diamante D'Oeste",
     "wof:parent_id":85681983,
     "wof:placetype":"county",

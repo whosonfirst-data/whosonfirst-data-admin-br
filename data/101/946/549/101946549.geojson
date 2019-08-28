@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.536122,
     "lbl:longitude":-35.817684,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-5.536122,
     "mps:longitude":-35.817684,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Jo\u00e3o C\u00e2mara"
     ],
@@ -72,9 +75,6 @@
     "name:rus_x_preferred":[
         "\u0416\u0443\u0430\u043d-\u041a\u0430\u043c\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Baixa Verde"
-    ],
     "name:vie_x_preferred":[
         "Jo\u00e3o C\u00e2mara"
     ],
@@ -104,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":151,
     "wof:belongsto":[
@@ -118,7 +118,6 @@
         "fct:id":"03873dae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3397315,
         "gp:id":457426,
-        "qs:id":242575,
         "qs_pg:id":242575,
         "wd:id":"Q507247"
     },
@@ -137,7 +136,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841125,
+    "wof:lastmodified":1566624276,
     "wof:name":"Jo\u00e3o C\u00e2mara",
     "wof:parent_id":102058653,
     "wof:placetype":"locality",

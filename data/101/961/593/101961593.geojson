@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.266276,
     "lbl:longitude":-54.225662,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.266276,
     "mps:longitude":-54.225662,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*MS",
     "qs:a1_lc":"50",
@@ -30,7 +34,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681947,
         102191577,
@@ -42,10 +46,10 @@
     "wof:concordances":{
         "gn:id":6317425,
         "gp:id":456172,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"dffbf0c822e18acf1c91b0bd6204158d",
+    "wof:geomhash":"dd35f0e03bccff3c482353dd32f77dd2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101961593,
-    "wof:lastmodified":1479620832,
+    "wof:lastmodified":1566624930,
     "wof:name":"Lagoa Bonita",
     "wof:parent_id":404558905,
     "wof:placetype":"locality",

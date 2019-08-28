@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.222277,
     "lbl:longitude":-48.76873,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-24.222277,
     "mps:longitude":-48.76873,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u09ac\u09c7\u0987\u09b0\u09be\u0993 \u09ac\u09cd\u09b0\u09be\u0999\u09cd\u0995\u09cb"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-24.220833,
     "wd:longitude":-48.765833,
@@ -124,7 +127,6 @@
         "fct:id":"0387d912-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451362,
         "gp:id":460773,
-        "qs:id":843868,
         "qs_pg:id":843868,
         "wd:id":"Q734937",
         "wk:page":"Ribeir\u00e3o Branco"
@@ -145,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841098,
+    "wof:lastmodified":1566623857,
     "wof:name":"Ribeir\u00e3o Branco",
     "wof:parent_id":404567105,
     "wof:placetype":"locality",

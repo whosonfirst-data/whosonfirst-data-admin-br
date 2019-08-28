@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.824372,
     "lbl:longitude":-40.656974,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.824372,
     "mps:longitude":-40.656974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09cb \u0986\u09a8\u09cd\u099f\u09cb\u09a8\u09bf\u0993 \u09a1\u09cb \u09b2\u09c7\u09ad\u09c7\u09b0\u09cd\u0997\u09af\u09bc\u09c7\u09b0"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":51,
     "wof:belongsto":[
         85681921,
@@ -73,7 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6318355,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"c4ad116da000a345e7a8ec71a8262c09",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101954463,
-    "wof:lastmodified":1527641723,
+    "wof:lastmodified":1566623293,
     "wof:name":"Santo Ant\u00f4nio do Cana\u00e3",
     "wof:parent_id":404554593,
     "wof:placetype":"locality",

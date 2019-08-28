@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.092062,
     "lbl:longitude":-47.841935,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.092062,
     "mps:longitude":-47.841935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u09b0\u09be\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":562,
     "wof:belongsto":[
         102191577,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3479321,
         "gp:id":449059,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e8cd9a4f4e26b69f114637594859f4ee",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101989397,
-    "wof:lastmodified":1564142107,
+    "wof:lastmodified":1566625761,
     "wof:name":"Serran\u00f3polis",
     "wof:parent_id":102062723,
     "wof:placetype":"locality",

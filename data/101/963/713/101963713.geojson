@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.115595,
     "lbl:longitude":-50.866811,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.115595,
     "mps:longitude":-50.866811,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u09b0\u09cd\u0997\u09c7\u09ae \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
     ],
@@ -85,7 +88,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -94,7 +97,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"8b975b9725b93b8f95d89fc7bcbf382b",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101963713,
-    "wof:lastmodified":1564139382,
+    "wof:lastmodified":1566623584,
     "wof:name":"Vargem Grande",
     "wof:parent_id":102057985,
     "wof:placetype":"locality",

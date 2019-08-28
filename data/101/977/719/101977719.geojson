@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.511953,
     "lbl:longitude":-37.881206,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.511953,
     "mps:longitude":-37.881206,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Massaranduba"
     ],
@@ -67,7 +70,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -76,7 +79,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"c482648cdafc7f73e8a205dd387cd3ce",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101977719,
-    "wof:lastmodified":1564139836,
+    "wof:lastmodified":1566623984,
     "wof:name":"Massaranduba",
     "wof:parent_id":102051209,
     "wof:placetype":"locality",

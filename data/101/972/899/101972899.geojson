@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.982277,
     "lbl:longitude":-39.05787,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.982277,
     "mps:longitude":-39.05787,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0644 \u0633\u0648\u062f\u0648\u0645\u0627"
     ],
@@ -133,7 +136,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1620,
     "wof:belongsto":[
         85681895,
@@ -145,7 +148,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":442131,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q8506"
     },
     "wof:country":"BR",
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101972899,
-    "wof:lastmodified":1563247829,
+    "wof:lastmodified":1566626298,
     "wof:name":"Sodoma",
     "wof:parent_id":404551603,
     "wof:placetype":"locality",

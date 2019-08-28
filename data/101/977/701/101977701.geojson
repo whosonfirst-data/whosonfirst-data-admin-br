@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.385954,
     "lbl:longitude":-38.051524,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.385954,
     "mps:longitude":-38.051524,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jardim"
     ],
@@ -73,7 +76,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -83,7 +86,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"529aa24f8996bd9f4aac10da5b1a0831",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101977701,
-    "wof:lastmodified":1564139746,
+    "wof:lastmodified":1566623937,
     "wof:name":"Jardim",
     "wof:parent_id":404552055,
     "wof:placetype":"locality",

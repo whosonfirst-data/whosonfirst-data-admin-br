@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.681582,
     "lbl:longitude":-43.608689,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.681582,
     "mps:longitude":-43.608689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09ad\u09c7\u09b0\u09be\u09ad\u09be"
     ],
@@ -121,7 +124,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -134,7 +137,7 @@
         "fct:id":"0385edfa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460569,
         "gp:id":436181,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1791590",
         "wk:page":"Itaverava"
     },
@@ -154,7 +157,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246341,
+    "wof:lastmodified":1566625525,
     "wof:name":"Itaverava",
     "wof:parent_id":404556775,
     "wof:placetype":"locality",

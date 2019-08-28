@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.634145,
     "lbl:longitude":-41.794132,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.634145,
     "mps:longitude":-41.794132,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0440\u0442\u0430\u0434\u0430"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":436,
     "wof:belongsto":[
         102191577,
@@ -114,7 +117,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3401609,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q59072"
     },
     "wof:country":"BR",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101985135,
-    "wof:lastmodified":1563244061,
+    "wof:lastmodified":1566624481,
     "wof:name":"Cortado",
     "wof:parent_id":102057115,
     "wof:placetype":"locality",

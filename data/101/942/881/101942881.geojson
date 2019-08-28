@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.590783,
     "lbl:longitude":-47.014452,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.590783,
     "mps:longitude":-47.014452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c1\u09b0\u09bf\u099f\u09bf\u09b0\u09be\u09a8\u09be"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -112,7 +115,7 @@
         "fct:id":"038981a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316664,
         "gp:id":55944185,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2013324"
     },
     "wof:country":"BR",
@@ -130,7 +133,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246865,
+    "wof:lastmodified":1566625827,
     "wof:name":"Buritirana",
     "wof:parent_id":102052855,
     "wof:placetype":"locality",

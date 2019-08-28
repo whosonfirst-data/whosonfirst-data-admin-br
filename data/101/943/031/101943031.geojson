@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.195906,
     "lbl:longitude":-44.827614,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-2.195906,
     "mps:longitude":-44.827614,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2 \u09a1\u09cb \u09ae\u09be\u09b0\u09be\u09a8\u09b9\u09cb"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":195,
     "wof:belongsto":[
         102191577,
@@ -113,7 +116,7 @@
         "fct:id":"0388424e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316840,
         "gp:id":26803911,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2068312",
         "wk:page":"Central do Maranh\u00e3o"
     },
@@ -132,7 +135,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841305,
+    "wof:lastmodified":1566626089,
     "wof:name":"Central do Maranh\u00e3o",
     "wof:parent_id":102052883,
     "wof:placetype":"locality",

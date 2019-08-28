@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.616616,
     "lbl:longitude":-46.705324,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-22.616616,
     "mps:longitude":-46.705324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u09cd\u09b0\u09be \u09a8\u09c7\u0997\u09cd\u09b0\u09be"
     ],
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":925.0,
     "wd:latitude":-22.611944,
@@ -139,10 +142,12 @@
         "fct:id":"038676ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3447718,
         "gp:id":451886,
-        "qs:id":1062898,
         "qs_pg:id":1055052,
         "wd:id":"Q1439179",
         "wk:page":"Serra Negra"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1062898
     },
     "wof:country":"BR",
     "wof:geomhash":"654daa92c8f423844df72588d3cea4ec",
@@ -159,7 +164,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241714,
+    "wof:lastmodified":1566623417,
     "wof:name":"Serra Negra",
     "wof:parent_id":102062285,
     "wof:placetype":"locality",

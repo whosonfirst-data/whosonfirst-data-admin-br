@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.607961,
     "lbl:longitude":-48.953693,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.607961,
     "mps:longitude":-48.953693,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Felipe Ribeiro dos Santos"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         85682041,
@@ -75,7 +78,7 @@
         "fct:id":"03819426-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451310,
         "gp:id":447164,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q5442033"
     },
     "wof:country":"BR",
@@ -94,7 +97,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242652,
+    "wof:lastmodified":1566623853,
     "wof:name":"Ribeiro dos Santos",
     "wof:parent_id":404566895,
     "wof:placetype":"locality",

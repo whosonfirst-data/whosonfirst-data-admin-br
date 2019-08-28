@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.793879,
     "lbl:longitude":-52.62224,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.793879,
     "mps:longitude":-52.62224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099a\u09be\u09aa\u09be\u09a1\u09cd\u09af\u09be\u0993 \u09a1\u09cb \u09b8\u09c1\u09b2"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Centro de Zona B",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":38,
     "wof:belongsto":[
         102191577,
@@ -119,7 +122,7 @@
         "fct:id":"03895fd0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316864,
         "gp:id":55943830,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1805278",
         "wk:page":"Chapad\u00e3o do Sul"
     },
@@ -138,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841185,
+    "wof:lastmodified":1566624935,
     "wof:name":"Chapad\u00e3o do Sul",
     "wof:parent_id":102055219,
     "wof:placetype":"locality",

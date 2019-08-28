@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.619591,
     "lbl:longitude":-51.237936,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.619591,
     "mps:longitude":-51.237936,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09be\u09a8\u099f\u09c7\u09b8"
     ],
@@ -73,7 +76,7 @@
     "name:swe_x_preferred":[
         "Nantes"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Patrim\u00f4nio Santa Guilhermina"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -115,7 +118,7 @@
         "fct:id":"03888a42-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456399,
         "gp:id":441301,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1119526"
     },
     "wof:country":"BR",
@@ -133,7 +136,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242583,
+    "wof:lastmodified":1566623831,
     "wof:name":"Nantes",
     "wof:parent_id":102061801,
     "wof:placetype":"locality",

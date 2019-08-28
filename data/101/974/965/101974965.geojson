@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.650401,
     "lbl:longitude":-46.355366,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.650401,
     "mps:longitude":-46.355366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09f1\u09be \u098f\u09b8\u09aa\u09c7\u09b0\u09be\u09a8\u09cd\u09b8\u09be"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":50,
     "wof:belongsto":[
         102191577,
@@ -87,7 +90,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456700,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"c1f54b025143f251c5026f8cfe306ed6",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101974965,
-    "wof:lastmodified":1564141895,
+    "wof:lastmodified":1566625646,
     "wof:name":"Boa Esperan\u00e7a",
     "wof:parent_id":102052853,
     "wof:placetype":"locality",

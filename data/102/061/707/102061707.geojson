@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-20.588252,
     "lbl:longitude":-50.223143,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-20.588252,
     "mps:longitude":-50.223143,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u0997\u09a1\u09be"
     ],
@@ -97,7 +100,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":102061707,
-    "wof:lastmodified":1564133030,
+    "wof:lastmodified":1566619355,
     "wof:name":"Magda",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

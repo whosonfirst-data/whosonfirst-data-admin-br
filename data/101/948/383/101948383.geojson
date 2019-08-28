@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.781057,
     "lbl:longitude":-35.811312,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-8.781057,
     "mps:longitude":-35.811312,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09be\u0987\u0986\u09b2"
     ],
@@ -71,9 +74,6 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0430\u044f\u043b"
     ],
-    "name:unk_x_variant":[
-        "Marayal"
-    ],
     "name:vie_x_preferred":[
         "Maraial"
     ],
@@ -106,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681973,
@@ -120,7 +120,6 @@
         "fct:id":"0387c648-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3395456,
         "gp:id":460063,
-        "qs:id":827922,
         "qs_pg:id":827922,
         "wd:id":"Q2011013",
         "wk:page":"Maraial"
@@ -141,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841104,
+    "wof:lastmodified":1566623895,
     "wof:name":"Maraial",
     "wof:parent_id":404560493,
     "wof:placetype":"locality",

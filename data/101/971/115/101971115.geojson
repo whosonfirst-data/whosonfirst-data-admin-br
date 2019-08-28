@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.73855,
     "lbl:longitude":-41.926503,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.73855,
     "mps:longitude":-41.926503,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Cedro"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -87,7 +90,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3466519,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"7f08a4d2b0fb1ff7b766525d74554786",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101971115,
-    "wof:lastmodified":1564140588,
+    "wof:lastmodified":1566624474,
     "wof:name":"Cedro",
     "wof:parent_id":404550569,
     "wof:placetype":"locality",

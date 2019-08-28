@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.317711,
     "lbl:longitude":-42.607473,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.317711,
     "mps:longitude":-42.607473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09cb \u0986\u09a8\u09cd\u099f\u09cb\u09a8\u09bf\u0993 \u09a1\u09cb \u0997\u09cd\u09b0\u09be\u09ae\u09be"
     ],
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":50,
     "wof:belongsto":[
         85681941,
@@ -129,7 +132,7 @@
         "fct:id":"03865c90-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3449509,
         "gp:id":449367,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1789248",
         "wk:page":"Santo Ant\u00f4nio do Grama"
     },
@@ -149,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841035,
+    "wof:lastmodified":1566623343,
     "wof:name":"Santo Ant\u00f4nio do Grama",
     "wof:parent_id":404558171,
     "wof:placetype":"locality",

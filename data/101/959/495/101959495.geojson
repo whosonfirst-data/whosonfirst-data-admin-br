@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.419598,
     "lbl:longitude":-52.679131,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.419598,
     "mps:longitude":-52.679131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09be\u0995\u09cd\u09b8\u09bf\u09a8\u09be\u09b2\u099c\u09bf\u09a8\u09b9\u09cb"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -124,7 +127,7 @@
         "fct:id":"03886f44-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317119,
         "gp:id":26804221,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1758357",
         "wk:page":"Faxinalzinho"
     },
@@ -143,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841207,
+    "wof:lastmodified":1566625122,
     "wof:name":"Faxinalzinho",
     "wof:parent_id":102059407,
     "wof:placetype":"locality",

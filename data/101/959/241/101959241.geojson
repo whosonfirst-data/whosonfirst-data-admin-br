@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.361376,
     "lbl:longitude":-52.779172,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.361376,
     "mps:longitude":-52.779172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09a8\u09cb\u09af\u09bc\u09be\u0987"
     ],
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "Nonoai"
     ],
-    "name:unk_x_variant":[
-        "Nonohay"
-    ],
     "name:vie_x_preferred":[
         "Nonoai"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -129,7 +129,6 @@
         "fct:id":"0387caee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456272,
         "gp:id":460247,
-        "qs:id":828361,
         "qs_pg:id":828361,
         "wd:id":"Q941207"
     },
@@ -148,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245405,
+    "wof:lastmodified":1566625110,
     "wof:name":"Nonoai",
     "wof:parent_id":102059643,
     "wof:placetype":"locality",

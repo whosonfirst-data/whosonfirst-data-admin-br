@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.678668,
     "lbl:longitude":-39.678008,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.678668,
     "mps:longitude":-39.678008,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Barra Nova"
     ],
@@ -34,7 +37,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         85681895,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3470615,
         "gp:id":456216,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"87260c160a5035c95ae3ce099701d332",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101971909,
-    "wof:lastmodified":1527688413,
+    "wof:lastmodified":1566624425,
     "wof:name":"Barra Nova",
     "wof:parent_id":404551011,
     "wof:placetype":"locality",

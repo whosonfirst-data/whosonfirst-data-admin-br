@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.421997,
     "lbl:longitude":-46.010873,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-23.421997,
     "mps:longitude":-46.010873,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09b0\u09be\u09b0\u09c7\u09ae\u09be"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":585.0,
     "wd:latitude":-23.415,
@@ -125,10 +128,12 @@
         "fct:id":"038a02fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461871,
         "gp:id":434977,
-        "qs:id":148256,
-        "qs_pg:id":327078,
+        "qs_pg:id":148256,
         "wd:id":"Q404820",
         "wk:page":"Guararema"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":327078
     },
     "wof:country":"BR",
     "wof:geomhash":"36fb2fa01ecf1f8a18632aeacae84ad7",
@@ -146,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241794,
+    "wof:lastmodified":1566623463,
     "wof:name":"Guararema",
     "wof:parent_id":404566467,
     "wof:placetype":"locality",

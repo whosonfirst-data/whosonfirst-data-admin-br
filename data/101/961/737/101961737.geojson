@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.871775,
     "lbl:longitude":-52.755915,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.871775,
     "mps:longitude":-52.755915,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u09b0\u09bf\u09a8\u09b9\u09be"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681955,
         102191577,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":6318680,
         "gp:id":456623,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"1fbfdc3b833fa05073de448bb1551f82",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101961737,
-    "wof:lastmodified":1564141119,
+    "wof:lastmodified":1566624932,
     "wof:name":"Serrinha",
     "wof:parent_id":404559089,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-20.466396,
     "lbl:longitude":-55.77895,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-20.466396,
     "mps:longitude":-55.77895,
     "mz:hierarchy_label":1,
@@ -89,9 +91,6 @@
     ],
     "name:swe_x_preferred":[
         "Aquidauana"
-    ],
-    "name:unk_x_variant":[
-        "Aquidavana"
     ],
     "name:vie_x_preferred":[
         "Aquidauana"
@@ -215,7 +214,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681947,
@@ -229,7 +228,6 @@
         "fct:id":"0386a682-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471896,
         "gp:id":456043,
-        "qs:id":274370,
         "qs_pg:id":274370,
         "wd:id":"Q1792157"
     },
@@ -249,7 +247,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245011,
+    "wof:lastmodified":1566624932,
     "wof:name":"Aquidauana",
     "wof:parent_id":404558803,
     "wof:placetype":"locality",

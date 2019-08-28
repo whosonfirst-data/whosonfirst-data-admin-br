@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.17646,
     "lbl:longitude":-46.75021,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-23.17646,
     "mps:longitude":-46.75021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a1\u09cd\u09b0\u09c7\u0997\u09c1\u09b2\u09b9\u09cb"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-20.256944,
     "wd:longitude":-47.476667,
@@ -103,7 +106,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":427671,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"6e2d26708102556c6357694a7016c46c",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101962931,
-    "wof:lastmodified":1564139296,
+    "wof:lastmodified":1566623492,
     "wof:name":"Pedregulho",
     "wof:parent_id":102061633,
     "wof:placetype":"locality",

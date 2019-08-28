@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.080654,
     "lbl:longitude":-53.836449,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-29.080654,
     "mps:longitude":-53.836449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c1\u09aa\u09be\u09a8\u09b8\u09bf\u09b0\u09c7\u099f\u09be"
     ],
@@ -87,9 +90,6 @@
     "name:swe_x_preferred":[
         "Tupanciret\u00e3"
     ],
-    "name:unk_x_variant":[
-        "Tupaceretan"
-    ],
     "name:vie_x_preferred":[
         "Tupanciret\u00e3"
     ],
@@ -119,7 +119,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682015,
@@ -133,7 +133,6 @@
         "fct:id":"0389216e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3445939,
         "gp:id":458214,
-        "qs:id":342717,
         "qs_pg:id":342717,
         "wd:id":"Q1756630"
     },
@@ -153,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245686,
+    "wof:lastmodified":1566625233,
     "wof:name":"Tupanciret\u00e3",
     "wof:parent_id":404564993,
     "wof:placetype":"locality",

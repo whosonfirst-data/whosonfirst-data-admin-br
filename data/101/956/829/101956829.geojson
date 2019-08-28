@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.657193,
     "lbl:longitude":-52.894313,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.657193,
     "mps:longitude":-52.894313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Irati"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":151,
     "wof:belongsto":[
         102191577,
@@ -101,7 +104,7 @@
         "fct:id":"03896340-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317302,
         "gp:id":55943861,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q767579",
         "wk:page":"Irati, Santa Catarina"
     },
@@ -120,7 +123,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841240,
+    "wof:lastmodified":1566625350,
     "wof:name":"Irati",
     "wof:parent_id":102060461,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.830966,
     "lbl:longitude":-39.619296,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.830966,
     "mps:longitude":-39.619296,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u099f\u09c7 \u0995\u09be\u09b0\u09cd\u09ae\u09c7\u09b2\u09cb"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -98,7 +101,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"4d21d0b167e9c9147663d3003337bdc2",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101977113,
-    "wof:lastmodified":1564139842,
+    "wof:lastmodified":1566623987,
     "wof:name":"Monte Carmelo",
     "wof:parent_id":404553983,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.220839,
     "lbl:longitude":-42.493068,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-19.220839,
     "mps:longitude":-42.493068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b2\u09cb \u0993\u09b0\u09bf\u09af\u09bc\u09c7\u09a8\u09cd\u099f\u09c7"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -132,7 +135,6 @@
         "fct:id":"03858b8a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3470117,
         "gp:id":424574,
-        "qs:id":148453,
         "qs_pg:id":148453,
         "wd:id":"Q816123",
         "wk:page":"Belo Oriente"
@@ -153,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841147,
+    "wof:lastmodified":1566624559,
     "wof:name":"Belo Oriente",
     "wof:parent_id":404555411,
     "wof:placetype":"locality",

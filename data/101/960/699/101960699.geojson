@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.930085,
     "lbl:longitude":-50.974738,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-29.930085,
     "mps:longitude":-50.974738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0627\u0641\u0627\u062a\u0627\u064a"
     ],
@@ -170,9 +173,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u0432\u0430\u0442\u0430\u0439"
     ],
-    "name:unk_x_variant":[
-        "Gravatahy"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u0631\u0627\u0648\u0627\u062a\u0627\u06cc"
     ],
@@ -205,7 +205,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1076,
     "wof:belongsto":[
@@ -220,7 +220,6 @@
         "fct:id":"0389f7f6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3462089,
         "gp:id":457229,
-        "qs:id":353323,
         "qs_pg:id":353323,
         "wd:id":"Q694822",
         "wk:page":"Gravata\u00ed"
@@ -241,7 +240,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245885,
+    "wof:lastmodified":1566625320,
     "wof:name":"Gravata\u00ed",
     "wof:parent_id":404563693,
     "wof:placetype":"locality",

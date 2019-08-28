@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.582862,
     "lbl:longitude":-39.279828,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.582862,
     "mps:longitude":-39.279828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Jardim"
     ],
@@ -75,9 +78,6 @@
     "name:swe_x_preferred":[
         "Jardim"
     ],
-    "name:unk_x_variant":[
-        "Santo Ant\u00f4nio do Jardim"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u0631\u062f\u0645\u060c \u06a9\u0627\u0631\u0627"
     ],
@@ -110,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -123,7 +123,6 @@
         "fct:id":"0386c3e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3397577,
         "gp:id":456286,
-        "qs:id":1056194,
         "qs_pg:id":1056194,
         "wd:id":"Q929116"
     },
@@ -143,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247124,
+    "wof:lastmodified":1566625936,
     "wof:name":"Jardim",
     "wof:parent_id":404553205,
     "wof:placetype":"locality",

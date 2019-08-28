@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.970333,
     "lbl:longitude":-45.354846,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-2.970333,
     "mps:longitude":-45.354846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a1\u09cd\u09b0\u09cb \u09a1\u09cb \u09b0\u09cb\u09b8\u09be\u09b0\u09bf\u0993"
     ],
@@ -104,7 +107,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":195,
     "wof:belongsto":[
         102191577,
@@ -117,7 +120,7 @@
         "fct:id":"038959fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317916,
         "gp:id":55943770,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q661607",
         "wk:page":"Pedro do Ros\u00e1rio"
     },
@@ -136,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841314,
+    "wof:lastmodified":1566626129,
     "wof:name":"Pedro do Ros\u00e1rio",
     "wof:parent_id":102053073,
     "wof:placetype":"locality",

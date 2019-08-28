@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.970081,
     "lbl:longitude":-56.477557,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.970081,
     "mps:longitude":-56.477557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u099f\u09cd\u09b0\u09cb\u0995\u0987\u09a8\u09bf\u0993"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1658,
     "wof:belongsto":[
         102191577,
@@ -105,7 +108,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":457386,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e41f660bee99413d682468bd9b91f8ed",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101981721,
-    "wof:lastmodified":1564142597,
+    "wof:lastmodified":1566626193,
     "wof:name":"Patroc\u00ednio",
     "wof:parent_id":102055791,
     "wof:placetype":"locality",

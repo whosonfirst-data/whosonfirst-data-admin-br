@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.304069,
     "lbl:longitude":-45.842534,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-2.304069,
     "mps:longitude":-45.842534,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c1\u09b0\u09bf\u099f\u09bf\u09b0\u09be\u09ae\u09be"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -107,7 +110,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26803924,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"228c43c5c3d4cc05ea2ed0e4d273763e",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101978521,
-    "wof:lastmodified":1564140372,
+    "wof:lastmodified":1566624336,
     "wof:name":"Buritirama",
     "wof:parent_id":102053103,
     "wof:placetype":"locality",

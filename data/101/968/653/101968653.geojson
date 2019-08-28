@@ -9,14 +9,17 @@
     "geom:bbox":"-46.8707640917,-20.7541923272,-46.8453228994,-20.7323253173",
     "geom:latitude":-20.7429,
     "geom:longitude":-46.858076,
-    "geonames:id":"3452379,3452380",
+    "gn:id":"3452379,3452380",
     "iso:country":"BR",
     "lbl:latitude":-20.742994,
     "lbl:longitude":-46.858941,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.742994,
     "mps:longitude":-46.858941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cd\u09b0\u09be\u099f\u09be\u09aa\u09cb\u09b2\u09bf\u09b8"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":545,
     "wof:belongsto":[
         85681941,
@@ -119,9 +122,11 @@
     "wof:concordances":{
         "gn:id":3452380,
         "gp:id":445823,
-        "qs:id":3,
-        "qs_pg:id":1043405,
+        "qs_pg:id":3,
         "wd:id":"Q1789690"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1043405
     },
     "wof:country":"BR",
     "wof:geomhash":"eada6992d59f989a827e29e665515e55",
@@ -136,7 +141,7 @@
         }
     ],
     "wof:id":101968653,
-    "wof:lastmodified":1563244977,
+    "wof:lastmodified":1566624916,
     "wof:name":"Prat\u00e1polis",
     "wof:parent_id":404557825,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.105059,
     "lbl:longitude":-52.956563,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.105059,
     "mps:longitude":-52.956563,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c1\u09a8\u09be\u09b8"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         85682015,
@@ -117,7 +120,7 @@
         "fct:id":"0384a418-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3445947,
         "gp:id":461475,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1803262",
         "wk:page":"Tunas, Rio Grande do Sul"
     },
@@ -137,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245323,
+    "wof:lastmodified":1566625077,
     "wof:name":"Tunas",
     "wof:parent_id":404564979,
     "wof:placetype":"locality",

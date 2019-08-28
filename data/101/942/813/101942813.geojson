@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.930276,
     "lbl:longitude":-46.944062,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.930276,
     "mps:longitude":-46.944062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b0\u09cd\u09b0\u09be\u0987\u09af\u09bc\u09be\u09b8"
     ],
@@ -88,9 +91,6 @@
     "name:swe_x_preferred":[
         "Arraias"
     ],
-    "name:unk_x_variant":[
-        "Arrayas"
-    ],
     "name:vie_x_preferred":[
         "Arraias"
     ],
@@ -123,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682053,
         102191577,
@@ -136,7 +136,6 @@
         "fct:id":"0386f83a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471448,
         "gp:id":456719,
-        "qs:id":815531,
         "qs_pg:id":815531,
         "wd:id":"Q1801696",
         "wk:page":"Arraias"
@@ -157,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246960,
+    "wof:lastmodified":1566625863,
     "wof:name":"Arraias",
     "wof:parent_id":404567637,
     "wof:placetype":"locality",

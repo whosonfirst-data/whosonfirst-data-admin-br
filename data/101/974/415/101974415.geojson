@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.678179,
     "lbl:longitude":-50.300552,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.678179,
     "mps:longitude":-50.300552,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09cb \u09aa\u09b2\u09be\u09a8\u09be\u09b2\u09cd\u099f\u09cb"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -103,7 +106,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"6053980a021a69e93d2d862f38ef2c95",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101974415,
-    "wof:lastmodified":1564141911,
+    "wof:lastmodified":1566625656,
     "wof:name":"Novo Planalto",
     "wof:parent_id":102052185,
     "wof:placetype":"locality",

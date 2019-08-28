@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.253031,
     "lbl:longitude":-47.818141,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-22.253031,
     "mps:longitude":-47.818141,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09bf\u09b0\u09be\u09aa\u09bf\u09a8\u09be"
     ],
@@ -80,9 +83,6 @@
     "name:swe_x_preferred":[
         "Itirapina"
     ],
-    "name:unk_x_variant":[
-        "Ityrapina"
-    ],
     "name:vol_x_preferred":[
         "Itirapina"
     ],
@@ -109,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.252778,
     "wd:longitude":-47.822778,
@@ -127,7 +127,6 @@
         "fct:id":"0387be78-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460553,
         "gp:id":459741,
-        "qs:id":1055424,
         "qs_pg:id":1055424,
         "wd:id":"Q1759703",
         "wk:page":"Itirapina"
@@ -148,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242249,
+    "wof:lastmodified":1566623690,
     "wof:name":"Itirapina",
     "wof:parent_id":404566609,
     "wof:placetype":"locality",

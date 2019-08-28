@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.313361,
     "lbl:longitude":-43.577395,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.313361,
     "mps:longitude":-43.577395,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "S\u00e3o Bartolomeu"
     ],
@@ -39,7 +42,7 @@
     "name:tur_x_preferred":[
         "S\u00e3o Bartolomeu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Bartholomeu"
     ],
     "qs:a0":"Brasil",
@@ -57,7 +60,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":94,
     "wof:belongsto":[
         85681941,
@@ -71,7 +74,7 @@
         "fct:id":"0381c112-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3449419,
         "gp:id":449505,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"6f7ac1706eb0d3a16155105f19ae61eb",
@@ -89,7 +92,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564141686,
+    "wof:lastmodified":1566625518,
     "wof:name":"S\u00e3o Bartolomeu",
     "wof:parent_id":404557499,
     "wof:placetype":"locality",

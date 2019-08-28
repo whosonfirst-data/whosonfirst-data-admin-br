@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.963459,
     "lbl:longitude":-44.073384,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.963459,
     "mps:longitude":-44.073384,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u0997\u09b2\u09cb\u09b0\u09bf\u09af\u09bc\u09be"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":405,
     "wof:belongsto":[
         85681895,
@@ -103,7 +106,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":422422,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"f1e723230028944be6d0e5820e46a686",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101975565,
-    "wof:lastmodified":1564142676,
+    "wof:lastmodified":1566626228,
     "wof:name":"Nova Gl\u00f3ria",
     "wof:parent_id":404551903,
     "wof:placetype":"locality",

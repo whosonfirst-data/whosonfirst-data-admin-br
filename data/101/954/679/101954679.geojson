@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.612148,
     "lbl:longitude":-53.878556,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.612148,
     "mps:longitude":-53.878556,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*PR",
     "qs:a1_lc":"41",
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":127,
     "wof:belongsto":[
         85681983,
@@ -46,7 +49,9 @@
     "wof:concordances":{
         "gn:id":3448555,
         "gp:id":450802,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1163874
     },
     "wof:country":"BR",
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":101954679,
-    "wof:lastmodified":1527641725,
+    "wof:lastmodified":1566623324,
     "wof:name":"S\u00e3o Luiz",
     "wof:parent_id":404561003,
     "wof:placetype":"locality",

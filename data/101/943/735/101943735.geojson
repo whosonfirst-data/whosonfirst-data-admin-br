@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.46698,
     "lbl:longitude":-42.36382,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-3.46698,
     "mps:longitude":-42.36382,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09c1\u099c\u0987\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
     ],
@@ -80,9 +83,6 @@
     "name:swe_x_preferred":[
         "Luzil\u00e2ndia"
     ],
-    "name:unk_x_variant":[
-        "P\u00f4rto Alegre"
-    ],
     "name:vie_x_preferred":[
         "Luzil\u00e2ndia"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":147,
     "wof:belongsto":[
@@ -126,7 +126,6 @@
         "fct:id":"038744de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3396101,
         "gp:id":457493,
-        "qs:id":820327,
         "qs_pg:id":820327,
         "wd:id":"Q1924294",
         "wk:page":"Luzil\u00e2ndia"
@@ -146,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247484,
+    "wof:lastmodified":1566626109,
     "wof:name":"Luzil\u00e2ndia",
     "wof:parent_id":102057171,
     "wof:placetype":"locality",

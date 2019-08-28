@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.103386,
     "lbl:longitude":-44.139072,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.103386,
     "mps:longitude":-44.139072,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099a\u09be\u09aa\u09be\u09a1\u09bf\u09a8\u09b9\u09be"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -103,7 +106,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"1fef8f01c53f8ec894be031559cdcb49",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101980237,
-    "wof:lastmodified":1564142074,
+    "wof:lastmodified":1566625745,
     "wof:name":"Chapadinha",
     "wof:parent_id":102052931,
     "wof:placetype":"locality",

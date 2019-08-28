@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.477944,
     "lbl:longitude":-39.175493,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.477944,
     "mps:longitude":-39.175493,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*CE",
     "qs:a1_lc":"23",
@@ -30,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":442730,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"3bc1452413bd44ef4e8f4cdbfad73853",
+    "wof:geomhash":"f208b788e18b68c8b36064537631d7eb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101977377,
-    "wof:lastmodified":1479944646,
+    "wof:lastmodified":1566623956,
     "wof:name":"Setor E",
     "wof:parent_id":404553569,
     "wof:placetype":"locality",

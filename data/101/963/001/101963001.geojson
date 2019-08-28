@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.939126,
     "lbl:longitude":-46.47986,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.939126,
     "mps:longitude":-46.47986,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09b0\u09be\u09a8\u09bf \u09a1\u09c7 \u0997\u09cb\u09af\u09bc\u09be\u09b8"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":377,
     "wof:belongsto":[
         102191577,
@@ -119,7 +122,7 @@
         "fct:id":"03896a84-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317236,
         "gp:id":55943937,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q767830",
         "wk:page":"Guarani de Goi\u00e1s"
     },
@@ -138,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841071,
+    "wof:lastmodified":1566623582,
     "wof:name":"Guarani de Goi\u00e1s",
     "wof:parent_id":102052221,
     "wof:placetype":"locality",

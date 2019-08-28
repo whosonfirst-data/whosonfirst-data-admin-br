@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.940869,
     "lbl:longitude":-57.131411,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.940869,
     "mps:longitude":-57.131411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09cd\u099f\u09cb \u09aa\u09be\u09b0\u09be\u0987\u09b8\u09cb"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":25,
     "wof:belongsto":[
         102191577,
@@ -98,7 +101,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"86d49eb9091e21a33b2143cbd5ad3e81",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101981611,
-    "wof:lastmodified":1564142536,
+    "wof:lastmodified":1566626153,
     "wof:name":"Alto Para\u00edso",
     "wof:parent_id":102055661,
     "wof:placetype":"locality",

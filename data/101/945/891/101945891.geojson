@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.452635,
     "lbl:longitude":-38.477313,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.452635,
     "mps:longitude":-38.477313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u0997\u09c1\u09f1\u09be\u09b0\u09bf\u09ac\u09be\u09b0\u09be"
     ],
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Jaguaribara"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Rosa"
     ],
     "name:urd_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -116,9 +119,11 @@
     "wof:concordances":{
         "gn:id":3397678,
         "gp:id":436473,
-        "qs:id":9,
-        "qs_pg:id":883805,
+        "qs_pg:id":9,
         "wd:id":"Q2028838"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":883805
     },
     "wof:country":"BR",
     "wof:geomhash":"53c584fd552852d6212312238b3c3c56",
@@ -132,7 +137,7 @@
         }
     ],
     "wof:id":101945891,
-    "wof:lastmodified":1563247121,
+    "wof:lastmodified":1566625935,
     "wof:name":"Jaguaribara",
     "wof:parent_id":102051609,
     "wof:placetype":"locality",

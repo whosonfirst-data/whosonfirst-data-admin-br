@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.875689,
     "lbl:longitude":-47.216496,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-22.875689,
     "mps:longitude":-47.216496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0627\u0648\u0631\u062a\u0648\u0644\u0627\u0646\u062f\u064a\u0627"
     ],
@@ -181,7 +184,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.858333,
     "wd:longitude":-47.22,
@@ -199,10 +202,12 @@
         "fct:id":"0389df82-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461655,
         "gp:id":435210,
-        "qs:id":148253,
-        "qs_pg:id":1054730,
+        "qs_pg:id":148253,
         "wd:id":"Q952617",
         "wk:page":"Hortol\u00e2ndia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1054730
     },
     "wof:country":"BR",
     "wof:geomhash":"43d85bf144183c60843a493f7b22751d",
@@ -220,7 +225,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841248,
+    "wof:lastmodified":1566625393,
     "wof:name":"Hortol\u00e2ndia",
     "wof:parent_id":404566485,
     "wof:placetype":"locality",

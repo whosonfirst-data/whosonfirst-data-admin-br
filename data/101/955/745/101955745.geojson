@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000069,
-    "geom:area_square_m":793628.011127,
+    "geom:area_square_m":793628.011126,
     "geom:bbox":"-48.639278,-21.481903,-48.62723,-21.471417",
     "geom:latitude":-21.476242,
     "geom:longitude":-48.632866,
     "iso:country":"BR",
     "lbl:latitude":-21.476352,
     "lbl:longitude":-48.632958,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.476352,
     "mps:longitude":-48.632958,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Guariroba"
     ],
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -48,7 +52,9 @@
         "fct:id":"0380a8ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461824,
         "gp:id":435039,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":180908
     },
     "wof:country":"BR",
@@ -67,7 +73,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497296317,
+    "wof:lastmodified":1566623870,
     "wof:name":"Guariroba",
     "wof:parent_id":404567555,
     "wof:placetype":"locality",

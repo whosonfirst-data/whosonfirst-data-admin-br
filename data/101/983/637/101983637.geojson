@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-17.211217,
     "lbl:longitude":-44.793473,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-17.211217,
     "mps:longitude":-44.793473,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u09b0\u09cd\u099f\u09c7\u0987\u09b0\u09be\u09b8"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -94,7 +97,7 @@
     "wof:concordances":{
         "gn:id":3452962,
         "gp:id":457232,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"b874ae1a5592572ed8ca14bb5d67c4af",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101983637,
-    "wof:lastmodified":1564139932,
+    "wof:lastmodified":1566624039,
     "wof:name":"Porteiras",
     "wof:parent_id":404558717,
     "wof:placetype":"locality",

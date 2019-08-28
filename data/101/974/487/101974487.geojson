@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.928822,
     "lbl:longitude":-49.507417,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.928822,
     "mps:longitude":-49.507417,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Palestina"
     ],
@@ -133,7 +136,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -143,7 +146,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":457407,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"fb62acc90a5d69edc6e43511392a1138",
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101974487,
-    "wof:lastmodified":1564141954,
+    "wof:lastmodified":1566625683,
     "wof:name":"Palestina",
     "wof:parent_id":102052321,
     "wof:placetype":"locality",

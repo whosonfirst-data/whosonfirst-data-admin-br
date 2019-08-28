@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.847019,
     "lbl:longitude":-40.413547,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.847019,
     "mps:longitude":-40.413547,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Almas"
     ],
@@ -67,7 +70,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -79,7 +82,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":434802,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"017a44f323e3a978bc3cc56c5f44cf8b",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1175610605,
-    "wof:lastmodified":1564138172,
+    "wof:lastmodified":1566622784,
     "wof:name":"Almas",
     "wof:parent_id":404552613,
     "wof:placetype":"locality",

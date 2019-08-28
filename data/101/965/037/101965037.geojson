@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.338534,
     "lbl:longitude":-47.492201,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.338534,
     "mps:longitude":-47.492201,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09cb \u0994\u0997\u09c1\u09b8\u099f\u09cb"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -98,7 +101,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e86bb257aa5b262ccdc9700d0947749d",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101965037,
-    "wof:lastmodified":1564139238,
+    "wof:lastmodified":1566623442,
     "wof:name":"Santo Augusto",
     "wof:parent_id":404567035,
     "wof:placetype":"locality",

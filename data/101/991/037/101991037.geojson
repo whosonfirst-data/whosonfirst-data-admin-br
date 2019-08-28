@@ -9,14 +9,17 @@
     "geom:bbox":"-46.597834,-23.844843,-46.591579,-23.840218",
     "geom:latitude":-23.84264,
     "geom:longitude":-46.595191,
-    "geonames:id":"7604356,7604364",
+    "gn:id":"7604356,7604364",
     "iso:country":"BR",
     "lbl:latitude":-23.842738,
     "lbl:longitude":-46.595237,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.842738,
     "mps:longitude":-46.595237,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Santa Cruz"
     ],
@@ -173,7 +176,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -184,7 +187,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":449648,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e534d4e51e4ffde49c749db88577af94",
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":101991037,
-    "wof:lastmodified":1564139290,
+    "wof:lastmodified":1566623487,
     "wof:name":"Santa Cruz",
     "wof:parent_id":404567213,
     "wof:placetype":"locality",

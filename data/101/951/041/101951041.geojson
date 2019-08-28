@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.699033,
     "lbl:longitude":-44.825856,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-20.699033,
     "mps:longitude":-44.825856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0993\u09b2\u09bf\u09ad\u09c7\u0987\u09b0\u09be"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Oliveira"
     ],
-    "name:unk_x_variant":[
-        "Olivera"
-    ],
     "name:vie_x_preferred":[
         "Oliveira"
     ],
@@ -115,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2658,
     "wof:belongsto":[
@@ -130,7 +130,6 @@
         "fct:id":"038759f6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3455908,
         "gp:id":457700,
-        "qs:id":469900,
         "qs_pg:id":469900,
         "wd:id":"Q1754812",
         "wk:page":"Oliveira, Minas Gerais"
@@ -151,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246222,
+    "wof:lastmodified":1566625484,
     "wof:name":"Oliveira",
     "wof:parent_id":404557449,
     "wof:placetype":"locality",

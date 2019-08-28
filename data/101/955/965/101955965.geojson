@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.767942,
     "lbl:longitude":-47.528583,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.767942,
     "mps:longitude":-47.528583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Tupi"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":134,
     "wof:belongsto":[
         85682041,
@@ -89,7 +92,9 @@
         "fct:id":"03821914-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3445931,
         "gp:id":454282,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1076570
     },
     "wof:country":"BR",
@@ -108,7 +113,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564139648,
+    "wof:lastmodified":1566623814,
     "wof:name":"Tupi",
     "wof:parent_id":404566981,
     "wof:placetype":"locality",

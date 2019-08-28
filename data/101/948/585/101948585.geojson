@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.927879,
     "lbl:longitude":-35.294478,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-7.927879,
     "mps:longitude":-35.294478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u0997\u09cb\u09af\u09bc\u09be \u09a1\u09cb \u0987\u099f\u09be\u09af\u09bc\u09c7\u0999\u09cd\u0997\u09be"
     ],
@@ -101,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -114,7 +117,6 @@
         "fct:id":"0385fbc4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3396769,
         "gp:id":437820,
-        "qs:id":279743,
         "qs_pg:id":279743,
         "wd:id":"Q1887813",
         "wk:page":"Lagoa do Itaenga"
@@ -134,7 +136,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841110,
+    "wof:lastmodified":1566623928,
     "wof:name":"Lagoa do Itaenga",
     "wof:parent_id":102056705,
     "wof:placetype":"locality",

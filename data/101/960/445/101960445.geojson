@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.128912,
     "lbl:longitude":-51.394863,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.128912,
     "mps:longitude":-51.394863,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Cap\u00e3o Bonito do Sul"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":137,
     "wof:belongsto":[
         85682015,
@@ -108,7 +111,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q765830"
     },
     "wof:country":"BR",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101960445,
-    "wof:lastmodified":1561841234,
+    "wof:lastmodified":1566625319,
     "wof:name":"Cap\u00e3o Bonito do Sul",
     "wof:parent_id":404563273,
     "wof:placetype":"locality",

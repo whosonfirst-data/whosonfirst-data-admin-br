@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.750333,
     "lbl:longitude":-57.260359,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.750333,
     "mps:longitude":-57.260359,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*AM",
     "qs:a1_lc":"13",
@@ -30,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681885,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":436065,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"49bc5ab29622dc3708239cad63779951",
+    "wof:geomhash":"14366b666d9ffb223a928e3b0b169c35",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101970213,
-    "wof:lastmodified":1479622999,
+    "wof:lastmodified":1566624145,
     "wof:name":"Aldeia Ind\u00edgena S\u00e3o Bento",
     "wof:parent_id":404550273,
     "wof:placetype":"locality",

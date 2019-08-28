@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.580403,
     "lbl:longitude":-50.28116,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.580403,
     "mps:longitude":-50.28116,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u09b0\u09be \u09a1\u09cb \u0994\u09b0\u09cb"
     ],
@@ -40,9 +43,6 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u0440\u0440\u0430-\u0434\u0443-\u041e\u0440\u0443"
     ],
-    "name:unk_x_variant":[
-        "Marqu\u00eas do Erval"
-    ],
     "name:zho_x_preferred":[
         "\u5df4\u62c9-\u675c\u6b27\u9c81"
     ],
@@ -61,7 +61,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -74,7 +74,7 @@
         "fct:id":"03824ed4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3470694,
         "gp:id":456769,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"76c551a892621a5b6e98da95068b1e63",
@@ -92,7 +92,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564141462,
+    "wof:lastmodified":1566625269,
     "wof:name":"Barra do Ouro",
     "wof:parent_id":404563883,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8700524.429497,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-48.627662,-27.611484,-48.627662,-27.611484",
     "geom:latitude":-27.611484,
     "geom:longitude":-48.627662,
     "gn:latitude":-27.60537,
     "gn:longitude":-48.6224,
     "iso:country":"BR",
+    "lbl:bbox":"-48.632662,-27.616484,-48.622662,-27.606484",
     "lbl:latitude":-27.611484,
     "lbl:longitude":-48.627662,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-27.612674,
     "mps:longitude":-48.63017,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:por_x_preferred":[
-        "Praia Comprida"
-    ],
-    "name:unk_x_variant":[
         "Praia Comprida"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -60,20 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682021,
         102191577,
         404565871,
         85633009,
         101960935,
-        102060743
+        102060743,
+        85682021
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7874563,
         "gp:id":56066961,
-        "qs:id":192937,
         "qs_pg:id":192937
     },
     "wof:country":"BR",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859198,
+    "wof:lastmodified":1566620777,
     "wof:name":"Praia Comprida",
     "wof:parent_id":101960935,
     "wof:placetype":"neighbourhood",

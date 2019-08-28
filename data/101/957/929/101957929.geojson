@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.552832,
     "lbl:longitude":-49.456733,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.552832,
     "mps:longitude":-49.456733,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rio Bonito"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -57,7 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6318149,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"ae1c79eb8236de2a36d621b0d67e3732",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101957929,
-    "wof:lastmodified":1564141046,
+    "wof:lastmodified":1566624848,
     "wof:name":"Rio Bonito",
     "wof:parent_id":404565535,
     "wof:placetype":"locality",

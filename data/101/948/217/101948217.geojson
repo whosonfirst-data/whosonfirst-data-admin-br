@@ -9,14 +9,17 @@
     "geom:bbox":"-36.2315979109,-9.17295718985,-36.2117399361,-9.16203978014",
     "geom:latitude":-9.167632,
     "geom:longitude":-36.22243,
-    "geonames:id":"3389380,3389382",
+    "gn:id":"3389380,3389382",
     "iso:country":"BR",
     "lbl:latitude":-9.167917,
     "lbl:longitude":-36.222619,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.167917,
     "mps:longitude":-36.222619,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be\u09a8\u09be \u09a1\u09cb \u09ae\u09c1\u09a8\u09cd\u09a1\u09be\u0989"
     ],
@@ -74,7 +77,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430\u043d\u0430-\u0434\u0443-\u041c\u0443\u043d\u0434\u0430\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Munda\u00fa Mirim"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         85681879,
@@ -119,9 +122,11 @@
     "wof:concordances":{
         "gn:id":3389380,
         "gp:id":448762,
-        "qs:id":3,
-        "qs_pg:id":1060015,
+        "qs_pg:id":3,
         "wd:id":"Q1808118"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060015
     },
     "wof:country":"BR",
     "wof:geomhash":"e45d177137361ffc27f82ee4a82092d7",
@@ -136,7 +141,7 @@
         }
     ],
     "wof:id":101948217,
-    "wof:lastmodified":1561841103,
+    "wof:lastmodified":1566623884,
     "wof:name":"Santana do Munda\u00fa",
     "wof:parent_id":404550209,
     "wof:placetype":"locality",

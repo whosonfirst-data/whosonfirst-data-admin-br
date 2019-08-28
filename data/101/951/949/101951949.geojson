@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.619048,
     "lbl:longitude":-42.282229,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.619048,
     "mps:longitude":-42.282229,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b0\u09cb\u0986\u09b8\u09bf"
     ],
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "Coroaci"
     ],
-    "name:unk_x_variant":[
-        "Coroacy"
-    ],
     "name:vie_x_preferred":[
         "Coroaci"
     ],
@@ -120,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -133,7 +133,6 @@
         "fct:id":"0388cc50-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465500,
         "gp:id":459250,
-        "qs:id":861564,
         "qs_pg:id":861564,
         "wd:id":"Q631277",
         "wk:page":"Coroaci"
@@ -154,7 +153,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246278,
+    "wof:lastmodified":1566625503,
     "wof:name":"Coroaci",
     "wof:parent_id":404556059,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.57917,
     "lbl:longitude":-37.34263,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-10.57917,
     "mps:longitude":-37.34263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u0987\u099f\u09be \u09ac\u09cb\u09a8\u09bf\u099f\u09be"
     ],
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -105,7 +108,6 @@
         "fct:id":"0386124e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456977,
         "gp:id":440517,
-        "qs:id":279764,
         "qs_pg:id":279764,
         "wd:id":"Q1857645"
     },
@@ -124,7 +126,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841136,
+    "wof:lastmodified":1566624379,
     "wof:name":"Moita Bonita",
     "wof:parent_id":102060905,
     "wof:placetype":"locality",

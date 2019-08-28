@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.39182,
     "lbl:longitude":-57.320084,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.39182,
     "mps:longitude":-57.320084,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09cb \u09b9\u09cb\u09b0\u09bf\u099c\u09cb\u09a8\u09cd\u099f\u09c7 \u09a1\u09cb \u09a8\u09cb\u09b0\u09cd\u099f\u09c7"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -112,7 +115,7 @@
         "fct:id":"038960a2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317788,
         "gp:id":55943839,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1806349",
         "wk:page":"Novo Horizonte do Norte"
     },
@@ -131,7 +134,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841184,
+    "wof:lastmodified":1566624932,
     "wof:name":"Novo Horizonte do Norte",
     "wof:parent_id":102055531,
     "wof:placetype":"locality",

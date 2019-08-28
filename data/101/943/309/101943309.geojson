@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.098402,
     "lbl:longitude":-45.033023,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-3.098402,
     "mps:longitude":-45.033023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u099f\u09bf\u09a8\u09b9\u09be"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -119,7 +122,6 @@
         "fct:id":"0387c7ba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3395122,
         "gp:id":460096,
-        "qs:id":828099,
         "qs_pg:id":828099,
         "wd:id":"Q1116758",
         "wk:page":"Matinha"
@@ -139,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247367,
+    "wof:lastmodified":1566626067,
     "wof:name":"Matinha",
     "wof:parent_id":102053017,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.03887,
     "lbl:longitude":-40.677616,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.03887,
     "mps:longitude":-40.677616,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b0\u09be\u099c\u09bf\u09a8\u09b9\u09cb"
     ],
@@ -61,7 +64,7 @@
     "name:swe_x_preferred":[
         "Parazinho"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Parasinho"
     ],
     "name:vie_x_preferred":[
@@ -91,7 +94,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3393028,
         "gp:id":442858,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"f0fe7d0fd91d2784bae746d42d390d43",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101943959,
-    "wof:lastmodified":1564142504,
+    "wof:lastmodified":1566626105,
     "wof:name":"Parazinho",
     "wof:parent_id":404552891,
     "wof:placetype":"locality",

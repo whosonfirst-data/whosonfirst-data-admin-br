@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.61293,
     "lbl:longitude":-44.037655,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-19.61293,
     "mps:longitude":-44.037655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a1\u09cd\u09b0\u09cb \u09b2\u09c7\u0993\u09aa\u09cb\u09b2\u09a1\u09cb"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -141,7 +144,6 @@
         "fct:id":"038a19ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3454358,
         "gp:id":460443,
-        "qs:id":148036,
         "qs_pg:id":148036,
         "wd:id":"Q1638732",
         "wk:page":"Pedro Leopoldo"
@@ -162,7 +164,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245300,
+    "wof:lastmodified":1566625066,
     "wof:name":"Pedro Leopoldo",
     "wof:parent_id":404557645,
     "wof:placetype":"locality",

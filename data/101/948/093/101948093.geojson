@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.319657,
     "lbl:longitude":-36.475317,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-9.319657,
     "mps:longitude":-36.475317,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c1\u09af\u09bc\u09c7\u09ac\u09cd\u09b0\u09be\u0999\u09cd\u0997\u09c1\u09b2\u09cb"
     ],
@@ -88,9 +91,6 @@
     "name:rus_x_preferred":[
         "\u041a\u0435\u0431\u0440\u0430\u043d\u0433\u0443\u043b\u0443"
     ],
-    "name:unk_x_variant":[
-        "Victoria"
-    ],
     "name:vie_x_preferred":[
         "Quebrangulo"
     ],
@@ -123,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -136,7 +136,6 @@
         "fct:id":"03880b6c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3391090,
         "gp:id":460669,
-        "qs:id":147643,
         "qs_pg:id":147643,
         "wd:id":"Q1772591",
         "wk:page":"Quebrangulo"
@@ -156,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841110,
+    "wof:lastmodified":1566623926,
     "wof:name":"Quebrangulo",
     "wof:parent_id":102050241,
     "wof:placetype":"locality",

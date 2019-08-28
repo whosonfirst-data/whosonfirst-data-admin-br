@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.982579,
     "lbl:longitude":-48.804035,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-21.982579,
     "mps:longitude":-48.804035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u099c\u09c1"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.981111,
     "wd:longitude":-48.804722,
@@ -117,7 +120,7 @@
         "fct:id":"0385e954-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460835,
         "gp:id":435972,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q926176",
         "wk:page":"Itaju"
     },
@@ -136,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242567,
+    "wof:lastmodified":1566623826,
     "wof:name":"Itaju",
     "wof:parent_id":102061555,
     "wof:placetype":"locality",

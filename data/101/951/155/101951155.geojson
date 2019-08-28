@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
-    "geom:area_square_m":1678039.594864,
+    "geom:area_square_m":1678039.594862,
     "geom:bbox":"-44.4515392473,-15.372015269,-44.4393966513,-15.3544150711",
     "geom:latitude":-15.363017,
     "geom:longitude":-44.445477,
     "iso:country":"BR",
     "lbl:latitude":-15.362763,
     "lbl:longitude":-44.445593,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.362763,
     "mps:longitude":-44.445593,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*MG",
     "qs:a1_lc":"31",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -44,7 +48,9 @@
     "wof:concordances":{
         "gn:id":3455938,
         "gp:id":442033,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":181035
     },
     "wof:country":"BR",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":101951155,
-    "wof:lastmodified":1497296361,
+    "wof:lastmodified":1566625512,
     "wof:name":"Olhos D'\u00c1gua do Bom Jesus",
     "wof:parent_id":404555977,
     "wof:placetype":"locality",

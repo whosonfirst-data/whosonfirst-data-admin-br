@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.9934,
     "lbl:longitude":-35.210132,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.9934,
     "mps:longitude":-35.210132,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09b9\u09be \u09a1\u09c7 \u0986\u09b2\u09c7\u0997\u09cd\u09b0\u09bf\u09af\u09bc\u09be"
     ],
@@ -88,9 +91,6 @@
     "name:swe_x_preferred":[
         "Ch\u00e3 de Alegria"
     ],
-    "name:unk_x_variant":[
-        "Ch\u00e3 d'Alegria"
-    ],
     "name:vie_x_preferred":[
         "Ch\u00e3 de Alegria"
     ],
@@ -118,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":149,
     "wof:belongsto":[
         102191577,
@@ -131,7 +131,7 @@
         "fct:id":"038821e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3402278,
         "gp:id":459159,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1811142",
         "wk:page":"Ch\u00e3 de Alegria"
     },
@@ -150,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841104,
+    "wof:lastmodified":1566623890,
     "wof:name":"Ch\u00e3 de Alegria",
     "wof:parent_id":102056595,
     "wof:placetype":"locality",

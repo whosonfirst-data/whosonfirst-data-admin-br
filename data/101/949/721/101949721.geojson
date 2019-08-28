@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.884228,
     "lbl:longitude":-40.561119,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.884228,
     "mps:longitude":-40.561119,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09a8\u09a1\u09c7\u0987\u09b0\u09be"
     ],
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":268,
     "wof:belongsto":[
         85681941,
@@ -129,7 +132,7 @@
         "fct:id":"0386fb3c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3470937,
         "gp:id":456759,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1756019",
         "wk:page":"Bandeira, Minas Gerais"
     },
@@ -149,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244306,
+    "wof:lastmodified":1566624601,
     "wof:name":"Bandeira",
     "wof:parent_id":404555343,
     "wof:placetype":"locality",

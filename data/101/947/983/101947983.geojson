@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.307502,
     "lbl:longitude":-36.866202,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-9.307502,
     "mps:longitude":-36.866202,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09bf\u09a8\u09be\u09a1\u09cb\u09b0\u09cd \u09a1\u09cb \u09a8\u09c7\u0997\u09cd\u09b0\u09be\u0993"
     ],
@@ -80,9 +83,6 @@
     "name:rus_x_preferred":[
         "\u041c\u0438\u043d\u0430\u0434\u043e\u0440-\u0434\u0443-\u041d\u0435\u0433\u0440\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Minador do Negro"
-    ],
     "name:vie_x_preferred":[
         "Minador do Negr\u00e3o"
     ],
@@ -113,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -127,7 +127,6 @@
         "fct:id":"0387c882-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3394841,
         "gp:id":460129,
-        "qs:id":147689,
         "qs_pg:id":147689,
         "wd:id":"Q767029",
         "wk:page":"Minador do Negr\u00e3o"
@@ -147,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841138,
+    "wof:lastmodified":1566624388,
     "wof:name":"Minador do Negr\u00e3o",
     "wof:parent_id":102050185,
     "wof:placetype":"locality",

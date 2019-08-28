@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.444161,
     "lbl:longitude":-37.384683,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.444161,
     "mps:longitude":-37.384683,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*RN",
     "qs:a1_lc":"24",
@@ -31,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         102191577,
@@ -41,7 +44,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"37d1525b61868711a282735ca4730526",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101990405,
-    "wof:lastmodified":1527642125,
+    "wof:lastmodified":1566623661,
     "wof:name":"Barra de S\u00e3o Pedro",
     "wof:parent_id":102058841,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.844246,
     "lbl:longitude":-43.796261,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-21.844246,
     "mps:longitude":-43.796261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09bf\u09ae\u09be \u09a1\u09c1\u09af\u09bc\u09be\u09b0\u09cd\u099f\u09c7"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":235,
     "wof:belongsto":[
@@ -121,7 +124,6 @@
         "fct:id":"0387c36e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3458591,
         "gp:id":459946,
-        "qs:id":236649,
         "qs_pg:id":236649,
         "wd:id":"Q1754844",
         "wk:page":"Lima Duarte, Minas Gerais"
@@ -142,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246236,
+    "wof:lastmodified":1566625488,
     "wof:name":"Lima Duarte",
     "wof:parent_id":404557043,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6429509.545331,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-43.370682,-21.773701,-43.370682,-21.773701",
     "geom:latitude":-21.773701,
     "geom:longitude":-43.370682,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-43.375682,-21.778701,-43.365682,-21.768701",
     "lbl:latitude":-21.773701,
     "lbl:longitude":-43.370682,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-21.772253,
     "mps:longitude":-43.378415,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:por_x_preferred":[
-        "Martelos"
-    ],
-    "name:unk_x_variant":[
         "Martelos"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -58,19 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681941,
         102191577,
         404556949,
         85633009,
         101951437,
-        102054193
+        102054193,
+        85681941
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56067462,
-        "qs:id":10467,
         "qs_pg:id":10467
     },
     "wof:country":"BR",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859233,
+    "wof:lastmodified":1566620784,
     "wof:name":"Martelos",
     "wof:parent_id":101951437,
     "wof:placetype":"neighbourhood",

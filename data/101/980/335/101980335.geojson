@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.56529,
     "lbl:longitude":-44.209235,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.56529,
     "mps:longitude":-44.209235,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Altviool"
     ],
@@ -265,7 +268,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":4537,
     "wof:belongsto":[
         102191577,
@@ -276,7 +279,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":457193,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q80284"
     },
     "wof:country":"BR",
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":101980335,
-    "wof:lastmodified":1563246688,
+    "wof:lastmodified":1566625730,
     "wof:name":"Viola",
     "wof:parent_id":102053155,
     "wof:placetype":"locality",

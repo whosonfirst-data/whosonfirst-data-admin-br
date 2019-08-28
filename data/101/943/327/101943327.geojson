@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.268014,
     "lbl:longitude":-44.53138,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-7.268014,
     "mps:longitude":-44.53138,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0989\u09b0\u09c1\u0995\u09c1\u0987"
     ],
@@ -78,9 +81,6 @@
     "name:swe_x_preferred":[
         "Uru\u00e7u\u00ed"
     ],
-    "name:unk_x_variant":[
-        "Urussuhy"
-    ],
     "name:vie_x_preferred":[
         "Uru\u00e7u\u00ed"
     ],
@@ -110,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":104,
     "wof:belongsto":[
@@ -124,7 +124,6 @@
         "fct:id":"0389126e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3385658,
         "gp:id":456591,
-        "qs:id":1248947,
         "qs_pg:id":1248947,
         "wd:id":"Q22059606"
     },
@@ -143,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247550,
+    "wof:lastmodified":1566626131,
     "wof:name":"Uru\u00e7u\u00ed",
     "wof:parent_id":102057391,
     "wof:placetype":"locality",

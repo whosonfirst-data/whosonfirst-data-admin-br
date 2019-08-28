@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.315192,
     "lbl:longitude":-36.941408,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.315192,
     "mps:longitude":-36.941408,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09aa\u09cb\u099c\u09c1\u0995\u09be"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -86,7 +89,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3398116,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"4c2f00cc51bf4d5ace507983ecd7b1dc",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101986337,
-    "wof:lastmodified":1564142820,
+    "wof:lastmodified":1566626311,
     "wof:name":"Ipojuca",
     "wof:parent_id":102056515,
     "wof:placetype":"locality",

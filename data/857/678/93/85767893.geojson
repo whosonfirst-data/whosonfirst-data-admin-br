@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4432892.075581,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-49.082487,-26.912404,-49.082487,-26.912404",
     "geom:latitude":-26.912404,
     "geom:longitude":-49.082487,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-49.087487,-26.917404,-49.077487,-26.907404",
     "lbl:latitude":-26.912404,
     "lbl:longitude":-49.082487,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.92553,
     "mps:longitude":-49.084652,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:por_x_preferred":[
-        "Victor Konder"
-    ],
-    "name:unk_x_variant":[
         "Victor Konder"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -57,19 +56,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682021,
         102191577,
         404565221,
         85633009,
         101958053,
-        102060269
+        102060269,
+        85682021
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56067829,
-        "qs:id":1080276
+        "qs_pg:id":1080276
     },
     "wof:country":"BR",
     "wof:geomhash":"5d51df3cc1e752c4220fb45a563d9662",
@@ -88,7 +87,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859247,
+    "wof:lastmodified":1566620784,
     "wof:name":"Victor Konder",
     "wof:parent_id":101958053,
     "wof:placetype":"neighbourhood",

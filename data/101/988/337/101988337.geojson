@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.393504,
     "lbl:longitude":-54.206793,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.393504,
     "mps:longitude":-54.206793,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "S\u00e3o Jorge"
     ],
@@ -73,7 +76,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":210,
     "wof:belongsto":[
         85681983,
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3448819,
         "gp:id":450962,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"b65b58171ea75f836142a656a7fdf2e1",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101988337,
-    "wof:lastmodified":1564142410,
+    "wof:lastmodified":1566626015,
     "wof:name":"S\u00e3o Jorge",
     "wof:parent_id":404561935,
     "wof:placetype":"locality",

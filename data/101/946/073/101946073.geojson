@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.591576,
     "lbl:longitude":-37.914694,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.591576,
     "mps:longitude":-37.914694,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u0997\u09cb\u09af\u09bc\u09be"
     ],
@@ -67,7 +70,7 @@
     "name:rus_x_preferred":[
         "\u041b\u0430\u0433\u043e\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nhandu"
     ],
     "name:urd_x_preferred":[
@@ -103,7 +106,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -115,7 +118,7 @@
         "fct:id":"0385fb56-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3396914,
         "gp:id":437616,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1921322",
         "wk:page":"Lagoa, Para\u00edba"
     },
@@ -134,7 +137,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243504,
+    "wof:lastmodified":1566624263,
     "wof:name":"Lagoa",
     "wof:parent_id":102056213,
     "wof:placetype":"locality",

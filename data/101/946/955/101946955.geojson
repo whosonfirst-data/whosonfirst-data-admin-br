@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.297654,
     "lbl:longitude":-43.773523,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-14.297654,
     "mps:longitude":-43.773523,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09bf\u09a8\u09b9\u09be\u09a8\u09b9\u09be"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -120,7 +123,6 @@
         "fct:id":"03871086-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3466950,
         "gp:id":456987,
-        "qs:id":148384,
         "qs_pg:id":148384,
         "wd:id":"Q985608"
     },
@@ -140,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841115,
+    "wof:lastmodified":1566624226,
     "wof:name":"Carinhanha",
     "wof:parent_id":404550753,
     "wof:placetype":"locality",

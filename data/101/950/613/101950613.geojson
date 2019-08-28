@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.431908,
     "lbl:longitude":-47.607673,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.431908,
     "mps:longitude":-47.607673,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u0989\u09b0\u09be\u09a1\u09cb\u0995\u09c1\u09f1\u09be\u09b0\u09be"
     ],
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "Douradoquara"
     ],
-    "name:unk_x_variant":[
-        "Doradoquara"
-    ],
     "name:vie_x_preferred":[
         "Douradoquara"
     ],
@@ -118,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -131,7 +131,7 @@
         "fct:id":"038721fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3464464,
         "gp:id":457138,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1790742",
         "wk:page":"Douradoquara"
     },
@@ -151,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841159,
+    "wof:lastmodified":1566624759,
     "wof:name":"Douradoquara",
     "wof:parent_id":404556267,
     "wof:placetype":"locality",

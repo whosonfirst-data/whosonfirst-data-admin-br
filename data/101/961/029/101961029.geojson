@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.866798,
     "lbl:longitude":-58.246697,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-11.866798,
     "mps:longitude":-58.246697,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "qs:a0":"Brasil",
     "qs:a1":"*MT",
     "qs:a1_lc":"51",
@@ -31,7 +34,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.936944,
     "wd:longitude":-46.716944,
@@ -47,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456865,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"844be8e89973bc8713a9acbf6c504731",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101961029,
-    "wof:lastmodified":1527688636,
+    "wof:lastmodified":1566624977,
     "wof:name":"\u00c1gua da Prata",
     "wof:parent_id":404559125,
     "wof:placetype":"locality",

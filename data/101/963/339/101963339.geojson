@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-31.443156,
     "lbl:longitude":-52.422575,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-31.443156,
     "mps:longitude":-52.422575,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Arroio do Padre"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -118,7 +121,7 @@
         "fct:id":"03886bd4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316442,
         "gp:id":26804202,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q510698"
     },
     "wof:country":"BR",
@@ -136,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841070,
+    "wof:lastmodified":1566623566,
     "wof:name":"Arroio do Padre",
     "wof:parent_id":102059087,
     "wof:placetype":"locality",

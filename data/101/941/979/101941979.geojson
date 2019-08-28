@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.896022,
     "lbl:longitude":-57.503076,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.896022,
     "mps:longitude":-57.503076,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "repartiment d'indis"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":527,
     "wof:belongsto":[
         85681885,
@@ -64,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":460193,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2993888"
     },
     "wof:country":"BR",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101941979,
-    "wof:lastmodified":1563243616,
+    "wof:lastmodified":1566624294,
     "wof:name":"Repartimento",
     "wof:parent_id":404550277,
     "wof:placetype":"locality",

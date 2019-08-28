@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.58472,
     "lbl:longitude":-42.370257,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.58472,
     "mps:longitude":-42.370257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09ae\u09bf\u0997\u09c1\u09f1\u09c7\u09b2 \u09a1\u09cb \u09ab\u09bf\u09a1\u09be\u09b2\u0997\u09cb"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":150,
     "wof:belongsto":[
         102191577,
@@ -107,7 +110,7 @@
         "fct:id":"03899496-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6318555,
         "gp:id":55944424,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2079673"
     },
     "wof:country":"BR",
@@ -125,7 +128,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841302,
+    "wof:lastmodified":1566626075,
     "wof:name":"S\u00e3o Miguel do Fidalgo",
     "wof:parent_id":102057357,
     "wof:placetype":"locality",

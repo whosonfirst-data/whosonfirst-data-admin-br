@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1774134.657216,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-46.331614,-23.949055,-46.331614,-23.949055",
     "geom:latitude":-23.949055,
     "geom:longitude":-46.331614,
     "gn:latitude":-23.95,
     "gn:longitude":-46.33333,
     "iso:country":"BR",
+    "lbl:bbox":"-46.336614,-23.954055,-46.326614,-23.944055",
     "lbl:latitude":-23.949055,
     "lbl:longitude":-46.331614,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-23.949436,
     "mps:longitude":-46.331233,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
     ],
     "name:spa_x_preferred":[
         "Estaci\u00f3n Concei\u00e7\u00e3o"
-    ],
-    "name:unk_x_variant":[
-        "Vila Matias"
     ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_fcode":"PPLX",
@@ -64,20 +63,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682041,
         102191577,
         404567207,
         85633009,
         101965655,
-        102062211
+        102062211,
+        85682041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3445058,
         "gp:id":455379,
-        "qs:id":1120387,
         "qs_pg:id":1120387
     },
     "wof:country":"BR",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859013,
+    "wof:lastmodified":1566620799,
     "wof:name":"Vila Matias",
     "wof:parent_id":101965655,
     "wof:placetype":"neighbourhood",

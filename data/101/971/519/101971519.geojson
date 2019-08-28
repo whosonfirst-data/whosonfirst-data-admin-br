@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.836435,
     "lbl:longitude":-40.903909,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-12.836435,
     "mps:longitude":-40.903909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0625\u064a\u063a\u0648\u0627\u0628\u064a"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":3.0,
     "wd:latitude":-24.708056,
@@ -114,7 +117,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3461468,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"673de7170d07e00bfb4ec2698ecdc979",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101971519,
-    "wof:lastmodified":1564140529,
+    "wof:lastmodified":1566624446,
     "wof:name":"Iguape",
     "wof:parent_id":404550555,
     "wof:placetype":"locality",

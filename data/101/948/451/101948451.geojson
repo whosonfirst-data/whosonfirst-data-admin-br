@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.747259,
     "lbl:longitude":-35.603792,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-7.747259,
     "mps:longitude":-35.603792,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0993\u09b0\u09cb\u09ac\u09cb"
     ],
@@ -77,7 +80,7 @@
     "name:rus_x_preferred":[
         "\u041e\u0440\u043e\u0431\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Queimadas"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +110,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":170,
     "wof:belongsto":[
@@ -122,7 +125,7 @@
         "fct:id":"038140c0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3393470,
         "gp:id":446103,
-        "qs:id":181098,
+        "qs_pg:id":181098,
         "wd:id":"Q2013693",
         "wk:page":"Orob\u00f3"
     },
@@ -142,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242851,
+    "wof:lastmodified":1566623918,
     "wof:name":"Orob\u00f3",
     "wof:parent_id":404560509,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"-42.4452739823,-18.8339615039,-42.4329280426,-18.8129540853",
     "geom:latitude":-18.824867,
     "geom:longitude":-42.439338,
-    "geonames:id":"3450265,6318233",
+    "gn:id":"3450265,6318233",
     "iso:country":"BR",
     "lbl:latitude":-18.825995,
     "lbl:longitude":-42.439853,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.825995,
     "mps:longitude":-42.439853,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u098f\u09ab\u09bf\u0997\u09c7\u09a8\u09bf\u09af\u09bc\u09be \u09a1\u09c7 \u09ae\u09bf\u09a8\u09be\u09b8"
     ],
@@ -110,7 +113,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":152,
     "wof:belongsto":[
         85681941,
@@ -122,7 +125,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":448319,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1789393"
     },
     "wof:country":"BR",
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101953749,
-    "wof:lastmodified":1561841041,
+    "wof:lastmodified":1566623374,
     "wof:name":"Santa Efig\u00eania de Minas",
     "wof:parent_id":404558053,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.087654,
     "lbl:longitude":-47.790757,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-20.087654,
     "mps:longitude":-47.790757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u09ae\u09bf\u09a8\u09be"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-20.090278,
     "wd:longitude":-47.785833,
@@ -122,7 +125,6 @@
         "fct:id":"03857b90-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471819,
         "gp:id":422236,
-        "qs:id":904563,
         "qs_pg:id":904563,
         "wd:id":"Q930883",
         "wk:page":"Aramina"
@@ -142,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242345,
+    "wof:lastmodified":1566623735,
     "wof:name":"Aramina",
     "wof:parent_id":102061063,
     "wof:placetype":"locality",

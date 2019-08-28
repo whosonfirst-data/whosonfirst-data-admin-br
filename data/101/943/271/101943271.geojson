@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-2.528689,
     "lbl:longitude":-45.100734,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-2.528689,
     "mps:longitude":-45.100734,
     "mz:hierarchy_label":1,
@@ -95,9 +97,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u043d\u044c\u0454\u0439\u0440\u0443"
-    ],
-    "name:unk_x_variant":[
-        "Pinheiros"
     ],
     "name:vie_x_preferred":[
         "Pinheiro"
@@ -220,7 +219,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681931,
@@ -234,7 +233,6 @@
         "fct:id":"03869f70-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3392054,
         "gp:id":455981,
-        "qs:id":181279,
         "qs_pg:id":181279,
         "wd:id":"Q1796449",
         "wk:page":"Pinheiro, Maranh\u00e3o"
@@ -255,7 +253,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841312,
+    "wof:lastmodified":1566626119,
     "wof:name":"Pinheiro",
     "wof:parent_id":404555059,
     "wof:placetype":"locality",

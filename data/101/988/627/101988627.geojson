@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.986873,
     "lbl:longitude":-51.99083,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.986873,
     "mps:longitude":-51.99083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Borghetto"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":143,
     "wof:belongsto":[
         85682015,
@@ -70,7 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":421983,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"48b6c9801121f2cbd03c4496acde7329",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101988627,
-    "wof:lastmodified":1564142423,
+    "wof:lastmodified":1566626023,
     "wof:name":"Borghetto",
     "wof:parent_id":404562953,
     "wof:placetype":"locality",

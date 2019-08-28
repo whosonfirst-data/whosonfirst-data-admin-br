@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-17.809247,
     "lbl:longitude":-50.59355,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-17.809247,
     "mps:longitude":-50.59355,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u09b9\u09c7\u09b2\u09c7\u09a8\u09be \u09a1\u09c7 \u0997\u09cb\u09af\u09bc\u09be\u09b8"
     ],
@@ -92,9 +95,6 @@
     "name:swe_x_preferred":[
         "Santa Helena de Goi\u00e1s"
     ],
-    "name:unk_x_variant":[
-        "Ipeguari"
-    ],
     "name:vie_x_preferred":[
         "Santa Helena de Goi\u00e1s"
     ],
@@ -124,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -137,7 +137,6 @@
         "fct:id":"0386dfbc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3450206,
         "gp:id":456494,
-        "qs:id":181383,
         "qs_pg:id":181383,
         "wd:id":"Q1795206"
     },
@@ -156,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841060,
+    "wof:lastmodified":1566623507,
     "wof:name":"Santa Helena de Goi\u00e1s",
     "wof:parent_id":102052609,
     "wof:placetype":"locality",

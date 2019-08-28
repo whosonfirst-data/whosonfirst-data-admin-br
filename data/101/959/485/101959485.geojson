@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.718434,
     "lbl:longitude":-52.623483,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.718434,
     "mps:longitude":-52.623483,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09aa\u09bf\u09a8\u09be\u09b8 \u09a1\u09cb \u09b8\u09c1\u09b2"
     ],
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "Campinas do Sul"
     ],
-    "name:unk_x_variant":[
-        "Campinas"
-    ],
     "name:vie_x_preferred":[
         "Campinas do Sul"
     ],
@@ -118,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -130,7 +130,7 @@
         "fct:id":"0387a6b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3467861,
         "gp:id":458967,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1807790",
         "wk:page":"Campinas do Sul"
     },
@@ -149,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841202,
+    "wof:lastmodified":1566625081,
     "wof:name":"Campinas do Sul",
     "wof:parent_id":102059195,
     "wof:placetype":"locality",

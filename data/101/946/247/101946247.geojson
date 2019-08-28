@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.152493,
     "lbl:longitude":-37.010125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.152493,
     "mps:longitude":-37.010125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09b8\u09c7\u09ac\u09be\u09b8\u099f\u09bf\u09af\u09bc\u09be\u0993 \u09a1\u09cb \u0989\u09ae\u09ac\u09c1\u099c\u09af\u09bc\u09c7\u0987\u09b0\u09cb"
     ],
@@ -78,7 +81,7 @@
     "name:swe_x_preferred":[
         "S\u00e3o Sebasti\u00e3o do Umbuzeiro"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Umbuzeiro"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":19,
     "wof:belongsto":[
         102191577,
@@ -121,7 +124,7 @@
         "fct:id":"03867018-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3388106,
         "gp:id":451339,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2008699",
         "wk:page":"S\u00e3o Sebasti\u00e3o do Umbuzeiro"
     },
@@ -140,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841122,
+    "wof:lastmodified":1566624266,
     "wof:name":"S\u00e3o Sebasti\u00e3o do Umbuzeiro",
     "wof:parent_id":102056429,
     "wof:placetype":"locality",

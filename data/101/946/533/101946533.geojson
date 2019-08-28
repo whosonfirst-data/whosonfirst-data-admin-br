@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.949667,
     "lbl:longitude":-35.926952,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.949667,
     "mps:longitude":-35.926952,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u09b8\u09c7\u09b2\u09cb\u09a8\u09be"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Barcelona"
     ],
-    "name:unk_x_variant":[
-        "Gotovelo"
-    ],
     "name:vol_x_preferred":[
         "Barcelona"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":151,
     "wof:belongsto":[
         102191577,
@@ -131,7 +131,6 @@
         "fct:id":"0386fba0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3406427,
         "gp:id":456763,
-        "qs:id":815905,
         "qs_pg:id":815905,
         "wd:id":"Q2011622",
         "wk:page":"Barcelona, Rio Grande do Norte"
@@ -151,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841114,
+    "wof:lastmodified":1566624220,
     "wof:name":"Barcelona",
     "wof:parent_id":102058545,
     "wof:placetype":"locality",

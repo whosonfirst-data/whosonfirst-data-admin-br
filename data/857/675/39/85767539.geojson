@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5815570.895391,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-48.504376,-27.600321,-48.504376,-27.600321",
     "geom:latitude":-27.600321,
     "geom:longitude":-48.504376,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-48.509376,-27.605321,-48.499376,-27.595321",
     "lbl:latitude":-27.600321,
     "lbl:longitude":-48.504376,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-27.607747,
     "mps:longitude":-48.502135,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     "name:por_x_preferred":[
         "C\u00f3rrego Grande",
         "Reserva Biol\u00f3gica do C\u00f3rrego Grande"
-    ],
-    "name:unk_x_variant":[
-        "C\u00f3rrego Grande"
     ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_id":0,
@@ -59,19 +58,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682021,
         102191577,
         404565395,
         85633009,
         101958175,
-        102060383
+        102060383,
+        85682021
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56066940,
-        "qs:id":483596
+        "qs_pg:id":483596
     },
     "wof:country":"BR",
     "wof:geomhash":"2054f8d9e59ee81ad9060bb53b4dccae",
@@ -90,7 +89,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859192,
+    "wof:lastmodified":1566620729,
     "wof:name":"C\u00f3rrego Grande",
     "wof:parent_id":101958175,
     "wof:placetype":"neighbourhood",

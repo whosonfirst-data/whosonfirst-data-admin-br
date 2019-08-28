@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.719849,
     "lbl:longitude":-46.413868,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.719849,
     "mps:longitude":-46.413868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "S\u00e3o Raimundo"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":71,
     "wof:belongsto":[
         102191577,
@@ -51,7 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456700,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"9bed8b9397961194ddc6600e82477cc2",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101974957,
-    "wof:lastmodified":1564141935,
+    "wof:lastmodified":1566625672,
     "wof:name":"S\u00e3o Raimundo",
     "wof:parent_id":102052853,
     "wof:placetype":"locality",

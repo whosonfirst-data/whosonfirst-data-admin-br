@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.904449,
     "lbl:longitude":-40.772706,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.904449,
     "mps:longitude":-40.772706,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u0987\u0995\u09cd\u09b8\u09bf\u0993"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -98,7 +101,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"8736ef34229b58653134281f967a9314",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101976469,
-    "wof:lastmodified":1564140932,
+    "wof:lastmodified":1566624706,
     "wof:name":"Baixio",
     "wof:parent_id":404553677,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"-42.29444,-4.24444,-42.29444,-4.24444",
     "geom:latitude":-4.24444,
     "geom:longitude":-42.29444,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":21597,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:population":21597,
     "iso:country":"BR",
+    "lbl:bbox":"-42.31444,-4.26444,-42.27444,-4.22444",
     "lbl:latitude":-4.24444,
     "lbl:longitude":-42.29444,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u09b0\u09be\u09b8"
@@ -67,7 +70,7 @@
     "name:spa_x_preferred":[
         "Barras"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barras do Maratahoan"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "qs_pg:woe_adm0":23424768,
     "qs_pg:woe_id":423843,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424768,
     "woe:name_adm0":"Brasil",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":1125784885,
-    "wof:lastmodified":1563250500,
+    "wof:lastmodified":1566628466,
     "wof:name":"Barras do Maratoam",
     "wof:parent_id":102056945,
     "wof:placetype":"locality",

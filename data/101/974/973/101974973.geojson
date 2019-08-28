@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.280564,
     "lbl:longitude":-44.561676,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.280564,
     "mps:longitude":-44.561676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*BA",
     "qs:a1_lc":"29",
@@ -31,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":724,
     "wof:belongsto":[
         85681895,
@@ -42,7 +45,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"44439ff3bc17bb0b714b7cb60d0b8651",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101974973,
-    "wof:lastmodified":1527715747,
+    "wof:lastmodified":1566625694,
     "wof:name":"Mocambo",
     "wof:parent_id":404551895,
     "wof:placetype":"locality",

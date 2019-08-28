@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.077465,
     "lbl:longitude":-41.094231,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.077465,
     "mps:longitude":-41.094231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0989\u099f\u09bf\u0999\u09cd\u0997\u09be"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Utinga"
     ],
-    "name:unk_x_variant":[
-        "Bela Vista"
-    ],
     "name:vie_x_preferred":[
         "Utinga"
     ],
@@ -121,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -134,7 +134,6 @@
         "fct:id":"0387915a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3445651,
         "gp:id":458240,
-        "qs:id":357382,
         "qs_pg:id":357382,
         "wd:id":"Q22062847",
         "wk:page":"Utinga"
@@ -155,7 +154,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244279,
+    "wof:lastmodified":1566624590,
     "wof:name":"Utinga",
     "wof:parent_id":404552167,
     "wof:placetype":"locality",

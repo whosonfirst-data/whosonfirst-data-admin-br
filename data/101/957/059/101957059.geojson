@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.24931,
     "lbl:longitude":-52.118534,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.24931,
     "mps:longitude":-52.118534,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cd\u09b0\u09c7\u09b8\u09bf\u09a1\u09c7\u09a8\u09cd\u099f\u09c7 \u0995\u09c7\u09a8\u09cd\u09a8\u09c7\u09a1\u09bf"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -76,7 +79,7 @@
     "wof:concordances":{
         "gn:id":6318061,
         "gp:id":456149,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"5f9d6523606d8cb35f11a65a6b11b171",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101957059,
-    "wof:lastmodified":1564141040,
+    "wof:lastmodified":1566624840,
     "wof:name":"Presidente Kennedy",
     "wof:parent_id":404565337,
     "wof:placetype":"locality",

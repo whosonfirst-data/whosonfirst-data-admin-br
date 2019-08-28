@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.152116,
     "lbl:longitude":-41.815596,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.152116,
     "mps:longitude":-41.815596,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Variante"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1433,
     "wof:belongsto":[
         85681895,
@@ -67,7 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456247,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1168470"
     },
     "wof:country":"BR",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101976087,
-    "wof:lastmodified":1563244473,
+    "wof:lastmodified":1566624699,
     "wof:name":"Variante",
     "wof:parent_id":404551957,
     "wof:placetype":"locality",

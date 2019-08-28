@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.710104,
     "lbl:longitude":-42.737471,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.710104,
     "mps:longitude":-42.737471,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09cd\u09b2\u09bf\u09af\u09bc\u09c7\u09b0\u09bf\u09af\u09bc\u09be"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":130,
     "wof:belongsto":[
         85681941,
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gn:id":3457644,
         "gp:id":439724,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1754892",
         "wk:page":"Marli\u00e9ria"
     },
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101951749,
-    "wof:lastmodified":1561841261,
+    "wof:lastmodified":1566625501,
     "wof:name":"Marli\u00e9ria",
     "wof:parent_id":404557169,
     "wof:placetype":"locality",

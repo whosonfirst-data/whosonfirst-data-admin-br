@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-23.984882,
     "lbl:longitude":-48.879604,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-23.984882,
     "mps:longitude":-48.879604,
     "mz:hierarchy_label":1,
@@ -65,9 +67,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0418\u0442\u0430\u043f\u0435\u0432\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Faxina"
     ],
     "name:vie_x_preferred":[
         "Itapeva"
@@ -193,7 +192,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682041,
@@ -207,9 +206,11 @@
         "fct:id":"038736b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460723,
         "gp:id":457351,
-        "qs:id":189349,
-        "qs_pg:id":1076776,
+        "qs_pg:id":189349,
         "wd:id":"Q1808590"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1076776
     },
     "wof:country":"BR",
     "wof:geomhash":"a71e1847c423c520c726c521702d09c3",
@@ -227,7 +228,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841097,
+    "wof:lastmodified":1566623852,
     "wof:name":"Itapeva",
     "wof:parent_id":404566563,
     "wof:placetype":"locality",

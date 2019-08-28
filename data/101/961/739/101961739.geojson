@@ -9,16 +9,19 @@
     "geom:bbox":"-52.344038744,-13.6264668407,-52.1979764036,-13.4829029028",
     "geom:latitude":-13.554628,
     "geom:longitude":-52.270996,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-13.55477,
     "lbl:longitude":-52.270996,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.55477,
     "mps:longitude":-52.270996,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Canarana"
     ],
@@ -106,7 +109,7 @@
     "qs_pg:woe_id":456949,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -118,7 +121,6 @@
         "fct:id":"03870d5c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316760,
         "gp:id":456949,
-        "qs:id":1211925,
         "qs_pg:id":1211925,
         "wd:id":"Q519706"
     },
@@ -137,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841184,
+    "wof:lastmodified":1566624931,
     "wof:name":"Canarana",
     "wof:parent_id":102055403,
     "wof:placetype":"locality",

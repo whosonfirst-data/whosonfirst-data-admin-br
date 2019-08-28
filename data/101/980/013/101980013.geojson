@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.656654,
     "lbl:longitude":-43.852512,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.656654,
     "mps:longitude":-43.852512,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u0997\u09cb\u09a8\u0995\u09be\u09b2\u09cb"
     ],
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "S\u00e3o Gon\u00e7alo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Gon\u00e7ala"
     ],
     "name:vie_x_preferred":[
@@ -73,7 +76,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gn:id":3449074,
         "gp:id":455946,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"953ed08b611e7627d7cf1140d58575c0",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101980013,
-    "wof:lastmodified":1564142002,
+    "wof:lastmodified":1566625710,
     "wof:name":"S\u00e3o Gon\u00e7alo",
     "wof:parent_id":404555999,
     "wof:placetype":"locality",

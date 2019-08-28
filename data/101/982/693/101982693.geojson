@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.996469,
     "lbl:longitude":-49.508714,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.996469,
     "mps:longitude":-49.508714,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cd\u09b2\u09be\u0995\u09be\u09b8"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -92,7 +95,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56125231,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"45be835ddeb7c60586391c77c79e6b9b",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101982693,
-    "wof:lastmodified":1564140785,
+    "wof:lastmodified":1566624623,
     "wof:name":"Placas",
     "wof:parent_id":102055721,
     "wof:placetype":"locality",

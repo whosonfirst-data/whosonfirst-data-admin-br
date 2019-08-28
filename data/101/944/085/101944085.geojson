@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.834453,
     "lbl:longitude":-40.614557,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-6.834453,
     "mps:longitude":-40.614557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u0993 \u0987\u0995\u09cd\u09b8"
     ],
@@ -77,9 +80,6 @@
     "name:swe_x_preferred":[
         "Pio IX"
     ],
-    "name:unk_x_variant":[
-        "Umbuzeiro"
-    ],
     "name:vie_x_preferred":[
         "Pio IX"
     ],
@@ -109,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -122,7 +122,6 @@
         "fct:id":"0386d5f8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3392020,
         "gp:id":56125080,
-        "qs:id":844648,
         "qs_pg:id":844648,
         "wd:id":"Q2089220"
     },
@@ -141,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247174,
+    "wof:lastmodified":1566625961,
     "wof:name":"Pio Ix",
     "wof:parent_id":102057265,
     "wof:placetype":"locality",

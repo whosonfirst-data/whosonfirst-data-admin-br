@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.721771,
     "lbl:longitude":-50.759872,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.721771,
     "mps:longitude":-50.759872,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carmo"
     ],
@@ -67,7 +70,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -77,7 +80,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"7ec2f89ad4c50f9ba9bed014d59c9f3f",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101960651,
-    "wof:lastmodified":1564141477,
+    "wof:lastmodified":1566625286,
     "wof:name":"Carmo",
     "wof:parent_id":404563945,
     "wof:placetype":"locality",

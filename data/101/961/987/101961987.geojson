@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.561507,
     "lbl:longitude":-51.274018,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.561507,
     "mps:longitude":-51.274018,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ad\u09cb\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":427,
     "wof:belongsto":[
         85681925,
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gn:id":6316749,
         "gp:id":457310,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q986497"
     },
     "wof:country":"BR",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101961987,
-    "wof:lastmodified":1563245169,
+    "wof:lastmodified":1566624993,
     "wof:name":"Campol\u00e2ndia",
     "wof:parent_id":404554837,
     "wof:placetype":"locality",

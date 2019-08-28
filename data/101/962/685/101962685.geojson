@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.446299,
     "lbl:longitude":-47.591401,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-15.446299,
     "mps:longitude":-47.591401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09b2\u09be\u09a8\u09be\u09b2\u099f\u09bf\u09a8\u09be"
     ],
@@ -77,7 +80,7 @@
     "name:rus_x_preferred":[
         "\u041f\u043b\u0430\u043d\u0430\u043b\u0442\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alta Mir"
     ],
     "name:vol_x_preferred":[
@@ -104,7 +107,7 @@
     "qs:type":"Local urban major",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681925,
@@ -118,7 +121,7 @@
         "fct:id":"03899428-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3453420,
         "gp:id":456425,
-        "qs:id":935366,
+        "qs_pg:id":935366,
         "wd:id":"Q1004078"
     },
     "wof:country":"BR",
@@ -137,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241948,
+    "wof:lastmodified":1566623536,
     "wof:name":"Planaltina",
     "wof:parent_id":404554901,
     "wof:placetype":"locality",

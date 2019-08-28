@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.452229,
     "lbl:longitude":-49.959936,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-16.452229,
     "mps:longitude":-49.959936,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u09bf\u0995\u09c1\u09a8\u09cd\u09b8"
     ],
@@ -74,9 +77,6 @@
     "name:swe_x_preferred":[
         "Anicuns"
     ],
-    "name:unk_x_variant":[
-        "Novo Horizonte"
-    ],
     "name:vie_x_preferred":[
         "Anicuns"
     ],
@@ -106,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681925,
@@ -120,7 +120,6 @@
         "fct:id":"0386f39e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472138,
         "gp:id":456676,
-        "qs:id":148496,
         "qs_pg:id":148496,
         "wd:id":"Q22067260",
         "wk:page":"Anicuns"
@@ -141,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241971,
+    "wof:lastmodified":1566623548,
     "wof:name":"Anicuns",
     "wof:parent_id":404554717,
     "wof:placetype":"locality",

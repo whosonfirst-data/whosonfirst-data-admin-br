@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.13518,
     "lbl:longitude":-42.902276,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.13518,
     "mps:longitude":-42.902276,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "S\u00e3o Pedro d'Este"
     ],
@@ -51,7 +55,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -61,10 +65,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3408948,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"4f0e532f7e04b62e9b223c31f7d0537d",
+    "wof:geomhash":"904e96b6f9449f574d7035f9d6334745",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101975843,
-    "wof:lastmodified":1479878373,
+    "wof:lastmodified":1566626211,
     "wof:name":"Mamede",
     "wof:parent_id":102052821,
     "wof:placetype":"locality",

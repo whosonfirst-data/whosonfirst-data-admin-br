@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-20.023909,
     "lbl:longitude":-48.924974,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-20.023909,
     "mps:longitude":-48.924974,
     "mz:hierarchy_label":1,
@@ -80,9 +82,6 @@
     ],
     "name:spa_x_preferred":[
         "Frutal"
-    ],
-    "name:unk_x_variant":[
-        "Fructal"
     ],
     "name:vie_x_preferred":[
         "Frutal"
@@ -205,7 +204,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -219,7 +218,6 @@
         "fct:id":"0386b8e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3462916,
         "gp:id":456196,
-        "qs:id":274348,
         "qs_pg:id":274348,
         "wd:id":"Q1790819",
         "wk:page":"Frutal"
@@ -240,7 +238,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841163,
+    "wof:lastmodified":1566624783,
     "wof:name":"Frutal",
     "wof:parent_id":404556451,
     "wof:placetype":"locality",

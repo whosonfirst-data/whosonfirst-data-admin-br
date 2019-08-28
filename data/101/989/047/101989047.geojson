@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.419957,
     "lbl:longitude":-48.896083,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.419957,
     "mps:longitude":-48.896083,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ady_x_preferred":[
         "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
     ],
@@ -508,7 +511,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -519,7 +522,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3449742,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a4aafd7b56acf56b2dd8f19fd8454378",
@@ -534,7 +537,7 @@
         }
     ],
     "wof:id":101989047,
-    "wof:lastmodified":1564142121,
+    "wof:lastmodified":1566625768,
     "wof:name":"Santiago",
     "wof:parent_id":404565569,
     "wof:placetype":"locality",

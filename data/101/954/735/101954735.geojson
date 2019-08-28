@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.137056,
     "lbl:longitude":-53.332958,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.137056,
     "mps:longitude":-53.332958,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*PR",
     "qs:a1_lc":"41",
@@ -30,7 +34,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -42,10 +46,10 @@
     "wof:concordances":{
         "gn:id":6318159,
         "gp:id":455853,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"811f50b64f2ae6c9bd9d83e69f61e03e",
+    "wof:geomhash":"e162f05e8cb02434ef27b46cda24e20e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101954735,
-    "wof:lastmodified":1479623824,
+    "wof:lastmodified":1566623312,
     "wof:name":"Rio do Salto",
     "wof:parent_id":404561021,
     "wof:placetype":"locality",

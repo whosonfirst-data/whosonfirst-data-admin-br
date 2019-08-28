@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.199706,
     "lbl:longitude":-39.98696,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.199706,
     "mps:longitude":-39.98696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carvoeiro"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":124,
     "wof:belongsto":[
         85681907,
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3402640,
         "gp:id":456348,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"89a5fe8aaa6eb7818d0f50a61eb9f429",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101945165,
-    "wof:lastmodified":1564142279,
+    "wof:lastmodified":1566625917,
     "wof:name":"Carvoeiro",
     "wof:parent_id":404553167,
     "wof:placetype":"locality",

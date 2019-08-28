@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.729534,
     "lbl:longitude":-40.882763,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.729534,
     "mps:longitude":-40.882763,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09c1\u0986\u09b8 \u09ac\u09be\u09b0\u09cd\u09b0\u09be\u09b8"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681921,
         102191577,
@@ -104,7 +107,7 @@
         "fct:id":"038073fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3464416,
         "gp:id":431327,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"a947fa25981ef1ccd8c6a88de2de5c6c",
@@ -122,7 +125,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564139083,
+    "wof:lastmodified":1566623274,
     "wof:name":"Duas Barras",
     "wof:parent_id":404554385,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.542643,
     "lbl:longitude":-51.175734,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.542643,
     "mps:longitude":-51.175734,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09bf\u0995\u09c1\u0987"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":146,
     "wof:belongsto":[
         85682021,
@@ -100,7 +103,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":90218365,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"2ee7de281c669a2ae984667d0058b42d",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101957273,
-    "wof:lastmodified":1564141010,
+    "wof:lastmodified":1566624797,
     "wof:name":"Ibicu\u00ed",
     "wof:parent_id":404565281,
     "wof:placetype":"locality",

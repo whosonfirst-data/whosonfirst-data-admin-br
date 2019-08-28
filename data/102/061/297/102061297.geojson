@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-22.357947,
     "lbl:longitude":-47.135705,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-22.357947,
     "mps:longitude":-47.135705,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a8\u099a\u09be\u09b2"
     ],
@@ -112,7 +115,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.33,
     "wd:longitude":-47.172778,
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":102061297,
-    "wof:lastmodified":1563235321,
+    "wof:lastmodified":1566619437,
     "wof:name":"Conchal",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.6013,
     "lbl:longitude":-43.028671,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-7.6013,
     "mps:longitude":-43.028671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u0989\u09af\u09bc\u09c7\u0987\u09b0\u09be"
     ],
@@ -72,9 +75,6 @@
     "name:rus_x_variant":[
         "\u0418\u0442\u0430\u0443\u0435\u0439\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Piriperi"
-    ],
     "name:vie_x_preferred":[
         "Itaueira"
     ],
@@ -107,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -120,7 +120,6 @@
         "fct:id":"038738ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3397865,
         "gp:id":457371,
-        "qs:id":181528,
         "qs_pg:id":181528,
         "wd:id":"Q2079025",
         "wk:page":"Itaueira"
@@ -140,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247365,
+    "wof:lastmodified":1566626066,
     "wof:name":"Itaueira",
     "wof:parent_id":102057123,
     "wof:placetype":"locality",

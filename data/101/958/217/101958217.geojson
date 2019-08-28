@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-30.014214,
     "lbl:longitude":-57.228832,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.014214,
     "mps:longitude":-57.228832,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0648\u0633\u064a\u0647 \u0641\u0631\u0646\u0633\u064a\u0633\u0643\u0648 \u0628\u0648\u0631\u063a\u0632"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         85682015,
@@ -90,7 +93,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q10304583"
     },
     "wof:country":"BR",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101958217,
-    "wof:lastmodified":1563245633,
+    "wof:lastmodified":1566625212,
     "wof:name":"Francisco Borges",
     "wof:parent_id":404563057,
     "wof:placetype":"locality",

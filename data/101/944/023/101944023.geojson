@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.502479,
     "lbl:longitude":-40.818093,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.502479,
     "mps:longitude":-40.818093,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u09ab\u09be\u099f\u09bf\u09ae\u09be"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":147,
     "wof:belongsto":[
         85681907,
@@ -100,7 +103,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6317737,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"aa843c0a6ca5d5c646010fae633bcea9",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101944023,
-    "wof:lastmodified":1564142326,
+    "wof:lastmodified":1566625955,
     "wof:name":"Nova F\u00e1tima",
     "wof:parent_id":404553079,
     "wof:placetype":"locality",

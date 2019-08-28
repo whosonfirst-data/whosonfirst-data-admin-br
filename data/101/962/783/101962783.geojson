@@ -9,14 +9,17 @@
     "geom:bbox":"-46.9023718411,-13.2694796578,-46.8791334238,-13.2468881307",
     "geom:latitude":-13.257553,
     "geom:longitude":-46.890559,
-    "geonames:id":"3456881,6317619",
+    "gn:id":"3456881,6317619",
     "iso:country":"BR",
     "lbl:latitude":-13.257859,
     "lbl:longitude":-46.89078,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.257859,
     "mps:longitude":-46.89078,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u099f\u09c7 \u0986\u09b2\u09c7\u0997\u09cd\u09b0\u09c7 \u09a1\u09c7 \u0997\u09cb\u09af\u09bc\u09be\u09b8"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Monte Alegre de Goi\u00e1s"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chapeo"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":582,
     "wof:belongsto":[
         102191577,
@@ -121,9 +124,11 @@
     "wof:concordances":{
         "gn:id":3456881,
         "gp:id":456341,
-        "qs:id":5,
-        "qs_pg:id":1044997,
+        "qs_pg:id":5,
         "wd:id":"Q650174"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1044997
     },
     "wof:country":"BR",
     "wof:geomhash":"a3b972574a323aef86b13eb2562a0080",
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":101962783,
-    "wof:lastmodified":1561841063,
+    "wof:lastmodified":1566623522,
     "wof:name":"Monte Alegre de Goi\u00e1s",
     "wof:parent_id":102052407,
     "wof:placetype":"locality",

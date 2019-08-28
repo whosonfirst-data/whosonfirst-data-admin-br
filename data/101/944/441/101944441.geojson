@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-6.368648,
     "lbl:longitude":-39.293482,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-6.368648,
     "mps:longitude":-39.293482,
     "mz:hierarchy_label":1,
@@ -156,9 +158,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0433\u0443\u0430\u0442\u0443"
     ],
-    "name:unk_x_variant":[
-        "Telha"
-    ],
     "name:urd_x_preferred":[
         "\u06cc\u062c\u0648\u0627\u062a\u0648"
     ],
@@ -284,7 +283,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -298,7 +297,6 @@
         "fct:id":"0386be06-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3398331,
         "gp:id":456232,
-        "qs:id":1044405,
         "qs_pg:id":1044405,
         "wd:id":"Q931326"
     },
@@ -318,7 +316,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247171,
+    "wof:lastmodified":1566625960,
     "wof:name":"Iguatu",
     "wof:parent_id":404553005,
     "wof:placetype":"locality",

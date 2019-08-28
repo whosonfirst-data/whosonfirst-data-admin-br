@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-1.241205,
     "lbl:longitude":-48.426898,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-1.241205,
     "mps:longitude":-48.426898,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Fama"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681959,
         102191577,
@@ -87,7 +90,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":459078,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"f1216f2e4dba403300d052f51ad7a6dc",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101982985,
-    "wof:lastmodified":1564140799,
+    "wof:lastmodified":1566624631,
     "wof:name":"Fama",
     "wof:parent_id":404559525,
     "wof:placetype":"locality",

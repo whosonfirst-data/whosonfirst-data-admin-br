@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.450943,
     "lbl:longitude":-51.298741,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.450943,
     "mps:longitude":-51.298741,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09c7\u09b2\u09bf\u099c"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -129,7 +132,6 @@
         "fct:id":"0385cbae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3463449,
         "gp:id":433555,
-        "qs:id":444362,
         "qs_pg:id":444362,
         "wd:id":"Q1750056",
         "wk:page":"Feliz"
@@ -149,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245556,
+    "wof:lastmodified":1566625182,
     "wof:name":"Feliz",
     "wof:parent_id":102059411,
     "wof:placetype":"locality",

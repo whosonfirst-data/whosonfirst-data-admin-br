@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.709647,
     "lbl:longitude":-51.625642,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.709647,
     "mps:longitude":-51.625642,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Posto da Mata"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -46,7 +49,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e507808914f3c8d294c9d2618cf581ec",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101982397,
-    "wof:lastmodified":1564140762,
+    "wof:lastmodified":1566624612,
     "wof:name":"Posto da Mata",
     "wof:parent_id":102055355,
     "wof:placetype":"locality",

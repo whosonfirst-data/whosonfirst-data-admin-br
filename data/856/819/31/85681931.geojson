@@ -36,6 +36,7 @@
     ],
     "lbl:latitude":-5.088635,
     "lbl:longitude":-45.331571,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-5.088635,
     "mps:longitude":-45.331571,
     "mz:hierarchy_label":1,
@@ -307,7 +308,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0430\u043d\u044c\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maranham"
     ],
     "name:urd_x_preferred":[
@@ -408,9 +409,9 @@
     "qs:type":"Estado",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-08-01",
+    "src:population_date":"2010-08-01",
     "statoids:area_km":"331,937",
     "statoids:area_mi":"128,162",
     "statoids:as_of_date":"2010-08-01",
@@ -454,11 +455,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565660994,
+    "wof:lastmodified":1566620867,
     "wof:name":"Maranhao",
     "wof:parent_id":85633009,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":6574789,
     "wof:population_rank":13,

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.40337,
     "lbl:longitude":-53.057806,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.40337,
     "mps:longitude":-53.057806,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lagoa"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681955,
         102191577,
@@ -93,7 +96,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":461705,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"0e95f7da6131159613aea9a51e84b3e1",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101982205,
-    "wof:lastmodified":1564140790,
+    "wof:lastmodified":1566624626,
     "wof:name":"Lagoa",
     "wof:parent_id":404559139,
     "wof:placetype":"locality",

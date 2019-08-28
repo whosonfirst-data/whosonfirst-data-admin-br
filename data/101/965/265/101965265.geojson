@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.074697,
     "lbl:longitude":-46.986099,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.074697,
     "mps:longitude":-46.986099,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*SP",
     "qs:a1_lc":"35",
@@ -31,7 +34,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         102191577,
@@ -41,7 +44,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e1046703d6ea46710c2c3244314b1adf",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101965265,
-    "wof:lastmodified":1527641771,
+    "wof:lastmodified":1566623470,
     "wof:name":"Distrito Industrial",
     "wof:parent_id":102060993,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.04612,
     "lbl:longitude":-55.197202,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.04612,
     "mps:longitude":-55.197202,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09b0\u09be\u09aa\u0993"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":188,
     "wof:belongsto":[
         85682015,
@@ -123,7 +126,7 @@
         "fct:id":"0388ff7c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3453549,
         "gp:id":444386,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q596649"
     },
     "wof:country":"BR",
@@ -142,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245748,
+    "wof:lastmodified":1566625259,
     "wof:name":"Pirap\u00f3",
     "wof:parent_id":404564177,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.823896,
     "lbl:longitude":-39.143215,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.823896,
     "mps:longitude":-39.143215,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u0997\u09cd\u09b0\u09be\u09aa\u09bf\u0989\u09a8\u09be"
     ],
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "Igrapi\u00fana"
     ],
-    "name:unk_x_variant":[
-        "Igarapiuna"
-    ],
     "name:vie_x_preferred":[
         "Igrapi\u00fana"
     ],
@@ -115,7 +115,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":146,
     "wof:belongsto":[
         85681895,
@@ -129,7 +129,7 @@
         "fct:id":"0387b9aa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461488,
         "gp:id":459637,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1795302",
         "wk:page":"Igrapi\u00fana"
     },
@@ -149,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841198,
+    "wof:lastmodified":1566625031,
     "wof:name":"Igrapi\u00fana",
     "wof:parent_id":404551083,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"-49.26472,-8.25778,-49.26472,-8.25778",
     "geom:latitude":-8.25778,
     "geom:longitude":-49.26472,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":27115,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:population":27115,
     "iso:country":"BR",
+    "lbl:bbox":"-49.28472,-8.27778,-49.24472,-8.23778",
     "lbl:latitude":-8.25778,
     "lbl:longitude":-49.26472,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a8\u09cd\u09b8\u09c7\u0987\u0995\u09af\u09bc\u09be\u0993 \u09a1\u09cb \u0986\u09b0\u09be\u0997\u09c1\u09f1\u09be\u0987\u09af\u09bc\u09be"
@@ -76,9 +79,6 @@
     "name:spa_x_preferred":[
         "Concei\u00e7\u00e3o do Araguaia"
     ],
-    "name:unk_x_variant":[
-        "Concei\u00e7\u00e3o do Araguaia"
-    ],
     "name:vie_x_preferred":[
         "Concei\u00e7\u00e3o do Araguaia"
     ],
@@ -108,7 +108,7 @@
     "qs_pg:woe_adm0":23424768,
     "qs_pg:woe_id":430069,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424768,
     "woe:name_adm0":"Brasil",
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":1126028517,
-    "wof:lastmodified":1561841405,
+    "wof:lastmodified":1566628398,
     "wof:name":"Conceicao do Araguaya",
     "wof:parent_id":102055749,
     "wof:placetype":"locality",

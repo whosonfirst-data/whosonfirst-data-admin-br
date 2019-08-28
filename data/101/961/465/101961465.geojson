@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-16.490195,
     "lbl:longitude":-54.638534,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-16.490195,
     "mps:longitude":-54.638534,
     "mz:hierarchy_label":1,
@@ -163,9 +165,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u043d\u0434\u043e\u043d\u043e\u043f\u043e\u043b\u0456\u0441"
     ],
-    "name:unk_x_variant":[
-        "Rodon\u00f3polis"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0646\u062f\u0648\u0646\u0648\u067e\u0648\u0644\u06cc\u0633"
     ],
@@ -288,7 +287,7 @@
     "qs:type":"Centro Subregional A",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":330,
     "wof:belongsto":[
@@ -303,7 +302,7 @@
         "fct:id":"03869714-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3450909,
         "gp:id":455907,
-        "qs:id":1265518,
+        "qs_pg:id":1265518,
         "wd:id":"Q983714",
         "wk:page":"Rondon\u00f3polis"
     },
@@ -323,7 +322,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245069,
+    "wof:lastmodified":1566624954,
     "wof:name":"Rondon\u00f3polis",
     "wof:parent_id":404559357,
     "wof:placetype":"locality",

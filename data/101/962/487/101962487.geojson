@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.234959,
     "lbl:longitude":-48.792367,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.234959,
     "mps:longitude":-48.792367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Costa Verde"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191577,
@@ -63,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456740,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"ee580786ca4a2017fe2246dadaa7d698",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101962487,
-    "wof:lastmodified":1564139336,
+    "wof:lastmodified":1566623541,
     "wof:name":"Costa Verde",
     "wof:parent_id":102061105,
     "wof:placetype":"locality",

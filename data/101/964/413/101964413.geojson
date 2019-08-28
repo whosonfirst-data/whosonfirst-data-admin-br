@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000029,
-    "geom:area_square_m":332605.157157,
+    "geom:area_square_m":332605.157156,
     "geom:bbox":"-49.1348554375,-20.2606923113,-49.1276074336,-20.2546688149",
     "geom:latitude":-20.257471,
     "geom:longitude":-49.13142,
     "iso:country":"BR",
     "lbl:latitude":-20.2571,
     "lbl:longitude":-49.131419,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.2571,
     "mps:longitude":-49.131419,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*MG",
     "qs:a1_lc":"31",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -43,7 +47,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7874477,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1042249
     },
     "wof:country":"BR",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":101964413,
-    "wof:lastmodified":1497292284,
+    "wof:lastmodified":1566623685,
     "wof:name":"Parque Santa Monica",
     "wof:parent_id":404556445,
     "wof:placetype":"locality",

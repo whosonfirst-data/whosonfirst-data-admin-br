@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-0.736922,
     "lbl:longitude":-48.10517,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-0.736922,
     "mps:longitude":-48.10517,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*PA",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681959,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":449697,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"56af64a3eb89330cd66f1d9794776311",
+    "wof:geomhash":"d0b73785d399a5f6c90249022302495a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101983033,
-    "wof:lastmodified":1479623269,
+    "wof:lastmodified":1566624040,
     "wof:name":"Ponta Bom Jesus",
     "wof:parent_id":404559771,
     "wof:placetype":"locality",

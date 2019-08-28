@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.14143,
     "lbl:longitude":-46.124349,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-2.14143,
     "mps:longitude":-46.124349,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09cb \u09a8\u09cb\u09ad\u09cb \u09a1\u09cb \u09ae\u09be\u09b0\u09be\u09a8\u09b9\u09cb"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":198,
     "wof:belongsto":[
         102191577,
@@ -112,7 +115,7 @@
     "wof:concordances":{
         "gn:id":6316844,
         "gp:id":56125246,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2013267",
         "wk:page":"Centro Novo do Maranh\u00e3o"
     },
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101943139,
-    "wof:lastmodified":1561841310,
+    "wof:lastmodified":1566626111,
     "wof:name":"Centro Novo do Maranh\u00e3o",
     "wof:parent_id":102052887,
     "wof:placetype":"locality",

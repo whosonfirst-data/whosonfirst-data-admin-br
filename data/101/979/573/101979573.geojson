@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-1.828599,
     "lbl:longitude":-44.750401,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-1.828599,
     "mps:longitude":-44.750401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0631\u0648\u0645\u0648"
     ],
@@ -142,7 +145,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":92,
     "wof:belongsto":[
         85681931,
@@ -156,7 +159,7 @@
         "fct:id":"03829bdc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3390163,
         "gp:id":457965,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"39ea62a1b2213db3a1acc4aff4acf9d0",
@@ -174,7 +177,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564140204,
+    "wof:lastmodified":1566624186,
     "wof:name":"Rumo",
     "wof:parent_id":404555011,
     "wof:placetype":"locality",

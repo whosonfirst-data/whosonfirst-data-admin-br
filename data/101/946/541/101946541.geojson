@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.020815,
     "lbl:longitude":-35.857151,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-7.020815,
     "mps:longitude":-35.857151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u098f\u09b8\u09aa\u09c7\u09b0\u09be\u09a8\u09cd\u09b8\u09be"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":63,
     "wof:belongsto":[
@@ -126,7 +129,6 @@
         "fct:id":"03872364-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3400752,
         "gp:id":457158,
-        "qs:id":1044431,
         "qs_pg:id":1044431,
         "wd:id":"Q1816186"
     },
@@ -145,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243569,
+    "wof:lastmodified":1566624279,
     "wof:name":"Esperan\u00e7a",
     "wof:parent_id":102056163,
     "wof:placetype":"locality",

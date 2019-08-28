@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.357894,
     "lbl:longitude":-46.615731,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-7.357894,
     "mps:longitude":-46.615731,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Riach\u00e3o"
     ],
@@ -68,9 +71,6 @@
     "name:rus_x_preferred":[
         "\u0420\u0438\u0430\u0448\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Riachaq"
-    ],
     "name:vie_x_preferred":[
         "Riach\u00e3o"
     ],
@@ -100,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -113,7 +113,6 @@
         "fct:id":"0387721a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3390581,
         "gp:id":457922,
-        "qs:id":147638,
         "qs_pg:id":147638,
         "wd:id":"Q685271",
         "wk:page":"Riach\u00e3o, Maranh\u00e3o"
@@ -133,7 +132,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841309,
+    "wof:lastmodified":1566626106,
     "wof:name":"Riach\u00e3o",
     "wof:parent_id":102053113,
     "wof:placetype":"locality",

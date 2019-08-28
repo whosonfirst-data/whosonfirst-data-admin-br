@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.156166,
     "lbl:longitude":-52.31565,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.156166,
     "mps:longitude":-52.31565,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09f1\u09be\u09b0\u09be"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -121,7 +124,6 @@
         "fct:id":"038781b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3447927,
         "gp:id":458081,
-        "qs:id":669675,
         "qs_pg:id":669675,
         "wd:id":"Q1784472",
         "wk:page":"Seara"
@@ -142,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841203,
+    "wof:lastmodified":1566625081,
     "wof:name":"Seara",
     "wof:parent_id":404565907,
     "wof:placetype":"locality",

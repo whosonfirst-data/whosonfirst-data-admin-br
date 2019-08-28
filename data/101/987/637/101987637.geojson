@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.939141,
     "lbl:longitude":-35.123366,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.939141,
     "mps:longitude":-35.123366,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Guadalajara"
     ],
@@ -301,7 +304,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -310,7 +313,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"5da8bc45ecebe8b58ade27d38b604a2d",
@@ -324,7 +327,7 @@
         }
     ],
     "wof:id":101987637,
-    "wof:lastmodified":1564141773,
+    "wof:lastmodified":1566625577,
     "wof:name":"Guadalajara",
     "wof:parent_id":102056757,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.948692,
     "lbl:longitude":-44.916461,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-20.948692,
     "mps:longitude":-44.916461,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09cb \u0986\u09a8\u09cd\u099f\u09cb\u09a8\u09bf\u0993 \u09a1\u09cb \u0986\u09ae\u09aa\u09be\u09b0\u09cb"
     ],
@@ -108,7 +111,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":85,
     "wof:belongsto":[
@@ -123,7 +126,7 @@
         "fct:id":"038a32f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3449516,
         "gp:id":449409,
-        "qs:id":233447,
+        "qs_pg:id":233447,
         "wd:id":"Q986277",
         "wk:page":"Santo Ant\u00f4nio do Amparo"
     },
@@ -143,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841052,
+    "wof:lastmodified":1566623455,
     "wof:name":"Santo Ant\u00f4nio do Amparo",
     "wof:parent_id":404558161,
     "wof:placetype":"locality",

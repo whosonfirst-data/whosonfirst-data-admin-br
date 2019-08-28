@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.149379,
     "lbl:longitude":-44.201174,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-20.149379,
     "mps:longitude":-44.201174,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c1\u09ae\u09be\u09a1\u09bf\u09a8\u09b9\u09cb"
     ],
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -147,7 +150,6 @@
         "fct:id":"038a1330-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3468894,
         "gp:id":456876,
-        "qs:id":1045132,
         "qs_pg:id":1045132,
         "wd:id":"Q1751212"
     },
@@ -167,7 +169,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245269,
+    "wof:lastmodified":1566625048,
     "wof:name":"Brumadinho",
     "wof:parent_id":404555543,
     "wof:placetype":"locality",

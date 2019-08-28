@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.061299,
     "lbl:longitude":-40.173486,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-3.061299,
     "mps:longitude":-40.173486,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b2\u09be \u0995\u09cd\u09b0\u09c1\u099c"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -114,7 +117,6 @@
         "fct:id":"03858a68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3405908,
         "gp:id":424358,
-        "qs:id":1044509,
         "qs_pg:id":1044509,
         "wd:id":"Q2021089"
     },
@@ -134,7 +136,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841298,
+    "wof:lastmodified":1566625995,
     "wof:name":"Bela Cruz",
     "wof:parent_id":404552521,
     "wof:placetype":"locality",

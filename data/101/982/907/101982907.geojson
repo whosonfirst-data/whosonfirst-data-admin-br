@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-1.518416,
     "lbl:longitude":-48.668555,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-1.518416,
     "mps:longitude":-48.668555,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Laranjal"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681959,
         102191577,
@@ -69,7 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456065,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"889a50c6c7acd931b3623de163e426f4",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101982907,
-    "wof:lastmodified":1564140754,
+    "wof:lastmodified":1566624607,
     "wof:name":"Laranjal",
     "wof:parent_id":404559507,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.14153,
     "lbl:longitude":-53.586651,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.14153,
     "mps:longitude":-53.586651,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Santa Maria"
     ],
@@ -145,7 +148,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -154,7 +157,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e39e59b0244d7ff9c620fe2566b1f0ac",
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":101967333,
-    "wof:lastmodified":1564141368,
+    "wof:lastmodified":1566625174,
     "wof:name":"Santa Maria",
     "wof:parent_id":102058151,
     "wof:placetype":"locality",

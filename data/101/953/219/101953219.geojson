@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.267626,
     "lbl:longitude":-43.173259,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-21.267626,
     "mps:longitude":-43.173259,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u0993 \u09aa\u09cb\u09ae\u09ac\u09be"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Rio Pomba"
     ],
-    "name:unk_x_variant":[
-        "Pomba"
-    ],
     "name:vie_x_preferred":[
         "Rio Pomba"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -132,7 +132,6 @@
         "fct:id":"0386dd64-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451094,
         "gp:id":456476,
-        "qs:id":147959,
         "qs_pg:id":147959,
         "wd:id":"Q22065221",
         "wk:page":"Rio Pomba"
@@ -153,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241575,
+    "wof:lastmodified":1566623356,
     "wof:name":"Rio Pomba",
     "wof:parent_id":404557963,
     "wof:placetype":"locality",

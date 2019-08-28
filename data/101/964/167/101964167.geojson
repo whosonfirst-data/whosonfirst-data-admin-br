@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.22859,
     "lbl:longitude":-49.291659,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.22859,
     "mps:longitude":-49.291659,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Campestre"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -86,7 +89,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"81fe07b5fa2d3a1f923ab8d5dc9d7c8b",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101964167,
-    "wof:lastmodified":1564139526,
+    "wof:lastmodified":1566623681,
     "wof:name":"Campestre",
     "wof:parent_id":404565259,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":0.878758,
     "lbl:longitude":-59.698645,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":0.878758,
     "mps:longitude":-59.698645,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09cb\u09af\u09bc\u09c7\u09ac\u09c7"
     ],
@@ -121,7 +124,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -133,7 +136,7 @@
         "fct:id":"03898abe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316814,
         "gp:id":55944314,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q748315",
         "wk:page":"Caroebe"
     },
@@ -152,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243646,
+    "wof:lastmodified":1566624302,
     "wof:name":"Caroebe",
     "wof:parent_id":102059017,
     "wof:placetype":"locality",

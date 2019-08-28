@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.447094,
     "lbl:longitude":-52.832717,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.447094,
     "mps:longitude":-52.832717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Novo Horizonte"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":101,
     "wof:belongsto":[
         102191577,
@@ -109,10 +112,12 @@
         "fct:id":"038959cc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456058,
         "gp:id":441714,
-        "qs:id":2,
-        "qs_pg:id":992337,
+        "qs_pg:id":2,
         "wd:id":"Q926081",
         "wk:page":"Novo Horizonte, Santa Catarina"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":992337
     },
     "wof:country":"BR",
     "wof:geomhash":"facf7048ffab472297b9ef6015a4a120",
@@ -129,7 +134,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841242,
+    "wof:lastmodified":1566625359,
     "wof:name":"Novo Horizonte",
     "wof:parent_id":102060577,
     "wof:placetype":"locality",

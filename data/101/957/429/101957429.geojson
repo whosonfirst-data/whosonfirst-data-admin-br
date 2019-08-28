@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.653789,
     "lbl:longitude":-50.850329,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-24.653789,
     "mps:longitude":-50.850329,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09c7\u09b8\u09c7\u09b0\u09ad\u09be"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":148,
     "wof:belongsto":[
@@ -121,7 +124,6 @@
         "fct:id":"038771e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451663,
         "gp:id":457920,
-        "qs:id":305421,
         "qs_pg:id":305421,
         "wd:id":"Q177325",
         "wk:page":"Reserva, Paran\u00e1"
@@ -142,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244813,
+    "wof:lastmodified":1566624833,
     "wof:name":"Reserva",
     "wof:parent_id":404561747,
     "wof:placetype":"locality",

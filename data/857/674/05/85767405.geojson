@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2941002.305335,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-46.363455,-23.965675,-46.363455,-23.965675",
     "geom:latitude":-23.965675,
     "geom:longitude":-46.363455,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-46.368455,-23.970675,-46.358455,-23.960675",
     "lbl:latitude":-23.965675,
     "lbl:longitude":-46.363455,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-23.960114,
     "mps:longitude":-46.363551,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Morro Jose Menino"
     ],
     "name:por_x_preferred":[
-        "Morro Jos\u00e9 Menino"
-    ],
-    "name:unk_x_variant":[
         "Morro Jos\u00e9 Menino"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -61,20 +60,22 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682041,
         102191577,
         404567497,
         85633009,
         101956255,
-        102062271
+        102062271,
+        85682041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56066820,
-        "qs:id":1091048,
         "qs_pg:id":1091040
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1091048
     },
     "wof:country":"BR",
     "wof:geomhash":"77fcef1b3ff79f800e3209ba12b42910",
@@ -93,7 +94,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859172,
+    "wof:lastmodified":1566620735,
     "wof:name":"Morro Jos\u00e9 Menino",
     "wof:parent_id":101956255,
     "wof:placetype":"neighbourhood",

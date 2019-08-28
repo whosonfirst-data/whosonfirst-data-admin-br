@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.014159,
     "lbl:longitude":-39.838109,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.014159,
     "mps:longitude":-39.838109,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043d-\u0412\u0456\u0441\u0435\u043d\u0442\u044b"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":189,
     "wof:belongsto":[
         85681907,
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gn:id":6318629,
         "gp:id":439761,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"7f692377ab7e43704e5e421b493ac7d8",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101945203,
-    "wof:lastmodified":1564142260,
+    "wof:lastmodified":1566625902,
     "wof:name":"S\u00e3o Vicente",
     "wof:parent_id":404553425,
     "wof:placetype":"locality",

@@ -9,16 +9,19 @@
     "geom:bbox":"-55.0199470934,-10.2642183275,-54.9617061137,-10.2092478187",
     "geom:latitude":-10.238044,
     "geom:longitude":-54.989966,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-10.241531,
     "lbl:longitude":-54.997684,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.241531,
     "mps:longitude":-54.997684,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u0987\u0995\u09cd\u09b8\u09cb\u099f\u09cb \u09a1\u09c7 \u0986\u099c\u09c7\u09ad\u09c7\u09a1\u09cb"
     ],
@@ -128,7 +131,7 @@
     "qs_pg:woe_id":456404,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -140,7 +143,6 @@
         "fct:id":"0386d4c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317924,
         "gp:id":456404,
-        "qs:id":181365,
         "qs_pg:id":181365,
         "wd:id":"Q933251",
         "wk:page":"Peixoto de Azevedo"
@@ -160,7 +162,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841192,
+    "wof:lastmodified":1566624979,
     "wof:name":"Peixoto de Azevedo",
     "wof:parent_id":102055543,
     "wof:placetype":"locality",

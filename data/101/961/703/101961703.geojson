@@ -9,13 +9,14 @@
     "geom:bbox":"-52.4322391756,-15.9119834779,-52.107463817,-15.8078419323",
     "geom:latitude":-15.858172,
     "geom:longitude":-52.280929,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":52398,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:population":52398,
     "iso:country":"BR",
     "lbl:latitude":-15.859678,
     "lbl:longitude":-52.310289,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-15.859678,
     "mps:longitude":-52.310289,
     "mz:hierarchy_label":1,
@@ -241,7 +242,7 @@
     "qs_pg:woe_id":456071,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":223,
     "wof:belongsto":[
@@ -256,7 +257,6 @@
         "fct:id":"0386a9c0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3470709,
         "gp:id":456071,
-        "qs:id":1053888,
         "qs_pg:id":1053888,
         "wd:id":"Q577720",
         "wk:page":"Barra do Gar\u00e7as"
@@ -277,7 +277,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841190,
+    "wof:lastmodified":1566624970,
     "wof:name":"Barra do Gar\u00e7as",
     "wof:parent_id":404559113,
     "wof:placetype":"locality",

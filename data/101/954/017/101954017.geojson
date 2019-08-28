@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.510767,
     "lbl:longitude":-41.715686,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.510767,
     "mps:longitude":-41.715686,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0645\u0627\u0631\u062a\u0627"
     ],
@@ -191,7 +194,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681921,
         102191577,
@@ -204,7 +207,7 @@
         "fct:id":"0381ad94-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3450053,
         "gp:id":448665,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"83f12e27653ae9515033468185df9246",
@@ -222,7 +225,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564139132,
+    "wof:lastmodified":1566623323,
     "wof:name":"Santa Marta",
     "wof:parent_id":404554379,
     "wof:placetype":"locality",

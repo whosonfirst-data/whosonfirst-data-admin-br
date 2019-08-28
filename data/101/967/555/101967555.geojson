@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.9384,
     "lbl:longitude":-52.173418,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.9384,
     "mps:longitude":-52.173418,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u0999\u09cd\u0997\u09c1\u09f1\u09c7\u0987\u09b0\u09bf\u09a8\u09b9\u09be"
     ],
@@ -82,9 +85,6 @@
     "name:swe_x_preferred":[
         "Mangueirinha"
     ],
-    "name:unk_x_variant":[
-        "Manguairinha"
-    ],
     "name:vie_x_preferred":[
         "Mangueirinha"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -130,7 +130,6 @@
         "fct:id":"0386c856-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457967,
         "gp:id":456318,
-        "qs:id":433678,
         "qs_pg:id":433678,
         "wd:id":"Q1992575",
         "wk:page":"Mangueirinha"
@@ -151,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841212,
+    "wof:lastmodified":1566625169,
     "wof:name":"Mangueirinha",
     "wof:parent_id":404561411,
     "wof:placetype":"locality",

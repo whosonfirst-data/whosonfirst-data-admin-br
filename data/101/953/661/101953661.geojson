@@ -9,14 +9,17 @@
     "geom:bbox":"-42.6266439646,-15.3468598219,-42.6165872496,-15.3384072527",
     "geom:latitude":-15.342667,
     "geom:longitude":-42.621627,
-    "geonames:id":"3451599,6318365",
+    "gn:id":"3451599,6318365",
     "iso:country":"BR",
     "lbl:latitude":-15.342537,
     "lbl:longitude":-42.621627,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.342537,
     "mps:longitude":-42.621627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09cb \u0986\u09a8\u09cd\u099f\u09cb\u09a8\u09bf\u0993 \u09a1\u09cb \u09b0\u09c7\u099f\u09bf\u09b0\u09cb"
     ],
@@ -107,7 +110,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":271,
     "wof:belongsto":[
         85681941,
@@ -119,7 +122,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55944495,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q732719"
     },
     "wof:country":"BR",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101953661,
-    "wof:lastmodified":1561841040,
+    "wof:lastmodified":1566623369,
     "wof:name":"Santo Ant\u00f4nio do Retiro",
     "wof:parent_id":404558183,
     "wof:placetype":"locality",

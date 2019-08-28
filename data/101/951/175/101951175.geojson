@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.006372,
     "lbl:longitude":-44.422587,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-20.006372,
     "mps:longitude":-44.422587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u099f\u09c7\u0989\u09b8 \u09b2\u09c7\u09ae\u09c7"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Mateus Leme"
     ],
-    "name:unk_x_variant":[
-        "Matheus Leme"
-    ],
     "name:vie_x_preferred":[
         "Mateus Leme"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -132,7 +132,6 @@
         "fct:id":"038a195c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457484,
         "gp:id":460094,
-        "qs:id":670526,
         "qs_pg:id":670526,
         "wd:id":"Q631022"
     },
@@ -152,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246277,
+    "wof:lastmodified":1566625503,
     "wof:name":"Mateus Leme",
     "wof:parent_id":404557193,
     "wof:placetype":"locality",

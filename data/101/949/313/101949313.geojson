@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.018723,
     "lbl:longitude":-42.111445,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.018723,
     "mps:longitude":-42.111445,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u09cd\u099f\u09cb\u09a8\u09bf\u0993 \u09aa\u09cd\u09b0\u09be\u09a1\u09cb \u09a1\u09c7 \u09ae\u09bf\u09a8\u09be\u09b8"
     ],
@@ -116,7 +119,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":75,
     "wof:belongsto":[
         85681941,
@@ -130,7 +133,7 @@
         "fct:id":"03880fae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6316404,
         "gp:id":422074,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1791977"
     },
     "wof:country":"BR",
@@ -149,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841148,
+    "wof:lastmodified":1566624573,
     "wof:name":"Ant\u00f4nio Prado de Minas",
     "wof:parent_id":404555257,
     "wof:placetype":"locality",

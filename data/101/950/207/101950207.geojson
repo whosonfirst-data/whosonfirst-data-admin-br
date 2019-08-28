@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.799502,
     "lbl:longitude":-39.388737,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-11.799502,
     "mps:longitude":-39.388737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u09af\u09bc\u09be\u099a\u09af\u09bc\u09be\u0993 \u09a1\u09cb \u099c\u09be\u0995\u09c1\u0987\u09aa\u09c7"
     ],
@@ -86,9 +89,6 @@
     "name:rus_x_preferred":[
         "\u0420\u0438\u0430\u0448\u0430\u043d-\u0434\u0443-\u0416\u0430\u043a\u0443\u0438\u043f\u0438"
     ],
-    "name:unk_x_variant":[
-        "Riach\u00e3o"
-    ],
     "name:vie_x_preferred":[
         "Riach\u00e3o do Jacu\u00edpe"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":43,
     "wof:belongsto":[
@@ -133,7 +133,6 @@
         "fct:id":"0388b45e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451474,
         "gp:id":456466,
-        "qs:id":305365,
         "qs_pg:id":305365,
         "wd:id":"Q1794367",
         "wk:page":"Riach\u00e3o do Jacu\u00edpe"
@@ -154,7 +153,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244653,
+    "wof:lastmodified":1566624769,
     "wof:name":"Riach\u00e3o do Jacu\u00edpe",
     "wof:parent_id":404551831,
     "wof:placetype":"locality",

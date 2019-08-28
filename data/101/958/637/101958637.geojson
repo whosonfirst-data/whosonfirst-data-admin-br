@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-30.338119,
     "lbl:longitude":-54.084109,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.338119,
     "mps:longitude":-54.084109,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Santa Margarida do Sul"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -111,7 +114,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55944065,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q730999"
     },
     "wof:country":"BR",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101958637,
-    "wof:lastmodified":1561841225,
+    "wof:lastmodified":1566625253,
     "wof:name":"Santa Margarida do Sul",
     "wof:parent_id":404564417,
     "wof:placetype":"locality",

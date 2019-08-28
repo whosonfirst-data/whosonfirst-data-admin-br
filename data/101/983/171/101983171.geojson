@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-0.829608,
     "lbl:longitude":-47.566075,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-0.829608,
     "mps:longitude":-47.566075,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cd\u09b0\u09be\u09b8\u09b2 \u09a8\u09cb\u09ad\u09cb"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681959,
         102191577,
@@ -92,7 +95,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"86f74653ff6aba383bbcd4c958a045f4",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101983171,
-    "wof:lastmodified":1564139959,
+    "wof:lastmodified":1566624049,
     "wof:name":"Brasil Novo",
     "wof:parent_id":404559643,
     "wof:placetype":"locality",

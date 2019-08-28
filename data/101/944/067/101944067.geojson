@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-5.182436,
     "lbl:longitude":-40.666963,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-5.182436,
     "mps:longitude":-40.666963,
     "mz:hierarchy_label":1,
@@ -84,9 +86,6 @@
     ],
     "name:swe_x_preferred":[
         "Crate\u00fas"
-    ],
-    "name:unk_x_variant":[
-        "Pr\u00edncipe Imperial"
     ],
     "name:vie_x_preferred":[
         "Crate\u00fas"
@@ -209,7 +208,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":162,
     "wof:belongsto":[
@@ -224,7 +223,6 @@
         "fct:id":"0388ae32-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3401548,
         "gp:id":456161,
-        "qs:id":543229,
         "qs_pg:id":543229,
         "wd:id":"Q2021123"
     },
@@ -244,7 +242,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841298,
+    "wof:lastmodified":1566626001,
     "wof:name":"Crate\u00fas",
     "wof:parent_id":404552741,
     "wof:placetype":"locality",

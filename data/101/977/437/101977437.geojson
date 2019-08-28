@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.150452,
     "lbl:longitude":-38.867173,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.150452,
     "mps:longitude":-38.867173,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0430\u0442\u044b\u043d\u0433\u0430"
     ],
@@ -124,7 +127,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1718,
     "wof:belongsto":[
         85681907,
@@ -136,7 +139,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3402519,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q375816"
     },
     "wof:country":"BR",
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":101977437,
-    "wof:lastmodified":1563242923,
+    "wof:lastmodified":1566623950,
     "wof:name":"Caatinga",
     "wof:parent_id":404553515,
     "wof:placetype":"locality",

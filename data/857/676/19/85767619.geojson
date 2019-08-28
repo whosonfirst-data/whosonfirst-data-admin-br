@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11401488.387018,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-48.481669,-27.673487,-48.481669,-27.673487",
     "geom:latitude":-27.673487,
     "geom:longitude":-48.481669,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-48.486669,-27.678487,-48.476669,-27.668487",
     "lbl:latitude":-27.673487,
     "lbl:longitude":-48.481669,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-27.671613,
     "mps:longitude":-48.477679,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:por_x_preferred":[
-        "Campeche Norte"
-    ],
-    "name:unk_x_variant":[
         "Campeche Norte"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -55,19 +54,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682021,
         102191577,
         404565403,
         85633009,
         101958179,
-        102060383
+        102060383,
+        85682021
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56066990,
-        "qs:id":483599
+        "qs_pg:id":483599
     },
     "wof:country":"BR",
     "wof:geomhash":"c82f6b308355610878479e3a4f830035",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859200,
+    "wof:lastmodified":1566620777,
     "wof:name":"Campeche Norte",
     "wof:parent_id":101958179,
     "wof:placetype":"neighbourhood",

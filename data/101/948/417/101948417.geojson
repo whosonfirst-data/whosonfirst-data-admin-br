@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.363788,
     "lbl:longitude":-35.764132,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-8.363788,
     "mps:longitude":-35.764132,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09cb\u09b8\u09bf\u09ae \u09a1\u09c7 \u09b8\u09be\u0993 \u09ab\u09c7\u09b2\u09bf\u0995\u09cd\u09b8"
     ],
@@ -80,9 +83,6 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043c\u043e\u0441\u0438\u043d-\u0434\u0438-\u0421\u0430\u043d-\u0424\u0435\u043b\u0438\u0441"
     ],
-    "name:unk_x_variant":[
-        "Camocituba"
-    ],
     "name:vie_x_preferred":[
         "Camocim de S\u00e3o F\u00e9lix"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":171,
     "wof:belongsto":[
@@ -126,7 +126,6 @@
         "fct:id":"03870abe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3403685,
         "gp:id":456924,
-        "qs:id":893195,
         "qs_pg:id":893195,
         "wd:id":"Q1811052",
         "wk:page":"Camocim de S\u00e3o F\u00e9lix"
@@ -146,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841107,
+    "wof:lastmodified":1566623911,
     "wof:name":"Camocim de S\u00e3o F\u00e9lix",
     "wof:parent_id":102056569,
     "wof:placetype":"locality",

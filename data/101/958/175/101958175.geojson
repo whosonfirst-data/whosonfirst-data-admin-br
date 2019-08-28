@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-27.595267,
     "lbl:longitude":-48.541812,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-27.595267,
     "mps:longitude":-48.541812,
     "mz:hierarchy_label":1,
@@ -268,9 +270,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u043b\u043e\u0440\u0456\u0430\u043d\u043e\u043f\u043e\u043b\u0456\u0441"
     ],
-    "name:unk_x_variant":[
-        "Nossa Senhora do Dest\u00earro"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u0644\u0648\u0631\u06cc\u0627\u0646\u0648\u067e\u0648\u0644\u0633"
     ],
@@ -401,7 +400,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":5243,
     "wof:belongsto":[
@@ -419,7 +418,6 @@
         "gn:id":3463237,
         "gp:id":455861,
         "nyt:id":"N8544057388940295401",
-        "qs:id":1192813,
         "qs_pg:id":1192813,
         "wd:id":"Q132997",
         "wk:page":"Florian\u00f3polis"
@@ -440,7 +438,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245682,
+    "wof:lastmodified":1566625231,
     "wof:megacity":1,
     "wof:name":"Florian\u00f3polis",
     "wof:parent_id":404565395,

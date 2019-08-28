@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-29.838416,
     "lbl:longitude":-50.195039,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-29.838416,
     "mps:longitude":-50.195039,
     "mz:hierarchy_label":1,
@@ -94,9 +96,6 @@
     ],
     "name:swe_x_preferred":[
         "Os\u00f3rio"
-    ],
-    "name:unk_x_variant":[
-        "Concei\u00e7\u00e3o do Arroio"
     ],
     "name:vie_x_preferred":[
         "Os\u00f3rio"
@@ -220,7 +219,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682015,
@@ -234,7 +233,6 @@
         "fct:id":"03875a8c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3455769,
         "gp:id":457705,
-        "qs:id":444508,
         "qs_pg:id":444508,
         "wd:id":"Q983519"
     },
@@ -254,7 +252,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245770,
+    "wof:lastmodified":1566625270,
     "wof:name":"Os\u00f3rio",
     "wof:parent_id":404564045,
     "wof:placetype":"locality",

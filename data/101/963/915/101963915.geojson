@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.309464,
     "lbl:longitude":-49.957588,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.309464,
     "mps:longitude":-49.957588,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09cd\u09b0\u09c7\u09b8 \u09aa\u09be\u09b8\u09b8\u09cb\u09b8"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         85682015,
@@ -106,7 +109,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26804238,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"7be2ef483da4371540870c626045e4f3",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101963915,
-    "wof:lastmodified":1564139383,
+    "wof:lastmodified":1566623585,
     "wof:name":"Tr\u00eas Passos",
     "wof:parent_id":404563985,
     "wof:placetype":"locality",

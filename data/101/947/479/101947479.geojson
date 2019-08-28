@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-8.064133,
     "lbl:longitude":-39.12708,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-8.064133,
     "mps:longitude":-39.12708,
     "mz:hierarchy_label":1,
@@ -65,9 +67,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043b\u0433\u0435\u0439\u0440\u0443"
-    ],
-    "name:unk_x_variant":[
-        "Salqueiro"
     ],
     "name:vie_x_preferred":[
         "Salgueiro"
@@ -190,7 +189,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681973,
@@ -204,7 +203,6 @@
         "fct:id":"03877922-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3389860,
         "gp:id":457982,
-        "qs:id":1044279,
         "qs_pg:id":1044279,
         "wd:id":"Q2102772",
         "wk:page":"Salgueiro"
@@ -225,7 +223,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243814,
+    "wof:lastmodified":1566624379,
     "wof:name":"Salgueiro",
     "wof:parent_id":404560621,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.437374,
     "lbl:longitude":-49.722779,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":-2.437374,
     "mps:longitude":-49.722779,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:ace_x_preferred":[
         "Porto Alegre"
     ],
@@ -319,7 +322,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":10.0,
     "wd:latitude":-30.032778,
@@ -336,7 +339,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943850,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"b66291d716596bd933a3d568ac207780",
@@ -351,7 +354,7 @@
         }
     ],
     "wof:id":101982687,
-    "wof:lastmodified":1564140774,
+    "wof:lastmodified":1566624618,
     "wof:name":"Porto Alegre",
     "wof:parent_id":404559577,
     "wof:placetype":"locality",

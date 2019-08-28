@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.89707,
     "lbl:longitude":-38.625155,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-5.89707,
     "mps:longitude":-38.625155,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u0997\u09c1\u09f1\u09be\u09b0\u09bf\u09ac\u09c7"
     ],
@@ -71,9 +74,6 @@
     "name:swe_x_preferred":[
         "Jaguaribe"
     ],
-    "name:unk_x_variant":[
-        "Jaguaribe Mirim"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u06af\u0631\u0628\u06d2"
     ],
@@ -103,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -117,7 +117,6 @@
         "fct:id":"03873aac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3397675,
         "gp:id":457396,
-        "qs:id":305392,
         "qs_pg:id":305392,
         "wd:id":"Q653619"
     },
@@ -137,7 +136,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247103,
+    "wof:lastmodified":1566625926,
     "wof:name":"Jaguaribe",
     "wof:parent_id":404553181,
     "wof:placetype":"locality",

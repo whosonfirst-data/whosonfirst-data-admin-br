@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7190715.652309,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-35.195567,-5.760269,-35.195567,-5.760269",
     "geom:latitude":-5.760269,
     "geom:longitude":-35.195567,
     "gn:latitude":-5.77333,
     "gn:longitude":-35.20333,
     "iso:country":"BR",
+    "lbl:bbox":"-35.200567,-5.765269,-35.190567,-5.755269",
     "lbl:latitude":-5.760269,
     "lbl:longitude":-35.195567,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-5.76656,
     "mps:longitude":-35.190734,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:por_x_preferred":[
-        "Rocas"
-    ],
-    "name:unk_x_variant":[
         "Rocas"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -59,20 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85681999,
         102191577,
         85633009,
         101946845,
-        102058709,
-        85681999
+        102058709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3411455,
         "gp:id":447452,
-        "qs:id":1137992,
         "qs_pg:id":1137992
     },
     "wof:country":"BR",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859009,
+    "wof:lastmodified":1566620819,
     "wof:name":"Rocas",
     "wof:parent_id":101946845,
     "wof:placetype":"neighbourhood",

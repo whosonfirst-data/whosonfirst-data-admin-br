@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.403537,
     "lbl:longitude":-49.255324,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-23.403537,
     "mps:longitude":-49.255324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u09ac\u09c7\u0987\u09b0\u09be\u0993 \u09ac\u09cb\u09a8\u09bf\u099f\u09cb"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.066944,
     "wd:longitude":-48.175833,
@@ -103,7 +106,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"8145b682317ab3c88cacb049a396e48c",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101955575,
-    "wof:lastmodified":1564139666,
+    "wof:lastmodified":1566623839,
     "wof:name":"Ribeir\u00e3o Bonito",
     "wof:parent_id":404567571,
     "wof:placetype":"locality",

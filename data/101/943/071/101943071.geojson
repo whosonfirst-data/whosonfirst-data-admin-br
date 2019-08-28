@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000013,
+    "geom:area_square_m":158314.730528,
     "geom:bbox":"-43.7022456016,-5.66855204672,-43.6982269015,-5.66278436673",
     "geom:latitude":-5.665501,
     "geom:longitude":-43.700373,
     "iso:country":"BR",
     "lbl:latitude":-5.665367,
     "lbl:longitude":-43.700206,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.665367,
     "mps:longitude":-43.700206,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Bacatuba"
     ],
     "name:por_x_variant":[
-        "Bacabal"
-    ],
-    "name:unk_x_variant":[
         "Bacabal"
     ],
     "qs:a0":"Brasil",
@@ -40,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681931,
         102191577,
@@ -53,7 +55,9 @@
         "fct:id":"0382ddfe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3406915,
         "gp:id":458565,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":181680
     },
     "wof:country":"BR",
@@ -72,7 +76,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497296571,
+    "wof:lastmodified":1566626083,
     "wof:name":"Bacatuba",
     "wof:parent_id":404554991,
     "wof:placetype":"locality",

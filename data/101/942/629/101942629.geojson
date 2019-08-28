@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.768668,
     "lbl:longitude":-48.11209,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.768668,
     "mps:longitude":-48.11209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u099f\u09c7 \u09a1\u09cb \u0995\u09be\u09b0\u09cd\u09ae\u09cb"
     ],
@@ -80,9 +83,6 @@
     "name:swe_x_preferred":[
         "Monte do Carmo"
     ],
-    "name:unk_x_variant":[
-        "Tairu\u00e7u"
-    ],
     "name:vie_x_preferred":[
         "Monte do Carmo"
     ],
@@ -115,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -127,7 +127,6 @@
         "fct:id":"038205c8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3456838,
         "gp:id":440694,
-        "qs:id":1044994,
         "qs_pg:id":1044994,
         "wd:id":"Q1801517",
         "wk:page":"Monte do Carmo"
@@ -147,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841277,
+    "wof:lastmodified":1566625828,
     "wof:name":"Monte do Carmo",
     "wof:parent_id":102062613,
     "wof:placetype":"locality",

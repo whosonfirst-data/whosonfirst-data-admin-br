@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.86148,
     "lbl:longitude":-37.313055,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.86148,
     "mps:longitude":-37.313055,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0994\u0997\u09c1\u09b8\u099f\u09cb \u09b8\u09c7\u09ad\u09c7\u09b0\u09cb"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Augusto Severo"
     ],
-    "name:unk_x_variant":[
-        "Augosto Severo"
-    ],
     "name:vie_x_preferred":[
         "Augusto Severo"
     ],
@@ -113,7 +113,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -125,7 +125,7 @@
         "fct:id":"03882764-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3406958,
         "gp:id":456733,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1802671",
         "wk:page":"Campo Grande, Rio Grande do Norte"
     },
@@ -144,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243534,
+    "wof:lastmodified":1566624271,
     "wof:name":"Augusto Severo",
     "wof:parent_id":102058539,
     "wof:placetype":"locality",

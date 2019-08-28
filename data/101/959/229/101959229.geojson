@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.599262,
     "lbl:longitude":-53.076114,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.599262,
     "mps:longitude":-53.076114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09bf\u09ac\u09c7\u09b0\u09be\u099f\u09cb \u09b8\u09be\u09b2\u099c\u09be\u09a8\u09cb"
     ],
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "Liberato Salzano"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baitaca"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -128,7 +131,7 @@
         "fct:id":"03860060-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3458616,
         "gp:id":438513,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1784434",
         "wk:page":"Liberato Salzano"
     },
@@ -148,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841202,
+    "wof:lastmodified":1566625079,
     "wof:name":"Liberato Salzano",
     "wof:parent_id":404563857,
     "wof:placetype":"locality",

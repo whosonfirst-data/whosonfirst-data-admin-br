@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.961365,
     "lbl:longitude":-36.694142,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.961365,
     "mps:longitude":-36.694142,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09b2\u0993\u0986"
     ],
@@ -80,9 +83,6 @@
     "name:swe_x_preferred":[
         "Salo\u00e1"
     ],
-    "name:unk_x_variant":[
-        "Barro"
-    ],
     "name:vie_x_preferred":[
         "Salo\u00e1"
     ],
@@ -110,7 +110,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681973,
         102191577,
@@ -123,7 +123,7 @@
         "fct:id":"0388cea8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3389815,
         "gp:id":460855,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2065190",
         "wk:page":"Salo\u00e1"
     },
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":101986473,
-    "wof:lastmodified":1561841320,
+    "wof:lastmodified":1566626345,
     "wof:name":"S\u00e3o Serafim",
     "wof:parent_id":404560633,
     "wof:placetype":"locality",

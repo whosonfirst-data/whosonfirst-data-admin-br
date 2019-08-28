@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.962177,
     "lbl:longitude":-37.626874,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.962177,
     "mps:longitude":-37.626874,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09a8\u09be\u09b0\u09bf"
     ],
@@ -71,9 +74,6 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u043d\u0430\u0440\u0438"
     ],
-    "name:unk_x_variant":[
-        "Marianna"
-    ],
     "name:vie_x_preferred":[
         "Manari"
     ],
@@ -105,7 +105,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":161,
     "wof:belongsto":[
         85681973,
@@ -138,7 +138,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841140,
+    "wof:lastmodified":1566624401,
     "wof:name":"Manari",
     "wof:parent_id":404560491,
     "wof:placetype":"locality",

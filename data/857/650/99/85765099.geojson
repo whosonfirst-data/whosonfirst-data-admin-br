@@ -9,14 +9,15 @@
     "geom:bbox":"-43.1933834518,-22.9609223152,-43.1735229492,-22.9406890067",
     "geom:latitude":-22.950452,
     "geom:longitude":-43.183766,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:latitude":-22.95092,
     "gn:longitude":-43.18232,
+    "gn:population":0,
     "iso:country":"BR",
     "lbl:latitude":-22.950023,
     "lbl:longitude":-43.183302,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-22.950968,
     "mps:longitude":-43.183957,
     "mz:hierarchy_label":1,
@@ -112,9 +113,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0442\u0430\u0444\u043e\u0433\u0443"
     ],
-    "name:unk_x_variant":[
-        "Botafogo"
-    ],
     "name:zho_x_preferred":[
         "\u535a\u5854\u5f17\u6208"
     ],
@@ -166,8 +164,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85681991,
         102191577,
@@ -179,14 +176,13 @@
     "wof:concordances":{
         "gn:id":3473663,
         "gp:id":56067125,
-        "qs:id":233034,
-        "qs_pg:id":795539,
+        "qs_pg:id":233034,
         "wd:id":"Q894624",
         "wk:page":"Botafogo"
     },
     "wof:concordances_alt":{
         "gp:id":425853,
-        "qs_pg:id":233034
+        "qs_pg:id":795539
     },
     "wof:country":"BR",
     "wof:geomhash":"68d9e1ea77d38430171de2c36a012164",
@@ -204,7 +200,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563237460,
+    "wof:lastmodified":1566620775,
     "wof:name":"Botafogo",
     "wof:parent_id":101953261,
     "wof:placetype":"neighbourhood",

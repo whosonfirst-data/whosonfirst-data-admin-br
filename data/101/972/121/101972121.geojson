@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.240431,
     "lbl:longitude":-40.202477,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.240431,
     "mps:longitude":-40.202477,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Catuaba"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1393,
     "wof:belongsto":[
         85681895,
@@ -73,7 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456278,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q696140"
     },
     "wof:country":"BR",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101972121,
-    "wof:lastmodified":1563247795,
+    "wof:lastmodified":1566626277,
     "wof:name":"Catuaba",
     "wof:parent_id":404551285,
     "wof:placetype":"locality",

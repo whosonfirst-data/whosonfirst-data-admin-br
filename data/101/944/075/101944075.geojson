@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.091709,
     "lbl:longitude":-40.823638,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.091709,
     "mps:longitude":-40.823638,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0524\u0430\u04ad"
     ],
@@ -157,7 +160,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0442\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Poty"
     ],
     "name:urd_x_preferred":[
@@ -190,7 +193,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2218,
     "wof:belongsto":[
         85681907,
@@ -204,7 +207,7 @@
         "fct:id":"0381803a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3391333,
         "gp:id":445697,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"68e174dcc037ae3cc29294b2269767b8",
@@ -222,7 +225,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564142374,
+    "wof:lastmodified":1566625992,
     "wof:name":"Poti",
     "wof:parent_id":404552759,
     "wof:placetype":"locality",

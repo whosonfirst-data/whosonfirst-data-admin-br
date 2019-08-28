@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-29.437674,
     "lbl:longitude":-52.515978,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-29.437674,
     "mps:longitude":-52.515978,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09bf\u09a8\u09bf\u09ae\u09ac\u09c1"
     ],
@@ -115,7 +118,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":20,
     "wof:belongsto":[
         102191577,
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":102060013,
-    "wof:lastmodified":1563236392,
+    "wof:lastmodified":1566620098,
     "wof:name":"Sinimbu",
     "wof:parent_id":85682015,
     "wof:placetype":"county",

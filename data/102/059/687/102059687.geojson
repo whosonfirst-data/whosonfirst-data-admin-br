@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-27.564056,
     "lbl:longitude":-53.162506,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-27.564056,
     "mps:longitude":-53.162506,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09cb \u099f\u09bf\u09b0\u09be\u09a1\u09c7\u09a8\u099f\u09c7\u09b8"
     ],
@@ -112,7 +115,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         102191577,
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":102059687,
-    "wof:lastmodified":1563235385,
+    "wof:lastmodified":1566619474,
     "wof:name":"Novo Tiradentes",
     "wof:parent_id":85682015,
     "wof:placetype":"county",

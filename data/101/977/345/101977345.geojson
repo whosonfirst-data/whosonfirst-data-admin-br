@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.222862,
     "lbl:longitude":-39.236741,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.222862,
     "mps:longitude":-39.236741,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a1\u09cd\u09b0\u09be \u09ac\u09cd\u09b0\u09be\u0999\u09cd\u0995\u09be"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -81,7 +84,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":459088,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"fa849cc41e47ef89fee8f837aec0d12e",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101977345,
-    "wof:lastmodified":1564139837,
+    "wof:lastmodified":1566623985,
     "wof:name":"Pedra Branca",
     "wof:parent_id":404552607,
     "wof:placetype":"locality",

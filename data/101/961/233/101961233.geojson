@@ -9,13 +9,14 @@
     "geom:bbox":"-56.1437382839,-15.6344863733,-56.048939507,-15.5302263476",
     "geom:latitude":-15.579037,
     "geom:longitude":-56.099197,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":521934,
+    "gn:country":"BR",
+    "gn:fcode":"PPLA",
     "gn:population":521934,
     "iso:country":"BR",
     "lbl:latitude":-15.579321,
     "lbl:longitude":-56.10009,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":-15.579321,
     "mps:longitude":-56.10009,
     "mz:hierarchy_label":1,
@@ -257,9 +258,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u044f\u0431\u0430"
     ],
-    "name:unk_x_variant":[
-        "Vila Real do Senhor Bom Jesus de Cuiab\u00e1"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u06cc\u0627\u0628\u0627"
     ],
@@ -405,7 +403,7 @@
     "qs_pg:woe_id":455829,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2243,
     "wof:belongsto":[
@@ -420,7 +418,6 @@
         "fct:id":"03869192-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465038,
         "gp:id":455829,
-        "qs:id":274354,
         "qs_pg:id":274354,
         "wd:id":"Q170762",
         "wk:page":"Cuiab\u00e1"
@@ -441,7 +438,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245069,
+    "wof:lastmodified":1566624953,
     "wof:megacity":1,
     "wof:name":"Cuiab\u00e1",
     "wof:parent_id":404559183,

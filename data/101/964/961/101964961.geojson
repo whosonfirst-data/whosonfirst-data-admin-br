@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.582895,
     "lbl:longitude":-47.697495,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.582895,
     "mps:longitude":-47.697495,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09c7\u0995\u09cd\u09b0\u09c7\u0987\u0993"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -101,7 +104,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"dad3a79c7368475afb5165f7dd436c33",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101964961,
-    "wof:lastmodified":1564139560,
+    "wof:lastmodified":1566623708,
     "wof:name":"Recreio",
     "wof:parent_id":404566329,
     "wof:placetype":"locality",

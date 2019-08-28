@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.959705,
     "lbl:longitude":-40.17272,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-11.959705,
     "mps:longitude":-40.17272,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u0987\u0995\u09cd\u09b8\u09be \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
     ],
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -127,7 +130,6 @@
         "fct:id":"0386fa6a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471094,
         "gp:id":456754,
-        "qs:id":342545,
         "qs_pg:id":342545,
         "wd:id":"Q1762467"
     },
@@ -147,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243802,
+    "wof:lastmodified":1566624375,
     "wof:name":"Baixa Grande",
     "wof:parent_id":404550497,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.864047,
     "lbl:longitude":-35.343786,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-5.864047,
     "mps:longitude":-35.343786,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u0995\u09be\u0987\u09ac\u09be"
     ],
@@ -90,9 +93,6 @@
     "name:swe_x_preferred":[
         "Maca\u00edba"
     ],
-    "name:unk_x_variant":[
-        "Macahyba"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u06a9\u0627\u06cc\u0628\u0627"
     ],
@@ -125,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":153,
     "wof:belongsto":[
@@ -139,7 +139,6 @@
         "fct:id":"0386c752-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3396048,
         "gp:id":456310,
-        "qs:id":777752,
         "qs_pg:id":777752,
         "wd:id":"Q1786943",
         "wk:page":"Maca\u00edba"
@@ -159,7 +158,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243501,
+    "wof:lastmodified":1566624262,
     "wof:name":"Maca\u00edba",
     "wof:parent_id":102058685,
     "wof:placetype":"locality",

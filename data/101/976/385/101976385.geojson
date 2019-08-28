@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.503375,
     "lbl:longitude":-40.046433,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.503375,
     "mps:longitude":-40.046433,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "S\u00e3o Geraldo"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681921,
         102191577,
@@ -59,7 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"53097456fb9895080206eaa8a4b2d797",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101976385,
-    "wof:lastmodified":1564140900,
+    "wof:lastmodified":1566624687,
     "wof:name":"S\u00e3o Geraldo",
     "wof:parent_id":404554619,
     "wof:placetype":"locality",

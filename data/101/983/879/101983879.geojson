@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.718187,
     "lbl:longitude":-42.041261,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-19.718187,
     "mps:longitude":-42.041261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "qs:a0":"Brasil",
     "qs:a1":"*MG",
     "qs:a1_lc":"31",
@@ -31,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":489.0,
     "wd:latitude":-20.82,
@@ -47,7 +50,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"92ecce9ec3f9eea2f047a098ecfc8725",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101983879,
-    "wof:lastmodified":1527643016,
+    "wof:lastmodified":1566624030,
     "wof:name":"Santa Cruz do Rio Preto",
     "wof:parent_id":404557683,
     "wof:placetype":"locality",

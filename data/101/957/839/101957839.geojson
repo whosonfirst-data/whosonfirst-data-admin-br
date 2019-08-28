@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000017,
-    "geom:area_square_m":191106.130341,
+    "geom:area_square_m":191106.13034,
     "geom:bbox":"-49.7045784218,-23.265710117,-49.6978464676,-23.261532059",
     "geom:latitude":-23.263399,
     "geom:longitude":-49.701679,
     "iso:country":"BR",
     "lbl:latitude":-23.263633,
     "lbl:longitude":-49.701951,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.263633,
     "mps:longitude":-49.701951,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Caramuru"
     ],
     "qs:a0":"Brasil",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -48,7 +51,9 @@
     "wof:concordances":{
         "gn:id":3467040,
         "gp:id":431813,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":231963
     },
     "wof:country":"BR",
@@ -64,7 +69,7 @@
         }
     ],
     "wof:id":101957839,
-    "wof:lastmodified":1504301589,
+    "wof:lastmodified":1566624844,
     "wof:name":"Cachoeira do Esp\u00edrito Santo",
     "wof:parent_id":404561755,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.393725,
     "lbl:longitude":-42.868415,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-15.393725,
     "mps:longitude":-42.868415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u099f\u09cb \u09ad\u09c7\u09b0\u09cd\u09a1\u09c7"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Mato Verde"
     ],
-    "name:unk_x_variant":[
-        "Matto Verde"
-    ],
     "name:vie_x_preferred":[
         "Mato Verde"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -132,7 +132,6 @@
         "fct:id":"03874bb4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457398,
         "gp:id":457571,
-        "qs:id":860764,
         "qs_pg:id":860764,
         "wd:id":"Q1790065",
         "wk:page":"Mato Verde"
@@ -153,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246291,
+    "wof:lastmodified":1566625508,
     "wof:name":"Mato Verde",
     "wof:parent_id":404557211,
     "wof:placetype":"locality",

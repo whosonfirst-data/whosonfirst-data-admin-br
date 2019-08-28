@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-2.773192,
     "lbl:longitude":-42.850153,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-2.773192,
     "mps:longitude":-42.850153,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u09b0\u09c7\u0987\u09b0\u09bf\u09a8\u09b9\u09be\u09b8"
     ],
@@ -110,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -123,7 +126,6 @@
         "fct:id":"038a65ce-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3406196,
         "gp:id":456073,
-        "qs:id":669198,
         "qs_pg:id":669198,
         "wd:id":"Q2040600"
     },
@@ -142,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247499,
+    "wof:lastmodified":1566626113,
     "wof:name":"Barreirinhas",
     "wof:parent_id":102052821,
     "wof:placetype":"locality",

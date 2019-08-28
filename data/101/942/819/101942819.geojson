@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-1.152097,
     "lbl:longitude":-47.506384,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-1.152097,
     "mps:longitude":-47.506384,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "caripi"
     ],
@@ -41,9 +44,6 @@
     "name:spa_x_variant":[
         "caripi"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Lu\u00eds"
-    ],
     "qs:a0":"Brasil",
     "qs:a1":"*PA",
     "qs:a1_lc":"15",
@@ -59,7 +59,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":153,
     "wof:belongsto":[
         85681959,
@@ -73,7 +73,7 @@
         "fct:id":"0383379a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3402899,
         "gp:id":459091,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q5039662"
     },
     "wof:country":"BR",
@@ -92,7 +92,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246861,
+    "wof:lastmodified":1566625826,
     "wof:name":"Caripi",
     "wof:parent_id":404559629,
     "wof:placetype":"locality",

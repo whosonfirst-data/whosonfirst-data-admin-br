@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.534626,
     "lbl:longitude":-49.488474,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-19.534626,
     "mps:longitude":-49.488474,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09aa\u09bf\u09a8\u09be \u09ad\u09c7\u09b0\u09cd\u09a1\u09c7"
     ],
@@ -116,7 +119,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -130,7 +133,6 @@
         "fct:id":"03870af0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3467860,
         "gp:id":456926,
-        "qs:id":148417,
         "qs_pg:id":148417,
         "wd:id":"Q1756064",
         "wk:page":"Campina Verde"
@@ -151,7 +153,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242833,
+    "wof:lastmodified":1566623912,
     "wof:name":"Campina Verde",
     "wof:parent_id":404555649,
     "wof:placetype":"locality",

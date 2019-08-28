@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-19.799254,
     "lbl:longitude":-49.418943,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-19.799254,
     "mps:longitude":-49.418943,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09aa\u09be\u0997\u09bf\u09aa\u09c7"
     ],
@@ -109,7 +112,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":102054099,
-    "wof:lastmodified":1564132742,
+    "wof:lastmodified":1566618837,
     "wof:name":"Itapagipe",
     "wof:parent_id":85681941,
     "wof:placetype":"county",

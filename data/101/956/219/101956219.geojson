@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.51656,
     "lbl:longitude":-46.654183,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-22.51656,
     "mps:longitude":-46.654183,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09bf\u09a8\u09a1\u09cb\u0987\u09af\u09bc\u09be"
     ],
@@ -97,9 +100,6 @@
     "name:swe_x_preferred":[
         "Lind\u00f3ia"
     ],
-    "name:unk_x_variant":[
-        "Lyndoya"
-    ],
     "name:vie_x_preferred":[
         "Lind\u00f3ia"
     ],
@@ -129,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.523056,
     "wd:longitude":-46.65,
@@ -146,7 +146,6 @@
         "fct:id":"0387c3dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3458507,
         "gp:id":459957,
-        "qs:id":148131,
         "qs_pg:id":148131,
         "wd:id":"Q1439170"
     },
@@ -165,7 +164,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245964,
+    "wof:lastmodified":1566625355,
     "wof:name":"Lind\u00f3ia",
     "wof:parent_id":102061675,
     "wof:placetype":"locality",

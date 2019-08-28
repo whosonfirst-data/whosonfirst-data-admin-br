@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.026225,
     "lbl:longitude":-39.600573,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-13.026225,
     "mps:longitude":-39.600573,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09be\u09b0\u09cd\u0997\u09cb\u09b8\u09be"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":148,
     "wof:belongsto":[
@@ -142,7 +145,6 @@
         "fct:id":"03889104-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472370,
         "gp:id":421669,
-        "qs:id":935246,
         "qs_pg:id":935246,
         "wd:id":"Q1648060",
         "wk:page":"Amargosa, Bahia"
@@ -163,7 +165,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243793,
+    "wof:lastmodified":1566624372,
     "wof:name":"Amargosa",
     "wof:parent_id":404550397,
     "wof:placetype":"locality",

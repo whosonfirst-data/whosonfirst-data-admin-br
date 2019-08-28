@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.24285,
     "lbl:longitude":-41.618211,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-12.24285,
     "mps:longitude":-41.618211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0987\u09b0\u09be\u0995\u09c1\u09f1\u09be\u09b0\u09be"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Iraquara"
     ],
-    "name:unk_x_variant":[
-        "Jo\u00e3o Pessoa"
-    ],
     "name:vie_x_preferred":[
         "Iraquara"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -132,7 +132,6 @@
         "fct:id":"0388af54-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461023,
         "gp:id":456245,
-        "qs:id":1336035,
         "qs_pg:id":1336035,
         "wd:id":"Q1795271"
     },
@@ -152,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244220,
+    "wof:lastmodified":1566624568,
     "wof:name":"Iraquara",
     "wof:parent_id":404551139,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":28530677.17679,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-48.170365,-21.786136,-48.170365,-21.786136",
     "geom:latitude":-21.786136,
     "geom:longitude":-48.170365,
     "gn:latitude":-21.79167,
     "gn:longitude":-48.16778,
     "iso:country":"BR",
+    "lbl:bbox":"-48.175365,-21.791136,-48.165365,-21.781136",
     "lbl:latitude":-21.786136,
     "lbl:longitude":-48.170365,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-21.786136,
     "mps:longitude":-48.170365,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     "name:por_x_preferred":[
         "Vila Xavier",
         "Vila Alian\u00e7a"
-    ],
-    "name:unk_x_variant":[
-        "Vila Xavier"
     ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_fcode":"PPLL",
@@ -61,20 +60,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85682041,
         102191577,
         404566127,
         85633009,
         101952505,
-        102061069
+        102061069,
+        85682041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6318941,
         "gp:id":56067644,
-        "qs:id":1119146,
         "qs_pg:id":1119146
     },
     "wof:country":"BR",
@@ -91,7 +89,7 @@
         }
     ],
     "wof:id":85767845,
-    "wof:lastmodified":1531859238,
+    "wof:lastmodified":1566620785,
     "wof:name":"Vila Xavier",
     "wof:parent_id":101952505,
     "wof:placetype":"neighbourhood",

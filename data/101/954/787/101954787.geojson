@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.558759,
     "lbl:longitude":-52.593496,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-22.558759,
     "mps:longitude":-52.593496,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u098f\u0989\u0995\u09b2\u09bf\u09a1\u09c7\u09b8 \u09a1\u09be \u0995\u09c1\u09a8\u09b9\u09be \u09aa\u09be\u0989\u09b2\u09bf\u09b8\u09cd\u099f\u09be"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-22.561389,
     "wd:longitude":-53.590278,
@@ -113,7 +116,6 @@
         "fct:id":"0389922a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317105,
         "gp:id":55944404,
-        "qs:id":207890,
         "qs_pg:id":207890,
         "wd:id":"Q1760977",
         "wk:page":"Euclides da Cunha Paulista"
@@ -133,7 +135,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563241534,
+    "wof:lastmodified":1566623338,
     "wof:name":"Euclides da Cunha Paulista",
     "wof:parent_id":102061385,
     "wof:placetype":"locality",

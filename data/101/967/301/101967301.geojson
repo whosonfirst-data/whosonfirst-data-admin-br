@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.283596,
     "lbl:longitude":-53.838114,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-24.283596,
     "mps:longitude":-53.838114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b2\u09cb\u099f\u09bf\u09a8\u09be"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681983,
@@ -114,7 +117,6 @@
         "fct:id":"03875d98-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3455298,
         "gp:id":457730,
-        "qs:id":148047,
         "qs_pg:id":148047,
         "wd:id":"Q949670"
     },
@@ -134,7 +136,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841209,
+    "wof:lastmodified":1566625141,
     "wof:name":"Palotina",
     "wof:parent_id":404561591,
     "wof:placetype":"locality",

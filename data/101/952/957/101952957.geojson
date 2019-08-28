@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-22.490487,
     "lbl:longitude":-44.098374,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-22.490487,
     "mps:longitude":-44.098374,
     "mz:hierarchy_label":1,
@@ -316,7 +318,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -329,7 +331,6 @@
         "fct:id":"03869020-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3444876,
         "gp:id":455666,
-        "qs:id":1141993,
         "qs_pg:id":1141993,
         "wd:id":"Q276176",
         "wk:page":"Volta Redonda"
@@ -349,7 +350,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242439,
+    "wof:lastmodified":1566623774,
     "wof:name":"Volta Redonda",
     "wof:parent_id":102058509,
     "wof:placetype":"locality",

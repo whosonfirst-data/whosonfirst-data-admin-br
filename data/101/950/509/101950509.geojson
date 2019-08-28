@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.732806,
     "lbl:longitude":-38.124412,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.732806,
     "mps:longitude":-38.124412,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u09ac\u09cd\u09b0\u09bf\u0997\u09bf\u09a1\u09be"
     ],
@@ -118,7 +121,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         85681895,
@@ -132,7 +135,7 @@
         "fct:id":"038779ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3389707,
         "gp:id":457990,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1808347",
         "wk:page":"Santa Br\u00edgida, Bahia"
     },
@@ -152,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841159,
+    "wof:lastmodified":1566624756,
     "wof:name":"Santa Br\u00edgida",
     "wof:parent_id":404551879,
     "wof:placetype":"locality",

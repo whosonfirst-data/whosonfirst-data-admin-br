@@ -12,8 +12,10 @@
     "gn:latitude":-12.93333,
     "gn:longitude":-38.6,
     "iso:country":"BR",
+    "lbl:bbox":"-38.493848,-12.959187,-38.483848,-12.949187",
     "lbl:latitude":-12.954187,
     "lbl:longitude":-38.488848,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-12.953981,
     "mps:longitude":-38.478132,
     "mz:hierarchy_label":0,
@@ -86,9 +88,8 @@
     "name:swe_x_preferred":[
         "Santo Ant\u00f4nio"
     ],
-    "name:unk_x_variant":[
-        "Santo Ant\u00f4nio dos Velasques",
-        "Santo Ant\u00f4nio"
+    "name:und_x_variant":[
+        "Santo Ant\u00f4nio dos Velasques"
     ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_fcode":"PPL",
@@ -119,7 +120,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191577,
         404551875,
@@ -132,8 +133,10 @@
     "wof:concordances":{
         "gn:id":8051322,
         "gp:id":56067858,
-        "qs:id":1081955,
         "qs_pg:id":911979
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1081955
     },
     "wof:country":"BR",
     "wof:geomhash":"597aa21498bdd34ce2d9e406d9a4dfb5",
@@ -152,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564134713,
+    "wof:lastmodified":1566620774,
     "wof:name":"Santo Ant\u00f4nio",
     "wof:parent_id":101950447,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.526188,
     "lbl:longitude":-53.491031,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-27.526188,
     "mps:longitude":-53.491031,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "qs:a0":"Brasil",
     "qs:a1":"*RS",
     "qs:a1_lc":"43",
@@ -31,7 +34,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.772778,
     "wd:longitude":-50.465278,
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":6316429,
         "gp:id":431662,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e7b3cf96d6c9a1f6cf88bfac6f06431d",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101958925,
-    "wof:lastmodified":1527714424,
+    "wof:lastmodified":1566625233,
     "wof:name":"Arco \u00cdris",
     "wof:parent_id":404563547,
     "wof:placetype":"locality",

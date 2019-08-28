@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.104976,
     "lbl:longitude":-39.021642,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-14.104976,
     "mps:longitude":-39.021642,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Mara\u00fa"
     ],
@@ -70,9 +73,6 @@
     "name:ron_x_preferred":[
         "Mara\u00fa"
     ],
-    "name:unk_x_variant":[
-        "Marah\u00fa"
-    ],
     "name:vie_x_preferred":[
         "Mara\u00fa"
     ],
@@ -102,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -116,7 +116,6 @@
         "fct:id":"0383d20e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457818,
         "gp:id":460065,
-        "qs:id":242671,
         "qs_pg:id":242671,
         "wd:id":"Q2028783"
     },
@@ -136,7 +135,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841155,
+    "wof:lastmodified":1566624732,
     "wof:name":"Mara\u00fa",
     "wof:parent_id":404551487,
     "wof:placetype":"locality",

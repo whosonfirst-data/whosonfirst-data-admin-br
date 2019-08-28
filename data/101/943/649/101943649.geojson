@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.559953,
     "lbl:longitude":-42.612011,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-5.559953,
     "mps:longitude":-42.612011,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u09b8\u09c7\u09a8\u09b9\u09cb\u09b0\u09cd \u0997\u09bf\u09b2"
     ],
@@ -75,9 +78,6 @@
     "name:swe_x_preferred":[
         "Monsenhor Gil"
     ],
-    "name:unk_x_variant":[
-        "Gil"
-    ],
     "name:vie_x_preferred":[
         "Monsenhor Gil"
     ],
@@ -110,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -123,7 +123,6 @@
         "fct:id":"03809cd8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3394621,
         "gp:id":434562,
-        "qs:id":180888,
         "qs_pg:id":180888,
         "wd:id":"Q1935712",
         "wk:page":"Monsenhor Gil"
@@ -143,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247502,
+    "wof:lastmodified":1566626114,
     "wof:name":"Monsenhor Gil",
     "wof:parent_id":102057193,
     "wof:placetype":"locality",

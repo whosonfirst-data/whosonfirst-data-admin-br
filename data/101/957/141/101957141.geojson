@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.46921,
     "lbl:longitude":-51.819652,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-23.46921,
     "mps:longitude":-51.819652,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be\u09b2\u09ad\u09be"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681983,
@@ -126,7 +129,6 @@
         "fct:id":"0389a972-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457741,
         "gp:id":439648,
-        "qs:id":148112,
         "qs_pg:id":148112,
         "wd:id":"Q1003473",
         "wk:page":"Marialva"
@@ -147,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841174,
+    "wof:lastmodified":1566624851,
     "wof:name":"Marialva",
     "wof:parent_id":404561443,
     "wof:placetype":"locality",

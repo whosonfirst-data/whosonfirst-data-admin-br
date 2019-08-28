@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.672415,
     "lbl:longitude":-37.329082,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.672415,
     "mps:longitude":-37.329082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Palestina"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         102191577,
@@ -116,7 +119,7 @@
         "fct:id":"038625c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3393286,
         "gp:id":442416,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q511396",
         "wk:page":"Palestina, Alagoas"
     },
@@ -135,7 +138,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243885,
+    "wof:lastmodified":1566624402,
     "wof:name":"Palestina",
     "wof:parent_id":102050205,
     "wof:placetype":"locality",

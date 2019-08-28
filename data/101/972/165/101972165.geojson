@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.304157,
     "lbl:longitude":-40.021126,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.304157,
     "mps:longitude":-40.021126,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u09a8\u099f\u09cb \u09a8\u09cb\u09ad\u09cb"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -90,7 +93,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":459711,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"36bc610c52f41755887208ec0a8c7c3b",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101972165,
-    "wof:lastmodified":1564142765,
+    "wof:lastmodified":1566626280,
     "wof:name":"Ponto Novo",
     "wof:parent_id":404550895,
     "wof:placetype":"locality",

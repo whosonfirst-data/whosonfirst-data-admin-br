@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.408713,
     "lbl:longitude":-53.369879,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.408713,
     "mps:longitude":-53.369879,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ad\u09be\u099f\u09c7"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":147,
     "wof:belongsto":[
         85681983,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gn:id":6317341,
         "gp:id":55944453,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2003741",
         "wk:page":"Ivat\u00e9"
     },
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101956583,
-    "wof:lastmodified":1561841253,
+    "wof:lastmodified":1566625417,
     "wof:name":"Ivat\u00e9",
     "wof:parent_id":404561319,
     "wof:placetype":"locality",

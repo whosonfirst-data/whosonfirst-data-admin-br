@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.972579,
     "lbl:longitude":-44.927377,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.972579,
     "mps:longitude":-44.927377,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Costas"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":141,
     "wof:belongsto":[
         85681941,
@@ -56,7 +59,7 @@
     "wof:concordances":{
         "gn:id":3465302,
         "gp:id":450051,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"9fd647d190c0651722eec93718def8a1",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101979093,
-    "wof:lastmodified":1527643057,
+    "wof:lastmodified":1566624209,
     "wof:name":"Costas",
     "wof:parent_id":404556227,
     "wof:placetype":"locality",

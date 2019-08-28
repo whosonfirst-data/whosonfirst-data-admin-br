@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.28253,
     "lbl:longitude":-51.57513,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.28253,
     "mps:longitude":-51.57513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc778\ub354\uc2a4\ud2b8\ub9ac\uc5bc"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":294,
     "wof:belongsto":[
         85682015,
@@ -63,7 +66,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"645d79ae70445d54c6370e65ba62214b",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101963505,
-    "wof:lastmodified":1564139356,
+    "wof:lastmodified":1566623564,
     "wof:name":"Industrial",
     "wof:parent_id":404563645,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.143512,
     "lbl:longitude":-35.723743,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.143512,
     "mps:longitude":-35.723743,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u099c\u09be\u099c\u09af\u09bc\u09c7\u0987\u09b0\u09be\u09b8"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681973,
         102191577,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3404042,
         "gp:id":458420,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"99fb409e4d43cb6349e076a14874eb94",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101986957,
-    "wof:lastmodified":1564142860,
+    "wof:lastmodified":1566626334,
     "wof:name":"Cajazeiras",
     "wof:parent_id":404560185,
     "wof:placetype":"locality",

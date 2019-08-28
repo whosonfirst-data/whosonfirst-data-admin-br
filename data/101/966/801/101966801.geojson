@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.980256,
     "lbl:longitude":-35.9921,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.980256,
     "mps:longitude":-35.9921,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09aa\u09c7\u09b2\u09be \u09a8\u09cb\u09ad\u09be"
     ],
@@ -64,7 +67,7 @@
     "name:swe_x_preferred":[
         "Capela Nova"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Capella Nova"
     ],
     "name:vie_x_preferred":[
@@ -94,7 +97,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -104,7 +107,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3403199,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"24a27dcf295fb36fb58394c44383910f",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101966801,
-    "wof:lastmodified":1564141236,
+    "wof:lastmodified":1566625058,
     "wof:name":"Capela Nova",
     "wof:parent_id":102056893,
     "wof:placetype":"locality",

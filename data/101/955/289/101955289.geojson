@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.800918,
     "lbl:longitude":-49.928364,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-21.800918,
     "mps:longitude":-49.928364,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c7\u099f\u09c1\u09b2\u09bf\u09a8\u09be"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.798611,
     "wd:longitude":-49.928611,
@@ -127,7 +130,7 @@
         "fct:id":"0385d34c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3462442,
         "gp:id":434551,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q390022",
         "wk:page":"Getulina"
     },
@@ -147,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242561,
+    "wof:lastmodified":1566623824,
     "wof:name":"Getulina",
     "wof:parent_id":404566437,
     "wof:placetype":"locality",

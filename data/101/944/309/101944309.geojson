@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.192289,
     "lbl:longitude":-39.894245,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.192289,
     "mps:longitude":-39.894245,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ipiranga"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -60,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":424014,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"5fc5732dd7b93f0dfdf564a67881c4a7",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101944309,
-    "wof:lastmodified":1564142317,
+    "wof:lastmodified":1566625948,
     "wof:name":"Ipiranga",
     "wof:parent_id":404552539,
     "wof:placetype":"locality",

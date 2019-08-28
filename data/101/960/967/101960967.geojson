@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-15.26391,
     "lbl:longitude":-59.323357,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-15.26391,
     "mps:longitude":-59.323357,
     "mz:hierarchy_label":1,
@@ -76,9 +78,6 @@
     ],
     "name:spa_x_preferred":[
         "Pontes e Lacerda"
-    ],
-    "name:unk_x_variant":[
-        "Pontes de Lacerda"
     ],
     "name:vie_x_preferred":[
         "Pontes e Lacerda"
@@ -202,7 +201,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -215,7 +214,6 @@
         "fct:id":"03876acc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3453060,
         "gp:id":457852,
-        "qs:id":279760,
         "qs_pg:id":279760,
         "wd:id":"Q2011952"
     },
@@ -234,7 +232,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841233,
+    "wof:lastmodified":1566625308,
     "wof:name":"Pontes e Lacerda",
     "wof:parent_id":102055555,
     "wof:placetype":"locality",

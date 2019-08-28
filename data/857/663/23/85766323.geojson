@@ -13,6 +13,7 @@
     "iso:country":"BR",
     "lbl:latitude":-25.423042,
     "lbl:longitude":-49.260684,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.421144,
     "mps:longitude":-49.260986,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
     "name:por_x_preferred":[
         "Alto Da Gl\u00f3ria",
         "Gr\u00eamio Esportivo Gl\u00f3ria"
-    ],
-    "name:unk_x_variant":[
-        "Alto Da Gl\u00f3ria"
     ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_id":0,
@@ -65,7 +63,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191577,
         404561111,
@@ -77,7 +75,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943722,
-        "qs:id":1345111
+        "qs_pg:id":1345111
     },
     "wof:country":"BR",
     "wof:geomhash":"3d0409d945f06ef4e34b0acad28599c6",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527269524,
+    "wof:lastmodified":1566620809,
     "wof:name":"Alto Da Gl\u00f3ria",
     "wof:parent_id":101957995,
     "wof:placetype":"neighbourhood",

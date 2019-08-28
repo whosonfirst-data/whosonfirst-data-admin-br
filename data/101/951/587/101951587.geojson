@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.868937,
     "lbl:longitude":-43.007341,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-21.868937,
     "mps:longitude":-43.007341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09cd \u09a1\u09c7 \u098f\u09b8\u09aa\u09be\u09a8\u09b9\u09be"
     ],
@@ -81,9 +84,6 @@
     "name:swe_x_preferred":[
         "Mar de Espanha"
     ],
-    "name:unk_x_variant":[
-        "Mar de Hespanha"
-    ],
     "name:vie_x_preferred":[
         "Mar de Espanha"
     ],
@@ -113,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -127,7 +127,6 @@
         "fct:id":"0388c2c8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457776,
         "gp:id":457531,
-        "qs:id":883881,
         "qs_pg:id":883881,
         "wd:id":"Q1754689"
     },
@@ -147,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841261,
+    "wof:lastmodified":1566625506,
     "wof:name":"Mar de Espanha",
     "wof:parent_id":404557131,
     "wof:placetype":"locality",

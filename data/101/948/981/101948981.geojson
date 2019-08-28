@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.002135,
     "lbl:longitude":-44.010278,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.002135,
     "mps:longitude":-44.010278,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barreiro"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"Local urban major",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         85681941,
@@ -70,7 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3470542,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"cdb0f5a020be355e4a440b79503e4d9a",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101948981,
-    "wof:lastmodified":1564139741,
+    "wof:lastmodified":1566623934,
     "wof:name":"Barreiro",
     "wof:parent_id":404555405,
     "wof:placetype":"locality",

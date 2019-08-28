@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.180569,
     "lbl:longitude":-43.780816,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-6.180569,
     "mps:longitude":-43.780816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b8\u09b8\u09be\u0997\u09c7\u09ae \u09ab\u09cd\u09b0\u09be\u0999\u09cd\u0995\u09be"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -113,7 +116,6 @@
         "fct:id":"03876040-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3392942,
         "gp:id":457760,
-        "qs:id":1210014,
         "qs_pg:id":1210014,
         "wd:id":"Q2043365",
         "wk:page":"Passagem Franca"
@@ -133,7 +135,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247427,
+    "wof:lastmodified":1566626088,
     "wof:name":"Passagem Franca",
     "wof:parent_id":102053063,
     "wof:placetype":"locality",

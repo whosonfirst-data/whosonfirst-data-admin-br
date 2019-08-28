@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-26.947825,
     "lbl:longitude":-51.238991,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.947825,
     "mps:longitude":-51.238991,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u09cd\u099f\u09be \u0997\u09cb\u09b0\u09cd\u09a1\u09be"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -107,7 +110,7 @@
         "fct:id":"037fc4ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472094,
         "gp:id":421985,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"3003fc403c11ff527d61fcd0e2bfec32",
@@ -125,7 +128,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564141490,
+    "wof:lastmodified":1566625300,
     "wof:name":"Anta Gorda",
     "wof:parent_id":404565985,
     "wof:placetype":"locality",

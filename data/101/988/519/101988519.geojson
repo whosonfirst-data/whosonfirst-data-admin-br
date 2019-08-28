@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-29.354911,
     "lbl:longitude":-52.65307,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.354911,
     "mps:longitude":-52.65307,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09a8\u09b9\u09be\u09b2"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -62,7 +65,9 @@
     "wof:concordances":{
         "gn:id":3453802,
         "gp:id":457806,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":669560
     },
     "wof:country":"BR",
@@ -77,7 +82,7 @@
         }
     ],
     "wof:id":101988519,
-    "wof:lastmodified":1564142437,
+    "wof:lastmodified":1566626032,
     "wof:name":"Pinhal",
     "wof:parent_id":102060013,
     "wof:placetype":"locality",

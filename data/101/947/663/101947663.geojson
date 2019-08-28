@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.374782,
     "lbl:longitude":-37.840819,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-11.374782,
     "mps:longitude":-37.840819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u099f\u09cb\u09ae\u09be\u09b0\u09cd \u09a1\u09cb \u0997\u09c7\u09b0\u09c1"
     ],
@@ -70,9 +73,6 @@
     "name:spa_x_preferred":[
         "Tomar del Geru"
     ],
-    "name:unk_x_variant":[
-        "Ger\u00fa"
-    ],
     "name:vie_x_preferred":[
         "Tomar do Geru"
     ],
@@ -102,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -115,7 +115,6 @@
         "fct:id":"0387ea56-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3446363,
         "gp:id":461429,
-        "qs:id":739310,
         "qs_pg:id":739310,
         "wd:id":"Q615936"
     },
@@ -134,7 +133,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841142,
+    "wof:lastmodified":1566624411,
     "wof:name":"Tomar do Geru",
     "wof:parent_id":102060985,
     "wof:placetype":"locality",

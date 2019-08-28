@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.021697,
     "lbl:longitude":-47.533124,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-23.021697,
     "mps:longitude":-47.533124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09be\u09ab\u09be\u09b0\u09cd\u09a1"
     ],
@@ -73,7 +76,7 @@
     "name:swe_x_preferred":[
         "Rafard"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa Raffard"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-23.011667,
     "wd:longitude":-47.526944,
@@ -121,7 +124,7 @@
         "fct:id":"03888d26-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451894,
         "gp:id":446288,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q544881",
         "wk:page":"Rafard"
     },
@@ -141,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242711,
+    "wof:lastmodified":1566623871,
     "wof:name":"Rafard",
     "wof:parent_id":404567083,
     "wof:placetype":"locality",

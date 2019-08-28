@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.704748,
     "lbl:longitude":-49.483793,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-23.704748,
     "mps:longitude":-49.483793,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Itaporanga"
     ],
@@ -101,7 +104,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-23.707778,
     "wd:longitude":-49.489722,
@@ -118,7 +121,7 @@
         "fct:id":"0385ec60-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460666,
         "gp:id":428359,
-        "qs:id":1071983,
+        "qs_pg:id":1071983,
         "wd:id":"Q1808177",
         "wk:page":"Itaporanga, S\u00e3o Paulo"
     },
@@ -137,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242564,
+    "wof:lastmodified":1566623825,
     "wof:name":"Itaporanga",
     "wof:parent_id":102061579,
     "wof:placetype":"locality",

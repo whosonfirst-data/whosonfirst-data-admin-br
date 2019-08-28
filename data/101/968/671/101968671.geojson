@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.47593,
     "lbl:longitude":-46.748371,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-21.47593,
     "mps:longitude":-46.748371,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u09aa\u09bf\u09b0\u09be\u099f\u09bf\u09ac\u09be"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.467778,
     "wd:longitude":-46.748889,
@@ -122,7 +125,6 @@
         "fct:id":"0386e6ce-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3446860,
         "gp:id":456558,
-        "qs:id":322272,
         "qs_pg:id":322272,
         "wd:id":"Q1658532",
         "wk:page":"Tapiratiba"
@@ -142,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244956,
+    "wof:lastmodified":1566624905,
     "wof:name":"Tapiratiba",
     "wof:parent_id":102062333,
     "wof:placetype":"locality",

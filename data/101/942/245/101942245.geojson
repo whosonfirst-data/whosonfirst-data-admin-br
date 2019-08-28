@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-0.165437,
     "lbl:longitude":-49.980034,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-0.165437,
     "mps:longitude":-49.980034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Chaves"
     ],
@@ -80,9 +83,6 @@
     "name:spa_x_preferred":[
         "Chaves"
     ],
-    "name:unk_x_variant":[
-        "Santo Ant\u00f4nio de Aruans"
-    ],
     "name:vie_x_preferred":[
         "Chaves"
     ],
@@ -110,7 +110,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         85681959,
@@ -124,7 +124,7 @@
         "fct:id":"03823b38-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3402199,
         "gp:id":456138,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1899080",
         "wk:page":"Chaves, Par\u00e1"
     },
@@ -144,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841276,
+    "wof:lastmodified":1566625823,
     "wof:name":"Chaves",
     "wof:parent_id":404559597,
     "wof:placetype":"locality",

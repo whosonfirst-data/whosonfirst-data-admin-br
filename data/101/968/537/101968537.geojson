@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.310586,
     "lbl:longitude":-47.563295,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-21.310586,
     "mps:longitude":-47.563295,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u09b0\u09be \u0986\u099c\u09c1\u09b2"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.310833,
     "wd:longitude":-47.565833,
@@ -121,7 +124,7 @@
         "fct:id":"038675b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3447757,
         "gp:id":451805,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1760125",
         "wk:page":"Serra Azul"
     },
@@ -141,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244930,
+    "wof:lastmodified":1566624891,
     "wof:name":"Serra Azul",
     "wof:parent_id":404567507,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-5.290629,
     "lbl:longitude":-38.865166,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-5.290629,
     "mps:longitude":-38.865166,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u09b0\u09be\u09a8\u099c\u09c7\u0987\u09b0\u09be\u09b8"
     ],
@@ -28,7 +31,7 @@
     "name:tur_x_preferred":[
         "Laranjeiras"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Larangeiras"
     ],
     "name:urd_x_preferred":[
@@ -52,7 +55,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3406534,
         "gp:id":458584,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"4df21ee11b92ab284003b48cfaed7ea6",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101944597,
-    "wof:lastmodified":1564142362,
+    "wof:lastmodified":1566625982,
     "wof:name":"Laranjeiras",
     "wof:parent_id":404552447,
     "wof:placetype":"locality",

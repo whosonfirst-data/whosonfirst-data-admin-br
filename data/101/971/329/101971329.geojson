@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.260183,
     "lbl:longitude":-41.690495,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-11.260183,
     "mps:longitude":-41.690495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b8\u09c7\u09a1\u09cb\u09a8\u09bf\u09af\u09bc\u09be"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-20.145833,
     "wd:longitude":-50.194444,
@@ -116,7 +119,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":458445,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"3c32742636cc85047939f00649f4744d",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101971329,
-    "wof:lastmodified":1564140590,
+    "wof:lastmodified":1566624475,
     "wof:name":"Maced\u00f4nia",
     "wof:parent_id":404551339,
     "wof:placetype":"locality",

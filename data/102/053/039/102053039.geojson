@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-3.401299,
     "lbl:longitude":-43.816187,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-3.401299,
     "mps:longitude":-43.816187,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09bf\u09a8\u09be \u09b0\u09cb\u09a1\u09cd\u09b0\u09bf\u0997\u09c1\u09f1\u09c7\u09b8"
     ],
@@ -112,7 +115,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         102191577,
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":102053039,
-    "wof:lastmodified":1563234791,
+    "wof:lastmodified":1566619023,
     "wof:name":"Nina Rodrigues",
     "wof:parent_id":85681931,
     "wof:placetype":"county",

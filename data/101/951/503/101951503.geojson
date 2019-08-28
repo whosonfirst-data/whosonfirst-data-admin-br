@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.355994,
     "lbl:longitude":-43.370216,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.355994,
     "mps:longitude":-43.370216,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u062f\u064a\u0631\u0627\u0646\u062a\u064a\u0633"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -92,7 +95,7 @@
         "fct:id":"037fdf0a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3470916,
         "gp:id":423366,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"b4153ca8f75fa10449434f5caf25d740",
@@ -110,7 +113,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564141657,
+    "wof:lastmodified":1566625481,
     "wof:name":"Bandeirantes",
     "wof:parent_id":404557145,
     "wof:placetype":"locality",

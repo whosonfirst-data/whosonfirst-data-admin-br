@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-1.625769,
     "lbl:longitude":-50.537723,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-1.625769,
     "mps:longitude":-50.537723,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*PA",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681959,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456873,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"c7654177701fe1b7559059c8cfefbe3c",
+    "wof:geomhash":"eb632bd3750ce10a5b793853d63d3e17",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101982511,
-    "wof:lastmodified":1479915262,
+    "wof:lastmodified":1566624632,
     "wof:name":"Magebr\u00e1s",
     "wof:parent_id":404559553,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-17.848496,
     "lbl:longitude":-40.177756,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-17.848496,
     "mps:longitude":-40.177756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u0987\u09ae\u09cb\u09b0\u09c7\u09b8"
     ],
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Aimor\u00e9s"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aymores"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +109,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":47,
     "wof:belongsto":[
         85681941,
@@ -118,7 +121,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3461575,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"d2144d992f89654f3797a34a0e9bacc1",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101983967,
-    "wof:lastmodified":1564139907,
+    "wof:lastmodified":1566624026,
     "wof:name":"Aimor\u00e9s",
     "wof:parent_id":404558493,
     "wof:placetype":"locality",

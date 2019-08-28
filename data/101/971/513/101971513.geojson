@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.285047,
     "lbl:longitude":-41.057466,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-12.285047,
     "mps:longitude":-41.057466,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u064a\u062b\u064a\u0641\u064a"
     ],
@@ -145,7 +148,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -156,7 +159,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3471438,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"13037bfd544f7a5726e7ce7afd91fe84",
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101971513,
-    "wof:lastmodified":1564140593,
+    "wof:lastmodified":1566624476,
     "wof:name":"Arrecife",
     "wof:parent_id":404551391,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.77704,
     "lbl:longitude":-52.700283,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.77704,
     "mps:longitude":-52.700283,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c1\u0997\u09cd\u09b0\u09c7"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -105,7 +108,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6316656,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"d95da3ca0f5bbb358d5efe353125ca9c",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101959493,
-    "wof:lastmodified":1564141302,
+    "wof:lastmodified":1566625117,
     "wof:name":"Bugre",
     "wof:parent_id":404564833,
     "wof:placetype":"locality",

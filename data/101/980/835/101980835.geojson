@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.302146,
     "lbl:longitude":-42.85657,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.302146,
     "mps:longitude":-42.85657,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*MA",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681931,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":449958,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"8290a2d34a08dbfdac37960a6997990f",
+    "wof:geomhash":"bdd4a51842aea7fc7631616cdae1e381",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101980835,
-    "wof:lastmodified":1479598206,
+    "wof:lastmodified":1566625715,
     "wof:name":"Tapera",
     "wof:parent_id":404555073,
     "wof:placetype":"locality",

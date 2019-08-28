@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.512545,
     "lbl:longitude":-53.324168,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.512545,
     "mps:longitude":-53.324168,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Helena"
     ],
@@ -67,7 +70,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681955,
         102191577,
@@ -77,7 +80,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"db8959fb8e90949f9cd98f4334931135",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101982081,
-    "wof:lastmodified":1564140822,
+    "wof:lastmodified":1566624644,
     "wof:name":"Santa Helena",
     "wof:parent_id":404559139,
     "wof:placetype":"locality",

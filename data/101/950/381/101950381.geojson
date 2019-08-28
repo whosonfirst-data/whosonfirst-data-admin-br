@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.17353,
     "lbl:longitude":-39.057086,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.17353,
     "mps:longitude":-39.057086,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u0995\u09c1\u09b0\u09c1\u09b0\u09c7"
     ],
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "Macurur\u00e9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bomfim"
     ],
     "name:urd_x_preferred":[
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":146,
     "wof:belongsto":[
         85681895,
@@ -128,7 +131,7 @@
     "wof:concordances":{
         "gn:id":3395954,
         "gp:id":439764,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1793587",
         "wk:page":"Macurur\u00e9"
     },
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101950381,
-    "wof:lastmodified":1561841163,
+    "wof:lastmodified":1566624783,
     "wof:name":"Macurur\u00e9",
     "wof:parent_id":404551441,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.719339,
     "lbl:longitude":-41.094365,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.719339,
     "mps:longitude":-41.094365,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u099c\u09c1\u09af\u09bc\u09c7\u0987\u09b0\u09cb"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681991,
         102191577,
@@ -102,7 +105,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":450225,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e4dc3afa6fae8bc6f75fc5070d1d0e46",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101954203,
-    "wof:lastmodified":1564139101,
+    "wof:lastmodified":1566623294,
     "wof:name":"Cajueiro",
     "wof:parent_id":404562565,
     "wof:placetype":"locality",

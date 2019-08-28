@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.776074,
     "lbl:longitude":-38.91997,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-12.776074,
     "mps:longitude":-38.91997,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09be\u0997\u09cb\u0997\u09bf\u09aa\u09c7"
     ],
@@ -80,9 +83,6 @@
     "name:spa_x_preferred":[
         "Maragogipe"
     ],
-    "name:unk_x_variant":[
-        "Maragojipe"
-    ],
     "name:vie_x_preferred":[
         "Maragogipe"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681895,
@@ -126,7 +126,6 @@
         "fct:id":"0387483a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457850,
         "gp:id":457537,
-        "qs:id":148118,
         "qs_pg:id":148118,
         "wd:id":"Q1761467"
     },
@@ -146,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841158,
+    "wof:lastmodified":1566624754,
     "wof:name":"Maragogipe",
     "wof:parent_id":404551473,
     "wof:placetype":"locality",

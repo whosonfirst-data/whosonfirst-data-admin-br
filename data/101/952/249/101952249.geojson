@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-17.072004,
     "lbl:longitude":-41.485238,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-17.072004,
     "mps:longitude":-41.485238,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09a1\u09cd\u09b0\u09c7 \u09aa\u09be\u09b0\u09be\u0987\u09b8\u09cb"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -126,7 +129,6 @@
         "fct:id":"0386cf86-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3455568,
         "gp:id":456377,
-        "qs:id":848332,
         "qs_pg:id":848332,
         "wd:id":"Q1755581"
     },
@@ -146,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242475,
+    "wof:lastmodified":1566623791,
     "wof:name":"Padre Para\u00edso",
     "wof:parent_id":404557505,
     "wof:placetype":"locality",

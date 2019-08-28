@@ -9,17 +9,19 @@
     "geom:bbox":"-53.2619710227,-17.3551405081,-53.2088447078,-17.29618754",
     "geom:latitude":-17.318894,
     "geom:longitude":-53.23318,
-    "gn:gn_country":"BR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8780,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:population":8780,
     "iso:country":"BR",
     "lbl:latitude":-17.307153,
     "lbl:longitude":-53.244654,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-17.307153,
     "mps:longitude":-53.244654,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09cd\u099f\u09cb \u09f1\u09be\u09b0\u09be\u0997\u09c1\u09f1\u09be\u0987\u09af\u09bc\u09be"
     ],
@@ -88,7 +90,7 @@
     "name:swe_x_preferred":[
         "Alto Araguaia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Rita do Araguaya"
     ],
     "name:vie_x_preferred":[
@@ -142,7 +144,7 @@
     "qs_pg:woe_id":456026,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681955,
@@ -156,7 +158,6 @@
         "fct:id":"03829ede-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472473,
         "gp:id":456026,
-        "qs:id":1323877,
         "qs_pg:id":1323877,
         "wd:id":"Q1806398",
         "wk:page":"Alto Araguaia"
@@ -180,7 +181,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245062,
+    "wof:lastmodified":1566624951,
     "wof:name":"Alto Araguaia",
     "wof:parent_id":404559091,
     "wof:placetype":"locality",

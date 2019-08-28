@@ -12,9 +12,12 @@
     "iso:country":"BR",
     "lbl:latitude":-3.561899,
     "lbl:longitude":-59.221839,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.561899,
     "mps:longitude":-59.221839,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:min_zoom":6.0,
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Brazil",
@@ -125,7 +128,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681885,
         102191577,
@@ -136,7 +139,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456738,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"54948fb903af1e6ae30e0d5c310e2cba",
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101967151,
-    "wof:lastmodified":1499386449,
+    "wof:lastmodified":1566625143,
     "wof:name":"Aldeia Ind\u00edgena Natal",
     "wof:parent_id":404550221,
     "wof:placetype":"locality",

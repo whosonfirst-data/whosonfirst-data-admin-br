@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.430233,
     "lbl:longitude":-48.716812,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-25.430233,
     "mps:longitude":-48.716812,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u099f\u09cb\u09a8\u09bf\u09a8\u09be"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681983,
@@ -117,7 +120,6 @@
         "fct:id":"0386f434-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3472048,
         "gp:id":456682,
-        "qs:id":900250,
         "qs_pg:id":900250,
         "wd:id":"Q599068"
     },
@@ -137,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242592,
+    "wof:lastmodified":1566623834,
     "wof:name":"Antonina",
     "wof:parent_id":404560859,
     "wof:placetype":"locality",

@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-14.486884,
     "lbl:longitude":-44.216691,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-14.486884,
     "mps:longitude":-44.216691,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*MG",
     "qs:a1_lc":"31",
@@ -30,7 +34,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456339,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"08d983e55d4ac91a6852f9bad2f050b3",
+    "wof:geomhash":"f7b4fbec532c1052bd96470c12bc8020",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101951191,
-    "wof:lastmodified":1479611438,
+    "wof:lastmodified":1566625508,
     "wof:name":"Monte Rei",
     "wof:parent_id":404556965,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.553745,
     "lbl:longitude":-38.605075,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.553745,
     "mps:longitude":-38.605075,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09cd\u09aa\u09cb \u09a1\u09cb \u09ac\u09cd\u09b0\u09bf\u099f\u09cb"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681895,
         102191577,
@@ -54,7 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":450229,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"9f8e37dab87bfa84e4aea299f3b5b5d6",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101973095,
-    "wof:lastmodified":1564141869,
+    "wof:lastmodified":1566625632,
     "wof:name":"Campo do Brito",
     "wof:parent_id":404550499,
     "wof:placetype":"locality",

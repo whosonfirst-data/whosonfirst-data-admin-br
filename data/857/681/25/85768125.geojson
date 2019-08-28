@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5566955.18179,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-38.525279,-3.751498,-38.525279,-3.751498",
     "geom:latitude":-3.751498,
     "geom:longitude":-38.525279,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-38.530279,-3.756498,-38.520279,-3.746498",
     "lbl:latitude":-3.751498,
     "lbl:longitude":-38.525279,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-3.756826,
     "mps:longitude":-38.530693,
     "mz:hierarchy_label":0,
@@ -60,9 +62,6 @@
     "name:por_x_preferred":[
         "F\u00e1tima"
     ],
-    "name:unk_x_variant":[
-        "F\u00e1tima"
-    ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_id":0,
     "qs:gn_local":3399415,
@@ -91,19 +90,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681907,
         102191577,
         404552855,
         85633009,
         101944733,
-        102051533
+        102051533,
+        85681907
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56068218,
-        "qs:id":231064,
         "qs_pg:id":231064
     },
     "wof:country":"BR",
@@ -123,7 +121,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859283,
+    "wof:lastmodified":1566620732,
     "wof:name":"F\u00e1tima",
     "wof:parent_id":101944733,
     "wof:placetype":"neighbourhood",

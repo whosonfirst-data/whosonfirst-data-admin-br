@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.131651,
     "lbl:longitude":-51.590612,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.131651,
     "mps:longitude":-51.590612,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Vila Isabel"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":84,
     "wof:belongsto":[
         102191577,
@@ -48,7 +51,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26803861,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"cfde3880d7a630612a9ed01ee7446fa0",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101982385,
-    "wof:lastmodified":1564140797,
+    "wof:lastmodified":1566624630,
     "wof:name":"Vila Isabel",
     "wof:parent_id":102055685,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-30.001334,
     "lbl:longitude":-50.179374,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.001334,
     "mps:longitude":-50.179374,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cd\u09b0\u09c1\u099c\u09af\u09bc\u09c7\u0987\u09b0\u09cb \u09a1\u09cb \u09b8\u09c1\u09b2"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -51,7 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456574,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"0608503d9c37e02958e3380d1aa54948",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101963857,
-    "wof:lastmodified":1564139373,
+    "wof:lastmodified":1566623577,
     "wof:name":"Cruzeiro do Sul",
     "wof:parent_id":404564919,
     "wof:placetype":"locality",

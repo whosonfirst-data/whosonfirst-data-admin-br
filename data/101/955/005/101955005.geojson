@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.138997,
     "lbl:longitude":-51.102284,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-21.138997,
     "mps:longitude":-51.102284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09bf\u09b0\u09be\u09a8\u09a1\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
     ],
@@ -95,9 +98,6 @@
     "name:tur_x_preferred":[
         "Mirand\u00f3polis"
     ],
-    "name:unk_x_variant":[
-        "Comandante Arbues"
-    ],
     "name:vie_x_preferred":[
         "Mirand\u00f3polis"
     ],
@@ -127,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.133611,
     "wd:longitude":-51.101667,
@@ -145,7 +145,6 @@
         "fct:id":"0386ca5e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457107,
         "gp:id":456336,
-        "qs:id":148096,
         "qs_pg:id":148096,
         "wd:id":"Q1645072",
         "wk:page":"Mirand\u00f3polis"
@@ -166,7 +165,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841099,
+    "wof:lastmodified":1566623862,
     "wof:name":"Mirand\u00f3polis",
     "wof:parent_id":404566759,
     "wof:placetype":"locality",

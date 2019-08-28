@@ -9,14 +9,17 @@
     "geom:bbox":"-44.1056618229,-15.1095644549,-44.085876404,-15.0871415543",
     "geom:latitude":-15.098203,
     "geom:longitude":-44.097086,
-    "geonames:id":"3460942,3460943",
+    "gn:id":"3460942,3460943",
     "iso:country":"BR",
     "lbl:latitude":-15.098077,
     "lbl:longitude":-44.097887,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-15.098077,
     "mps:longitude":-44.097887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u0995\u09be\u09b0\u09be\u09ae\u09ac\u09bf"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "Itacarambi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u00f4rto Jacar\u00e9"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -124,9 +127,11 @@
     "wof:concordances":{
         "gn:id":3460942,
         "gp:id":457330,
-        "qs:id":6,
-        "qs_pg:id":819487,
+        "qs_pg:id":6,
         "wd:id":"Q1790600"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":819487
     },
     "wof:country":"BR",
     "wof:geomhash":"9da4cd90d17a422e6e633a506792f850",
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":101951245,
-    "wof:lastmodified":1563246227,
+    "wof:lastmodified":1566625485,
     "wof:name":"Itacarambi",
     "wof:parent_id":404556707,
     "wof:placetype":"locality",

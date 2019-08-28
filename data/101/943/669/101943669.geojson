@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.098458,
     "lbl:longitude":-42.635657,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.098458,
     "mps:longitude":-42.635657,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u09b0\u09cd\u09a1\u09bf\u09ae \u09a1\u09cb \u09ae\u09c1\u09b2\u09be\u099f\u09cb"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -115,7 +118,7 @@
         "fct:id":"0388dca4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6317367,
         "gp:id":26803958,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1991909",
         "wk:page":"Jardim do Mulato"
     },
@@ -134,7 +137,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841305,
+    "wof:lastmodified":1566626088,
     "wof:name":"Jardim do Mulato",
     "wof:parent_id":102057131,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00058,
-    "geom:area_square_m":6580719.61162,
+    "geom:area_square_m":6580719.611615,
     "geom:bbox":"-47.369259,-23.421671,-47.3358445927,-23.3936087547",
     "geom:latitude":-23.406584,
     "geom:longitude":-47.353068,
     "iso:country":"BR",
     "lbl:latitude":-23.40665,
     "lbl:longitude":-47.353389,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.40665,
     "mps:longitude":-47.353389,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*SP",
     "qs:a1_lc":"35",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682041,
         102191577,
@@ -43,7 +47,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":431371,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1054677
     },
     "wof:country":"BR",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":101962717,
-    "wof:lastmodified":1497302181,
+    "wof:lastmodified":1566623555,
     "wof:name":"Ch\u00e1cara Portal do \u00c9den",
     "wof:parent_id":404566613,
     "wof:placetype":"locality",

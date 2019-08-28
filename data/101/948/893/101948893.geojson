@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.999746,
     "lbl:longitude":-44.51857,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.999746,
     "mps:longitude":-44.51857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u0420\u0438\u0442\u0430 \u0434\u0438 \u041a\u0430\u0441\u0438\u044f"
     ],
@@ -97,7 +100,7 @@
     "name:swe_x_preferred":[
         "Santa Rita de C\u00e1ssia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rio Pr\u00eato"
     ],
     "name:vie_x_preferred":[
@@ -127,7 +130,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":252,
     "wof:belongsto":[
         85681895,
@@ -141,7 +144,7 @@
         "fct:id":"0386e08e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461591,
         "gp:id":456504,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1795224",
         "wk:page":"Santa Rita de C\u00e1ssia"
     },
@@ -161,7 +164,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841104,
+    "wof:lastmodified":1566623891,
     "wof:name":"Santa Rita de C\u00e1ssia",
     "wof:parent_id":404551911,
     "wof:placetype":"locality",

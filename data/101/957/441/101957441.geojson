@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-25.478868,
     "lbl:longitude":-50.652474,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-25.478868,
     "mps:longitude":-50.652474,
     "mz:hierarchy_label":1,
@@ -74,9 +76,6 @@
     ],
     "name:spa_x_preferred":[
         "Irati"
-    ],
-    "name:unk_x_variant":[
-        "Iraty"
     ],
     "name:vol_x_preferred":[
         "Irati"
@@ -196,7 +195,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681983,
@@ -210,7 +209,6 @@
         "fct:id":"038732be-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461017,
         "gp:id":457316,
-        "qs:id":669509,
         "qs_pg:id":669509,
         "wd:id":"Q2064763"
     },
@@ -230,7 +228,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841166,
+    "wof:lastmodified":1566624801,
     "wof:name":"Irati",
     "wof:parent_id":404561273,
     "wof:placetype":"locality",

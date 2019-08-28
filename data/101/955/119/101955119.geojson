@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.646952,
     "lbl:longitude":-50.662594,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-20.646952,
     "mps:longitude":-50.662594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u099c\u09cb\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
     ],
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "Guzol\u00e2ndia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gussol\u00e2ndia"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-20.649722,
     "wd:longitude":-50.661944,
@@ -129,7 +132,7 @@
         "fct:id":"0385db26-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3461715,
         "gp:id":435135,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1648425",
         "wk:page":"Guzol\u00e2ndia"
     },
@@ -148,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841096,
+    "wof:lastmodified":1566623843,
     "wof:name":"Guzol\u00e2ndia",
     "wof:parent_id":102061473,
     "wof:placetype":"locality",

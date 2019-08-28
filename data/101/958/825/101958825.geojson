@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.166727,
     "lbl:longitude":-53.853048,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.166727,
     "mps:longitude":-53.853048,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u064a\u0627"
     ],
@@ -124,7 +127,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -135,7 +138,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6317575,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"cf7b0d08b21aa0a9b7ee1fe4bf2cf90f",
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":101958825,
-    "wof:lastmodified":1564141444,
+    "wof:lastmodified":1566625250,
     "wof:name":"Mau\u00e1",
     "wof:parent_id":404563757,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-3.181872,
     "lbl:longitude":-39.371255,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-3.181872,
     "mps:longitude":-39.371255,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Munda\u00fa"
     ],
@@ -28,7 +31,7 @@
     "name:por_x_variant":[
         "Praia do Munda\u00fa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mundahu"
     ],
     "qs:a0":"Brasil",
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":290,
     "wof:belongsto":[
         85681907,
@@ -62,9 +65,11 @@
         "fct:id":"03812bd0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3394192,
         "gp:id":441122,
-        "qs:id":9,
-        "qs_pg:id":23897,
+        "qs_pg:id":9,
         "wd:id":"Q10352834"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":23897
     },
     "wof:country":"BR",
     "wof:geomhash":"7fd8aaefd8e7feae739772aa9c5fb78b",
@@ -82,7 +87,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247047,
+    "wof:lastmodified":1566625900,
     "wof:name":"Munda\u00fa",
     "wof:parent_id":404554009,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.593245,
     "lbl:longitude":-47.645055,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-20.593245,
     "mps:longitude":-47.645055,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u099c\u09cb\u09b8\u09c7 \u09a1\u09be \u09ac\u09c7\u09b2\u09be \u09ad\u09bf\u09b8\u09cd\u099f\u09be"
     ],
@@ -81,7 +84,7 @@
     "name:swe_x_preferred":[
         "S\u00e3o Jos\u00e9 da Bela Vista"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Jos\u00e9 da Boa Vista"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-20.592778,
     "wd:longitude":-47.64,
@@ -128,7 +131,7 @@
         "fct:id":"038666ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3448696,
         "gp:id":450550,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1759853",
         "wk:page":"S\u00e3o Jos\u00e9 da Bela Vista"
     },
@@ -147,7 +150,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841095,
+    "wof:lastmodified":1566623841,
     "wof:name":"S\u00e3o Jos\u00e9 da Bela Vista",
     "wof:parent_id":102062235,
     "wof:placetype":"locality",

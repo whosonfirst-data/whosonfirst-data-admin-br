@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-25.732455,
     "lbl:longitude":-53.467414,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.732455,
     "mps:longitude":-53.467414,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u0995\u09c1\u099f\u09bf\u0999\u09cd\u0997\u09be"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -86,7 +89,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"46f9368fb250863da8296b76c59a06c1",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101956561,
-    "wof:lastmodified":1564141524,
+    "wof:lastmodified":1566625344,
     "wof:name":"Jacutinga",
     "wof:parent_id":404561819,
     "wof:placetype":"locality",

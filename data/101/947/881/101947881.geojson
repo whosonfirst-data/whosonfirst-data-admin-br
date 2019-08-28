@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.12694,
     "lbl:longitude":-37.102181,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.12694,
     "mps:longitude":-37.102181,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09ac\u09bf"
     ],
@@ -76,9 +79,6 @@
     "name:swe_x_preferred":[
         "Itabi"
     ],
-    "name:unk_x_variant":[
-        "Provid\u00eancia"
-    ],
     "name:vie_x_preferred":[
         "Itabi"
     ],
@@ -108,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -120,7 +120,6 @@
         "fct:id":"0387bba8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460962,
         "gp:id":459696,
-        "qs:id":342785,
         "qs_pg:id":342785,
         "wd:id":"Q1929327"
     },
@@ -139,7 +138,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243821,
+    "wof:lastmodified":1566624381,
     "wof:name":"Itabi",
     "wof:parent_id":102060881,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-8.163941,
     "lbl:longitude":-63.322843,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.163941,
     "mps:longitude":-63.322843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nazar\u00e9"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
         85682003,
@@ -82,7 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":424858,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"aa310f5b797f582d0da83ffe92d7f52a",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101941703,
-    "wof:lastmodified":1564140321,
+    "wof:lastmodified":1566624301,
     "wof:name":"Nazar\u00e9",
     "wof:parent_id":404562831,
     "wof:placetype":"locality",

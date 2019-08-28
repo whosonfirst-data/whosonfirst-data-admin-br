@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-10.343877,
     "lbl:longitude":-37.101269,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-10.343877,
     "mps:longitude":-37.101269,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u0997\u09cd\u09b0\u09c7\u09a1\u09cb"
     ],
@@ -85,7 +88,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -94,7 +97,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"d3077f265c98dd9be71e3f4f575d79b5",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101990369,
-    "wof:lastmodified":1564139480,
+    "wof:lastmodified":1566623651,
     "wof:name":"Segredo",
     "wof:parent_id":102060821,
     "wof:placetype":"locality",

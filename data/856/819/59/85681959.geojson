@@ -36,6 +36,7 @@
     ],
     "lbl:latitude":-5.244882,
     "lbl:longitude":-52.941327,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-5.244882,
     "mps:longitude":-52.941327,
     "mz:hierarchy_label":1,
@@ -313,9 +314,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Par\u00e1"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0631\u0627"
     ],
@@ -417,9 +415,9 @@
     "qs:type":"Estado",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-08-01",
+    "src:population_date":"2010-08-01",
     "statoids:area_km":"1,247,955",
     "statoids:area_mi":"481,838",
     "statoids:as_of_date":"2010-08-01",
@@ -463,11 +461,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565660991,
+    "wof:lastmodified":1566620860,
     "wof:name":"Para",
     "wof:parent_id":85633009,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":7581051,
     "wof:population_rank":13,

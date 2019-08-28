@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.869261,
     "lbl:longitude":-39.872993,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-6.869261,
     "mps:longitude":-39.872993,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b8\u09b8\u09be\u09b0\u09c7"
     ],
@@ -82,9 +85,6 @@
     "name:swe_x_preferred":[
         "Assar\u00e9"
     ],
-    "name:unk_x_variant":[
-        "A\u00e7ar\u00e9"
-    ],
     "name:vie_x_preferred":[
         "Assar\u00e9"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681907,
@@ -128,7 +128,6 @@
         "fct:id":"0389146c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3407010,
         "gp:id":456726,
-        "qs:id":181444,
         "qs_pg:id":181444,
         "wd:id":"Q1808367"
     },
@@ -148,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247268,
+    "wof:lastmodified":1566626002,
     "wof:name":"Assar\u00e9",
     "wof:parent_id":404552429,
     "wof:placetype":"locality",

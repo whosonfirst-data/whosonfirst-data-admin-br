@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.022181,
     "lbl:longitude":-48.040201,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-21.022181,
     "mps:longitude":-48.040201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u09a8\u09cd\u099f\u09be\u09b2"
     ],
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-21.0225,
     "wd:longitude":-48.037222,
@@ -125,7 +128,6 @@
         "fct:id":"0386d800-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3453171,
         "gp:id":456433,
-        "qs:id":181376,
         "qs_pg:id":181376,
         "wd:id":"Q1759836",
         "wk:page":"Pontal"
@@ -146,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244903,
+    "wof:lastmodified":1566624877,
     "wof:name":"Pontal",
     "wof:parent_id":404567029,
     "wof:placetype":"locality",

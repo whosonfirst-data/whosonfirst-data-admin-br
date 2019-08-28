@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.444918,
     "lbl:longitude":-44.252883,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.444918,
     "mps:longitude":-44.252883,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u098f\u09b8\u099f\u09bf\u09ad\u09be"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -102,7 +105,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8465230,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"028d906afa84de7c252e645538fa5372",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101979703,
-    "wof:lastmodified":1564140216,
+    "wof:lastmodified":1566624192,
     "wof:name":"Estiva",
     "wof:parent_id":404556151,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-12.737795,
     "lbl:longitude":-38.611041,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-12.737795,
     "mps:longitude":-38.611041,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09a1\u09cd\u09b0\u09c7 \u09a1\u09c7 \u09a1\u09c7\u0989\u09b8"
     ],
@@ -80,7 +83,7 @@
     "name:spa_x_preferred":[
         "Madre de Deus"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Suape"
     ],
     "name:urd_x_preferred":[
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -131,7 +134,6 @@
         "fct:id":"038a04c6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3458161,
         "gp:id":439035,
-        "qs:id":1045018,
         "qs_pg:id":1045018,
         "wd:id":"Q985510"
     },
@@ -150,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244670,
+    "wof:lastmodified":1566624776,
     "wof:name":"Madre de Deus",
     "wof:parent_id":102051001,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-1.959308,
     "lbl:longitude":-48.20097,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-1.959308,
     "mps:longitude":-48.20097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0986\u0995\u09be\u09b0\u09be"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681959,
@@ -120,7 +123,6 @@
         "fct:id":"0386ed0e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3408386,
         "gp:id":456614,
-        "qs:id":147765,
         "qs_pg:id":147765,
         "wd:id":"Q1804839"
     },
@@ -140,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841281,
+    "wof:lastmodified":1566625853,
     "wof:name":"Acar\u00e1",
     "wof:parent_id":404559455,
     "wof:placetype":"locality",

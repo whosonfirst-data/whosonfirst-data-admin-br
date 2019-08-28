@@ -24,10 +24,13 @@
     ],
     "lbl:latitude":-31.695477,
     "lbl:longitude":-52.807896,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-31.695477,
     "mps:longitude":-52.807896,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Cerrito"
     ],
@@ -76,7 +79,7 @@
     "qs:source":"Brasil IBGE",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":405,
     "wof:belongsto":[
         102191577,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":102059257,
-    "wof:lastmodified":1564133203,
+    "wof:lastmodified":1566619476,
     "wof:name":"Cerrito",
     "wof:parent_id":85682015,
     "wof:placetype":"county",

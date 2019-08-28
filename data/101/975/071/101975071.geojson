@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.386243,
     "lbl:longitude":-44.919703,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.386243,
     "mps:longitude":-44.919703,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Prazeres"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         85681895,
@@ -67,7 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":460164,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e37b9c0f33b81aa8cae563b6e101c102",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101975071,
-    "wof:lastmodified":1564142636,
+    "wof:lastmodified":1566626210,
     "wof:name":"Prazeres",
     "wof:parent_id":404551825,
     "wof:placetype":"locality",

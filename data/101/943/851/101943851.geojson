@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.670621,
     "lbl:longitude":-41.712362,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-6.670621,
     "mps:longitude":-41.712362,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0987\u09a8\u09b9\u09c1\u09ae\u09be"
     ],
@@ -68,9 +71,6 @@
     "name:rus_x_preferred":[
         "\u0418\u043d\u044c\u044e\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Inhumas"
-    ],
     "name:vie_x_preferred":[
         "Inhuma"
     ],
@@ -100,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":148,
     "wof:belongsto":[
@@ -114,7 +114,6 @@
         "fct:id":"0386bea6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3398178,
         "gp:id":456239,
-        "qs:id":1044403,
         "qs_pg:id":1044403,
         "wd:id":"Q2104143",
         "wk:page":"Inhuma, Piau\u00ed"
@@ -134,7 +133,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247429,
+    "wof:lastmodified":1566626089,
     "wof:name":"Inhuma",
     "wof:parent_id":102057115,
     "wof:placetype":"locality",

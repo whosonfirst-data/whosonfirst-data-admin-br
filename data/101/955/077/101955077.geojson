@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.204935,
     "lbl:longitude":-50.72151,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.204935,
     "mps:longitude":-50.72151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a8\u0997\u09cb\u09a8\u09b9\u09bf\u09a8\u09b9\u09be\u09b8"
     ],
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Congonhinhas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Congonhas do Norte"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -121,9 +124,11 @@
         "fct:id":"0384f440-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465661,
         "gp:id":430139,
-        "qs:id":9,
-        "qs_pg:id":180834,
+        "qs_pg:id":9,
         "wd:id":"Q2007563"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":180834
     },
     "wof:country":"BR",
     "wof:geomhash":"af9ab076908f128286136fba69ca772f",
@@ -141,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242559,
+    "wof:lastmodified":1566623823,
     "wof:name":"Congonhas",
     "wof:parent_id":404561091,
     "wof:placetype":"locality",

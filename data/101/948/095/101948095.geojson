@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-8.895012,
     "lbl:longitude":-36.498124,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-8.895012,
     "mps:longitude":-36.498124,
     "mz:hierarchy_label":1,
@@ -283,7 +285,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681973,
@@ -297,7 +299,6 @@
         "fct:id":"03869b6a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3399058,
         "gp:id":455950,
-        "qs:id":239742,
         "qs_pg:id":239742,
         "wd:id":"Q771575",
         "wk:page":"Garanhuns"
@@ -318,7 +319,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563242854,
+    "wof:lastmodified":1566623919,
     "wof:name":"Garanhuns",
     "wof:parent_id":404560357,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.138716,
     "lbl:longitude":-49.056697,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.138716,
     "mps:longitude":-49.056697,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u09a8\u09a1\u09c1"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -120,7 +123,6 @@
         "fct:id":"03857bc2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3471816,
         "gp:id":422240,
-        "qs:id":1191998,
         "qs_pg:id":1191998,
         "wd:id":"Q1754457",
         "wk:page":"Arandu, S\u00e3o Paulo"
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":101964415,
-    "wof:lastmodified":1563242246,
+    "wof:lastmodified":1566623689,
     "wof:name":"Arandu",
     "wof:parent_id":102061065,
     "wof:placetype":"locality",

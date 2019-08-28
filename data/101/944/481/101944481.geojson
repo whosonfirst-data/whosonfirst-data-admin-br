@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.2696,
     "lbl:longitude":-39.46232,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.2696,
     "mps:longitude":-39.46232,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b2\u09ae\u09cb\u09a8\u09cd\u099f\u09c7"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681907,
         102191577,
@@ -123,7 +126,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6316557,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"1966d1909964bf18890d0059f2bd3dd3",
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101944481,
-    "wof:lastmodified":1564142372,
+    "wof:lastmodified":1566625990,
     "wof:name":"Belmonte",
     "wof:parent_id":404552775,
     "wof:placetype":"locality",

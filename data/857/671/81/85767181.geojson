@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10522989.058956,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-48.629062,-26.958647,-48.629062,-26.958647",
     "geom:latitude":-26.958647,
     "geom:longitude":-48.629062,
     "gn:id":"",
     "iso:country":"BR",
+    "lbl:bbox":"-48.634062,-26.963647,-48.624062,-26.953647",
     "lbl:latitude":-26.958647,
     "lbl:longitude":-48.629062,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.95545,
     "mps:longitude":-48.629107,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:por_x_preferred":[
-        "Da Praia Dos Amores"
-    ],
-    "name:unk_x_variant":[
         "Da Praia Dos Amores"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -57,20 +56,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682021,
         102191577,
         404565527,
         85633009,
         101958121,
-        102060469
+        102060469,
+        85682021
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56066644,
-        "qs:id":483565
+        "qs_pg:id":483565
     },
     "wof:country":"BR",
     "wof:geomhash":"a4de8fa37187dda66490771a1bebb0ec",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531859137,
+    "wof:lastmodified":1566620781,
     "wof:name":"Da Praia Dos Amores",
     "wof:parent_id":101958121,
     "wof:placetype":"neighbourhood",

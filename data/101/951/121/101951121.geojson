@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.693353,
     "lbl:longitude":-44.357082,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-16.693353,
     "mps:longitude":-44.357082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b0\u09be\u0995\u09af\u09bc\u09be\u0993 \u09a1\u09c7 \u099c\u09c7\u09b8\u09c1\u09b8"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681941,
@@ -120,7 +123,6 @@
         "fct:id":"0387198c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3465542,
         "gp:id":457069,
-        "qs:id":148324,
         "qs_pg:id":148324,
         "wd:id":"Q1779901"
     },
@@ -140,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841261,
+    "wof:lastmodified":1566625504,
     "wof:name":"Cora\u00e7\u00e3o de Jesus",
     "wof:parent_id":404556029,
     "wof:placetype":"locality",

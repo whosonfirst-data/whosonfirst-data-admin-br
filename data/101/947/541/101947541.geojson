@@ -9,14 +9,17 @@
     "geom:bbox":"-38.7496381902,-8.32615025813,-38.7350789136,-8.30924015267",
     "geom:latitude":-8.317025,
     "geom:longitude":-38.743482,
-    "geonames:id":"3402814,6316812",
+    "gn:id":"3402814,6316812",
     "iso:country":"BR",
     "lbl:latitude":-8.317054,
     "lbl:longitude":-38.74362,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-8.317054,
     "mps:longitude":-38.74362,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09cd\u09a8\u09be\u0989\u09ac\u09c7\u0987\u09b0\u09be \u09a1\u09be \u09aa\u09c7\u09a8\u09b9\u09be"
     ],
@@ -98,7 +101,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -108,7 +111,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":428617,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q682035"
     },
     "wof:country":"BR",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101947541,
-    "wof:lastmodified":1563243946,
+    "wof:lastmodified":1566624421,
     "wof:name":"Carnaubeira da Penha",
     "wof:parent_id":102056581,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.655685,
     "lbl:longitude":-49.067695,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.655685,
     "mps:longitude":-49.067695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u09aa\u09cb\u098f\u09ae\u09be"
     ],
@@ -115,7 +118,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -127,7 +130,7 @@
         "fct:id":"0388919a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3407319,
         "gp:id":422256,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q609102",
         "wk:page":"Arapoema"
     },
@@ -146,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563246838,
+    "wof:lastmodified":1566625817,
     "wof:name":"Arapoema",
     "wof:parent_id":102062473,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.256418,
     "lbl:longitude":-47.093288,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.256418,
     "mps:longitude":-47.093288,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Jacare"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Local urban major",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":106,
     "wof:belongsto":[
         85682041,
@@ -53,7 +56,7 @@
     "wof:concordances":{
         "gn:id":6317346,
         "gp:id":456890,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"75acd17fe5ca42ab0d1aef5bb755316f",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101965323,
-    "wof:lastmodified":1564139243,
+    "wof:lastmodified":1566623445,
     "wof:name":"Jacar\u00e9",
     "wof:parent_id":404566207,
     "wof:placetype":"locality",

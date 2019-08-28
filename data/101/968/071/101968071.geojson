@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-23.64125,
     "lbl:longitude":-49.969949,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.64125,
     "mps:longitude":-49.969949,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09cb\u09ad\u09c7\u09b0\u09cd\u09a8\u09be\u09a1\u09cb\u09b0\u09cd \u09b2\u09cb\u09ae\u09be\u09a8\u099f\u09cb \u099c\u09c1\u09a8\u09bf\u0993\u09b0"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681983,
         102191577,
@@ -108,7 +111,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7776394,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"6c769a03f315f87b45cfe946af4f2149",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101968071,
-    "wof:lastmodified":1564141066,
+    "wof:lastmodified":1566624873,
     "wof:name":"Barro Preto",
     "wof:parent_id":404562025,
     "wof:placetype":"locality",

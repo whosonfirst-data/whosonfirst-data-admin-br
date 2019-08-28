@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-24.759021,
     "lbl:longitude":-51.764104,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-24.759021,
     "mps:longitude":-51.764104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u099f\u09be\u0999\u09cd\u0997\u09be"
     ],
@@ -101,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681983,
@@ -115,7 +118,6 @@
         "fct:id":"03876702-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3453478,
         "gp:id":457829,
-        "qs:id":181594,
         "qs_pg:id":181594,
         "wd:id":"Q1802922"
     },
@@ -135,7 +137,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841070,
+    "wof:lastmodified":1566623580,
     "wof:name":"Pitanga",
     "wof:parent_id":404561647,
     "wof:placetype":"locality",

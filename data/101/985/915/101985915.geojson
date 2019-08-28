@@ -12,9 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-9.124284,
     "lbl:longitude":-38.207285,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-9.124284,
     "mps:longitude":-38.207285,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:a1":"*PE",
     "qs:a1_lc":"26",
@@ -30,7 +34,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681973,
         102191577,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":458136,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"c0b63353fd1c3c65664a426c4e6af909",
+    "wof:geomhash":"983c5d22b8889748f928d771b6fcb6ad",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101985915,
-    "wof:lastmodified":1479931505,
+    "wof:lastmodified":1566624506,
     "wof:name":"Aldeia Saco dos Barros",
     "wof:parent_id":404560459,
     "wof:placetype":"locality",

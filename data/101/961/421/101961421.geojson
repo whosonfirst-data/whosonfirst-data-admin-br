@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.448803,
     "lbl:longitude":-54.988216,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.448803,
     "mps:longitude":-54.988216,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rio Negro"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681947,
         102191577,
@@ -115,9 +118,11 @@
         "fct:id":"0386dd32-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451122,
         "gp:id":460792,
-        "qs:id":1,
-        "qs_pg:id":1062542,
+        "qs_pg:id":1,
         "wd:id":"Q2167306"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1062542
     },
     "wof:country":"BR",
     "wof:geomhash":"2812dd40e6a5da232829fcbb7ddf57df",
@@ -135,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245118,
+    "wof:lastmodified":1566624974,
     "wof:name":"Rio Negro",
     "wof:parent_id":404559033,
     "wof:placetype":"locality",

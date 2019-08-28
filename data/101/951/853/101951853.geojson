@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-20.889596,
     "lbl:longitude":-42.344026,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.889596,
     "mps:longitude":-42.344026,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09bf\u09b0\u09be\u09a1\u09cb\u0989\u09b0\u09cb"
     ],
@@ -103,9 +106,6 @@
     "name:swe_x_preferred":[
         "Miradouro"
     ],
-    "name:unk_x_variant":[
-        "Gl\u00f3ria"
-    ],
     "name:vie_x_preferred":[
         "Miradouro"
     ],
@@ -138,7 +138,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -151,7 +151,6 @@
         "fct:id":"03874fb0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3457128,
         "gp:id":457592,
-        "qs:id":342639,
         "qs_pg:id":342639,
         "wd:id":"Q1805342",
         "wk:page":"Miradouro"
@@ -172,7 +171,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841265,
+    "wof:lastmodified":1566625523,
     "wof:name":"Miradouro",
     "wof:parent_id":404557255,
     "wof:placetype":"locality",

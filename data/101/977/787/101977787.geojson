@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-4.726599,
     "lbl:longitude":-37.778219,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-4.726599,
     "mps:longitude":-37.778219,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09cb\u0997\u09cd\u09b0\u09be\u09a1\u09cb\u0989\u09b0\u09cb"
     ],
@@ -85,7 +88,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3396204,
         "gp:id":459702,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"ef0047e892edffc54da14911c8ad0c7b",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101977787,
-    "wof:lastmodified":1564139840,
+    "wof:lastmodified":1566623987,
     "wof:name":"Logradouro",
     "wof:parent_id":102051591,
     "wof:placetype":"locality",

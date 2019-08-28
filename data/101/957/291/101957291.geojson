@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.277305,
     "lbl:longitude":-51.443769,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.277305,
     "mps:longitude":-51.443769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09af\u09bc\u09c7\u09b0\u09ad\u09be\u09b2 \u09ad\u09c7\u09b2\u09b9\u09cb"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Erval Velho"
     ],
-    "name:unk_x_variant":[
-        "Herval Velho"
-    ],
     "name:vie_x_preferred":[
         "Erval Velho"
     ],
@@ -115,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -128,7 +128,6 @@
         "fct:id":"0387b310-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3464042,
         "gp:id":56066884,
-        "qs:id":934738,
         "qs_pg:id":934738,
         "wd:id":"Q927128",
         "wk:page":"Erval Velho"
@@ -149,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563244832,
+    "wof:lastmodified":1566624841,
     "wof:name":"Erval Velho",
     "wof:parent_id":404565385,
     "wof:placetype":"locality",

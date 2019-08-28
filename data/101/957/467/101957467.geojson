@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.900375,
     "lbl:longitude":-50.759618,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.900375,
     "mps:longitude":-50.759618,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09cd\u09aa\u09cb \u09ac\u09c7\u09b2\u09cb \u09a1\u09cb \u09b8\u09c1\u09b2"
     ],
@@ -84,9 +87,6 @@
     "name:swe_x_preferred":[
         "Campo Belo do Sul"
     ],
-    "name:unk_x_variant":[
-        "Ant\u00f4nio In\u00e1cio"
-    ],
     "name:vie_x_preferred":[
         "Campo Belo do Sul"
     ],
@@ -116,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -129,7 +129,6 @@
         "fct:id":"0387a726-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3467792,
         "gp:id":458975,
-        "qs:id":342757,
         "qs_pg:id":342757,
         "wd:id":"Q1765051",
         "wk:page":"Campo Belo do Sul"
@@ -150,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841172,
+    "wof:lastmodified":1566624837,
     "wof:name":"Campo Belo do Sul",
     "wof:parent_id":404565265,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-27.795575,
     "lbl:longitude":-50.874265,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.795575,
     "mps:longitude":-50.874265,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cerro Negro"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Cerro Negro"
     ],
-    "name:unk_x_variant":[
-        "Serro Negro"
-    ],
     "name:vie_x_preferred":[
         "Cerro Negro"
     ],
@@ -116,7 +116,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":150,
     "wof:belongsto":[
         102191577,
@@ -129,7 +129,7 @@
         "fct:id":"0387acee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3466394,
         "gp:id":459158,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1799348",
         "wk:page":"Cerro Negro, Santa Catarina"
     },
@@ -148,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841165,
+    "wof:lastmodified":1566624796,
     "wof:name":"Cerro Negro",
     "wof:parent_id":102060331,
     "wof:placetype":"locality",

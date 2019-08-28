@@ -13,6 +13,8 @@
     "iso:country":"BR",
     "lbl:latitude":-4.233134,
     "lbl:longitude":-42.282452,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-4.233134,
     "mps:longitude":-42.282452,
     "mz:hierarchy_label":1,
@@ -66,7 +68,7 @@
     "name:spa_x_preferred":[
         "Barras"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barras do Maratahoan"
     ],
     "name:vie_x_preferred":[
@@ -188,7 +190,7 @@
     "qs:type":"Centro de Zona B",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -201,7 +203,7 @@
         "fct:id":"038892d0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3406263,
         "gp:id":423843,
-        "qs:id":356829,
+        "qs_pg:id":356829,
         "wd:id":"Q808836"
     },
     "wof:country":"BR",
@@ -219,7 +221,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563247388,
+    "wof:lastmodified":1566626076,
     "wof:name":"Barras",
     "wof:parent_id":102056945,
     "wof:placetype":"locality",

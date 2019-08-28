@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-18.00345,
     "lbl:longitude":-43.379483,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-18.00345,
     "mps:longitude":-43.379483,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u0997\u09cb\u09a8\u0995\u09be\u09b2\u09cb \u09a1\u09cb \u09b0\u09bf\u0993 \u09aa\u09cd\u09b0\u09c7\u099f\u09cb"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"Local urban medium",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":386,
     "wof:belongsto":[
         85681941,
@@ -123,7 +126,7 @@
         "fct:id":"038983a2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6318441,
         "gp:id":55944210,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1787350",
         "wk:page":"S\u00e3o Gon\u00e7alo do Rio Preto"
     },
@@ -143,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841256,
+    "wof:lastmodified":1566625475,
     "wof:name":"S\u00e3o Gon\u00e7alo do Rio Preto",
     "wof:parent_id":404556359,
     "wof:placetype":"locality",

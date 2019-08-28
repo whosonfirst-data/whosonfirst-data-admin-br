@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.296311,
     "lbl:longitude":-53.507968,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-28.296311,
     "mps:longitude":-53.507968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09a8\u09be\u09ae\u09ac\u09bf"
     ],
@@ -81,9 +84,6 @@
     "name:spa_x_preferred":[
         "Panambi"
     ],
-    "name:unk_x_variant":[
-        "Pindorama"
-    ],
     "name:vie_x_preferred":[
         "Panambi"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -127,7 +127,6 @@
         "fct:id":"0386d076-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3455281,
         "gp:id":456381,
-        "qs:id":148046,
         "qs_pg:id":148046,
         "wd:id":"Q348206"
     },
@@ -146,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841225,
+    "wof:lastmodified":1566625259,
     "wof:name":"Panambi",
     "wof:parent_id":102059705,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-22.725415,
     "lbl:longitude":-52.620322,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-22.725415,
     "mps:longitude":-52.620322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:arz_x_preferred":[
         "\u062a\u064a\u0631\u0627 \u0631\u064a\u0643\u0627"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681983,
@@ -126,7 +129,6 @@
         "fct:id":"0387e98e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3446581,
         "gp:id":461404,
-        "qs:id":147883,
         "qs_pg:id":147883,
         "wd:id":"Q1814454",
         "wk:page":"Terra Rica"
@@ -147,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563245988,
+    "wof:lastmodified":1566625368,
     "wof:name":"Terra Rica",
     "wof:parent_id":404561985,
     "wof:placetype":"locality",

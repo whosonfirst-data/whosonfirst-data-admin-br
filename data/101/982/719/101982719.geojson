@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-6.242342,
     "lbl:longitude":-49.284479,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-6.242342,
     "mps:longitude":-49.284479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Viveiro"
     ],
@@ -136,7 +139,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":799,
     "wof:belongsto":[
         102191577,
@@ -146,7 +149,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"2f2b760fc7f70f49b609b02ed45b766f",
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":101982719,
-    "wof:lastmodified":1564140841,
+    "wof:lastmodified":1566624656,
     "wof:name":"Viveiro",
     "wof:parent_id":102055767,
     "wof:placetype":"locality",

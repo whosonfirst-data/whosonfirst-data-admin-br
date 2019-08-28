@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-7.071369,
     "lbl:longitude":-36.579517,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-7.071369,
     "mps:longitude":-36.579517,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09c1\u09f1\u09be\u099c\u09af\u09bc\u09c7\u0987\u09b0\u09bf\u09a8\u09b9\u09cb"
     ],
@@ -73,7 +76,7 @@
     "name:spa_x_preferred":[
         "Juazeirinho"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Joazeiro"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -120,10 +123,12 @@
         "fct:id":"038802f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3397175,
         "gp:id":437266,
-        "qs:id":1159380,
         "qs_pg:id":147704,
         "wd:id":"Q1815979",
         "wk:page":"Juazeirinho"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1159380
     },
     "wof:country":"BR",
     "wof:geomhash":"fbf9ebc3d633c467f536ad6c3a793e4b",
@@ -140,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841119,
+    "wof:lastmodified":1566624244,
     "wof:name":"Juazeirinho",
     "wof:parent_id":102056203,
     "wof:placetype":"locality",

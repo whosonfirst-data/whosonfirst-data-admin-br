@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-11.357284,
     "lbl:longitude":-37.660177,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.357284,
     "mps:longitude":-37.660177,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u09f1\u09be"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":854,
     "wof:belongsto":[
         102191577,
@@ -89,7 +92,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"9693169f28ab663012596583a0035cdc",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101990003,
-    "wof:lastmodified":1564139496,
+    "wof:lastmodified":1566623659,
     "wof:name":"Tau\u00e1",
     "wof:parent_id":102060987,
     "wof:placetype":"locality",

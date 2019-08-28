@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-28.526664,
     "lbl:longitude":-49.000531,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.526664,
     "mps:longitude":-49.000531,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a8\u0997\u09cb\u09a8\u09b9\u09be\u09b8"
     ],
@@ -139,7 +142,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682021,
         102191577,
@@ -150,7 +153,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":456001,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"51cccad3790f3a4a6d892fe6e6129d5d",
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101989011,
-    "wof:lastmodified":1564142165,
+    "wof:lastmodified":1566625792,
     "wof:name":"Congonhas",
     "wof:parent_id":404565961,
     "wof:placetype":"locality",

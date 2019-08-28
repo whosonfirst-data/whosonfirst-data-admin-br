@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-19.171564,
     "lbl:longitude":-41.863475,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.171564,
     "mps:longitude":-41.863475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09a8\u09b9\u09cb\u09ae\u09bf"
     ],
@@ -88,9 +91,6 @@
     "name:swe_x_preferred":[
         "Itanhomi"
     ],
-    "name:unk_x_variant":[
-        "Itanhomy"
-    ],
     "name:vie_x_preferred":[
         "Itanhomi"
     ],
@@ -124,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681941,
         102191577,
@@ -137,7 +137,6 @@
         "fct:id":"0386c072-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3460780,
         "gp:id":456260,
-        "qs:id":181333,
         "qs_pg:id":181333,
         "wd:id":"Q1791526",
         "wk:page":"Itanhomi"
@@ -158,7 +157,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841087,
+    "wof:lastmodified":1566623782,
     "wof:name":"Itanhomi",
     "wof:parent_id":404556745,
     "wof:placetype":"locality",

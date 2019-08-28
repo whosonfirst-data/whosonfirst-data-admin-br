@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.301618,
     "lbl:longitude":-52.828861,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.301618,
     "mps:longitude":-52.828861,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u09b0\u09bf\u099f\u09be \u09a1\u09cb \u09aa\u09be\u09b0\u09cd\u09a1\u09cb"
     ],
@@ -126,7 +129,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -138,7 +141,7 @@
         "fct:id":"038820d4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6318291,
         "gp:id":458287,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1806537",
         "wk:page":"Santa Rita do Pardo"
     },
@@ -157,7 +160,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841193,
+    "wof:lastmodified":1566624984,
     "wof:name":"Santa Rita do Pardo",
     "wof:parent_id":102055321,
     "wof:placetype":"locality",

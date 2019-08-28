@@ -13,10 +13,13 @@
     "iso:country":"BR",
     "lbl:latitude":-15.320336,
     "lbl:longitude":-49.564211,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-15.320336,
     "mps:longitude":-49.564211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u09af\u09bc\u09be\u09b2\u09ae\u09be"
     ],
@@ -74,9 +77,6 @@
     "name:rus_x_preferred":[
         "\u0420\u0438\u0430\u043b\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Rialmas"
-    ],
     "name:vie_x_preferred":[
         "Rialma"
     ],
@@ -106,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681925,
@@ -120,7 +120,6 @@
         "fct:id":"0387d8d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3451403,
         "gp:id":460770,
-        "qs:id":843869,
         "qs_pg:id":843869,
         "wd:id":"Q258992",
         "wk:page":"Rialma"
@@ -141,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841064,
+    "wof:lastmodified":1566623529,
     "wof:name":"Rialma",
     "wof:parent_id":404554909,
     "wof:placetype":"locality",

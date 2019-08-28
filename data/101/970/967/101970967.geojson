@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-13.624576,
     "lbl:longitude":-42.15528,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-13.624576,
     "mps:longitude":-42.15528,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09be\u0987\u09ac\u09be\u09b8"
     ],
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "Cara\u00edbas"
     ],
-    "name:unk_x_variant":[
-        "Carna\u00edbas"
-    ],
     "name:vie_x_preferred":[
         "Cara\u00edbas"
     ],
@@ -115,7 +115,7 @@
     "qs:type":"Local other",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         85681895,
@@ -129,7 +129,7 @@
         "fct:id":"03803ca2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3467061,
         "gp:id":428613,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1800637"
     },
     "wof:country":"BR",
@@ -148,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563243230,
+    "wof:lastmodified":1566624134,
     "wof:name":"Cara\u00edbas",
     "wof:parent_id":404551685,
     "wof:placetype":"locality",

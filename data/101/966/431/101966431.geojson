@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-21.603333,
     "lbl:longitude":-41.842507,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-21.603333,
     "mps:longitude":-41.842507,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u0997\u09c7\u09b2\u09bf\u09ae"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Local urban minor",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681991,
         102191577,
@@ -92,7 +95,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BR",
     "wof:geomhash":"e9fc4a66a0c7fd9d7f145ef3f77bf09f",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101966431,
-    "wof:lastmodified":1564141194,
+    "wof:lastmodified":1566625021,
     "wof:name":"Angelim",
     "wof:parent_id":404562541,
     "wof:placetype":"locality",

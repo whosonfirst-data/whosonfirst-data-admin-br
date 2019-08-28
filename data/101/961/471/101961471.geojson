@@ -12,10 +12,13 @@
     "iso:country":"BR",
     "lbl:latitude":-16.007223,
     "lbl:longitude":-54.913792,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-16.007223,
     "mps:longitude":-54.913792,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09aa\u09c7\u09a1\u09cd\u09b0\u09cb \u09a1\u09be \u09b8\u09bf\u09aa\u09be"
     ],
@@ -111,7 +114,7 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":99,
     "wof:belongsto":[
         102191577,
@@ -124,7 +127,7 @@
         "fct:id":"03890738-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3448349,
         "gp:id":451100,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1805550",
         "wk:page":"S\u00e3o Pedro da Cipa"
     },
@@ -143,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561841185,
+    "wof:lastmodified":1566624938,
     "wof:name":"S\u00e3o Pedro da Cipa",
     "wof:parent_id":102055595,
     "wof:placetype":"locality",
