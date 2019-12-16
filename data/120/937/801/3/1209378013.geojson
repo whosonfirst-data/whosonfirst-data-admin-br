@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681983,
+        102057477
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"f99e6e32e2a44b94966490c83c9a4063",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209378013
+            "county_id":102057477,
+            "locality_id":1209378013,
+            "region_id":85681983
         }
     ],
     "wof:id":1209378013,
-    "wof:lastmodified":1566622024,
+    "wof:lastmodified":1576534336,
     "wof:name":"Sitio Bela Vista",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057477,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

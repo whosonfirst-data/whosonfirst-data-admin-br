@@ -84,7 +84,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681955,
+        102191577,
+        404559185,
+        85633009,
+        102055429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,14 +98,18 @@
     "wof:geomhash":"6f01afb8b5bc063f8606951589fc4417",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209079903
+            "county_id":102055429,
+            "localadmin_id":404559185,
+            "locality_id":1209079903,
+            "region_id":85681955
         }
     ],
     "wof:id":1209079903,
-    "wof:lastmodified":1566621945,
+    "wof:lastmodified":1576532889,
     "wof:name":"Cabral",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559185,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

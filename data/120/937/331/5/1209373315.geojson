@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681999,
+        102058631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"54651cebbdf40795a7dd724238874f3f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209373315
+            "county_id":102058631,
+            "locality_id":1209373315,
+            "region_id":85681999
         }
     ],
     "wof:id":1209373315,
-    "wof:lastmodified":1566622013,
+    "wof:lastmodified":1576535296,
     "wof:name":"Pocete",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058631,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

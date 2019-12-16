@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404555101,
+        85633009,
+        102053371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"423b53e8bd905303973ebdb1802ec075",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209497457
+            "county_id":102053371,
+            "localadmin_id":404555101,
+            "locality_id":1209497457,
+            "region_id":85681941
         }
     ],
     "wof:id":1209497457,
-    "wof:lastmodified":1566622147,
+    "wof:lastmodified":1576526639,
     "wof:name":"Tabocais",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

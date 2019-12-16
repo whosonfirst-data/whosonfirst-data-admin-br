@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566737,
+        85633009,
+        102061729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"43fcacc9d56994d05783d205239e2ee5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209376361
+            "county_id":102061729,
+            "localadmin_id":404566737,
+            "locality_id":1209376361,
+            "region_id":85682041
         }
     ],
     "wof:id":1209376361,
-    "wof:lastmodified":1566622024,
+    "wof:lastmodified":1576537158,
     "wof:name":"Vila Martins",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566737,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

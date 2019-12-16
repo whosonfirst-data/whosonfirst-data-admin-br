@@ -53,7 +53,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404555537,
+        85633009,
+        102053281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +67,18 @@
     "wof:geomhash":"66dcb6a15621a62519f63979aad3255d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209088643
+            "county_id":102053281,
+            "localadmin_id":404555537,
+            "locality_id":1209088643,
+            "region_id":85681941
         }
     ],
     "wof:id":1209088643,
-    "wof:lastmodified":1566622010,
+    "wof:lastmodified":1576526386,
     "wof:name":"Marques",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555537,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

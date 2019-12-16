@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682015,
+        102191577,
+        404564597,
+        85633009,
+        102059903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"3de39119674b6534cb718b073041d2cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209370987
+            "county_id":102059903,
+            "localadmin_id":404564597,
+            "locality_id":1209370987,
+            "region_id":85682015
         }
     ],
     "wof:id":1209370987,
-    "wof:lastmodified":1566622016,
+    "wof:lastmodified":1576535761,
     "wof:name":"Timbauva",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404564597,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681873,
+        102050013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"fc6991454f87ffd5c56fba969da24610",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209632795
+            "county_id":102050013,
+            "locality_id":1209632795,
+            "region_id":85681873
         }
     ],
     "wof:id":1209632795,
-    "wof:lastmodified":1566622028,
+    "wof:lastmodified":1576522907,
     "wof:name":"Barraca Santa Ana",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050013,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

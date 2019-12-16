@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404555541,
+        85633009,
+        102053281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"7cee6a8e0f8ac11359aeb0db5a8fb921",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209585947
+            "county_id":102053281,
+            "localadmin_id":404555541,
+            "locality_id":1209585947,
+            "region_id":85681941
         }
     ],
     "wof:id":1209585947,
-    "wof:lastmodified":1566622221,
+    "wof:lastmodified":1576526386,
     "wof:name":"Lucios",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555541,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

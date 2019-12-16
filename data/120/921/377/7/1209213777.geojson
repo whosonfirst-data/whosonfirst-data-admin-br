@@ -110,7 +110,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404550469,
+        85633009,
+        102050517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,14 +124,18 @@
     "wof:geomhash":"105825ff1c87a6a4e8b85bc64d5a9553",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209213777
+            "county_id":102050517,
+            "localadmin_id":404550469,
+            "locality_id":1209213777,
+            "region_id":85681895
         }
     ],
     "wof:id":1209213777,
-    "wof:lastmodified":1566622349,
+    "wof:lastmodified":1576523292,
     "wof:name":"Barra",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550469,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

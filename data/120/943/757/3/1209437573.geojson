@@ -47,7 +47,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551711,
+        85633009,
+        102051133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +61,18 @@
     "wof:geomhash":"30dcc0ccdf7a5267f2b98c2ce2109818",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209437573
+            "county_id":102051133,
+            "localadmin_id":404551711,
+            "locality_id":1209437573,
+            "region_id":85681895
         }
     ],
     "wof:id":1209437573,
-    "wof:lastmodified":1566622399,
+    "wof:lastmodified":1576524183,
     "wof:name":"Pintado",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551711,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

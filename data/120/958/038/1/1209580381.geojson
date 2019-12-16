@@ -89,7 +89,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681977,
+        102057375
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,14 +102,17 @@
     "wof:geomhash":"8dbd1f641a6ec6f9d59b9d5c3d18a3c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209580381
+            "county_id":102057375,
+            "locality_id":1209580381,
+            "region_id":85681977
         }
     ],
     "wof:id":1209580381,
-    "wof:lastmodified":1566622223,
+    "wof:lastmodified":1576534258,
     "wof:name":"Formiga",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057375,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

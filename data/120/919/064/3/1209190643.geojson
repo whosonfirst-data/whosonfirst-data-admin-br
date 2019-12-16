@@ -89,7 +89,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681967,
+        102056037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,14 +102,17 @@
     "wof:geomhash":"c3b2d39d36e0510a0fe292b00b02a285",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209190643
+            "county_id":102056037,
+            "locality_id":1209190643,
+            "region_id":85681967
         }
     ],
     "wof:id":1209190643,
-    "wof:lastmodified":1566622344,
+    "wof:lastmodified":1576533835,
     "wof:name":"Malhada",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056037,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

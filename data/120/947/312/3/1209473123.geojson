@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682015,
+        102191577,
+        404563703,
+        85633009,
+        102059461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"277839090c113bfa876164c217a3ac93",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209473123
+            "county_id":102059461,
+            "localadmin_id":404563703,
+            "locality_id":1209473123,
+            "region_id":85682015
         }
     ],
     "wof:id":1209473123,
-    "wof:lastmodified":1566622131,
+    "wof:lastmodified":1576535613,
     "wof:name":"Cristo Redentor",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404563703,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

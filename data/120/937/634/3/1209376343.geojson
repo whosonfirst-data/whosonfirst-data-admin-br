@@ -92,7 +92,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567579,
+        85633009,
+        102062359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,14 +106,18 @@
     "wof:geomhash":"2926537f4cc64d8516ac61730978b6a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209376343
+            "county_id":102062359,
+            "localadmin_id":404567579,
+            "locality_id":1209376343,
+            "region_id":85682041
         }
     ],
     "wof:id":1209376343,
-    "wof:lastmodified":1566622016,
+    "wof:lastmodified":1576538425,
     "wof:name":"Estiva",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567579,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

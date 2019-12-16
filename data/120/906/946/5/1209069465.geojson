@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561755,
+        85633009,
+        102058087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"45a2bd85fd4cdf002a02181022ff196d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209069465
+            "county_id":102058087,
+            "localadmin_id":404561755,
+            "locality_id":1209069465,
+            "region_id":85681983
         }
     ],
     "wof:id":1209069465,
-    "wof:lastmodified":1566621993,
+    "wof:lastmodified":1576534691,
     "wof:name":"Cachoeira do Espirito Santo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

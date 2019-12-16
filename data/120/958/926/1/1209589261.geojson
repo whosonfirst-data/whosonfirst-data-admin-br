@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681955,
+        102191577,
+        404559255,
+        85633009,
+        102055489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"cd2246fa201d3ee04164df23b5bbfe98",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209589261
+            "county_id":102055489,
+            "localadmin_id":404559255,
+            "locality_id":1209589261,
+            "region_id":85681955
         }
     ],
     "wof:id":1209589261,
-    "wof:lastmodified":1566622233,
+    "wof:lastmodified":1576532943,
     "wof:name":"Porto do Acai",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559255,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

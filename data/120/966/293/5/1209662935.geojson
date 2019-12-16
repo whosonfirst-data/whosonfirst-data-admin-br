@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566631,
+        85633009,
+        102061615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"5992c682a0376c518a841ca7b63b00ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209662935
+            "county_id":102061615,
+            "localadmin_id":404566631,
+            "locality_id":1209662935,
+            "region_id":85682041
         }
     ],
     "wof:id":1209662935,
-    "wof:lastmodified":1566622190,
+    "wof:lastmodified":1576537008,
     "wof:name":"Stio Ana Martins",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566631,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

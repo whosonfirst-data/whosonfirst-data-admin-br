@@ -113,7 +113,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566063,
+        85633009,
+        102061013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,14 +127,18 @@
     "wof:geomhash":"28f66ebf4144bbde026308ad3649dba4",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209376353
+            "county_id":102061013,
+            "localadmin_id":404566063,
+            "locality_id":1209376353,
+            "region_id":85682041
         }
     ],
     "wof:id":1209376353,
-    "wof:lastmodified":1566622018,
+    "wof:lastmodified":1576536467,
     "wof:name":"Araraquara",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

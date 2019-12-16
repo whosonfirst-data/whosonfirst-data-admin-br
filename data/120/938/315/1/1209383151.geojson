@@ -50,7 +50,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682015,
+        102191577,
+        404563503,
+        85633009,
+        102059357
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +64,18 @@
     "wof:geomhash":"33551e8e434a2268a34e33828da85b28",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209383151
+            "county_id":102059357,
+            "localadmin_id":404563503,
+            "locality_id":1209383151,
+            "region_id":85682015
         }
     ],
     "wof:id":1209383151,
-    "wof:lastmodified":1566621939,
+    "wof:lastmodified":1576535589,
     "wof:name":"Delfino",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404563503,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

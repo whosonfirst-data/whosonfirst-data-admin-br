@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681999,
+        102058827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"8f48e05bc3d1f7b62b7a3178f4ce3d38",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209272891
+            "county_id":102058827,
+            "locality_id":1209272891,
+            "region_id":85681999
         }
     ],
     "wof:id":1209272891,
-    "wof:lastmodified":1566622281,
+    "wof:lastmodified":1576535350,
     "wof:name":"Abelhas",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681983,
+        102057495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"89db73ac345d0a5084e7809399a0d9d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209280575
+            "county_id":102057495,
+            "locality_id":1209280575,
+            "region_id":85681983
         }
     ],
     "wof:id":1209280575,
-    "wof:lastmodified":1566622373,
+    "wof:lastmodified":1576534354,
     "wof:name":"Sitio Imobiliaria Dois Mil",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567483,
+        85633009,
+        102062263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"5731ada6206863aa9406838dd4b9be3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209576961
+            "county_id":102062263,
+            "localadmin_id":404567483,
+            "locality_id":1209576961,
+            "region_id":85682041
         }
     ],
     "wof:id":1209576961,
-    "wof:lastmodified":1566622167,
+    "wof:lastmodified":1576537840,
     "wof:name":"Retiro da Serra",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567483,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

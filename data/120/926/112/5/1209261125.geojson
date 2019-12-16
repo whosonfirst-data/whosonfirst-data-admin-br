@@ -101,7 +101,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681973,
+        102056489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,14 +114,17 @@
     "wof:geomhash":"9d752ee93ddeb02868e7466d4f32cbdb",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209261125
+            "county_id":102056489,
+            "locality_id":1209261125,
+            "region_id":85681973
         }
     ],
     "wof:id":1209261125,
-    "wof:lastmodified":1566622342,
+    "wof:lastmodified":1576533939,
     "wof:name":"Cachoeira",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056489,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

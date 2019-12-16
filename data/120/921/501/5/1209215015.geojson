@@ -47,7 +47,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681885,
+        102191577,
+        404550295,
+        85633009,
+        102050403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +61,18 @@
     "wof:geomhash":"33f3670ba487f1349bac5bf3bd5449ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209215015
+            "county_id":102050403,
+            "localadmin_id":404550295,
+            "locality_id":1209215015,
+            "region_id":85681885
         }
     ],
     "wof:id":1209215015,
-    "wof:lastmodified":1566622350,
+    "wof:lastmodified":1576523114,
     "wof:name":"Bauta",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550295,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

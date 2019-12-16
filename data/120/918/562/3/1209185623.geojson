@@ -69,7 +69,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681967,
+        102056019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,14 +82,17 @@
     "wof:geomhash":"9ba5736c1d32831a3f3c9df672797f86",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209185623
+            "county_id":102056019,
+            "locality_id":1209185623,
+            "region_id":85681967
         }
     ],
     "wof:id":1209185623,
-    "wof:lastmodified":1566622304,
+    "wof:lastmodified":1576533830,
     "wof:name":"Barauna",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

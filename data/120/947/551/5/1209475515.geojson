@@ -44,7 +44,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        404560727,
+        85633009,
+        102056845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +58,18 @@
     "wof:geomhash":"93a2da27eed2103e13db453aa65ca455",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209475515
+            "county_id":102056845,
+            "localadmin_id":404560727,
+            "locality_id":1209475515,
+            "region_id":85681973
         }
     ],
     "wof:id":1209475515,
-    "wof:lastmodified":1566622124,
+    "wof:lastmodified":1576534052,
     "wof:name":"Ilha",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

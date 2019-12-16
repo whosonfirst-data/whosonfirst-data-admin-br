@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404558673,
+        85633009,
+        102055103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"eefd431de847d5d6af5fa4419f2c16b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209284677
+            "county_id":102055103,
+            "localadmin_id":404558673,
+            "locality_id":1209284677,
+            "region_id":85681941
         }
     ],
     "wof:id":1209284677,
-    "wof:lastmodified":1566622370,
+    "wof:lastmodified":1576532382,
     "wof:name":"Retirada da Esplanada",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558673,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

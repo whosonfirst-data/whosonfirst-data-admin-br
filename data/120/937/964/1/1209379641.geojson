@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681977,
+        102057207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"e599cebd067df7abb3914e9be7a7c0a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209379641
+            "county_id":102057207,
+            "locality_id":1209379641,
+            "region_id":85681977
         }
     ],
     "wof:id":1209379641,
-    "wof:lastmodified":1566622015,
+    "wof:lastmodified":1576534181,
     "wof:name":"Fazenda Tarao",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057207,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

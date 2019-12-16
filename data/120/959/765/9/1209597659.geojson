@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404558161,
+        85633009,
+        102054819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"ff85a1bff78c90065f656833bea59012",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209597659
+            "county_id":102054819,
+            "localadmin_id":404558161,
+            "locality_id":1209597659,
+            "region_id":85681941
         }
     ],
     "wof:id":1209597659,
-    "wof:lastmodified":1566622195,
+    "wof:lastmodified":1576531011,
     "wof:name":"Caloji",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558161,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

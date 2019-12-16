@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        404560745,
+        85633009,
+        102056849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"8619a6d32781a799e629da2123ba9783",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209565453
+            "county_id":102056849,
+            "localadmin_id":404560745,
+            "locality_id":1209565453,
+            "region_id":85681973
         }
     ],
     "wof:id":1209565453,
-    "wof:lastmodified":1566622242,
+    "wof:lastmodified":1576534056,
     "wof:name":"Sabonete",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

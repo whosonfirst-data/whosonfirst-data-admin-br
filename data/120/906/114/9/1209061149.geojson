@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682021,
+        102191577,
+        404565769,
+        85633009,
+        102060653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"ff4f7cfc68153c8dfa32588a33ce010d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209061149
+            "county_id":102060653,
+            "localadmin_id":404565769,
+            "locality_id":1209061149,
+            "region_id":85682021
         }
     ],
     "wof:id":1209061149,
-    "wof:lastmodified":1566622000,
+    "wof:lastmodified":1576536244,
     "wof:name":"Barra Ribeirao da Onca",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404565769,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

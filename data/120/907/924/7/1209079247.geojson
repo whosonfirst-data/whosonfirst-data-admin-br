@@ -44,7 +44,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404556815,
+        85633009,
+        102054133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +58,18 @@
     "wof:geomhash":"4e8a344ec0f698cab188e0aca9bc6e62",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209079247
+            "county_id":102054133,
+            "localadmin_id":404556815,
+            "locality_id":1209079247,
+            "region_id":85681941
         }
     ],
     "wof:id":1209079247,
-    "wof:lastmodified":1566621948,
+    "wof:lastmodified":1576528983,
     "wof:name":"Antonio Pereira",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404556815,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

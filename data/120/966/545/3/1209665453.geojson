@@ -92,7 +92,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        404560181,
+        85633009,
+        102056529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,14 +106,18 @@
     "wof:geomhash":"26ca3792e392e2e03c1f2aa20ce29a92",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209665453
+            "county_id":102056529,
+            "localadmin_id":404560181,
+            "locality_id":1209665453,
+            "region_id":85681973
         }
     ],
     "wof:id":1209665453,
-    "wof:lastmodified":1566622191,
+    "wof:lastmodified":1576533951,
     "wof:name":"Ipueira",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560181,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

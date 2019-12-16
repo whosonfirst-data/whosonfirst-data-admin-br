@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681967,
+        102191577,
+        404560057,
+        85633009,
+        102056407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"19e9966d0fdc3611186a106ab1dc527b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209391149
+            "county_id":102056407,
+            "localadmin_id":404560057,
+            "locality_id":1209391149,
+            "region_id":85681967
         }
     ],
     "wof:id":1209391149,
-    "wof:lastmodified":1566621989,
+    "wof:lastmodified":1576533913,
     "wof:name":"Galante",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560057,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

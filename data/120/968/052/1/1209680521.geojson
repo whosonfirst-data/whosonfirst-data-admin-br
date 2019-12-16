@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681977,
+        102057073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"35ff4392335ee5c4a07d1972ea0cc187",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209680521
+            "county_id":102057073,
+            "locality_id":1209680521,
+            "region_id":85681977
         }
     ],
     "wof:id":1209680521,
-    "wof:lastmodified":1566622174,
+    "wof:lastmodified":1576534134,
     "wof:name":"Baluarte",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -41,7 +41,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551941,
+        85633009,
+        102051257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +55,18 @@
     "wof:geomhash":"52f0fa40b9dc5c6c65270583aae05f3e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209437579
+            "county_id":102051257,
+            "localadmin_id":404551941,
+            "locality_id":1209437579,
+            "region_id":85681895
         }
     ],
     "wof:id":1209437579,
-    "wof:lastmodified":1566622398,
+    "wof:lastmodified":1576524487,
     "wof:name":"Beija-Flor",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551941,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682015,
+        102191577,
+        404563353,
+        85633009,
+        102059251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"291161c04a0e1fb20ad2c3cb94130767",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209370979
+            "county_id":102059251,
+            "localadmin_id":404563353,
+            "locality_id":1209370979,
+            "region_id":85682015
         }
     ],
     "wof:id":1209370979,
-    "wof:lastmodified":1566622019,
+    "wof:lastmodified":1576535566,
     "wof:name":"Zanetti",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404563353,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -86,7 +86,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681977,
+        102057205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,14 +99,17 @@
     "wof:geomhash":"f24b551a500fa9a720e274e7042b9f54",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209476773
+            "county_id":102057205,
+            "locality_id":1209476773,
+            "region_id":85681977
         }
     ],
     "wof:id":1209476773,
-    "wof:lastmodified":1566622137,
+    "wof:lastmodified":1576534179,
     "wof:name":"Marco",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

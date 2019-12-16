@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561845,
+        85633009,
+        102058161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"ae3788736a2eec05c5a7af0238bf9f66",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209280619
+            "county_id":102058161,
+            "localadmin_id":404561845,
+            "locality_id":1209280619,
+            "region_id":85681983
         }
     ],
     "wof:id":1209280619,
-    "wof:lastmodified":1566622371,
+    "wof:lastmodified":1576534753,
     "wof:name":"Sitio Santa Barbara",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561845,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

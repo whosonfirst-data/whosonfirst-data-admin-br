@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681983,
+        102058255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"bb51c0d92b542c05f588d76874399f35",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209177313
+            "county_id":102058255,
+            "locality_id":1209177313,
+            "region_id":85681983
         }
     ],
     "wof:id":1209177313,
-    "wof:lastmodified":1566622355,
+    "wof:lastmodified":1576534843,
     "wof:name":"Sitio Joao Valoski",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058255,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

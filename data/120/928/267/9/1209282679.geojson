@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682003,
+        102191577,
+        404562839,
+        85633009,
+        102058925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"5d6e77e16ea4537bba6602c5b3113d23",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209282679
+            "county_id":102058925,
+            "localadmin_id":404562839,
+            "locality_id":1209282679,
+            "region_id":85682003
         }
     ],
     "wof:id":1209282679,
-    "wof:lastmodified":1566622366,
+    "wof:lastmodified":1576535374,
     "wof:name":"Presidente Hermes",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

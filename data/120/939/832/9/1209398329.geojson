@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681955,
+        102191577,
+        404559389,
+        85633009,
+        102055615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"4ab9681c065963a276960fe828eab91d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209398329
+            "county_id":102055615,
+            "localadmin_id":404559389,
+            "locality_id":1209398329,
+            "region_id":85681955
         }
     ],
     "wof:id":1209398329,
-    "wof:lastmodified":1566621986,
+    "wof:lastmodified":1576533227,
     "wof:name":"Tapera Espirito Santo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559389,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

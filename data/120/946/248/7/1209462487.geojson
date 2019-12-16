@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566063,
+        85633009,
+        102061013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"b557c912d7206edadde82b3d50adf12c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209462487
+            "county_id":102061013,
+            "localadmin_id":404566063,
+            "locality_id":1209462487,
+            "region_id":85682041
         }
     ],
     "wof:id":1209462487,
-    "wof:lastmodified":1566622093,
+    "wof:lastmodified":1576536467,
     "wof:name":"Joao Marques",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566525,
+        85633009,
+        102061531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"e6f6cf4032fde0e80c197180c35821e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209054091
+            "county_id":102061531,
+            "localadmin_id":404566525,
+            "locality_id":1209054091,
+            "region_id":85682041
         }
     ],
     "wof:id":1209054091,
-    "wof:lastmodified":1566622258,
+    "wof:lastmodified":1576536859,
     "wof:name":"Sitio Grande",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

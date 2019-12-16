@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681947,
+        102191577,
+        404558879,
+        85633009,
+        102055227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"0336a22a33f1f088fd0e35a65911017f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209493293
+            "county_id":102055227,
+            "localadmin_id":404558879,
+            "locality_id":1209493293,
+            "region_id":85681947
         }
     ],
     "wof:id":1209493293,
-    "wof:lastmodified":1566622146,
+    "wof:lastmodified":1576532647,
     "wof:name":"Guanandi",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558879,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

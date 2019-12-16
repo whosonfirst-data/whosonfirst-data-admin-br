@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85682041,
+        102061405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"7d52491f23b7f3468e2b09e53498a868",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209369079
+            "county_id":102061405,
+            "locality_id":1209369079,
+            "region_id":85682041
         }
     ],
     "wof:id":1209369079,
-    "wof:lastmodified":1566621924,
+    "wof:lastmodified":1576536724,
     "wof:name":"Porto Matarazzo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102061405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

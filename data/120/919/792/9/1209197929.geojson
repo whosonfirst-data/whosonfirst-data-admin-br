@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681955,
+        102055445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"d10c9608f22b67594d97c6ac68de2c10",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209197929
+            "county_id":102055445,
+            "locality_id":1209197929,
+            "region_id":85681955
         }
     ],
     "wof:id":1209197929,
-    "wof:lastmodified":1566622345,
+    "wof:lastmodified":1576532910,
     "wof:name":"Porto dos Meinacos",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055445,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

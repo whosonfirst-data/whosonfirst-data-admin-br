@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681959,
+        102191577,
+        404559481,
+        85633009,
+        102055687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +53,18 @@
     "wof:geomhash":"6cd080e96f1d8984d77032c96272c827",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209387473
+            "county_id":102055687,
+            "localadmin_id":404559481,
+            "locality_id":1209387473,
+            "region_id":85681959
         }
     ],
     "wof:id":1209387473,
-    "wof:lastmodified":1566621939,
+    "wof:lastmodified":1576533314,
     "wof:name":"Parada Vinte e Nove",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559481,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

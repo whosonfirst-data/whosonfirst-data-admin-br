@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681967,
+        102191577,
+        404559887,
+        85633009,
+        102056097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"c4f297058b2c0c1a5ca59ec4609a081f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209378413
+            "county_id":102056097,
+            "localadmin_id":404559887,
+            "locality_id":1209378413,
+            "region_id":85681967
         }
     ],
     "wof:id":1209378413,
-    "wof:lastmodified":1566622022,
+    "wof:lastmodified":1576533850,
     "wof:name":"Aguazinha",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

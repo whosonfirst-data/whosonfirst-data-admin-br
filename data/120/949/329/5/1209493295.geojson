@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681947,
+        102055261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"dc08c0e619ea044e8df12c36b070ac32",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209493295
+            "county_id":102055261,
+            "locality_id":1209493295,
+            "region_id":85681947
         }
     ],
     "wof:id":1209493295,
-    "wof:lastmodified":1566622146,
+    "wof:lastmodified":1576532688,
     "wof:name":"Porto Laguna",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055261,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

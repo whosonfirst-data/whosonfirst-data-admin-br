@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561917,
+        85633009,
+        102058193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"493fc5f0dfdc7e639e71cf674f395bc6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209180313
+            "county_id":102058193,
+            "localadmin_id":404561917,
+            "locality_id":1209180313,
+            "region_id":85681983
         }
     ],
     "wof:id":1209180313,
-    "wof:lastmodified":1566622297,
+    "wof:lastmodified":1576534791,
     "wof:name":"Sitio Pedro Cardoso",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561917,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

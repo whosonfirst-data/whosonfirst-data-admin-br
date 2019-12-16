@@ -110,7 +110,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681885,
+        102050417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,14 +123,17 @@
     "wof:geomhash":"b8ce5e1cbcc5069fb522d58671ef8231",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209010549
+            "county_id":102050417,
+            "locality_id":1209010549,
+            "region_id":85681885
         }
     ],
     "wof:id":1209010549,
-    "wof:lastmodified":1566621981,
+    "wof:lastmodified":1576523132,
     "wof:name":"Boa Vista",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

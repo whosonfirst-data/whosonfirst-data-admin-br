@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681967,
+        102191577,
+        404559857,
+        85633009,
+        102056059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"968b28e7e599352350439b33b7aa21b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209687285
+            "county_id":102056059,
+            "localadmin_id":404559857,
+            "locality_id":1209687285,
+            "region_id":85681967
         }
     ],
     "wof:id":1209687285,
-    "wof:lastmodified":1566622181,
+    "wof:lastmodified":1576533840,
     "wof:name":"Bartolomeu",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

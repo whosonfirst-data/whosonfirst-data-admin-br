@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567485,
+        85633009,
+        102062263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"043ad70b3891bc0aacd4295e0f9d58b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209262051
+            "county_id":102062263,
+            "localadmin_id":404567485,
+            "locality_id":1209262051,
+            "region_id":85682041
         }
     ],
     "wof:id":1209262051,
-    "wof:lastmodified":1566622339,
+    "wof:lastmodified":1576537838,
     "wof:name":"Sitio do Gentil",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567485,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

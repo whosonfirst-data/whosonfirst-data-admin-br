@@ -50,7 +50,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404557067,
+        85633009,
+        102054255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +64,18 @@
     "wof:geomhash":"c3eee75731d0a2ecf29c1dc4342318fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209497437
+            "county_id":102054255,
+            "localadmin_id":404557067,
+            "locality_id":1209497437,
+            "region_id":85681941
         }
     ],
     "wof:id":1209497437,
-    "wof:lastmodified":1566622146,
+    "wof:lastmodified":1576529712,
     "wof:name":"Rancho",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404557067,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -74,7 +74,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404560849,
+        85633009,
+        102057429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,14 +88,18 @@
     "wof:geomhash":"77a1be70f20dcdfefa0850b70f487eaa",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209072383
+            "county_id":102057429,
+            "localadmin_id":404560849,
+            "locality_id":1209072383,
+            "region_id":85681983
         }
     ],
     "wof:id":1209072383,
-    "wof:lastmodified":1566621953,
+    "wof:lastmodified":1576534314,
     "wof:name":"Alto Alegre",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

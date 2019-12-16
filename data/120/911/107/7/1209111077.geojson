@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551843,
+        85633009,
+        102051199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"48afda8a2da97fb0f9691165eb96bf1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209111077
+            "county_id":102051199,
+            "localadmin_id":404551843,
+            "locality_id":1209111077,
+            "region_id":85681895
         }
     ],
     "wof:id":1209111077,
-    "wof:lastmodified":1566622266,
+    "wof:lastmodified":1576524256,
     "wof:name":"Pateirao",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681967,
+        102191577,
+        404560055,
+        85633009,
+        102056397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"bf5d59d9ca9fcc35585256dfaf5cb295",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209077597
+            "county_id":102056397,
+            "localadmin_id":404560055,
+            "locality_id":1209077597,
+            "region_id":85681967
         }
     ],
     "wof:id":1209077597,
-    "wof:lastmodified":1566621952,
+    "wof:lastmodified":1576533908,
     "wof:name":"Fundao",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

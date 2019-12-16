@@ -59,7 +59,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681967,
+        102056369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,14 +72,17 @@
     "wof:geomhash":"94c159514865a66c86f78b49753e171d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209082465
+            "county_id":102056369,
+            "locality_id":1209082465,
+            "region_id":85681967
         }
     ],
     "wof:id":1209082465,
-    "wof:lastmodified":1566622008,
+    "wof:lastmodified":1576533897,
     "wof:name":"Figueira",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056369,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681921,
+        102191577,
+        404554251,
+        85633009,
+        102051851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"8c80d51113a5a212b89ab6b8b53b75fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209505765
+            "county_id":102051851,
+            "localadmin_id":404554251,
+            "locality_id":1209505765,
+            "region_id":85681921
         }
     ],
     "wof:id":1209505765,
-    "wof:lastmodified":1566622158,
+    "wof:lastmodified":1576524915,
     "wof:name":"Liberdade",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404554251,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

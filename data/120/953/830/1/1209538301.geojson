@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551949,
+        85633009,
+        102051265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"85fb1da99898884bbb5a4afd945d42af",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209538301
+            "county_id":102051265,
+            "localadmin_id":404551949,
+            "locality_id":1209538301,
+            "region_id":85681895
         }
     ],
     "wof:id":1209538301,
-    "wof:lastmodified":1566621960,
+    "wof:lastmodified":1576524494,
     "wof:name":"Desempenho",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

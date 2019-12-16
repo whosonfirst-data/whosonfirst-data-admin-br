@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681931,
+        102191577,
+        404555005,
+        85633009,
+        102052893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"2064e0e815fb25d573dc160496710fe5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209092657
+            "county_id":102052893,
+            "localadmin_id":404555005,
+            "locality_id":1209092657,
+            "region_id":85681931
         }
     ],
     "wof:id":1209092657,
-    "wof:lastmodified":1566621923,
+    "wof:lastmodified":1576525882,
     "wof:name":"Sao Raimundo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555005,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

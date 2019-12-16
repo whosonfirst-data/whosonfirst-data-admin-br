@@ -53,7 +53,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681999,
+        102191577,
+        404562707,
+        85633009,
+        102058789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +67,18 @@
     "wof:geomhash":"ef1c8b67483615dbd0779f680af3f815",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209473353
+            "county_id":102058789,
+            "localadmin_id":404562707,
+            "locality_id":1209473353,
+            "region_id":85681999
         }
     ],
     "wof:id":1209473353,
-    "wof:lastmodified":1566622133,
+    "wof:lastmodified":1576535332,
     "wof:name":"Caicara",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562707,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

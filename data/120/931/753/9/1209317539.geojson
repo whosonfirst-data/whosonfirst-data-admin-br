@@ -75,7 +75,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681879,
+        102191577,
+        404550193,
+        85633009,
+        102050209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,14 +89,18 @@
     "wof:geomhash":"29c7855c52ad1d988701ae2b674cadf8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209317539
+            "county_id":102050209,
+            "localadmin_id":404550193,
+            "locality_id":1209317539,
+            "region_id":85681879
         }
     ],
     "wof:id":1209317539,
-    "wof:lastmodified":1566621928,
+    "wof:lastmodified":1576523005,
     "wof:name":"Mirador",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550193,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

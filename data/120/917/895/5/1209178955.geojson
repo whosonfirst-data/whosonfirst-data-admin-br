@@ -86,7 +86,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681977,
+        102057253
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,14 +99,17 @@
     "wof:geomhash":"8aaeca4cc2f7bd9e62c2fc09fc80eb04",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209178955
+            "county_id":102057253,
+            "locality_id":1209178955,
+            "region_id":85681977
         }
     ],
     "wof:id":1209178955,
-    "wof:lastmodified":1566622357,
+    "wof:lastmodified":1576534205,
     "wof:name":"Ingazeira",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057253,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681991,
+        102191577,
+        404562255,
+        85633009,
+        102058359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"297a6e96d811dd37299a2768a4ddaa63",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209183073
+            "county_id":102058359,
+            "localadmin_id":404562255,
+            "locality_id":1209183073,
+            "region_id":85681991
         }
     ],
     "wof:id":1209183073,
-    "wof:lastmodified":1566622293,
+    "wof:lastmodified":1576535018,
     "wof:name":"Vila Equitativa",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562255,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

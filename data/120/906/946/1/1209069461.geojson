@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561221,
+        85633009,
+        102057711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"fc8ed6774f41f8e3aa0e1377614dc9fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209069461
+            "county_id":102057711,
+            "localadmin_id":404561221,
+            "locality_id":1209069461,
+            "region_id":85681983
         }
     ],
     "wof:id":1209069461,
-    "wof:lastmodified":1566621993,
+    "wof:lastmodified":1576534488,
     "wof:name":"Ponta do Lanco",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561221,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

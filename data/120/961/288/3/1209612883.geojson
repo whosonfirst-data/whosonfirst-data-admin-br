@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553865,
+        85633009,
+        102051763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"1d2e6547a22d10e46ae827bab93e4c28",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209612883
+            "county_id":102051763,
+            "localadmin_id":404553865,
+            "locality_id":1209612883,
+            "region_id":85681907
         }
     ],
     "wof:id":1209612883,
-    "wof:lastmodified":1566622184,
+    "wof:lastmodified":1576524804,
     "wof:name":"Fazenda Espera",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

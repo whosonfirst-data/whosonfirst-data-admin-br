@@ -68,7 +68,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404555675,
+        85633009,
+        102053353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,14 +82,18 @@
     "wof:geomhash":"36b94c856003d117f2ebae57e32835c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209388071
+            "county_id":102053353,
+            "localadmin_id":404555675,
+            "locality_id":1209388071,
+            "region_id":85681941
         }
     ],
     "wof:id":1209388071,
-    "wof:lastmodified":1566621941,
+    "wof:lastmodified":1576526611,
     "wof:name":"Bois",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555675,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

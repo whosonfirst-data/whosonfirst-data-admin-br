@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681983,
+        102057535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"87216abbc0b7191f8d771ee5b3ad7564",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209277421
+            "county_id":102057535,
+            "locality_id":1209277421,
+            "region_id":85681983
         }
     ],
     "wof:id":1209277421,
-    "wof:lastmodified":1566622291,
+    "wof:lastmodified":1576534396,
     "wof:name":"Sitio Cecilia Grebo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

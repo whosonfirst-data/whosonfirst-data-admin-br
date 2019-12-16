@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553221,
+        85633009,
+        102051623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"15be6008bd421bc37731f05a069e6085",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209028589
+            "county_id":102051623,
+            "localadmin_id":404553221,
+            "locality_id":1209028589,
+            "region_id":85681907
         }
     ],
     "wof:id":1209028589,
-    "wof:lastmodified":1566622262,
+    "wof:lastmodified":1576524761,
     "wof:name":"Sitio da Lagoa de Pedra",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553221,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

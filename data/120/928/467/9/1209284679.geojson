@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404555793,
+        85633009,
+        102053595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"2982f6eb10c27b52a3e355d356d2c9f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209284679
+            "county_id":102053595,
+            "localadmin_id":404555793,
+            "locality_id":1209284679,
+            "region_id":85681941
         }
     ],
     "wof:id":1209284679,
-    "wof:lastmodified":1566622370,
+    "wof:lastmodified":1576527504,
     "wof:name":"Jacuba",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

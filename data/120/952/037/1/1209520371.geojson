@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404550935,
+        85633009,
+        102050751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"47349a6a187bbf73dc5c0d955102f892",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209520371
+            "county_id":102050751,
+            "localadmin_id":404550935,
+            "locality_id":1209520371,
+            "region_id":85681895
         }
     ],
     "wof:id":1209520371,
-    "wof:lastmodified":1566622047,
+    "wof:lastmodified":1576523646,
     "wof:name":"Barra do Barao",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550935,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

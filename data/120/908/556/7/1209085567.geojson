@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681931,
+        102053149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"9eed998608e41abfe7d0239d53ab43c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209085567
+            "county_id":102053149,
+            "locality_id":1209085567,
+            "region_id":85681931
         }
     ],
     "wof:id":1209085567,
-    "wof:lastmodified":1566622004,
+    "wof:lastmodified":1576526048,
     "wof:name":"Bacue",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102053149,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

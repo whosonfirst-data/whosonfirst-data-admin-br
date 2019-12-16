@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566107,
+        85633009,
+        102061055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"1cc71d368ef789b242152772a077f825",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209362259
+            "county_id":102061055,
+            "localadmin_id":404566107,
+            "locality_id":1209362259,
+            "region_id":85682041
         }
     ],
     "wof:id":1209362259,
-    "wof:lastmodified":1566621927,
+    "wof:lastmodified":1576536492,
     "wof:name":"Sitio Takigushi",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566107,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

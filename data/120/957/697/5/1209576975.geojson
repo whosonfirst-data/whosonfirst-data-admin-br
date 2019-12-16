@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567257,
+        85633009,
+        102062253
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"91ac1cbc5ed50139f8e8de3798be5523",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209576975
+            "county_id":102062253,
+            "localadmin_id":404567257,
+            "locality_id":1209576975,
+            "region_id":85682041
         }
     ],
     "wof:id":1209576975,
-    "wof:lastmodified":1566622166,
+    "wof:lastmodified":1576537764,
     "wof:name":"Capuava",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567257,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

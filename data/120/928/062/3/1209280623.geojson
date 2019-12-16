@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681983,
+        102057441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"e4713673c0f691b7731bd98310e89baa",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209280623
+            "county_id":102057441,
+            "locality_id":1209280623,
+            "region_id":85681983
         }
     ],
     "wof:id":1209280623,
-    "wof:lastmodified":1566622366,
+    "wof:lastmodified":1576534321,
     "wof:name":"Invernada da Cruz",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057441,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

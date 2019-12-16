@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567485,
+        85633009,
+        102062263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"24552977d5e04b5b9911502b27a890bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209677047
+            "county_id":102062263,
+            "localadmin_id":404567485,
+            "locality_id":1209677047,
+            "region_id":85682041
         }
     ],
     "wof:id":1209677047,
-    "wof:lastmodified":1566622218,
+    "wof:lastmodified":1576537841,
     "wof:name":"Sitio Pedra Grande",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567485,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681947,
+        102191577,
+        404559007,
+        85633009,
+        102055299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"0455d8f6fbd28143cbac68ae77bf6ad2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209295543
+            "county_id":102055299,
+            "localadmin_id":404559007,
+            "locality_id":1209295543,
+            "region_id":85681947
         }
     ],
     "wof:id":1209295543,
-    "wof:lastmodified":1566622276,
+    "wof:lastmodified":1576532701,
     "wof:name":"Nova Jales",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

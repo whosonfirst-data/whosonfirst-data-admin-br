@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553839,
+        85633009,
+        102051759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"8336a389b8d9116f00b36ed3fe7f5bfe",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209028603
+            "county_id":102051759,
+            "localadmin_id":404553839,
+            "locality_id":1209028603,
+            "region_id":85681907
         }
     ],
     "wof:id":1209028603,
-    "wof:lastmodified":1566622261,
+    "wof:lastmodified":1576524800,
     "wof:name":"Fazenda Pedra Amarela",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

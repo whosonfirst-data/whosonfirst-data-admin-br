@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404555537,
+        85633009,
+        102053281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"e4292c1208b23470de592afec1d45f26",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209497447
+            "county_id":102053281,
+            "localadmin_id":404555537,
+            "locality_id":1209497447,
+            "region_id":85681941
         }
     ],
     "wof:id":1209497447,
-    "wof:lastmodified":1566622145,
+    "wof:lastmodified":1576526386,
     "wof:name":"Boa Vitoria",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555537,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

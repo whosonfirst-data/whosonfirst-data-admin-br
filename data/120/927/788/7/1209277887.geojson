@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681967,
+        102191577,
+        404559929,
+        85633009,
+        102056135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"55a831b0b805a31faa907ea49f70c4dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209277887
+            "county_id":102056135,
+            "localadmin_id":404559929,
+            "locality_id":1209277887,
+            "region_id":85681967
         }
     ],
     "wof:id":1209277887,
-    "wof:lastmodified":1566622287,
+    "wof:lastmodified":1576533857,
     "wof:name":"Barandao",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559929,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -47,7 +47,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404552503,
+        85633009,
+        102051461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +61,18 @@
     "wof:geomhash":"009fe9d0509e865dd2ce1b3db7002820",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209212269
+            "county_id":102051461,
+            "localadmin_id":404552503,
+            "locality_id":1209212269,
+            "region_id":85681907
         }
     ],
     "wof:id":1209212269,
-    "wof:lastmodified":1566622347,
+    "wof:lastmodified":1576524716,
     "wof:name":"Chapada",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404552503,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

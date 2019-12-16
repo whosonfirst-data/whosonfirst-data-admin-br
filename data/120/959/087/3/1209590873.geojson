@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681983,
+        102058255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"b1013b739d8eaf3d60c1562f4ffc906b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209590873
+            "county_id":102058255,
+            "locality_id":1209590873,
+            "region_id":85681983
         }
     ],
     "wof:id":1209590873,
-    "wof:lastmodified":1566622201,
+    "wof:lastmodified":1576534841,
     "wof:name":"Sitio Antonio Grebogi",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058255,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

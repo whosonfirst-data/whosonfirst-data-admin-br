@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567383,
+        85633009,
+        102062255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"3e55063b75d0d6891ef4cc307e6ab8a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209562757
+            "county_id":102062255,
+            "localadmin_id":404567383,
+            "locality_id":1209562757,
+            "region_id":85682041
         }
     ],
     "wof:id":1209562757,
-    "wof:lastmodified":1566622241,
+    "wof:lastmodified":1576537792,
     "wof:name":"Sitio Santa Teresinha",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

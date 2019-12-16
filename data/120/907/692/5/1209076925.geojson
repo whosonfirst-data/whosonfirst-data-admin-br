@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681955,
+        102191577,
+        404559143,
+        85633009,
+        102055393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"651a89882ac8c57d8d7a670f7f7910ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209076925
+            "county_id":102055393,
+            "localadmin_id":404559143,
+            "locality_id":1209076925,
+            "region_id":85681955
         }
     ],
     "wof:id":1209076925,
-    "wof:lastmodified":1566621948,
+    "wof:lastmodified":1576532841,
     "wof:name":"Feitoria do Guariroba",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559143,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

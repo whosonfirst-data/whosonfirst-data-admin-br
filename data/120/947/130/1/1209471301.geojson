@@ -50,7 +50,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681999,
+        102058707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +63,17 @@
     "wof:geomhash":"a028ab475b78b8a56846b70c3d97bd77",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209471301
+            "county_id":102058707,
+            "locality_id":1209471301,
+            "region_id":85681999
         }
     ],
     "wof:id":1209471301,
-    "wof:lastmodified":1566622134,
+    "wof:lastmodified":1576535316,
     "wof:name":"Amoroso",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058707,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

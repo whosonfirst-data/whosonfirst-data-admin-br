@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567579,
+        85633009,
+        102062359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"ffafc21bad196846a6a1a79b07a61d1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209168565
+            "county_id":102062359,
+            "localadmin_id":404567579,
+            "locality_id":1209168565,
+            "region_id":85682041
         }
     ],
     "wof:id":1209168565,
-    "wof:lastmodified":1566622271,
+    "wof:lastmodified":1576538425,
     "wof:name":"Sitio Bom Jesus do Tiete",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567579,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

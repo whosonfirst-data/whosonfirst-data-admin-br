@@ -41,7 +41,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681955,
+        102191577,
+        404559383,
+        85633009,
+        102055615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +55,18 @@
     "wof:geomhash":"65ef447947d4a97abae7c35751f7540c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209197915
+            "county_id":102055615,
+            "localadmin_id":404559383,
+            "locality_id":1209197915,
+            "region_id":85681955
         }
     ],
     "wof:id":1209197915,
-    "wof:lastmodified":1566622343,
+    "wof:lastmodified":1576533227,
     "wof:name":"Pocinho",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

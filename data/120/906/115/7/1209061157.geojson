@@ -89,7 +89,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682021,
+        102191577,
+        404565677,
+        85633009,
+        102060593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,14 +103,18 @@
     "wof:geomhash":"38ceb9e9022317ffd7076924d812ff9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209061157
+            "county_id":102060593,
+            "localadmin_id":404565677,
+            "locality_id":1209061157,
+            "region_id":85682021
         }
     ],
     "wof:id":1209061157,
-    "wof:lastmodified":1566621999,
+    "wof:lastmodified":1576536223,
     "wof:name":"Jaqueira",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404565677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

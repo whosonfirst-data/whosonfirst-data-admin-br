@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681955,
+        102191577,
+        404559321,
+        85633009,
+        102055549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"60034f521eafb1cd41bf143b5c5fe0eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209184977
+            "county_id":102055549,
+            "localadmin_id":404559321,
+            "locality_id":1209184977,
+            "region_id":85681955
         }
     ],
     "wof:id":1209184977,
-    "wof:lastmodified":1566622296,
+    "wof:lastmodified":1576533053,
     "wof:name":"Fazenda Sao Miguel",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

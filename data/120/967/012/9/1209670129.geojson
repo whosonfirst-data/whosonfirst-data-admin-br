@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682021,
+        102191577,
+        404565879,
+        85633009,
+        102060749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,14 +68,18 @@
     "wof:geomhash":"e619d6173b8e7e8f088f8c5997d92d9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209670129
+            "county_id":102060749,
+            "localadmin_id":404565879,
+            "locality_id":1209670129,
+            "region_id":85682021
         }
     ],
     "wof:id":1209670129,
-    "wof:lastmodified":1566622213,
+    "wof:lastmodified":1576536346,
     "wof:name":"Laranjeiras",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404565879,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

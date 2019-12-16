@@ -53,7 +53,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681991,
+        102191577,
+        404562625,
+        85633009,
+        102058495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +67,18 @@
     "wof:geomhash":"f90af41a2c5e29b85d5f90e52cad42d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209579949
+            "county_id":102058495,
+            "localadmin_id":404562625,
+            "locality_id":1209579949,
+            "region_id":85681991
         }
     ],
     "wof:id":1209579949,
-    "wof:lastmodified":1566622165,
+    "wof:lastmodified":1576535250,
     "wof:name":"Rio Preto",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562625,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

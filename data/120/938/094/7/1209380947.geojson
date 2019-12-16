@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561011,
+        85633009,
+        102057557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"6e1ecc6c829959982a212f29142f7c47",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209380947
+            "county_id":102057557,
+            "localadmin_id":404561011,
+            "locality_id":1209380947,
+            "region_id":85681983
         }
     ],
     "wof:id":1209380947,
-    "wof:lastmodified":1566621943,
+    "wof:lastmodified":1576534415,
     "wof:name":"Sitio Jose P. Batista",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561011,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

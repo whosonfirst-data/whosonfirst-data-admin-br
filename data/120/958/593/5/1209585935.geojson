@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404556627,
+        85633009,
+        102054029
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"a0db3836ebcc38831d99ac3c1ffedb76",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209585935
+            "county_id":102054029,
+            "localadmin_id":404556627,
+            "locality_id":1209585935,
+            "region_id":85681941
         }
     ],
     "wof:id":1209585935,
-    "wof:lastmodified":1566622222,
+    "wof:lastmodified":1576528778,
     "wof:name":"Imbe",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404556627,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        404560727,
+        85633009,
+        102056845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"af876bd9a92ec0be13cd9e31abb00811",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209274953
+            "county_id":102056845,
+            "localadmin_id":404560727,
+            "locality_id":1209274953,
+            "region_id":85681973
         }
     ],
     "wof:id":1209274953,
-    "wof:lastmodified":1566622285,
+    "wof:lastmodified":1576534052,
     "wof:name":"Varzea do Algodao",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

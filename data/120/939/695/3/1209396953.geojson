@@ -98,7 +98,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681959,
+        102191577,
+        404559773,
+        85633009,
+        102055921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,14 +112,18 @@
     "wof:geomhash":"7eb3aae7b7da201c4d9981eebdbbfc03",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209396953
+            "county_id":102055921,
+            "localadmin_id":404559773,
+            "locality_id":1209396953,
+            "region_id":85681959
         }
     ],
     "wof:id":1209396953,
-    "wof:lastmodified":1566621986,
+    "wof:lastmodified":1576533680,
     "wof:name":"Rio Branco",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559773,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

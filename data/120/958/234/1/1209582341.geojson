@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682021,
+        102191577,
+        404565517,
+        85633009,
+        102060467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"bb0455b0dcef0a6e87e6803e8b9d933c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209582341
+            "county_id":102060467,
+            "localadmin_id":404565517,
+            "locality_id":1209582341,
+            "region_id":85682021
         }
     ],
     "wof:id":1209582341,
-    "wof:lastmodified":1566622226,
+    "wof:lastmodified":1576536130,
     "wof:name":"Paraguacu",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404565517,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

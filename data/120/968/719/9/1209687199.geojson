@@ -62,7 +62,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681931,
+        102052949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,14 +75,17 @@
     "wof:geomhash":"41f3fd8eac1527ab43626bc60da46a28",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209687199
+            "county_id":102052949,
+            "locality_id":1209687199,
+            "region_id":85681931
         }
     ],
     "wof:id":1209687199,
-    "wof:lastmodified":1566622180,
+    "wof:lastmodified":1576525925,
     "wof:name":"Gato",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102052949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

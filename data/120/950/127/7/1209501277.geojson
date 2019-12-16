@@ -59,7 +59,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681931,
+        102191577,
+        404555083,
+        85633009,
+        102053179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,14 +73,18 @@
     "wof:geomhash":"c1f451cb9166fde25d40f1218b0530d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209501277
+            "county_id":102053179,
+            "localadmin_id":404555083,
+            "locality_id":1209501277,
+            "region_id":85681931
         }
     ],
     "wof:id":1209501277,
-    "wof:lastmodified":1566622157,
+    "wof:lastmodified":1576526072,
     "wof:name":"Tibiri",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555083,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

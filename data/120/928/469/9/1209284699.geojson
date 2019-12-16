@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404558179,
+        85633009,
+        102054831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"1d1a6ce4c4a0b555163ffe0e0858abc2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209284699
+            "county_id":102054831,
+            "localadmin_id":404558179,
+            "locality_id":1209284699,
+            "region_id":85681941
         }
     ],
     "wof:id":1209284699,
-    "wof:lastmodified":1566622370,
+    "wof:lastmodified":1576531127,
     "wof:name":"Roncador",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558179,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

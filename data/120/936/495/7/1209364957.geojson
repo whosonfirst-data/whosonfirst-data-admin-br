@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        404560745,
+        85633009,
+        102056849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"9f0c93fc1b4d920402f995be34356439",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209364957
+            "county_id":102056849,
+            "localadmin_id":404560745,
+            "locality_id":1209364957,
+            "region_id":85681973
         }
     ],
     "wof:id":1209364957,
-    "wof:lastmodified":1566621928,
+    "wof:lastmodified":1576534056,
     "wof:name":"Lagoa Nova (1)",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

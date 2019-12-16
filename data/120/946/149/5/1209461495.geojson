@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        404560731,
+        85633009,
+        102056845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"4cbe2163e5c79c1c8752e5b3e745c3fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209461495
+            "county_id":102056845,
+            "localadmin_id":404560731,
+            "locality_id":1209461495,
+            "region_id":85681973
         }
     ],
     "wof:id":1209461495,
-    "wof:lastmodified":1566622096,
+    "wof:lastmodified":1576534052,
     "wof:name":"Riacho da Onca",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560731,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

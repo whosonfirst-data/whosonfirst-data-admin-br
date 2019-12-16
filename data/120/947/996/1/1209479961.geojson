@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681977,
+        102056915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"911bf98d9019d49f19ff54a248a30599",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209479961
+            "county_id":102056915,
+            "locality_id":1209479961,
+            "region_id":85681977
         }
     ],
     "wof:id":1209479961,
-    "wof:lastmodified":1566622124,
+    "wof:lastmodified":1576534074,
     "wof:name":"Bom Passar",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056915,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85682003,
+        102058969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"44e37485bb9eeecb59e0fe329a9185e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209272357
+            "county_id":102058969,
+            "locality_id":1209272357,
+            "region_id":85682003
         }
     ],
     "wof:id":1209272357,
-    "wof:lastmodified":1566622282,
+    "wof:lastmodified":1576535422,
     "wof:name":"Torno Largo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058969,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

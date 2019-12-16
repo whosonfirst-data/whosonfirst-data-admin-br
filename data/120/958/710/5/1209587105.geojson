@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681967,
+        102056475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"53fdf058175d55d41f66ac3e30d25ea9",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209587105
+            "county_id":102056475,
+            "locality_id":1209587105,
+            "region_id":85681967
         }
     ],
     "wof:id":1209587105,
-    "wof:lastmodified":1566622232,
+    "wof:lastmodified":1576533933,
     "wof:name":"Rio do Peixe",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056475,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

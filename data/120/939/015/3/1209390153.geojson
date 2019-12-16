@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561843,
+        85633009,
+        102058157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"c7fabcc9e36b8a55552ce1622e7a794d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209390153
+            "county_id":102058157,
+            "localadmin_id":404561843,
+            "locality_id":1209390153,
+            "region_id":85681983
         }
     ],
     "wof:id":1209390153,
-    "wof:lastmodified":1566621984,
+    "wof:lastmodified":1576534744,
     "wof:name":"Sitio Antonio Piculo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

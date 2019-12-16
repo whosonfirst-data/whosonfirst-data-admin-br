@@ -56,7 +56,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404558573,
+        85633009,
+        102055061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,14 +70,18 @@
     "wof:geomhash":"dd3180fbf900f80ecd0677e2a6d47cc7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209585941
+            "county_id":102055061,
+            "localadmin_id":404558573,
+            "locality_id":1209585941,
+            "region_id":85681941
         }
     ],
     "wof:id":1209585941,
-    "wof:lastmodified":1566622221,
+    "wof:lastmodified":1576532246,
     "wof:name":"Prazeres",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558573,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561845,
+        85633009,
+        102058161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"72daf5f1a92714ebeae09f05b8b343f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209180315
+            "county_id":102058161,
+            "localadmin_id":404561845,
+            "locality_id":1209180315,
+            "region_id":85681983
         }
     ],
     "wof:id":1209180315,
-    "wof:lastmodified":1566622297,
+    "wof:lastmodified":1576534754,
     "wof:name":"Sitio Nova Aurora",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561845,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

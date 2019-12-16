@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681955,
+        102191577,
+        404559321,
+        85633009,
+        102055549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"f4abe1657af8962303d5f0861c2e68ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209197975
+            "county_id":102055549,
+            "localadmin_id":404559321,
+            "locality_id":1209197975,
+            "region_id":85681955
         }
     ],
     "wof:id":1209197975,
-    "wof:lastmodified":1566622342,
+    "wof:lastmodified":1576533053,
     "wof:name":"Sitio",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

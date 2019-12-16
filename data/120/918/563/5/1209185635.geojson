@@ -92,7 +92,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681967,
+        102191577,
+        404559997,
+        85633009,
+        102056277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,14 +106,18 @@
     "wof:geomhash":"45a4425aab9cb7d49329a1cc85c64a7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209185635
+            "county_id":102056277,
+            "localadmin_id":404559997,
+            "locality_id":1209185635,
+            "region_id":85681967
         }
     ],
     "wof:id":1209185635,
-    "wof:lastmodified":1566622302,
+    "wof:lastmodified":1576533878,
     "wof:name":"Garra",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559997,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

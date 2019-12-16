@@ -163,7 +163,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681947,
+        102191577,
+        404558879,
+        85633009,
+        102055227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -173,14 +177,18 @@
     "wof:geomhash":"07fb3766eac46fefdfe8e21d5ef01ca2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209192389
+            "county_id":102055227,
+            "localadmin_id":404558879,
+            "locality_id":1209192389,
+            "region_id":85681947
         }
     ],
     "wof:id":1209192389,
-    "wof:lastmodified":1566622345,
+    "wof:lastmodified":1576532646,
     "wof:name":"Santa Fe",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558879,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

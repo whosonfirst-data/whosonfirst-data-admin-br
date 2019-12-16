@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681921,
+        102191577,
+        404554535,
+        85633009,
+        102051935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"6803df2388d64bb2a7c2cd406d0a8961",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209600709
+            "county_id":102051935,
+            "localadmin_id":404554535,
+            "locality_id":1209600709,
+            "region_id":85681921
         }
     ],
     "wof:id":1209600709,
-    "wof:lastmodified":1566622235,
+    "wof:lastmodified":1576525061,
     "wof:name":"Patrimonio da Penha",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404554535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

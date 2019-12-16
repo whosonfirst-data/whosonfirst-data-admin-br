@@ -50,7 +50,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566121,
+        85633009,
+        102061061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +64,18 @@
     "wof:geomhash":"7c926a8b864b00ceae5a03ac2b033bb0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209067781
+            "county_id":102061061,
+            "localadmin_id":404566121,
+            "locality_id":1209067781,
+            "region_id":85682041
         }
     ],
     "wof:id":1209067781,
-    "wof:lastmodified":1566621993,
+    "wof:lastmodified":1576536504,
     "wof:name":"Campo do Meio",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

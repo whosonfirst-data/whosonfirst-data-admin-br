@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551487,
+        85633009,
+        102051023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"3b8e66db27c276ede2d95f6ef5231346",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209319331
+            "county_id":102051023,
+            "localadmin_id":404551487,
+            "locality_id":1209319331,
+            "region_id":85681895
         }
     ],
     "wof:id":1209319331,
-    "wof:lastmodified":1566621931,
+    "wof:lastmodified":1576524070,
     "wof:name":"Quitungo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551487,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681983,
+        102057531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"df06a2db1a583dc2fe188a8fdf7bfd9d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209378003
+            "county_id":102057531,
+            "locality_id":1209378003,
+            "region_id":85681983
         }
     ],
     "wof:id":1209378003,
-    "wof:lastmodified":1566622022,
+    "wof:lastmodified":1576534389,
     "wof:name":"Cerro Verde",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057531,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

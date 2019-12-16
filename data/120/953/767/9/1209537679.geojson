@@ -92,7 +92,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553001,
+        85633009,
+        102051571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,14 +106,18 @@
     "wof:geomhash":"03f4c002227707f1ccb09a7f1c8df1f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209537679
+            "county_id":102051571,
+            "localadmin_id":404553001,
+            "locality_id":1209537679,
+            "region_id":85681907
         }
     ],
     "wof:id":1209537679,
-    "wof:lastmodified":1566621959,
+    "wof:lastmodified":1576524747,
     "wof:name":"Serrinha",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553001,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

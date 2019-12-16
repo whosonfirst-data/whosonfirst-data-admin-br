@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404556157,
+        85633009,
+        102053777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"7342e332a75fd45af719668f84f7d434",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209588693
+            "county_id":102053777,
+            "localadmin_id":404556157,
+            "locality_id":1209588693,
+            "region_id":85681941
         }
     ],
     "wof:id":1209588693,
-    "wof:lastmodified":1566622224,
+    "wof:lastmodified":1576528023,
     "wof:name":"Domiciano Lemos",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404556157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

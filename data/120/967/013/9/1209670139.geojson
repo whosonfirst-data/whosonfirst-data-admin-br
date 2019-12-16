@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682021,
+        102191577,
+        404565787,
+        85633009,
+        102060671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"20c04eb82784c68bd50f4ed00e60e552",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209670139
+            "county_id":102060671,
+            "localadmin_id":404565787,
+            "locality_id":1209670139,
+            "region_id":85682021
         }
     ],
     "wof:id":1209670139,
-    "wof:lastmodified":1566622214,
+    "wof:lastmodified":1576536263,
     "wof:name":"Pameranos",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404565787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

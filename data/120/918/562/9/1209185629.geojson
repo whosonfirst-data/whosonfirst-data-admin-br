@@ -71,7 +71,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681967,
+        102191577,
+        404560001,
+        85633009,
+        102056277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,14 +85,18 @@
     "wof:geomhash":"bef69ec64bd49ae50bbd11f1a694b48a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209185629
+            "county_id":102056277,
+            "localadmin_id":404560001,
+            "locality_id":1209185629,
+            "region_id":85681967
         }
     ],
     "wof:id":1209185629,
-    "wof:lastmodified":1566622304,
+    "wof:lastmodified":1576533878,
     "wof:name":"Pedra Branca",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560001,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

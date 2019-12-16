@@ -62,7 +62,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681931,
+        102053243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,14 +75,17 @@
     "wof:geomhash":"ad1ad36336a40d305368ebbd094d9690",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209494495
+            "county_id":102053243,
+            "locality_id":1209494495,
+            "region_id":85681931
         }
     ],
     "wof:id":1209494495,
-    "wof:lastmodified":1566622142,
+    "wof:lastmodified":1576526103,
     "wof:name":"Frades",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102053243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

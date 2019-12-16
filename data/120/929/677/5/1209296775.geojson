@@ -95,7 +95,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404558421,
+        85633009,
+        102054959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,14 +109,18 @@
     "wof:geomhash":"ba27b91fd8afc03c6f31c3952dd08573",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209296775
+            "county_id":102054959,
+            "localadmin_id":404558421,
+            "locality_id":1209296775,
+            "region_id":85681941
         }
     ],
     "wof:id":1209296775,
-    "wof:lastmodified":1566622277,
+    "wof:lastmodified":1576531801,
     "wof:name":"Serra",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558421,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

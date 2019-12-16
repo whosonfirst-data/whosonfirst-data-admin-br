@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561843,
+        85633009,
+        102058157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"3838bdf136c6d28f9d4786633ec64321",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209681897
+            "county_id":102058157,
+            "localadmin_id":404561843,
+            "locality_id":1209681897,
+            "region_id":85681983
         }
     ],
     "wof:id":1209681897,
-    "wof:lastmodified":1566622175,
+    "wof:lastmodified":1576534745,
     "wof:name":"Sitio Dito",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

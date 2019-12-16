@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567477,
+        85633009,
+        102062257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"15fa0839bde0fc96ca64b05643f99f16",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209669495
+            "county_id":102062257,
+            "localadmin_id":404567477,
+            "locality_id":1209669495,
+            "region_id":85682041
         }
     ],
     "wof:id":1209669495,
-    "wof:lastmodified":1566622191,
+    "wof:lastmodified":1576537821,
     "wof:name":"Vicentado",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567477,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

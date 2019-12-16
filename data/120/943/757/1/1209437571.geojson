@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551183,
+        85633009,
+        102050875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"262af71f0766c0c391ae3c18e2233753",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209437571
+            "county_id":102050875,
+            "localadmin_id":404551183,
+            "locality_id":1209437571,
+            "region_id":85681895
         }
     ],
     "wof:id":1209437571,
-    "wof:lastmodified":1566622398,
+    "wof:lastmodified":1576523865,
     "wof:name":"Agua Preta",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551183,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -63,7 +63,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681947,
+        102191577,
+        404558877,
+        85633009,
+        102055227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,14 +77,18 @@
     "wof:geomhash":"d8d9368fa964162ad27dcc38a1f72eee",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209087395
+            "county_id":102055227,
+            "localadmin_id":404558877,
+            "locality_id":1209087395,
+            "region_id":85681947
         }
     ],
     "wof:id":1209087395,
-    "wof:lastmodified":1566622004,
+    "wof:lastmodified":1576532648,
     "wof:name":"Cardoso",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558877,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

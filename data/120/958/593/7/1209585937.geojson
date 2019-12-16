@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404555235,
+        85633009,
+        102053431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"46b442909994ba33b7b5eedcd45272a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209585937
+            "county_id":102053431,
+            "localadmin_id":404555235,
+            "locality_id":1209585937,
+            "region_id":85681941
         }
     ],
     "wof:id":1209585937,
-    "wof:lastmodified":1566622222,
+    "wof:lastmodified":1576526773,
     "wof:name":"Mazela",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555235,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

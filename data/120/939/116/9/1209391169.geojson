@@ -74,7 +74,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681967,
+        102056321
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,14 +87,17 @@
     "wof:geomhash":"d18d920fdade06724ba7026127e2f9e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209391169
+            "county_id":102056321,
+            "locality_id":1209391169,
+            "region_id":85681967
         }
     ],
     "wof:id":1209391169,
-    "wof:lastmodified":1566621987,
+    "wof:lastmodified":1576533885,
     "wof:name":"Poco",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

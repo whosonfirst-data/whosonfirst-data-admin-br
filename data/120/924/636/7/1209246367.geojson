@@ -62,7 +62,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404550609,
+        85633009,
+        102050599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,14 +76,18 @@
     "wof:geomhash":"3a72f95c4c2692bddc8c89d5a241ed29",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209246367
+            "county_id":102050599,
+            "localadmin_id":404550609,
+            "locality_id":1209246367,
+            "region_id":85681895
         }
     ],
     "wof:id":1209246367,
-    "wof:lastmodified":1566622109,
+    "wof:lastmodified":1576523376,
     "wof:name":"Jurema",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550609,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

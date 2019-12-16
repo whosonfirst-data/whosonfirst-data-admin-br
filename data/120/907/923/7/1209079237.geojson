@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404557753,
+        85633009,
+        102054611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"b622e490d6c393f32c7ceca42a46ea71",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209079237
+            "county_id":102054611,
+            "localadmin_id":404557753,
+            "locality_id":1209079237,
+            "region_id":85681941
         }
     ],
     "wof:id":1209079237,
-    "wof:lastmodified":1566621949,
+    "wof:lastmodified":1576530416,
     "wof:name":"Sao Miguel",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404557753,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681955,
+        102191577,
+        404559327,
+        85633009,
+        102055567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"4c13190cbcedb7a2f3bb20f7517b3a32",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209586503
+            "county_id":102055567,
+            "localadmin_id":404559327,
+            "locality_id":1209586503,
+            "region_id":85681955
         }
     ],
     "wof:id":1209586503,
-    "wof:lastmodified":1566622226,
+    "wof:lastmodified":1576533099,
     "wof:name":"Sitio Novo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559327,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

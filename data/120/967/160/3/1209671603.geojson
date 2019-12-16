@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682015,
+        102191577,
+        404563065,
+        85633009,
+        102059121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"ce4ea469ea05b408148164823312c623",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209671603
+            "county_id":102059121,
+            "localadmin_id":404563065,
+            "locality_id":1209671603,
+            "region_id":85682015
         }
     ],
     "wof:id":1209671603,
-    "wof:lastmodified":1566622212,
+    "wof:lastmodified":1576535503,
     "wof:name":"Douradinho",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404563065,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404556425,
+        85633009,
+        102053917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"e61dfc74a69521d11459eaf47505293a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209686057
+            "county_id":102053917,
+            "localadmin_id":404556425,
+            "locality_id":1209686057,
+            "region_id":85681941
         }
     ],
     "wof:id":1209686057,
-    "wof:lastmodified":1566622173,
+    "wof:lastmodified":1576528408,
     "wof:name":"Tabual",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404556425,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

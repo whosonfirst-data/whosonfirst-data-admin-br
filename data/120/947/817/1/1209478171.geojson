@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681983,
+        102058077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"2c8b3b2a6ddb5a80533b7f40fb23d1eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209478171
+            "county_id":102058077,
+            "locality_id":1209478171,
+            "region_id":85681983
         }
     ],
     "wof:id":1209478171,
-    "wof:lastmodified":1566622129,
+    "wof:lastmodified":1576534683,
     "wof:name":"Alto da Gloria",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058077,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

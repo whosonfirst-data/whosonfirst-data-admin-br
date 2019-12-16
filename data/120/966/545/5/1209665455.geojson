@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681973,
+        102056803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"6779d86a403c881d090d955be0ed5ea9",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209665455
+            "county_id":102056803,
+            "locality_id":1209665455,
+            "region_id":85681973
         }
     ],
     "wof:id":1209665455,
-    "wof:lastmodified":1566622192,
+    "wof:lastmodified":1576534023,
     "wof:name":"Sao Bento",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056803,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

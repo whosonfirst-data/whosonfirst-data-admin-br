@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681921,
+        102191577,
+        404554549,
+        85633009,
+        102051939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"a34bcc8d2293d9aa3a0f400a1a4d5071",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209605761
+            "county_id":102051939,
+            "localadmin_id":404554549,
+            "locality_id":1209605761,
+            "region_id":85681921
         }
     ],
     "wof:id":1209605761,
-    "wof:lastmodified":1566622236,
+    "wof:lastmodified":1576525074,
     "wof:name":"Morro d'Anta",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404554549,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

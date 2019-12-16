@@ -89,7 +89,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681931,
+        102053163
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,14 +102,17 @@
     "wof:geomhash":"cab71d36e4a71bdb8b84e6668051137e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209193649
+            "county_id":102053163,
+            "locality_id":1209193649,
+            "region_id":85681931
         }
     ],
     "wof:id":1209193649,
-    "wof:lastmodified":1566622343,
+    "wof:lastmodified":1576526060,
     "wof:name":"Nova Iorque",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102053163,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

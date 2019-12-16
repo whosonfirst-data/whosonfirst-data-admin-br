@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404558061,
+        85633009,
+        102054763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"4ae0763a26d817ac347d0eb81061f5dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209686061
+            "county_id":102054763,
+            "localadmin_id":404558061,
+            "locality_id":1209686061,
+            "region_id":85681941
         }
     ],
     "wof:id":1209686061,
-    "wof:lastmodified":1566622179,
+    "wof:lastmodified":1576530793,
     "wof:name":"Joaquim Prata",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558061,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

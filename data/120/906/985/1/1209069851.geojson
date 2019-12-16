@@ -71,7 +71,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681967,
+        102056393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,14 +84,17 @@
     "wof:geomhash":"8eacff008f857d14a78c6c38bcdec3fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209069851
+            "county_id":102056393,
+            "locality_id":1209069851,
+            "region_id":85681967
         }
     ],
     "wof:id":1209069851,
-    "wof:lastmodified":1566621994,
+    "wof:lastmodified":1576533906,
     "wof:name":"Prata",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056393,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

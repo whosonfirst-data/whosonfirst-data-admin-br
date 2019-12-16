@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85682041,
+        102062347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"6dc2e78637ab29a3894b6c3fdc96cdc3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209067773
+            "county_id":102062347,
+            "locality_id":1209067773,
+            "region_id":85682041
         }
     ],
     "wof:id":1209067773,
-    "wof:lastmodified":1566621995,
+    "wof:lastmodified":1576538414,
     "wof:name":"Enxovia de Baixo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102062347,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

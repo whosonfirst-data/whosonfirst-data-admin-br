@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567209,
+        85633009,
+        102062213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"b60d5682f287c7a04df08e8ce4e25eae",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209067775
+            "county_id":102062213,
+            "localadmin_id":404567209,
+            "locality_id":1209067775,
+            "region_id":85682041
         }
     ],
     "wof:id":1209067775,
-    "wof:lastmodified":1566621995,
+    "wof:lastmodified":1576537619,
     "wof:name":"Bairro Campista",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567209,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

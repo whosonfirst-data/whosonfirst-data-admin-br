@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681955,
+        102191577,
+        404559127,
+        85633009,
+        102055389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"05d32985188ef67a3c5f73e56f619c77",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209489071
+            "county_id":102055389,
+            "localadmin_id":404559127,
+            "locality_id":1209489071,
+            "region_id":85681955
         }
     ],
     "wof:id":1209489071,
-    "wof:lastmodified":1566622059,
+    "wof:lastmodified":1576532809,
     "wof:name":"Ressaca",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681983,
+        102057409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"ef003e5cdf284f625638a53f4ed8d72c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209590947
+            "county_id":102057409,
+            "locality_id":1209590947,
+            "region_id":85681983
         }
     ],
     "wof:id":1209590947,
-    "wof:lastmodified":1566622204,
+    "wof:lastmodified":1576534276,
     "wof:name":"Bairro do Capuava",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057409,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

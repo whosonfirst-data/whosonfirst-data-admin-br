@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681977,
+        102057073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"e22a5e2e4c97ae9f9727ee131c746639",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209690335
+            "county_id":102057073,
+            "locality_id":1209690335,
+            "region_id":85681977
         }
     ],
     "wof:id":1209690335,
-    "wof:lastmodified":1566622250,
+    "wof:lastmodified":1576534134,
     "wof:name":"Varzea do Meio",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

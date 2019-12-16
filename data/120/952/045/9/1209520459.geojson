@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551605,
+        85633009,
+        102051067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"d7133de6266a621018bd82d671fe2fc6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209520459
+            "county_id":102051067,
+            "localadmin_id":404551605,
+            "locality_id":1209520459,
+            "region_id":85681895
         }
     ],
     "wof:id":1209520459,
-    "wof:lastmodified":1566622047,
+    "wof:lastmodified":1576524100,
     "wof:name":"Passagem",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

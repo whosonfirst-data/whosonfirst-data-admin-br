@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681999,
+        102191577,
+        404562707,
+        85633009,
+        102058789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"6dbd429dbf43f7e1176b48227e1f88eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209573897
+            "county_id":102058789,
+            "localadmin_id":404562707,
+            "locality_id":1209573897,
+            "region_id":85681999
         }
     ],
     "wof:id":1209573897,
-    "wof:lastmodified":1566622170,
+    "wof:lastmodified":1576535332,
     "wof:name":"Cabeco de Joao Ferino",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562707,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

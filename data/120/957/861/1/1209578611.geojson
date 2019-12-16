@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561843,
+        85633009,
+        102058157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"9d53bf0866f2a5fac030d0e903f4eb04",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209578611
+            "county_id":102058157,
+            "localadmin_id":404561843,
+            "locality_id":1209578611,
+            "region_id":85681983
         }
     ],
     "wof:id":1209578611,
-    "wof:lastmodified":1566622162,
+    "wof:lastmodified":1576534746,
     "wof:name":"Sitio Semeador",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

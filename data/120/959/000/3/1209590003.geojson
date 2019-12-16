@@ -83,7 +83,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404552805,
+        85633009,
+        102051517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,14 +97,18 @@
     "wof:geomhash":"b0b89bfe9dc90620cc0bcb597465934c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209590003
+            "county_id":102051517,
+            "localadmin_id":404552805,
+            "locality_id":1209590003,
+            "region_id":85681907
         }
     ],
     "wof:id":1209590003,
-    "wof:lastmodified":1566622198,
+    "wof:lastmodified":1576524733,
     "wof:name":"Guaribas",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404552805,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        404560767,
+        85633009,
+        102056865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"c161531b49888a4ace5edae918e80fd0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209465133
+            "county_id":102056865,
+            "localadmin_id":404560767,
+            "locality_id":1209465133,
+            "region_id":85681973
         }
     ],
     "wof:id":1209465133,
-    "wof:lastmodified":1566622095,
+    "wof:lastmodified":1576534061,
     "wof:name":"Matias Vieira",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560767,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

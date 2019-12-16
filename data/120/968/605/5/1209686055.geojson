@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404558581,
+        85633009,
+        102055061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"a1f0f87f16f60a37a3ee20b9e2ce080b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209686055
+            "county_id":102055061,
+            "localadmin_id":404558581,
+            "locality_id":1209686055,
+            "region_id":85681941
         }
     ],
     "wof:id":1209686055,
-    "wof:lastmodified":1566622173,
+    "wof:lastmodified":1576532246,
     "wof:name":"Francisco Ferreira",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558581,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

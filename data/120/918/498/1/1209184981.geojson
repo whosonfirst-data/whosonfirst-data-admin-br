@@ -53,7 +53,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681955,
+        102191577,
+        404559391,
+        85633009,
+        102055615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +67,18 @@
     "wof:geomhash":"be2de9ea4ac450bc19cbbbf382c3fc40",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209184981
+            "county_id":102055615,
+            "localadmin_id":404559391,
+            "locality_id":1209184981,
+            "region_id":85681955
         }
     ],
     "wof:id":1209184981,
-    "wof:lastmodified":1566622299,
+    "wof:lastmodified":1576533227,
     "wof:name":"Bagre",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559391,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

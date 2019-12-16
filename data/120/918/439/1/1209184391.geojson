@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404556553,
+        85633009,
+        102053983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"391b1c50a886d9b1d5620dcafb22f217",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209184391
+            "county_id":102053983,
+            "localadmin_id":404556553,
+            "locality_id":1209184391,
+            "region_id":85681941
         }
     ],
     "wof:id":1209184391,
-    "wof:lastmodified":1566622296,
+    "wof:lastmodified":1576528599,
     "wof:name":"Peneiras",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404556553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

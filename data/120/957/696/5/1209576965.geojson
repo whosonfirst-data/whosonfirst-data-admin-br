@@ -71,7 +71,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567209,
+        85633009,
+        102062213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,14 +85,18 @@
     "wof:geomhash":"9c7817315364716af0ca97e3b30688ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209576965
+            "county_id":102062213,
+            "localadmin_id":404567209,
+            "locality_id":1209576965,
+            "region_id":85682041
         }
     ],
     "wof:id":1209576965,
-    "wof:lastmodified":1566622168,
+    "wof:lastmodified":1576537619,
     "wof:name":"Cantagalo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567209,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

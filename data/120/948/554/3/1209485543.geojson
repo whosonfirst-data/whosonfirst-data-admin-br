@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404556845,
+        85633009,
+        102054147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"6915abed2190b5d1ca35acc4a887799a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209485543
+            "county_id":102054147,
+            "localadmin_id":404556845,
+            "locality_id":1209485543,
+            "region_id":85681941
         }
     ],
     "wof:id":1209485543,
-    "wof:lastmodified":1566622066,
+    "wof:lastmodified":1576529177,
     "wof:name":"Calcamento",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404556845,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

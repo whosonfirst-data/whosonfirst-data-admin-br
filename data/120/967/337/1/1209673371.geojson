@@ -68,7 +68,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85682003,
+        102058945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,14 +81,17 @@
     "wof:geomhash":"515ef8b41b050d7680e96eede830d71f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209673371
+            "county_id":102058945,
+            "locality_id":1209673371,
+            "region_id":85682003
         }
     ],
     "wof:id":1209673371,
-    "wof:lastmodified":1566622211,
+    "wof:lastmodified":1576535389,
     "wof:name":"Monte Alegre",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058945,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

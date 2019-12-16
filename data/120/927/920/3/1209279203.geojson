@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681977,
+        102057191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"b5268182f967b09d3f0f8ae80c2eba8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209279203
+            "county_id":102057191,
+            "locality_id":1209279203,
+            "region_id":85681977
         }
     ],
     "wof:id":1209279203,
-    "wof:lastmodified":1566622289,
+    "wof:lastmodified":1576534172,
     "wof:name":"Sao Goncalo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566783,
+        85633009,
+        102061763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"c8876d4c16d8c852a46b1bb475f7faba",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209376349
+            "county_id":102061763,
+            "localadmin_id":404566783,
+            "locality_id":1209376349,
+            "region_id":85682041
         }
     ],
     "wof:id":1209376349,
-    "wof:lastmodified":1566622016,
+    "wof:lastmodified":1576537218,
     "wof:name":"Stio Santa Helena",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566783,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

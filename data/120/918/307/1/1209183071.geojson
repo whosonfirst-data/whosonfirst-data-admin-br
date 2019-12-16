@@ -92,7 +92,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681991,
+        102191577,
+        404562529,
+        85633009,
+        102058463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,14 +106,18 @@
     "wof:geomhash":"e201bd62bc004c815c3c642c6ced83f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209183071
+            "county_id":102058463,
+            "localadmin_id":404562529,
+            "locality_id":1209183071,
+            "region_id":85681991
         }
     ],
     "wof:id":1209183071,
-    "wof:lastmodified":1566622293,
+    "wof:lastmodified":1576535193,
     "wof:name":"Cacimbas",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562529,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

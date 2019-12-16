@@ -56,7 +56,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404550429,
+        85633009,
+        102050495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,14 +70,18 @@
     "wof:geomhash":"ddba60dbacb520414a4d8934df55148b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209105069
+            "county_id":102050495,
+            "localadmin_id":404550429,
+            "locality_id":1209105069,
+            "region_id":85681895
         }
     ],
     "wof:id":1209105069,
-    "wof:lastmodified":1566622380,
+    "wof:lastmodified":1576523253,
     "wof:name":"Banca",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550429,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

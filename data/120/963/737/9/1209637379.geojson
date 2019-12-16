@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553801,
+        85633009,
+        102051755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"d93c285fa06c38f9ba63937401711faa",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209637379
+            "county_id":102051755,
+            "localadmin_id":404553801,
+            "locality_id":1209637379,
+            "region_id":85681907
         }
     ],
     "wof:id":1209637379,
-    "wof:lastmodified":1566622026,
+    "wof:lastmodified":1576524796,
     "wof:name":"Vertentes (1)",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

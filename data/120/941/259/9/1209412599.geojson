@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553027,
+        85633009,
+        102051575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"169ca4bd36def3b52f8942fd5f939dd0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209412599
+            "county_id":102051575,
+            "localadmin_id":404553027,
+            "locality_id":1209412599,
+            "region_id":85681907
         }
     ],
     "wof:id":1209412599,
-    "wof:lastmodified":1566622098,
+    "wof:lastmodified":1576524750,
     "wof:name":"Borgado (1)",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553027,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

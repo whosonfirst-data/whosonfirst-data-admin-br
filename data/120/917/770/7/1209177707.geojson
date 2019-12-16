@@ -89,7 +89,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681967,
+        102056415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,14 +102,17 @@
     "wof:geomhash":"5a3278284a6b82023fe027fba04fc8f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209177707
+            "county_id":102056415,
+            "locality_id":1209177707,
+            "region_id":85681967
         }
     ],
     "wof:id":1209177707,
-    "wof:lastmodified":1566622358,
+    "wof:lastmodified":1576533917,
     "wof:name":"Santa Teresa",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056415,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

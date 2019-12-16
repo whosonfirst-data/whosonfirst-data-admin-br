@@ -86,7 +86,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553847,
+        85633009,
+        102051759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,14 +100,18 @@
     "wof:geomhash":"339df7dbedfedc197c8f10c3ffc36c86",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209098567
+            "county_id":102051759,
+            "localadmin_id":404553847,
+            "locality_id":1209098567,
+            "region_id":85681907
         }
     ],
     "wof:id":1209098567,
-    "wof:lastmodified":1566621921,
+    "wof:lastmodified":1576524800,
     "wof:name":"Pastos Bons",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

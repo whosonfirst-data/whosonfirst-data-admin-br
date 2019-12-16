@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681967,
+        102191577,
+        404560037,
+        85633009,
+        102056357
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"585ff41cd29734a0a988b606ad54a4e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209478681
+            "county_id":102056357,
+            "localadmin_id":404560037,
+            "locality_id":1209478681,
+            "region_id":85681967
         }
     ],
     "wof:id":1209478681,
-    "wof:lastmodified":1566622131,
+    "wof:lastmodified":1576533894,
     "wof:name":"Maria Melo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560037,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

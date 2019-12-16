@@ -98,7 +98,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681931,
+        102191577,
+        404554965,
+        85633009,
+        102052769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,14 +112,18 @@
     "wof:geomhash":"38a98d3d270b6de3322b93fedb6b40c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209077515
+            "county_id":102052769,
+            "localadmin_id":404554965,
+            "locality_id":1209077515,
+            "region_id":85681931
         }
     ],
     "wof:id":1209077515,
-    "wof:lastmodified":1566621951,
+    "wof:lastmodified":1576525799,
     "wof:name":"Baixa Grande",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404554965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

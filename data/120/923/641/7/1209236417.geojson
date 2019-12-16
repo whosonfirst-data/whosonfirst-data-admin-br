@@ -149,7 +149,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404552995,
+        85633009,
+        102051571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -159,14 +163,18 @@
     "wof:geomhash":"aebfdbc3f404de72728ca30e9e6f9db9",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209236417
+            "county_id":102051571,
+            "localadmin_id":404552995,
+            "locality_id":1209236417,
+            "region_id":85681907
         }
     ],
     "wof:id":1209236417,
-    "wof:lastmodified":1566622110,
+    "wof:lastmodified":1576524747,
     "wof:name":"Maia",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404552995,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

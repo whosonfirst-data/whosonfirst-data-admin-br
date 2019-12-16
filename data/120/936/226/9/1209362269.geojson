@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567481,
+        85633009,
+        102062263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"b4ec7e8bce4cfeb8ea2d8aacb4c8dedc",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209362269
+            "county_id":102062263,
+            "localadmin_id":404567481,
+            "locality_id":1209362269,
+            "region_id":85682041
         }
     ],
     "wof:id":1209362269,
-    "wof:lastmodified":1566621924,
+    "wof:lastmodified":1576537842,
     "wof:name":"Sitio Kioshi",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567481,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

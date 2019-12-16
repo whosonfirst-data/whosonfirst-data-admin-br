@@ -68,7 +68,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561267,
+        85633009,
+        102057745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,14 +82,18 @@
     "wof:geomhash":"31a35372dea832e4e8c50fc5135ba167",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209681851
+            "county_id":102057745,
+            "localadmin_id":404561267,
+            "locality_id":1209681851,
+            "region_id":85681983
         }
     ],
     "wof:id":1209681851,
-    "wof:lastmodified":1566622182,
+    "wof:lastmodified":1576534505,
     "wof:name":"Santa Helena",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561267,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

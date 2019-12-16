@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681947,
+        102055291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"c4e94fda00c25d225cab8d25f09ffbb6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209195517
+            "county_id":102055291,
+            "locality_id":1209195517,
+            "region_id":85681947
         }
     ],
     "wof:id":1209195517,
-    "wof:lastmodified":1566622342,
+    "wof:lastmodified":1576532697,
     "wof:name":"Pocao",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055291,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

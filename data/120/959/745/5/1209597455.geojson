@@ -146,7 +146,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681959,
+        102191577,
+        404559777,
+        85633009,
+        102055929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -156,14 +160,18 @@
     "wof:geomhash":"0bab825a9cce86281e93e725dc87baa5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209597455
+            "county_id":102055929,
+            "localadmin_id":404559777,
+            "locality_id":1209597455,
+            "region_id":85681959
         }
     ],
     "wof:id":1209597455,
-    "wof:lastmodified":1566622204,
+    "wof:lastmodified":1576533752,
     "wof:name":"Porto Seguro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -95,7 +95,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681955,
+        102055375
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,14 +109,17 @@
     "wof:geomhash":"30628a7e21cdd21b4ce10e8b4defb67e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209385843
+            "county_id":102055375,
+            "locality_id":1209385843,
+            "region_id":85681955
         }
     ],
     "wof:id":1209385843,
-    "wof:lastmodified":1566621944,
+    "wof:lastmodified":1576532767,
     "wof:name":"Aripuana",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055375,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

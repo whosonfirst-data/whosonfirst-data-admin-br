@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404557805,
+        85633009,
+        102054629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"6fb509c604955727ea691d5462ae8f63",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209196659
+            "county_id":102054629,
+            "localadmin_id":404557805,
+            "locality_id":1209196659,
+            "region_id":85681941
         }
     ],
     "wof:id":1209196659,
-    "wof:lastmodified":1566622346,
+    "wof:lastmodified":1576530468,
     "wof:name":"Baixinha de Todos os Santos",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404557805,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

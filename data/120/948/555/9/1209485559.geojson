@@ -41,7 +41,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404558337,
+        85633009,
+        102054903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +55,18 @@
     "wof:geomhash":"54c0ca0215007e7933cb566455d5a2bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209485559
+            "county_id":102054903,
+            "localadmin_id":404558337,
+            "locality_id":1209485559,
+            "region_id":85681941
         }
     ],
     "wof:id":1209485559,
-    "wof:lastmodified":1566622064,
+    "wof:lastmodified":1576531386,
     "wof:name":"Mamona",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558337,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

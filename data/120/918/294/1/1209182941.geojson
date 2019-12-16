@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681999,
+        102191577,
+        404562671,
+        85633009,
+        102058567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"ea568703e01f5de05a6b1ea50fa69bea",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209182941
+            "county_id":102058567,
+            "localadmin_id":404562671,
+            "locality_id":1209182941,
+            "region_id":85681999
         }
     ],
     "wof:id":1209182941,
-    "wof:lastmodified":1566622297,
+    "wof:lastmodified":1576535287,
     "wof:name":"Baixa do Correio",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

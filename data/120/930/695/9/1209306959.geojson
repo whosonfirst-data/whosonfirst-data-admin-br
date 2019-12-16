@@ -83,7 +83,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553993,
+        85633009,
+        102051791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,14 +97,18 @@
     "wof:geomhash":"b2173c60686b31eb2162bef6734e04f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209306959
+            "county_id":102051791,
+            "localadmin_id":404553993,
+            "locality_id":1209306959,
+            "region_id":85681907
         }
     ],
     "wof:id":1209306959,
-    "wof:lastmodified":1566622002,
+    "wof:lastmodified":1576524819,
     "wof:name":"Brejo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553993,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

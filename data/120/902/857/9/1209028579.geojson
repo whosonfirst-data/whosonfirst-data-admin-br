@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553095,
+        85633009,
+        102051589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"b4ba58be213aac72539d89c3834d7569",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209028579
+            "county_id":102051589,
+            "localadmin_id":404553095,
+            "locality_id":1209028579,
+            "region_id":85681907
         }
     ],
     "wof:id":1209028579,
-    "wof:lastmodified":1566622261,
+    "wof:lastmodified":1576524753,
     "wof:name":"Fazenda Barreira",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553095,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

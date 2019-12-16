@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567479,
+        85633009,
+        102062263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"7d9825a08bf6e434e0a827acc44c2b68",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209469085
+            "county_id":102062263,
+            "localadmin_id":404567479,
+            "locality_id":1209469085,
+            "region_id":85682041
         }
     ],
     "wof:id":1209469085,
-    "wof:lastmodified":1566622092,
+    "wof:lastmodified":1576537839,
     "wof:name":"Sitio Santo Antonio",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

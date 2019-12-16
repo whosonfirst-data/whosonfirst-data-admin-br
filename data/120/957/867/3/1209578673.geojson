@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561861,
+        85633009,
+        102058169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"11755a86f800e396d175fd914a782b83",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209578673
+            "county_id":102058169,
+            "localadmin_id":404561861,
+            "locality_id":1209578673,
+            "region_id":85681983
         }
     ],
     "wof:id":1209578673,
-    "wof:lastmodified":1566622163,
+    "wof:lastmodified":1576534763,
     "wof:name":"Sitio Agua do Taquaral",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561861,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

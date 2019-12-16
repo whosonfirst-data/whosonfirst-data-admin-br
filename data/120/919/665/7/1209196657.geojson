@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404555721,
+        85633009,
+        102053569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"a9bdd2b0c8c90939f972157cb4eee2e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209196657
+            "county_id":102053569,
+            "localadmin_id":404555721,
+            "locality_id":1209196657,
+            "region_id":85681941
         }
     ],
     "wof:id":1209196657,
-    "wof:lastmodified":1566622346,
+    "wof:lastmodified":1576527427,
     "wof:name":"Murundu",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555721,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

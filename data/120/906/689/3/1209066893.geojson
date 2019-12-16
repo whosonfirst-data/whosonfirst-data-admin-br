@@ -92,7 +92,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        404560663,
+        85633009,
+        102056819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,14 +106,18 @@
     "wof:geomhash":"f946c9444b0fd230816ade248cd26918",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209066893
+            "county_id":102056819,
+            "localadmin_id":404560663,
+            "locality_id":1209066893,
+            "region_id":85681973
         }
     ],
     "wof:id":1209066893,
-    "wof:lastmodified":1566621991,
+    "wof:lastmodified":1576534030,
     "wof:name":"Caiana",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560663,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

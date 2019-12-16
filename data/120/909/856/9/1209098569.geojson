@@ -92,7 +92,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553683,
+        85633009,
+        102051733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,14 +106,18 @@
     "wof:geomhash":"efc3367e6bd30942ab276ed2a0fdd908",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209098569
+            "county_id":102051733,
+            "localadmin_id":404553683,
+            "locality_id":1209098569,
+            "region_id":85681907
         }
     ],
     "wof:id":1209098569,
-    "wof:lastmodified":1566621921,
+    "wof:lastmodified":1576524786,
     "wof:name":"Cajueiro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553683,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -81,7 +81,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681983,
+        102058207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,14 +94,17 @@
     "wof:geomhash":"dece3eff4f18ca1cd253adb46c695cf2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209481377
+            "county_id":102058207,
+            "locality_id":1209481377,
+            "region_id":85681983
         }
     ],
     "wof:id":1209481377,
-    "wof:lastmodified":1566622065,
+    "wof:lastmodified":1576534818,
     "wof:name":"Palmeira",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058207,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

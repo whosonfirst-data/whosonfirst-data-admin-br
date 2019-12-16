@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561113,
+        85633009,
+        102057619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"56c2e2dc81887e61bdfde4622e57dbb8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209581767
+            "county_id":102057619,
+            "localadmin_id":404561113,
+            "locality_id":1209581767,
+            "region_id":85681983
         }
     ],
     "wof:id":1209581767,
-    "wof:lastmodified":1566622234,
+    "wof:lastmodified":1576534442,
     "wof:name":"Sitio Esperanca",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561113,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

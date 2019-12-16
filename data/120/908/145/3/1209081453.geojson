@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404560855,
+        85633009,
+        102057433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"fe62e6356b2fd0ab9ecf48eafe9ab889",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209081453
+            "county_id":102057433,
+            "localadmin_id":404560855,
+            "locality_id":1209081453,
+            "region_id":85681983
         }
     ],
     "wof:id":1209081453,
-    "wof:lastmodified":1566622006,
+    "wof:lastmodified":1576534316,
     "wof:name":"Sitio Santa Rosa",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

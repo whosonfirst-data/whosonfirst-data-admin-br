@@ -59,7 +59,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681977,
+        102057215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,14 +72,17 @@
     "wof:geomhash":"4077ed94b42682a77d79e75e40d5b9f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209690443
+            "county_id":102057215,
+            "locality_id":1209690443,
+            "region_id":85681977
         }
     ],
     "wof:id":1209690443,
-    "wof:lastmodified":1566622249,
+    "wof:lastmodified":1576534186,
     "wof:name":"Saco",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057215,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

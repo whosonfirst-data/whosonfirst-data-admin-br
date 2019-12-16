@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681885,
+        102050291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"c1367dc884a391dcd6e13264af914d83",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209010337
+            "county_id":102050291,
+            "locality_id":1209010337,
+            "region_id":85681885
         }
     ],
     "wof:id":1209010337,
-    "wof:lastmodified":1566621982,
+    "wof:lastmodified":1576523030,
     "wof:name":"Guajara",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050291,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

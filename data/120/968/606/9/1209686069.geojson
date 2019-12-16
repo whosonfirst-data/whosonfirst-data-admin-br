@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404557527,
+        85633009,
+        102054481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"0a0370b5ab76cb80983d82456132c47e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209686069
+            "county_id":102054481,
+            "localadmin_id":404557527,
+            "locality_id":1209686069,
+            "region_id":85681941
         }
     ],
     "wof:id":1209686069,
-    "wof:lastmodified":1566622179,
+    "wof:lastmodified":1576530164,
     "wof:name":"Silverio",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404557527,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
