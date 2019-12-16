@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566889,
+        85633009,
+        102061851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"ef35f96ad3c7df050987b4c12a1deff7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209569563
+            "county_id":102061851,
+            "localadmin_id":404566889,
+            "locality_id":1209569563,
+            "region_id":85682041
         }
     ],
     "wof:id":1209569563,
-    "wof:lastmodified":1566622243,
+    "wof:lastmodified":1576537293,
     "wof:name":"Sao Benedito",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566889,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

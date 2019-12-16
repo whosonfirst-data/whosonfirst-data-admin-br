@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681959,
+        102055901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"615b3f6c8dcb22d4c3953f4b2f174a8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209585281
+            "county_id":102055901,
+            "locality_id":1209585281,
+            "region_id":85681959
         }
     ],
     "wof:id":1209585281,
-    "wof:lastmodified":1566622228,
+    "wof:lastmodified":1576533639,
     "wof:name":"Sao Carlos",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055901,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

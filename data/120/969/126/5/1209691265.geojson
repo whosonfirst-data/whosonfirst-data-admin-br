@@ -95,7 +95,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681983,
+        102057409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,14 +108,17 @@
     "wof:geomhash":"e7a83c4ddd72e93721a9550cd77e298e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209691265
+            "county_id":102057409,
+            "locality_id":1209691265,
+            "region_id":85681983
         }
     ],
     "wof:id":1209691265,
-    "wof:lastmodified":1566622248,
+    "wof:lastmodified":1576534276,
     "wof:name":"Barrinha",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057409,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

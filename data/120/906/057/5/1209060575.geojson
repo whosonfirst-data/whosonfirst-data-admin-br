@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567383,
+        85633009,
+        102062255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"6641adccd845c343ac265d6c3c8e0a64",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209060575
+            "county_id":102062255,
+            "localadmin_id":404567383,
+            "locality_id":1209060575,
+            "region_id":85682041
         }
     ],
     "wof:id":1209060575,
-    "wof:lastmodified":1566621997,
+    "wof:lastmodified":1576537790,
     "wof:name":"Bairro Jardim Paulo Afonso",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

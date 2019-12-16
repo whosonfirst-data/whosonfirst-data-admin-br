@@ -104,7 +104,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553405,
+        85633009,
+        102051659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,14 +118,18 @@
     "wof:geomhash":"7b082d94d904028f9c4dd98d4680e69e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209103783
+            "county_id":102051659,
+            "localadmin_id":404553405,
+            "locality_id":1209103783,
+            "region_id":85681907
         }
     ],
     "wof:id":1209103783,
-    "wof:lastmodified":1566622380,
+    "wof:lastmodified":1576524778,
     "wof:name":"Queimados",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

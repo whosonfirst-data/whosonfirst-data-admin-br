@@ -83,7 +83,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681931,
+        102053073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,14 +96,17 @@
     "wof:geomhash":"17b83d8f1660d33b91adc05bd160b8de",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209695105
+            "county_id":102053073,
+            "locality_id":1209695105,
+            "region_id":85681931
         }
     ],
     "wof:id":1209695105,
-    "wof:lastmodified":1566622247,
+    "wof:lastmodified":1576525997,
     "wof:name":"Roque",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102053073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

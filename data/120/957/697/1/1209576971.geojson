@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566183,
+        85633009,
+        102061169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"f9720d58e78140546a75caa2fe0d8e20",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209576971
+            "county_id":102061169,
+            "localadmin_id":404566183,
+            "locality_id":1209576971,
+            "region_id":85682041
         }
     ],
     "wof:id":1209576971,
-    "wof:lastmodified":1566622166,
+    "wof:lastmodified":1576536588,
     "wof:name":"Sitio Cascata",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566183,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681977,
+        102057073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"d7f6d736393a8127afe8577543c5dde1",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209690449
+            "county_id":102057073,
+            "locality_id":1209690449,
+            "region_id":85681977
         }
     ],
     "wof:id":1209690449,
-    "wof:lastmodified":1566622249,
+    "wof:lastmodified":1576534134,
     "wof:name":"Buriti (1)",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

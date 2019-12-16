@@ -86,7 +86,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        404560191,
+        85633009,
+        102056533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,14 +100,18 @@
     "wof:geomhash":"49c2a0168ab4dd936139ceed6e3555cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209465141
+            "county_id":102056533,
+            "localadmin_id":404560191,
+            "locality_id":1209465141,
+            "region_id":85681973
         }
     ],
     "wof:id":1209465141,
-    "wof:lastmodified":1566622094,
+    "wof:lastmodified":1576533952,
     "wof:name":"Pombos",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

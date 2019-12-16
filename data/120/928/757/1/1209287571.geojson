@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404556905,
+        85633009,
+        102054169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"a88315fff306918be0ee5a2263840747",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209287571
+            "county_id":102054169,
+            "localadmin_id":404556905,
+            "locality_id":1209287571,
+            "region_id":85681941
         }
     ],
     "wof:id":1209287571,
-    "wof:lastmodified":1566622369,
+    "wof:lastmodified":1576529237,
     "wof:name":"Joao Matos",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404556905,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

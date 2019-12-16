@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681977,
+        102057353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"95115938b1c621d051cd66edc1467dd2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209178945
+            "county_id":102057353,
+            "locality_id":1209178945,
+            "region_id":85681977
         }
     ],
     "wof:id":1209178945,
-    "wof:lastmodified":1566622358,
+    "wof:lastmodified":1576534245,
     "wof:name":"Malhada Grande (4)",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057353,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

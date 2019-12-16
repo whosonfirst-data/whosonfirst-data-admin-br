@@ -98,7 +98,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681959,
+        102191577,
+        404559753,
+        85633009,
+        102055915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,14 +112,18 @@
     "wof:geomhash":"b4d1cc0248f68d0f50f9664ae5eaa746",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209588025
+            "county_id":102055915,
+            "localadmin_id":404559753,
+            "locality_id":1209588025,
+            "region_id":85681959
         }
     ],
     "wof:id":1209588025,
-    "wof:lastmodified":1566622225,
+    "wof:lastmodified":1576533675,
     "wof:name":"Volta Grande",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559753,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

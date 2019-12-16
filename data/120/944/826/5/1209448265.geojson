@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85682053,
+        102062467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"63917aeca42b36e765e4ed9c9640d122",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209448265
+            "county_id":102062467,
+            "locality_id":1209448265,
+            "region_id":85682053
         }
     ],
     "wof:id":1209448265,
-    "wof:lastmodified":1566622382,
+    "wof:lastmodified":1576538497,
     "wof:name":"Pedra Santa",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102062467,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        404560741,
+        85633009,
+        102056847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"3fe56df4b29506e03f11d2b66a71a5c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209274921
+            "county_id":102056847,
+            "localadmin_id":404560741,
+            "locality_id":1209274921,
+            "region_id":85681973
         }
     ],
     "wof:id":1209274921,
-    "wof:lastmodified":1566622286,
+    "wof:lastmodified":1576534054,
     "wof:name":"Tinoco",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560741,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

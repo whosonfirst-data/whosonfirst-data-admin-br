@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404550517,
+        85633009,
+        102050545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"0693bd2179ae6e0b62c8a31cfdbbbd8a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209419735
+            "county_id":102050545,
+            "localadmin_id":404550517,
+            "locality_id":1209419735,
+            "region_id":85681895
         }
     ],
     "wof:id":1209419735,
-    "wof:lastmodified":1566622101,
+    "wof:lastmodified":1576523319,
     "wof:name":"Alagadico",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550517,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

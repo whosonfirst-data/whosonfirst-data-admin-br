@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681955,
+        102055657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"e7326d467ea823d78dcf06a298d8abd5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209285283
+            "county_id":102055657,
+            "locality_id":1209285283,
+            "region_id":85681955
         }
     ],
     "wof:id":1209285283,
-    "wof:lastmodified":1566622368,
+    "wof:lastmodified":1576533296,
     "wof:name":"Maria Joana",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055657,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

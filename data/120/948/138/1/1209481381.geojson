@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561755,
+        85633009,
+        102058087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"97467bb6008f3112d62f75f54affb53c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209481381
+            "county_id":102058087,
+            "localadmin_id":404561755,
+            "locality_id":1209481381,
+            "region_id":85681983
         }
     ],
     "wof:id":1209481381,
-    "wof:lastmodified":1566622065,
+    "wof:lastmodified":1576534691,
     "wof:name":"Sitio Mina Grande",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

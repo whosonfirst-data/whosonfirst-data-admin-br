@@ -65,7 +65,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681959,
+        102055857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,14 +78,17 @@
     "wof:geomhash":"0efa7fd8aea6fbb5068d47640c2f0146",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209041209
+            "county_id":102055857,
+            "locality_id":1209041209,
+            "region_id":85681959
         }
     ],
     "wof:id":1209041209,
-    "wof:lastmodified":1566622208,
+    "wof:lastmodified":1576533612,
     "wof:name":"Antonina",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

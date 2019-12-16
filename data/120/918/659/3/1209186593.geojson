@@ -40,7 +40,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681959,
+        102191577,
+        404559739,
+        85633009,
+        102055903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +55,18 @@
     "wof:geomhash":"30413081a3f991e1b36dfc05f92f96ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209186593
+            "county_id":102055903,
+            "localadmin_id":404559739,
+            "locality_id":1209186593,
+            "region_id":85681959
         }
     ],
     "wof:id":1209186593,
-    "wof:lastmodified":1566622298,
+    "wof:lastmodified":1576533640,
     "wof:name":"Santa Isabel do Para",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559739,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

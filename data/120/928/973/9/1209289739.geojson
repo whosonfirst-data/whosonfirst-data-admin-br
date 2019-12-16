@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561119,
+        85633009,
+        102057623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"336c2d46154c2ea3f7011d73cbf103d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209289739
+            "county_id":102057623,
+            "localadmin_id":404561119,
+            "locality_id":1209289739,
+            "region_id":85681983
         }
     ],
     "wof:id":1209289739,
-    "wof:lastmodified":1566622376,
+    "wof:lastmodified":1576534447,
     "wof:name":"Erval",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

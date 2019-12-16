@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566701,
+        85633009,
+        102061711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"9e1081e67f38f46145bc4ac68a153ca5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209662933
+            "county_id":102061711,
+            "localadmin_id":404566701,
+            "locality_id":1209662933,
+            "region_id":85682041
         }
     ],
     "wof:id":1209662933,
-    "wof:lastmodified":1566622190,
+    "wof:lastmodified":1576537125,
     "wof:name":"Bairro Capuavinha",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566701,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

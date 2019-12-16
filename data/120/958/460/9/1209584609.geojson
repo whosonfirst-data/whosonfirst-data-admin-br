@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681991,
+        102191577,
+        404562423,
+        85633009,
+        102058427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"4e11794cfb2881fa2bbd3adb9fe7d72d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209584609
+            "county_id":102058427,
+            "localadmin_id":404562423,
+            "locality_id":1209584609,
+            "region_id":85681991
         }
     ],
     "wof:id":1209584609,
-    "wof:lastmodified":1566622231,
+    "wof:lastmodified":1576535102,
     "wof:name":"Inglesa",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562423,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

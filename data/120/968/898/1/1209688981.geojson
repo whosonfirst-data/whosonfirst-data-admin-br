@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404556157,
+        85633009,
+        102053777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"3bb4aeb9da63a936b382ce54b0d9aa3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209688981
+            "county_id":102053777,
+            "localadmin_id":404556157,
+            "locality_id":1209688981,
+            "region_id":85681941
         }
     ],
     "wof:id":1209688981,
-    "wof:lastmodified":1566622179,
+    "wof:lastmodified":1576528024,
     "wof:name":"Jose Sebastiao",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404556157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

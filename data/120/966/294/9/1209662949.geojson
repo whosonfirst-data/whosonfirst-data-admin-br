@@ -83,7 +83,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567501,
+        85633009,
+        102062273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,14 +97,18 @@
     "wof:geomhash":"d308c37215c4eaf39d057a5b23171681",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209662949
+            "county_id":102062273,
+            "localadmin_id":404567501,
+            "locality_id":1209662949,
+            "region_id":85682041
         }
     ],
     "wof:id":1209662949,
-    "wof:lastmodified":1566622190,
+    "wof:lastmodified":1576538333,
     "wof:name":"Faxinal",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567501,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

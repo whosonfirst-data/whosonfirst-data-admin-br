@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404560813,
+        85633009,
+        102057411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"51f8351c9784a0ac6bf3e3bf6d1e1fb7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209289757
+            "county_id":102057411,
+            "localadmin_id":404560813,
+            "locality_id":1209289757,
+            "region_id":85681983
         }
     ],
     "wof:id":1209289757,
-    "wof:lastmodified":1566622378,
+    "wof:lastmodified":1576534297,
     "wof:name":"Sitio Nivaldo de S. Lisboa",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560813,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

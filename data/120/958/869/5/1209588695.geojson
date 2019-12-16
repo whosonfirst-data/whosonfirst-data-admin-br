@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404555641,
+        85633009,
+        102053327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"1422c4028f9ddc4fcb80e1a9d2c06b61",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209588695
+            "county_id":102053327,
+            "localadmin_id":404555641,
+            "locality_id":1209588695,
+            "region_id":85681941
         }
     ],
     "wof:id":1209588695,
-    "wof:lastmodified":1566622225,
+    "wof:lastmodified":1576526569,
     "wof:name":"Hermes Silva",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555641,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681983,
+        102057531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"a7b69ab5d4284adfe1026f04282c30a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209691261
+            "county_id":102057531,
+            "locality_id":1209691261,
+            "region_id":85681983
         }
     ],
     "wof:id":1209691261,
-    "wof:lastmodified":1566622248,
+    "wof:lastmodified":1576534390,
     "wof:name":"Sitio Barro Branco",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057531,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404558587,
+        85633009,
+        102055061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"6dde6eb42ecfc18abd816a91cd84bc27",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209284697
+            "county_id":102055061,
+            "localadmin_id":404558587,
+            "locality_id":1209284697,
+            "region_id":85681941
         }
     ],
     "wof:id":1209284697,
-    "wof:lastmodified":1566622371,
+    "wof:lastmodified":1576532246,
     "wof:name":"Anastacio",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

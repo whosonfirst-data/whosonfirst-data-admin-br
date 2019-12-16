@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561631,
+        85633009,
+        102058003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"caa808308538f8e5f5af633418c3ae9d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209277425
+            "county_id":102058003,
+            "localadmin_id":404561631,
+            "locality_id":1209277425,
+            "region_id":85681983
         }
     ],
     "wof:id":1209277425,
-    "wof:lastmodified":1566622291,
+    "wof:lastmodified":1576534642,
     "wof:name":"Sitio Josue O. da Silva",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561631,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553965,
+        85633009,
+        102051787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"7206857b91e3726fa358371211380402",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209407223
+            "county_id":102051787,
+            "localadmin_id":404553965,
+            "locality_id":1209407223,
+            "region_id":85681907
         }
     ],
     "wof:id":1209407223,
-    "wof:lastmodified":1566622110,
+    "wof:lastmodified":1576524814,
     "wof:name":"Belem",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        404560679,
+        85633009,
+        102056831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"300a2ed3ef1ff2c2afcfa5a1e15690de",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209261119
+            "county_id":102056831,
+            "localadmin_id":404560679,
+            "locality_id":1209261119,
+            "region_id":85681973
         }
     ],
     "wof:id":1209261119,
-    "wof:lastmodified":1566622340,
+    "wof:lastmodified":1576534037,
     "wof:name":"Baraunas",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560679,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681999,
+        102191577,
+        404562687,
+        85633009,
+        102058657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"ee28ec55661d4c20058cf1e2496540a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209671839
+            "county_id":102058657,
+            "localadmin_id":404562687,
+            "locality_id":1209671839,
+            "region_id":85681999
         }
     ],
     "wof:id":1209671839,
-    "wof:lastmodified":1566622221,
+    "wof:lastmodified":1576535307,
     "wof:name":"Baixio do Fogo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562687,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567213,
+        85633009,
+        102062215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"4a6fd1e951d9a05d8be0b382d3592ec3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209677059
+            "county_id":102062215,
+            "localadmin_id":404567213,
+            "locality_id":1209677059,
+            "region_id":85682041
         }
     ],
     "wof:id":1209677059,
-    "wof:lastmodified":1566622215,
+    "wof:lastmodified":1576537631,
     "wof:name":"Bairro dos Tatetos",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567213,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561633,
+        85633009,
+        102058003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"e522a23935be6f8a21f121b6bbdd2816",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209177301
+            "county_id":102058003,
+            "localadmin_id":404561633,
+            "locality_id":1209177301,
+            "region_id":85681983
         }
     ],
     "wof:id":1209177301,
-    "wof:lastmodified":1566622353,
+    "wof:lastmodified":1576534642,
     "wof:name":"Sitio Nivaldo Nunes",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

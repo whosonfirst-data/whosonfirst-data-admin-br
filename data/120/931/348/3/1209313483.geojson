@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404550683,
+        85633009,
+        102050629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"49595ba52b07750149a37de8f03f039d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209313483
+            "county_id":102050629,
+            "localadmin_id":404550683,
+            "locality_id":1209313483,
+            "region_id":85681895
         }
     ],
     "wof:id":1209313483,
-    "wof:lastmodified":1566621930,
+    "wof:lastmodified":1576523425,
     "wof:name":"Ibiagui",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550683,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

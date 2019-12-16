@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681991,
+        102058455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,17 @@
     "wof:geomhash":"61b19f8a596d993b0aaed5dddc117451",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209172921
+            "county_id":102058455,
+            "locality_id":1209172921,
+            "region_id":85681991
         }
     ],
     "wof:id":1209172921,
-    "wof:lastmodified":1566622357,
+    "wof:lastmodified":1576535159,
     "wof:name":"Parque Anchieta",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058455,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

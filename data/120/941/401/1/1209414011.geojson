@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551795,
+        85633009,
+        102051169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +53,18 @@
     "wof:geomhash":"b580a4a44e8e0f733e7a730c2bce51de",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209414011
+            "county_id":102051169,
+            "localadmin_id":404551795,
+            "locality_id":1209414011,
+            "region_id":85681895
         }
     ],
     "wof:id":1209414011,
-    "wof:lastmodified":1566622097,
+    "wof:lastmodified":1576524222,
     "wof:name":"Joanina",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551795,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

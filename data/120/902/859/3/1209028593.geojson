@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553271,
+        85633009,
+        102051633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"8628239d36b5411b755c6b8bd3a89206",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209028593
+            "county_id":102051633,
+            "localadmin_id":404553271,
+            "locality_id":1209028593,
+            "region_id":85681907
         }
     ],
     "wof:id":1209028593,
-    "wof:lastmodified":1566622260,
+    "wof:lastmodified":1576524767,
     "wof:name":"Sitio Ipioca",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553271,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

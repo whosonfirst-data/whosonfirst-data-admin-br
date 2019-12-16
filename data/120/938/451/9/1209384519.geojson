@@ -626,7 +626,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681959,
+        102055981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -636,14 +639,17 @@
     "wof:geomhash":"4a7d193ead4fa9804963169ca14430e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209384519
+            "county_id":102055981,
+            "locality_id":1209384519,
+            "region_id":85681959
         }
     ],
     "wof:id":1209384519,
-    "wof:lastmodified":1566621941,
+    "wof:lastmodified":1576533823,
     "wof:name":"Leonardo da Vinci",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055981,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

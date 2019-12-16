@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561597,
+        85633009,
+        102057973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"a94a609bf59dffe2da13529b93ccc866",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209590913
+            "county_id":102057973,
+            "localadmin_id":404561597,
+            "locality_id":1209590913,
+            "region_id":85681983
         }
     ],
     "wof:id":1209590913,
-    "wof:lastmodified":1566622197,
+    "wof:lastmodified":1576534629,
     "wof:name":"Medeiros de Cima",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561597,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

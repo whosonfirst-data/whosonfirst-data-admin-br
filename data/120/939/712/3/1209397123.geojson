@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404558243,
+        85633009,
+        102054855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"7e12dd0f87109e506032981ad55e3aeb",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209397123
+            "county_id":102054855,
+            "localadmin_id":404558243,
+            "locality_id":1209397123,
+            "region_id":85681941
         }
     ],
     "wof:id":1209397123,
-    "wof:lastmodified":1566621987,
+    "wof:lastmodified":1576531209,
     "wof:name":"Custodio",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

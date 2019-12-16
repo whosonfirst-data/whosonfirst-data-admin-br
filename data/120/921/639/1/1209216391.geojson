@@ -50,7 +50,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681891,
+        102191577,
+        404550339,
+        85633009,
+        102050447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +64,18 @@
     "wof:geomhash":"160b8404469c79fda2ecd890e9a24098",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209216391
+            "county_id":102050447,
+            "localadmin_id":404550339,
+            "locality_id":1209216391,
+            "region_id":85681891
         }
     ],
     "wof:id":1209216391,
-    "wof:lastmodified":1566622351,
+    "wof:lastmodified":1576523203,
     "wof:name":"Monte Santo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550339,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681977,
+        102057137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"fa70108be356359b289f853cae96eb0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209188681
+            "county_id":102057137,
+            "locality_id":1209188681,
+            "region_id":85681977
         }
     ],
     "wof:id":1209188681,
-    "wof:lastmodified":1566622296,
+    "wof:lastmodified":1576534153,
     "wof:name":"Travessao",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

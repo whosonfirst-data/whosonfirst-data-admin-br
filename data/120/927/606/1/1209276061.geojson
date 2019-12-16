@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404552919,
+        85633009,
+        102051553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"8e8c11b444a0797c1ceafa6beffe889e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209276061
+            "county_id":102051553,
+            "localadmin_id":404552919,
+            "locality_id":1209276061,
+            "region_id":85681907
         }
     ],
     "wof:id":1209276061,
-    "wof:lastmodified":1566622285,
+    "wof:lastmodified":1576524742,
     "wof:name":"Casa de Pedra",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404552919,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -137,7 +137,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404557549,
+        85633009,
+        102054491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -147,14 +151,18 @@
     "wof:geomhash":"0fc5ffea9f6129b44f8f92899653ca0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209385189
+            "county_id":102054491,
+            "localadmin_id":404557549,
+            "locality_id":1209385189,
+            "region_id":85681941
         }
     ],
     "wof:id":1209385189,
-    "wof:lastmodified":1566621939,
+    "wof:lastmodified":1576530214,
     "wof:name":"Concordia",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404557549,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

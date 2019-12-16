@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681959,
+        102191577,
+        404559777,
+        85633009,
+        102055929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"8f96603d20759e01f15a47871bf2f198",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209588029
+            "county_id":102055929,
+            "localadmin_id":404559777,
+            "locality_id":1209588029,
+            "region_id":85681959
         }
     ],
     "wof:id":1209588029,
-    "wof:lastmodified":1566622225,
+    "wof:lastmodified":1576533753,
     "wof:name":"Posto Cocraimoro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

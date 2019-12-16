@@ -62,7 +62,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681931,
+        102053023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,14 +75,17 @@
     "wof:geomhash":"0ac92bf8dadeea796a54fd27cc262fe2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209486749
+            "county_id":102053023,
+            "locality_id":1209486749,
+            "region_id":85681931
         }
     ],
     "wof:id":1209486749,
-    "wof:lastmodified":1566622061,
+    "wof:lastmodified":1576525982,
     "wof:name":"Panela",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102053023,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

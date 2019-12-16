@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681891,
+        102191577,
+        404550323,
+        85633009,
+        102050445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"d1f140ae024bce7d9263e187fec8fc7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209622523
+            "county_id":102050445,
+            "localadmin_id":404550323,
+            "locality_id":1209622523,
+            "region_id":85681891
         }
     ],
     "wof:id":1209622523,
-    "wof:lastmodified":1566621981,
+    "wof:lastmodified":1576523193,
     "wof:name":"Maruanum",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550323,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

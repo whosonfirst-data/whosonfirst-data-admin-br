@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566427,
+        85633009,
+        102061411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"e2f972a49188ef618fdf31d39adba2ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209362249
+            "county_id":102061411,
+            "localadmin_id":404566427,
+            "locality_id":1209362249,
+            "region_id":85682041
         }
     ],
     "wof:id":1209362249,
-    "wof:lastmodified":1566621926,
+    "wof:lastmodified":1576536729,
     "wof:name":"Bairro Parque Pauh",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566427,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

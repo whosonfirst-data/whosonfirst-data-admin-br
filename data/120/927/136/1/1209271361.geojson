@@ -101,7 +101,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682021,
+        102191577,
+        404565473,
+        85633009,
+        102060431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,14 +115,18 @@
     "wof:geomhash":"0567d4b3652646bfc98401dfe8dc9ee9",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209271361
+            "county_id":102060431,
+            "localadmin_id":404565473,
+            "locality_id":1209271361,
+            "region_id":85682021
         }
     ],
     "wof:id":1209271361,
-    "wof:lastmodified":1566622284,
+    "wof:lastmodified":1576536103,
     "wof:name":"Rio Acima",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404565473,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

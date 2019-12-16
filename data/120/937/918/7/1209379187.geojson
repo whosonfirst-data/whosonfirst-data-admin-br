@@ -128,7 +128,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681991,
+        102191577,
+        404562531,
+        85633009,
+        102058463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -138,14 +142,18 @@
     "wof:geomhash":"71623a360cab8bff5ff049229996e0e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209379187
+            "county_id":102058463,
+            "localadmin_id":404562531,
+            "locality_id":1209379187,
+            "region_id":85681991
         }
     ],
     "wof:id":1209379187,
-    "wof:lastmodified":1566622025,
+    "wof:lastmodified":1576535193,
     "wof:name":"Salinas",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562531,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681955,
+        102191577,
+        404559389,
+        85633009,
+        102055615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +53,18 @@
     "wof:geomhash":"3cbcbedcabf2166eb5fdad06687d3825",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209393013
+            "county_id":102055615,
+            "localadmin_id":404559389,
+            "locality_id":1209393013,
+            "region_id":85681955
         }
     ],
     "wof:id":1209393013,
-    "wof:lastmodified":1566621983,
+    "wof:lastmodified":1576533226,
     "wof:name":"Tapera do Pedroso",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559389,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

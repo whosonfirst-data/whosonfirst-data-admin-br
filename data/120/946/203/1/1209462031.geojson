@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681925,
+        102191577,
+        404554735,
+        85633009,
+        102052123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"8068bae3221c346adc366baf4068af6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209462031
+            "county_id":102052123,
+            "localadmin_id":404554735,
+            "locality_id":1209462031,
+            "region_id":85681925
         }
     ],
     "wof:id":1209462031,
-    "wof:lastmodified":1566622092,
+    "wof:lastmodified":1576525345,
     "wof:name":"Porto dos Pachecos",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404554735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

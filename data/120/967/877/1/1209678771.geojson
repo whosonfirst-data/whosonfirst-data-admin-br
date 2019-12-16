@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561125,
+        85633009,
+        102057635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"7ca15e018db0812221a0e364d881885b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209678771
+            "county_id":102057635,
+            "localadmin_id":404561125,
+            "locality_id":1209678771,
+            "region_id":85681983
         }
     ],
     "wof:id":1209678771,
-    "wof:lastmodified":1566622218,
+    "wof:lastmodified":1576534449,
     "wof:name":"Jaracatia",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

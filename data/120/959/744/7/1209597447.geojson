@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681959,
+        102055965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"dd917192a98202252f6d552ebee868a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209597447
+            "county_id":102055965,
+            "locality_id":1209597447,
+            "region_id":85681959
         }
     ],
     "wof:id":1209597447,
-    "wof:lastmodified":1566622204,
+    "wof:lastmodified":1576533796,
     "wof:name":"Sao Lourenco",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

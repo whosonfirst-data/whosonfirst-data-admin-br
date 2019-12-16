@@ -83,7 +83,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681999,
+        102058685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,14 +96,17 @@
     "wof:geomhash":"a650ad3c9aed10d3e3bbb41f02948998",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209383749
+            "county_id":102058685,
+            "locality_id":1209383749,
+            "region_id":85681999
         }
     ],
     "wof:id":1209383749,
-    "wof:lastmodified":1566621943,
+    "wof:lastmodified":1576535314,
     "wof:name":"Pitimbu",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058685,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

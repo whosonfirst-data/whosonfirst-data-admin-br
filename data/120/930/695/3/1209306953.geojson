@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553939,
+        85633009,
+        102051779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"823631b899fef7b69ef79010d6f078c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209306953
+            "county_id":102051779,
+            "localadmin_id":404553939,
+            "locality_id":1209306953,
+            "region_id":85681907
         }
     ],
     "wof:id":1209306953,
-    "wof:lastmodified":1566622003,
+    "wof:lastmodified":1576524811,
     "wof:name":"Lagoa do Tapuio (2)",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

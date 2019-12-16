@@ -281,7 +281,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404552051,
+        85633009,
+        102051311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -291,14 +295,18 @@
     "wof:geomhash":"04172d69d8739c2161b279eb80daabf0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209637995
+            "county_id":102051311,
+            "localadmin_id":404552051,
+            "locality_id":1209637995,
+            "region_id":85681895
         }
     ],
     "wof:id":1209637995,
-    "wof:lastmodified":1566622026,
+    "wof:lastmodified":1576524582,
     "wof:name":"Alagoas",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404552051,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

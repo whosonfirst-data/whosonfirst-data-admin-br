@@ -71,7 +71,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85682041,
+        102062325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,14 +84,17 @@
     "wof:geomhash":"cb121b7d73e73f6f0d8a92955cd121fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209162059
+            "county_id":102062325,
+            "locality_id":1209162059,
+            "region_id":85682041
         }
     ],
     "wof:id":1209162059,
-    "wof:lastmodified":1566622271,
+    "wof:lastmodified":1576538389,
     "wof:name":"Morrinhos",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102062325,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

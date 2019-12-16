@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404556447,
+        85633009,
+        102053931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"8b3fedf009ac92a33189dfe2d3a9446c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209686059
+            "county_id":102053931,
+            "localadmin_id":404556447,
+            "locality_id":1209686059,
+            "region_id":85681941
         }
     ],
     "wof:id":1209686059,
-    "wof:lastmodified":1566622173,
+    "wof:lastmodified":1576528428,
     "wof:name":"Jose Vermelho",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404556447,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

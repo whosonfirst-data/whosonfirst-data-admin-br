@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561753,
+        85633009,
+        102058087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"e4631ff6683c5e1d249749cb9ea3b22e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209380997
+            "county_id":102058087,
+            "localadmin_id":404561753,
+            "locality_id":1209380997,
+            "region_id":85681983
         }
     ],
     "wof:id":1209380997,
-    "wof:lastmodified":1566621936,
+    "wof:lastmodified":1576534691,
     "wof:name":"Sitio Santa Maria",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561753,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

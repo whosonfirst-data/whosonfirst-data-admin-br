@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681983,
+        102057441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"afb695bddcd0592d8511bd399bd590bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209289759
+            "county_id":102057441,
+            "locality_id":1209289759,
+            "region_id":85681983
         }
     ],
     "wof:id":1209289759,
-    "wof:lastmodified":1566622378,
+    "wof:lastmodified":1576534321,
     "wof:name":"Agua Amarla do Meio",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057441,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

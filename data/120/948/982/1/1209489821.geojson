@@ -698,7 +698,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681977,
+        102057295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -708,14 +711,17 @@
     "wof:geomhash":"c1a03c557d8bd813ac232128b511caa3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209489821
+            "county_id":102057295,
+            "locality_id":1209489821,
+            "region_id":85681977
         }
     ],
     "wof:id":1209489821,
-    "wof:lastmodified":1566622063,
+    "wof:lastmodified":1576534218,
     "wof:name":"Venezuela",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057295,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681885,
+        102050387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"f7291140042cc561910748996e23ebbc",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209415305
+            "county_id":102050387,
+            "locality_id":1209415305,
+            "region_id":85681885
         }
     ],
     "wof:id":1209415305,
-    "wof:lastmodified":1566622099,
+    "wof:lastmodified":1576523100,
     "wof:name":"Sao Sebastiao",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050387,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681947,
+        102191577,
+        404559021,
+        85633009,
+        102055305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +53,18 @@
     "wof:geomhash":"7edfb902b21087e989d02c70cc59a9b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209192387
+            "county_id":102055305,
+            "localadmin_id":404559021,
+            "locality_id":1209192387,
+            "region_id":85681947
         }
     ],
     "wof:id":1209192387,
-    "wof:lastmodified":1566622345,
+    "wof:lastmodified":1576532704,
     "wof:name":"Pacuri",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559021,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

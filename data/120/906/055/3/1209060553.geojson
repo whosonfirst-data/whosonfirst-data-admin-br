@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567479,
+        85633009,
+        102062263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"ee6bae8d7c4ccf269685127da472eaee",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209060553
+            "county_id":102062263,
+            "localadmin_id":404567479,
+            "locality_id":1209060553,
+            "region_id":85682041
         }
     ],
     "wof:id":1209060553,
-    "wof:lastmodified":1566621992,
+    "wof:lastmodified":1576537837,
     "wof:name":"Sitio Caio",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

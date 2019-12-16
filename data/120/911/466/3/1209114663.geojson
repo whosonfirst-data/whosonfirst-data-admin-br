@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681879,
+        102050113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"9fd734ee1d859b54a32beae72ca5d7a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209114663
+            "county_id":102050113,
+            "locality_id":1209114663,
+            "region_id":85681879
         }
     ],
     "wof:id":1209114663,
-    "wof:lastmodified":1566622267,
+    "wof:lastmodified":1576522985,
     "wof:name":"Riachao do Traipu",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050113,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

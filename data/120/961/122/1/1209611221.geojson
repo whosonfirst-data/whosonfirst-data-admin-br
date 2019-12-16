@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681921,
+        102191577,
+        404554467,
+        85633009,
+        102051915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"0a68c192c0ce839c4522ad6fb662f32c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209611221
+            "county_id":102051915,
+            "localadmin_id":404554467,
+            "locality_id":1209611221,
+            "region_id":85681921
         }
     ],
     "wof:id":1209611221,
-    "wof:lastmodified":1566622188,
+    "wof:lastmodified":1576524996,
     "wof:name":"Alto Sao Francisco",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404554467,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

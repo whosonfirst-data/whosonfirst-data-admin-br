@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681925,
+        102052677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"2fee53fef2f14343c57a3988623dfa32",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209662483
+            "county_id":102052677,
+            "locality_id":1209662483,
+            "region_id":85681925
         }
     ],
     "wof:id":1209662483,
-    "wof:lastmodified":1566622193,
+    "wof:lastmodified":1576525719,
     "wof:name":"Nortelandia",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102052677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

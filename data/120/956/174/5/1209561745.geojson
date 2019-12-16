@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        404560679,
+        85633009,
+        102056831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"a9c8ea02e18f976a3c819aae6229726b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209561745
+            "county_id":102056831,
+            "localadmin_id":404560679,
+            "locality_id":1209561745,
+            "region_id":85681973
         }
     ],
     "wof:id":1209561745,
-    "wof:lastmodified":1566622241,
+    "wof:lastmodified":1576534037,
     "wof:name":"Feijao",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560679,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

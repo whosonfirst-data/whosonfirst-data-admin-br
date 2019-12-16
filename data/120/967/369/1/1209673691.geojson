@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682015,
+        102191577,
+        404564953,
+        85633009,
+        102060069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"3468419d168548a7546d3d54d060649f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209673691
+            "county_id":102060069,
+            "localadmin_id":404564953,
+            "locality_id":1209673691,
+            "region_id":85682015
         }
     ],
     "wof:id":1209673691,
-    "wof:lastmodified":1566622217,
+    "wof:lastmodified":1576535841,
     "wof:name":"Ararapari",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404564953,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

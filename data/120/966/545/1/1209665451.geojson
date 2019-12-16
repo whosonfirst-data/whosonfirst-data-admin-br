@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        404560227,
+        85633009,
+        102056547
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"a67fef41a38d89bdcd3c6c4203faef94",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209665451
+            "county_id":102056547,
+            "localadmin_id":404560227,
+            "locality_id":1209665451,
+            "region_id":85681973
         }
     ],
     "wof:id":1209665451,
-    "wof:lastmodified":1566622191,
+    "wof:lastmodified":1576533956,
     "wof:name":"Mineiro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560227,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

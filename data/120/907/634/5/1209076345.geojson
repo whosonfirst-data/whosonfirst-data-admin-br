@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404558017,
+        85633009,
+        102054741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"8861b21ee944b266b455212ab29a3f0b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209076345
+            "county_id":102054741,
+            "localadmin_id":404558017,
+            "locality_id":1209076345,
+            "region_id":85681941
         }
     ],
     "wof:id":1209076345,
-    "wof:lastmodified":1566621946,
+    "wof:lastmodified":1576530722,
     "wof:name":"Antonio Pardinho",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

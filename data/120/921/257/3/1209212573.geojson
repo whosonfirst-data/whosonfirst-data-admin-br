@@ -83,7 +83,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553025,
+        85633009,
+        102051575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,14 +97,18 @@
     "wof:geomhash":"e14a346efacedc095a221c6032722c49",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209212573
+            "county_id":102051575,
+            "localadmin_id":404553025,
+            "locality_id":1209212573,
+            "region_id":85681907
         }
     ],
     "wof:id":1209212573,
-    "wof:lastmodified":1566622348,
+    "wof:lastmodified":1576524750,
     "wof:name":"Desterro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553025,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

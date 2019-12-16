@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566797,
+        85633009,
+        102061763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"a4b9987b87b078826ad20f37e3ef31d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209476423
+            "county_id":102061763,
+            "localadmin_id":404566797,
+            "locality_id":1209476423,
+            "region_id":85682041
         }
     ],
     "wof:id":1209476423,
-    "wof:lastmodified":1566622128,
+    "wof:lastmodified":1576537218,
     "wof:name":"Stio da Gara",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566797,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

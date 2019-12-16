@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681973,
+        102056489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"651d7644b302d7d2f0f5aa0bb836c915",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209676079
+            "county_id":102056489,
+            "locality_id":1209676079,
+            "region_id":85681973
         }
     ],
     "wof:id":1209676079,
-    "wof:lastmodified":1566622220,
+    "wof:lastmodified":1576533939,
     "wof:name":"Jatoba",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056489,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

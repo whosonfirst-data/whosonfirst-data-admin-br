@@ -74,7 +74,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681879,
+        102050059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,14 +87,17 @@
     "wof:geomhash":"6968b22cd1ecf4ab5383290f1c546b60",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209227717
+            "county_id":102050059,
+            "locality_id":1209227717,
+            "region_id":85681879
         }
     ],
     "wof:id":1209227717,
-    "wof:lastmodified":1566622155,
+    "wof:lastmodified":1576522976,
     "wof:name":"Ilha Grande",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050059,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

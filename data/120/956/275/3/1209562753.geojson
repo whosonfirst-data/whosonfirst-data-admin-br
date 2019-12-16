@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85682041,
+        102062325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"41ce42d1c6e164d75a8d94a9d072eaa5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209562753
+            "county_id":102062325,
+            "locality_id":1209562753,
+            "region_id":85682041
         }
     ],
     "wof:id":1209562753,
-    "wof:lastmodified":1566622241,
+    "wof:lastmodified":1576538389,
     "wof:name":"Corrego Fundo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102062325,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

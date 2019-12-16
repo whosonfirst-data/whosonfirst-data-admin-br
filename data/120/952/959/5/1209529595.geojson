@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681873,
+        102050009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"b7f1b6ca865bd479801338231765dd28",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209529595
+            "county_id":102050009,
+            "locality_id":1209529595,
+            "region_id":85681873
         }
     ],
     "wof:id":1209529595,
-    "wof:lastmodified":1566622047,
+    "wof:lastmodified":1576522549,
     "wof:name":"Colocacao Boa Fe",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050009,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -77,7 +77,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681879,
+        102050129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,14 +90,17 @@
     "wof:geomhash":"9daf331d92c49aca617791a237830c3c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209417895
+            "county_id":102050129,
+            "locality_id":1209417895,
+            "region_id":85681879
         }
     ],
     "wof:id":1209417895,
-    "wof:lastmodified":1566622101,
+    "wof:lastmodified":1576522987,
     "wof:name":"Salgado",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

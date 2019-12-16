@@ -62,7 +62,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681921,
+        102191577,
+        404554611,
+        85633009,
+        102051967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,14 +76,18 @@
     "wof:geomhash":"1e096d59f435a61c71b3e6cfc381062a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209305159
+            "county_id":102051967,
+            "localadmin_id":404554611,
+            "locality_id":1209305159,
+            "region_id":85681921
         }
     ],
     "wof:id":1209305159,
-    "wof:lastmodified":1566622003,
+    "wof:lastmodified":1576525126,
     "wof:name":"Bom Sucesso",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404554611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

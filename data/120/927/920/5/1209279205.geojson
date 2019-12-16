@@ -89,7 +89,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681977,
+        102056993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,14 +102,17 @@
     "wof:geomhash":"8c2c1d1740d1f303758b7efb66b2a6a6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209279205
+            "county_id":102056993,
+            "locality_id":1209279205,
+            "region_id":85681977
         }
     ],
     "wof:id":1209279205,
-    "wof:lastmodified":1566622289,
+    "wof:lastmodified":1576534105,
     "wof:name":"Carpina",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056993,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

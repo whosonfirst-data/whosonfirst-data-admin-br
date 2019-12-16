@@ -181,7 +181,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681955,
+        102191577,
+        404559127,
+        85633009,
+        102055389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -191,14 +195,18 @@
     "wof:geomhash":"2c2dd56f1ebb192cc002e0d326a701df",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209586505
+            "county_id":102055389,
+            "localadmin_id":404559127,
+            "locality_id":1209586505,
+            "region_id":85681955
         }
     ],
     "wof:id":1209586505,
-    "wof:lastmodified":1566622226,
+    "wof:lastmodified":1576532809,
     "wof:name":"Orion",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

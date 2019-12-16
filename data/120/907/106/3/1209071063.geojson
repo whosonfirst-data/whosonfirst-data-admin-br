@@ -92,7 +92,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681977,
+        102057157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,14 +105,17 @@
     "wof:geomhash":"82035fa26edc453528ec70576f93286d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209071063
+            "county_id":102057157,
+            "locality_id":1209071063,
+            "region_id":85681977
         }
     ],
     "wof:id":1209071063,
-    "wof:lastmodified":1566621951,
+    "wof:lastmodified":1576534159,
     "wof:name":"Lagoinha",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

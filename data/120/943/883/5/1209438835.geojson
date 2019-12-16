@@ -89,7 +89,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681885,
+        102050401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,14 +102,17 @@
     "wof:geomhash":"87e9c0206ba7dbcc1ab76e437ad4e4e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209438835
+            "county_id":102050401,
+            "locality_id":1209438835,
+            "region_id":85681885
         }
     ],
     "wof:id":1209438835,
-    "wof:lastmodified":1566622399,
+    "wof:lastmodified":1576523112,
     "wof:name":"Monte Carmelo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050401,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

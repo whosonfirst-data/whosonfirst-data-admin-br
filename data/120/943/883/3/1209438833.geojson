@@ -92,7 +92,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681885,
+        102050341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,14 +105,17 @@
     "wof:geomhash":"7fe0a6c68a33772bae78c19348935e20",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209438833
+            "county_id":102050341,
+            "locality_id":1209438833,
+            "region_id":85681885
         }
     ],
     "wof:id":1209438833,
-    "wof:lastmodified":1566622399,
+    "wof:lastmodified":1576523051,
     "wof:name":"Canutama",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

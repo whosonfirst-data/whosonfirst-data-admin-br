@@ -341,7 +341,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681959,
+        102055847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -351,14 +354,17 @@
     "wof:geomhash":"39c8562142daab53678604322658ccda",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209186595
+            "county_id":102055847,
+            "locality_id":1209186595,
+            "region_id":85681959
         }
     ],
     "wof:id":1209186595,
-    "wof:lastmodified":1566622298,
+    "wof:lastmodified":1576533502,
     "wof:name":"Belo Horizonte",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

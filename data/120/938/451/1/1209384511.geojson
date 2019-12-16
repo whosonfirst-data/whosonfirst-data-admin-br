@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681959,
+        102191577,
+        404559455,
+        85633009,
+        102055667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"d33580a92e33a4869a26bbadf03cf3c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209384511
+            "county_id":102055667,
+            "localadmin_id":404559455,
+            "locality_id":1209384511,
+            "region_id":85681959
         }
     ],
     "wof:id":1209384511,
-    "wof:lastmodified":1566621941,
+    "wof:lastmodified":1576533305,
     "wof:name":"Miriteua",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559455,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

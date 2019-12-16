@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404552595,
+        85633009,
+        102051475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"f2c461f7f2e23973bff66ff57e168084",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209407227
+            "county_id":102051475,
+            "localadmin_id":404552595,
+            "locality_id":1209407227,
+            "region_id":85681907
         }
     ],
     "wof:id":1209407227,
-    "wof:lastmodified":1566622110,
+    "wof:lastmodified":1576524718,
     "wof:name":"Fazenda Barra Nova",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404552595,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -71,7 +71,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551121,
+        85633009,
+        102050839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,14 +85,18 @@
     "wof:geomhash":"604449c04d1c1de9b828bec6e18b5ee7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209538295
+            "county_id":102050839,
+            "localadmin_id":404551121,
+            "locality_id":1209538295,
+            "region_id":85681895
         }
     ],
     "wof:id":1209538295,
-    "wof:lastmodified":1566621958,
+    "wof:lastmodified":1576523826,
     "wof:name":"Candeias",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

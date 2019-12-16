@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681977,
+        102056941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"65a9a04d5eb799a58415c1193f69beee",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209188731
+            "county_id":102056941,
+            "locality_id":1209188731,
+            "region_id":85681977
         }
     ],
     "wof:id":1209188731,
-    "wof:lastmodified":1566622295,
+    "wof:lastmodified":1576534084,
     "wof:name":"Tapera",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056941,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681991,
+        102191577,
+        404562621,
+        85633009,
+        102058495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"cf6608d9ada3e545a6884fd60b940b03",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209574361
+            "county_id":102058495,
+            "localadmin_id":404562621,
+            "locality_id":1209574361,
+            "region_id":85681991
         }
     ],
     "wof:id":1209574361,
-    "wof:lastmodified":1566622162,
+    "wof:lastmodified":1576535250,
     "wof:name":"Bairro do Jacaranda",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562621,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

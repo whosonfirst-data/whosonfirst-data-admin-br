@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404560855,
+        85633009,
+        102057433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"455f7f5cff64c1bed10545fce18fb9b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209578645
+            "county_id":102057433,
+            "localadmin_id":404560855,
+            "locality_id":1209578645,
+            "region_id":85681983
         }
     ],
     "wof:id":1209578645,
-    "wof:lastmodified":1566622169,
+    "wof:lastmodified":1576534316,
     "wof:name":"Sitio Tres Palmeiras",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682015,
+        102191577,
+        404564637,
+        85633009,
+        102059925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"0e6aca8aab995dba992f6f4372c6089b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209062455
+            "county_id":102059925,
+            "localadmin_id":404564637,
+            "locality_id":1209062455,
+            "region_id":85682015
         }
     ],
     "wof:id":1209062455,
-    "wof:lastmodified":1566621991,
+    "wof:lastmodified":1576535776,
     "wof:name":"Gustavo Berthier",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404564637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

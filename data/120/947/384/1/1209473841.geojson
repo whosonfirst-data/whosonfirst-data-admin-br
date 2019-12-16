@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681991,
+        102191577,
+        404562655,
+        85633009,
+        102058503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"b44dae75f6af2ee6ae29e6f3fdd00a50",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209473841
+            "county_id":102058503,
+            "localadmin_id":404562655,
+            "locality_id":1209473841,
+            "region_id":85681991
         }
     ],
     "wof:id":1209473841,
-    "wof:lastmodified":1566622131,
+    "wof:lastmodified":1576535272,
     "wof:name":"Joao Honorio",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

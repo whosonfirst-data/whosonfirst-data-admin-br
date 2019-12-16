@@ -103,7 +103,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682021,
+        102191577,
+        404565545,
+        85633009,
+        102060487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,14 +117,18 @@
     "wof:geomhash":"ad5ab6326f9e99d453f64537950f4290",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209072957
+            "county_id":102060487,
+            "localadmin_id":404565545,
+            "locality_id":1209072957,
+            "region_id":85682021
         }
     ],
     "wof:id":1209072957,
-    "wof:lastmodified":1566621947,
+    "wof:lastmodified":1576536159,
     "wof:name":"Serro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404565545,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -57,7 +57,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681955,
+        102191577,
+        404559255,
+        85633009,
+        102055489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,14 +71,18 @@
     "wof:geomhash":"d8aa6cf1ed56c16d11591bbd8f014b59",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209398343
+            "county_id":102055489,
+            "localadmin_id":404559255,
+            "locality_id":1209398343,
+            "region_id":85681955
         }
     ],
     "wof:id":1209398343,
-    "wof:lastmodified":1566621986,
+    "wof:lastmodified":1576532942,
     "wof:name":"Alegre",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559255,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

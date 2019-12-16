@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404550937,
+        85633009,
+        102050753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"01c2fa22237792a515a9b5dd24480928",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209414017
+            "county_id":102050753,
+            "localadmin_id":404550937,
+            "locality_id":1209414017,
+            "region_id":85681895
         }
     ],
     "wof:id":1209414017,
-    "wof:lastmodified":1566622097,
+    "wof:lastmodified":1576523648,
     "wof:name":"Araca",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

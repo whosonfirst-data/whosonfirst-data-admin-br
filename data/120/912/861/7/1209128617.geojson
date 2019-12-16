@@ -68,7 +68,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551393,
+        85633009,
+        102050975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,14 +82,18 @@
     "wof:geomhash":"8e9b185648235b673c6215b23428159f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209128617
+            "county_id":102050975,
+            "localadmin_id":404551393,
+            "locality_id":1209128617,
+            "region_id":85681895
         }
     ],
     "wof:id":1209128617,
-    "wof:lastmodified":1566622103,
+    "wof:lastmodified":1576523975,
     "wof:name":"Arara",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551393,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

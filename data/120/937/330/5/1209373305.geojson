@@ -89,7 +89,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681999,
+        102058755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,14 +102,17 @@
     "wof:geomhash":"4bb9e405afd6111a5adefe63f1da6ef8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209373305
+            "county_id":102058755,
+            "locality_id":1209373305,
+            "region_id":85681999
         }
     ],
     "wof:id":1209373305,
-    "wof:lastmodified":1566622014,
+    "wof:lastmodified":1576535326,
     "wof:name":"Baliza",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

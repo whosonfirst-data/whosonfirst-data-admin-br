@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566701,
+        85633009,
+        102061711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"0ba188ad89341b782bb39e200f9de3b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209476435
+            "county_id":102061711,
+            "localadmin_id":404566701,
+            "locality_id":1209476435,
+            "region_id":85682041
         }
     ],
     "wof:id":1209476435,
-    "wof:lastmodified":1566622127,
+    "wof:lastmodified":1576537125,
     "wof:name":"Bairro da Caceia",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566701,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

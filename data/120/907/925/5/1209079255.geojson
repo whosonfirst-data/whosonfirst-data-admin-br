@@ -146,7 +146,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404558709,
+        85633009,
+        102055123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -156,14 +160,18 @@
     "wof:geomhash":"2e9b99ff9a2170dd1a25778034a5524f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209079255
+            "county_id":102055123,
+            "localadmin_id":404558709,
+            "locality_id":1209079255,
+            "region_id":85681941
         }
     ],
     "wof:id":1209079255,
-    "wof:lastmodified":1566621949,
+    "wof:lastmodified":1576532474,
     "wof:name":"Santa Maria",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558709,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

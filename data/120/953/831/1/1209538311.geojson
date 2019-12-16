@@ -77,7 +77,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404550493,
+        85633009,
+        102050531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,14 +91,18 @@
     "wof:geomhash":"7f58ccc89ecc5b8a98f07d50bc54526a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209538311
+            "county_id":102050531,
+            "localadmin_id":404550493,
+            "locality_id":1209538311,
+            "region_id":85681895
         }
     ],
     "wof:id":1209538311,
-    "wof:lastmodified":1566621960,
+    "wof:lastmodified":1576523304,
     "wof:name":"Agua Boa",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550493,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -47,7 +47,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85682021,
+        102060699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +60,17 @@
     "wof:geomhash":"0aadc72c7d8964be06b397126383c324",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209570135
+            "county_id":102060699,
+            "locality_id":1209570135,
+            "region_id":85682021
         }
     ],
     "wof:id":1209570135,
-    "wof:lastmodified":1566622160,
+    "wof:lastmodified":1576536275,
     "wof:name":"Rio Bonito",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102060699,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

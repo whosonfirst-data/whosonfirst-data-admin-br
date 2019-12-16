@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561083,
+        85633009,
+        102057593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"6982b9e42467b145c63123e9d7033cfe",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209378001
+            "county_id":102057593,
+            "localadmin_id":404561083,
+            "locality_id":1209378001,
+            "region_id":85681983
         }
     ],
     "wof:id":1209378001,
-    "wof:lastmodified":1566622022,
+    "wof:lastmodified":1576534428,
     "wof:name":"Colonia Sapucai",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561083,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

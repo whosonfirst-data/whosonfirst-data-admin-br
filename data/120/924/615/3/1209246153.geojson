@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85682053,
+        102062699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"0e1944847e05d342c3fc12643fa96f80",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209246153
+            "county_id":102062699,
+            "locality_id":1209246153,
+            "region_id":85682053
         }
     ],
     "wof:id":1209246153,
-    "wof:lastmodified":1566622107,
+    "wof:lastmodified":1576538737,
     "wof:name":"Aldeia do Meio Caraja",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102062699,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

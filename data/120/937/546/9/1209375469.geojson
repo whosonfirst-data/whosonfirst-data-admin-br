@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681925,
+        102052725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"7734a2d3bab3624838d669055957a959",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209375469
+            "county_id":102052725,
+            "locality_id":1209375469,
+            "region_id":85681925
         }
     ],
     "wof:id":1209375469,
-    "wof:lastmodified":1566622025,
+    "wof:lastmodified":1576525762,
     "wof:name":"Raizama",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102052725,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

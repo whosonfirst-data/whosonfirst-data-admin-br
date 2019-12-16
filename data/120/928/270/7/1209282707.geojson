@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682003,
+        102191577,
+        404562873,
+        85633009,
+        102058957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"13ec15285592dbdda5a2e4520129521a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209282707
+            "county_id":102058957,
+            "localadmin_id":404562873,
+            "locality_id":1209282707,
+            "region_id":85682003
         }
     ],
     "wof:id":1209282707,
-    "wof:lastmodified":1566622370,
+    "wof:lastmodified":1576535414,
     "wof:name":"Cachoeira do Samuel",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562873,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

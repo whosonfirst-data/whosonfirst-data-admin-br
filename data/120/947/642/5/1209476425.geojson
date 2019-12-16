@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566271,
+        85633009,
+        102061243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"102a5780738e1392213c358eb624922f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209476425
+            "county_id":102061243,
+            "localadmin_id":404566271,
+            "locality_id":1209476425,
+            "region_id":85682041
         }
     ],
     "wof:id":1209476425,
-    "wof:lastmodified":1566622128,
+    "wof:lastmodified":1576536628,
     "wof:name":"Mandira",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566271,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553253,
+        85633009,
+        102051629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"d55bc60e28b475b6ca8015c7576e23d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209537703
+            "county_id":102051629,
+            "localadmin_id":404553253,
+            "locality_id":1209537703,
+            "region_id":85681907
         }
     ],
     "wof:id":1209537703,
-    "wof:lastmodified":1566621958,
+    "wof:lastmodified":1576524766,
     "wof:name":"Gangorra (1)",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553253,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

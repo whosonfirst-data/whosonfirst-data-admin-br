@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551883,
+        85633009,
+        102051223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"588c62c43f969285c2dcf5743efce42b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209111073
+            "county_id":102051223,
+            "localadmin_id":404551883,
+            "locality_id":1209111073,
+            "region_id":85681895
         }
     ],
     "wof:id":1209111073,
-    "wof:lastmodified":1566622266,
+    "wof:lastmodified":1576524286,
     "wof:name":"Camurugi",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551883,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

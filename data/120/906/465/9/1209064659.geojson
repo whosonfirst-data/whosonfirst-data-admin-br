@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682015,
+        102191577,
+        404563341,
+        85633009,
+        102059251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"f784e230ab6db91f9f59414052e7bbfe",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209064659
+            "county_id":102059251,
+            "localadmin_id":404563341,
+            "locality_id":1209064659,
+            "region_id":85682015
         }
     ],
     "wof:id":1209064659,
-    "wof:lastmodified":1566621992,
+    "wof:lastmodified":1576535566,
     "wof:name":"Seculo Vigesimo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404563341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

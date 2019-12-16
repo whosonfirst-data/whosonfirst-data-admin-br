@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404552073,
+        85633009,
+        102051323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"7f7e4830d4540d08e6fd1c9dbca597b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209246391
+            "county_id":102051323,
+            "localadmin_id":404552073,
+            "locality_id":1209246391,
+            "region_id":85681895
         }
     ],
     "wof:id":1209246391,
-    "wof:lastmodified":1566622108,
+    "wof:lastmodified":1576524590,
     "wof:name":"Enxu",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404552073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

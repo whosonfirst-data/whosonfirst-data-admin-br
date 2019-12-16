@@ -40,7 +40,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404558557,
+        85633009,
+        102055053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +55,18 @@
     "wof:geomhash":"e7d9cef81db60d2736c633179c5179d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209296761
+            "county_id":102055053,
+            "localadmin_id":404558557,
+            "locality_id":1209296761,
+            "region_id":85681941
         }
     ],
     "wof:id":1209296761,
-    "wof:lastmodified":1566622277,
+    "wof:lastmodified":1576532207,
     "wof:name":"Taquaracu",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558557,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

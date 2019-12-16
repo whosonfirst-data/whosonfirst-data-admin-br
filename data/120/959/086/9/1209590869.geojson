@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681983,
+        102057609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"7f2c20ca2b0d6a7537d6161f932ab732",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209590869
+            "county_id":102057609,
+            "locality_id":1209590869,
+            "region_id":85681983
         }
     ],
     "wof:id":1209590869,
-    "wof:lastmodified":1566622202,
+    "wof:lastmodified":1576534438,
     "wof:name":"Sitio Boa Esperanca",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057609,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

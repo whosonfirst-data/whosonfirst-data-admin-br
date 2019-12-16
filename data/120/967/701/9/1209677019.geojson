@@ -92,7 +92,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85682041,
+        102061909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,14 +105,17 @@
     "wof:geomhash":"b199f60b78105b37b9524bf4df685499",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209677019
+            "county_id":102061909,
+            "locality_id":1209677019,
+            "region_id":85682041
         }
     ],
     "wof:id":1209677019,
-    "wof:lastmodified":1566622210,
+    "wof:lastmodified":1576537331,
     "wof:name":"Alambari",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102061909,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561921,
+        85633009,
+        102058193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"4ff6e2b7c5efa0fd1dc2e9de75bddf9b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209380935
+            "county_id":102058193,
+            "localadmin_id":404561921,
+            "locality_id":1209380935,
+            "region_id":85681983
         }
     ],
     "wof:id":1209380935,
-    "wof:lastmodified":1566621943,
+    "wof:lastmodified":1576534789,
     "wof:name":"Portaozinho",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

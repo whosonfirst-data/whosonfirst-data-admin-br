@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566783,
+        85633009,
+        102061763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"2a5e1c3152e91b2bc9f2d713f011b48f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209562751
+            "county_id":102061763,
+            "localadmin_id":404566783,
+            "locality_id":1209562751,
+            "region_id":85682041
         }
     ],
     "wof:id":1209562751,
-    "wof:lastmodified":1566622241,
+    "wof:lastmodified":1576537218,
     "wof:name":"Bairro Tabuo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566783,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

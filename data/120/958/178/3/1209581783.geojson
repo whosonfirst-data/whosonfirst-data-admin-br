@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561839,
+        85633009,
+        102058157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"cd82c40f5fa4697287d8f654d5d37298",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209581783
+            "county_id":102058157,
+            "localadmin_id":404561839,
+            "locality_id":1209581783,
+            "region_id":85681983
         }
     ],
     "wof:id":1209581783,
-    "wof:lastmodified":1566622233,
+    "wof:lastmodified":1576534744,
     "wof:name":"Sitio Pedro Eloy",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

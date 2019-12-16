@@ -71,7 +71,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681931,
+        102053135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,14 +84,17 @@
     "wof:geomhash":"77c60c25d535cf233b91fcb4ca82d08b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209695091
+            "county_id":102053135,
+            "locality_id":1209695091,
+            "region_id":85681931
         }
     ],
     "wof:id":1209695091,
-    "wof:lastmodified":1566622249,
+    "wof:lastmodified":1576526036,
     "wof:name":"Pau d'Arco",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102053135,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

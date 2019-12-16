@@ -53,7 +53,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681885,
+        102191577,
+        404550277,
+        85633009,
+        102050377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +67,18 @@
     "wof:geomhash":"ae623eef67d8cb69b29449e90e75c816",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209420969
+            "county_id":102050377,
+            "localadmin_id":404550277,
+            "locality_id":1209420969,
+            "region_id":85681885
         }
     ],
     "wof:id":1209420969,
-    "wof:lastmodified":1566622337,
+    "wof:lastmodified":1576523087,
     "wof:name":"Campina",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550277,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

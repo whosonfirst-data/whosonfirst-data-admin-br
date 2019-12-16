@@ -93,7 +93,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681947,
+        102191577,
+        404558877,
+        85633009,
+        102055227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,14 +107,18 @@
     "wof:geomhash":"6dc4adf09dba9cd426e2e17c88a83b0b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209295545
+            "county_id":102055227,
+            "localadmin_id":404558877,
+            "locality_id":1209295545,
+            "region_id":85681947
         }
     ],
     "wof:id":1209295545,
-    "wof:lastmodified":1566622276,
+    "wof:lastmodified":1576532649,
     "wof:name":"Vitoria",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558877,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -36,9 +36,6 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
-        85632521,
-        85675899,
-        421175219,
         85633009,
         85681885,
         102050299
@@ -52,13 +49,6 @@
     "wof:hierarchy":[
         {
             "continent_id":102191577,
-            "country_id":85632521,
-            "county_id":421175219,
-            "locality_id":1260207555,
-            "region_id":85675899
-        },
-        {
-            "continent_id":102191577,
             "country_id":85633009,
             "county_id":102050299,
             "locality_id":1260207555,
@@ -66,9 +56,9 @@
         }
     ],
     "wof:id":1260207555,
-    "wof:lastmodified":1566622660,
+    "wof:lastmodified":1576523036,
     "wof:name":"Bela Vista",
-    "wof:parent_id":-4,
+    "wof:parent_id":102050299,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681977,
+        102056991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"33d568fdc38799568aec40c4a8b93d0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209379637
+            "county_id":102056991,
+            "locality_id":1209379637,
+            "region_id":85681977
         }
     ],
     "wof:id":1209379637,
-    "wof:lastmodified":1566622015,
+    "wof:lastmodified":1576534103,
     "wof:name":"Caldeirao",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056991,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681973,
+        102056543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"7f86c80624bcaa2d6d9428e3fdebf3e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209361267
+            "county_id":102056543,
+            "locality_id":1209361267,
+            "region_id":85681973
         }
     ],
     "wof:id":1209361267,
-    "wof:lastmodified":1566621925,
+    "wof:lastmodified":1576533954,
     "wof:name":"Pintada",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056543,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

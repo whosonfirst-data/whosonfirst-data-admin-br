@@ -59,7 +59,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681931,
+        102053019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,14 +72,17 @@
     "wof:geomhash":"12d8cd5c2b76d1e20083284583347891",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209077511
+            "county_id":102053019,
+            "locality_id":1209077511,
+            "region_id":85681931
         }
     ],
     "wof:id":1209077511,
-    "wof:lastmodified":1566621950,
+    "wof:lastmodified":1576525978,
     "wof:name":"Barreiro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102053019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

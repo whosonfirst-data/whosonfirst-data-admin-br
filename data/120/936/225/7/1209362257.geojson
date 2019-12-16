@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85682041,
+        102061067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"84b01752102f6cf8f38e65d5de6c78df",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209362257
+            "county_id":102061067,
+            "locality_id":1209362257,
+            "region_id":85682041
         }
     ],
     "wof:id":1209362257,
-    "wof:lastmodified":1566621927,
+    "wof:lastmodified":1576536507,
     "wof:name":"Barreiro de Baixo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102061067,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

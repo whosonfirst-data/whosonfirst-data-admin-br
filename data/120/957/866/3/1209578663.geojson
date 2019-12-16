@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561861,
+        85633009,
+        102058169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"8ed7cc5ca54e06121e17adba862223e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209578663
+            "county_id":102058169,
+            "localadmin_id":404561861,
+            "locality_id":1209578663,
+            "region_id":85681983
         }
     ],
     "wof:id":1209578663,
-    "wof:lastmodified":1566622161,
+    "wof:lastmodified":1576534763,
     "wof:name":"Sitio Joao A. Barbosa",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561861,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

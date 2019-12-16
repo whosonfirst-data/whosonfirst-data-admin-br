@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681885,
+        102050297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"be2a7bdbde9fcfd912e03983641988ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209539575
+            "county_id":102050297,
+            "locality_id":1209539575,
+            "region_id":85681885
         }
     ],
     "wof:id":1209539575,
-    "wof:lastmodified":1566621959,
+    "wof:lastmodified":1576523033,
     "wof:name":"Castanho",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050297,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

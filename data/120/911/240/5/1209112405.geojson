@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681885,
+        102050365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"4f1db814ad2daf6e650f692067272266",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209112405
+            "county_id":102050365,
+            "locality_id":1209112405,
+            "region_id":85681885
         }
     ],
     "wof:id":1209112405,
-    "wof:lastmodified":1566622266,
+    "wof:lastmodified":1576523073,
     "wof:name":"Boa Esperanca",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

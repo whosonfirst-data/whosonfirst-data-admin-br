@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682015,
+        102191577,
+        404563341,
+        85633009,
+        102059251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"27dce25b35a4f131dcc689600b0c93dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209671597
+            "county_id":102059251,
+            "localadmin_id":404563341,
+            "locality_id":1209671597,
+            "region_id":85682015
         }
     ],
     "wof:id":1209671597,
-    "wof:lastmodified":1566622211,
+    "wof:lastmodified":1576535566,
     "wof:name":"Nossa Senhora do Pendancino",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404563341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

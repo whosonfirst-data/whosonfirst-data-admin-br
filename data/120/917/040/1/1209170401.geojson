@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85682015,
+        102059263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"cc7f3cc4ff5968e60717638ee7019ce8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209170401
+            "county_id":102059263,
+            "locality_id":1209170401,
+            "region_id":85682015
         }
     ],
     "wof:id":1209170401,
-    "wof:lastmodified":1566622356,
+    "wof:lastmodified":1576535569,
     "wof:name":"Brasino",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102059263,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

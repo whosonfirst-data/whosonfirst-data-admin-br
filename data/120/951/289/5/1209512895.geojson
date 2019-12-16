@@ -203,7 +203,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404552741,
+        85633009,
+        102051511
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -213,14 +217,18 @@
     "wof:geomhash":"7d9b8d0bdea0e2090f16456ca524d969",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209512895
+            "county_id":102051511,
+            "localadmin_id":404552741,
+            "locality_id":1209512895,
+            "region_id":85681907
         }
     ],
     "wof:id":1209512895,
-    "wof:lastmodified":1566622253,
+    "wof:lastmodified":1576524731,
     "wof:name":"Olinda",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404552741,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

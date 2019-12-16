@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681925,
+        102052007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"a2e72b8a864640c8a5f83bfe40aab37e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209066917
+            "county_id":102052007,
+            "locality_id":1209066917,
+            "region_id":85681925
         }
     ],
     "wof:id":1209066917,
-    "wof:lastmodified":1566621997,
+    "wof:lastmodified":1576525219,
     "wof:name":"Camargo Martins",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102052007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

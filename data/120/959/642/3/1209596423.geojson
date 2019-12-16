@@ -39,7 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681947,
+        102055279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,17 @@
     "wof:geomhash":"2ffae38f4a0fb530b869fd8173867214",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209596423
+            "county_id":102055279,
+            "locality_id":1209596423,
+            "region_id":85681947
         }
     ],
     "wof:id":1209596423,
-    "wof:lastmodified":1566622197,
+    "wof:lastmodified":1576532694,
     "wof:name":"Ponta Cal",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055279,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

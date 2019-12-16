@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681931,
+        102053149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"5e015e42d0341f403dc9d34d80370d18",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209300713
+            "county_id":102053149,
+            "locality_id":1209300713,
+            "region_id":85681931
         }
     ],
     "wof:id":1209300713,
-    "wof:lastmodified":1566622002,
+    "wof:lastmodified":1576526048,
     "wof:name":"Sao Jose",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102053149,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

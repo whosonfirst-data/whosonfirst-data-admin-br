@@ -89,7 +89,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404555451,
+        85633009,
+        102053541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,14 +103,18 @@
     "wof:geomhash":"2ec65a0b50885ef815bd6492f032ad2b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209497459
+            "county_id":102053541,
+            "localadmin_id":404555451,
+            "locality_id":1209497459,
+            "region_id":85681941
         }
     ],
     "wof:id":1209497459,
-    "wof:lastmodified":1566622147,
+    "wof:lastmodified":1576527296,
     "wof:name":"Sumidouro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555451,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

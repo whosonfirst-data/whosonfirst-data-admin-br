@@ -53,7 +53,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404550391,
+        85633009,
+        102050481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +67,18 @@
     "wof:geomhash":"6b3edb10b518dcb02aceadae5059939f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209009013
+            "county_id":102050481,
+            "localadmin_id":404550391,
+            "locality_id":1209009013,
+            "region_id":85681895
         }
     ],
     "wof:id":1209009013,
-    "wof:lastmodified":1566621956,
+    "wof:lastmodified":1576523238,
     "wof:name":"Terra Alta",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550391,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

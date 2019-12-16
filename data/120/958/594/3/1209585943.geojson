@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404555685,
+        85633009,
+        102053361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"db977690815516d07433f3d2b228488c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209585943
+            "county_id":102053361,
+            "localadmin_id":404555685,
+            "locality_id":1209585943,
+            "region_id":85681941
         }
     ],
     "wof:id":1209585943,
-    "wof:lastmodified":1566622221,
+    "wof:lastmodified":1576526623,
     "wof:name":"Marmota",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555685,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

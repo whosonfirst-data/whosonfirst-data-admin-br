@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681983,
+        102057495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"532d668aa7f0647c6ea2d80942467588",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209478205
+            "county_id":102057495,
+            "locality_id":1209478205,
+            "region_id":85681983
         }
     ],
     "wof:id":1209478205,
-    "wof:lastmodified":1566622127,
+    "wof:lastmodified":1576534353,
     "wof:name":"Sitio Rinaldo B. dos Santos",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

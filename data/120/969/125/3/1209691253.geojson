@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681983,
+        102058085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"1d45a7cccd30cd3c78e74a969431983b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209691253
+            "county_id":102058085,
+            "locality_id":1209691253,
+            "region_id":85681983
         }
     ],
     "wof:id":1209691253,
-    "wof:lastmodified":1566622252,
+    "wof:lastmodified":1576534688,
     "wof:name":"Pedro Lustosa",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058085,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

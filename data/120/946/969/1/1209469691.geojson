@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682021,
+        102191577,
+        404565819,
+        85633009,
+        102060705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"e01960775ebbc76da1538dad11a1b352",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209469691
+            "county_id":102060705,
+            "localadmin_id":404565819,
+            "locality_id":1209469691,
+            "region_id":85682021
         }
     ],
     "wof:id":1209469691,
-    "wof:lastmodified":1566622093,
+    "wof:lastmodified":1576536280,
     "wof:name":"Sanga da Areia",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404565819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

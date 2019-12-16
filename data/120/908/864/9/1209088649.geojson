@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404556711,
+        85633009,
+        102054075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"47d0ea4a5ffbb05c41657c0586bf6409",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209088649
+            "county_id":102054075,
+            "localadmin_id":404556711,
+            "locality_id":1209088649,
+            "region_id":85681941
         }
     ],
     "wof:id":1209088649,
-    "wof:lastmodified":1566622010,
+    "wof:lastmodified":1576528862,
     "wof:name":"Augusto Queiroga",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404556711,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

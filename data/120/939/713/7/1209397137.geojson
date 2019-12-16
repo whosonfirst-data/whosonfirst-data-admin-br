@@ -141,7 +141,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404555169,
+        85633009,
+        102053399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -151,14 +155,18 @@
     "wof:geomhash":"bba9e8dadc86812acec0ae662147aca0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209397137
+            "county_id":102053399,
+            "localadmin_id":404555169,
+            "locality_id":1209397137,
+            "region_id":85681941
         }
     ],
     "wof:id":1209397137,
-    "wof:lastmodified":1566621986,
+    "wof:lastmodified":1576526697,
     "wof:name":"Benjamin Constant",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

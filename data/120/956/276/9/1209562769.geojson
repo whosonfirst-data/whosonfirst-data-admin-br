@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566501,
+        85633009,
+        102061497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"c0ee1df22dafd631896868174a7cd7b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209562769
+            "county_id":102061497,
+            "localadmin_id":404566501,
+            "locality_id":1209562769,
+            "region_id":85682041
         }
     ],
     "wof:id":1209562769,
-    "wof:lastmodified":1566622244,
+    "wof:lastmodified":1576536823,
     "wof:name":"Sitio Lar de Katahara",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566501,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -83,7 +83,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561221,
+        85633009,
+        102057711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,14 +97,18 @@
     "wof:geomhash":"bf2a7a8e7b15300336566bf0126b4464",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209378061
+            "county_id":102057711,
+            "localadmin_id":404561221,
+            "locality_id":1209378061,
+            "region_id":85681983
         }
     ],
     "wof:id":1209378061,
-    "wof:lastmodified":1566622023,
+    "wof:lastmodified":1576534488,
     "wof:name":"Almeida",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561221,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

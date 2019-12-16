@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566701,
+        85633009,
+        102061711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"8253182bcc3316bf7d832a9ac53a1602",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209669499
+            "county_id":102061711,
+            "localadmin_id":404566701,
+            "locality_id":1209669499,
+            "region_id":85682041
         }
     ],
     "wof:id":1209669499,
-    "wof:lastmodified":1566622191,
+    "wof:lastmodified":1576537126,
     "wof:name":"Bairro Votorantim",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566701,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

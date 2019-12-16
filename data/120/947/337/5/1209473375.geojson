@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681999,
+        102058831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"7e21346e9205a96953609cef6c821e33",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209473375
+            "county_id":102058831,
+            "locality_id":1209473375,
+            "region_id":85681999
         }
     ],
     "wof:id":1209473375,
-    "wof:lastmodified":1566622124,
+    "wof:lastmodified":1576535352,
     "wof:name":"Caiada de Baixo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

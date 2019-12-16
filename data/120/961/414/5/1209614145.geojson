@@ -65,7 +65,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551959,
+        85633009,
+        102051267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,14 +79,18 @@
     "wof:geomhash":"5f37c66551a808b1cc3da248f0b1bd9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209614145
+            "county_id":102051267,
+            "localadmin_id":404551959,
+            "locality_id":1209614145,
+            "region_id":85681895
         }
     ],
     "wof:id":1209614145,
-    "wof:lastmodified":1566622184,
+    "wof:lastmodified":1576524500,
     "wof:name":"Lagoa Grande",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551959,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

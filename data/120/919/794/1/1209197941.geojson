@@ -83,7 +83,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681955,
+        102055375
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,14 +96,17 @@
     "wof:geomhash":"a6decadb7f9aa6b01fdd0d0ba3a9b765",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209197941
+            "county_id":102055375,
+            "locality_id":1209197941,
+            "region_id":85681955
         }
     ],
     "wof:id":1209197941,
-    "wof:lastmodified":1566622344,
+    "wof:lastmodified":1576532767,
     "wof:name":"Floresta",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055375,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681967,
+        102056429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"9450e45515dc5a8ea0351adb4046db78",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209185619
+            "county_id":102056429,
+            "locality_id":1209185619,
+            "region_id":85681967
         }
     ],
     "wof:id":1209185619,
-    "wof:lastmodified":1566622294,
+    "wof:lastmodified":1576533923,
     "wof:name":"Maconha",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056429,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

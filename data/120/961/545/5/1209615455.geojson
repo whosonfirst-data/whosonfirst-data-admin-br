@@ -41,7 +41,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681885,
+        102191577,
+        404550291,
+        85633009,
+        102050403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +55,18 @@
     "wof:geomhash":"caa255ec6176deebf9455b292d7c0069",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209615455
+            "county_id":102050403,
+            "localadmin_id":404550291,
+            "locality_id":1209615455,
+            "region_id":85681885
         }
     ],
     "wof:id":1209615455,
-    "wof:lastmodified":1566622186,
+    "wof:lastmodified":1576523115,
     "wof:name":"Mabe",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550291,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

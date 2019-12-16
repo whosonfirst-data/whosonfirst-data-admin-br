@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681947,
+        102191577,
+        404559049,
+        85633009,
+        102055323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"4d9baf04b130c92f0f9723a3bdca7bd6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209693935
+            "county_id":102055323,
+            "localadmin_id":404559049,
+            "locality_id":1209693935,
+            "region_id":85681947
         }
     ],
     "wof:id":1209693935,
-    "wof:lastmodified":1566622249,
+    "wof:lastmodified":1576532720,
     "wof:name":"Baixadao",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559049,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

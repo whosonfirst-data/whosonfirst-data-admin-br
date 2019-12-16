@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681999,
+        102191577,
+        404562713,
+        85633009,
+        102058789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"82f43cd516f9ca0d36a1a101bd3f20da",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209471303
+            "county_id":102058789,
+            "localadmin_id":404562713,
+            "locality_id":1209471303,
+            "region_id":85681999
         }
     ],
     "wof:id":1209471303,
-    "wof:lastmodified":1566622134,
+    "wof:lastmodified":1576535332,
     "wof:name":"Nazare",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562713,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

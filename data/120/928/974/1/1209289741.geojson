@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561843,
+        85633009,
+        102058157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"cf47b527971b3da2c1c2cf953082f86e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209289741
+            "county_id":102058157,
+            "localadmin_id":404561843,
+            "locality_id":1209289741,
+            "region_id":85681983
         }
     ],
     "wof:id":1209289741,
-    "wof:lastmodified":1566622376,
+    "wof:lastmodified":1576534747,
     "wof:name":"Sitio Jose Augusto",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -77,7 +77,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404558767,
+        85633009,
+        102055159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,14 +91,18 @@
     "wof:geomhash":"5d5f6c735b246e4d011f951b5c77d78a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209385187
+            "county_id":102055159,
+            "localadmin_id":404558767,
+            "locality_id":1209385187,
+            "region_id":85681941
         }
     ],
     "wof:id":1209385187,
-    "wof:lastmodified":1566621939,
+    "wof:lastmodified":1576532564,
     "wof:name":"Bom Jesus",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558767,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -173,7 +173,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681959,
+        102055901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -183,14 +186,17 @@
     "wof:geomhash":"d2a18376ed1043a6c6a6403ffbbf7878",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209186591
+            "county_id":102055901,
+            "locality_id":1209186591,
+            "region_id":85681959
         }
     ],
     "wof:id":1209186591,
-    "wof:lastmodified":1566622298,
+    "wof:lastmodified":1576533639,
     "wof:name":"Santa Cruz",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055901,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

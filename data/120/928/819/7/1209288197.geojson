@@ -47,7 +47,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681955,
+        102191577,
+        404559105,
+        85633009,
+        102055377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +61,18 @@
     "wof:geomhash":"3c8712483c29b430f3294bd128de1739",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209288197
+            "county_id":102055377,
+            "localadmin_id":404559105,
+            "locality_id":1209288197,
+            "region_id":85681955
         }
     ],
     "wof:id":1209288197,
-    "wof:lastmodified":1566622365,
+    "wof:lastmodified":1576532771,
     "wof:name":"Pinda",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

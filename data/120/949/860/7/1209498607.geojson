@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        102191577,
+        85633009,
+        85681955,
+        102055659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"1a41bb18e9b7ecb6f318a664b33b604a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209498607
+            "county_id":102055659,
+            "locality_id":1209498607,
+            "region_id":85681955
         }
     ],
     "wof:id":1209498607,
-    "wof:lastmodified":1566622142,
+    "wof:lastmodified":1576533302,
     "wof:name":"Barao do Orlando",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
