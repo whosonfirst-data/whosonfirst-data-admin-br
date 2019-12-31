@@ -9,6 +9,18 @@
     "geom:latitude":-19.730832,
     "geom:longitude":-45.483627,
     "iso:country":"BR",
+    "label:eng_x_preferred_longname":[
+        "Southeast Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
+    "label:por_x_preferred_longname":[
+        "Regi\u00e3o Sudeste"
+    ],
+    "label:por_x_preferred_placetype":[
+        "regi\u00e3o"
+    ],
     "lbl:latitude":-19.223018,
     "lbl:longitude":-43.909189,
     "mps:latitude":-19.223018,
@@ -18,13 +30,21 @@
     "name:eng_x_preferred":[
         "Southeast"
     ],
+    "name:por_x_preferred":[
+        "Sudeste"
+    ],
     "src:geom":"whosonfirst",
+    "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1088815",
+        "wk:page":"Southeast_Region,_Brazil"
+    },
     "wof:country":"BR",
     "wof:created":1577753968,
-    "wof:geomhash":"be5ecbf20ac255526be1c7acbcb57ca0",
+    "wof:geomhash":"9ba10b3e8a5602a04e32bcf6d89ae4ae",
     "wof:hierarchy":[],
     "wof:id":1511777411,
     "wof:lang_x_official":[
@@ -33,11 +53,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1577753968,
+    "wof:lastmodified":1577822132,
     "wof:name":"Southeast",
     "wof:parent_id":-1,
     "wof:placetype":"macroregion",
     "wof:repo":"whosonfirst-data-admin-br",
+    "wof:statistical_gore":1,
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

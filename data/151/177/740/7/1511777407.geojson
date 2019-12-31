@@ -9,6 +9,18 @@
     "geom:latitude":-4.603766,
     "geom:longitude":-59.198634,
     "iso:country":"BR",
+    "label:eng_x_preferred_longname":[
+        "North Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
+    "label:por_x_preferred_longname":[
+        "Regi\u00e3o Norte"
+    ],
+    "label:por_x_preferred_placetype":[
+        "regi\u00e3o"
+    ],
     "lbl:latitude":-3.700556,
     "lbl:longitude":-62.287056,
     "mps:latitude":-3.700556,
@@ -18,10 +30,18 @@
     "name:eng_x_preferred":[
         "North"
     ],
+    "name:por_x_preferred":[
+        "Norte"
+    ],
     "src:geom":"whosonfirst",
+    "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q478465",
+        "wk:page":"North_Region,_Brazil"
+    },
     "wof:country":"BR",
     "wof:created":1577753961,
     "wof:geomhash":"92aa2ec97107ca868cfc837ffe81d5ea",
@@ -33,11 +53,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1577753961,
+    "wof:lastmodified":1577822115,
     "wof:name":"North",
     "wof:parent_id":-1,
     "wof:placetype":"macroregion",
     "wof:repo":"whosonfirst-data-admin-br",
+    "wof:statistical_gore":1,
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -9,6 +9,18 @@
     "geom:latitude":-27.542194,
     "geom:longitude":-52.251553,
     "iso:country":"BR",
+    "label:eng_x_preferred_longname":[
+        "South Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
+    "label:por_x_preferred_longname":[
+        "Regi\u00e3o Sul"
+    ],
+    "label:por_x_preferred_placetype":[
+        "regi\u00e3o"
+    ],
     "lbl:latitude":-27.555301,
     "lbl:longitude":-51.383962,
     "mps:latitude":-27.555301,
@@ -18,10 +30,18 @@
     "name:eng_x_preferred":[
         "South"
     ],
+    "name:por_x_preferred":[
+        "Sul"
+    ],
     "src:geom":"whosonfirst",
+    "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1060042",
+        "wk:page":"South_Region,_Brazil"
+    },
     "wof:country":"BR",
     "wof:created":1577753964,
     "wof:geomhash":"179d30f2b8f9ec5cfe5f6ec231c51006",
@@ -33,11 +53,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1577753964,
+    "wof:lastmodified":1577822124,
     "wof:name":"South",
     "wof:parent_id":-1,
     "wof:placetype":"macroregion",
     "wof:repo":"whosonfirst-data-admin-br",
+    "wof:statistical_gore":1,
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
