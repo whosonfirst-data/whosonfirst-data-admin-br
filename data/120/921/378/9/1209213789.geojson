@@ -791,7 +791,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551159,
+        85633009,
+        1511777415,
+        102050857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -801,14 +806,19 @@
     "wof:geomhash":"1dd6758cc3839b7b9d1a4dd5e5d9c2fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209213789
+            "county_id":102050857,
+            "localadmin_id":404551159,
+            "locality_id":1209213789,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209213789,
-    "wof:lastmodified":1566622349,
+    "wof:lastmodified":1577838181,
     "wof:name":"Canada",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551159,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

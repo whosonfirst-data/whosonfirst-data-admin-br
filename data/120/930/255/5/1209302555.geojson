@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681947,
+        102191577,
+        85633009,
+        1511777413,
+        102055307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"57a45150a5e6fb1338a0ed7114da59e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209302555
+            "county_id":102055307,
+            "locality_id":1209302555,
+            "macroregion_id":1511777413,
+            "region_id":85681947
         }
     ],
     "wof:id":1209302555,
-    "wof:lastmodified":1566622003,
+    "wof:lastmodified":1577836368,
     "wof:name":"Retiro Triunfo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055307,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

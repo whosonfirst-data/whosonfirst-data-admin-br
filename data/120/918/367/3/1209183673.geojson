@@ -56,7 +56,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681959,
+        102191577,
+        404559471,
+        85633009,
+        1511777407,
+        102055679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,14 +71,19 @@
     "wof:geomhash":"5295d7bbbf8b8de617ab8ff6914ade0b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209183673
+            "county_id":102055679,
+            "localadmin_id":404559471,
+            "locality_id":1209183673,
+            "macroregion_id":1511777407,
+            "region_id":85681959
         }
     ],
     "wof:id":1209183673,
-    "wof:lastmodified":1566622303,
+    "wof:lastmodified":1577825768,
     "wof:name":"Maloca",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559471,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

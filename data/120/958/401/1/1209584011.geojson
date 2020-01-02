@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682003,
+        102191577,
+        404562877,
+        85633009,
+        1511777407,
+        102058967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"8fa200dd40f06be0726111d2bf7dcce5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209584011
+            "county_id":102058967,
+            "localadmin_id":404562877,
+            "locality_id":1209584011,
+            "macroregion_id":1511777407,
+            "region_id":85682003
         }
     ],
     "wof:id":1209584011,
-    "wof:lastmodified":1566622223,
+    "wof:lastmodified":1577825864,
     "wof:name":"Sao Luis",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562877,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

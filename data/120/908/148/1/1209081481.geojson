@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561971,
+        85633009,
+        1511777409,
+        102058229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"b879641e7aac3f04559835535e8bf34e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209081481
+            "county_id":102058229,
+            "localadmin_id":404561971,
+            "locality_id":1209081481,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209081481,
-    "wof:lastmodified":1566622011,
+    "wof:lastmodified":1577828104,
     "wof:name":"Sitio Nelson da S. Guimaraes",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561971,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

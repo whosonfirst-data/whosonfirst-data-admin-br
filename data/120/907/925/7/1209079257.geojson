@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404557411,
+        85633009,
+        1511777411,
+        102054419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"cc507063dda4013cfaa5acc3f152fcff",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209079257
+            "county_id":102054419,
+            "localadmin_id":404557411,
+            "locality_id":1209079257,
+            "macroregion_id":1511777411,
+            "region_id":85681941
         }
     ],
     "wof:id":1209079257,
-    "wof:lastmodified":1566621949,
+    "wof:lastmodified":1577833764,
     "wof:name":"Amianto",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404557411,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

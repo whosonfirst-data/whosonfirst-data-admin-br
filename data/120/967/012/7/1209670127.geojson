@@ -53,7 +53,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682021,
+        102191577,
+        404565709,
+        85633009,
+        1511777409,
+        102060611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +68,19 @@
     "wof:geomhash":"9459aca52f445c362d63d62729285a10",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209670127
+            "county_id":102060611,
+            "localadmin_id":404565709,
+            "locality_id":1209670127,
+            "macroregion_id":1511777409,
+            "region_id":85682021
         }
     ],
     "wof:id":1209670127,
-    "wof:lastmodified":1566622213,
+    "wof:lastmodified":1577828631,
     "wof:name":"Penha",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404565709,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

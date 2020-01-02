@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404550467,
+        85633009,
+        1511777415,
+        102050515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"d318181d0e1ee70201a3788c0e6e5093",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209419801
+            "county_id":102050515,
+            "localadmin_id":404550467,
+            "locality_id":1209419801,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209419801,
-    "wof:lastmodified":1566622101,
+    "wof:lastmodified":1577838260,
     "wof:name":"Varzea de Pedra",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550467,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

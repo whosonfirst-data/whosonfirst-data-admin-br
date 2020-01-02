@@ -59,7 +59,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553317,
+        85633009,
+        1511777415,
+        102051637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,14 +74,19 @@
     "wof:geomhash":"fcc8f43eb7873f7ecda4318fd0a446ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209212611
+            "county_id":102051637,
+            "localadmin_id":404553317,
+            "locality_id":1209212611,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209212611,
-    "wof:lastmodified":1566622348,
+    "wof:lastmodified":1577838118,
     "wof:name":"Cutia",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553317,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

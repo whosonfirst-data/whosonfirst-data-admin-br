@@ -37,7 +37,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561621,
+        85633009,
+        1511777409,
+        102057987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +52,19 @@
     "wof:geomhash":"542dd18b8f33fa143438e4cee2cb22cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209081445
+            "county_id":102057987,
+            "localadmin_id":404561621,
+            "locality_id":1209081445,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209081445,
-    "wof:lastmodified":1566622008,
+    "wof:lastmodified":1577828063,
     "wof:name":"Iguacu",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561621,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

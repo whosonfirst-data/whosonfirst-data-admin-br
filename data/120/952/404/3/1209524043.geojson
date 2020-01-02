@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681879,
+        102191577,
+        85633009,
+        1511777415,
+        102050077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"d43f577d2b60dd406792dd51f833f68c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209524043
+            "county_id":102050077,
+            "locality_id":1209524043,
+            "macroregion_id":1511777415,
+            "region_id":85681879
         }
     ],
     "wof:id":1209524043,
-    "wof:lastmodified":1566622048,
+    "wof:lastmodified":1577838322,
     "wof:name":"Vertente",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050077,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

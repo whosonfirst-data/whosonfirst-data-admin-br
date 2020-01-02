@@ -86,7 +86,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404560865,
+        85633009,
+        1511777409,
+        102057439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,14 +101,19 @@
     "wof:geomhash":"a65e7a56f58f2f8f1e78f83ba0220b07",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209390141
+            "county_id":102057439,
+            "localadmin_id":404560865,
+            "locality_id":1209390141,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209390141,
-    "wof:lastmodified":1566621985,
+    "wof:lastmodified":1577828057,
     "wof:name":"Turvo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

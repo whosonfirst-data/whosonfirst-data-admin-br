@@ -65,7 +65,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566387,
+        85633009,
+        1511777411,
+        102061357
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,14 +80,19 @@
     "wof:geomhash":"bfe3621c988fcc5832a1d285aef49eda",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209054081
+            "county_id":102061357,
+            "localadmin_id":404566387,
+            "locality_id":1209054081,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209054081,
-    "wof:lastmodified":1566622257,
+    "wof:lastmodified":1577833572,
     "wof:name":"Posse",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566387,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

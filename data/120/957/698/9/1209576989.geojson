@@ -95,7 +95,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        85633009,
+        1511777411,
+        102061319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,14 +109,18 @@
     "wof:geomhash":"86dee49571c7572bae4e08de76d432f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209576989
+            "county_id":102061319,
+            "locality_id":1209576989,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209576989,
-    "wof:lastmodified":1566622168,
+    "wof:lastmodified":1577833761,
     "wof:name":"Borda da Mata",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102061319,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

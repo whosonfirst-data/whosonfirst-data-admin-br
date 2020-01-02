@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561783,
+        85633009,
+        1511777409,
+        102058103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"7f80c8e69f752a45b5aa1294f3a5c72b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209390127
+            "county_id":102058103,
+            "localadmin_id":404561783,
+            "locality_id":1209390127,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209390127,
-    "wof:lastmodified":1566621984,
+    "wof:lastmodified":1577828039,
     "wof:name":"Sitio Joao da Silva",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561783,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

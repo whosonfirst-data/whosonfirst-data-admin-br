@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404550605,
+        85633009,
+        1511777415,
+        102050593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"0098d15c903d091fae4a464eb07f587a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209419771
+            "county_id":102050593,
+            "localadmin_id":404550605,
+            "locality_id":1209419771,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209419771,
-    "wof:lastmodified":1566622099,
+    "wof:lastmodified":1577838245,
     "wof:name":"Lagoa do Fabio",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

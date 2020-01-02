@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404550655,
+        85633009,
+        1511777415,
+        102050619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"0b599fdea3f547e4f9365e352e37a0a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209213799
+            "county_id":102050619,
+            "localadmin_id":404550655,
+            "locality_id":1209213799,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209213799,
-    "wof:lastmodified":1566622348,
+    "wof:lastmodified":1577838211,
     "wof:name":"Os Quatro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

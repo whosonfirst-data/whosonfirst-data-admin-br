@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681999,
+        102191577,
+        85633009,
+        1511777415,
+        102058527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"21fe8b693e7c8fb9e21f8a0d13fb964a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209371223
+            "county_id":102058527,
+            "locality_id":1209371223,
+            "macroregion_id":1511777415,
+            "region_id":85681999
         }
     ],
     "wof:id":1209371223,
-    "wof:lastmodified":1566622025,
+    "wof:lastmodified":1577838059,
     "wof:name":"Bonsucesso",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058527,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

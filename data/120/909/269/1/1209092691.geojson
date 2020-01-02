@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681931,
+        102191577,
+        85633009,
+        1511777415,
+        102052889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"caaff233adca9442b4048ac04c0ff1ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209092691
+            "county_id":102052889,
+            "locality_id":1209092691,
+            "macroregion_id":1511777415,
+            "region_id":85681931
         }
     ],
     "wof:id":1209092691,
-    "wof:lastmodified":1566621921,
+    "wof:lastmodified":1577838016,
     "wof:name":"Cantinho II",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102052889,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

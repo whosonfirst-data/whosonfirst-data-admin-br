@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681885,
+        102191577,
+        85633009,
+        1511777407,
+        102050371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"e3f590a795b344af4632f6329cf03872",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209572893
+            "county_id":102050371,
+            "locality_id":1209572893,
+            "macroregion_id":1511777407,
+            "region_id":85681885
         }
     ],
     "wof:id":1209572893,
-    "wof:lastmodified":1566622160,
+    "wof:lastmodified":1577825802,
     "wof:name":"Padres",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050371,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

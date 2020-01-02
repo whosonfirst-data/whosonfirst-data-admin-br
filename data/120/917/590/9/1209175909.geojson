@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681977,
+        102191577,
+        85633009,
+        1511777415,
+        102056971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"b0132c21e256b8510acd23f7c55c4d69",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209175909
+            "county_id":102056971,
+            "locality_id":1209175909,
+            "macroregion_id":1511777415,
+            "region_id":85681977
         }
     ],
     "wof:id":1209175909,
-    "wof:lastmodified":1566622359,
+    "wof:lastmodified":1577838271,
     "wof:name":"Tabua",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056971,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

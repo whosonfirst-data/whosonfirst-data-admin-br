@@ -37,7 +37,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681955,
+        102191577,
+        404559165,
+        85633009,
+        1511777413,
+        102055417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +52,19 @@
     "wof:geomhash":"96fb890b9f0d1461a7e63585b5c34f02",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209187889
+            "county_id":102055417,
+            "localadmin_id":404559165,
+            "locality_id":1209187889,
+            "macroregion_id":1511777413,
+            "region_id":85681955
         }
     ],
     "wof:id":1209187889,
-    "wof:lastmodified":1566622308,
+    "wof:lastmodified":1577836313,
     "wof:name":"Alianca",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559165,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

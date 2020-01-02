@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553923,
+        85633009,
+        1511777415,
+        102051775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"52b58f5821b40523936a655300c04281",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209212413
+            "county_id":102051775,
+            "localadmin_id":404553923,
+            "locality_id":1209212413,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209212413,
-    "wof:lastmodified":1566622351,
+    "wof:lastmodified":1577838061,
     "wof:name":"Fazenda Corrente",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553923,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566555,
+        85633009,
+        1511777411,
+        102061565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"dfd39f4efced6a315d4df9f5af7cab50",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209669509
+            "county_id":102061565,
+            "localadmin_id":404566555,
+            "locality_id":1209669509,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209669509,
-    "wof:lastmodified":1566622192,
+    "wof:lastmodified":1577833729,
     "wof:name":"Paraiso",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566555,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

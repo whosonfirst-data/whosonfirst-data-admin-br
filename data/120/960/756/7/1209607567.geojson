@@ -77,7 +77,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553371,
+        85633009,
+        1511777415,
+        102051649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,14 +92,19 @@
     "wof:geomhash":"51d826bb54a5a1edff05d2706239d9ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209607567
+            "county_id":102051649,
+            "localadmin_id":404553371,
+            "locality_id":1209607567,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209607567,
-    "wof:lastmodified":1566622235,
+    "wof:lastmodified":1577838410,
     "wof:name":"Gameleira",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553371,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

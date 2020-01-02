@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566135,
+        85633009,
+        1511777411,
+        102061097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"ec5678aadd4c173ac49b4648d9935415",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209476427
+            "county_id":102061097,
+            "localadmin_id":404566135,
+            "locality_id":1209476427,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209476427,
-    "wof:lastmodified":1566622128,
+    "wof:lastmodified":1577833618,
     "wof:name":"Sitio Mandacaru",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566135,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

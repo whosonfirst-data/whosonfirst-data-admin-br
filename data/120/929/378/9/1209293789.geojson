@@ -53,7 +53,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681931,
+        102191577,
+        85633009,
+        1511777415,
+        102053089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +67,18 @@
     "wof:geomhash":"a61c93b0e6b8de4bfa82c70f74168705",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209293789
+            "county_id":102053089,
+            "locality_id":1209293789,
+            "macroregion_id":1511777415,
+            "region_id":85681931
         }
     ],
     "wof:id":1209293789,
-    "wof:lastmodified":1566622275,
+    "wof:lastmodified":1577838960,
     "wof:name":"Balaiada",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102053089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

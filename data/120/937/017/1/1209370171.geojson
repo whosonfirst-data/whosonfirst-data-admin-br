@@ -59,7 +59,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682011,
+        102191577,
+        85633009,
+        1511777407,
+        102059005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,14 +73,18 @@
     "wof:geomhash":"cc82ce48ae86d9d0e9560d22911d4ee5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209370171
+            "county_id":102059005,
+            "locality_id":1209370171,
+            "macroregion_id":1511777407,
+            "region_id":85682011
         }
     ],
     "wof:id":1209370171,
-    "wof:lastmodified":1566622022,
+    "wof:lastmodified":1577825708,
     "wof:name":"Soledade",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102059005,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

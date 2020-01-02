@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561971,
+        85633009,
+        1511777409,
+        102058229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"2b179c2cbe98bfdbc186741b72b913f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209590943
+            "county_id":102058229,
+            "localadmin_id":404561971,
+            "locality_id":1209590943,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209590943,
-    "wof:lastmodified":1566622204,
+    "wof:lastmodified":1577828235,
     "wof:name":"Sitio Sao Joaquim",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561971,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

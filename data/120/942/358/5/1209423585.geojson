@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681879,
+        102191577,
+        85633009,
+        1511777415,
+        102050189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"9f65c48bf05c30a1e6fcd17b57e45773",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209423585
+            "county_id":102050189,
+            "locality_id":1209423585,
+            "macroregion_id":1511777415,
+            "region_id":85681879
         }
     ],
     "wof:id":1209423585,
-    "wof:lastmodified":1566622338,
+    "wof:lastmodified":1577838064,
     "wof:name":"Itamaraca",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

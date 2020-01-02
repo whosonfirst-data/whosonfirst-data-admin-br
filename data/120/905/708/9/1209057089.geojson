@@ -53,7 +53,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681925,
+        102191577,
+        404554803,
+        85633009,
+        1511777413,
+        102052255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +68,19 @@
     "wof:geomhash":"bf36517088d3a52d1f5a065b3ca92b28",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209057089
+            "county_id":102052255,
+            "localadmin_id":404554803,
+            "locality_id":1209057089,
+            "macroregion_id":1511777413,
+            "region_id":85681925
         }
     ],
     "wof:id":1209057089,
-    "wof:lastmodified":1566622256,
+    "wof:lastmodified":1577836275,
     "wof:name":"Verissimo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404554803,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

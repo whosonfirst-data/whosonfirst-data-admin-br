@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561725,
+        85633009,
+        1511777409,
+        102058067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"f462820dc2ae41602c08285876492a6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209578667
+            "county_id":102058067,
+            "localadmin_id":404561725,
+            "locality_id":1209578667,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209578667,
-    "wof:lastmodified":1566622161,
+    "wof:lastmodified":1577828198,
     "wof:name":"Sitio Didigio F. de Lima",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561725,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

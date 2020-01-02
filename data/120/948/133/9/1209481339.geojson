@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561077,
+        85633009,
+        1511777409,
+        102057591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"e844599ded08a2472ad4a625e3a7f158",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209481339
+            "county_id":102057591,
+            "localadmin_id":404561077,
+            "locality_id":1209481339,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209481339,
-    "wof:lastmodified":1566622059,
+    "wof:lastmodified":1577828049,
     "wof:name":"Sitio Aleixo Bochinia",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561077,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

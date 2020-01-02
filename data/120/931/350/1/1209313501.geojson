@@ -59,7 +59,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551579,
+        85633009,
+        1511777415,
+        102051057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,14 +74,19 @@
     "wof:geomhash":"9eb6f8d7b74e6739eb731996ee3ce644",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209313501
+            "county_id":102051057,
+            "localadmin_id":404551579,
+            "locality_id":1209313501,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209313501,
-    "wof:lastmodified":1566621931,
+    "wof:lastmodified":1577838043,
     "wof:name":"Bom Jardim",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551579,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

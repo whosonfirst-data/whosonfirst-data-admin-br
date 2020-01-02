@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        85633009,
+        1511777409,
+        102057719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"ddc8067d3d24f4343e62c97670b10438",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209691229
+            "county_id":102057719,
+            "locality_id":1209691229,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209691229,
-    "wof:lastmodified":1566622252,
+    "wof:lastmodified":1577828182,
     "wof:name":"Tapui",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057719,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

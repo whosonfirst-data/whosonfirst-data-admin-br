@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404556195,
+        85633009,
+        1511777411,
+        102053789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"4821036b9fc75992b5ad51a4b3b55ee8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209497439
+            "county_id":102053789,
+            "localadmin_id":404556195,
+            "locality_id":1209497439,
+            "macroregion_id":1511777411,
+            "region_id":85681941
         }
     ],
     "wof:id":1209497439,
-    "wof:lastmodified":1566622146,
+    "wof:lastmodified":1577833629,
     "wof:name":"Macacos",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404556195,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

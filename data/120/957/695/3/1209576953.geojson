@@ -95,7 +95,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566949,
+        85633009,
+        1511777411,
+        102061927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,14 +110,19 @@
     "wof:geomhash":"8d2afa48bf5ce50b58e449f81ea1b85c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209576953
+            "county_id":102061927,
+            "localadmin_id":404566949,
+            "locality_id":1209576953,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209576953,
-    "wof:lastmodified":1566622164,
+    "wof:lastmodified":1577833703,
     "wof:name":"Primavera",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

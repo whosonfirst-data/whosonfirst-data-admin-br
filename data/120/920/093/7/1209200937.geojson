@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681931,
+        102191577,
+        404555069,
+        85633009,
+        1511777415,
+        102053125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"a864e37c91780f76f37606f50f2fccb2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209200937
+            "county_id":102053125,
+            "localadmin_id":404555069,
+            "locality_id":1209200937,
+            "macroregion_id":1511777415,
+            "region_id":85681931
         }
     ],
     "wof:id":1209200937,
-    "wof:lastmodified":1566622280,
+    "wof:lastmodified":1577838040,
     "wof:name":"Alto Turi",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555069,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

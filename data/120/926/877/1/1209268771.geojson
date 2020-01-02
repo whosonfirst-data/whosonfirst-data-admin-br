@@ -56,7 +56,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567083,
+        85633009,
+        1511777411,
+        102062053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,14 +71,19 @@
     "wof:geomhash":"b9548119f28633f90310e047162fd5e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209268771
+            "county_id":102062053,
+            "localadmin_id":404567083,
+            "locality_id":1209268771,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209268771,
-    "wof:lastmodified":1566622340,
+    "wof:lastmodified":1577833550,
     "wof:name":"Monte Alto",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567083,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

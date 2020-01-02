@@ -80,7 +80,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681947,
+        102191577,
+        85633009,
+        1511777413,
+        102055283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,14 +94,18 @@
     "wof:geomhash":"0f3813acc6d3a540c308f991f2148224",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209192383
+            "county_id":102055283,
+            "locality_id":1209192383,
+            "macroregion_id":1511777413,
+            "region_id":85681947
         }
     ],
     "wof:id":1209192383,
-    "wof:lastmodified":1566622345,
+    "wof:lastmodified":1577836213,
     "wof:name":"Cachoeirinha",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055283,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

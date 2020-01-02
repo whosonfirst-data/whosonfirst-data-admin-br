@@ -56,7 +56,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681873,
+        102191577,
+        85633009,
+        1511777407,
+        102050011
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,14 +70,18 @@
     "wof:geomhash":"3c17811dd270eb4b2db0d1f92e98c16f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209529591
+            "county_id":102050011,
+            "locality_id":1209529591,
+            "macroregion_id":1511777407,
+            "region_id":85681873
         }
     ],
     "wof:id":1209529591,
-    "wof:lastmodified":1566622047,
+    "wof:lastmodified":1577825801,
     "wof:name":"Guanabara",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050011,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

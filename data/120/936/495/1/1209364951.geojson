@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        404560329,
+        85633009,
+        1511777415,
+        102056617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"f7fd1068987d5af4fcf279d831b86db8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209364951
+            "county_id":102056617,
+            "localadmin_id":404560329,
+            "locality_id":1209364951,
+            "macroregion_id":1511777415,
+            "region_id":85681973
         }
     ],
     "wof:id":1209364951,
-    "wof:lastmodified":1566621928,
+    "wof:lastmodified":1577838117,
     "wof:name":"Entremontes",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560329,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681999,
+        102191577,
+        85633009,
+        1511777415,
+        102058765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"45971a6796629c6af081846a25cb32df",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209182963
+            "county_id":102058765,
+            "locality_id":1209182963,
+            "macroregion_id":1511777415,
+            "region_id":85681999
         }
     ],
     "wof:id":1209182963,
-    "wof:lastmodified":1566622306,
+    "wof:lastmodified":1577838193,
     "wof:name":"Sao Pedro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058765,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

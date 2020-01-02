@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553263,
+        85633009,
+        1511777415,
+        102051631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"a87167e0b1513e0e68a49f1c4e2fb379",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209412569
+            "county_id":102051631,
+            "localadmin_id":404553263,
+            "locality_id":1209412569,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209412569,
-    "wof:lastmodified":1566622098,
+    "wof:lastmodified":1577838029,
     "wof:name":"Fazenda Cajazeira",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553263,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        85633009,
+        1511777409,
+        102058233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"e44834926de20534d0446546c753030c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209681913
+            "county_id":102058233,
+            "locality_id":1209681913,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209681913,
-    "wof:lastmodified":1566622176,
+    "wof:lastmodified":1577828293,
     "wof:name":"Sitio Uniao",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

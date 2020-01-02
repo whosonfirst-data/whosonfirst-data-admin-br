@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        85633009,
+        1511777409,
+        102057657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"b10de6cde75bdc7eedb00cb06bf37b20",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209581761
+            "county_id":102057657,
+            "locality_id":1209581761,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209581761,
-    "wof:lastmodified":1566622234,
+    "wof:lastmodified":1577828158,
     "wof:name":"Bairro Jardim Santa Barbara",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057657,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

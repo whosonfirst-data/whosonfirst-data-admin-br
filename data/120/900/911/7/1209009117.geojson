@@ -98,7 +98,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404550671,
+        85633009,
+        1511777415,
+        102050623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,14 +113,19 @@
     "wof:geomhash":"4e1b8ac2de6e66ef7c0beee5ada1c686",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209009117
+            "county_id":102050623,
+            "localadmin_id":404550671,
+            "locality_id":1209009117,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209009117,
-    "wof:lastmodified":1566621957,
+    "wof:lastmodified":1577838030,
     "wof:name":"Santa Rita",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

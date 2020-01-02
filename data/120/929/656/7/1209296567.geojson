@@ -89,7 +89,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681959,
+        102191577,
+        85633009,
+        1511777407,
+        102055875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,14 +103,18 @@
     "wof:geomhash":"4b2486f67d4fe3e60fd0a15a905a300c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209296567
+            "county_id":102055875,
+            "locality_id":1209296567,
+            "macroregion_id":1511777407,
+            "region_id":85681959
         }
     ],
     "wof:id":1209296567,
-    "wof:lastmodified":1566622275,
+    "wof:lastmodified":1577826337,
     "wof:name":"Irapuru",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055875,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

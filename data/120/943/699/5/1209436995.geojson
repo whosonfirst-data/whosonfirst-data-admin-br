@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553193,
+        85633009,
+        1511777415,
+        102051613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"561359cebb8ff4200a5f250f71ae0ef0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209436995
+            "county_id":102051613,
+            "localadmin_id":404553193,
+            "locality_id":1209436995,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209436995,
-    "wof:lastmodified":1566622400,
+    "wof:lastmodified":1577838054,
     "wof:name":"Aroeira (2)",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553193,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

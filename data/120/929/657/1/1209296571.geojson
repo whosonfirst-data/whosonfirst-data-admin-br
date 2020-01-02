@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681959,
+        102191577,
+        404559463,
+        85633009,
+        1511777407,
+        102055675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"e2a6519eecb65253f282963184108270",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209296571
+            "county_id":102055675,
+            "localadmin_id":404559463,
+            "locality_id":1209296571,
+            "macroregion_id":1511777407,
+            "region_id":85681959
         }
     ],
     "wof:id":1209296571,
-    "wof:lastmodified":1566622275,
+    "wof:lastmodified":1577826338,
     "wof:name":"Colonia Nova",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559463,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

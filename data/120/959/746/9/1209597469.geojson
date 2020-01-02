@@ -92,7 +92,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681959,
+        102191577,
+        85633009,
+        1511777407,
+        102055791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,14 +106,18 @@
     "wof:geomhash":"550a8bfa862f80ac590b043355b51b93",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209597469
+            "county_id":102055791,
+            "locality_id":1209597469,
+            "macroregion_id":1511777407,
+            "region_id":85681959
         }
     ],
     "wof:id":1209597469,
-    "wof:lastmodified":1566622199,
+    "wof:lastmodified":1577825879,
     "wof:name":"Taquara",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

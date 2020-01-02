@@ -40,7 +40,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        85633009,
+        1511777415,
+        102056647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"d3ec661bea89133dbd760e3f12184173",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209661953
+            "county_id":102056647,
+            "locality_id":1209661953,
+            "macroregion_id":1511777415,
+            "region_id":85681973
         }
     ],
     "wof:id":1209661953,
-    "wof:lastmodified":1566622189,
+    "wof:lastmodified":1577838314,
     "wof:name":"Caraiba",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056647,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

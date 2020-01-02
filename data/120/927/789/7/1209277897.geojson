@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681967,
+        102191577,
+        85633009,
+        1511777415,
+        102056325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"c298e99117ed682ea7562d69da6337f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209277897
+            "county_id":102056325,
+            "locality_id":1209277897,
+            "macroregion_id":1511777415,
+            "region_id":85681967
         }
     ],
     "wof:id":1209277897,
-    "wof:lastmodified":1566622290,
+    "wof:lastmodified":1577838539,
     "wof:name":"Boa Vista dos Nunes",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056325,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

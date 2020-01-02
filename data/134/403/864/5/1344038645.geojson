@@ -32,13 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85681947,
         102191577,
         85633009,
-        85681947,
-        102055191,
-        85632355,
-        85676701,
-        1108692445
+        1511777413,
+        102055191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,20 +50,14 @@
             "country_id":85633009,
             "county_id":102055191,
             "locality_id":1344038645,
+            "macroregion_id":1511777413,
             "region_id":85681947
-        },
-        {
-            "continent_id":102191577,
-            "country_id":85632355,
-            "county_id":1108692445,
-            "locality_id":1344038645,
-            "region_id":85676701
         }
     ],
     "wof:id":1344038645,
-    "wof:lastmodified":1566620615,
+    "wof:lastmodified":1577836484,
     "wof:name":"Lourenco Cue",
-    "wof:parent_id":-4,
+    "wof:parent_id":102055191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

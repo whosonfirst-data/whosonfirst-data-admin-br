@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561999,
+        85633009,
+        1511777409,
+        102058253
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"f657210fc6cf9bf072d546be3e7286cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209378039
+            "county_id":102058253,
+            "localadmin_id":404561999,
+            "locality_id":1209378039,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209378039,
-    "wof:lastmodified":1566622018,
+    "wof:lastmodified":1577828116,
     "wof:name":"Conceicao",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561999,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

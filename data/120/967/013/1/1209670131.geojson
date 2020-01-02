@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682021,
+        102191577,
+        404565259,
+        85633009,
+        1511777409,
+        102060307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"eb0e371e71afec438f1589a7791fa312",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209670131
+            "county_id":102060307,
+            "localadmin_id":404565259,
+            "locality_id":1209670131,
+            "macroregion_id":1511777409,
+            "region_id":85682021
         }
     ],
     "wof:id":1209670131,
-    "wof:lastmodified":1566622214,
+    "wof:lastmodified":1577828145,
     "wof:name":"Sitio Luiz Engler",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404565259,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

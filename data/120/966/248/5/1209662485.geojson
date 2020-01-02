@@ -86,7 +86,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681925,
+        102191577,
+        85633009,
+        1511777413,
+        102052543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,14 +100,18 @@
     "wof:geomhash":"b024c7a98f9e384f8e56d19af4462693",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209662485
+            "county_id":102052543,
+            "locality_id":1209662485,
+            "macroregion_id":1511777413,
+            "region_id":85681925
         }
     ],
     "wof:id":1209662485,
-    "wof:lastmodified":1566622193,
+    "wof:lastmodified":1577836292,
     "wof:name":"Rochedo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102052543,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

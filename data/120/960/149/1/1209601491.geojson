@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681931,
+        102191577,
+        85633009,
+        1511777415,
+        102052877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"4307ab8be24c0c2f731ce1c12a910804",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209601491
+            "county_id":102052877,
+            "locality_id":1209601491,
+            "macroregion_id":1511777415,
+            "region_id":85681931
         }
     ],
     "wof:id":1209601491,
-    "wof:lastmodified":1566622237,
+    "wof:lastmodified":1577838285,
     "wof:name":"Redencao",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102052877,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

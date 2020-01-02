@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682021,
+        102191577,
+        404565995,
+        85633009,
+        1511777409,
+        102060177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"ebc4aef10e6ca8c97cd26f28c2b81979",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209171007
+            "county_id":102060177,
+            "localadmin_id":404565995,
+            "locality_id":1209171007,
+            "macroregion_id":1511777409,
+            "region_id":85682021
         }
     ],
     "wof:id":1209171007,
-    "wof:lastmodified":1566622359,
+    "wof:lastmodified":1577828033,
     "wof:name":"Alto Caminho do Anum",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404565995,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

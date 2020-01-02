@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561245,
+        85633009,
+        1511777409,
+        102057717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"40d065fd9b9f8d026f8f02431c50ff4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209072379
+            "county_id":102057717,
+            "localadmin_id":404561245,
+            "locality_id":1209072379,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209072379,
-    "wof:lastmodified":1566621955,
+    "wof:lastmodified":1577828615,
     "wof:name":"Sitio Jabuticabal",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561245,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

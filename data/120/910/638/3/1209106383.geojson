@@ -77,7 +77,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681885,
+        102191577,
+        85633009,
+        1511777407,
+        102050347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,14 +91,18 @@
     "wof:geomhash":"1150176010d10f4f282775b1bcd5ff2c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209106383
+            "county_id":102050347,
+            "locality_id":1209106383,
+            "macroregion_id":1511777407,
+            "region_id":85681885
         }
     ],
     "wof:id":1209106383,
-    "wof:lastmodified":1566622382,
+    "wof:lastmodified":1577825749,
     "wof:name":"Lorena",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050347,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

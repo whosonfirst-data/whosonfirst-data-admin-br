@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        85633009,
+        1511777411,
+        102061283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"83523a85a16b4aeea17cfffc637c87d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209376335
+            "county_id":102061283,
+            "locality_id":1209376335,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209376335,
-    "wof:lastmodified":1566622015,
+    "wof:lastmodified":1577833556,
     "wof:name":"Sao Francisco",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102061283,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

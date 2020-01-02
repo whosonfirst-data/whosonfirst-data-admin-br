@@ -37,7 +37,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681921,
+        102191577,
+        404554173,
+        85633009,
+        1511777411,
+        102051831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +52,19 @@
     "wof:geomhash":"e2cc49de75ee4c8d002fd00d5bcbfb13",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209096825
+            "county_id":102051831,
+            "localadmin_id":404554173,
+            "locality_id":1209096825,
+            "macroregion_id":1511777411,
+            "region_id":85681921
         }
     ],
     "wof:id":1209096825,
-    "wof:lastmodified":1566621922,
+    "wof:lastmodified":1577833507,
     "wof:name":"Itaperarama",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404554173,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

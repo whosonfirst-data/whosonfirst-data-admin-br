@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682053,
+        102191577,
+        85633009,
+        1511777407,
+        102062653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"4989d4d3f497dd78cc38171691c78d12",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209448267
+            "county_id":102062653,
+            "locality_id":1209448267,
+            "macroregion_id":1511777407,
+            "region_id":85682053
         }
     ],
     "wof:id":1209448267,
-    "wof:lastmodified":1566622382,
+    "wof:lastmodified":1577825716,
     "wof:name":"Perdizes",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102062653,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

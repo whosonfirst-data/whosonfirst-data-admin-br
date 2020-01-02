@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681999,
+        102191577,
+        85633009,
+        1511777415,
+        102058603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"ff28a94d483127f08c65006524cda1c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209062747
+            "county_id":102058603,
+            "locality_id":1209062747,
+            "macroregion_id":1511777415,
+            "region_id":85681999
         }
     ],
     "wof:id":1209062747,
-    "wof:lastmodified":1566621991,
+    "wof:lastmodified":1577838226,
     "wof:name":"Espinheiro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058603,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

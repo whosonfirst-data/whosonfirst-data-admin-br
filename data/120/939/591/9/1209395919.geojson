@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681947,
+        102191577,
+        85633009,
+        1511777413,
+        102055175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"8dd8bda8127843e3bafa675670077b28",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209395919
+            "county_id":102055175,
+            "locality_id":1209395919,
+            "macroregion_id":1511777413,
+            "region_id":85681947
         }
     ],
     "wof:id":1209395919,
-    "wof:lastmodified":1566621988,
+    "wof:lastmodified":1577836272,
     "wof:name":"Baracaja",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055175,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

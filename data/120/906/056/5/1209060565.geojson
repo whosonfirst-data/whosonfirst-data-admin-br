@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        85633009,
+        1511777411,
+        102061633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"a0fbf902f0fd8aeeaedac0a97479613f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209060565
+            "county_id":102061633,
+            "locality_id":1209060565,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209060565,
-    "wof:lastmodified":1566621998,
+    "wof:lastmodified":1577833487,
     "wof:name":"Sitio Barra do Pinhal",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102061633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

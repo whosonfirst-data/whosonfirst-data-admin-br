@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567573,
+        85633009,
+        1511777411,
+        102062355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"cafabea534c2ed7d28d0eb34205bd5f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209262057
+            "county_id":102062355,
+            "localadmin_id":404567573,
+            "locality_id":1209262057,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209262057,
-    "wof:lastmodified":1566622339,
+    "wof:lastmodified":1577833505,
     "wof:name":"Porto Cabral",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567573,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

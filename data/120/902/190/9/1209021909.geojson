@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681873,
+        102191577,
+        85633009,
+        1511777407,
+        102050047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"99565951c8acec538924b8038da94629",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209021909
+            "county_id":102050047,
+            "locality_id":1209021909,
+            "macroregion_id":1511777407,
+            "region_id":85681873
         }
     ],
     "wof:id":1209021909,
-    "wof:lastmodified":1566622262,
+    "wof:lastmodified":1577825710,
     "wof:name":"Colocacao Moreira",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050047,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

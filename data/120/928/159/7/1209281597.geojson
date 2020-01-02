@@ -33,7 +33,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682021,
+        102191577,
+        404565567,
+        85633009,
+        1511777409,
+        102060505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +48,19 @@
     "wof:geomhash":"d2f112435fa433d62891d205712ea378",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209281597
+            "county_id":102060505,
+            "localadmin_id":404565567,
+            "locality_id":1209281597,
+            "macroregion_id":1511777409,
+            "region_id":85682021
         }
     ],
     "wof:id":1209281597,
-    "wof:lastmodified":1566622364,
+    "wof:lastmodified":1577828486,
     "wof:name":"Farol de Santa Marta",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404565567,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

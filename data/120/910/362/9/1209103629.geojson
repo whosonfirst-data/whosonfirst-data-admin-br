@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553259,
+        85633009,
+        1511777415,
+        102051631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"245f01ad36334b252ec585243e965d74",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209103629
+            "county_id":102051631,
+            "localadmin_id":404553259,
+            "locality_id":1209103629,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209103629,
-    "wof:lastmodified":1566622379,
+    "wof:lastmodified":1577838026,
     "wof:name":"Fazenda Vaca Serrada",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553259,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -83,7 +83,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551765,
+        85633009,
+        1511777415,
+        102051157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,14 +98,19 @@
     "wof:geomhash":"9c21dbcf074984a9c6e2530244c4b84d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209105065
+            "county_id":102051157,
+            "localadmin_id":404551765,
+            "locality_id":1209105065,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209105065,
-    "wof:lastmodified":1566622381,
+    "wof:lastmodified":1577838119,
     "wof:name":"Lagoa",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551765,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

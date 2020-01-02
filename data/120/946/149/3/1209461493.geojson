@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        85633009,
+        1511777415,
+        102056869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"35e64fa4b3d36f5afa59759ab472194e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209461493
+            "county_id":102056869,
+            "locality_id":1209461493,
+            "macroregion_id":1511777415,
+            "region_id":85681973
         }
     ],
     "wof:id":1209461493,
-    "wof:lastmodified":1566622096,
+    "wof:lastmodified":1577838041,
     "wof:name":"Sao Domingos",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

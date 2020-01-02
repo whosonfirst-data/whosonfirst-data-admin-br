@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553431,
+        85633009,
+        1511777415,
+        102051661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"9e2fd3cdb3d3364ef643381a14c1100f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209507455
+            "county_id":102051661,
+            "localadmin_id":404553431,
+            "locality_id":1209507455,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209507455,
-    "wof:lastmodified":1566622159,
+    "wof:lastmodified":1577838129,
     "wof:name":"Santana (1)",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553431,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681955,
+        102191577,
+        404559177,
+        85633009,
+        1511777413,
+        102055421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"bfe6a3f0600a4238923aafc94e0ccbc8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209598945
+            "county_id":102055421,
+            "localadmin_id":404559177,
+            "locality_id":1209598945,
+            "macroregion_id":1511777413,
+            "region_id":85681955
         }
     ],
     "wof:id":1209598945,
-    "wof:lastmodified":1566622198,
+    "wof:lastmodified":1577836338,
     "wof:name":"Barracao Queimado",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559177,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

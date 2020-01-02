@@ -143,7 +143,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404550915,
+        85633009,
+        1511777415,
+        102050743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -153,14 +158,19 @@
     "wof:geomhash":"9a724505b952cbdead1dcf14450b9351",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209319447
+            "county_id":102050743,
+            "localadmin_id":404550915,
+            "locality_id":1209319447,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209319447,
-    "wof:lastmodified":1566621932,
+    "wof:lastmodified":1577838127,
     "wof:name":"Canoas",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550915,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

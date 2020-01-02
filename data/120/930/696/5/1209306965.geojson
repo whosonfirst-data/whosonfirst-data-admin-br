@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553769,
+        85633009,
+        1511777415,
+        102051749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"1815494fd5f6b3c41e0b9ee46783f5a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209306965
+            "county_id":102051749,
+            "localadmin_id":404553769,
+            "locality_id":1209306965,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209306965,
-    "wof:lastmodified":1566622003,
+    "wof:lastmodified":1577838957,
     "wof:name":"Fazenda Santa Rosa",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553769,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404552813,
+        85633009,
+        1511777415,
+        102051519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"6abf61bf22c638e907703d940c030d93",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209212275
+            "county_id":102051519,
+            "localadmin_id":404552813,
+            "locality_id":1209212275,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209212275,
-    "wof:lastmodified":1566622347,
+    "wof:lastmodified":1577838021,
     "wof:name":"Jucuma",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404552813,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

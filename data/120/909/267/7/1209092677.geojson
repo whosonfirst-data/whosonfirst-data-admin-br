@@ -101,7 +101,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681959,
+        102191577,
+        404559821,
+        85633009,
+        1511777407,
+        102055979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,14 +116,19 @@
     "wof:geomhash":"3b568eb04c1bd5eecbfdab5ad96a62f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209092677
+            "county_id":102055979,
+            "localadmin_id":404559821,
+            "locality_id":1209092677,
+            "macroregion_id":1511777407,
+            "region_id":85681959
         }
     ],
     "wof:id":1209092677,
-    "wof:lastmodified":1566621921,
+    "wof:lastmodified":1577825716,
     "wof:name":"Gloria",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559821,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

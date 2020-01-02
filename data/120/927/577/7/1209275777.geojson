@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        85633009,
+        1511777411,
+        102061229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"44a6c126b4b0f55f152d7a85efa14e4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209275777
+            "county_id":102061229,
+            "locality_id":1209275777,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209275777,
-    "wof:lastmodified":1566622291,
+    "wof:lastmodified":1577833569,
     "wof:name":"Pindaiba",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102061229,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

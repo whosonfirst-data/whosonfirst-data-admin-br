@@ -37,7 +37,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682003,
+        102191577,
+        404562801,
+        85633009,
+        1511777407,
+        102058915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +52,19 @@
     "wof:geomhash":"092a9fbe645e1e3c6b194c2e6dce5614",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209673373
+            "county_id":102058915,
+            "localadmin_id":404562801,
+            "locality_id":1209673373,
+            "macroregion_id":1511777407,
+            "region_id":85682003
         }
     ],
     "wof:id":1209673373,
-    "wof:lastmodified":1566622212,
+    "wof:lastmodified":1577825819,
     "wof:name":"Milho",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

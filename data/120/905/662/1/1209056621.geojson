@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        85633009,
+        1511777415,
+        102056779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"37d72a27191566c1ae6147cb0c74e4db",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209056621
+            "county_id":102056779,
+            "locality_id":1209056621,
+            "macroregion_id":1511777415,
+            "region_id":85681973
         }
     ],
     "wof:id":1209056621,
-    "wof:lastmodified":1566622260,
+    "wof:lastmodified":1577839260,
     "wof:name":"Riacho do Meio",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056779,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

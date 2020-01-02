@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561093,
+        85633009,
+        1511777409,
+        102057601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"4054866cbc2152421e77bb9bf0b4346a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209177267
+            "county_id":102057601,
+            "localadmin_id":404561093,
+            "locality_id":1209177267,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209177267,
-    "wof:lastmodified":1566622362,
+    "wof:lastmodified":1577828141,
     "wof:name":"Gramados",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561093,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -113,7 +113,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404555737,
+        85633009,
+        1511777411,
+        102053575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,14 +128,19 @@
     "wof:geomhash":"5a97416f4666d5554de8079d7fb73779",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209397135
+            "county_id":102053575,
+            "localadmin_id":404555737,
+            "locality_id":1209397135,
+            "macroregion_id":1511777411,
+            "region_id":85681941
         }
     ],
     "wof:id":1209397135,
-    "wof:lastmodified":1566621986,
+    "wof:lastmodified":1577833637,
     "wof:name":"Venda",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555737,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

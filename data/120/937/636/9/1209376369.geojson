@@ -86,7 +86,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566135,
+        85633009,
+        1511777411,
+        102061097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,14 +101,19 @@
     "wof:geomhash":"35aaf5f6c9d33fea8a739434bae9098e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209376369
+            "county_id":102061097,
+            "localadmin_id":404566135,
+            "locality_id":1209376369,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209376369,
-    "wof:lastmodified":1566622024,
+    "wof:lastmodified":1577833612,
     "wof:name":"Marmeleiro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566135,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681873,
+        102191577,
+        85633009,
+        1511777407,
+        102050049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"e4920cd9c63675cd54173b9fd90b0664",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209008221
+            "county_id":102050049,
+            "locality_id":1209008221,
+            "macroregion_id":1511777407,
+            "region_id":85681873
         }
     ],
     "wof:id":1209008221,
-    "wof:lastmodified":1566621957,
+    "wof:lastmodified":1577826305,
     "wof:name":"Seringal Tabatinga",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050049,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

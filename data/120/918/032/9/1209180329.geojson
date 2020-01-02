@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561363,
+        85633009,
+        1511777409,
+        102057817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"2ede4809c4947aaabcece52d118cbbd3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209180329
+            "county_id":102057817,
+            "localadmin_id":404561363,
+            "locality_id":1209180329,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209180329,
-    "wof:lastmodified":1566622305,
+    "wof:lastmodified":1577828026,
     "wof:name":"Sitio Fazendinha",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561363,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

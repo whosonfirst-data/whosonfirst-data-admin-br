@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567173,
+        85633009,
+        1511777411,
+        102062167
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"02f2de6e7ebb3a1435a550631c82831f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209369083
+            "county_id":102062167,
+            "localadmin_id":404567173,
+            "locality_id":1209369083,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209369083,
-    "wof:lastmodified":1566621924,
+    "wof:lastmodified":1577833534,
     "wof:name":"Stio Riacho",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567173,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

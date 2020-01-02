@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681931,
+        102191577,
+        85633009,
+        1511777415,
+        102052889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"f69f8bd92c1e98d49894cef0b3131f46",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209293779
+            "county_id":102052889,
+            "locality_id":1209293779,
+            "macroregion_id":1511777415,
+            "region_id":85681931
         }
     ],
     "wof:id":1209293779,
-    "wof:lastmodified":1566622275,
+    "wof:lastmodified":1577840542,
     "wof:name":"Cocal",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102052889,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

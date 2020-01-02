@@ -50,7 +50,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        85633009,
+        1511777411,
+        102061167
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +64,18 @@
     "wof:geomhash":"4db2169d7856ae816e0faa38dcd8e4e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209175655
+            "county_id":102061167,
+            "locality_id":1209175655,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209175655,
-    "wof:lastmodified":1566622360,
+    "wof:lastmodified":1577833565,
     "wof:name":"Pinhal",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102061167,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

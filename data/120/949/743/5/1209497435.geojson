@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404555187,
+        85633009,
+        1511777411,
+        102053409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"ce7bfafb5b91cc6c019be332c3027f74",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209497435
+            "county_id":102053409,
+            "localadmin_id":404555187,
+            "locality_id":1209497435,
+            "macroregion_id":1511777411,
+            "region_id":85681941
         }
     ],
     "wof:id":1209497435,
-    "wof:lastmodified":1566622146,
+    "wof:lastmodified":1577833620,
     "wof:name":"Rio Cartente",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555187,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        85633009,
+        1511777411,
+        102061945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"7177d7d172e46850b37c1eb3afd300a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209576957
+            "county_id":102061945,
+            "locality_id":1209576957,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209576957,
-    "wof:lastmodified":1566622164,
+    "wof:lastmodified":1577833706,
     "wof:name":"Tres Nacoes",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102061945,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

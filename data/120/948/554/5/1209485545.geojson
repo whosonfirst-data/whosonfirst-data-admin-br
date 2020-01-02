@@ -37,7 +37,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404557741,
+        85633009,
+        1511777411,
+        102054603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +52,19 @@
     "wof:geomhash":"7aa8d8414b5a043c603fb0aaf5740f07",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209485545
+            "county_id":102054603,
+            "localadmin_id":404557741,
+            "locality_id":1209485545,
+            "macroregion_id":1511777411,
+            "region_id":85681941
         }
     ],
     "wof:id":1209485545,
-    "wof:lastmodified":1566622066,
+    "wof:lastmodified":1577833645,
     "wof:name":"Inhames",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404557741,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

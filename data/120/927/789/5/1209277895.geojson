@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681999,
+        102191577,
+        85633009,
+        1511777415,
+        102058879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"a6e7afd0b5b1eac3762a012543e05d84",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209277895
+            "county_id":102058879,
+            "locality_id":1209277895,
+            "macroregion_id":1511777415,
+            "region_id":85681999
         }
     ],
     "wof:id":1209277895,
-    "wof:lastmodified":1566622290,
+    "wof:lastmodified":1577838531,
     "wof:name":"Rufinos",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058879,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

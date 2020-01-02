@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404556865,
+        85633009,
+        1511777411,
+        102054151
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"43e7eb20e38ceddaafdec647a58288b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209187263
+            "county_id":102054151,
+            "localadmin_id":404556865,
+            "locality_id":1209187263,
+            "macroregion_id":1511777411,
+            "region_id":85681941
         }
     ],
     "wof:id":1209187263,
-    "wof:lastmodified":1566622308,
+    "wof:lastmodified":1577833564,
     "wof:name":"Nova Minda",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404556865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

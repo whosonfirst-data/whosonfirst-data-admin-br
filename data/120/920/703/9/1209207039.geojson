@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        85633009,
+        1511777415,
+        102051447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"072b197fc4f1c13139a7a3c0791b63d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209207039
+            "county_id":102051447,
+            "locality_id":1209207039,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209207039,
-    "wof:lastmodified":1566622279,
+    "wof:lastmodified":1577838132,
     "wof:name":"Sao Vicente",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102051447,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

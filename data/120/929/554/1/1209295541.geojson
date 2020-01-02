@@ -37,7 +37,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681947,
+        102191577,
+        404558809,
+        85633009,
+        1511777413,
+        102055189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +52,19 @@
     "wof:geomhash":"2f45577bb15c53f5b74929527630bddf",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209295541
+            "county_id":102055189,
+            "localadmin_id":404558809,
+            "locality_id":1209295541,
+            "macroregion_id":1511777413,
+            "region_id":85681947
         }
     ],
     "wof:id":1209295541,
-    "wof:lastmodified":1566622276,
+    "wof:lastmodified":1577836376,
     "wof:name":"Sao Caetano",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        85633009,
+        1511777411,
+        102061619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"76dbb432eabf6bd5556a8a89f7957a7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209569575
+            "county_id":102061619,
+            "locality_id":1209569575,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209569575,
-    "wof:lastmodified":1566622242,
+    "wof:lastmodified":1577833704,
     "wof:name":"Sitio Alegria",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102061619,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

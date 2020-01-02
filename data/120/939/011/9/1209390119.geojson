@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561243,
+        85633009,
+        1511777409,
+        102057717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"f9b6c30ba3aec80d3b881acadcb9b99c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209390119
+            "county_id":102057717,
+            "localadmin_id":404561243,
+            "locality_id":1209390119,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209390119,
-    "wof:lastmodified":1566621988,
+    "wof:lastmodified":1577828023,
     "wof:name":"Sitio Santa Luzia",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

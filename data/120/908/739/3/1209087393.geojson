@@ -89,7 +89,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681947,
+        102191577,
+        85633009,
+        1511777413,
+        102055283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,14 +103,18 @@
     "wof:geomhash":"198c62b954b96dbbcc421f74ff4a0f87",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209087393
+            "county_id":102055283,
+            "locality_id":1209087393,
+            "macroregion_id":1511777413,
+            "region_id":85681947
         }
     ],
     "wof:id":1209087393,
-    "wof:lastmodified":1566622004,
+    "wof:lastmodified":1577836253,
     "wof:name":"Pedregulho",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055283,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

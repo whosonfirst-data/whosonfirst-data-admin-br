@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404557309,
+        85633009,
+        1511777411,
+        102054373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"13afefced5fef0c7327fc3515ae8ec03",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209284673
+            "county_id":102054373,
+            "localadmin_id":404557309,
+            "locality_id":1209284673,
+            "macroregion_id":1511777411,
+            "region_id":85681941
         }
     ],
     "wof:id":1209284673,
-    "wof:lastmodified":1566622370,
+    "wof:lastmodified":1577834724,
     "wof:name":"Antonio Olinto",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404557309,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

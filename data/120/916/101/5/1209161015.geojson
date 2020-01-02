@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        404560135,
+        85633009,
+        1511777415,
+        102056505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"0a6e152bd0b61399630abfebfad6012a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209161015
+            "county_id":102056505,
+            "localadmin_id":404560135,
+            "locality_id":1209161015,
+            "macroregion_id":1511777415,
+            "region_id":85681973
         }
     ],
     "wof:id":1209161015,
-    "wof:lastmodified":1566622273,
+    "wof:lastmodified":1577838025,
     "wof:name":"Saquinho",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560135,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

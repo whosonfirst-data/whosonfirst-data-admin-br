@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404560859,
+        85633009,
+        1511777409,
+        102057439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"e0987dbf1cab5328ddfec1922a46d7a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209490575
+            "county_id":102057439,
+            "localadmin_id":404560859,
+            "locality_id":1209490575,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209490575,
-    "wof:lastmodified":1566622144,
+    "wof:lastmodified":1577828034,
     "wof:name":"Sitio Flor-da Serra",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

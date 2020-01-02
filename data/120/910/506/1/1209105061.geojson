@@ -170,7 +170,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        85633009,
+        1511777415,
+        102050805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -180,14 +184,18 @@
     "wof:geomhash":"7869adef2288269df8f4f3f263fce8f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209105061
+            "county_id":102050805,
+            "locality_id":1209105061,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209105061,
-    "wof:lastmodified":1566622380,
+    "wof:lastmodified":1577838106,
     "wof:name":"Amazonas",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050805,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561707,
+        85633009,
+        1511777409,
+        102058055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"67f51be587e1479ac65b48cbc35e1555",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209289787
+            "county_id":102058055,
+            "localadmin_id":404561707,
+            "locality_id":1209289787,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209289787,
-    "wof:lastmodified":1566622368,
+    "wof:lastmodified":1577828090,
     "wof:name":"Sitio Luiz Fernando",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561707,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

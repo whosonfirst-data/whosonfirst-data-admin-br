@@ -122,7 +122,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681891,
+        102191577,
+        404550345,
+        85633009,
+        1511777407,
+        102050449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -132,14 +137,19 @@
     "wof:geomhash":"76a672c6b7cd55f526a8ab648bddb03e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209616851
+            "county_id":102050449,
+            "localadmin_id":404550345,
+            "locality_id":1209616851,
+            "macroregion_id":1511777407,
+            "region_id":85681891
         }
     ],
     "wof:id":1209616851,
-    "wof:lastmodified":1566622187,
+    "wof:lastmodified":1577825846,
     "wof:name":"Regina",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550345,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

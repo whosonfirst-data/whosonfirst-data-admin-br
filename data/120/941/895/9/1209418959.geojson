@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681873,
+        102191577,
+        85633009,
+        1511777407,
+        102050043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"d7de96418d72ba608c82095b366d152a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209418959
+            "county_id":102050043,
+            "locality_id":1209418959,
+            "macroregion_id":1511777407,
+            "region_id":85681873
         }
     ],
     "wof:id":1209418959,
-    "wof:lastmodified":1566622098,
+    "wof:lastmodified":1577825750,
     "wof:name":"Florianopolis",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050043,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

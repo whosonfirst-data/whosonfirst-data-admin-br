@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681931,
+        102191577,
+        85633009,
+        1511777415,
+        102053235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"770737b80030b25ba2f9d7d59865583e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209494499
+            "county_id":102053235,
+            "locality_id":1209494499,
+            "macroregion_id":1511777415,
+            "region_id":85681931
         }
     ],
     "wof:id":1209494499,
-    "wof:lastmodified":1566622141,
+    "wof:lastmodified":1577838261,
     "wof:name":"Boiao",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102053235,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

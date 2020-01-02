@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        85633009,
+        1511777411,
+        102061225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"0e11a73736f4fe7cb870b98981f4797a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209369091
+            "county_id":102061225,
+            "locality_id":1209369091,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209369091,
-    "wof:lastmodified":1566621923,
+    "wof:lastmodified":1577833543,
     "wof:name":"Sitio Palmeiras",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102061225,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

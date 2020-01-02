@@ -128,7 +128,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551425,
+        85633009,
+        1511777415,
+        102050993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -138,14 +143,19 @@
     "wof:geomhash":"66d9718db840246d6503dbf14b5739a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209105055
+            "county_id":102050993,
+            "localadmin_id":404551425,
+            "locality_id":1209105055,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209105055,
-    "wof:lastmodified":1566622379,
+    "wof:lastmodified":1577838088,
     "wof:name":"Espera",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551425,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

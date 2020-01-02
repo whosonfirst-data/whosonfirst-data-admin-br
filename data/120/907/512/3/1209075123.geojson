@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681991,
+        102191577,
+        85633009,
+        1511777411,
+        102058417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"1bc209b19aa2e7c596844e0d6b3a6006",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209075123
+            "county_id":102058417,
+            "locality_id":1209075123,
+            "macroregion_id":1511777411,
+            "region_id":85681991
         }
     ],
     "wof:id":1209075123,
-    "wof:lastmodified":1566621956,
+    "wof:lastmodified":1577833623,
     "wof:name":"Engenheiro Nicanor Pereira",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
