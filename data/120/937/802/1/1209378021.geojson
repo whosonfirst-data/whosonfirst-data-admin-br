@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        85633009,
+        1511777409,
+        102057781
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"77a3ce4f9af2b6b67921aae7b255b0a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209378021
+            "county_id":102057781,
+            "locality_id":1209378021,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209378021,
-    "wof:lastmodified":1566622020,
+    "wof:lastmodified":1577828194,
     "wof:name":"Sitio Antonio de Paulo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057781,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

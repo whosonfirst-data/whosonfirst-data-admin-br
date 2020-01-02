@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681925,
+        102191577,
+        404554747,
+        85633009,
+        1511777413,
+        102052151
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"c8e60983dfee70d3e19eea713b9fe1fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209361781
+            "county_id":102052151,
+            "localadmin_id":404554747,
+            "locality_id":1209361781,
+            "macroregion_id":1511777413,
+            "region_id":85681925
         }
     ],
     "wof:id":1209361781,
-    "wof:lastmodified":1566621928,
+    "wof:lastmodified":1577836209,
     "wof:name":"Mansoes Florida",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404554747,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

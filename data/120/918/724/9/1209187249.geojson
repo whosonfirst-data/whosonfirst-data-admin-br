@@ -95,7 +95,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404557303,
+        85633009,
+        1511777411,
+        102054369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,14 +110,19 @@
     "wof:geomhash":"e4b6809aba6e22f4ce5964bcd9b571c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209187249
+            "county_id":102054369,
+            "localadmin_id":404557303,
+            "locality_id":1209187249,
+            "macroregion_id":1511777411,
+            "region_id":85681941
         }
     ],
     "wof:id":1209187249,
-    "wof:lastmodified":1566622299,
+    "wof:lastmodified":1577833697,
     "wof:name":"Monte Belo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404557303,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

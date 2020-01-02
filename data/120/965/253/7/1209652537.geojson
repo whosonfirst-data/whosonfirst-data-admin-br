@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682053,
+        102191577,
+        404567669,
+        85633009,
+        1511777407,
+        102062651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"2b69cd99a1b73ec563c58f3f3b30b34e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209652537
+            "county_id":102062651,
+            "localadmin_id":404567669,
+            "locality_id":1209652537,
+            "macroregion_id":1511777407,
+            "region_id":85682053
         }
     ],
     "wof:id":1209652537,
-    "wof:lastmodified":1566621970,
+    "wof:lastmodified":1577825789,
     "wof:name":"Anajanopolis",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567669,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

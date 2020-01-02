@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681977,
+        102191577,
+        85633009,
+        1511777415,
+        102057035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"b6722ad4752cda8d359b524f670d11b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209589961
+            "county_id":102057035,
+            "locality_id":1209589961,
+            "macroregion_id":1511777415,
+            "region_id":85681977
         }
     ],
     "wof:id":1209589961,
-    "wof:lastmodified":1566622222,
+    "wof:lastmodified":1577839111,
     "wof:name":"Fazenda Canto Alegre",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057035,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

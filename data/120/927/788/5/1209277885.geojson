@@ -40,7 +40,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681967,
+        102191577,
+        85633009,
+        1511777415,
+        102056313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"3ff5d52c620f24f7fcbca654407fa0a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209277885
+            "county_id":102056313,
+            "locality_id":1209277885,
+            "macroregion_id":1511777415,
+            "region_id":85681967
         }
     ],
     "wof:id":1209277885,
-    "wof:lastmodified":1566622287,
+    "wof:lastmodified":1577838504,
     "wof:name":"Pontinhas",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056313,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

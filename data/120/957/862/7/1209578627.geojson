@@ -69,7 +69,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        85633009,
+        1511777409,
+        102057719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,14 +83,18 @@
     "wof:geomhash":"48278f4f8fdf5aa967223e84920442af",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209578627
+            "county_id":102057719,
+            "locality_id":1209578627,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209578627,
-    "wof:lastmodified":1566622166,
+    "wof:lastmodified":1577828356,
     "wof:name":"Formigas",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057719,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

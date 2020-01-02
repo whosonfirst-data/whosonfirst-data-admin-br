@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404557003,
+        85633009,
+        1511777411,
+        102054221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"eb080506697044da495377447abc4926",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209488457
+            "county_id":102054221,
+            "localadmin_id":404557003,
+            "locality_id":1209488457,
+            "macroregion_id":1511777411,
+            "region_id":85681941
         }
     ],
     "wof:id":1209488457,
-    "wof:lastmodified":1566622061,
+    "wof:lastmodified":1577833707,
     "wof:name":"Nossa Senhora da Aparecida",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404557003,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682021,
+        102191577,
+        404565599,
+        85633009,
+        1511777409,
+        102060529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"09595cd52bb4b21f35284ff3378e864d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209171009
+            "county_id":102060529,
+            "localadmin_id":404565599,
+            "locality_id":1209171009,
+            "macroregion_id":1511777409,
+            "region_id":85682021
         }
     ],
     "wof:id":1209171009,
-    "wof:lastmodified":1566622359,
+    "wof:lastmodified":1577828038,
     "wof:name":"Sitio Jorge Willner",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404565599,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

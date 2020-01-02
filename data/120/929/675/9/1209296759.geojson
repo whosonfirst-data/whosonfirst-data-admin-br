@@ -89,7 +89,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404555435,
+        85633009,
+        1511777411,
+        102053527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,14 +104,19 @@
     "wof:geomhash":"6e3573f1885b4b3b6326b980f0b9c29f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209296759
+            "county_id":102053527,
+            "localadmin_id":404555435,
+            "locality_id":1209296759,
+            "macroregion_id":1511777411,
+            "region_id":85681941
         }
     ],
     "wof:id":1209296759,
-    "wof:lastmodified":1566622274,
+    "wof:lastmodified":1577834499,
     "wof:name":"Santo Afonso",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555435,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

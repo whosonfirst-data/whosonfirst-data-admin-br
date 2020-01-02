@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681967,
+        102191577,
+        85633009,
+        1511777415,
+        102055989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"dc1b38d3df4812671864fbf68bd8ce97",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209277889
+            "county_id":102055989,
+            "locality_id":1209277889,
+            "macroregion_id":1511777415,
+            "region_id":85681967
         }
     ],
     "wof:id":1209277889,
-    "wof:lastmodified":1566622287,
+    "wof:lastmodified":1577838522,
     "wof:name":"Bastioes",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

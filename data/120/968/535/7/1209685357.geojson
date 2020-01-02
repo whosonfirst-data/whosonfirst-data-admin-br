@@ -320,7 +320,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681959,
+        102191577,
+        85633009,
+        1511777407,
+        102055791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -330,14 +334,18 @@
     "wof:geomhash":"ee1ace583f0be0bc69188f7f50d85c73",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209685357
+            "county_id":102055791,
+            "locality_id":1209685357,
+            "macroregion_id":1511777407,
+            "region_id":85681959
         }
     ],
     "wof:id":1209685357,
-    "wof:lastmodified":1566622172,
+    "wof:lastmodified":1577825908,
     "wof:name":"Porto Alegre",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681885,
+        102191577,
+        85633009,
+        1511777407,
+        102050311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"49dfa079391d7bdd45bf74b81d59c27e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209320943
+            "county_id":102050311,
+            "locality_id":1209320943,
+            "macroregion_id":1511777407,
+            "region_id":85681885
         }
     ],
     "wof:id":1209320943,
-    "wof:lastmodified":1566622206,
+    "wof:lastmodified":1577826064,
     "wof:name":"Terra Vermelha",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050311,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

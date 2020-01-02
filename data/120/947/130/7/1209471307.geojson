@@ -74,7 +74,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681999,
+        102191577,
+        85633009,
+        1511777415,
+        102058873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,14 +88,18 @@
     "wof:geomhash":"adca6c485ddef685e5bc43a934261c4b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209471307
+            "county_id":102058873,
+            "locality_id":1209471307,
+            "macroregion_id":1511777415,
+            "region_id":85681999
         }
     ],
     "wof:id":1209471307,
-    "wof:lastmodified":1566622134,
+    "wof:lastmodified":1577838093,
     "wof:name":"Brejinho",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058873,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

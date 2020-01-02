@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681947,
+        102191577,
+        85633009,
+        1511777413,
+        102055307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"ae60bb05aeea90f4250de282575eb674",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209393001
+            "county_id":102055307,
+            "locality_id":1209393001,
+            "macroregion_id":1511777413,
+            "region_id":85681947
         }
     ],
     "wof:id":1209393001,
-    "wof:lastmodified":1566621983,
+    "wof:lastmodified":1577836260,
     "wof:name":"Cruz Velha",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055307,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

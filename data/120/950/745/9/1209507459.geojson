@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        85633009,
+        1511777415,
+        102051607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"dca86c8f4192c3be0d09927ef66c2c3e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209507459
+            "county_id":102051607,
+            "locality_id":1209507459,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209507459,
-    "wof:lastmodified":1566622159,
+    "wof:lastmodified":1577838153,
     "wof:name":"Cacimba da Onca",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102051607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682021,
+        102191577,
+        404565483,
+        85633009,
+        1511777409,
+        102060437
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"a85e242c38ba82e3e5a465a059af8818",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209469685
+            "county_id":102060437,
+            "localadmin_id":404565483,
+            "locality_id":1209469685,
+            "macroregion_id":1511777409,
+            "region_id":85682021
         }
     ],
     "wof:id":1209469685,
-    "wof:lastmodified":1566622092,
+    "wof:lastmodified":1577828125,
     "wof:name":"Barra de Ibiraquera",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404565483,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

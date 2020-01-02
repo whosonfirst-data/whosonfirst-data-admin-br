@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681885,
+        102191577,
+        85633009,
+        1511777407,
+        102050371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"d9842733486cc65b2ff28f914ca75a9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209470201
+            "county_id":102050371,
+            "locality_id":1209470201,
+            "macroregion_id":1511777407,
+            "region_id":85681885
         }
     ],
     "wof:id":1209470201,
-    "wof:lastmodified":1566622135,
+    "wof:lastmodified":1577825717,
     "wof:name":"Dormida",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050371,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

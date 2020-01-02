@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682015,
+        102191577,
+        85633009,
+        1511777409,
+        102059473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"e8db9620813c2deb3e602774cdc8ecd3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209272677
+            "county_id":102059473,
+            "locality_id":1209272677,
+            "macroregion_id":1511777409,
+            "region_id":85682015
         }
     ],
     "wof:id":1209272677,
-    "wof:lastmodified":1566622282,
+    "wof:lastmodified":1577828053,
     "wof:name":"Santo Antonio",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102059473,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

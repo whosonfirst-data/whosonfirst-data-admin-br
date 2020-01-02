@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682015,
+        102191577,
+        85633009,
+        1511777409,
+        102059047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,14 +68,18 @@
     "wof:geomhash":"2c8a28700fae0f13f4f743f7d74dfa8a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209473133
+            "county_id":102059047,
+            "locality_id":1209473133,
+            "macroregion_id":1511777409,
+            "region_id":85682015
         }
     ],
     "wof:id":1209473133,
-    "wof:lastmodified":1566622132,
+    "wof:lastmodified":1577828071,
     "wof:name":"Mombach",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102059047,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681967,
+        102191577,
+        85633009,
+        1511777415,
+        102055987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"ebb7bae250611725670b54639c521614",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209069849
+            "county_id":102055987,
+            "locality_id":1209069849,
+            "macroregion_id":1511777415,
+            "region_id":85681967
         }
     ],
     "wof:id":1209069849,
-    "wof:lastmodified":1566621993,
+    "wof:lastmodified":1577838671,
     "wof:name":"Caititu",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055987,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

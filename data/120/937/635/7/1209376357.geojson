@@ -92,7 +92,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566091,
+        85633009,
+        1511777411,
+        102061037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,14 +107,19 @@
     "wof:geomhash":"c5e7ffebf594372737325f9159cafaef",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209376357
+            "county_id":102061037,
+            "localadmin_id":404566091,
+            "locality_id":1209376357,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209376357,
-    "wof:lastmodified":1566622018,
+    "wof:lastmodified":1577833567,
     "wof:name":"Cruz das Almas",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

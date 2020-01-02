@@ -119,7 +119,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681947,
+        102191577,
+        404558855,
+        85633009,
+        1511777413,
+        102055213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -129,14 +134,19 @@
     "wof:geomhash":"2bd2ea813ba86c2c28029023bc86f9f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209596415
+            "county_id":102055213,
+            "localadmin_id":404558855,
+            "locality_id":1209596415,
+            "macroregion_id":1511777413,
+            "region_id":85681947
         }
     ],
     "wof:id":1209596415,
-    "wof:lastmodified":1566622203,
+    "wof:lastmodified":1577836322,
     "wof:name":"Salto",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

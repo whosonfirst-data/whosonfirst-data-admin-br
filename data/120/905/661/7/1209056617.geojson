@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        404560721,
+        85633009,
+        1511777415,
+        102056843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"3338ed7f6a8e44fa4179ec43357b8aca",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209056617
+            "county_id":102056843,
+            "localadmin_id":404560721,
+            "locality_id":1209056617,
+            "macroregion_id":1511777415,
+            "region_id":85681973
         }
     ],
     "wof:id":1209056617,
-    "wof:lastmodified":1566622259,
+    "wof:lastmodified":1577840515,
     "wof:name":"Mulungu (2)",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560721,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

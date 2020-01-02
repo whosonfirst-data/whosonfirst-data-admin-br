@@ -92,7 +92,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404550753,
+        85633009,
+        1511777415,
+        102050661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,14 +107,19 @@
     "wof:geomhash":"de7041a5ac1fc723776197ad65f943ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209437561
+            "county_id":102050661,
+            "localadmin_id":404550753,
+            "locality_id":1209437561,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209437561,
-    "wof:lastmodified":1566622398,
+    "wof:lastmodified":1577838086,
     "wof:name":"Brotas",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550753,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

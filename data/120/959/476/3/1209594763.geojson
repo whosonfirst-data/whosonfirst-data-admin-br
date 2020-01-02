@@ -104,7 +104,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681931,
+        102191577,
+        404554979,
+        85633009,
+        1511777415,
+        102052787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,14 +119,19 @@
     "wof:geomhash":"9da811bb479fe7da4e7a9b332213e300",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209594763
+            "county_id":102052787,
+            "localadmin_id":404554979,
+            "locality_id":1209594763,
+            "macroregion_id":1511777415,
+            "region_id":85681931
         }
     ],
     "wof:id":1209594763,
-    "wof:lastmodified":1566622196,
+    "wof:lastmodified":1577839302,
     "wof:name":"Araras",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404554979,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

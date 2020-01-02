@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561035,
+        85633009,
+        1511777409,
+        102057563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"efc8328a811d9478be29ac66d1af3bed",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209681915
+            "county_id":102057563,
+            "localadmin_id":404561035,
+            "locality_id":1209681915,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209681915,
-    "wof:lastmodified":1566622176,
+    "wof:lastmodified":1577828139,
     "wof:name":"Catanduva de Dentro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561035,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

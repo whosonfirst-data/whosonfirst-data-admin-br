@@ -37,7 +37,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404557883,
+        85633009,
+        1511777411,
+        102054671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +52,19 @@
     "wof:geomhash":"f37e0feb5140aa6a0098f64c8177c858",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209196655
+            "county_id":102054671,
+            "localadmin_id":404557883,
+            "locality_id":1209196655,
+            "macroregion_id":1511777411,
+            "region_id":85681941
         }
     ],
     "wof:id":1209196655,
-    "wof:lastmodified":1566622346,
+    "wof:lastmodified":1577833540,
     "wof:name":"Curralinho dos Paulas",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404557883,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

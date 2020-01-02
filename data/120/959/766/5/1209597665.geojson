@@ -56,7 +56,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404555645,
+        85633009,
+        1511777411,
+        102053329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,14 +71,19 @@
     "wof:geomhash":"842192c8c0124b4c09978509f8bcf6ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209597665
+            "county_id":102053329,
+            "localadmin_id":404555645,
+            "locality_id":1209597665,
+            "macroregion_id":1511777411,
+            "region_id":85681941
         }
     ],
     "wof:id":1209597665,
-    "wof:lastmodified":1566622200,
+    "wof:lastmodified":1577833809,
     "wof:name":"Palmital",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

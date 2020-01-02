@@ -78,7 +78,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404556897,
+        85633009,
+        1511777411,
+        102054165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,14 +93,19 @@
     "wof:geomhash":"31f428685709e353f874de635b232e1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209388069
+            "county_id":102054165,
+            "localadmin_id":404556897,
+            "locality_id":1209388069,
+            "macroregion_id":1511777411,
+            "region_id":85681941
         }
     ],
     "wof:id":1209388069,
-    "wof:lastmodified":1566621942,
+    "wof:lastmodified":1577833742,
     "wof:name":"Palmares",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404556897,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561369,
+        85633009,
+        1511777409,
+        102057817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"85bef39454b2bf91f91fe57afc118b09",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209189593
+            "county_id":102057817,
+            "localadmin_id":404561369,
+            "locality_id":1209189593,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209189593,
-    "wof:lastmodified":1566622301,
+    "wof:lastmodified":1577828352,
     "wof:name":"Sitio Floriario Waldieski",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561369,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

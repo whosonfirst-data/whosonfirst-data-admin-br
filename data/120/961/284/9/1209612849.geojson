@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553669,
+        85633009,
+        1511777415,
+        102051727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"26af57689ddeb6dcdd08741ef8a40a9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209612849
+            "county_id":102051727,
+            "localadmin_id":404553669,
+            "locality_id":1209612849,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209612849,
-    "wof:lastmodified":1566622186,
+    "wof:lastmodified":1577838374,
     "wof:name":"Mata Fresca",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553669,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

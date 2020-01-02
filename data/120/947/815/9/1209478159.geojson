@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561231,
+        85633009,
+        1511777409,
+        102057713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"fbc1f8eea95e810f3ccaa83748f4fd96",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209478159
+            "county_id":102057713,
+            "localadmin_id":404561231,
+            "locality_id":1209478159,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209478159,
-    "wof:lastmodified":1566622135,
+    "wof:lastmodified":1577828213,
     "wof:name":"Pontal do Itarare",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

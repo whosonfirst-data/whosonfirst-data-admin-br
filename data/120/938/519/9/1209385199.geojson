@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404557223,
+        85633009,
+        1511777411,
+        102054327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"7d636b9df8a8ee7edff52b9297d32e8c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209385199
+            "county_id":102054327,
+            "localadmin_id":404557223,
+            "locality_id":1209385199,
+            "macroregion_id":1511777411,
+            "region_id":85681941
         }
     ],
     "wof:id":1209385199,
-    "wof:lastmodified":1566621938,
+    "wof:lastmodified":1577833663,
     "wof:name":"Luis Tanare",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404557223,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

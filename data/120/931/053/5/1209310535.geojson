@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681921,
+        102191577,
+        404554151,
+        85633009,
+        1511777411,
+        102051827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"0bc47e9e890e7fd062928dc442ba594c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209310535
+            "county_id":102051827,
+            "localadmin_id":404554151,
+            "locality_id":1209310535,
+            "macroregion_id":1511777411,
+            "region_id":85681921
         }
     ],
     "wof:id":1209310535,
-    "wof:lastmodified":1566621929,
+    "wof:lastmodified":1577833965,
     "wof:name":"Ipe",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404554151,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

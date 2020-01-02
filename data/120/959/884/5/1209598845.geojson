@@ -38,7 +38,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681955,
+        102191577,
+        404559083,
+        85633009,
+        1511777413,
+        102055345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +53,19 @@
     "wof:geomhash":"e9f49646ba0d86ee4fcb06887e3393b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209598845
+            "county_id":102055345,
+            "localadmin_id":404559083,
+            "locality_id":1209598845,
+            "macroregion_id":1511777413,
+            "region_id":85681955
         }
     ],
     "wof:id":1209598845,
-    "wof:lastmodified":1566622201,
+    "wof:lastmodified":1577836337,
     "wof:name":"Dois Corregos",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559083,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

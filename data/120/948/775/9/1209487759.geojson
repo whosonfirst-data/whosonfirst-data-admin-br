@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681959,
+        102191577,
+        85633009,
+        1511777407,
+        102055875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"5e1b94a580e641cb31bec2f03975d086",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209487759
+            "county_id":102055875,
+            "locality_id":1209487759,
+            "macroregion_id":1511777407,
+            "region_id":85681959
         }
     ],
     "wof:id":1209487759,
-    "wof:lastmodified":1566622067,
+    "wof:lastmodified":1577825827,
     "wof:name":"Bertinho",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055875,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

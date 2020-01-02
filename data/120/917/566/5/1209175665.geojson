@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        85633009,
+        1511777411,
+        102061869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"3ee6bcd29c5e7deee16db4fdef8e2691",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209175665
+            "county_id":102061869,
+            "locality_id":1209175665,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209175665,
-    "wof:lastmodified":1566622354,
+    "wof:lastmodified":1577833581,
     "wof:name":"Sitio Tokio",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102061869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

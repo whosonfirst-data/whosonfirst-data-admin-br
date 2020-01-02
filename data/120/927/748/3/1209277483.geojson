@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561723,
+        85633009,
+        1511777409,
+        102058067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"e15e7ed7354d3fd06cfc5395b13dab6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209277483
+            "county_id":102058067,
+            "localadmin_id":404561723,
+            "locality_id":1209277483,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209277483,
-    "wof:lastmodified":1566622283,
+    "wof:lastmodified":1577828211,
     "wof:name":"Sitio Francisco Filla",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561723,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

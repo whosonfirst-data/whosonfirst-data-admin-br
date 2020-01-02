@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681947,
+        102191577,
+        85633009,
+        1511777413,
+        102055283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"4795bda4a4f95c045271f7effc921b19",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209172277
+            "county_id":102055283,
+            "locality_id":1209172277,
+            "macroregion_id":1511777413,
+            "region_id":85681947
         }
     ],
     "wof:id":1209172277,
-    "wof:lastmodified":1566622355,
+    "wof:lastmodified":1577836231,
     "wof:name":"Valentim Riet",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102055283,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

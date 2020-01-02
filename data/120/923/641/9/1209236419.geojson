@@ -86,7 +86,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404552555,
+        85633009,
+        1511777415,
+        102051469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,14 +101,19 @@
     "wof:geomhash":"12b298fb6614f6c37712afb53788fc3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209236419
+            "county_id":102051469,
+            "localadmin_id":404552555,
+            "locality_id":1209236419,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209236419,
-    "wof:lastmodified":1566622109,
+    "wof:lastmodified":1577838061,
     "wof:name":"Umbuzeiro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404552555,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

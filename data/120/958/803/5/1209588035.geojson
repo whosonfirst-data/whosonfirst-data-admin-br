@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681959,
+        102191577,
+        404559465,
+        85633009,
+        1511777407,
+        102055677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"27165b470c6350376be9ff465b626c67",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209588035
+            "county_id":102055677,
+            "localadmin_id":404559465,
+            "locality_id":1209588035,
+            "macroregion_id":1511777407,
+            "region_id":85681959
         }
     ],
     "wof:id":1209588035,
-    "wof:lastmodified":1566622224,
+    "wof:lastmodified":1577825949,
     "wof:name":"Sao Jose",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

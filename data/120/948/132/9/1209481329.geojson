@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404562025,
+        85633009,
+        1511777409,
+        102058259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"c796cd0c01290e5d190a520e9306a807",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209481329
+            "county_id":102058259,
+            "localadmin_id":404562025,
+            "locality_id":1209481329,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209481329,
-    "wof:lastmodified":1566622058,
+    "wof:lastmodified":1577828039,
     "wof:name":"Sitio Florindo Constancio",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562025,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

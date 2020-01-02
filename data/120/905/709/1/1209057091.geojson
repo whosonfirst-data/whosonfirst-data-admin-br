@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681925,
+        102191577,
+        85633009,
+        1511777413,
+        102052547
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"da28be8b4170d97f7b24fb796ec7126f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209057091
+            "county_id":102052547,
+            "locality_id":1209057091,
+            "macroregion_id":1511777413,
+            "region_id":85681925
         }
     ],
     "wof:id":1209057091,
-    "wof:lastmodified":1566622257,
+    "wof:lastmodified":1577836276,
     "wof:name":"Retiro das Piranhas",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102052547,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

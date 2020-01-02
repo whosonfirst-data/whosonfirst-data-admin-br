@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551141,
+        85633009,
+        1511777415,
+        102050849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"97063d3b6df2b73ad9a53bfe32331c04",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209213813
+            "county_id":102050849,
+            "localadmin_id":404551141,
+            "locality_id":1209213813,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209213813,
-    "wof:lastmodified":1566622353,
+    "wof:lastmodified":1577838228,
     "wof:name":"Mato Preto",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551141,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

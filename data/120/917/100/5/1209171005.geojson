@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682021,
+        102191577,
+        404565221,
+        85633009,
+        1511777409,
+        102060269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"24e3e7c88fef525071cc2760bfd27615",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209171005
+            "county_id":102060269,
+            "localadmin_id":404565221,
+            "locality_id":1209171005,
+            "macroregion_id":1511777409,
+            "region_id":85682021
         }
     ],
     "wof:id":1209171005,
-    "wof:lastmodified":1566622359,
+    "wof:lastmodified":1577828029,
     "wof:name":"Bairro Vorstaht",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404565221,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

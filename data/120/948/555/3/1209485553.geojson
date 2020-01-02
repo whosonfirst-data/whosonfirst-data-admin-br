@@ -74,7 +74,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404556653,
+        85633009,
+        1511777411,
+        102054041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,14 +89,19 @@
     "wof:geomhash":"37ad0a92e989cd58bc30990d022a113f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209485553
+            "county_id":102054041,
+            "localadmin_id":404556653,
+            "locality_id":1209485553,
+            "macroregion_id":1511777411,
+            "region_id":85681941
         }
     ],
     "wof:id":1209485553,
-    "wof:lastmodified":1566622064,
+    "wof:lastmodified":1577833643,
     "wof:name":"Novo Horizonte",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404556653,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

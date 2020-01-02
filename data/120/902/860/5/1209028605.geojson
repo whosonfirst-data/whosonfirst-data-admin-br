@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404552525,
+        85633009,
+        1511777415,
+        102051467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"17a60e79d0c4156710c0b97168786c18",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209028605
+            "county_id":102051467,
+            "localadmin_id":404552525,
+            "locality_id":1209028605,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209028605,
-    "wof:lastmodified":1566622261,
+    "wof:lastmodified":1577838115,
     "wof:name":"Trapizeiro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404552525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

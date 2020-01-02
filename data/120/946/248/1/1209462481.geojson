@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404567097,
+        85633009,
+        1511777411,
+        102062065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"6b0c540343ce74c60bee9c91d5afadfe",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209462481
+            "county_id":102062065,
+            "localadmin_id":404567097,
+            "locality_id":1209462481,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209462481,
-    "wof:lastmodified":1566622093,
+    "wof:lastmodified":1577833512,
     "wof:name":"Sitio Bulha",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404567097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

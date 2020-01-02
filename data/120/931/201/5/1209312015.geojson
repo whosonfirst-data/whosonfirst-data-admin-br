@@ -59,7 +59,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404552539,
+        85633009,
+        1511777415,
+        102051467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,14 +74,19 @@
     "wof:geomhash":"b20c2dbfb92ea6329808df5a27870820",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209312015
+            "county_id":102051467,
+            "localadmin_id":404552539,
+            "locality_id":1209312015,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209312015,
-    "wof:lastmodified":1566621932,
+    "wof:lastmodified":1577840538,
     "wof:name":"Piedade",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404552539,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

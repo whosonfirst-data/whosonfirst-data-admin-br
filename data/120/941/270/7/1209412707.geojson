@@ -152,7 +152,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553641,
+        85633009,
+        1511777415,
+        102051719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -162,14 +167,19 @@
     "wof:geomhash":"33ca5c47de959316623f3eb7fbe12d22",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209412707
+            "county_id":102051719,
+            "localadmin_id":404553641,
+            "locality_id":1209412707,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209412707,
-    "wof:lastmodified":1566622100,
+    "wof:lastmodified":1577838025,
     "wof:name":"Luna",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553641,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

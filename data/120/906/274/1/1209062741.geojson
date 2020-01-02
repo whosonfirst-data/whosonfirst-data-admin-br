@@ -86,7 +86,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681999,
+        102191577,
+        85633009,
+        1511777415,
+        102058573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,14 +100,18 @@
     "wof:geomhash":"6e43a1b462f5251e9248808e2a2f9843",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209062741
+            "county_id":102058573,
+            "locality_id":1209062741,
+            "macroregion_id":1511777415,
+            "region_id":85681999
         }
     ],
     "wof:id":1209062741,
-    "wof:lastmodified":1566621991,
+    "wof:lastmodified":1577838210,
     "wof:name":"Angico",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058573,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

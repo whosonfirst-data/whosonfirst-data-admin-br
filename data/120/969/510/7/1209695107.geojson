@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681931,
+        102191577,
+        85633009,
+        1511777415,
+        102052849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"93f787affec3c36a8f83522df0c12b8a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209695107
+            "county_id":102052849,
+            "locality_id":1209695107,
+            "macroregion_id":1511777415,
+            "region_id":85681931
         }
     ],
     "wof:id":1209695107,
-    "wof:lastmodified":1566622247,
+    "wof:lastmodified":1577838640,
     "wof:name":"Riacho Grande",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102052849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

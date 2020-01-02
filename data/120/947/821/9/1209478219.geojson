@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561237,
+        85633009,
+        1511777409,
+        102057717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"ba9b4042e123328ac4df1871fe293a03",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209478219
+            "county_id":102057717,
+            "localadmin_id":404561237,
+            "locality_id":1209478219,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209478219,
-    "wof:lastmodified":1566622129,
+    "wof:lastmodified":1577828330,
     "wof:name":"Sitio Henrique D. Parma",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561237,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

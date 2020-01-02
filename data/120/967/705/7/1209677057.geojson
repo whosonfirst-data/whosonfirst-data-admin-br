@@ -47,7 +47,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566383,
+        85633009,
+        1511777411,
+        102061357
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +62,19 @@
     "wof:geomhash":"99c96e5dce470a474183ccfdab0c5c6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209677057
+            "county_id":102061357,
+            "localadmin_id":404566383,
+            "locality_id":1209677057,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209677057,
-    "wof:lastmodified":1566622216,
+    "wof:lastmodified":1577833812,
     "wof:name":"Rancho Alegre",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

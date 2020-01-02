@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681885,
+        102191577,
+        85633009,
+        1511777407,
+        102050347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"ce46878d52b2230cb18f7c94fdd5b42b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209615449
+            "county_id":102050347,
+            "locality_id":1209615449,
+            "macroregion_id":1511777407,
+            "region_id":85681885
         }
     ],
     "wof:id":1209615449,
-    "wof:lastmodified":1566622185,
+    "wof:lastmodified":1577825823,
     "wof:name":"Japura",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050347,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -98,7 +98,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404550537,
+        85633009,
+        1511777415,
+        102050555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,14 +113,19 @@
     "wof:geomhash":"c5c5d454f131cb9c0e07690bfc52ae60",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209337123
+            "county_id":102050555,
+            "localadmin_id":404550537,
+            "locality_id":1209337123,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209337123,
-    "wof:lastmodified":1566622263,
+    "wof:lastmodified":1577838094,
     "wof:name":"Morro Redondo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550537,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

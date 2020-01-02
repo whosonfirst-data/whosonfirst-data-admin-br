@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404557565,
+        85633009,
+        1511777411,
+        102054499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"5afe06b955995a4afcc7481240cf3ab2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209187253
+            "county_id":102054499,
+            "localadmin_id":404557565,
+            "locality_id":1209187253,
+            "macroregion_id":1511777411,
+            "region_id":85681941
         }
     ],
     "wof:id":1209187253,
-    "wof:lastmodified":1566622299,
+    "wof:lastmodified":1577833700,
     "wof:name":"Lamins",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404557565,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

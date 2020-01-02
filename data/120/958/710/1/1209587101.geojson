@@ -47,7 +47,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681967,
+        102191577,
+        404559933,
+        85633009,
+        1511777415,
+        102056153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +62,19 @@
     "wof:geomhash":"bbe79925e82341e919e5394e00f17d33",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209587101
+            "county_id":102056153,
+            "localadmin_id":404559933,
+            "locality_id":1209587101,
+            "macroregion_id":1511777415,
+            "region_id":85681967
         }
     ],
     "wof:id":1209587101,
-    "wof:lastmodified":1566622232,
+    "wof:lastmodified":1577838848,
     "wof:name":"Diamantina",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559933,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

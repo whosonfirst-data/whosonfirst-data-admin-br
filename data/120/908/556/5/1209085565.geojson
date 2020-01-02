@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681931,
+        102191577,
+        85633009,
+        1511777415,
+        102052821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"b92ae1d861fb4a709416238685baea6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209085565
+            "county_id":102052821,
+            "locality_id":1209085565,
+            "macroregion_id":1511777415,
+            "region_id":85681931
         }
     ],
     "wof:id":1209085565,
-    "wof:lastmodified":1566622004,
+    "wof:lastmodified":1577839274,
     "wof:name":"Giramundo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102052821,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

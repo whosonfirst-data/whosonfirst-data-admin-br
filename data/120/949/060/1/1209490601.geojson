@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        85633009,
+        1511777409,
+        102058031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"89ff1f2999c965fe661e10573702c82a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209490601
+            "county_id":102058031,
+            "locality_id":1209490601,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209490601,
-    "wof:lastmodified":1566622145,
+    "wof:lastmodified":1577828060,
     "wof:name":"Sitio Velho",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

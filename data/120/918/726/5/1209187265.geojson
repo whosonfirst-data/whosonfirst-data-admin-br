@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681941,
+        102191577,
+        404555771,
+        85633009,
+        1511777411,
+        102053585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"d4b02d87e503bbac79bc8908d2ebb273",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209187265
+            "county_id":102053585,
+            "localadmin_id":404555771,
+            "locality_id":1209187265,
+            "macroregion_id":1511777411,
+            "region_id":85681941
         }
     ],
     "wof:id":1209187265,
-    "wof:lastmodified":1566622308,
+    "wof:lastmodified":1577833715,
     "wof:name":"Jose Grande",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404555771,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

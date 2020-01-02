@@ -95,7 +95,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551619,
+        85633009,
+        1511777415,
+        102051077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,14 +110,19 @@
     "wof:geomhash":"ee13bff10955c1ce85a54db9bd4d8d24",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209620147
+            "county_id":102051077,
+            "localadmin_id":404551619,
+            "locality_id":1209620147,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209620147,
-    "wof:lastmodified":1566621980,
+    "wof:lastmodified":1577838297,
     "wof:name":"Tanquinho",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551619,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

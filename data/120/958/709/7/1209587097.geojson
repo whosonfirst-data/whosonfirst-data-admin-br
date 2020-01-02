@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681967,
+        102191577,
+        85633009,
+        1511777415,
+        102056327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"24d41980b39b2e4b1a28b4e3b9320398",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209587097
+            "county_id":102056327,
+            "locality_id":1209587097,
+            "macroregion_id":1511777415,
+            "region_id":85681967
         }
     ],
     "wof:id":1209587097,
-    "wof:lastmodified":1566622222,
+    "wof:lastmodified":1577839446,
     "wof:name":"Esperanca",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056327,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553045,
+        85633009,
+        1511777415,
+        102051579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"71252f7aaf27a6055edcc0e0cbe2700a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209637381
+            "county_id":102051579,
+            "localadmin_id":404553045,
+            "locality_id":1209637381,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209637381,
-    "wof:lastmodified":1566622027,
+    "wof:lastmodified":1577838318,
     "wof:name":"Olho d'Agua das Eguas",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

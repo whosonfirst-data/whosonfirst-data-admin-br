@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        404560723,
+        85633009,
+        1511777415,
+        102056843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"7ee014832bb2a666c2ef449cf4c3eef6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209665459
+            "county_id":102056843,
+            "localadmin_id":404560723,
+            "locality_id":1209665459,
+            "macroregion_id":1511777415,
+            "region_id":85681973
         }
     ],
     "wof:id":1209665459,
-    "wof:lastmodified":1566622191,
+    "wof:lastmodified":1577838459,
     "wof:name":"Cacaria",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560723,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

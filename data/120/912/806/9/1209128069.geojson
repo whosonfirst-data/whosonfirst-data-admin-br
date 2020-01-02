@@ -68,7 +68,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553145,
+        85633009,
+        1511777415,
+        102051597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,14 +83,19 @@
     "wof:geomhash":"2cd078b9c98619be15aab6ba7401edeb",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209128069
+            "county_id":102051597,
+            "localadmin_id":404553145,
+            "locality_id":1209128069,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209128069,
-    "wof:lastmodified":1566622105,
+    "wof:lastmodified":1577840442,
     "wof:name":"Betania",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

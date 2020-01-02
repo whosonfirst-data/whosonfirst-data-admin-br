@@ -37,7 +37,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681955,
+        102191577,
+        404559177,
+        85633009,
+        1511777413,
+        102055421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +52,19 @@
     "wof:geomhash":"734584a94ffebaf5e7faf4aa5b1bf4de",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209498671
+            "county_id":102055421,
+            "localadmin_id":404559177,
+            "locality_id":1209498671,
+            "macroregion_id":1511777413,
+            "region_id":85681955
         }
     ],
     "wof:id":1209498671,
-    "wof:lastmodified":1566622142,
+    "wof:lastmodified":1577836296,
     "wof:name":"Jatai",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559177,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

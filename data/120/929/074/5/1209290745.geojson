@@ -86,7 +86,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681967,
+        102191577,
+        85633009,
+        1511777415,
+        102056363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,14 +100,18 @@
     "wof:geomhash":"219831bc1d2a6048dae33d7d6c4bcb34",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209290745
+            "county_id":102056363,
+            "locality_id":1209290745,
+            "macroregion_id":1511777415,
+            "region_id":85681967
         }
     ],
     "wof:id":1209290745,
-    "wof:lastmodified":1566622276,
+    "wof:lastmodified":1577840526,
     "wof:name":"Formigueiro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056363,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

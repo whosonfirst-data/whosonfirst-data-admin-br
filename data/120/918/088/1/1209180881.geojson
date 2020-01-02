@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682021,
+        102191577,
+        85633009,
+        1511777409,
+        102060273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"fdd4dd133e2d696b4cc96f8d540d04f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209180881
+            "county_id":102060273,
+            "locality_id":1209180881,
+            "macroregion_id":1511777409,
+            "region_id":85682021
         }
     ],
     "wof:id":1209180881,
-    "wof:lastmodified":1566622305,
+    "wof:lastmodified":1577828068,
     "wof:name":"Bombas",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102060273,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

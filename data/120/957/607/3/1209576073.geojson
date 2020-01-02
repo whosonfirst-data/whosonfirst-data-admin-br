@@ -38,7 +38,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        404560725,
+        85633009,
+        1511777415,
+        102056843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +53,19 @@
     "wof:geomhash":"d61c125912a2bf2d0aeda7bf6a703598",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209576073
+            "county_id":102056843,
+            "localadmin_id":404560725,
+            "locality_id":1209576073,
+            "macroregion_id":1511777415,
+            "region_id":85681973
         }
     ],
     "wof:id":1209576073,
-    "wof:lastmodified":1566622169,
+    "wof:lastmodified":1577838418,
     "wof:name":"Urubu",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560725,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

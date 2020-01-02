@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551391,
+        85633009,
+        1511777415,
+        102050971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"1c1f17cda84ceb32ac46015b830fba6c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209213793
+            "county_id":102050971,
+            "localadmin_id":404551391,
+            "locality_id":1209213793,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209213793,
-    "wof:lastmodified":1566622349,
+    "wof:lastmodified":1577838196,
     "wof:name":"Doutor Almeida",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551391,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

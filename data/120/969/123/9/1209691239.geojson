@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561377,
+        85633009,
+        1511777409,
+        102057835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"95c054f7d8e5fec5a334ba8b4c13db33",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209691239
+            "county_id":102057835,
+            "localadmin_id":404561377,
+            "locality_id":1209691239,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209691239,
-    "wof:lastmodified":1566622250,
+    "wof:lastmodified":1577828199,
     "wof:name":"Recanto do Salto",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561377,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

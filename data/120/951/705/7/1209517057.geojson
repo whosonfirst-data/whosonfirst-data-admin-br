@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681891,
+        102191577,
+        85633009,
+        1511777407,
+        102050459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"8a0d306b0a19d94b08dcfc47a6e44a0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209517057
+            "county_id":102050459,
+            "locality_id":1209517057,
+            "macroregion_id":1511777407,
+            "region_id":85681891
         }
     ],
     "wof:id":1209517057,
-    "wof:lastmodified":1566622254,
+    "wof:lastmodified":1577825792,
     "wof:name":"Aporema",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050459,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -95,7 +95,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681921,
+        102191577,
+        404554531,
+        85633009,
+        1511777411,
+        102051933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,14 +110,19 @@
     "wof:geomhash":"b840645a061c8f0a423c8f13699b3d1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209600703
+            "county_id":102051933,
+            "localadmin_id":404554531,
+            "locality_id":1209600703,
+            "macroregion_id":1511777411,
+            "region_id":85681921
         }
     ],
     "wof:id":1209600703,
-    "wof:lastmodified":1566622235,
+    "wof:lastmodified":1577833595,
     "wof:name":"Pratinha",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404554531,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404550973,
+        85633009,
+        1511777415,
+        102050767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"1988ae390e05cafbffaa0a0b04781c08",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209213787
+            "county_id":102050767,
+            "localadmin_id":404550973,
+            "locality_id":1209213787,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209213787,
-    "wof:lastmodified":1566622350,
+    "wof:lastmodified":1577838177,
     "wof:name":"Sao Rafael",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404550973,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

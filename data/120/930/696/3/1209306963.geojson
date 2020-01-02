@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404552535,
+        85633009,
+        1511777415,
+        102051467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"2495550193217707671630d63d7612b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209306963
+            "county_id":102051467,
+            "localadmin_id":404552535,
+            "locality_id":1209306963,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209306963,
-    "wof:lastmodified":1566622003,
+    "wof:lastmodified":1577838948,
     "wof:name":"Fazenda Sibirol",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404552535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

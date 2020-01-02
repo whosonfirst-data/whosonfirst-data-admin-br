@@ -92,7 +92,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553655,
+        85633009,
+        1511777415,
+        102051723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,14 +107,19 @@
     "wof:geomhash":"1de304e0abe6fd94d6470b52b4131f5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209436981
+            "county_id":102051723,
+            "localadmin_id":404553655,
+            "locality_id":1209436981,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209436981,
-    "wof:lastmodified":1566622400,
+    "wof:lastmodified":1577838013,
     "wof:name":"Piranhas",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

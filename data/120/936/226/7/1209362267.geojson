@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        85633009,
+        1511777411,
+        102062067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"c49100ccbed278648b2e10479d9de3ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209362267
+            "county_id":102062067,
+            "locality_id":1209362267,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209362267,
-    "wof:lastmodified":1566621924,
+    "wof:lastmodified":1577834686,
     "wof:name":"Marfim",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102062067,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

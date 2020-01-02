@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404561783,
+        85633009,
+        1511777409,
+        102058103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"0c46e27b1d085db04ee604ee3ec590d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209069449
+            "county_id":102058103,
+            "localadmin_id":404561783,
+            "locality_id":1209069449,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209069449,
-    "wof:lastmodified":1566622001,
+    "wof:lastmodified":1577828281,
     "wof:name":"Sitio Darcy Baumgartner",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404561783,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

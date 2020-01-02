@@ -38,7 +38,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682015,
+        102191577,
+        404563819,
+        85633009,
+        1511777409,
+        102059539
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +53,19 @@
     "wof:geomhash":"f02e6b94b4344d759def23bc4ccfe823",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209473139
+            "county_id":102059539,
+            "localadmin_id":404563819,
+            "locality_id":1209473139,
+            "macroregion_id":1511777409,
+            "region_id":85682015
         }
     ],
     "wof:id":1209473139,
-    "wof:lastmodified":1566622132,
+    "wof:lastmodified":1577828081,
     "wof:name":"Maximo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404563819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

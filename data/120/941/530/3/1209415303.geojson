@@ -63,7 +63,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681885,
+        102191577,
+        85633009,
+        1511777407,
+        102050331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,14 +77,18 @@
     "wof:geomhash":"5ace14cf72ea3fe59f94133518d3371c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209415303
+            "county_id":102050331,
+            "locality_id":1209415303,
+            "macroregion_id":1511777407,
+            "region_id":85681885
         }
     ],
     "wof:id":1209415303,
-    "wof:lastmodified":1566622099,
+    "wof:lastmodified":1577825738,
     "wof:name":"Laranjal",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050331,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

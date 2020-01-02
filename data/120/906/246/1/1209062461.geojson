@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682015,
+        102191577,
+        85633009,
+        1511777409,
+        102059339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"3e624ea37e8f41c6166d57032b459285",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209062461
+            "county_id":102059339,
+            "locality_id":1209062461,
+            "macroregion_id":1511777409,
+            "region_id":85682015
         }
     ],
     "wof:id":1209062461,
-    "wof:lastmodified":1566621995,
+    "wof:lastmodified":1577828088,
     "wof:name":"Coxilha Butia",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102059339,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

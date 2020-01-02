@@ -37,7 +37,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681921,
+        102191577,
+        404554135,
+        85633009,
+        1511777411,
+        102051825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +52,19 @@
     "wof:geomhash":"8d023140fff3357010f0f93618b56e0e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209079263
+            "county_id":102051825,
+            "localadmin_id":404554135,
+            "locality_id":1209079263,
+            "macroregion_id":1511777411,
+            "region_id":85681921
         }
     ],
     "wof:id":1209079263,
-    "wof:lastmodified":1566621955,
+    "wof:lastmodified":1577833628,
     "wof:name":"Sebastiao da Barra",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404554135,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

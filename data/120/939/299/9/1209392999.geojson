@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681947,
+        102191577,
+        404559041,
+        85633009,
+        1511777413,
+        102055319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"131b4fc1feb6e325a20c697c2779f334",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209392999
+            "county_id":102055319,
+            "localadmin_id":404559041,
+            "locality_id":1209392999,
+            "macroregion_id":1511777413,
+            "region_id":85681947
         }
     ],
     "wof:id":1209392999,
-    "wof:lastmodified":1566621989,
+    "wof:lastmodified":1577836258,
     "wof:name":"Lidia Rezende",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404559041,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

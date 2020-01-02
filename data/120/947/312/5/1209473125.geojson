@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682015,
+        102191577,
+        404564025,
+        85633009,
+        1511777409,
+        102059665
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"d4ca715ab87dbcf9fce531e76b620699",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209473125
+            "county_id":102059665,
+            "localadmin_id":404564025,
+            "locality_id":1209473125,
+            "macroregion_id":1511777409,
+            "region_id":85682015
         }
     ],
     "wof:id":1209473125,
-    "wof:lastmodified":1566622132,
+    "wof:lastmodified":1577828067,
     "wof:name":"Comercio",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404564025,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

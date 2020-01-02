@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682003,
+        102191577,
+        404562821,
+        85633009,
+        1511777407,
+        102058923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"215f440cd82d566ab8fffe5cf6f56ae9",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209671247
+            "county_id":102058923,
+            "localadmin_id":404562821,
+            "locality_id":1209671247,
+            "macroregion_id":1511777407,
+            "region_id":85682003
         }
     ],
     "wof:id":1209671247,
-    "wof:lastmodified":1566622221,
+    "wof:lastmodified":1577825794,
     "wof:name":"Bom Futuro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562821,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

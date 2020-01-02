@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681983,
+        102191577,
+        404562023,
+        85633009,
+        1511777409,
+        102058259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"1de2d1fe5cc339931f25d72307088e8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209072359
+            "county_id":102058259,
+            "localadmin_id":404562023,
+            "locality_id":1209072359,
+            "macroregion_id":1511777409,
+            "region_id":85681983
         }
     ],
     "wof:id":1209072359,
-    "wof:lastmodified":1566621947,
+    "wof:lastmodified":1577828053,
     "wof:name":"Sitio Wilson B. Monteiro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562023,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

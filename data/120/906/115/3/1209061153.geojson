@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682021,
+        102191577,
+        404565601,
+        85633009,
+        1511777409,
+        102060529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"b8bb935b9df1bf4a1a346b9da06fe86a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209061153
+            "county_id":102060529,
+            "localadmin_id":404565601,
+            "locality_id":1209061153,
+            "macroregion_id":1511777409,
+            "region_id":85682021
         }
     ],
     "wof:id":1209061153,
-    "wof:lastmodified":1566621999,
+    "wof:lastmodified":1577829237,
     "wof:name":"Sitio Roberto Miller",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404565601,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

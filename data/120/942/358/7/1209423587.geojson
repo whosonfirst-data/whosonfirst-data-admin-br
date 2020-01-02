@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681879,
+        102191577,
+        85633009,
+        1511777415,
+        102050203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"82b0fc16ec8def2b4c64b63054069646",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209423587
+            "county_id":102050203,
+            "locality_id":1209423587,
+            "macroregion_id":1511777415,
+            "region_id":85681879
         }
     ],
     "wof:id":1209423587,
-    "wof:lastmodified":1566622337,
+    "wof:lastmodified":1577838070,
     "wof:name":"Tanque",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050203,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

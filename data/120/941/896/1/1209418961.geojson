@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681873,
+        102191577,
+        85633009,
+        1511777407,
+        102050039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"7648952f3d92f9e5150479d1b8758eb3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209418961
+            "county_id":102050039,
+            "locality_id":1209418961,
+            "macroregion_id":1511777407,
+            "region_id":85681873
         }
     ],
     "wof:id":1209418961,
-    "wof:lastmodified":1566622101,
+    "wof:lastmodified":1577825760,
     "wof:name":"Sao Salvador",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

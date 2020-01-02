@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682015,
+        102191577,
+        404563613,
+        85633009,
+        1511777409,
+        102059403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"d615dd22a7febc4ea51e140b6cf56e36",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209064665
+            "county_id":102059403,
+            "localadmin_id":404563613,
+            "locality_id":1209064665,
+            "macroregion_id":1511777409,
+            "region_id":85682015
         }
     ],
     "wof:id":1209064665,
-    "wof:lastmodified":1566621998,
+    "wof:lastmodified":1577828128,
     "wof:name":"Sertorina",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404563613,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -36,7 +36,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        404560545,
+        85633009,
+        1511777415,
+        102056759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +51,19 @@
     "wof:geomhash":"8cd97be8545603da497849fd6414d560",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209161021
+            "county_id":102056759,
+            "localadmin_id":404560545,
+            "locality_id":1209161021,
+            "macroregion_id":1511777415,
+            "region_id":85681973
         }
     ],
     "wof:id":1209161021,
-    "wof:lastmodified":1566622267,
+    "wof:lastmodified":1577840452,
     "wof:name":"Paratibe",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404560545,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

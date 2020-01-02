@@ -308,7 +308,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681885,
+        102191577,
+        85633009,
+        1511777407,
+        102050317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -318,14 +322,18 @@
     "wof:geomhash":"4014b865e199b244f05c7484cc0bacc0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209039419
+            "county_id":102050317,
+            "locality_id":1209039419,
+            "macroregion_id":1511777407,
+            "region_id":85681885
         }
     ],
     "wof:id":1209039419,
-    "wof:lastmodified":1566622207,
+    "wof:lastmodified":1577825724,
     "wof:name":"Fortaleza",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050317,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

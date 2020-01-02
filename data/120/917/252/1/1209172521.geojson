@@ -37,7 +37,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681999,
+        102191577,
+        404562733,
+        85633009,
+        1511777415,
+        102058859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +52,19 @@
     "wof:geomhash":"6885b91cdf0b46482db3d678c12e08bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209172521
+            "county_id":102058859,
+            "localadmin_id":404562733,
+            "locality_id":1209172521,
+            "macroregion_id":1511777415,
+            "region_id":85681999
         }
     ],
     "wof:id":1209172521,
-    "wof:lastmodified":1566622362,
+    "wof:lastmodified":1577838138,
     "wof:name":"Tenente Ananias Gomes",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404562733,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

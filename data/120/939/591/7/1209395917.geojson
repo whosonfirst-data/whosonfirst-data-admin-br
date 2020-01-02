@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681947,
+        102191577,
+        404558855,
+        85633009,
+        1511777413,
+        102055213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"d48679594ec9c7f1b82d3046d1abbc6c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209395917
+            "county_id":102055213,
+            "localadmin_id":404558855,
+            "locality_id":1209395917,
+            "macroregion_id":1511777413,
+            "region_id":85681947
         }
     ],
     "wof:id":1209395917,
-    "wof:lastmodified":1566621988,
+    "wof:lastmodified":1577836265,
     "wof:name":"Anhanduizinho",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404558855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

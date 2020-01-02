@@ -37,7 +37,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551129,
+        85633009,
+        1511777415,
+        102050841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +52,19 @@
     "wof:geomhash":"c1cb4faaf498fe03943c64071b156d52",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209219519
+            "county_id":102050841,
+            "localadmin_id":404551129,
+            "locality_id":1209219519,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209219519,
-    "wof:lastmodified":1566622351,
+    "wof:lastmodified":1577838168,
     "wof:name":"Brejao",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

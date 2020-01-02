@@ -36,7 +36,10 @@
     "src:geom":"whosonfirst",
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191577,
+        85633009
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "wd:id":"Q1088815",
@@ -45,7 +48,13 @@
     "wof:country":"BR",
     "wof:created":1577753968,
     "wof:geomhash":"9ba10b3e8a5602a04e32bcf6d89ae4ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "macroregion_id":1511777411
+        }
+    ],
     "wof:id":1511777411,
     "wof:lang_x_official":[
         "por"
@@ -53,9 +62,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1577822132,
+    "wof:lastmodified":1577835160,
     "wof:name":"Southeast",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633009,
     "wof:placetype":"macroregion",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:statistical_gore":1,

@@ -89,7 +89,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551867,
+        85633009,
+        1511777415,
+        102051213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,14 +104,19 @@
     "wof:geomhash":"ac500c3ca13bcfaa63f357a515cbd3e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209313491
+            "county_id":102051213,
+            "localadmin_id":404551867,
+            "locality_id":1209313491,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209313491,
-    "wof:lastmodified":1566621930,
+    "wof:lastmodified":1577838005,
     "wof:name":"Laje",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

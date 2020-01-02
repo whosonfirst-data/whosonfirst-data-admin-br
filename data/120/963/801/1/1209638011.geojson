@@ -90,7 +90,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551535,
+        85633009,
+        1511777415,
+        102051041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,14 +105,19 @@
     "wof:geomhash":"54d4c0e62154497c7ba232fd2851a1a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209638011
+            "county_id":102051041,
+            "localadmin_id":404551535,
+            "locality_id":1209638011,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209638011,
-    "wof:lastmodified":1566622028,
+    "wof:lastmodified":1577838418,
     "wof:name":"Gado Bravo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

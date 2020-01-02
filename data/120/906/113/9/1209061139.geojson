@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682021,
+        102191577,
+        404565433,
+        85633009,
+        1511777409,
+        102060399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"8afa2edcb644759a35a1f7406eb6ff62",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209061139
+            "county_id":102060399,
+            "localadmin_id":404565433,
+            "locality_id":1209061139,
+            "macroregion_id":1511777409,
+            "region_id":85682021
         }
     ],
     "wof:id":1209061139,
-    "wof:lastmodified":1566622001,
+    "wof:lastmodified":1577828049,
     "wof:name":"Sitio Afonso L. Padilha",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404565433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

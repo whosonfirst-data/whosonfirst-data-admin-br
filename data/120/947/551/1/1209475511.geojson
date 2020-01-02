@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681973,
+        102191577,
+        85633009,
+        1511777415,
+        102056565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"d1a9e9156f3a8dcfd294ab5b575c3212",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209475511
+            "county_id":102056565,
+            "locality_id":1209475511,
+            "macroregion_id":1511777415,
+            "region_id":85681973
         }
     ],
     "wof:id":1209475511,
-    "wof:lastmodified":1566622124,
+    "wof:lastmodified":1577838262,
     "wof:name":"Riachao",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102056565,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681885,
+        102191577,
+        85633009,
+        1511777407,
+        102050371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"f1caeb88a933e5dc3c1688db3f9e58b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209129853
+            "county_id":102050371,
+            "locality_id":1209129853,
+            "macroregion_id":1511777407,
+            "region_id":85681885
         }
     ],
     "wof:id":1209129853,
-    "wof:lastmodified":1566622104,
+    "wof:lastmodified":1577825741,
     "wof:name":"Cariri",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102050371,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

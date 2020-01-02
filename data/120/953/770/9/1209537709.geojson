@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404553041,
+        85633009,
+        1511777415,
+        102051579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"fbb0f8f93bed266237d34ef9eb0778f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209537709
+            "county_id":102051579,
+            "localadmin_id":404553041,
+            "locality_id":1209537709,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209537709,
-    "wof:lastmodified":1566621958,
+    "wof:lastmodified":1577838269,
     "wof:name":"Trapia",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404553041,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -35,7 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        404566351,
+        85633009,
+        1511777411,
+        102061315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +50,19 @@
     "wof:geomhash":"0dadb4173869fe10f7ab02be1533b847",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209168563
+            "county_id":102061315,
+            "localadmin_id":404566351,
+            "locality_id":1209168563,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209168563,
-    "wof:lastmodified":1566622271,
+    "wof:lastmodified":1577834658,
     "wof:name":"Nhambuca",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404566351,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

@@ -95,7 +95,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681931,
+        102191577,
+        85633009,
+        1511777415,
+        102053015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,14 +109,18 @@
     "wof:geomhash":"695c38c6df301e2999d490c5bc84bdd3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209594761
+            "county_id":102053015,
+            "locality_id":1209594761,
+            "macroregion_id":1511777415,
+            "region_id":85681931
         }
     ],
     "wof:id":1209594761,
-    "wof:lastmodified":1566622196,
+    "wof:lastmodified":1577839290,
     "wof:name":"Pereira",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102053015,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

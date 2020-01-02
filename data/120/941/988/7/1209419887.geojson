@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681895,
+        102191577,
+        404551375,
+        85633009,
+        1511777415,
+        102050963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"e4d1bb3db6e687d76fa0438522976c83",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209419887
+            "county_id":102050963,
+            "localadmin_id":404551375,
+            "locality_id":1209419887,
+            "macroregion_id":1511777415,
+            "region_id":85681895
         }
     ],
     "wof:id":1209419887,
-    "wof:lastmodified":1566622102,
+    "wof:lastmodified":1577838287,
     "wof:name":"Charco do Cedro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404551375,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

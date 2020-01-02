@@ -242,7 +242,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682003,
+        102191577,
+        85633009,
+        1511777407,
+        102058935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -252,14 +256,18 @@
     "wof:geomhash":"414a6e47d77cd33d82cac12430a424d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209683953
+            "county_id":102058935,
+            "locality_id":1209683953,
+            "macroregion_id":1511777407,
+            "region_id":85682003
         }
     ],
     "wof:id":1209683953,
-    "wof:lastmodified":1566622176,
+    "wof:lastmodified":1577825883,
     "wof:name":"Maracaibo",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102058935,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

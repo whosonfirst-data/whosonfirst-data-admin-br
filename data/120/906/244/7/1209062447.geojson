@@ -89,7 +89,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682015,
+        102191577,
+        85633009,
+        1511777409,
+        102060097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,14 +103,18 @@
     "wof:geomhash":"c4e766069fe641cf89d3952a72f7fac6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209062447
+            "county_id":102060097,
+            "locality_id":1209062447,
+            "macroregion_id":1511777409,
+            "region_id":85682015
         }
     ],
     "wof:id":1209062447,
-    "wof:lastmodified":1566621992,
+    "wof:lastmodified":1577828082,
     "wof:name":"Itacurubi",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102060097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

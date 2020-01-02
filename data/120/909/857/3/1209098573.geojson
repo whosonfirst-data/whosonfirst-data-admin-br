@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404552409,
+        85633009,
+        1511777415,
+        102051435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"94b5ebf6b8df046c8a16cfa50965a098",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209098573
+            "county_id":102051435,
+            "localadmin_id":404552409,
+            "locality_id":1209098573,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209098573,
-    "wof:lastmodified":1566621921,
+    "wof:lastmodified":1577840518,
     "wof:name":"Baixio do Lima",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404552409,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

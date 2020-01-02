@@ -116,7 +116,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        85633009,
+        1511777411,
+        102061331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,14 +130,18 @@
     "wof:geomhash":"74ac8377ea766dfaab65ce42c6d56f2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209060579
+            "county_id":102061331,
+            "locality_id":1209060579,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209060579,
-    "wof:lastmodified":1566621997,
+    "wof:lastmodified":1577834612,
     "wof:name":"Tamandua",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102061331,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

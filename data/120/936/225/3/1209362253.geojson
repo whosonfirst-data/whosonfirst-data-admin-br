@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85682041,
+        102191577,
+        85633009,
+        1511777411,
+        102061283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"a716189f7b74ad89847ce97a89eba0e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209362253
+            "county_id":102061283,
+            "locality_id":1209362253,
+            "macroregion_id":1511777411,
+            "region_id":85682041
         }
     ],
     "wof:id":1209362253,
-    "wof:lastmodified":1566621927,
+    "wof:lastmodified":1577833493,
     "wof:name":"Cerquilho Velho",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102061283,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

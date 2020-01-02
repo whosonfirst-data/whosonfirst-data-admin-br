@@ -32,7 +32,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404554029,
+        85633009,
+        1511777415,
+        102051799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +47,19 @@
     "wof:geomhash":"c33aef7a02c6459e4a84ca575a0d8d70",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209028577
+            "county_id":102051799,
+            "localadmin_id":404554029,
+            "locality_id":1209028577,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209028577,
-    "wof:lastmodified":1566622261,
+    "wof:lastmodified":1577838044,
     "wof:name":"Bezerro Morto",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404554029,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

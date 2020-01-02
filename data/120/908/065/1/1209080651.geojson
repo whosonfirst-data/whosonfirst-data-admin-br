@@ -47,7 +47,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681977,
+        102191577,
+        85633009,
+        1511777415,
+        102057221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +61,18 @@
     "wof:geomhash":"f9bdf651446f154cfa31e47dc7394473",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209080651
+            "county_id":102057221,
+            "locality_id":1209080651,
+            "macroregion_id":1511777415,
+            "region_id":85681977
         }
     ],
     "wof:id":1209080651,
-    "wof:lastmodified":1566622005,
+    "wof:lastmodified":1577838028,
     "wof:name":"Extrema",
-    "wof:parent_id":85633009,
+    "wof:parent_id":102057221,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],

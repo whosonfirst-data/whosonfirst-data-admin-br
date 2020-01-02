@@ -86,7 +86,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633009
+        85681907,
+        102191577,
+        404552287,
+        85633009,
+        1511777415,
+        102051411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,14 +101,19 @@
     "wof:geomhash":"b333c191e5879bb64e43c421d390c375",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85633009,
-            "locality_id":1209207029
+            "county_id":102051411,
+            "localadmin_id":404552287,
+            "locality_id":1209207029,
+            "macroregion_id":1511777415,
+            "region_id":85681907
         }
     ],
     "wof:id":1209207029,
-    "wof:lastmodified":1566622278,
+    "wof:lastmodified":1577838108,
     "wof:name":"Retiro",
-    "wof:parent_id":85633009,
+    "wof:parent_id":404552287,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
