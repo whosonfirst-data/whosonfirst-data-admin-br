@@ -279,7 +279,8 @@
     "qs:type":"Local urban major",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -302,6 +303,10 @@
         "qs_pg:id":218129
     },
     "wof:country":"BR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"2313fc30208ba78aa314ee6b25c8cb0f",
     "wof:hierarchy":[
         {
@@ -315,7 +320,7 @@
         }
     ],
     "wof:id":101948609,
-    "wof:lastmodified":1577840963,
+    "wof:lastmodified":1582321020,
     "wof:name":"Cabo de Santo Agostinho",
     "wof:parent_id":404560247,
     "wof:placetype":"locality",

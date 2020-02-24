@@ -220,7 +220,8 @@
     "qs:type":"Centro Subregional B",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -242,6 +243,10 @@
         "wk:page":"Cruzeiro do Sul, Acre"
     },
     "wof:country":"BR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"79c19c999cf24dd27b69af3702f0fc76",
     "wof:hierarchy":[
         {
@@ -257,7 +262,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1577825720,
+    "wof:lastmodified":1582321035,
     "wof:name":"Cruzeiro do Sul",
     "wof:parent_id":102050021,
     "wof:placetype":"locality",
