@@ -213,7 +213,8 @@
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -234,6 +235,10 @@
         "qs_pg:id":160603
     },
     "wof:country":"BR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"f61608637f16cbf2000bf6b2df72c7db",
     "wof:hierarchy":[
         {
@@ -246,7 +251,7 @@
         }
     ],
     "wof:id":101942071,
-    "wof:lastmodified":1577826337,
+    "wof:lastmodified":1582321134,
     "wof:name":"Laranjal do Jari",
     "wof:parent_id":102050443,
     "wof:placetype":"locality",
