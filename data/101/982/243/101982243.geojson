@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000079,
-    "geom:area_square_m":943993.571336,
-    "geom:bbox":"-53.0684953728,-14.2767344314,-53.0584325484,-14.2688037637",
+    "geom:area_square_m":943894.557517,
+    "geom:bbox":"-53.068495,-14.276734,-53.058433,-14.268804",
     "geom:latitude":-14.272761,
     "geom:longitude":-53.063447,
     "iso:country":"BR",
@@ -196,11 +196,17 @@
     "name:frp_x_preferred":[
         "Sant P\u00f4l du Br\u00e8sil"
     ],
+    "name:frr_x_preferred":[
+        "S\u00e3o Paulo"
+    ],
     "name:fry_x_preferred":[
         "S\u00e3o Paulo"
     ],
     "name:gan_x_preferred":[
         "\u8056\u4fdd\u7f85"
+    ],
+    "name:gcr_x_preferred":[
+        "S\u00e3o Paulo"
     ],
     "name:gla_x_preferred":[
         "S\u00e3o Paulo"
@@ -636,12 +642,12 @@
     "wd:population":11967825,
     "wd:wordcount":14735,
     "wof:belongsto":[
-        85681955,
         102191577,
-        404559141,
         85633009,
+        102055391,
+        404559141,
         1511777413,
-        102055391
+        85681955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -649,7 +655,7 @@
         "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"c4126cdf97a0b6b4633658833047ff57",
+    "wof:geomhash":"c4662b164f422154808b9b3314033369",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -662,7 +668,7 @@
         }
     ],
     "wof:id":101982243,
-    "wof:lastmodified":1577836348,
+    "wof:lastmodified":1587428162,
     "wof:name":"S\u00e3o Paulo",
     "wof:parent_id":404559141,
     "wof:placetype":"locality",
@@ -674,10 +680,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -53.06849537282901,
-    -14.2767344314417,
-    -53.05843254839201,
-    -14.2688037636694
+    -53.068495,
+    -14.276734,
+    -53.058433,
+    -14.268804
 ],
-  "geometry": {"coordinates":[[[-53.0684238160801,-14.2688037636694],[-53.05843254839201,-14.26884765226],[-53.0584563148977,-14.2767344314417],[-53.06849537282901,-14.2766473703791],[-53.0684238160801,-14.2688037636694]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-53.068424,-14.268804],[-53.058433,-14.268848],[-53.058456,-14.276734],[-53.068495,-14.276647],[-53.068424,-14.268804]]],"type":"Polygon"}
 }
