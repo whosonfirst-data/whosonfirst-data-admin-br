@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4628.749796,
-    "geom:bbox":"-35.9000603533,-5.68612049415,-35.8987874453,-5.68547275939",
+    "geom:area_square_m":4625.517418,
+    "geom:bbox":"-35.90006,-5.68612,-35.898787,-5.685473",
     "geom:latitude":-5.685833,
     "geom:longitude":-35.899523,
     "iso:country":"BR",
@@ -31,11 +31,17 @@
     "name:arg_x_preferred":[
         "Belo Horizonte"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0644\u0648 \u0647\u0648\u0631\u064a\u0632\u0648\u0646\u062a\u0649"
+    ],
     "name:ast_x_preferred":[
         "Belo Horizonte"
     ],
     "name:aze_x_preferred":[
         "Belo Horizonte"
+    ],
+    "name:aze_x_variant":[
+        "Belu-Orizonti"
     ],
     "name:bel_x_preferred":[
         "\u0411\u0435\u043b\u0443-\u0410\u0440\u044b\u0437\u043e\u043d\u0442\u044b"
@@ -126,6 +132,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u0565\u056c\u0578\u0582 \u0540\u0578\u0580\u056b\u0566\u0578\u0576\u057f\u056b"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0565\u056c\u0578\u0582 \u0555\u0580\u056b\u0566\u0578\u0576\u057f\u056b"
     ],
     "name:ido_x_preferred":[
         "Belo Horizonte"
@@ -351,12 +360,12 @@
     "wd:population":2479175,
     "wd:wordcount":7250,
     "wof:belongsto":[
-        85681999,
         102191577,
-        404562669,
         85633009,
+        102058547,
+        404562669,
         1511777415,
-        102058547
+        85681999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -364,7 +373,7 @@
         "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"673e45143668c7a01d0088d79a7f7b0c",
+    "wof:geomhash":"6afe0d0dd16bf4dd65f331be084fcd31",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -377,7 +386,7 @@
         }
     ],
     "wof:id":101946525,
-    "wof:lastmodified":1577839852,
+    "wof:lastmodified":1587428133,
     "wof:name":"Belo Horizonte",
     "wof:parent_id":404562669,
     "wof:placetype":"locality",
@@ -389,10 +398,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -35.9000603533165,
-    -5.68612049415083,
-    -35.898787445294,
-    -5.68547275938817
+    -35.90006,
+    -5.68612,
+    -35.898787,
+    -5.685473
 ],
-  "geometry": {"coordinates":[[[-35.898787445294,-5.68590697855442],[-35.9000603533165,-5.68612049415083],[-35.8997225261342,-5.68547275938817],[-35.898787445294,-5.68590697855442]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-35.898787,-5.685907],[-35.90006,-5.68612],[-35.899723,-5.685473],[-35.898787,-5.685907]]],"type":"Polygon"}
 }
