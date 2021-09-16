@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-37.07333333,-10.98527778,-37.07333333,-10.98527778",
+    "geom:bbox":"-37.073333,-10.985278,-37.073333,-10.985278",
     "geom:latitude":-10.985278,
     "geom:longitude":-37.073333,
     "iso:country":"BR",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Santa Maria Airport"
+    ],
+    "name:eng_x_variant":[
+        "AJU",
+        "SBAR"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0646\u062a\u0627 \u0645\u0627\u0631\u06cc\u0627"
@@ -69,12 +73,12 @@
         "state_id":2344869
     },
     "wof:belongsto":[
-        85682037,
         102191577,
         85633009,
         1511777415,
         101947883,
-        102060823
+        102060823,
+        85682037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +89,7 @@
         "wd:id":"Q1032227"
     },
     "wof:country":"BR",
-    "wof:geomhash":"3ebfbb8b2408a2255e64a5a6277cf640",
+    "wof:geomhash":"1cc354bc56c5af1bb124ef057359808b",
     "wof:hierarchy":[
         {
             "campus_id":102534667,
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":102534667,
-    "wof:lastmodified":1577841229,
+    "wof:lastmodified":1631745461,
     "wof:name":"Aeroporto Santa Maria",
     "wof:parent_id":101947883,
     "wof:placetype":"campus",
@@ -111,10 +115,10 @@
     ]
 },
   "bbox": [
-    -37.07333333,
-    -10.98527778,
-    -37.07333333,
-    -10.98527778
+    -37.073333,
+    -10.985278,
+    -37.073333,
+    -10.985278
 ],
-  "geometry": {"coordinates":[-37.07333333,-10.98527778],"type":"Point"}
+  "geometry": {"coordinates":[-37.073333,-10.985278],"type":"Point"}
 }

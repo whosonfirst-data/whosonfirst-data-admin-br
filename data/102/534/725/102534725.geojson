@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-54.95277778,-10.17027778,-54.95277778,-10.17027778",
+    "geom:bbox":"-54.952778,-10.170278,-54.952778,-10.170278",
     "geom:latitude":-10.170278,
     "geom:longitude":-54.952778,
     "iso:country":"BR",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Matup\u00e1 Airport"
+    ],
+    "name:eng_x_variant":[
+        "MBK",
+        "SWXM"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30c8\u30a5\u30d1\u7a7a\u6e2f"
@@ -42,12 +46,12 @@
         "state_id":2344855
     },
     "wof:belongsto":[
-        85681955,
         102191577,
         85633009,
         1511777413,
         101961427,
-        102055495
+        102055495,
+        85681955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +62,7 @@
         "wd:id":"Q6791986"
     },
     "wof:country":"BR",
-    "wof:geomhash":"eacec791c70b40f02f4d0f828705e46e",
+    "wof:geomhash":"514168404d153709b1f9711e220e8d15",
     "wof:hierarchy":[
         {
             "campus_id":102534725,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":102534725,
-    "wof:lastmodified":1577836751,
+    "wof:lastmodified":1631745461,
     "wof:name":"Aeroporto Matupa",
     "wof:parent_id":101961427,
     "wof:placetype":"campus",
@@ -84,10 +88,10 @@
     ]
 },
   "bbox": [
-    -54.95277778,
-    -10.17027778,
-    -54.95277778,
-    -10.17027778
+    -54.952778,
+    -10.170278,
+    -54.952778,
+    -10.170278
 ],
-  "geometry": {"coordinates":[-54.95277778,-10.17027778],"type":"Point"}
+  "geometry": {"coordinates":[-54.952778,-10.170278],"type":"Point"}
 }

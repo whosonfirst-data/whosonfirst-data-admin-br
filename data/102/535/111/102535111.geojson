@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-43.4075,-13.26138889,-43.4075,-13.26138889",
+    "geom:bbox":"-43.4075,-13.261389,-43.4075,-13.261389",
     "geom:latitude":-13.261389,
     "geom:longitude":-43.4075,
     "iso:country":"BR",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Bom Jesus da Lapa Airport"
+    ],
+    "name:eng_x_variant":[
+        "LAZ",
+        "SBLP"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0648\u0645 \u0698\u0632\u0648\u0632 \u062f\u0627 \u0644\u0627\u067e\u0627"
@@ -48,13 +52,13 @@
         "state_id":2344848
     },
     "wof:belongsto":[
-        85681895,
         102191577,
         404550557,
         85633009,
         1511777415,
         101946965,
-        102050569
+        102050569,
+        85681895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,7 +69,7 @@
         "wd:id":"Q3886268"
     },
     "wof:country":"BR",
-    "wof:geomhash":"66e260a8fae2cbf0bac8ad5b32d8c281",
+    "wof:geomhash":"6940dea2f074a81967726efe028c9559",
     "wof:hierarchy":[
         {
             "campus_id":102535111,
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":102535111,
-    "wof:lastmodified":1577841234,
+    "wof:lastmodified":1631745462,
     "wof:name":"Aeroporto Bom Jesus da Lapa",
     "wof:parent_id":101946965,
     "wof:placetype":"campus",
@@ -93,9 +97,9 @@
 },
   "bbox": [
     -43.4075,
-    -13.26138889,
+    -13.261389,
     -43.4075,
-    -13.26138889
+    -13.261389
 ],
-  "geometry": {"coordinates":[-43.4075,-13.26138889],"type":"Point"}
+  "geometry": {"coordinates":[-43.4075,-13.261389],"type":"Point"}
 }

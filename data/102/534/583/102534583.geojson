@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-40.8630555556,-14.8636111111,-40.8630555556,-14.8636111111",
+    "geom:bbox":"-40.863056,-14.863611,-40.863056,-14.863611",
     "geom:latitude":-14.863611,
     "geom:longitude":-40.863056,
     "iso:country":"BR",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Vit\u00f3ria da Conquista Airport"
+    ],
+    "name:eng_x_variant":[
+        "VDC",
+        "SBQV"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u062a\u0648\u0631\u06cc\u0627 \u062f\u0627 \u06a9\u0648\u0646\u06a9\u06cc\u0633\u062a\u0627"
@@ -52,13 +56,13 @@
         "state_id":2344848
     },
     "wof:belongsto":[
-        85681895,
         102191577,
         404552209,
         85633009,
         1511777415,
         101949621,
-        102051391
+        102051391,
+        85681895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +73,7 @@
         "wd:id":"Q5246295"
     },
     "wof:country":"BR",
-    "wof:geomhash":"556469ed8043b0dd84757bdb50e4a576",
+    "wof:geomhash":"1e6a59aad1c7eb9f34547efa73558d4c",
     "wof:hierarchy":[
         {
             "campus_id":102534583,
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":102534583,
-    "wof:lastmodified":1577841234,
+    "wof:lastmodified":1631745462,
     "wof:name":"Aeroporto Vitoria da Conquista",
     "wof:parent_id":101949621,
     "wof:placetype":"campus",
@@ -96,10 +100,10 @@
     ]
 },
   "bbox": [
-    -40.863055555556,
-    -14.863611111111,
-    -40.863055555556,
-    -14.863611111111
+    -40.863056,
+    -14.863611,
+    -40.863056,
+    -14.863611
 ],
-  "geometry": {"coordinates":[-40.863055555556,-14.863611111111],"type":"Point"}
+  "geometry": {"coordinates":[-40.863056,-14.863611],"type":"Point"}
 }

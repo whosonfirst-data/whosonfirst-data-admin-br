@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-42.0713888889,-22.9208333333,-42.0713888889,-22.9208333333",
+    "geom:bbox":"-42.071389,-22.920833,-42.071389,-22.920833",
     "geom:latitude":-22.920833,
     "geom:longitude":-42.071389,
     "iso:country":"BR",
@@ -18,6 +18,10 @@
     ],
     "name:deu_x_preferred":[
         "Flughafen Cabo Frio"
+    ],
+    "name:eng_x_variant":[
+        "CFB",
+        "SBCB"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0627\u0628\u0648 \u0641\u0631\u06cc\u0648"
@@ -45,13 +49,13 @@
         "state_id":2344862
     },
     "wof:belongsto":[
-        85681991,
         102191577,
         404562145,
         85633009,
         1511777411,
         101953745,
-        102058329
+        102058329,
+        85681991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +66,7 @@
         "wd:id":"Q3813677"
     },
     "wof:country":"BR",
-    "wof:geomhash":"edd09a7874695fb8c4a29732fa9609d9",
+    "wof:geomhash":"17ddccdb410de4f4d331a403b022790e",
     "wof:hierarchy":[
         {
             "campus_id":102535521,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":102535521,
-    "wof:lastmodified":1577835057,
+    "wof:lastmodified":1631745462,
     "wof:name":"Aeroporto de Cabo Frio",
     "wof:parent_id":101953745,
     "wof:placetype":"campus",
@@ -89,10 +93,10 @@
     ]
 },
   "bbox": [
-    -42.071388888889,
-    -22.920833333333,
-    -42.071388888889,
-    -22.920833333333
+    -42.071389,
+    -22.920833,
+    -42.071389,
+    -22.920833
 ],
-  "geometry": {"coordinates":[-42.071388888889,-22.920833333333],"type":"Point"}
+  "geometry": {"coordinates":[-42.071389,-22.920833],"type":"Point"}
 }

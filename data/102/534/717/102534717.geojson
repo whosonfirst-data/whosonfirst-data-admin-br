@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-58.70166667,-11.41944444,-58.70166667,-11.41944444",
+    "geom:bbox":"-58.701667,-11.419444,-58.701667,-11.419444",
     "geom:latitude":-11.419444,
     "geom:longitude":-58.701667,
     "iso:country":"BR",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Ju\u00edna Airport"
+    ],
+    "name:eng_x_variant":[
+        "JIA",
+        "SWJN"
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e5\u30a4\u30ca\u7a7a\u6e2f"
@@ -48,13 +52,13 @@
         "state_id":2344855
     },
     "wof:belongsto":[
-        85681955,
         102191577,
         404559233,
         85633009,
         1511777413,
         101960957,
-        102055477
+        102055477,
+        85681955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,7 +69,7 @@
         "wd:id":"Q6319237"
     },
     "wof:country":"BR",
-    "wof:geomhash":"0aecd0c8e252a26e4a709623b7e6e00e",
+    "wof:geomhash":"3eee7026aba2339e7b2cce65b2e82ddb",
     "wof:hierarchy":[
         {
             "campus_id":102534717,
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":102534717,
-    "wof:lastmodified":1577836752,
+    "wof:lastmodified":1631745462,
     "wof:name":"Aeroporto Juina",
     "wof:parent_id":101960957,
     "wof:placetype":"campus",
@@ -92,10 +96,10 @@
     ]
 },
   "bbox": [
-    -58.70166667,
-    -11.41944444,
-    -58.70166667,
-    -11.41944444
+    -58.701667,
+    -11.419444,
+    -58.701667,
+    -11.419444
 ],
-  "geometry": {"coordinates":[-58.70166667,-11.41944444],"type":"Point"}
+  "geometry": {"coordinates":[-58.701667,-11.419444],"type":"Point"}
 }
