@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00002,
     "geom:area_square_m":230708.347499,
-    "geom:bbox":"-54.76103019,-22.499972748,-54.755309364,-22.495596136",
+    "geom:bbox":"-54.76103,-22.499973,-54.755309,-22.495596",
     "geom:latitude":-22.497785,
     "geom:longitude":-54.758159,
     "iso:country":"BR",
@@ -22,11 +22,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0643\u0631\u064a\u0633\u062a\u0627\u0644\u064a\u0646\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u09a4\u09be\u09b2\u09bf\u09a8\u09be"
+    ],
     "name:bpy_x_preferred":[
         "\u0995\u09b0\u09bf\u09b8\u099f\u09be\u09b2\u09bf\u09a8\u09be"
     ],
     "name:deu_x_preferred":[
         "Cristalina"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03b9\u03c3\u03c4\u03b1\u03bb\u03af\u03bd\u03b1"
     ],
     "name:eml_x_preferred":[
         "Cristalina"
@@ -37,20 +43,38 @@
     "name:eus_x_preferred":[
         "Cristalina"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06cc\u0633\u062a\u0627\u0644\u06cc\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
         "Cristalina"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e8\u05d9\u05e1\u05d8\u05dc\u05d9\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0930\u093f\u0938\u094d\u091f\u0932\u093f\u0928\u093e"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0580\u056b\u057d\u057f\u0561\u056c\u056b\u0576\u0561"
     ],
+    "name:ind_x_preferred":[
+        "Cristalina"
+    ],
     "name:ita_x_preferred":[
         "Cristalina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ea\u30b9\u30bf\u30ea\u30ca"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10e0\u10d8\u10e1\u10e2\u10d0\u10da\u10d8\u10dc\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0440\u0438\u0441\u0442\u0430\u043b\u0438\u043d\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub9ac\uc2a4\ud0c8\ub9ac\ub098"
     ],
     "name:mlg_x_preferred":[
         "Cristalina"
@@ -59,6 +83,9 @@
         "Cristalina"
     ],
     "name:nor_x_preferred":[
+        "Cristalina"
+    ],
+    "name:pol_x_preferred":[
         "Cristalina"
     ],
     "name:por_x_preferred":[
@@ -72,6 +99,18 @@
     ],
     "name:spa_x_preferred":[
         "Cristalina"
+    ],
+    "name:swe_x_preferred":[
+        "Cristalina"
+    ],
+    "name:tur_x_preferred":[
+        "Cristalina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0456\u0441\u0442\u0430\u043b\u0456\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0631\u0633\u0679\u0627\u0644\u06cc\u0646\u0627"
     ],
     "name:vie_x_preferred":[
         "Cristalina"
@@ -116,7 +155,7 @@
         "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"7de74fefbec60ce14fc77e445f96676f",
+    "wof:geomhash":"c0284feff2d41ea09ae19e59a1ec2ace",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +168,7 @@
         }
     ],
     "wof:id":101961443,
-    "wof:lastmodified":1577836472,
+    "wof:lastmodified":1636496345,
     "wof:name":"Cristalina",
     "wof:parent_id":404558845,
     "wof:placetype":"locality",
@@ -139,10 +178,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -54.76103019002819,
-    -22.4999727479999,
-    -54.7553093639999,
-    -22.4955961359619
+    -54.76103,
+    -22.499973,
+    -54.755309,
+    -22.495596
 ],
-  "geometry": {"coordinates":[[[-54.76103019002819,-22.496242424107],[-54.7556708876148,-22.4955961359619],[-54.75559278399439,-22.4964126998644],[-54.7553093639999,-22.4993396149999],[-54.7553640300343,-22.4993461218741],[-54.76062848799999,-22.4999727479999],[-54.76103019002819,-22.496242424107]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-54.76103,-22.496242],[-54.755671,-22.495596],[-54.755593,-22.496413],[-54.755309,-22.49934],[-54.755364,-22.499346],[-54.760628,-22.499973],[-54.76103,-22.496242]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
     "geom:area_square_m":1170123.956989,
-    "geom:bbox":"-44.6884542222,-5.02895733805,-44.6789519543,-5.00551647596",
+    "geom:bbox":"-44.688454,-5.028957,-44.678952,-5.005516",
     "geom:latitude":-5.016944,
     "geom:longitude":-44.683371,
     "iso:country":"BR",
@@ -19,11 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0631\u064a\u0646\u064a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09b0\u09b0\u09bf\u09a8\u09b9\u09be"
+    ],
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u09b0\u09bf\u09a8\u09b9\u09be"
     ],
     "name:deu_x_preferred":[
         "Serrinha"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03c1\u03af\u03bd\u03b9\u03b1"
     ],
     "name:epo_x_preferred":[
         "Serrinha"
@@ -31,14 +40,29 @@
     "name:eus_x_preferred":[
         "Serrinha"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u06cc\u0646\u0647\u0627"
+    ],
     "name:fra_x_preferred":[
         "Serrinha"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e8\u05d9\u05e0\u05d7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0930\u094d\u0930\u093f\u0902\u0939\u093e"
     ],
     "name:hye_x_preferred":[
         "\u054d\u0565\u057c\u056b\u0576\u056b\u0561"
     ],
+    "name:ind_x_preferred":[
+        "Serrinha"
+    ],
     "name:ita_x_preferred":[
         "Serrinha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30ea\u30cb\u30e3"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d4\u10e0\u10d8\u10dc\u10d8\u10d0"
@@ -69,6 +93,21 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0440\u0440\u0438\u043d\u044c\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Serrinha"
+    ],
+    "name:tur_x_preferred":[
+        "Serrinha"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0440\u0440\u0456\u043d\u044c\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0631\u06cc\u0646\u06be\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Serrinha"
     ],
     "name:vol_x_preferred":[
         "Serrinha"
@@ -108,7 +147,7 @@
         "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"8cf6359e9d36a6685947bb1e0e47feda",
+    "wof:geomhash":"fdbe82206e1d555241ea5f538ef5850c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +159,7 @@
         }
     ],
     "wof:id":101979641,
-    "wof:lastmodified":1577839649,
+    "wof:lastmodified":1636496311,
     "wof:name":"Serrinha",
     "wof:parent_id":102052979,
     "wof:placetype":"locality",
@@ -130,10 +169,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -44.6884542221756,
-    -5.02895733805258,
-    -44.6789519543133,
-    -5.00551647595648
+    -44.688454,
+    -5.028957,
+    -44.678952,
+    -5.005516
 ],
-  "geometry": {"coordinates":[[[-44.6818017114601,-5.02895733805258],[-44.6869981885258,-5.01429975420986],[-44.6884542221756,-5.00586534701105],[-44.6881251183587,-5.00565042206939],[-44.6879200133733,-5.00551647595648],[-44.6789519543133,-5.01630029215581],[-44.6811047021192,-5.02888095346727],[-44.6814532067896,-5.02891914575993],[-44.6818017114601,-5.02895733805258]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-44.681802,-5.028957],[-44.686998,-5.0143],[-44.688454,-5.005865],[-44.688125,-5.00565],[-44.68792,-5.005516],[-44.678952,-5.0163],[-44.681105,-5.028881],[-44.681453,-5.028919],[-44.681802,-5.028957]]],"type":"Polygon"}
 }

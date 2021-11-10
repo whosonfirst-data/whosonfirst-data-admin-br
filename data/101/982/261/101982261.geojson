@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00002,
     "geom:area_square_m":244954.393852,
-    "geom:bbox":"-50.9329985663,-11.5851176254,-50.928457179,-11.5799588093",
+    "geom:bbox":"-50.932999,-11.585118,-50.928457,-11.579959",
     "geom:latitude":-11.58253,
-    "geom:longitude":-50.930781,
+    "geom:longitude":-50.930782,
     "iso:country":"BR",
     "lbl:latitude":-11.582629,
     "lbl:longitude":-50.93066,
@@ -19,29 +19,56 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u0627\u0628\u062f\u064a\u0646\u0647\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u099a\u09be\u09aa\u09be\u09a6\u09bf\u09a8\u09b9\u09be"
+    ],
     "name:bpy_x_preferred":[
         "\u099a\u09be\u09aa\u09be\u09a1\u09bf\u09a8\u09b9\u09be"
     ],
     "name:deu_x_preferred":[
         "Chapadinha"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03c0\u03b1\u03bd\u03c4\u03af\u03bd\u03b9\u03b1"
+    ],
     "name:eus_x_preferred":[
         "Chapadinha"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u067e\u0627\u062f\u06cc\u0646\u0627"
     ],
     "name:fra_x_preferred":[
         "Chapadinha"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05e4\u05e0\u05d3\u05d9\u05e0\u05d7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u093e\u092a\u093e\u0926\u093f\u0928\u094d\u0939\u093e"
+    ],
     "name:hye_x_preferred":[
         "\u0547\u0561\u057a\u0561\u0564\u056b\u0576\u056b\u0561"
     ],
+    "name:ind_x_preferred":[
+        "Chapadinha"
+    ],
     "name:ita_x_preferred":[
         "Chapadinha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30d1\u30c7\u30a3\u30fc\u30ca"
     ],
     "name:kat_x_preferred":[
         "\u10e9\u10d0\u10de\u10d0\u10d3\u10d8\u10dc\u10d8\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0428\u0430\u043f\u0430\u0434\u0438\u043d\u044c\u044f"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc28\ud30c\ub514\ub0d0"
     ],
     "name:mlg_x_preferred":[
         "Chapadinha"
@@ -69,6 +96,18 @@
     ],
     "name:spa_x_preferred":[
         "Chapadinha"
+    ],
+    "name:swe_x_preferred":[
+        "Chapadinha"
+    ],
+    "name:tur_x_preferred":[
+        "Chapadinha"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u043f\u0430\u0434\u0438\u043d\u044c\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u067e\u0627\u0688\u06cc\u0646\u0627"
     ],
     "name:vie_x_preferred":[
         "Chapadinha"
@@ -111,7 +150,7 @@
         "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"fcf812fd47cc3b8f03c43cd837f1c334",
+    "wof:geomhash":"5480c9905eadc9fa2d5901965e8056f7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +163,7 @@
         }
     ],
     "wof:id":101982261,
-    "wof:lastmodified":1577836317,
+    "wof:lastmodified":1636496331,
     "wof:name":"Chapadinha",
     "wof:parent_id":404559395,
     "wof:placetype":"locality",
@@ -134,10 +173,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -50.9329985662985,
-    -11.5851176254106,
-    -50.9284571790278,
-    -11.5799588093033
+    -50.932999,
+    -11.585118,
+    -50.928457,
+    -11.579959
 ],
-  "geometry": {"coordinates":[[[-50.9329462803976,-11.5803823259927],[-50.9322354800846,-11.5801813924336],[-50.9317677501958,-11.5799588093033],[-50.9313714994484,-11.5800012215548],[-50.9293562262054,-11.580107316732],[-50.92937967474679,-11.5808576700559],[-50.9284571790278,-11.5809358318605],[-50.9284586180191,-11.5810085244835],[-50.9285297480837,-11.5846017575004],[-50.932846130278,-11.5851176254106],[-50.9328735074112,-11.581201581996],[-50.9329985662985,-11.5811937658156],[-50.9329724233481,-11.5807880459041],[-50.9329462803976,-11.5803823259927]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-50.932946,-11.580382],[-50.932235,-11.580181],[-50.931768,-11.579959],[-50.931371,-11.580001],[-50.929356,-11.580107],[-50.92938,-11.580858],[-50.928457,-11.580936],[-50.928459,-11.581009],[-50.92853,-11.584602],[-50.932846,-11.585118],[-50.932874,-11.581202],[-50.932999,-11.581194],[-50.932972,-11.580788],[-50.932946,-11.580382]]],"type":"Polygon"}
 }

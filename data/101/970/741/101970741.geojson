@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000013,
     "geom:area_square_m":163403.11661,
-    "geom:bbox":"-42.431053873,-10.064815675,-42.426556516,-10.05892394",
+    "geom:bbox":"-42.431054,-10.064816,-42.426557,-10.058924",
     "geom:latitude":-10.061845,
     "geom:longitude":-42.42847,
     "iso:country":"BR",
@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062f\u0631\u0627\u0631\u064a\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c7\u09a6\u09cd\u09b0\u09c7\u0987\u09b0\u09be\u09b8"
+    ],
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a1\u09cd\u09b0\u09c7\u0987\u09b0\u09be\u09b8"
     ],
@@ -28,11 +34,32 @@
     "name:deu_x_preferred":[
         "Pedreiras"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03b4\u03c1\u03ad\u03b9\u03c1\u03b1\u03c2"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u062f\u0631\u06cc\u0631\u0627\u0633"
+    ],
     "name:glg_x_preferred":[
+        "Pedreiras"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d3\u05e8\u05d0\u05d9\u05e8\u05d0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0947\u0921\u094d\u0930\u093f\u0930\u093e\u0938"
+    ],
+    "name:ind_x_preferred":[
         "Pedreiras"
     ],
     "name:ita_x_preferred":[
         "Pedreiras"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30c9\u30ec\u30a4\u30e9\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ub4dc\ub808\uc774\ub77c\uc2a4"
     ],
     "name:nds_x_preferred":[
         "Pedreiras"
@@ -40,11 +67,26 @@
     "name:nld_x_preferred":[
         "Pedreiras"
     ],
+    "name:pol_x_preferred":[
+        "Pedreiras"
+    ],
     "name:por_x_preferred":[
+        "Pedreiras"
+    ],
+    "name:spa_x_preferred":[
         "Pedreiras"
     ],
     "name:swe_x_preferred":[
         "Pedreiras"
+    ],
+    "name:tur_x_preferred":[
+        "Pedreiras"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0434\u0440\u0435\u0439\u0440\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0688\u0631\u06cc\u0631\u0627\u0633"
     ],
     "name:vie_x_preferred":[
         "Pedreiras"
@@ -77,7 +119,7 @@
         "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"d5f2519e7134ebbb505ecd9f6c823768",
+    "wof:geomhash":"fd5a6a37d6ad18dd23e69fd8cc082a78",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -89,7 +131,7 @@
         }
     ],
     "wof:id":101970741,
-    "wof:lastmodified":1566624130,
+    "wof:lastmodified":1636496306,
     "wof:name":"Pedreiras",
     "wof:parent_id":404551711,
     "wof:placetype":"locality",
@@ -99,10 +141,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -42.4310538729999,
-    -10.0648156749999,
-    -42.42655651599989,
-    -10.0589239399999
+    -42.431054,
+    -10.064816,
+    -42.426557,
+    -10.058924
 ],
-  "geometry": {"coordinates":[[[-42.4278134189999,-10.0589239399999],[-42.426625252,-10.0620858379999],[-42.42655651599989,-10.0624295219999],[-42.4278428779999,-10.0648156749999],[-42.4279410729999,-10.0647665769999],[-42.4279410729999,-10.0647567569999],[-42.4310538729999,-10.0615261229999],[-42.4309024751515,-10.0614067969737],[-42.4278134189999,-10.0589239399999]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-42.427813,-10.058924],[-42.426625,-10.062086],[-42.426557,-10.06243],[-42.427843,-10.064816],[-42.427941,-10.064767],[-42.427941,-10.064757],[-42.431054,-10.061526],[-42.430902,-10.061407],[-42.427813,-10.058924]]],"type":"Polygon"}
 }

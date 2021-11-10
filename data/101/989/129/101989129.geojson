@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000092,
     "geom:area_square_m":1118797.151766,
-    "geom:bbox":"-48.7765905921,-10.0390457914,-48.7644237581,-10.0310985546",
+    "geom:bbox":"-48.776591,-10.039046,-48.764424,-10.031099",
     "geom:latitude":-10.035064,
     "geom:longitude":-48.770696,
     "iso:country":"BR",
@@ -44,7 +44,13 @@
         "Santa Rosa"
     ],
     "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4 \u05e8\u05d5\u05d6\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05e1\u05e0\u05d8\u05d4 \u05e8\u05d5\u05e1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0902\u091f\u093e \u0930\u094b\u091c\u093c\u093e"
     ],
     "name:hun_x_preferred":[
         "Santa Rosa"
@@ -106,6 +112,12 @@
     "name:swe_x_preferred":[
         "Santa Rosa"
     ],
+    "name:tur_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679\u0627 \u0631\u0648\u0633\u0627"
+    ],
     "name:vol_x_preferred":[
         "Santa Rosa"
     ],
@@ -141,7 +153,7 @@
         "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"1da5895d1b6bfab77b5846c660d2cd0e",
+    "wof:geomhash":"15cac7a8507f8fd04c4a7b61915f9eed",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +165,7 @@
         }
     ],
     "wof:id":101989129,
-    "wof:lastmodified":1577825809,
+    "wof:lastmodified":1636496373,
     "wof:name":"Santa Rosa",
     "wof:parent_id":102062645,
     "wof:placetype":"locality",
@@ -163,10 +175,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -48.77659059209069,
-    -10.0390457913631,
-    -48.7644237580541,
-    -10.0310985546189
+    -48.776591,
+    -10.039046,
+    -48.764424,
+    -10.031099
 ],
-  "geometry": {"coordinates":[[[-48.7764770601372,-10.0390457913631],[-48.77659059209069,-10.0310985546189],[-48.76518541161579,-10.0311246966837],[-48.7644237580541,-10.0388384201265],[-48.7764770601372,-10.0390457913631]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-48.776477,-10.039046],[-48.776591,-10.031099],[-48.765185,-10.031125],[-48.764424,-10.038838],[-48.776477,-10.039046]]],"type":"Polygon"}
 }

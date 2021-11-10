@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000008,
     "geom:area_square_m":99970.317846,
-    "geom:bbox":"-37.6442532263,-6.32171623446,-37.6380045907,-6.31947435758",
+    "geom:bbox":"-37.644253,-6.321716,-37.638005,-6.319474",
     "geom:latitude":-6.320838,
     "geom:longitude":-37.641408,
     "iso:country":"BR",
@@ -19,8 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0643\u0648\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09bf\u0995\u09cb\u09b8"
+    ],
     "name:ceb_x_preferred":[
         "Picos"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03af\u03ba\u03bf\u03c2"
     ],
     "name:eml_x_preferred":[
         "Picos"
@@ -28,7 +37,19 @@
     "name:eus_x_preferred":[
         "Picos"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u06a9\u0648\u0647\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Picos"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05e7\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093f\u0915\u094b\u0938"
+    ],
+    "name:ind_x_preferred":[
         "Picos"
     ],
     "name:ita_x_preferred":[
@@ -66,6 +87,12 @@
     ],
     "name:swe_x_preferred":[
         "Picos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u043a\u043e\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0626\u06cc\u06a9\u0648\u0633"
     ],
     "name:vie_x_preferred":[
         "Picos"
@@ -106,7 +133,7 @@
         "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"05576166fbd2a5a0f48eee37d02a7362",
+    "wof:geomhash":"30cdea3feaf284c4939de9207f35eac4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +146,7 @@
         }
     ],
     "wof:id":101946127,
-    "wof:lastmodified":1577838528,
+    "wof:lastmodified":1636496314,
     "wof:name":"Picos",
     "wof:parent_id":404559915,
     "wof:placetype":"locality",
@@ -129,10 +156,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -37.6442532263004,
-    -6.32171623445807,
-    -37.6380045907478,
-    -6.31947435758041
+    -37.644253,
+    -6.321716,
+    -37.638005,
+    -6.319474
 ],
-  "geometry": {"coordinates":[[[-37.6441876394768,-6.32140618765584],[-37.6441992215389,-6.32127036165519],[-37.6442532263004,-6.32063703308877],[-37.6440950711862,-6.32056642812708],[-37.6435854331879,-6.32033891116355],[-37.6432634615087,-6.31947435758041],[-37.6380045907478,-6.32101266671455],[-37.6380353433965,-6.32146626828374],[-37.63805229025579,-6.32171623445807],[-37.6441876394768,-6.32140618765584]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-37.644188,-6.321406],[-37.644199,-6.32127],[-37.644253,-6.320637],[-37.644095,-6.320566],[-37.643585,-6.320339],[-37.643263,-6.319474],[-37.638005,-6.321013],[-37.638035,-6.321466],[-37.638052,-6.321716],[-37.644188,-6.321406]]],"type":"Polygon"}
 }

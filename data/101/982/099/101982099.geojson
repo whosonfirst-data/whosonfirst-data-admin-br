@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
     "geom:area_square_m":809806.752077,
-    "geom:bbox":"-53.4022321372,-14.3886534052,-53.3929301003,-14.3813111965",
+    "geom:bbox":"-53.402232,-14.388653,-53.39293,-14.381311",
     "geom:latitude":-14.384974,
     "geom:longitude":-53.397558,
     "iso:country":"BR",
@@ -125,6 +125,9 @@
         "Santa Cruz"
     ],
     "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0437"
+    ],
+    "name:rus_x_variant":[
         "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441"
     ],
     "name:sco_x_preferred":[
@@ -148,7 +151,13 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0631\u0648\u0632"
+    ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Santa Cruz"
+    ],
+    "name:vie_x_variant":[
         "Santa Cruz"
     ],
     "name:vol_x_preferred":[
@@ -156,6 +165,12 @@
     ],
     "name:war_x_preferred":[
         "Santa Cruz"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u514b\u9c81\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u514b\u9b6f\u65af"
     ],
     "name:zho_x_preferred":[
         "\u8056\u514b\u9b6f\u65af"
@@ -189,7 +204,7 @@
         "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"d0d3253f5c92192b1240dc23b9f08f32",
+    "wof:geomhash":"702b721e6444750a46ab03ea186c8989",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -202,7 +217,7 @@
         }
     ],
     "wof:id":101982099,
-    "wof:lastmodified":1577836265,
+    "wof:lastmodified":1636496331,
     "wof:name":"Santa Cruz",
     "wof:parent_id":404559141,
     "wof:placetype":"locality",
@@ -212,10 +227,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -53.4022321372009,
-    -14.3886534051754,
-    -53.3929301002675,
-    -14.3813111964999
+    -53.402232,
+    -14.388653,
+    -53.39293,
+    -14.381311
 ],
-  "geometry": {"coordinates":[[[-53.4021541255254,-14.3813111964999],[-53.39294062567379,-14.3813220861278],[-53.3929301002675,-14.3886534051754],[-53.4022321372009,-14.3885858133502],[-53.4021541255254,-14.3813111964999]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-53.402154,-14.381311],[-53.392941,-14.381322],[-53.39293,-14.388653],[-53.402232,-14.388586],[-53.402154,-14.381311]]],"type":"Polygon"}
 }

@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
     "geom:area_square_m":976122.596335,
-    "geom:bbox":"-43.021500017,-13.4471999921,-43.0112000242,-13.4335922988",
-    "geom:latitude":-13.441012,
+    "geom:bbox":"-43.0215,-13.4472,-43.0112,-13.433592",
+    "geom:latitude":-13.441011,
     "geom:longitude":-43.016652,
     "iso:country":"BR",
     "lbl:latitude":-13.441331,
@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0631\u064a\u062a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u09b0\u09bf\u09a4\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u0420\u0438\u0442\u0430"
     ],
@@ -28,17 +34,41 @@
     "name:deu_x_preferred":[
         "Santa Rita"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u03a1\u03af\u03c4\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0631\u06cc\u062a\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Santa Rita"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4 \u05e8\u05d9\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0902\u091f\u093e \u0930\u0940\u0924\u093e"
+    ],
+    "name:hun_x_preferred":[
         "Santa Rita"
     ],
     "name:ilo_x_preferred":[
         "Santa Rita"
     ],
+    "name:ind_x_preferred":[
+        "Santa Rita"
+    ],
     "name:ita_x_preferred":[
         "Santa Rita"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30ea\u30bf"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10e0\u10d8\u10e2\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0 \ub9ac\ud0c0"
     ],
     "name:lit_x_preferred":[
         "Santa Rita"
@@ -79,6 +109,18 @@
     "name:swe_x_preferred":[
         "Santa Rita"
     ],
+    "name:tur_x_preferred":[
+        "Santa Rita"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0420\u0456\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679\u0627 \u0631\u06cc\u0679\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Santa Rita"
+    ],
     "name:vol_x_preferred":[
         "Santa Rita"
     ],
@@ -115,7 +157,7 @@
         "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"19f18d85bcb202aab2bf473883ee5f5f",
+    "wof:geomhash":"5a1e6bf48242d6850165786c711e685a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -128,7 +170,7 @@
         }
     ],
     "wof:id":101975789,
-    "wof:lastmodified":1577839921,
+    "wof:lastmodified":1636496392,
     "wof:name":"Santa Rita",
     "wof:parent_id":404551835,
     "wof:placetype":"locality",
@@ -138,10 +180,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -43.0215000169507,
-    -13.4471999920664,
-    -43.01120002424879,
-    -13.433592298797
+    -43.0215,
+    -13.4472,
+    -43.0112,
+    -13.433592
 ],
-  "geometry": {"coordinates":[[[-43.0215000169507,-13.4339000033685],[-43.0213016743527,-13.433592298797],[-43.0158954787104,-13.437061191547],[-43.0129987391616,-13.4390233497923],[-43.01120002424879,-13.4401998892336],[-43.0129999895303,-13.4471999920664],[-43.0138193245043,-13.4469328653857],[-43.0190421293376,-13.4452300796716],[-43.02000963082409,-13.4449146765456],[-43.020019819208,-13.4449113547977],[-43.0215000169507,-13.4339000033685]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-43.0215,-13.4339],[-43.021302,-13.433592],[-43.015895,-13.437061],[-43.012999,-13.439023],[-43.0112,-13.4402],[-43.013,-13.4472],[-43.013819,-13.446933],[-43.019042,-13.44523],[-43.02001,-13.444915],[-43.02002,-13.444911],[-43.0215,-13.4339]]],"type":"Polygon"}
 }

@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000044,
     "geom:area_square_m":524316.440735,
-    "geom:bbox":"-48.6011869842,-16.1358791526,-48.5905858187,-16.1193003671",
-    "geom:latitude":-16.127495,
+    "geom:bbox":"-48.601187,-16.135879,-48.590586,-16.1193",
+    "geom:latitude":-16.127496,
     "geom:longitude":-48.596299,
     "iso:country":"BR",
     "lbl:latitude":-16.127129,
@@ -20,13 +20,22 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0623\u0644\u0627\u0641\u0648\u0631\u0627\u062f\u0627"
+    ],
+    "name:ara_x_variant":[
         "\u0623\u0644\u0641\u0648\u0631\u0627\u062f\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2\u09ad\u09cb\u09b0\u09be\u09a6\u09be"
     ],
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09ad\u09cb\u09b0\u09be\u09a1\u09be"
     ],
     "name:cat_x_preferred":[
         "Alvorada"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03b2\u03bf\u03c1\u03ac\u03bd\u03c4\u03b1"
     ],
     "name:epo_x_preferred":[
         "Alvorada"
@@ -37,11 +46,26 @@
     "name:fra_x_preferred":[
         "Alvorada"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d1\u05d5\u05e8\u05d0\u05d3\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0932\u094d\u0935\u094b\u0930\u093e\u0921\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Alvorada"
     ],
+    "name:ind_x_preferred":[
+        "Alvorada"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a6\u30f4\u30a9\u30e9\u30fc\u30c0"
+    ],
     "name:kaz_x_preferred":[
         "\u0410\u043b\u0432\u043e\u0440\u0430\u0434\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\uc54c\ubcf4\ub77c\ub2e4"
     ],
     "name:lit_x_preferred":[
         "Alvorada"
@@ -67,11 +91,26 @@
     "name:tat_x_preferred":[
         "\u0410\u043b\u0432\u043e\u0440\u0430\u0434\u0430"
     ],
+    "name:tur_x_preferred":[
+        "Alvorada"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0432\u043e\u0440\u0430\u0434\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644\u0648\u0631\u0627\u062f\u0627"
+    ],
     "name:vie_x_preferred":[
         "Alvorada"
     ],
     "name:war_x_preferred":[
         "Alvorada"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u963f\u5c14\u6c83\u62c9\u8fbe"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u963f\u723e\u6c83\u62c9\u9054"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5c14\u6c83\u62c9\u8fbe"
@@ -105,7 +144,7 @@
         "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"5147e9e3c2591018f15f862c78816c7a",
+    "wof:geomhash":"00582bf1f03a1762a873d79f1e712a3e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -118,7 +157,7 @@
         }
     ],
     "wof:id":101974573,
-    "wof:lastmodified":1577836630,
+    "wof:lastmodified":1636496368,
     "wof:name":"Alvorada",
     "wof:parent_id":404554697,
     "wof:placetype":"locality",
@@ -128,10 +167,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -48.60118698416,
-    -16.1358791526419,
-    -48.59058581871249,
-    -16.1193003671339
+    -48.601187,
+    -16.135879,
+    -48.590586,
+    -16.1193
 ],
-  "geometry": {"coordinates":[[[-48.59071805659279,-16.1209416222915],[-48.59058581871249,-16.1210660528173],[-48.59646839569329,-16.1294308690735],[-48.59749746783829,-16.1312317453274],[-48.5987971092988,-16.1358791526419],[-48.60118698416,-16.1348211351253],[-48.5994817088684,-16.1294314694225],[-48.59311806503489,-16.1202468425629],[-48.59246229179359,-16.1193003671339],[-48.59071805659279,-16.1209416222915]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-48.590718,-16.120942],[-48.590586,-16.121066],[-48.596468,-16.129431],[-48.597497,-16.131232],[-48.598797,-16.135879],[-48.601187,-16.134821],[-48.599482,-16.129431],[-48.593118,-16.120247],[-48.592462,-16.1193],[-48.590718,-16.120942]]],"type":"Polygon"}
 }

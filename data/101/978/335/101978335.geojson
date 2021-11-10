@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000088,
     "geom:area_square_m":1076785.246567,
-    "geom:bbox":"-45.9960653125,-5.75359061798,-45.9819045082,-5.73507545115",
+    "geom:bbox":"-45.996065,-5.753591,-45.981905,-5.735075",
     "geom:latitude":-5.744099,
     "geom:longitude":-45.988802,
     "iso:country":"BR",
@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0645\u0627\u0646\u0633\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09c7\u09ae\u09be\u09a8\u09cd\u09b8\u09cb"
+    ],
     "name:bpy_x_preferred":[
         "\u09b0\u09c7\u09ae\u09be\u09a8\u09cd\u09b8\u09cb"
     ],
@@ -28,26 +34,47 @@
     "name:ceb_x_preferred":[
         "Remanso"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b5\u03bc\u03ac\u03bd\u03c3\u03bf"
+    ],
     "name:epo_x_preferred":[
         "Remanso"
     ],
     "name:eus_x_preferred":[
         "Remanso"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0645\u0627\u0646\u0633\u0648"
+    ],
     "name:fra_x_preferred":[
         "Remanso"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05de\u05e0\u05e1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0947\u092e\u093e\u0902\u0938\u094b"
     ],
     "name:hye_x_preferred":[
         "\u054c\u0565\u0574\u0561\u0576\u057d\u0578\u0582"
     ],
+    "name:ind_x_preferred":[
+        "Remanso"
+    ],
     "name:ita_x_preferred":[
         "Remanso"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30de\u30f3\u30bd"
     ],
     "name:kat_x_preferred":[
         "\u10e0\u10d4\u10db\u10d0\u10dc\u10e1\u10e3"
     ],
     "name:kaz_x_preferred":[
         "\u0420\u0435\u043c\u0430\u043d\u0441\u0443"
+    ],
+    "name:kor_x_preferred":[
+        "\ub808\ub9cc\uc18c"
     ],
     "name:mlg_x_preferred":[
         "Remanso"
@@ -75,6 +102,15 @@
     ],
     "name:swe_x_preferred":[
         "Remanso"
+    ],
+    "name:tur_x_preferred":[
+        "Remanso"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u043c\u0430\u043d\u0441\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0645\u0627\u0646\u0633\u0648"
     ],
     "name:vie_x_preferred":[
         "Remanso"
@@ -117,7 +153,7 @@
         "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"fb105d734e58aaf905107bc7ff2fb5fd",
+    "wof:geomhash":"8bee1337ca9c7750d11b547218495348",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +165,7 @@
         }
     ],
     "wof:id":101978335,
-    "wof:lastmodified":1577838140,
+    "wof:lastmodified":1636496319,
     "wof:name":"Remanso",
     "wof:parent_id":102052949,
     "wof:placetype":"locality",
@@ -139,10 +175,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -45.996065312542,
-    -5.75359061798303,
-    -45.981904508209,
-    -5.7350754511499
+    -45.996065,
+    -5.753591,
+    -45.981905,
+    -5.735075
 ],
-  "geometry": {"coordinates":[[[-45.996065312542,-5.73795665398671],[-45.99278969394609,-5.7350754511499],[-45.989373015928,-5.73921488797951],[-45.981904508209,-5.74944302025162],[-45.9848518298742,-5.75359061798303],[-45.9956168214767,-5.73858194530349],[-45.996065312542,-5.73795665398671]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-45.996065,-5.737957],[-45.99279,-5.735075],[-45.989373,-5.739215],[-45.981905,-5.749443],[-45.984852,-5.753591],[-45.995617,-5.738582],[-45.996065,-5.737957]]],"type":"Polygon"}
 }

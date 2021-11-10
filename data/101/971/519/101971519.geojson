@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000013,
     "geom:area_square_m":162178.511529,
-    "geom:bbox":"-40.906171191,-12.8385422143,-40.9011797995,-12.8338129239",
+    "geom:bbox":"-40.906171,-12.838542,-40.90118,-12.833813",
     "geom:latitude":-12.836403,
     "geom:longitude":-40.903871,
     "iso:country":"BR",
@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0625\u064a\u063a\u0648\u0627\u0628\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u0987\u0997\u09c1\u09df\u09be\u09aa\u09c7"
+    ],
     "name:bpy_x_preferred":[
         "\u0987\u0997\u09c1\u09f1\u09be\u09aa\u09c7"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:ceb_x_preferred":[
         "Iguape"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03b3\u03ba\u03bf\u03c5\u03ac\u03c0\u03b5"
     ],
     "name:epo_x_preferred":[
         "Iguape"
@@ -43,11 +49,23 @@
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05d2\u05d5\u05d0\u05e4\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u0907\u0917\u0941\u0906\u092a\u0947"
+    ],
+    "name:ind_x_preferred":[
+        "Iguape"
+    ],
     "name:ita_x_preferred":[
         "Iguape"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30b0\u30a2\u30da"
+    ],
     "name:kaz_x_preferred":[
         "\u0418\u0433\u0443\u0430\u043f\u0438"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uad6c\uc544\ud398"
     ],
     "name:mlg_x_preferred":[
         "Iguape"
@@ -74,6 +92,18 @@
         "Iguape"
     ],
     "name:swe_x_preferred":[
+        "Iguape"
+    ],
+    "name:tur_x_preferred":[
+        "Iguape"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0433\u0443\u0430\u043f\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0626\u06cc\u06af\u0648\u0626\u06cc\u067e"
+    ],
+    "name:vie_x_preferred":[
         "Iguape"
     ],
     "name:vol_x_preferred":[
@@ -121,7 +151,7 @@
         "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"673de7170d07e00bfb4ec2698ecdc979",
+    "wof:geomhash":"b68c72bfceb5b1238c9841a5879b666e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -134,7 +164,7 @@
         }
     ],
     "wof:id":101971519,
-    "wof:lastmodified":1577839533,
+    "wof:lastmodified":1636496324,
     "wof:name":"Iguape",
     "wof:parent_id":404550555,
     "wof:placetype":"locality",
@@ -146,10 +176,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -40.906171190956,
-    -12.8385422142758,
-    -40.9011797994738,
-    -12.8338129239485
+    -40.906171,
+    -12.838542,
+    -40.90118,
+    -12.833813
 ],
-  "geometry": {"coordinates":[[[-40.9058575844547,-12.8355207555365],[-40.9055439779535,-12.8338129239485],[-40.90249503134439,-12.8354337147385],[-40.9011797994738,-12.8373401366924],[-40.9013856977644,-12.8376055241066],[-40.902112419886,-12.8385422142758],[-40.906171190956,-12.8372285871245],[-40.9058575844547,-12.8355207555365]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-40.905858,-12.835521],[-40.905544,-12.833813],[-40.902495,-12.835434],[-40.90118,-12.83734],[-40.901386,-12.837606],[-40.902112,-12.838542],[-40.906171,-12.837229],[-40.905858,-12.835521]]],"type":"Polygon"}
 }

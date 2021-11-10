@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000014,
     "geom:area_square_m":163599.889867,
-    "geom:bbox":"-39.395465241,-14.079284231,-39.390898638,-14.073738161",
+    "geom:bbox":"-39.395465,-14.079284,-39.390899,-14.073738",
     "geom:latitude":-14.076253,
     "geom:longitude":-39.392945,
     "iso:country":"BR",
@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0641\u0648 \u0647\u0648\u0631\u064a\u0632\u0648\u0646\u062a\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09cb\u09ad\u09cb \u09b9\u09b0\u09be\u0987\u099c\u09cb\u09a8\u09cd\u09a4\u09c7"
+    ],
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09cb \u09b9\u09cb\u09b0\u09bf\u099c\u09cb\u09a8\u09cd\u099f\u09c7"
     ],
@@ -28,11 +34,29 @@
     "name:deu_x_preferred":[
         "Novo Horizonte"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03cc\u03b2\u03bf \u039f\u03c1\u03b9\u03b6\u03cc\u03bd\u03c4\u03b5"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0648 \u0647\u0648\u0631\u06cc\u0632\u0646\u062a\u0647"
+    ],
     "name:fra_x_preferred":[
+        "Novo Horizonte"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d1\u05d5 \u05d4\u05d5\u05e8\u05d9\u05d6\u05d5\u05e0\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u094b\u0935\u094b \u0911\u0930\u0949\u091c\u093c\u093e\u0902\u091f\u0947"
+    ],
+    "name:ind_x_preferred":[
         "Novo Horizonte"
     ],
     "name:ita_x_preferred":[
         "Novo Horizonte"
+    ],
+    "name:kor_x_preferred":[
+        "\ub178\ubcf4 \uc624\ub9ac\ud3f0\ud14c"
     ],
     "name:mlg_x_preferred":[
         "Novo Horizonte"
@@ -52,11 +76,21 @@
     "name:spa_x_preferred":[
         "Novo Horizonte"
     ],
+    "name:spa_x_variant":[],
     "name:swe_x_preferred":[
         "Novo Horizonte"
     ],
+    "name:tur_x_preferred":[
+        "Novo Horizonte"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u0413\u043e\u0440\u0456\u0437\u043e\u043d\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Tanque"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0648 \u06c1\u0648\u0631\u06cc\u0632\u0648\u0646\u0679\u06d2"
     ],
     "name:vie_x_preferred":[
         "Novo Horizonte"
@@ -96,7 +130,7 @@
         "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"7ba58d1f7abfcccc82b05abe30a7f279",
+    "wof:geomhash":"9dd03d0b600c6ac36cf4488b9efdeba6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1577839638,
+    "wof:lastmodified":1636496393,
     "wof:name":"Novo Horizonte",
     "wof:parent_id":404551051,
     "wof:placetype":"locality",
@@ -122,10 +156,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -39.395465241,
-    -14.0792842309999,
-    -39.390898638,
-    -14.0737381609999
+    -39.395465,
+    -14.079284,
+    -39.390899,
+    -14.073738
 ],
-  "geometry": {"coordinates":[[[-39.392166287,-14.0790580749999],[-39.3938624779999,-14.077783231],[-39.395465241,-14.0737381609999],[-39.391827223,-14.0745777039999],[-39.390898638,-14.0767528829999],[-39.39186538399989,-14.0792842309999],[-39.392166287,-14.0790580749999]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-39.392166,-14.079058],[-39.393862,-14.077783],[-39.395465,-14.073738],[-39.391827,-14.074578],[-39.390899,-14.076753],[-39.391865,-14.079284],[-39.392166,-14.079058]]],"type":"Polygon"}
 }
