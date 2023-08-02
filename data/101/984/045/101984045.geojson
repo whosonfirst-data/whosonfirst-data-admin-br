@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
     "geom:area_square_m":86281.767713,
-    "geom:bbox":"-37.4020894524,-7.21885486003,-37.3979856652,-7.21495690541",
+    "geom:bbox":"-37.402089,-7.218855,-37.397986,-7.214957",
     "geom:latitude":-7.216901,
     "geom:longitude":-37.400012,
     "iso:country":"BR",
@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u064a\u0627 \u063a\u0648\u0631\u064a\u062a\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be \u0997\u09cb\u09b0\u09c7\u09a4\u09cd\u09a4\u09bf"
+    ],
     "name:cat_x_preferred":[
         "Maria Goretti"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:eng_x_preferred":[
         "Maria Goretti La Mosca"
+    ],
+    "name:eng_x_variant":[
+        "Maria Goretti"
     ],
     "name:epo_x_preferred":[
         "Maria Goretti"
@@ -60,6 +66,9 @@
     ],
     "name:hun_x_preferred":[
         "Goretti Szent M\u00e1ria"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0580\u056b\u0561 \u0533\u0578\u0580\u0565\u057f\u056b"
     ],
     "name:ind_x_preferred":[
         "Maria Goretti"
@@ -121,6 +130,12 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bb0\u0bbf\u0baf\u0bbe \u0b95\u0bca\u0bb0\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0456\u044f \u0413\u043e\u0440\u0435\u0442\u0442\u0456"
+    ],
+    "name:vec_x_preferred":[
+        "Maria Goretti"
+    ],
     "name:vie_x_preferred":[
         "Maria Goretti"
     ],
@@ -158,7 +173,7 @@
         "wd:id":"Q234697"
     },
     "wof:country":"BR",
-    "wof:geomhash":"05f6873296067b599cb4b33bcf2fcb6f",
+    "wof:geomhash":"ecd7bd94c08f719c9e5fc4b53b49014e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -170,7 +185,7 @@
         }
     ],
     "wof:id":101984045,
-    "wof:lastmodified":1577838143,
+    "wof:lastmodified":1690861651,
     "wof:name":"Santa Maria Goretti",
     "wof:parent_id":102056227,
     "wof:placetype":"locality",
@@ -180,10 +195,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -37.4020894523828,
-    -7.21885486003319,
-    -37.3979856651722,
-    -7.21495690541001
+    -37.402089,
+    -7.218855,
+    -37.397986,
+    -7.214957
 ],
-  "geometry": {"coordinates":[[[-37.4020894523828,-7.21637200444813],[-37.40169422533,-7.21608313417699],[-37.4001533396079,-7.21495690541001],[-37.399967544038,-7.21523256649289],[-37.3979856651722,-7.21817303958755],[-37.3989505054255,-7.21885486003319],[-37.3995487063825,-7.21801223287867],[-37.3998059971167,-7.21814087824577],[-37.400191933218,-7.21776137441282],[-37.40051997890409,-7.2178642907065],[-37.4008158632485,-7.21745905780014],[-37.4014397932789,-7.217221063871],[-37.4020894523828,-7.21637200444813]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-37.402089,-7.216372],[-37.401694,-7.216083],[-37.400153,-7.214957],[-37.399968,-7.215233],[-37.397986,-7.218173],[-37.398951,-7.218855],[-37.399549,-7.218012],[-37.399806,-7.218141],[-37.400192,-7.217761],[-37.40052,-7.217864],[-37.400816,-7.217459],[-37.40144,-7.217221],[-37.402089,-7.216372]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000368,
     "geom:area_square_m":4536329.739051,
-    "geom:bbox":"-57.5383993777,-3.69986566043,-57.5130490837,-3.67904415846",
+    "geom:bbox":"-57.538399,-3.699866,-57.513049,-3.679044",
     "geom:latitude":-3.689744,
     "geom:longitude":-57.526681,
     "iso:country":"BR",
@@ -22,14 +22,26 @@
     "name:cat_x_preferred":[
         "repartiment d'indis"
     ],
+    "name:cat_x_variant":[
+        "Repartimiento"
+    ],
     "name:eng_x_preferred":[
         "repartimiento"
     ],
     "name:fra_x_preferred":[
         "repartimento"
     ],
+    "name:hil_x_preferred":[
+        "Repartimyento"
+    ],
+    "name:ilo_x_preferred":[
+        "Repartimiento"
+    ],
     "name:jpn_x_preferred":[
         "\u30ec\u30d1\u30eb\u30c6\u30a3\u30df\u30a8\u30f3\u30c8"
+    ],
+    "name:pam_x_preferred":[
+        "Repartimientu"
     ],
     "name:pol_x_preferred":[
         "Repartimiento"
@@ -42,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "Repartimiento"
+    ],
+    "name:zho_x_preferred":[
+        "\u5206\u6d3e\u52de\u5f79\u5236"
     ],
     "qs:a0":"Brasil",
     "qs:a1":"*AM",
@@ -77,7 +92,7 @@
         "wd:id":"Q2993888"
     },
     "wof:country":"BR",
-    "wof:geomhash":"d6402b3e94660596aea2f15c6fe99607",
+    "wof:geomhash":"6e108e5b81efed6ee3096c2a30ee763f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +108,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1577826366,
+    "wof:lastmodified":1690861653,
     "wof:name":"Repartimento",
     "wof:parent_id":404550277,
     "wof:placetype":"locality",
@@ -103,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -57.53839937774719,
-    -3.69986566042789,
-    -57.51304908369601,
-    -3.67904415845906
+    -57.538399,
+    -3.699866,
+    -57.513049,
+    -3.679044
 ],
-  "geometry": {"coordinates":[[[-57.53039069458811,-3.67904415845906],[-57.529071913415,-3.6794720917573],[-57.52200733456189,-3.68176448763834],[-57.51304908369601,-3.68915912443203],[-57.51337462764789,-3.69079387104087],[-57.5137001715998,-3.69242861764971],[-57.51795133791209,-3.69666860297306],[-57.5213774689493,-3.69986566042789],[-57.5328245447382,-3.69789387553717],[-57.53725813103419,-3.69475945111757],[-57.53839937774719,-3.68357419563908],[-57.53039069458811,-3.67904415845906]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-57.530391,-3.679044],[-57.529072,-3.679472],[-57.522007,-3.681764],[-57.513049,-3.689159],[-57.513375,-3.690794],[-57.5137,-3.692429],[-57.517951,-3.696669],[-57.521377,-3.699866],[-57.532825,-3.697894],[-57.537258,-3.694759],[-57.538399,-3.683574],[-57.530391,-3.679044]]],"type":"Polygon"}
 }

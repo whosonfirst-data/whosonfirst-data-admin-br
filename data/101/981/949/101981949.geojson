@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000014,
     "geom:area_square_m":176765.147451,
-    "geom:bbox":"-54.0067171662,-1.73408141804,-54.0022053326,-1.7277240344",
+    "geom:bbox":"-54.006717,-1.734081,-54.002205,-1.727724",
     "geom:latitude":-1.731029,
     "geom:longitude":-54.004307,
     "iso:country":"BR",
@@ -43,6 +43,12 @@
     "name:ces_x_preferred":[
         "Mulat"
     ],
+    "name:ces_x_variant":[
+        "mulat"
+    ],
+    "name:cos_x_preferred":[
+        "Mulattu"
+    ],
     "name:dan_x_preferred":[
         "Mulat"
     ],
@@ -52,8 +58,14 @@
     "name:eng_x_preferred":[
         "Mulatto"
     ],
+    "name:eng_x_variant":[
+        "mulatto"
+    ],
     "name:epo_x_preferred":[
         "Mulato"
+    ],
+    "name:est_x_preferred":[
+        "Mulatt"
     ],
     "name:eus_x_preferred":[
         "mulato"
@@ -70,6 +82,9 @@
     "name:grn_x_preferred":[
         "Kamba"
     ],
+    "name:hat_x_preferred":[
+        "Milat"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05dc\u05d0\u05d8\u05d9\u05dd"
     ],
@@ -81,6 +96,9 @@
     ],
     "name:hun_x_preferred":[
         "Mulatt"
+    ],
+    "name:hun_x_variant":[
+        "mulatt"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0578\u0582\u056c\u0561\u057f\u0576\u0565\u0580"
@@ -143,6 +161,9 @@
     "name:slk_x_preferred":[
         "Mulat"
     ],
+    "name:slv_x_preferred":[
+        "Mulat"
+    ],
     "name:spa_x_preferred":[
         "Mulato"
     ],
@@ -152,11 +173,17 @@
     "name:swe_x_preferred":[
         "Mulatt"
     ],
+    "name:swe_x_variant":[
+        "mulatt"
+    ],
     "name:tur_x_preferred":[
         "Mulatto"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0443\u043b\u0430\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Mulatlar"
     ],
     "name:vie_x_preferred":[
         "Mulatto"
@@ -201,7 +228,7 @@
         "wd:id":"Q191923"
     },
     "wof:country":"BR",
-    "wof:geomhash":"9192c64cbe878b703d221e62ff3d54fc",
+    "wof:geomhash":"94ebad22ac7089ea3af36e93f446ee1c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -217,7 +244,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1577826181,
+    "wof:lastmodified":1690862813,
     "wof:name":"Mulata",
     "wof:parent_id":404559685,
     "wof:placetype":"locality",
@@ -227,10 +254,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -54.0067171662366,
-    -1.73408141803708,
-    -54.00220533262859,
-    -1.72772403440051
+    -54.006717,
+    -1.734081,
+    -54.002205,
+    -1.727724
 ],
-  "geometry": {"coordinates":[[[-54.00646441708489,-1.73219735645226],[-54.0067171662366,-1.73128983900499],[-54.0028697773645,-1.72772403440051],[-54.00284415166729,-1.7280596694663],[-54.0028347181727,-1.72824349550164],[-54.002872451293,-1.72842416078742],[-54.00292354709109,-1.72859947631428],[-54.00279186090339,-1.72883115344461],[-54.0026746546007,-1.72897940288697],[-54.00222260155149,-1.7295511862375],[-54.00220533262859,-1.72982319560587],[-54.0022242978834,-1.73001289191829],[-54.0022495153814,-1.73020148133824],[-54.002261546729,-1.73075775438103],[-54.0047687871882,-1.73408141803708],[-54.00634008286,-1.73233550767098],[-54.00646441708489,-1.73219735645226]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-54.006464,-1.732197],[-54.006717,-1.73129],[-54.00287,-1.727724],[-54.002844,-1.72806],[-54.002835,-1.728243],[-54.002872,-1.728424],[-54.002924,-1.728599],[-54.002792,-1.728831],[-54.002675,-1.728979],[-54.002223,-1.729551],[-54.002205,-1.729823],[-54.002224,-1.730013],[-54.00225,-1.730201],[-54.002262,-1.730758],[-54.004769,-1.734081],[-54.00634,-1.732336],[-54.006464,-1.732197]]],"type":"Polygon"}
 }

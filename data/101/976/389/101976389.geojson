@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000016,
     "geom:area_square_m":197751.444949,
-    "geom:bbox":"-40.7887139181,-4.2134836575,-40.7834498844,-4.20705193077",
+    "geom:bbox":"-40.788714,-4.213484,-40.78345,-4.207052",
     "geom:latitude":-4.209873,
     "geom:longitude":-40.786238,
     "iso:country":"BR",
@@ -34,6 +34,9 @@
     "name:deu_x_preferred":[
         "Favela"
     ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03b2\u03ad\u03bb\u03b1"
+    ],
     "name:eng_x_preferred":[
         "favela"
     ],
@@ -49,8 +52,14 @@
     "name:fao_x_preferred":[
         "Favela"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u0648\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Favela"
+    ],
+    "name:fin_x_variant":[
+        "favela"
     ],
     "name:fra_x_preferred":[
         "Favela"
@@ -66,6 +75,9 @@
     ],
     "name:hrv_x_preferred":[
         "Favela"
+    ],
+    "name:hye_x_preferred":[
+        "\u0586\u0561\u057e\u0565\u056c\u0561"
     ],
     "name:ita_x_preferred":[
         "Favela"
@@ -112,10 +124,16 @@
     "name:rus_x_preferred":[
         "\u0424\u0430\u0432\u0435\u043b\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0444\u0430\u0432\u0435\u043b\u0430"
+    ],
     "name:spa_x_preferred":[
         "Favela"
     ],
     "name:spa_x_variant":[
+        "favela"
+    ],
+    "name:sqi_x_preferred":[
         "favela"
     ],
     "name:srp_x_preferred":[
@@ -127,14 +145,29 @@
     "name:swe_x_preferred":[
         "Favela"
     ],
+    "name:swe_x_variant":[
+        "favela"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bb5\u0bc7\u0bb2\u0bbe"
+    ],
+    "name:tgl_x_preferred":[
+        "Favela"
     ],
     "name:tur_x_preferred":[
         "Favela"
     ],
     "name:ukr_x_preferred":[
         "\u0424\u0430\u0432\u0435\u043b\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0444\u0430\u0432\u0435\u043b\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Favela"
+    ],
+    "name:zho_x_preferred":[
+        "\u8ca7\u6c11\u7a9f"
     ],
     "qs:a0":"Brasil",
     "qs:a1":"*CE",
@@ -167,7 +200,7 @@
         "wd:id":"Q693827"
     },
     "wof:country":"BR",
-    "wof:geomhash":"a25312f408834c7a0c0b4a47f7ff2378",
+    "wof:geomhash":"bb174ed43eb9931628e90c4c2cba9821",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -180,7 +213,7 @@
         }
     ],
     "wof:id":101976389,
-    "wof:lastmodified":1577840378,
+    "wof:lastmodified":1690861926,
     "wof:name":"Favela",
     "wof:parent_id":404552917,
     "wof:placetype":"locality",
@@ -190,10 +223,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -40.788713918083,
-    -4.213483657499,
-    -40.78344988437529,
-    -4.20705193077099
+    -40.788714,
+    -4.213484,
+    -40.78345,
+    -4.207052
 ],
-  "geometry": {"coordinates":[[[-40.7861629585694,-4.213483657499],[-40.7872970607233,-4.21133784224609],[-40.78800396013919,-4.20962191111566],[-40.788713918083,-4.20861963136523],[-40.7880004474819,-4.20762110591714],[-40.78714538402969,-4.20705193077099],[-40.78344988437529,-4.20963461105657],[-40.7848054563757,-4.21127455007398],[-40.7861629585694,-4.213483657499]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-40.786163,-4.213484],[-40.787297,-4.211338],[-40.788004,-4.209622],[-40.788714,-4.20862],[-40.788,-4.207621],[-40.787145,-4.207052],[-40.78345,-4.209635],[-40.784805,-4.211275],[-40.786163,-4.213484]]],"type":"Polygon"}
 }

@@ -52,6 +52,9 @@
     "name:bak_x_preferred":[
         "\u04ba\u0430\u0499\u0430\u0493\u0430\u0439"
     ],
+    "name:bcl_x_preferred":[
+        "Aurora"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u043b\u044f\u0440\u043d\u0430\u0435 \u0437\u0437\u044f\u043d\u043d\u0435"
     ],
@@ -85,6 +88,9 @@
     "name:dan_x_preferred":[
         "Polarlys"
     ],
+    "name:dan_x_variant":[
+        "polarlys"
+    ],
     "name:deu_x_preferred":[
         "Polarlicht"
     ],
@@ -95,10 +101,14 @@
         "Aurora"
     ],
     "name:eng_x_variant":[
-        "aurora"
+        "aurora",
+        "aurora polaris"
     ],
     "name:epo_x_preferred":[
         "Norda brilo"
+    ],
+    "name:epo_x_variant":[
+        "polusa lumo"
     ],
     "name:est_x_preferred":[
         "virmalised"
@@ -140,7 +150,8 @@
         "Aurora"
     ],
     "name:hun_x_variant":[
-        "Sarki f\u00e9ny"
+        "Sarki f\u00e9ny",
+        "sarki f\u00e9ny"
     ],
     "name:hye_x_preferred":[
         "\u0562\u0587\u0565\u057c\u0561\u0583\u0561\u0575\u056c"
@@ -157,8 +168,14 @@
     "name:ind_x_preferred":[
         "Aurora"
     ],
+    "name:ind_x_variant":[
+        "aurora"
+    ],
     "name:isl_x_preferred":[
         "Segullj\u00f3s"
+    ],
+    "name:isl_x_variant":[
+        "segullj\u00f3s"
     ],
     "name:ita_x_preferred":[
         "aurora polare"
@@ -201,6 +218,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0422\u0443\u0439\u043b\u044b\u043d \u0442\u0443\u044f\u0430"
+    ],
+    "name:mri_x_preferred":[
+        "Tahu-nui-a-rangi"
     ],
     "name:msa_x_preferred":[
         "Aurora"
@@ -256,8 +276,26 @@
     "name:slv_x_preferred":[
         "Polarni sij"
     ],
+    "name:sma_x_preferred":[
+        "goeksegh"
+    ],
+    "name:sme_x_preferred":[
+        "guovssahasat"
+    ],
+    "name:smj_x_preferred":[
+        "guovsagis"
+    ],
+    "name:smn_x_preferred":[
+        "kuovsk\u00e2seh"
+    ],
+    "name:sms_x_preferred":[
+        "kuusk\u00f5\u00f5zz"
+    ],
     "name:spa_x_preferred":[
         "Aurora polar"
+    ],
+    "name:spa_x_variant":[
+        "aurora polar"
     ],
     "name:sqi_x_preferred":[
         "Aurora polare"
@@ -341,7 +379,7 @@
         }
     ],
     "wof:id":102051445,
-    "wof:lastmodified":1642551771,
+    "wof:lastmodified":1690860960,
     "wof:name":"Aurora",
     "wof:parent_id":85681907,
     "wof:placetype":"county",

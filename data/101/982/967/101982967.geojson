@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000067,
     "geom:area_square_m":832340.472,
-    "geom:bbox":"-48.2200464642,-0.959282561007,-48.207970232,-0.948182",
+    "geom:bbox":"-48.220046,-0.959283,-48.20797,-0.948182",
     "geom:latitude":-0.953631,
-    "geom:longitude":-48.214658,
+    "geom:longitude":-48.214657,
     "iso:country":"BR",
     "lbl:latitude":-0.95436,
     "lbl:longitude":-48.215252,
@@ -28,8 +28,14 @@
     "name:eng_x_preferred":[
         "Fazenda"
     ],
+    "name:eng_x_variant":[
+        "fazenda"
+    ],
     "name:fra_x_preferred":[
         "fazenda"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05d6\u05e0\u05d3\u05d5\u05ea"
     ],
     "name:ita_x_preferred":[
         "fazenda"
@@ -39,6 +45,9 @@
     ],
     "name:nld_x_preferred":[
         "Fazenda"
+    ],
+    "name:nld_x_variant":[
+        "fazenda"
     ],
     "name:pol_x_preferred":[
         "Czworak"
@@ -54,6 +63,12 @@
     ],
     "name:spa_x_preferred":[
         "hacienda colonial"
+    ],
+    "name:tur_x_preferred":[
+        "Fazenda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0444\u0430\u0437\u0435\u043d\u0434\u0430"
     ],
     "qs:a0":"Brasil",
     "qs:a1":"*PA",
@@ -86,7 +101,7 @@
         "wd:id":"Q1399147"
     },
     "wof:country":"BR",
-    "wof:geomhash":"1397a436651af09c06328b7aaab9a99c",
+    "wof:geomhash":"9994a8108cadd116da51320e94a16238",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -98,7 +113,7 @@
         }
     ],
     "wof:id":101982967,
-    "wof:lastmodified":1577826190,
+    "wof:lastmodified":1690861922,
     "wof:name":"Fazenda",
     "wof:parent_id":102055747,
     "wof:placetype":"locality",
@@ -108,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -48.22004646419409,
-    -0.95928256100691,
-    -48.20797023198759,
+    -48.220046,
+    -0.959283,
+    -48.20797,
     -0.948182
 ],
-  "geometry": {"coordinates":[[[-48.20797023198759,-0.94862381337341],[-48.21310631245339,-0.95738644527936],[-48.2155362860072,-0.95928256100691],[-48.216254232739,-0.95801234755836],[-48.22004646419409,-0.95679736078148],[-48.22004646419409,-0.95247127150018],[-48.2139715303097,-0.95029902241425],[-48.2094061254512,-0.948182],[-48.20797023198759,-0.94862381337341]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-48.20797,-0.948624],[-48.213106,-0.957386],[-48.215536,-0.959283],[-48.216254,-0.958012],[-48.220046,-0.956797],[-48.220046,-0.952471],[-48.213972,-0.950299],[-48.209406,-0.948182],[-48.20797,-0.948624]]],"type":"Polygon"}
 }

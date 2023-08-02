@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000041,
     "geom:area_square_m":471144.208792,
-    "geom:bbox":"-41.0600196791,-20.594022347,-41.0486509765,-20.585735062",
+    "geom:bbox":"-41.06002,-20.594022,-41.048651,-20.585735",
     "geom:latitude":-20.590401,
-    "geom:longitude":-41.054767,
+    "geom:longitude":-41.054768,
     "iso:country":"BR",
     "lbl:latitude":-20.591515,
     "lbl:longitude":-41.053353,
@@ -25,10 +25,25 @@
     "name:ara_x_preferred":[
         "\u062e\u0646\u0632\u064a\u0631 \u0627\u0644\u0645\u0627\u0621"
     ],
+    "name:arg_x_preferred":[
+        "Hydrochoerus hydrochaeris"
+    ],
+    "name:arz_x_preferred":[
+        "\u062e\u0646\u0632\u064a\u0631 \u0627\u0644\u0645\u0627\u0621"
+    ],
     "name:ast_x_preferred":[
         "Hydrochoerus hydrochaeris"
     ],
+    "name:ast_x_variant":[
+        "Capibara"
+    ],
+    "name:avk_x_preferred":[
+        "Areskol"
+    ],
     "name:aze_x_preferred":[
+        "Kapibara"
+    ],
+    "name:ban_x_preferred":[
         "Kapibara"
     ],
     "name:bel_x_preferred":[
@@ -73,6 +88,9 @@
     "name:est_x_preferred":[
         "Kapibaara"
     ],
+    "name:est_x_variant":[
+        "kapibaara"
+    ],
     "name:eus_x_preferred":[
         "Kapibara"
     ],
@@ -85,14 +103,23 @@
     "name:fin_x_preferred":[
         "Kapybara"
     ],
+    "name:fin_x_variant":[
+        "kapybara"
+    ],
     "name:fra_x_preferred":[
         "capivara"
+    ],
+    "name:fra_x_variant":[
+        "Hydrochoerus hydrochaeris"
     ],
     "name:fry_x_preferred":[
         "Kapibara"
     ],
     "name:gle_x_preferred":[
         "Capab\u00e1ra"
+    ],
+    "name:gle_x_variant":[
+        "capab\u00e1ra"
     ],
     "name:glg_x_preferred":[
         "Capibara"
@@ -109,14 +136,29 @@
     "name:hun_x_preferred":[
         "V\u00edzidiszn\u00f3"
     ],
+    "name:hun_x_variant":[
+        "v\u00edzidiszn\u00f3"
+    ],
     "name:hye_x_preferred":[
         "\u057b\u0580\u0561\u056d\u0578\u0566\u0578\u0582\u056f"
+    ],
+    "name:ido_x_preferred":[
+        "Kapibaro"
     ],
     "name:ina_x_preferred":[
         "Hydrochoerus hydrochaeris"
     ],
+    "name:ina_x_variant":[
+        "capybara"
+    ],
     "name:ind_x_preferred":[
         "Kapibara"
+    ],
+    "name:ind_x_variant":[
+        "kapibara"
+    ],
+    "name:inh_x_preferred":[
+        "\u0425\u0438\u043d\u0445\u044c\u0430\u043a\u0445\u0438\u043b\u0433"
     ],
     "name:isl_x_preferred":[
         "Fl\u00f3\u00f0sv\u00edn"
@@ -175,8 +217,17 @@
     "name:mon_x_preferred":[
         "\u041a\u0430\u043f\u0438\u0431\u0430\u0440\u0430"
     ],
+    "name:mon_x_variant":[
+        "\u043a\u0430\u043f\u0438\u0431\u0430\u0440\u0430"
+    ],
     "name:msa_x_preferred":[
         "Capybara"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u1015\u102e\u1018\u102c\u101b\u102c \u1000\u103c\u103d\u1000\u103a\u1000\u103c\u102e\u1038"
+    ],
+    "name:nan_x_preferred":[
+        "Ch\u00fai-ti"
     ],
     "name:nav_x_preferred":[
         "Dl\u01eb\u0301\u01eb\u0301\u02bc ntsxaa\u00edg\u00ed\u00ed"
@@ -186,6 +237,9 @@
     ],
     "name:nno_x_preferred":[
         "Flodsvin"
+    ],
+    "name:nno_x_variant":[
+        "flodsvin"
     ],
     "name:nob_x_preferred":[
         "flodsvin"
@@ -223,7 +277,13 @@
     "name:slv_x_preferred":[
         "Kapibara"
     ],
+    "name:smn_x_preferred":[
+        "Kapybara"
+    ],
     "name:spa_x_preferred":[
+        "Hydrochoerus hydrochaeris"
+    ],
+    "name:sqi_x_preferred":[
         "Hydrochoerus hydrochaeris"
     ],
     "name:srp_x_preferred":[
@@ -237,6 +297,9 @@
     ],
     "name:swa_x_preferred":[
         "Kapibara"
+    ],
+    "name:swa_x_variant":[
+        "Ngekewa"
     ],
     "name:swe_x_preferred":[
         "Kapybara"
@@ -252,6 +315,9 @@
     ],
     "name:tur_x_preferred":[
         "Kapibara"
+    ],
+    "name:tur_x_variant":[
+        "Hydrochoerus hydrochaeris"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043f\u0456\u0431\u0430\u0440\u0430 \u0432\u0435\u043b\u0438\u043a\u0430"
@@ -293,7 +359,7 @@
         "wd:id":"Q131538"
     },
     "wof:country":"BR",
-    "wof:geomhash":"0b290753fdd30a9af98d24eb4c608d42",
+    "wof:geomhash":"f5a3a3d8839fc01e6c580d6335b23360",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -306,7 +372,7 @@
         }
     ],
     "wof:id":101976149,
-    "wof:lastmodified":1577833693,
+    "wof:lastmodified":1690861926,
     "wof:name":"Capivara",
     "wof:parent_id":404554651,
     "wof:placetype":"locality",
@@ -316,10 +382,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -41.0600196791397,
-    -20.5940223469662,
-    -41.04865097653249,
-    -20.5857350620176
+    -41.06002,
+    -20.594022,
+    -41.048651,
+    -20.585735
 ],
-  "geometry": {"coordinates":[[[-41.0493668313436,-20.5917500755498],[-41.05165215535339,-20.5939893408434],[-41.0517926910125,-20.5940223469662],[-41.0540791526478,-20.5934667581576],[-41.0568143590901,-20.5921846301377],[-41.0571166165118,-20.5918617055419],[-41.05715277887259,-20.591823070541],[-41.0593145087288,-20.5895135300964],[-41.0600196791397,-20.5883382460783],[-41.0581781224821,-20.5857350620176],[-41.05815435096339,-20.5857362745312],[-41.0580939789365,-20.5857393539266],[-41.05699599389289,-20.5857953588389],[-41.056354929883,-20.5870026960576],[-41.0563656142832,-20.5884023524792],[-41.0558955006759,-20.5892357356921],[-41.05486979826,-20.5896203740981],[-41.0530641346322,-20.5893425796938],[-41.05113025820219,-20.5897379024999],[-41.0503576006428,-20.590072142006],[-41.0503406122907,-20.5900794908999],[-41.0486815912711,-20.5908490689306],[-41.04865097653249,-20.5908632703361],[-41.0493668313436,-20.5917500755498]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-41.049367,-20.59175],[-41.051652,-20.593989],[-41.051793,-20.594022],[-41.054079,-20.593467],[-41.056814,-20.592185],[-41.057117,-20.591862],[-41.057153,-20.591823],[-41.059315,-20.589514],[-41.06002,-20.588338],[-41.058178,-20.585735],[-41.058154,-20.585736],[-41.058094,-20.585739],[-41.056996,-20.585795],[-41.056355,-20.587003],[-41.056366,-20.588402],[-41.055896,-20.589236],[-41.05487,-20.58962],[-41.053064,-20.589343],[-41.05113,-20.589738],[-41.050358,-20.590072],[-41.050341,-20.590079],[-41.048682,-20.590849],[-41.048651,-20.590863],[-41.049367,-20.59175]]],"type":"Polygon"}
 }

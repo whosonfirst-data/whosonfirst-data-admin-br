@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000029,
     "geom:area_square_m":363376.419393,
-    "geom:bbox":"-45.125195654,-3.10176632139,-45.1160149568,-3.0952424244",
-    "geom:latitude":-3.098128,
-    "geom:longitude":-45.120431,
+    "geom:bbox":"-45.125196,-3.101766,-45.116015,-3.095242",
+    "geom:latitude":-3.098127,
+    "geom:longitude":-45.120432,
     "iso:country":"BR",
     "lbl:latitude":-3.098159,
     "lbl:longitude":-45.120362,
@@ -25,6 +25,15 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u0648\u064a\u0631\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u064e\u0628\u064f\u0648\u0650\u064a\u0631\u064e\u0629"
+    ],
+    "name:ary_x_preferred":[
+        "\u0643\u0627\u067e\u0648\u064a\u0631\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0628\u0648\u064a\u0631\u0627"
+    ],
     "name:ast_x_preferred":[
         "Capoeira"
     ],
@@ -33,6 +42,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09af\u09be\u09aa\u09c1\u09af\u09bc\u09c7\u09b0\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u0995\u09be\u09aa\u09c1\u09af\u09bc\u09c7\u09b0\u09be"
     ],
     "name:bos_x_preferred":[
         "Capoeira"
@@ -52,6 +64,9 @@
     "name:dan_x_preferred":[
         "Capoeira"
     ],
+    "name:dan_x_variant":[
+        "capoeira"
+    ],
     "name:deu_x_preferred":[
         "Capoeira"
     ],
@@ -60,6 +75,9 @@
     ],
     "name:eng_x_preferred":[
         "Capoeira"
+    ],
+    "name:eng_x_variant":[
+        "capoeira"
     ],
     "name:epo_x_preferred":[
         "Kapoejro"
@@ -76,8 +94,14 @@
     "name:fin_x_preferred":[
         "Capoeira"
     ],
+    "name:fin_x_variant":[
+        "capoeira"
+    ],
     "name:fra_x_preferred":[
         "Capoeira"
+    ],
+    "name:fra_x_variant":[
+        "capoeira"
     ],
     "name:glg_x_preferred":[
         "Capoeira"
@@ -91,6 +115,12 @@
     "name:hun_x_preferred":[
         "Capoeira"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u057a\u0578\u0565\u0575\u0580\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0584\u0561\u0583\u0578\u0567\u0575\u0580\u0561"
+    ],
     "name:ina_x_preferred":[
         "Capoeira"
     ],
@@ -103,11 +133,17 @@
     "name:ita_x_preferred":[
         "Capoeira"
     ],
+    "name:ita_x_variant":[
+        "capoeira"
+    ],
     "name:jpn_x_preferred":[
         "\u30ab\u30dd\u30a8\u30a4\u30e9"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10de\u10dd\u10d4\u10d8\u10e0\u10d0"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u043f\u043e\u044d\u0439\u0440\u0430"
     ],
     "name:kor_x_preferred":[
         "\uce74\ud3ec\uc5d0\uc774\ub77c"
@@ -123,6 +159,9 @@
     ],
     "name:lit_x_preferred":[
         "Kapueira"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d3e\u0d2a\u0d4a\u0d35\u0d47\u0d31"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u043f\u0443\u0435\u0440\u0430"
@@ -163,11 +202,20 @@
     "name:spa_x_preferred":[
         "Capoeira"
     ],
+    "name:spa_x_variant":[
+        "capoeira"
+    ],
     "name:srp_x_preferred":[
         "\u043a\u0430\u043f\u043e\u0438\u0440\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Capoeira"
+    ],
     "name:swe_x_preferred":[
         "Capoeira"
+    ],
+    "name:swe_x_variant":[
+        "capoeira"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0baa\u0bcb\u0baf\u0bcd\u0bb0\u0bbe"
@@ -187,8 +235,14 @@
     "name:vie_x_preferred":[
         "Capoeira"
     ],
+    "name:wuu_x_preferred":[
+        "\u5361\u6ce2\u8036\u62c9"
+    ],
     "name:xmf_x_preferred":[
         "\u10d9\u10d0\u10de\u10dd\u10d4\u10d8\u10e0\u10d0"
+    ],
+    "name:yue_x_preferred":[
+        "\u5df4\u897f\u6230\u821e"
     ],
     "name:zho_x_preferred":[
         "\u5361\u6ce2\u8036\u62c9"
@@ -222,7 +276,7 @@
         "wd:id":"Q159452"
     },
     "wof:country":"BR",
-    "wof:geomhash":"ae13418c66edaf8e7c9db9ab3066ca77",
+    "wof:geomhash":"f942a1f0b1fc0470ee81c4cd80b3d963",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -233,7 +287,7 @@
         }
     ],
     "wof:id":101979361,
-    "wof:lastmodified":1566624187,
+    "wof:lastmodified":1690861656,
     "wof:name":"Capoeira",
     "wof:parent_id":102053239,
     "wof:placetype":"locality",
@@ -243,10 +297,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -45.1251956540451,
-    -3.10176632138537,
-    -45.1160149568047,
-    -3.0952424243999
+    -45.125196,
+    -3.101766,
+    -45.116015,
+    -3.095242
 ],
-  "geometry": {"coordinates":[[[-45.1251956540451,-3.09564310516974],[-45.1250689468108,-3.09555516548077],[-45.12495903266601,-3.09547947147974],[-45.1235985829564,-3.09536423273384],[-45.1202353195138,-3.0952424243999],[-45.1160149568047,-3.09986902636155],[-45.119373679495,-3.10160590326548],[-45.1195547244312,-3.10168435607116],[-45.1197438751563,-3.10176632138537],[-45.1251956540451,-3.09564310516974]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-45.125196,-3.095643],[-45.125069,-3.095555],[-45.124959,-3.095479],[-45.123599,-3.095364],[-45.120235,-3.095242],[-45.116015,-3.099869],[-45.119374,-3.101606],[-45.119555,-3.101684],[-45.119744,-3.101766],[-45.125196,-3.095643]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000023,
     "geom:area_square_m":289017.751876,
-    "geom:bbox":"-35.4951450178,-5.58181521386,-35.4870930253,-5.57563761965",
+    "geom:bbox":"-35.495145,-5.581815,-35.487093,-5.575638",
     "geom:latitude":-5.578778,
     "geom:longitude":-35.491276,
     "iso:country":"BR",
@@ -19,8 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Mineiro"
+    ],
     "name:eng_x_preferred":[
         "Mineiro"
+    ],
+    "name:fra_x_preferred":[
+        "mineiro"
+    ],
+    "name:glg_x_preferred":[
+        "Dialecto mineiro"
     ],
     "name:ita_x_preferred":[
         "Dialetto mineiro"
@@ -28,11 +37,17 @@
     "name:ita_x_variant":[
         "dialetto mineiro"
     ],
+    "name:nob_x_preferred":[
+        "Mineiro"
+    ],
     "name:por_x_preferred":[
         "Dialeto mineiro"
     ],
     "name:por_x_variant":[
         "dialeto mineiro"
+    ],
+    "name:spa_x_preferred":[
+        "Dialecto mineiro"
     ],
     "qs:a0":"Brasil",
     "qs:a1":"*RN",
@@ -65,7 +80,7 @@
         "wd:id":"Q3706614"
     },
     "wof:country":"BR",
-    "wof:geomhash":"a4dbc80d74fb163ffcc6a3895431d4ad",
+    "wof:geomhash":"13f496f29f92618dfa7e87dd0398250c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,7 +92,7 @@
         }
     ],
     "wof:id":101987377,
-    "wof:lastmodified":1577838736,
+    "wof:lastmodified":1690862538,
     "wof:name":"Mineiro",
     "wof:parent_id":102058575,
     "wof:placetype":"locality",
@@ -87,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -35.4951450178028,
-    -5.58181521386042,
-    -35.4870930253486,
-    -5.57563761964968
+    -35.495145,
+    -5.581815,
+    -35.487093,
+    -5.575638
 ],
-  "geometry": {"coordinates":[[[-35.4951450178028,-5.58068001492426],[-35.4913018956675,-5.57572031000638],[-35.4912378214644,-5.57563761964968],[-35.48744466237179,-5.57742547807548],[-35.4870930253486,-5.57759121781889],[-35.49213542062319,-5.58181521386042],[-35.4951450178028,-5.58068001492426]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-35.495145,-5.58068],[-35.491302,-5.57572],[-35.491238,-5.575638],[-35.487445,-5.577425],[-35.487093,-5.577591],[-35.492135,-5.581815],[-35.495145,-5.58068]]],"type":"Polygon"}
 }

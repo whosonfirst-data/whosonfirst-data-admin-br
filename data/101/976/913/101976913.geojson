@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000017,
     "geom:area_square_m":200209.100612,
-    "geom:bbox":"-39.3596948939,-11.2147001206,-39.3558905992,-11.2080155302",
-    "geom:latitude":-11.210818,
+    "geom:bbox":"-39.359695,-11.2147,-39.355891,-11.208016",
+    "geom:latitude":-11.210819,
     "geom:longitude":-39.357795,
     "iso:country":"BR",
     "lbl:latitude":-11.210761,
@@ -34,17 +34,29 @@
     "name:arc_x_preferred":[
         "\u0718\u072a\u0715\u0710"
     ],
+    "name:arg_x_preferred":[
+        "Rosa"
+    ],
+    "name:arz_x_preferred":[
+        "\u0648\u0631\u062f"
+    ],
     "name:asm_x_preferred":[
         "\u0997\u09cb\u09b2\u09be\u09aa"
     ],
     "name:ast_x_preferred":[
         "Rosa"
     ],
+    "name:ava_x_preferred":[
+        "\u0413\u04c0\u0438\u043d\u0442\u04c0\u0438"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u06cc\u062a\u0628\u0648\u0631\u0646\u0648"
     ],
     "name:aze_x_preferred":[
         "Q\u0131z\u0131lg\u00fcl"
+    ],
+    "name:ban_x_preferred":[
+        "Mawa"
     ],
     "name:bel_x_preferred":[
         "\u0420\u0443\u0436\u0430"
@@ -61,14 +73,26 @@
     "name:bos_x_preferred":[
         "Ru\u017ea"
     ],
+    "name:bos_x_variant":[
+        "ru\u017ea"
+    ],
     "name:bre_x_preferred":[
         "Roz"
+    ],
+    "name:bre_x_variant":[
+        "roz"
     ],
     "name:bul_x_preferred":[
         "\u0420\u043e\u0437\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u0440\u043e\u0437\u0430"
+    ],
     "name:cat_x_preferred":[
         "rosa"
+    ],
+    "name:ceb_x_preferred":[
+        "Rosa"
     ],
     "name:ces_x_preferred":[
         "r\u016f\u017ee"
@@ -85,6 +109,9 @@
     "name:ckb_x_preferred":[
         "\u0634\u06cc\u0644\u0627\u0646"
     ],
+    "name:cor_x_preferred":[
+        "ros"
+    ],
     "name:cym_x_preferred":[
         "Rhosyn"
     ],
@@ -97,8 +124,14 @@
     "name:diq_x_preferred":[
         "Gule"
     ],
+    "name:dty_x_preferred":[
+        "\u0917\u0941\u0932\u093e\u092b"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03c1\u03b9\u03b1\u03bd\u03c4\u03b1\u03c6\u03c5\u03bb\u03bb\u03b9\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "\u03c4\u03c1\u03b9\u03b1\u03bd\u03c4\u03b1\u03c6\u03c5\u03bb\u03bb\u03b9\u03ac"
     ],
     "name:eml_x_preferred":[
         "R\u00f3\u015ba"
@@ -115,20 +148,32 @@
     "name:eus_x_preferred":[
         "Arrosa"
     ],
+    "name:ext_x_preferred":[
+        "Rosa"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0632"
     ],
     "name:fin_x_preferred":[
         "Ruusut"
     ],
+    "name:fin_x_variant":[
+        "ruusut"
+    ],
     "name:fra_x_preferred":[
         "rose"
+    ],
+    "name:fra_x_variant":[
+        "Rosa"
     ],
     "name:frr_x_preferred":[
         "Ruusen"
     ],
     "name:gle_x_preferred":[
         "R\u00f3s"
+    ],
+    "name:gle_x_variant":[
+        "r\u00f3s"
     ],
     "name:glg_x_preferred":[
         "Rosa"
@@ -169,6 +214,9 @@
     "name:ido_x_preferred":[
         "Rozo"
     ],
+    "name:ile_x_preferred":[
+        "Rosa"
+    ],
     "name:ina_x_preferred":[
         "Rosa"
     ],
@@ -190,11 +238,23 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30e9"
     ],
+    "name:jpn_x_variant":[
+        "\u30d0\u30e9\u5c5e"
+    ],
+    "name:kaa_x_preferred":[
+        "Shipovnik"
+    ],
+    "name:kab_x_preferred":[
+        "Ajjig"
+    ],
     "name:kan_x_preferred":[
         "\u0c97\u0cc1\u0cb2\u0cbe\u0cac\u0cbf"
     ],
     "name:kas_x_preferred":[
         "\u06af\u064f\u0644\u0627\u0628"
+    ],
+    "name:kas_x_variant":[
+        "\u06af\u06c4\u0644\u0627\u0628"
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d0\u10e0\u10d3\u10d8"
@@ -247,8 +307,17 @@
     "name:mkd_x_preferred":[
         "\u0440\u043e\u0437\u0430"
     ],
+    "name:mlg_x_preferred":[
+        "Raozy"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc1\uabdd\uabd5\uabed\uabd4\uabe8\uabc2\uabe9"
+    ],
     "name:mrj_x_preferred":[
         "\u041b\u04e7\u0447\u043a\u04d3\u0432\u0430\u043d\u0434\u044b"
+    ],
+    "name:msa_x_preferred":[
+        "mawar"
     ],
     "name:mya_x_preferred":[
         "rose"
@@ -310,6 +379,9 @@
     "name:rus_x_preferred":[
         "\u0428\u0438\u043f\u043e\u0432\u043d\u0438\u043a"
     ],
+    "name:rus_x_variant":[
+        "\u0448\u0438\u043f\u043e\u0432\u043d\u0438\u043a"
+    ],
     "name:sah_x_preferred":[
         "\u0414\u04e9\u043b\u04af\u04bb\u04af\u04e9\u043d"
     ],
@@ -334,13 +406,22 @@
     "name:slv_x_preferred":[
         "Vrtnica"
     ],
+    "name:slv_x_variant":[
+        "vrtnica"
+    ],
     "name:sme_x_preferred":[
         "Ruvsut"
+    ],
+    "name:sna_x_preferred":[
+        "Rhozi"
     ],
     "name:snd_x_preferred":[
         "\u06af\u0644\u0627\u0628"
     ],
     "name:spa_x_preferred":[
+        "Rosa"
+    ],
+    "name:sqi_x_preferred":[
         "Rosa"
     ],
     "name:srd_x_preferred":[
@@ -352,11 +433,17 @@
     "name:sun_x_preferred":[
         "Mawar"
     ],
+    "name:sun_x_variant":[
+        "eros"
+    ],
     "name:swa_x_preferred":[
         "Mwaridi"
     ],
     "name:swe_x_preferred":[
         "Rossl\u00e4ktet"
+    ],
+    "name:swe_x_variant":[
+        "rossl\u00e4ktet"
     ],
     "name:szl_x_preferred":[
         "Ro\u0142za"
@@ -366,6 +453,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0433\u04e9\u043b\u0497\u0438\u043c\u0435\u0448"
+    ],
+    "name:tcy_x_preferred":[
+        "\u0c97\u0cc1\u0cb2\u0cbe\u0cac\u0cbf"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c41\u0c32\u0c3e\u0c2c\u0c3f"
@@ -388,6 +478,9 @@
     "name:tur_x_preferred":[
         "G\u00fcl"
     ],
+    "name:tur_x_variant":[
+        "g\u00fcl"
+    ],
     "name:tyv_x_preferred":[
         "\u042b\u0442-\u043a\u0430\u0434\u044b"
     ],
@@ -400,14 +493,26 @@
     "name:uzb_x_preferred":[
         "Na\u02bcmatak"
     ],
+    "name:vec_x_preferred":[
+        "r\u00f2za"
+    ],
+    "name:vep_x_preferred":[
+        "Roz"
+    ],
     "name:vie_x_preferred":[
         "hoa h\u1ed3ng"
+    ],
+    "name:vol_x_preferred":[
+        "Rosa"
     ],
     "name:war_x_preferred":[
         "Rosa"
     ],
     "name:wln_x_preferred":[
         "R\u00f4z\u00ee"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8537\u8587\u5c5e"
     ],
     "name:yid_x_preferred":[
         "\u05e8\u05d5\u05d9\u05d6"
@@ -449,7 +554,7 @@
         "wd:id":"Q34687"
     },
     "wof:country":"BR",
-    "wof:geomhash":"0f09e79cd5f249edbfc50f5c93705ac3",
+    "wof:geomhash":"9a310710cb3bb3229c9330006d71a7eb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -461,7 +566,7 @@
         }
     ],
     "wof:id":101976913,
-    "wof:lastmodified":1566624689,
+    "wof:lastmodified":1690861923,
     "wof:name":"Rose",
     "wof:parent_id":404551889,
     "wof:placetype":"locality",
@@ -471,10 +576,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -39.3596948939236,
-    -11.21470012056,
-    -39.35589059916089,
-    -11.2080155301942
+    -39.359695,
+    -11.2147,
+    -39.355891,
+    -11.208016
 ],
-  "geometry": {"coordinates":[[[-39.3590939585073,-11.2095532646302],[-39.3587059357009,-11.2080155301942],[-39.3559008309803,-11.208199935186],[-39.35589059916089,-11.2102060089804],[-39.3574151637783,-11.2135706892336],[-39.35829990090701,-11.21470012056],[-39.35829994848869,-11.2147000262442],[-39.359241003866,-11.212834682032],[-39.3596948939236,-11.2119347717681],[-39.3590939585073,-11.2095532646302]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-39.359094,-11.209553],[-39.358706,-11.208016],[-39.355901,-11.2082],[-39.355891,-11.210206],[-39.357415,-11.213571],[-39.3583,-11.2147],[-39.3583,-11.2147],[-39.359241,-11.212835],[-39.359695,-11.211935],[-39.359094,-11.209553]]],"type":"Polygon"}
 }

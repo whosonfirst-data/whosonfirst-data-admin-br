@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00066,
     "geom:area_square_m":7738731.036304,
-    "geom:bbox":"-49.21078,-18.6100002569,-49.1898548131,-18.57844",
+    "geom:bbox":"-49.21078,-18.61,-49.189855,-18.57844",
     "geom:latitude":-18.594221,
     "geom:longitude":-49.200319,
     "gn:population":9497,
@@ -23,8 +23,14 @@
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2\u09bf\u09a8\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Centralina"
+    ],
     "name:ceb_x_preferred":[
         "Centralina"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u043d\u0430"
     ],
     "name:deu_x_preferred":[
         "Centralina"
@@ -53,6 +59,9 @@
     "name:kaz_x_preferred":[
         "\u0421\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u043d\u0430"
     ],
+    "name:mlg_x_preferred":[
+        "Centralina"
+    ],
     "name:nan_x_preferred":[
         "Centralina"
     ],
@@ -78,6 +87,12 @@
         "Centralina"
     ],
     "name:swe_x_preferred":[
+        "Centralina"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u043d\u0430"
+    ],
+    "name:tur_x_preferred":[
         "Centralina"
     ],
     "name:vol_x_preferred":[
@@ -128,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d8e987f82c6b883ac856d6c8ed599c58",
+    "wof:geomhash":"7a005a8e31ccd764ab83bc461c6a3d74",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +159,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1582321058,
+    "wof:lastmodified":1690861987,
     "wof:name":"Centralina",
     "wof:parent_id":404555869,
     "wof:placetype":"locality",
@@ -157,9 +172,9 @@
 },
   "bbox": [
     -49.21078,
-    -18.6100002569294,
-    -49.18985481306773,
+    -18.61,
+    -49.189855,
     -18.57844
 ],
-  "geometry": {"coordinates":[[[-49.18985481306773,-18.61],[-49.19167301559857,-18.6100002569294],[-49.19286621413207,-18.61],[-49.21077995082333,-18.61],[-49.21077995082333,-18.59640979709411],[-49.21077995082333,-18.59061919786431],[-49.21077995082333,-18.58730076777324],[-49.21077995082333,-18.5792676154562],[-49.21078,-18.57844],[-49.20899878065686,-18.57844],[-49.193368500833,-18.57844],[-49.18986,-18.57844],[-49.18985481306773,-18.61]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-49.189855,-18.61],[-49.191673,-18.61],[-49.192866,-18.61],[-49.21078,-18.61],[-49.21078,-18.59641],[-49.21078,-18.590619],[-49.21078,-18.587301],[-49.21078,-18.579268],[-49.21078,-18.57844],[-49.208999,-18.57844],[-49.193369,-18.57844],[-49.18986,-18.57844],[-49.189855,-18.61]]],"type":"Polygon"}
 }

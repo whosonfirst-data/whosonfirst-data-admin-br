@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000032,
     "geom:area_square_m":385719.753992,
-    "geom:bbox":"-41.6008110814,-11.8278998179,-41.5933145079,-11.8211930568",
+    "geom:bbox":"-41.600811,-11.8279,-41.593315,-11.821193",
     "geom:latitude":-11.824947,
     "geom:longitude":-41.597556,
     "iso:country":"BR",
@@ -22,6 +22,9 @@
     "name:afr_x_preferred":[
         "Kanaal"
     ],
+    "name:afr_x_variant":[
+        "kanaal"
+    ],
     "name:ara_x_preferred":[
         "\u0642\u0646\u0627\u0629"
     ],
@@ -34,11 +37,20 @@
     "name:aze_x_preferred":[
         "Arx"
     ],
+    "name:aze_x_variant":[
+        "arx"
+    ],
     "name:bak_x_preferred":[
         "\u04ba\u044b\u0443 \u043a\u0430\u043d\u0430\u043b\u044b"
     ],
+    "name:bak_x_variant":[
+        "\u04bb\u044b\u0443 \u043a\u0430\u043d\u0430\u043b\u044b"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u043d\u0430\u043b"
+    ],
+    "name:bel_x_variant":[
+        "\u043a\u0430\u043d\u0430\u043b"
     ],
     "name:ben_x_preferred":[
         "\u0996\u09be\u09b2"
@@ -52,11 +64,20 @@
     "name:bjn_x_preferred":[
         "Handil"
     ],
+    "name:bjn_x_variant":[
+        "handil"
+    ],
     "name:bos_x_preferred":[
         "Kanal"
     ],
+    "name:bos_x_variant":[
+        "kanal"
+    ],
     "name:bre_x_preferred":[
         "Kanol"
+    ],
+    "name:bre_x_variant":[
+        "kanol"
     ],
     "name:brh_x_preferred":[
         "kaen\u00e1l"
@@ -64,8 +85,14 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0430\u043b"
     ],
+    "name:bul_x_variant":[
+        "\u043a\u0430\u043d\u0430\u043b"
+    ],
     "name:bxr_x_preferred":[
         "\u04ba\u0443\u0431\u0430\u0433"
+    ],
+    "name:bxr_x_variant":[
+        "\u04bb\u0443\u0431\u0430\u0433"
     ],
     "name:cat_x_preferred":[
         "canal"
@@ -73,11 +100,17 @@
     "name:cdo_x_preferred":[
         "\u00d4ng-\u00f2\u0324"
     ],
+    "name:cdo_x_variant":[
+        "\u00f4ng-\u00f2\u0324"
+    ],
     "name:ces_x_preferred":[
         "vodn\u00ed kan\u00e1l"
     ],
     "name:che_x_preferred":[
         "\u0425\u0438\u043d \u043a\u0430\u043d\u0430\u043b"
+    ],
+    "name:che_x_variant":[
+        "\u0445\u0438\u043d \u043a\u0430\u043d\u0430\u043b"
     ],
     "name:ckb_x_preferred":[
         "\u0646\u06c6\u06a9\u06d5\u0646\u062f"
@@ -85,14 +118,23 @@
     "name:cor_x_preferred":[
         "dowrgleudh"
     ],
+    "name:crh_x_preferred":[
+        "kanal"
+    ],
     "name:cym_x_preferred":[
         "Camlas"
+    ],
+    "name:cym_x_variant":[
+        "camlas"
     ],
     "name:dan_x_preferred":[
         "kanal"
     ],
     "name:deu_x_preferred":[
         "Kanal"
+    ],
+    "name:diq_x_preferred":[
+        "erqci"
     ],
     "name:ell_x_preferred":[
         "\u03b4\u03b9\u03ce\u03c1\u03c5\u03b3\u03b1"
@@ -118,20 +160,35 @@
     "name:fra_x_preferred":[
         "canal"
     ],
+    "name:frr_x_preferred":[
+        "Kanaal"
+    ],
     "name:fry_x_preferred":[
         "kanaal"
     ],
     "name:gan_x_preferred":[
         "\u904b\u6cb3"
     ],
+    "name:gcr_x_preferred":[
+        "kannal"
+    ],
     "name:gle_x_preferred":[
         "Can\u00e1il"
+    ],
+    "name:gle_x_variant":[
+        "can\u00e1il"
     ],
     "name:glg_x_preferred":[
         "Canle"
     ],
+    "name:glg_x_variant":[
+        "canle"
+    ],
     "name:grn_x_preferred":[
         "Yhape"
+    ],
+    "name:grn_x_variant":[
+        "yhape"
     ],
     "name:gsw_x_preferred":[
         "Kanaal"
@@ -157,20 +214,32 @@
     "name:ido_x_preferred":[
         "Kanalo"
     ],
+    "name:ido_x_variant":[
+        "kanalo"
+    ],
     "name:ina_x_preferred":[
         "canal"
     ],
     "name:ind_x_preferred":[
         "Kanal"
     ],
+    "name:ind_x_variant":[
+        "kanal"
+    ],
     "name:isl_x_preferred":[
         "Skur\u00f0ur"
+    ],
+    "name:isl_x_variant":[
+        "skur\u00f0ur"
     ],
     "name:ita_x_preferred":[
         "canale artificiale"
     ],
     "name:jam_x_preferred":[
         "Kianal"
+    ],
+    "name:jam_x_variant":[
+        "kianal"
     ],
     "name:jpn_x_preferred":[
         "\u904b\u6cb3"
@@ -184,11 +253,20 @@
     "name:kaz_x_preferred":[
         "\u041a\u0430\u043d\u0430\u043b"
     ],
+    "name:kaz_x_variant":[
+        "\u043a\u0430\u043d\u0430\u043b"
+    ],
     "name:kbd_x_preferred":[
         "\u041f\u0441\u044bI\u044d\u0440\u044b\u0448\u044d"
     ],
+    "name:kbd_x_variant":[
+        "\u043f\u0441\u044bi\u044d\u0440\u044b\u0448\u044d"
+    ],
     "name:kir_x_preferred":[
         "\u041a\u0430\u043d\u0430\u043b"
+    ],
+    "name:kir_x_variant":[
+        "\u043a\u0430\u043d\u0430\u043b"
     ],
     "name:kor_x_preferred":[
         "\uc6b4\ud558"
@@ -196,8 +274,14 @@
     "name:kur_x_preferred":[
         "Cok"
     ],
+    "name:kur_x_variant":[
+        "cok"
+    ],
     "name:lat_x_preferred":[
         "Fossa"
+    ],
+    "name:lat_x_variant":[
+        "fossa"
     ],
     "name:lav_x_preferred":[
         "kan\u0101ls"
@@ -205,8 +289,14 @@
     "name:lim_x_preferred":[
         "Kenaal"
     ],
+    "name:lim_x_variant":[
+        "kenaal"
+    ],
     "name:lit_x_preferred":[
         "Kanalas"
+    ],
+    "name:lit_x_variant":[
+        "kanalas"
     ],
     "name:ltz_x_preferred":[
         "Kanal"
@@ -223,11 +313,17 @@
     "name:msa_x_preferred":[
         "Terusan"
     ],
+    "name:msa_x_variant":[
+        "terusan"
+    ],
     "name:mya_x_preferred":[
         "\u1010\u1030\u1038\u1019\u103c\u1031\u102c\u1004\u103a\u1038"
     ],
     "name:nan_x_preferred":[
         "\u016an-h\u00f4"
+    ],
+    "name:nan_x_variant":[
+        "\u016bn-h\u00f4"
     ],
     "name:nds_x_preferred":[
         "Kanaal"
@@ -259,20 +355,35 @@
     "name:pnb_x_preferred":[
         "\u0646\u06cc\u0631"
     ],
+    "name:pnb_x_variant":[
+        "\u0646\u06c1\u0631"
+    ],
     "name:pol_x_preferred":[
         "kana\u0142 wodny"
     ],
     "name:por_x_preferred":[
         "canal"
     ],
+    "name:rgn_x_preferred":[
+        "can\u00eal"
+    ],
     "name:ron_x_preferred":[
         "Canal"
+    ],
+    "name:ron_x_variant":[
+        "canal"
     ],
     "name:rus_x_preferred":[
         "\u043a\u0430\u043d\u0430\u043b"
     ],
     "name:sah_x_preferred":[
         "\u0423\u0443 \u0445\u0430\u043d\u0430\u0430\u043b\u0430"
+    ],
+    "name:sah_x_variant":[
+        "\u0443\u0443 \u0445\u0430\u043d\u0430\u0430\u043b\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c71\u1c5f\u1c5e\u1c5f"
     ],
     "name:scn_x_preferred":[
         "canali"
@@ -283,17 +394,32 @@
     "name:sgs_x_preferred":[
         "Kanals"
     ],
+    "name:sgs_x_variant":[
+        "kanals"
+    ],
     "name:sin_x_preferred":[
         "\u0d87\u0dbd"
     ],
     "name:slk_x_preferred":[
         "Prieplav"
     ],
+    "name:slk_x_variant":[
+        "prieplav"
+    ],
     "name:slv_x_preferred":[
         "Prekop"
     ],
+    "name:slv_x_variant":[
+        "prekop"
+    ],
+    "name:spa_x_preferred":[
+        "canal"
+    ],
     "name:sqi_x_preferred":[
         "Kanali"
+    ],
+    "name:sqi_x_variant":[
+        "kanali"
     ],
     "name:srp_x_preferred":[
         "\u043a\u0430\u043d\u0430\u043b"
@@ -304,6 +430,9 @@
     "name:swa_x_preferred":[
         "Mfereji"
     ],
+    "name:swa_x_variant":[
+        "mfereji"
+    ],
     "name:swe_x_preferred":[
         "kanal"
     ],
@@ -313,17 +442,29 @@
     "name:tat_x_preferred":[
         "Kanal"
     ],
+    "name:tat_x_variant":[
+        "kanal"
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c32\u0c41\u0c35"
     ],
     "name:tgk_x_preferred":[
         "\u041e\u0431\u0440\u043e\u04b3\u0430"
     ],
+    "name:tgk_x_variant":[
+        "\u043e\u0431\u0440\u043e\u04b3\u0430"
+    ],
     "name:tha_x_preferred":[
         "\u0e04\u0e25\u0e2d\u0e07"
     ],
     "name:tur_x_preferred":[
         "Ark"
+    ],
+    "name:tur_x_variant":[
+        "ark"
+    ],
+    "name:uig_x_preferred":[
+        "\u0642\u0627\u0646\u0627\u0644"
     ],
     "name:ukr_x_preferred":[
         "\u043a\u0430\u043d\u0430\u043b"
@@ -334,17 +475,32 @@
     "name:uzb_x_preferred":[
         "Kanal"
     ],
+    "name:uzb_x_variant":[
+        "kanal"
+    ],
     "name:vec_x_preferred":[
         "Canal artifexal"
+    ],
+    "name:vec_x_variant":[
+        "cana\u0142e"
     ],
     "name:vie_x_preferred":[
         "K\u00eanh \u0111\u00e0o"
     ],
+    "name:vie_x_variant":[
+        "k\u00eanh \u0111\u00e0o"
+    ],
     "name:war_x_preferred":[
         "Kal\u00ed"
     ],
+    "name:war_x_variant":[
+        "kal\u00ed"
+    ],
     "name:wuu_x_preferred":[
         "\u8fd0\u6cb3"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d5\u10d8\u10e0\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05e7\u05d0\u05e0\u05d0\u05dc"
@@ -387,7 +543,7 @@
         "wd:id":"Q12284"
     },
     "wof:country":"BR",
-    "wof:geomhash":"49729546f95d2ec6165d542f6cd05b53",
+    "wof:geomhash":"ecb2ba29f22b6cba39f344e96598839f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -400,7 +556,7 @@
         }
     ],
     "wof:id":101947085,
-    "wof:lastmodified":1577838304,
+    "wof:lastmodified":1690861806,
     "wof:name":"Canal",
     "wof:parent_id":404550645,
     "wof:placetype":"locality",
@@ -410,10 +566,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -41.60081108141652,
-    -11.82789981790837,
-    -41.59331450790647,
-    -11.82119305683333
+    -41.600811,
+    -11.8279,
+    -41.593315,
+    -11.821193
 ],
-  "geometry": {"coordinates":[[[-41.59620011613412,-11.82779998926923],[-41.60009963388914,-11.82789981790837],[-41.6008058875462,-11.8254939620628],[-41.60081108141652,-11.8254762691228],[-41.60048323777086,-11.82479407998571],[-41.60048322021113,-11.82479403821858],[-41.60048216132091,-11.82479127117404],[-41.60047996179635,-11.82478552347492],[-41.60047895424159,-11.82478289057764],[-41.60047815958526,-11.82478081401738],[-41.6004720091006,-11.82476474184543],[-41.60045263155214,-11.82471410530185],[-41.60044670912311,-11.82469862907507],[-41.60033071398269,-11.82439551575627],[-41.60014371714973,-11.82390686398717],[-41.59993003474258,-11.82334847866821],[-41.59992172963292,-11.82332677612658],[-41.59991881658427,-11.82331916387815],[-41.5994926593926,-11.82220554894499],[-41.59910519979389,-11.82119305683333],[-41.59882851854149,-11.82129979963957],[-41.59803271522811,-11.82160242906855],[-41.59748690905372,-11.82180998916309],[-41.59719999076006,-11.82190000002487],[-41.59647893623659,-11.82239916364153],[-41.59574953272647,-11.82290410700199],[-41.59331450790647,-11.82458979893861],[-41.59431161136449,-11.82570266918958],[-41.59620011613412,-11.82779998926923]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-41.5962,-11.8278],[-41.6001,-11.8279],[-41.600806,-11.825494],[-41.600811,-11.825476],[-41.600483,-11.824794],[-41.600483,-11.824794],[-41.600482,-11.824791],[-41.60048,-11.824786],[-41.600479,-11.824783],[-41.600478,-11.824781],[-41.600472,-11.824765],[-41.600453,-11.824714],[-41.600447,-11.824699],[-41.600331,-11.824396],[-41.600144,-11.823907],[-41.59993,-11.823348],[-41.599922,-11.823327],[-41.599919,-11.823319],[-41.599493,-11.822206],[-41.599105,-11.821193],[-41.598829,-11.8213],[-41.598033,-11.821602],[-41.597487,-11.82181],[-41.5972,-11.8219],[-41.596479,-11.822399],[-41.59575,-11.822904],[-41.593315,-11.82459],[-41.594312,-11.825703],[-41.5962,-11.8278]]],"type":"Polygon"}
 }
