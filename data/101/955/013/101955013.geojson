@@ -4,9 +4,9 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000491,
+    "geom:area":0.000492,
     "geom:area_square_m":5634346.284992,
-    "geom:bbox":"-51.2491530827,-22.0271257129,-51.2194784323,-22.0019925335",
+    "geom:bbox":"-51.249153,-22.027126,-51.219478,-22.001993",
     "geom:latitude":-22.014612,
     "geom:longitude":-51.234332,
     "iso:country":"BR",
@@ -22,8 +22,14 @@
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0987\u09af\u09bc\u09be\u09ac\u09c1"
     ],
+    "name:cat_x_preferred":[
+        "Caiabu"
+    ],
     "name:ceb_x_preferred":[
         "Caiabu"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u044f\u0431\u0443"
     ],
     "name:deu_x_preferred":[
         "Caiabu"
@@ -74,6 +80,12 @@
         "\u041a\u0430\u044f\u0431\u0443"
     ],
     "name:swe_x_preferred":[
+        "Caiabu"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u044f\u0431\u0443"
+    ],
+    "name:tur_x_preferred":[
         "Caiabu"
     ],
     "name:und_x_variant":[
@@ -135,7 +147,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0a74d01072d258c441a5169566eff2fb",
+    "wof:geomhash":"0557e23b2c9fd76de7e98df0a715d72d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,7 +163,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1582321004,
+    "wof:lastmodified":1690861511,
     "wof:name":"Caiabu",
     "wof:parent_id":404566225,
     "wof:placetype":"locality",
@@ -163,10 +175,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -51.24915308272998,
-    -22.02712571286247,
-    -51.21947843234423,
-    -22.00199253347687
+    -51.249153,
+    -22.027126,
+    -51.219478,
+    -22.001993
 ],
-  "geometry": {"coordinates":[[[-51.22098512639056,-22.01526263227846],[-51.2239251798484,-22.02712571286247],[-51.24593641097107,-22.02185980804209],[-51.24486500370585,-22.01790757772965],[-51.24915308272998,-22.01691395278235],[-51.24504967968649,-22.00199253347687],[-51.21947843234423,-22.0091851194468],[-51.22098512639056,-22.01526263227846]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-51.220985,-22.015263],[-51.223925,-22.027126],[-51.245936,-22.02186],[-51.244865,-22.017908],[-51.249153,-22.016914],[-51.24505,-22.001993],[-51.219478,-22.009185],[-51.220985,-22.015263]]],"type":"Polygon"}
 }

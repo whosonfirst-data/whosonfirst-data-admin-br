@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000329,
     "geom:area_square_m":3977401.491074,
-    "geom:bbox":"-48.2440128239,-11.9912725128,-48.2285606887,-11.9625056884",
-    "geom:latitude":-11.97647,
+    "geom:bbox":"-48.244013,-11.991273,-48.228561,-11.962506",
+    "geom:latitude":-11.976471,
     "geom:longitude":-48.235963,
     "iso:country":"BR",
     "lbl:latitude":-11.976445,
@@ -22,14 +22,23 @@
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09ad\u09be\u09b2\u09c7\u09b0\u09bf\u0993 \u09a1\u09be \u09a8\u09be\u099f\u09bf\u09ad\u09bf\u09a1\u09be\u09a1\u09c7"
     ],
+    "name:cat_x_preferred":[
+        "S\u00e3o Val\u00e9rio"
+    ],
     "name:ceb_x_preferred":[
         "S\u00e3o Val\u00e9rio da Natividade"
     ],
     "name:deu_x_preferred":[
         "S\u00e3o Val\u00e9rio da Natividade"
     ],
+    "name:deu_x_variant":[
+        "S\u00e3o Val\u00e9rio"
+    ],
     "name:eng_x_preferred":[
         "S\u00e3o Val\u00e9rio da Natividade"
+    ],
+    "name:eng_x_variant":[
+        "S\u00e3o Val\u00e9rio"
     ],
     "name:epo_x_preferred":[
         "S\u00e3o Val\u00e9rio"
@@ -48,6 +57,9 @@
     ],
     "name:ita_x_preferred":[
         "S\u00e3o Val\u00e9rio da Natividade"
+    ],
+    "name:ita_x_variant":[
+        "S\u00e3o Val\u00e9rio"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0430\u043d-\u0412\u0430\u043b\u0435\u0440\u0438\u0443-\u0434\u0430-\u041d\u0430\u0442\u0438\u0432\u0438\u0434\u0430\u0434\u0438"
@@ -79,7 +91,8 @@
         "Sao Valerio da Natividade",
         "S\u00e3o Valerio",
         "Val\u00e9rio",
-        "S\u00e3o Val\u00e9rio da Natividade"
+        "S\u00e3o Val\u00e9rio da Natividade",
+        "S\u00e3o Val\u00e9rio"
     ],
     "name:ron_x_preferred":[
         "S\u00e3o Val\u00e9rio da Natividade"
@@ -90,8 +103,14 @@
     "name:spa_x_preferred":[
         "S\u00e3o Val\u00e9rio da Natividade"
     ],
+    "name:spa_x_variant":[
+        "S\u00e3o Val\u00e9rio"
+    ],
     "name:swe_x_preferred":[
         "S\u00e3o Val\u00e9rio da Natividade"
+    ],
+    "name:tur_x_preferred":[
+        "S\u00e3o Val\u00e9rio"
     ],
     "name:vie_x_preferred":[
         "S\u00e3o Val\u00e9rio da Natividade"
@@ -139,7 +158,7 @@
         "wk:page":"S\u00e3o Val\u00e9rio da Natividade"
     },
     "wof:country":"BR",
-    "wof:geomhash":"c56ff8c6194e7c5824ddff669a2dbb9b",
+    "wof:geomhash":"c577d997f74d966b78696971ecd6d65b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -154,7 +173,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1577826382,
+    "wof:lastmodified":1690862556,
     "wof:name":"S\u00e3o Val\u00e9rio da Natividade",
     "wof:parent_id":102062723,
     "wof:placetype":"locality",
@@ -164,10 +183,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -48.2440128238689,
-    -11.99127251279377,
-    -48.22856068869955,
-    -11.96250568840799
+    -48.244013,
+    -11.991273,
+    -48.228561,
+    -11.962506
 ],
-  "geometry": {"coordinates":[[[-48.22971211173557,-11.97619550953537],[-48.23199988389121,-11.99127251279377],[-48.23624481744884,-11.99028096491743],[-48.24029678334419,-11.98864619423336],[-48.24048666218981,-11.98848451628278],[-48.2407601838681,-11.98825106279486],[-48.24294113930213,-11.98638959552031],[-48.2440128238689,-11.98572450356938],[-48.24213508925053,-11.97019350080286],[-48.24082401614419,-11.96886017945344],[-48.24053278483329,-11.96750970561046],[-48.23982208399121,-11.96421410221388],[-48.23513410844096,-11.9632633520885],[-48.23251745549482,-11.96273267886065],[-48.22997372672027,-11.96253592635889],[-48.22958279321257,-11.96250568840799],[-48.22856068869955,-11.9634428829624],[-48.22906261890992,-11.97135029305516],[-48.22971211173557,-11.97619550953537]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-48.229712,-11.976196],[-48.232,-11.991273],[-48.236245,-11.990281],[-48.240297,-11.988646],[-48.240487,-11.988485],[-48.24076,-11.988251],[-48.242941,-11.98639],[-48.244013,-11.985725],[-48.242135,-11.970194],[-48.240824,-11.96886],[-48.240533,-11.96751],[-48.239822,-11.964214],[-48.235134,-11.963263],[-48.232517,-11.962733],[-48.229974,-11.962536],[-48.229583,-11.962506],[-48.228561,-11.963443],[-48.229063,-11.97135],[-48.229712,-11.976196]]],"type":"Polygon"}
 }

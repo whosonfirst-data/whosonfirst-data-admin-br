@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000094,
     "geom:area_square_m":1158045.889328,
-    "geom:bbox":"-39.6915004613,-3.09618849498,-39.6799309721,-3.08288156963",
+    "geom:bbox":"-39.6915,-3.096188,-39.679931,-3.082882",
     "geom:latitude":-3.088864,
     "geom:longitude":-39.686883,
     "iso:country":"BR",
@@ -22,14 +22,23 @@
     "name:afr_x_preferred":[
         "Culicidae"
     ],
+    "name:aka_x_preferred":[
+        "Ntontom"
+    ],
     "name:amh_x_preferred":[
         "\u1275\u1295\u129d"
     ],
     "name:ara_x_preferred":[
         "\u0628\u0639\u0648\u0636\u064a\u0627\u062a"
     ],
+    "name:arc_x_preferred":[
+        "\u0712\u0729\u0710"
+    ],
     "name:arg_x_preferred":[
         "Culicidae"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0639\u0648\u0636\u064a\u0627\u062a"
     ],
     "name:asm_x_preferred":[
         "\u09ae\u09b9"
@@ -52,8 +61,14 @@
     "name:bak_x_preferred":[
         "\u0421\u0435\u0440\u04d9\u043a\u04d9\u0439\u0499\u04d9\u0440"
     ],
+    "name:ban_x_preferred":[
+        "Legu"
+    ],
     "name:bar_x_preferred":[
         "G\u00f6sn"
+    ],
+    "name:bcl_x_preferred":[
+        "Namok"
     ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u043c\u0430\u0440\u044b"
@@ -76,6 +91,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043c\u0430\u0440\u0438"
     ],
+    "name:bul_x_variant":[
+        "\u043a\u043e\u043c\u0430\u0440\u0438"
+    ],
     "name:cat_x_preferred":[
         "cul\u00edcids"
     ],
@@ -97,14 +115,23 @@
     "name:ckb_x_preferred":[
         "\u0645\u06ce\u0634\u0648\u0648\u0644\u06d5"
     ],
+    "name:cor_x_preferred":[
+        "Moskito"
+    ],
     "name:cos_x_preferred":[
         "Culicidae"
+    ],
+    "name:crh_x_preferred":[
+        "s\u00fcyr\u00fcsenek"
     ],
     "name:csb_x_preferred":[
         "M\u00ebga"
     ],
     "name:cym_x_preferred":[
         "Mosgito"
+    ],
+    "name:dag_x_preferred":[
+        "Duunga"
     ],
     "name:dan_x_preferred":[
         "stikmyg"
@@ -130,11 +157,17 @@
     "name:eus_x_preferred":[
         "eltxo"
     ],
+    "name:ext_x_preferred":[
+        "Culicidae"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0634\u0647"
     ],
     "name:fin_x_preferred":[
         "hyttynen"
+    ],
+    "name:fin_x_variant":[
+        "hyttyset"
     ],
     "name:fra_x_preferred":[
         "Culicidae"
@@ -153,6 +186,9 @@
     ],
     "name:gle_x_preferred":[
         "Muisc\u00edt"
+    ],
+    "name:gle_x_variant":[
+        "muisc\u00edt"
     ],
     "name:glg_x_preferred":[
         "Mosquito"
@@ -208,6 +244,9 @@
     "name:ind_x_preferred":[
         "Nyamuk"
     ],
+    "name:ind_x_variant":[
+        "nyamuk"
+    ],
     "name:inh_x_preferred":[
         "\u0417I\u043e\u043a\u043c\u043e\u0437\u0430"
     ],
@@ -259,6 +298,9 @@
     "name:kur_x_preferred":[
         "Mixmixk"
     ],
+    "name:lad_x_preferred":[
+        "Culicidae"
+    ],
     "name:lat_x_preferred":[
         "Culicidae"
     ],
@@ -283,11 +325,17 @@
     "name:ltz_x_preferred":[
         "Culicidae"
     ],
+    "name:ltz_x_variant":[
+        "Mustiken"
+    ],
     "name:mal_x_preferred":[
         "\u0d15\u0d4a\u0d24\u0d41\u0d15\u0d4d\u200c"
     ],
     "name:mar_x_preferred":[
         "\u0921\u093e\u0938"
+    ],
+    "name:mcn_x_preferred":[
+        "v\u00f9r\u00fadn\u00e0"
     ],
     "name:mhr_x_preferred":[
         "\u0428\u044b\u04a5\u0430"
@@ -295,11 +343,23 @@
     "name:min_x_preferred":[
         "Culicidae"
     ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u0440\u0435\u0446"
+    ],
     "name:mlg_x_preferred":[
         "\u30ab"
     ],
+    "name:mni_x_preferred":[
+        "\uabc0\uabe5\uabe1"
+    ],
+    "name:mri_x_preferred":[
+        "waeroa"
+    ],
     "name:msa_x_preferred":[
         "Nyamuk"
+    ],
+    "name:msa_x_variant":[
+        "nyamuk"
     ],
     "name:mya_x_preferred":[
         "\u1001\u103c\u1004\u103a"
@@ -334,8 +394,17 @@
     "name:nno_x_preferred":[
         "stikkemygg"
     ],
+    "name:nno_x_variant":[
+        "stikkmygg"
+    ],
     "name:nob_x_preferred":[
         "stikkemygg"
+    ],
+    "name:nob_x_variant":[
+        "stikkmygg"
+    ],
+    "name:nov_x_preferred":[
+        "Culicidae"
     ],
     "name:nrm_x_preferred":[
         "Culicidae"
@@ -351,6 +420,9 @@
     ],
     "name:oss_x_preferred":[
         "\u041a\u044a\u043e\u0433\u044a\u043e"
+    ],
+    "name:pag_x_preferred":[
+        "Ageyet"
     ],
     "name:pam_x_preferred":[
         "Amuk"
@@ -388,8 +460,17 @@
     "name:ron_x_preferred":[
         "\u021a\u00e2n\u021bar"
     ],
+    "name:ron_x_variant":[
+        "\u021b\u00e2n\u021bar"
+    ],
+    "name:rup_x_preferred":[
+        "Culicidae"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u043e\u0432\u043e\u0441\u043e\u0441\u0443\u0449\u0438\u0435 \u043a\u043e\u043c\u0430\u0440\u044b"
+    ],
+    "name:sah_x_preferred":[
+        "\u0411\u044b\u0440\u0434\u0430\u0445"
     ],
     "name:sat_x_preferred":[
         "\u1c65\u1c64\u1c60\u1c6c\u1c64\u1c61"
@@ -402,6 +483,9 @@
     ],
     "name:sgs_x_preferred":[
         "Koisis"
+    ],
+    "name:sgs_x_variant":[
+        "K\u014dsis"
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0daf\u0dd4\u0dbb\u0dd4 \u0d9c\u0dab\u0dba"
@@ -445,6 +529,9 @@
     "name:szl_x_preferred":[
         "Kopruchowate"
     ],
+    "name:szy_x_preferred":[
+        "likes"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bca\u0b9a\u0bc1"
     ],
@@ -457,6 +544,9 @@
     "name:tel_x_preferred":[
         "\u0c26\u0c4b\u0c2e"
     ],
+    "name:tgk_x_preferred":[
+        "\u0425\u043e\u043c\u04ef\u0448\u0430\u043a"
+    ],
     "name:tgl_x_preferred":[
         "Lamok"
     ],
@@ -468,6 +558,9 @@
     ],
     "name:tur_x_preferred":[
         "Sivrisinek"
+    ],
+    "name:tyv_x_preferred":[
+        "\u042b\u0440\u0433\u0430\u043a-\u0441\u044d\u044d\u043a\u0442\u0435\u0440"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0430\u0440\u0456"
@@ -555,7 +648,7 @@
         "wd:id":"Q7367"
     },
     "wof:country":"BR",
-    "wof:geomhash":"8d75499a9da00d5a938059427c7a4518",
+    "wof:geomhash":"53a3eb3f6257642a9e9c05e2a87729ee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -568,7 +661,7 @@
         }
     ],
     "wof:id":101944347,
-    "wof:lastmodified":1577839688,
+    "wof:lastmodified":1690862693,
     "wof:name":"Mosquito",
     "wof:parent_id":404552327,
     "wof:placetype":"locality",
@@ -578,10 +671,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -39.6915004612658,
-    -3.09618849497651,
-    -39.6799309720791,
-    -3.0828815696266
+    -39.6915,
+    -3.096188,
+    -39.679931,
+    -3.082882
 ],
-  "geometry": {"coordinates":[[[-39.690676024458,-3.0828815696266],[-39.679987330064,-3.08445315229135],[-39.6799309720791,-3.0847558751817],[-39.6799551255012,-3.08533233685586],[-39.6813399217017,-3.08634033967157],[-39.68244775866209,-3.08688137632665],[-39.6834847455843,-3.08694578545225],[-39.683768145737,-3.08745461754453],[-39.6840322231519,-3.08938045040011],[-39.6840322231519,-3.09024353268321],[-39.6827311588147,-3.09227886105231],[-39.6822223267224,-3.09292939322092],[-39.682170799422,-3.09327720249918],[-39.68231894041079,-3.09373450729098],[-39.6828277725031,-3.09406943474412],[-39.68327219546979,-3.09424333938325],[-39.6839742549389,-3.09399214379339],[-39.6845217325065,-3.09363145269001],[-39.6849661554732,-3.093470429876],[-39.68534616931429,-3.09341246166295],[-39.6857390649805,-3.09360568903977],[-39.6860868742587,-3.09413384386973],[-39.6867889337278,-3.09546711276974],[-39.6873782772271,-3.09618849497651],[-39.6896102419671,-3.09568158080233],[-39.6915004612658,-3.08939977313779],[-39.690676024458,-3.0828815696266]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-39.690676,-3.082882],[-39.679987,-3.084453],[-39.679931,-3.084756],[-39.679955,-3.085332],[-39.68134,-3.08634],[-39.682448,-3.086881],[-39.683485,-3.086946],[-39.683768,-3.087455],[-39.684032,-3.08938],[-39.684032,-3.090244],[-39.682731,-3.092279],[-39.682222,-3.092929],[-39.682171,-3.093277],[-39.682319,-3.093735],[-39.682828,-3.094069],[-39.683272,-3.094243],[-39.683974,-3.093992],[-39.684522,-3.093631],[-39.684966,-3.09347],[-39.685346,-3.093412],[-39.685739,-3.093606],[-39.686087,-3.094134],[-39.686789,-3.095467],[-39.687378,-3.096188],[-39.68961,-3.095682],[-39.6915,-3.0894],[-39.690676,-3.082882]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000074,
     "geom:area_square_m":907421.772162,
-    "geom:bbox":"-44.2236770254,-5.56869146418,-44.2024378299,-5.56217063861",
+    "geom:bbox":"-44.223677,-5.568691,-44.202438,-5.562171",
     "geom:latitude":-5.564735,
     "geom:longitude":-44.211164,
     "iso:country":"BR",
@@ -43,6 +43,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0438\u043e\u043b\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u0432\u0438\u043e\u043b\u0430"
+    ],
     "name:cat_x_preferred":[
         "viola"
     ],
@@ -58,6 +61,9 @@
     "name:cym_x_preferred":[
         "Fiola"
     ],
+    "name:cym_x_variant":[
+        "fiola"
+    ],
     "name:dan_x_preferred":[
         "bratsch"
     ],
@@ -67,6 +73,9 @@
     "name:ell_x_preferred":[
         "\u0392\u03b9\u03cc\u03bb\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u03b2\u03b9\u03cc\u03bb\u03b1"
+    ],
     "name:eng_x_preferred":[
         "viola"
     ],
@@ -75,6 +84,9 @@
     ],
     "name:est_x_preferred":[
         "Vioola"
+    ],
+    "name:est_x_variant":[
+        "vioola"
     ],
     "name:eus_x_preferred":[
         "biola"
@@ -97,8 +109,14 @@
     "name:gle_x_preferred":[
         "Vi\u00f3la"
     ],
+    "name:gle_x_variant":[
+        "vi\u00f3la"
+    ],
     "name:glg_x_preferred":[
         "Viola"
+    ],
+    "name:glv_x_preferred":[
+        "veeoiley"
     ],
     "name:gsw_x_preferred":[
         "Bratsche"
@@ -115,11 +133,20 @@
     "name:hye_x_preferred":[
         "\u0531\u056c\u057f"
     ],
+    "name:hye_x_variant":[
+        "\u0561\u056c\u057f"
+    ],
     "name:ido_x_preferred":[
         "Alto"
     ],
     "name:ile_x_preferred":[
         "Bassviolin"
+    ],
+    "name:ina_x_preferred":[
+        "Viola"
+    ],
+    "name:ind_x_preferred":[
+        "Viola"
     ],
     "name:isl_x_preferred":[
         "V\u00ed\u00f3la"
@@ -157,11 +184,20 @@
     "name:mkd_x_preferred":[
         "\u0412\u0438\u043e\u043b\u0430"
     ],
+    "name:mlt_x_preferred":[
+        "vjola"
+    ],
+    "name:mon_x_preferred":[
+        "\u042d\u0440\u0434\u04af\u04af \u0445\u0438\u0439\u043b"
+    ],
     "name:msa_x_preferred":[
         "Viola"
     ],
     "name:mwl_x_preferred":[
         "Biuola"
+    ],
+    "name:mya_x_preferred":[
+        "\u1017\u102e\u101a\u102d\u102f\u101c\u102c"
     ],
     "name:nld_x_preferred":[
         "altviool"
@@ -199,6 +235,15 @@
     "name:slv_x_preferred":[
         "Viola"
     ],
+    "name:slv_x_variant":[
+        "viola"
+    ],
+    "name:smn_x_preferred":[
+        "alttovivlu"
+    ],
+    "name:sms_x_preferred":[
+        "alttoviulu"
+    ],
     "name:spa_x_preferred":[
         "viola"
     ],
@@ -217,6 +262,9 @@
     "name:tam_x_preferred":[
         "\u0bb5\u0bbf\u0baf\u0bcb\u0bb2\u0bae\u0bcd"
     ],
+    "name:tgk_x_preferred":[
+        "\u0410\u043b\u0442"
+    ],
     "name:tgl_x_preferred":[
         "Biyola"
     ],
@@ -228,6 +276,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043b\u044c\u0442"
+    ],
+    "name:ukr_x_variant":[
+        "\u0430\u043b\u044c\u0442"
     ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u06cc\u0648\u0644\u0627"
@@ -241,8 +292,14 @@
     "name:vie_x_preferred":[
         "Viola"
     ],
+    "name:vie_x_variant":[
+        "viola"
+    ],
     "name:war_x_preferred":[
         "Viola"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e2d\u63d0\u7434"
     ],
     "name:yid_x_preferred":[
         "\u05d5\u05d5\u05d9\u05d0\u05dc\u05e2"
@@ -284,7 +341,7 @@
         "wd:id":"Q80284"
     },
     "wof:country":"BR",
-    "wof:geomhash":"5366cfcd6c0d5e45ecdb7a54384ac355",
+    "wof:geomhash":"4bcbf609f3029e170f25101043ff8edd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -296,7 +353,7 @@
         }
     ],
     "wof:id":101980335,
-    "wof:lastmodified":1577838256,
+    "wof:lastmodified":1690862550,
     "wof:name":"Viola",
     "wof:parent_id":102053155,
     "wof:placetype":"locality",
@@ -306,10 +363,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -44.22367702540439,
-    -5.568691464177,
-    -44.20243782988809,
-    -5.56217063860845
+    -44.223677,
+    -5.568691,
+    -44.202438,
+    -5.562171
 ],
-  "geometry": {"coordinates":[[[-44.20243782988809,-5.56431338654604],[-44.2036652457198,-5.56723660146734],[-44.20376859662269,-5.568691464177],[-44.2098922134883,-5.56780083368353],[-44.2153315544931,-5.56508116318116],[-44.2215285045418,-5.56380347042986],[-44.2224438507082,-5.56456625890179],[-44.2231273698148,-5.56331014652692],[-44.22367702540439,-5.56230003696122],[-44.21270731102589,-5.56217063860845],[-44.2047574145448,-5.56334442831779],[-44.2046881546559,-5.56335465443144],[-44.2024880564668,-5.56429198793075],[-44.2024444272283,-5.56431057580425],[-44.20243782988809,-5.56431338654604]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-44.202438,-5.564313],[-44.203665,-5.567237],[-44.203769,-5.568691],[-44.209892,-5.567801],[-44.215332,-5.565081],[-44.221529,-5.563803],[-44.222444,-5.564566],[-44.223127,-5.56331],[-44.223677,-5.5623],[-44.212707,-5.562171],[-44.204757,-5.563344],[-44.204688,-5.563355],[-44.202488,-5.564292],[-44.202444,-5.564311],[-44.202438,-5.564313]]],"type":"Polygon"}
 }

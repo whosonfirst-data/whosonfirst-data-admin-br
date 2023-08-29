@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
     "geom:area_square_m":486973.695505,
-    "geom:bbox":"-38.3628209696,-5.43035611238,-38.3529389513,-5.42161252804",
+    "geom:bbox":"-38.362821,-5.430356,-38.352939,-5.421613",
     "geom:latitude":-5.425632,
-    "geom:longitude":-38.357065,
+    "geom:longitude":-38.357066,
     "iso:country":"BR",
     "lbl:latitude":-5.425234,
     "lbl:longitude":-38.356991,
@@ -22,11 +22,17 @@
     "name:eng_x_preferred":[
         "Cabrito"
     ],
+    "name:jav_x_preferred":[
+        "Cabrito"
+    ],
     "name:jpn_x_preferred":[
         "\u30ab\u30d6\u30ea\u30c8"
     ],
     "name:kor_x_preferred":[
         "\uce74\ube0c\ub9ac\ud1a0"
+    ],
+    "name:lat_x_preferred":[
+        "Haedina"
     ],
     "name:nld_x_preferred":[
         "Cabrito"
@@ -36,6 +42,9 @@
     ],
     "name:spa_x_preferred":[
         "Cabrito"
+    ],
+    "name:spa_x_variant":[
+        "cabrito"
     ],
     "name:tur_x_preferred":[
         "Cabrito"
@@ -70,7 +79,7 @@
         "wd:id":"Q5878377"
     },
     "wof:country":"BR",
-    "wof:geomhash":"09370deb8c94d0f62a4c014620c7c281",
+    "wof:geomhash":"fe8e06031bba3451aa8f6e41fccca975",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":101944799,
-    "wof:lastmodified":1566625948,
+    "wof:lastmodified":1690862675,
     "wof:name":"Cabrito",
     "wof:parent_id":404552311,
     "wof:placetype":"locality",
@@ -92,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -38.3628209696145,
-    -5.43035611238299,
-    -38.3529389513245,
-    -5.42161252804266
+    -38.362821,
+    -5.430356,
+    -38.352939,
+    -5.421613
 ],
-  "geometry": {"coordinates":[[[-38.362819477655,-5.42442643479609],[-38.3553558821793,-5.42161252804266],[-38.3529389513245,-5.42979107317641],[-38.3534790304783,-5.43035611238299],[-38.3628209696145,-5.4247249516193],[-38.362819477655,-5.42442643479609]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-38.362819,-5.424426],[-38.355356,-5.421613],[-38.352939,-5.429791],[-38.353479,-5.430356],[-38.362821,-5.424725],[-38.362819,-5.424426]]],"type":"Polygon"}
 }

@@ -4,9 +4,9 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000048,
+    "geom:area":0.000049,
     "geom:area_square_m":588874.950655,
-    "geom:bbox":"-42.992315574,-10.906666591,-42.980396345,-10.897183706",
+    "geom:bbox":"-42.992316,-10.906667,-42.980396,-10.897184",
     "geom:latitude":-10.90245,
     "geom:longitude":-42.985815,
     "iso:country":"BR",
@@ -22,8 +22,14 @@
     "name:als_x_preferred":[
         "Wanderlei Silva"
     ],
+    "name:arz_x_preferred":[
+        "\u0648\u0627\u0646\u062f\u0631\u0644\u0649 \u0633\u064a\u0644\u0641\u0627"
+    ],
     "name:ast_x_preferred":[
         "Wanderlei Silva"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u043d\u0434\u0435\u0440\u043b\u0435\u0439 \u0421\u0438\u043b\u0432\u0430"
     ],
     "name:cat_x_preferred":[
         "Wanderlei Silva"
@@ -37,10 +43,16 @@
     "name:eng_x_preferred":[
         "Wanderlei Silva"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0646\u062f\u0631\u0644\u06cc \u0633\u06cc\u0644\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Wanderlei Silva"
     ],
     "name:fra_x_preferred":[
+        "Wanderlei Silva"
+    ],
+    "name:gle_x_preferred":[
         "Wanderlei Silva"
     ],
     "name:gsw_x_preferred":[
@@ -77,10 +89,16 @@
     "name:rus_x_preferred":[
         "\u0421\u0438\u043b\u0432\u0430"
     ],
+    "name:ryu_x_preferred":[
+        "\u30f4\u30a1\u30f3\u30c0\u30ec\u30a4\u30fb\u30b7\u30a6\u30d0"
+    ],
     "name:slv_x_preferred":[
         "Wanderlei Silva"
     ],
     "name:spa_x_preferred":[
+        "Wanderlei Silva"
+    ],
+    "name:sqi_x_preferred":[
         "Wanderlei Silva"
     ],
     "name:swe_x_preferred":[
@@ -125,7 +143,7 @@
         "wd:id":"Q458749"
     },
     "wof:country":"BR",
-    "wof:geomhash":"3838c3db83aab8d425e45b429f31fa0c",
+    "wof:geomhash":"20082afada383ce9cd5c86b724a0c77c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -140,7 +158,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566624125,
+    "wof:lastmodified":1690861653,
     "wof:name":"Wanderlei",
     "wof:parent_id":404550501,
     "wof:placetype":"locality",
@@ -150,10 +168,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -42.9923155739999,
-    -10.9066665909999,
-    -42.9803963449999,
-    -10.8971837059999
+    -42.992316,
+    -10.906667,
+    -42.980396,
+    -10.897184
 ],
-  "geometry": {"coordinates":[[[-42.9923155739999,-10.9060273269999],[-42.9858137689999,-10.899533737],[-42.98522486899989,-10.8986829009999],[-42.98443489999989,-10.8978240799999],[-42.9836148329999,-10.8971837059999],[-42.9803963449999,-10.8994028459999],[-42.9807914959999,-10.9001961799999],[-42.98169226499989,-10.9008323059999],[-42.9819624149999,-10.901197324],[-42.98273360499989,-10.9026091439999],[-42.9830648909999,-10.9030038719999],[-42.9831790699999,-10.9034672089999],[-42.9856317144383,-10.9058131960009],[-42.9865239079999,-10.9066665909999],[-42.9923155739999,-10.9060273269999]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-42.992316,-10.906027],[-42.985814,-10.899534],[-42.985225,-10.898683],[-42.984435,-10.897824],[-42.983615,-10.897184],[-42.980396,-10.899403],[-42.980791,-10.900196],[-42.981692,-10.900832],[-42.981962,-10.901197],[-42.982734,-10.902609],[-42.983065,-10.903004],[-42.983179,-10.903467],[-42.985632,-10.905813],[-42.986524,-10.906667],[-42.992316,-10.906027]]],"type":"Polygon"}
 }

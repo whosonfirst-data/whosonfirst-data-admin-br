@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000089,
     "geom:area_square_m":1081602.762152,
-    "geom:bbox":"-41.85901702,-11.9398200614,-41.8474946822,-11.9245654567",
+    "geom:bbox":"-41.859017,-11.93982,-41.847495,-11.924565",
     "geom:latitude":-11.931776,
     "geom:longitude":-41.853591,
     "iso:country":"BR",
@@ -22,11 +22,23 @@
     "name:ara_x_preferred":[
         "\u0635\u0647\u0631\u064a\u062c"
     ],
+    "name:cat_x_preferred":[
+        "cisterna"
+    ],
     "name:eng_x_preferred":[
         "cisterna"
     ],
     "name:fas_x_preferred":[
         "afghanistan"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u06cc\u0633\u062a\u0631\u0646\u0627"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0941\u0923\u094d\u0921"
+    ],
+    "name:hun_x_preferred":[
+        "Golgi-zs\u00e1kok"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30b9\u30c6\u30eb\u30ca"
@@ -71,7 +83,7 @@
         "wd:id":"Q2390792"
     },
     "wof:country":"BR",
-    "wof:geomhash":"4862ae12bc8cbdd3a38542961686e523",
+    "wof:geomhash":"aed7c83c76b8dfbb155ab15ccf33f7d7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":101949477,
-    "wof:lastmodified":1577839509,
+    "wof:lastmodified":1690861876,
     "wof:name":"Cisterna",
     "wof:parent_id":404552063,
     "wof:placetype":"locality",
@@ -94,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -41.8590170200336,
-    -11.939820061449,
-    -41.8474946822305,
-    -11.9245654566813
+    -41.859017,
+    -11.93982,
+    -41.847495,
+    -11.924565
 ],
-  "geometry": {"coordinates":[[[-41.8539847538291,-11.9245654566813],[-41.8474946822305,-11.9339994674701],[-41.854191078677,-11.9396388925832],[-41.8544062031843,-11.939820061449],[-41.8589466631259,-11.9269903135091],[-41.8590170200336,-11.9267915095548],[-41.8539847538291,-11.9245654566813]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-41.853985,-11.924565],[-41.847495,-11.933999],[-41.854191,-11.939639],[-41.854406,-11.93982],[-41.858947,-11.92699],[-41.859017,-11.926792],[-41.853985,-11.924565]]],"type":"Polygon"}
 }

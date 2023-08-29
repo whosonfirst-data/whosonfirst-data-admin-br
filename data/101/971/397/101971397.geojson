@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
     "geom:area_square_m":3253282.287397,
-    "geom:bbox":"-41.2453521877,-15.1538112721,-41.219093169,-15.1327540433",
+    "geom:bbox":"-41.245352,-15.153811,-41.219093,-15.132754",
     "geom:latitude":-15.143452,
     "geom:longitude":-41.234425,
     "iso:country":"BR",
@@ -21,6 +21,9 @@
     "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u121a\u1325\u121a\u1323"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0631\u0649 \u0628\u064a\u0631\u0649"
     ],
     "name:ast_x_preferred":[
         "Capsicum frutescens \u2018Piri Piri\u2019"
@@ -40,14 +43,38 @@
     "name:eng_x_preferred":[
         "Piri piri"
     ],
+    "name:eng_x_variant":[
+        "piri piri"
+    ],
+    "name:eus_x_preferred":[
+        "Piri-piri"
+    ],
+    "name:fin_x_preferred":[
+        "Capsicum frutescens \u2018Piri Piri\u2019"
+    ],
     "name:fra_x_preferred":[
         "Pili-pili"
+    ],
+    "name:gle_x_preferred":[
+        "Capsicum frutescens \u2018Piri Piri\u2019"
     ],
     "name:hun_x_preferred":[
         "Afrikai mad\u00e1rszem"
     ],
+    "name:hun_x_variant":[
+        "afrikai mad\u00e1rszem"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u056b\u0580\u056b-\u057a\u056b\u0580\u056b"
+    ],
+    "name:ibo_x_preferred":[
+        "Peri-peri"
+    ],
     "name:ita_x_preferred":[
         "Bird's eye"
+    ],
+    "name:jav_x_preferred":[
+        "Peri-peri"
     ],
     "name:jpn_x_preferred":[
         "\u30d4\u30ea\u30d4\u30ea"
@@ -67,17 +94,44 @@
     "name:pol_x_preferred":[
         "Piri-piri"
     ],
+    "name:por_x_preferred":[
+        "Capsicum frutescens \u2018Piri Piri\u2019"
+    ],
     "name:ron_x_preferred":[
         "Piri piri"
     ],
     "name:rus_x_preferred":[
         "Capsicum frutescens \u2018Piri Piri\u2019"
     ],
+    "name:spa_x_preferred":[
+        "Piri-piri"
+    ],
+    "name:sqi_x_preferred":[
+        "Capsicum frutescens \u2018Piri Piri\u2019"
+    ],
     "name:ukr_x_preferred":[
+        "Capsicum frutescens \u2018Piri Piri\u2019"
+    ],
+    "name:uzb_x_preferred":[
+        "Piri-piri"
+    ],
+    "name:vec_x_preferred":[
+        "piri piri"
+    ],
+    "name:vie_x_preferred":[
+        "Capsicum frutescens \u2018Piri Piri\u2019"
+    ],
+    "name:war_x_preferred":[
         "Capsicum frutescens \u2018Piri Piri\u2019"
     ],
     "name:yue_x_preferred":[
         "\u9739\u9742\u6912"
+    ],
+    "name:yue_x_variant":[
+        "\u76ae\u91cc\u76ae\u91cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u91cc\u76ae\u91cc"
     ],
     "qs:a0":"Brasil",
     "qs:a1":"*BA",
@@ -111,7 +165,7 @@
         "wd:id":"Q512580"
     },
     "wof:country":"BR",
-    "wof:geomhash":"6ffdd11171d04977f91157575fc2d8e4",
+    "wof:geomhash":"2c0e363e42ee6129a50f7f7ad6fe6bac",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +178,7 @@
         }
     ],
     "wof:id":101971397,
-    "wof:lastmodified":1577839953,
+    "wof:lastmodified":1690861858,
     "wof:name":"Peri Peri",
     "wof:parent_id":404550545,
     "wof:placetype":"locality",
@@ -134,10 +188,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -41.24535218767369,
-    -15.1538112721397,
-    -41.2190931690394,
-    -15.1327540432565
+    -41.245352,
+    -15.153811,
+    -41.219093,
+    -15.132754
 ],
-  "geometry": {"coordinates":[[[-41.24535218767369,-15.14607839042],[-41.2377770539581,-15.1327540432565],[-41.2373930721898,-15.1329669334034],[-41.2190931690394,-15.1431129074869],[-41.240411729249,-15.1538112721397],[-41.2414443492582,-15.1521949993758],[-41.24535218767369,-15.14607839042]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-41.245352,-15.146078],[-41.237777,-15.132754],[-41.237393,-15.132967],[-41.219093,-15.143113],[-41.240412,-15.153811],[-41.241444,-15.152195],[-41.245352,-15.146078]]],"type":"Polygon"}
 }

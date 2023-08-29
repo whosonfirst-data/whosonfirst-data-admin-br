@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000096,
     "geom:area_square_m":1178284.55873,
-    "geom:bbox":"-44.7386488274,-5.72958772867,-44.7137616351,-5.70970219265",
+    "geom:bbox":"-44.738649,-5.729588,-44.713762,-5.709702",
     "geom:latitude":-5.720807,
-    "geom:longitude":-44.727748,
+    "geom:longitude":-44.727749,
     "iso:country":"BR",
     "lbl:latitude":-5.720605,
     "lbl:longitude":-44.727749,
@@ -34,11 +34,20 @@
     "name:cat_x_preferred":[
         "Maharaj\u00e0"
     ],
+    "name:cat_x_variant":[
+        "maharaj\u00e0"
+    ],
     "name:ces_x_preferred":[
         "Mah\u00e1r\u00e1d\u017ea"
     ],
+    "name:ces_x_variant":[
+        "mah\u00e1r\u00e1d\u017ea"
+    ],
     "name:ckb_x_preferred":[
         "\u0645\u0627\u0647\u0627\u0631\u0627\u062c\u0627"
+    ],
+    "name:cym_x_preferred":[
+        "Maharaja"
     ],
     "name:dan_x_preferred":[
         "Maharaja"
@@ -67,8 +76,14 @@
     "name:fra_x_preferred":[
         "Maharaja"
     ],
+    "name:fra_x_variant":[
+        "maharaja"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0ab9\u0abe\u0ab0\u0abe\u0a9c\u0abe"
+    ],
+    "name:hau_x_preferred":[
+        "Maharaja"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0939\u093e\u0930\u093e\u091c\u093e"
@@ -90,6 +105,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30cf\u30e9\u30b8\u30e3"
+    ],
+    "name:kas_x_preferred":[
+        "\u0645\u064e\u06c1\u0627\u0631\u0627\u062c"
     ],
     "name:kor_x_preferred":[
         "\ub9c8\ud558\ub77c\uc790"
@@ -115,6 +133,9 @@
     "name:nob_x_preferred":[
         "Maharaja"
     ],
+    "name:pnb_x_preferred":[
+        "\u0645\u06c1\u0627\u0631\u0627\u062c\u0627"
+    ],
     "name:pol_x_preferred":[
         "Maharad\u017ca"
     ],
@@ -133,8 +154,14 @@
     "name:slk_x_preferred":[
         "Maharad\u017ea"
     ],
+    "name:slv_x_preferred":[
+        "Maharad\u017ea"
+    ],
     "name:spa_x_preferred":[
         "Maharaj\u00e1"
+    ],
+    "name:spa_x_variant":[
+        "Maraj\u00e1"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0445\u0430\u0440\u0430\u045f\u0430"
@@ -197,7 +224,7 @@
         "wd:id":"Q1163330"
     },
     "wof:country":"BR",
-    "wof:geomhash":"d606d3700435187805ce0f1c9fefe417",
+    "wof:geomhash":"8531efde2d9951e85493b084adad4c93",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -209,7 +236,7 @@
         }
     ],
     "wof:id":101979749,
-    "wof:lastmodified":1566624182,
+    "wof:lastmodified":1690861656,
     "wof:name":"Maraja",
     "wof:parent_id":404555093,
     "wof:placetype":"locality",
@@ -219,10 +246,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -44.7386488274151,
-    -5.72958772866983,
-    -44.7137616350947,
-    -5.70970219265175
+    -44.738649,
+    -5.729588,
+    -44.713762,
+    -5.709702
 ],
-  "geometry": {"coordinates":[[[-44.7386488274151,-5.72719285356075],[-44.731532704159,-5.72138575060225],[-44.7313982087879,-5.72127599583275],[-44.731206608595,-5.72111964074915],[-44.7271936379385,-5.71719718822776],[-44.72715057600239,-5.71715509761346],[-44.72705656403789,-5.71710208701014],[-44.7238944049514,-5.7153190377786],[-44.7237573474264,-5.71524175503985],[-44.7139331781152,-5.70970219265175],[-44.7137616350947,-5.71010918687675],[-44.73415507299689,-5.72958772866983],[-44.7386488274151,-5.72719285356075]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-44.738649,-5.727193],[-44.731533,-5.721386],[-44.731398,-5.721276],[-44.731207,-5.72112],[-44.727194,-5.717197],[-44.727151,-5.717155],[-44.727057,-5.717102],[-44.723894,-5.715319],[-44.723757,-5.715242],[-44.713933,-5.709702],[-44.713762,-5.710109],[-44.734155,-5.729588],[-44.738649,-5.727193]]],"type":"Polygon"}
 }

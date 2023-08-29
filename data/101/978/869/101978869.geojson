@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000026,
     "geom:area_square_m":315889.60349,
-    "geom:bbox":"-45.2771756122,-4.37278010786,-45.2694788445,-4.36841630875",
+    "geom:bbox":"-45.277176,-4.37278,-45.269479,-4.368416",
     "geom:latitude":-4.370662,
     "geom:longitude":-45.273811,
     "iso:country":"BR",
@@ -31,11 +31,18 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ae\u09b0\u09be\u0999\u09be"
     ],
+    "name:cat_x_preferred":[
+        "carambola"
+    ],
     "name:ces_x_preferred":[
         "Karambola"
     ],
     "name:ces_x_variant":[
-        "Averrhoa carambola"
+        "Averrhoa carambola",
+        "karambola"
+    ],
+    "name:dan_x_preferred":[
+        "karambole"
     ],
     "name:deu_x_preferred":[
         "Sternfrucht"
@@ -52,17 +59,47 @@
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0631 \u0641\u0631\u0648\u062a"
     ],
+    "name:fin_x_preferred":[
+        "karambola"
+    ],
+    "name:fra_x_preferred":[
+        "carambole"
+    ],
+    "name:gle_x_preferred":[
+        "toradh r\u00e9alt\u00fail"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05de\u05d1\u05d5\u05dc\u05d4"
+    ],
     "name:hin_x_preferred":[
         "carambola"
     ],
     "name:hun_x_preferred":[
         "Csillag gy\u00fcm\u00f6lcs"
     ],
+    "name:hun_x_variant":[
+        "csillaggy\u00fcm\u00f6lcs"
+    ],
     "name:isl_x_preferred":[
         "Stj\u00f6rnu\u00e1v\u00f6xtur"
     ],
     "name:ita_x_preferred":[
         "Carambola"
+    ],
+    "name:jav_x_preferred":[
+        "Belimbing"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30bf\u30fc\u30d5\u30eb\u30fc\u30c4"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cae\u0cb0\u0cbe\u0c95\u0ccd\u0cb7\u0cbf"
+    ],
+    "name:khm_x_preferred":[
+        "\u179f\u17d2\u1796\u17ba"
+    ],
+    "name:lit_x_preferred":[
+        "karambola"
     ],
     "name:mal_x_preferred":[
         "\u0d06\u0d30\u0d02\u0d2a\u0d41\u0d33\u0d3f"
@@ -72,6 +109,15 @@
     ],
     "name:nld_x_preferred":[
         "Stervrucht"
+    ],
+    "name:nld_x_variant":[
+        "stervrucht"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0645\u0631\u06a9\u06be"
+    ],
+    "name:pol_x_preferred":[
+        "karambola"
     ],
     "name:por_x_preferred":[
         "Carambola"
@@ -90,6 +136,9 @@
     ],
     "name:sqi_x_preferred":[
         "Starfruit"
+    ],
+    "name:swe_x_preferred":[
+        "carambola"
     ],
     "name:tam_x_preferred":[
         "\u0bb5\u0bbf\u0bb3\u0bbf\u0bae\u0bcd\u0baa\u0bbf\u0baa\u0bcd\u0baa\u0bb4\u0bae\u0bcd"
@@ -129,7 +178,7 @@
         "wd:id":"Q181560"
     },
     "wof:country":"BR",
-    "wof:geomhash":"ce2a0e840b6cecdd82d2a54c8ce73448",
+    "wof:geomhash":"afdac297de285b1d6356e0cafefe38ec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -140,7 +189,7 @@
         }
     ],
     "wof:id":101978869,
-    "wof:lastmodified":1566624332,
+    "wof:lastmodified":1690861786,
     "wof:name":"Carambola",
     "wof:parent_id":102053247,
     "wof:placetype":"locality",
@@ -150,10 +199,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -45.277175612246,
-    -4.37278010785701,
-    -45.2694788444564,
-    -4.36841630874519
+    -45.277176,
+    -4.37278,
+    -45.269479,
+    -4.368416
 ],
-  "geometry": {"coordinates":[[[-45.27663546080201,-4.37278010785701],[-45.27689202799539,-4.37232807222979],[-45.2771472538209,-4.37156948435942],[-45.277175612246,-4.37080380688279],[-45.27699902430709,-4.36998368227359],[-45.2765674092689,-4.36861094043396],[-45.2760849445489,-4.36842327951333],[-45.2737497372236,-4.36841630874519],[-45.2734061682134,-4.36844828149821],[-45.26953160915869,-4.37035162310062],[-45.2694788444564,-4.37059409762691],[-45.27030617776479,-4.3717692482183],[-45.2708917222882,-4.37224326045151],[-45.2711984360861,-4.37240358811862],[-45.27663546080201,-4.37278010785701]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-45.276635,-4.37278],[-45.276892,-4.372328],[-45.277147,-4.371569],[-45.277176,-4.370804],[-45.276999,-4.369984],[-45.276567,-4.368611],[-45.276085,-4.368423],[-45.27375,-4.368416],[-45.273406,-4.368448],[-45.269532,-4.370352],[-45.269479,-4.370594],[-45.270306,-4.371769],[-45.270892,-4.372243],[-45.271198,-4.372404],[-45.276635,-4.37278]]],"type":"Polygon"}
 }

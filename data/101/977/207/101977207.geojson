@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00003,
     "geom:area_square_m":365625.383331,
-    "geom:bbox":"-39.191059729,-10.907515944,-39.184387468,-10.901081978",
+    "geom:bbox":"-39.19106,-10.907516,-39.184387,-10.901082",
     "geom:latitude":-10.904121,
     "geom:longitude":-39.187632,
     "iso:country":"BR",
@@ -28,8 +28,17 @@
     "name:bul_x_preferred":[
         "\u0410\u043b\u0442"
     ],
+    "name:bul_x_variant":[
+        "\u0430\u043b\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "alto"
+    ],
     "name:ces_x_preferred":[
         "Alt"
+    ],
+    "name:ces_x_variant":[
+        "alt"
     ],
     "name:dan_x_preferred":[
         "Alt"
@@ -55,8 +64,14 @@
     "name:fin_x_preferred":[
         "Altto"
     ],
+    "name:fin_x_variant":[
+        "altto"
+    ],
     "name:fra_x_preferred":[
         "alto"
+    ],
+    "name:gle_x_preferred":[
+        "alt"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc\u05d8"
@@ -130,6 +145,12 @@
     "name:tur_x_preferred":[
         "Alto"
     ],
+    "name:ukr_x_preferred":[
+        "\u0430\u043b\u044c\u0442"
+    ],
+    "name:vec_x_preferred":[
+        "alto"
+    ],
     "name:vie_x_preferred":[
         "Alto"
     ],
@@ -171,7 +192,7 @@
         "wd:id":"Q6983813"
     },
     "wof:country":"BR",
-    "wof:geomhash":"ddf0c3f669bf0c7150fb28edab01160f",
+    "wof:geomhash":"4451f1f2215864ba71243e8ed5974400",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -184,7 +205,7 @@
         }
     ],
     "wof:id":101977207,
-    "wof:lastmodified":1577838638,
+    "wof:lastmodified":1690861641,
     "wof:name":"Alto",
     "wof:parent_id":404551801,
     "wof:placetype":"locality",
@@ -194,10 +215,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -39.1910597289999,
-    -10.907515944,
-    -39.184387468,
-    -10.9010819779999
+    -39.19106,
+    -10.907516,
+    -39.184387,
+    -10.901082
 ],
-  "geometry": {"coordinates":[[[-39.1852725639999,-10.9065287209999],[-39.1891874109999,-10.907515944],[-39.1910597289999,-10.9035330119999],[-39.1889831579999,-10.9010819779999],[-39.184387468,-10.901796863],[-39.1852725639999,-10.9065287209999]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-39.185273,-10.906529],[-39.189187,-10.907516],[-39.19106,-10.903533],[-39.188983,-10.901082],[-39.184387,-10.901797],[-39.185273,-10.906529]]],"type":"Polygon"}
 }

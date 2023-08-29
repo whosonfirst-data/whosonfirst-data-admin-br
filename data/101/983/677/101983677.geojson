@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000129,
     "geom:area_square_m":1503110.294305,
-    "geom:bbox":"-44.0297496836,-19.7073778405,-44.0108595906,-19.6967645539",
+    "geom:bbox":"-44.02975,-19.707378,-44.01086,-19.696765",
     "geom:latitude":-19.702669,
     "geom:longitude":-44.020648,
     "iso:country":"BR",
@@ -22,10 +22,19 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0644\u064a\u0648 \u0645\u0627\u0631\u0627\u0641\u064a\u0644\u0647\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u0644\u064a\u0648 \u0645\u0627\u0631\u0627\u0641\u064a\u0644\u0647\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "T\u00falio Maravilha"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0443\u043b\u0438\u043e \u041a\u043e\u0449\u0430"
     ],
     "name:cat_x_preferred":[
+        "T\u00falio Maravilha"
+    ],
+    "name:ces_x_preferred":[
         "T\u00falio Maravilha"
     ],
     "name:dan_x_preferred":[
@@ -33,6 +42,12 @@
     ],
     "name:deu_x_preferred":[
         "T\u00falio Humberto Pereira da Costa"
+    ],
+    "name:deu_x_variant":[
+        "T\u00falio Maravilha"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03cd\u03bb\u03b9\u03bf \u00ab\u039c\u03b1\u03c1\u03b1\u03b2\u03af\u03bb\u03b9\u03b1\u00bb"
     ],
     "name:eng_x_preferred":[
         "T\u00falio Maravilha"
@@ -44,6 +59,9 @@
         "T\u00falio Humberto Pereira Costa"
     ],
     "name:fra_x_variant":[
+        "T\u00falio Maravilha"
+    ],
+    "name:gle_x_preferred":[
         "T\u00falio Maravilha"
     ],
     "name:glg_x_preferred":[
@@ -67,6 +85,9 @@
     "name:nob_x_preferred":[
         "T\u00falio Maravilha"
     ],
+    "name:pap_x_preferred":[
+        "T\u00falio Maravilha"
+    ],
     "name:pol_x_preferred":[
         "T\u00falio Costa"
     ],
@@ -87,6 +108,21 @@
     ],
     "name:tgk_x_preferred":[
         "\u0422\u0443\u043b\u0438\u043e \u041c\u0430\u0440\u0430\u0432\u0438\u043b\u044f"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e39\u0e25\u0e35\u0e22\u0e39 \u0e21\u0e32\u0e23\u0e32\u0e27\u0e34\u0e25\u0e22\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "T\u00falio Maravilha"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u043b\u0456\u043e \u041c\u0430\u0440\u0430\u0432\u0456\u043b\u044c\u044f"
+    ],
+    "name:yor_x_preferred":[
+        "T\u00falio Maravilha"
+    ],
+    "name:zho_x_preferred":[
+        "\u56fe\u5229\u5965\u00b7\u9a6c\u62c9\u7ef4\u5229\u4e9a"
     ],
     "qs:a0":"Brasil",
     "qs:a1":"*MG",
@@ -119,7 +155,7 @@
         "wd:id":"Q714354"
     },
     "wof:country":"BR",
-    "wof:geomhash":"0cec816972ebeb438c727464daacc0d0",
+    "wof:geomhash":"7b15bfaf6332bbb76b2eb6e18100dd47",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +168,7 @@
         }
     ],
     "wof:id":101983677,
-    "wof:lastmodified":1577834229,
+    "wof:lastmodified":1690861646,
     "wof:name":"Vila Maravilha",
     "wof:parent_id":404558363,
     "wof:placetype":"locality",
@@ -142,10 +178,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -44.0297496835644,
-    -19.70737784054229,
-    -44.01085959064209,
-    -19.6967645538731
+    -44.02975,
+    -19.707378,
+    -44.01086,
+    -19.696765
 ],
-  "geometry": {"coordinates":[[[-44.01085959064209,-19.7049128755013],[-44.0166453075572,-19.70737784054229],[-44.0297496835644,-19.7057813683388],[-44.0274880146089,-19.6995950385496],[-44.02148967090679,-19.6967645538731],[-44.0188192152388,-19.6979090348734],[-44.0153857722372,-19.6998165032073],[-44.01205544997089,-19.7013013803291],[-44.0134904811654,-19.7017199310941],[-44.0124261663628,-19.7030832107286],[-44.01085959064209,-19.7049128755013]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-44.01086,-19.704913],[-44.016645,-19.707378],[-44.02975,-19.705781],[-44.027488,-19.699595],[-44.02149,-19.696765],[-44.018819,-19.697909],[-44.015386,-19.699817],[-44.012055,-19.701301],[-44.01349,-19.70172],[-44.012426,-19.703083],[-44.01086,-19.704913]]],"type":"Polygon"}
 }
