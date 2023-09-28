@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007255,
-    "geom:area_square_m":80599883.966037,
+    "geom:area_square_m":80599883.966047,
     "geom:bbox":"-53.0241967692,-26.1069640022,-52.8846871779,-25.989116441",
     "geom:latitude":-26.045378,
     "geom:longitude":-52.964187,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.043169,
     "lbl:longitude":-52.95943,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057677
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410840325"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0eb444c9dc741a150a4790a5749004ee",
+    "wof:geomhash":"a82265219047082a9d735dc01e5dfd7a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561179,
-    "wof:lastmodified":1577827914,
+    "wof:lastmodified":1695878278,
     "wof:name":"Sec\u00e7\u00e3o Jacar\u00e9",
     "wof:parent_id":102057677,
     "wof:placetype":"localadmin",

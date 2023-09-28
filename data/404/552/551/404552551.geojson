@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004509,
-    "geom:area_square_m":55555879.599422,
+    "geom:area_square_m":55555879.599426,
     "geom:bbox":"-39.795625857,-4.91233383113,-39.674638432,-4.84559803831",
     "geom:latitude":-4.879863,
     "geom:longitude":-39.73672,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.880424,
     "lbl:longitude":-39.73672,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051467
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230240435"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"24dd41748c179ba5d6de9698def6634a",
+    "wof:geomhash":"b1172e867d91d5cb9243bcb5a32a1d82",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404552551,
-    "wof:lastmodified":1577837675,
+    "wof:lastmodified":1695878671,
     "wof:name":"Po\u00e7o Da Pedra",
     "wof:parent_id":102051467,
     "wof:placetype":"localadmin",

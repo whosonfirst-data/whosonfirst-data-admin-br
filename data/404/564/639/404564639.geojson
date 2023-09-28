@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003977,
-    "geom:area_square_m":43522248.07479,
+    "geom:area_square_m":43522248.074794,
     "geom:bbox":"-51.570891284,-27.782267116,-51.4985523858,-27.6959105806",
     "geom:latitude":-27.741709,
     "geom:longitude":-51.537323,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.743443,
     "lbl:longitude":-51.540948,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u09cd\u09b0\u09cb \u0986\u099c\u09c1\u09b2"
@@ -82,9 +91,12 @@
         102059925
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431860611"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"69c87de064cd91d1927781e69f4707fb",
+    "wof:geomhash":"b49748f49aa1d27aea4315c02c9589b3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404564639,
-    "wof:lastmodified":1577827930,
+    "wof:lastmodified":1695878286,
     "wof:name":"Cerro Azul",
     "wof:parent_id":102059925,
     "wof:placetype":"localadmin",

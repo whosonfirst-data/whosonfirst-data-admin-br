@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075059,
-    "geom:area_square_m":926949130.169664,
+    "geom:area_square_m":926949130.169497,
     "geom:bbox":"-42.6965591965,-3.17556197289,-42.1160584335,-2.66709903207",
     "geom:latitude":-2.87469,
     "geom:longitude":-42.415644,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-2.783949,
     "lbl:longitude":-42.37144,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c1\u099f\u09cb\u0987\u09af\u09bc\u09be"
@@ -94,9 +103,12 @@
         102053233
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"211250605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bf7414a6193d931a6fbe2cf602ce3d58",
+    "wof:geomhash":"446aa57a5e45edf4f963cacf445579ac",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404555095,
-    "wof:lastmodified":1577837654,
+    "wof:lastmodified":1695878666,
     "wof:name":"Tut\u00f3ia",
     "wof:parent_id":102053233,
     "wof:placetype":"localadmin",

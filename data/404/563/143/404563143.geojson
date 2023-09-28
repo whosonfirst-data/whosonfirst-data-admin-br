@@ -10,12 +10,21 @@
     "geom:latitude":-30.084494,
     "geom:longitude":-51.934147,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.128175,
     "lbl:longitude":-51.932275,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c1\u099f\u09bf\u09af\u09bc\u09be"
@@ -82,9 +91,12 @@
         102059167
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430270905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b77c75f69283a689a79a6f7a0bbf38fe",
+    "wof:geomhash":"00dd1eac8c26f9481b74af4c61cf2bae",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404563143,
-    "wof:lastmodified":1577827909,
+    "wof:lastmodified":1695878275,
     "wof:name":"Buti\u00e1",
     "wof:parent_id":102059167,
     "wof:placetype":"localadmin",

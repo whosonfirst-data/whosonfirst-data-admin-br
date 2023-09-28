@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055699,
-    "geom:area_square_m":667824633.303378,
+    "geom:area_square_m":667824887.751264,
     "geom:bbox":"-42.951606,-14.324672,-42.62917,-13.956879",
     "geom:latitude":-14.150846,
     "geom:longitude":-42.820952,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.157768,
     "lbl:longitude":-42.810065,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u0627\u0646\u0627\u0645\u0628\u064a"
@@ -130,9 +139,12 @@
         102050783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291170905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"629c2574f85c10f1627f2fd2b917c597",
+    "wof:geomhash":"4236817b07a3996e3a08f2e0e96d0ab1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +156,7 @@
         }
     ],
     "wof:id":404551003,
-    "wof:lastmodified":1642551729,
+    "wof:lastmodified":1695878869,
     "wof:name":"Guanambi",
     "wof:parent_id":102050783,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004291,
-    "geom:area_square_m":52907764.482664,
+    "geom:area_square_m":52907615.714729,
     "geom:bbox":"-40.614587,-4.399958,-40.47858,-4.293806",
     "geom:latitude":-4.347016,
     "geom:longitude":-40.545475,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.34666,
     "lbl:longitude":-40.538771,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0641\u0644\u0648\u0631\u064a\u0633"
@@ -205,9 +214,12 @@
         102051581
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230580315"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"20cf4cb423374a0a942037aad21577c4",
+    "wof:geomhash":"22cf28bf0e7a9ed56f1fea4aa9d06a59",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -219,7 +231,7 @@
         }
     ],
     "wof:id":404553053,
-    "wof:lastmodified":1642551777,
+    "wof:lastmodified":1695878870,
     "wof:name":"Flores",
     "wof:parent_id":102051581,
     "wof:placetype":"localadmin",

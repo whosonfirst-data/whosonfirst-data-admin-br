@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013357,
-    "geom:area_square_m":147870820.395636,
+    "geom:area_square_m":147870820.395577,
     "geom:bbox":"-52.9714488687,-26.5540152216,-52.8548606555,-26.3555633448",
     "geom:latitude":-26.450282,
     "geom:longitude":-52.909571,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.430704,
     "lbl:longitude":-52.904721,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cd\u09b0\u09c7\u09b8\u09bf\u09a1\u09c7\u09a8\u09cd\u099f\u09c7 \u099c\u09c1\u09b8\u09b8\u09c7\u09b2\u09bf\u09a8\u09cb"
@@ -91,9 +100,12 @@
         102060751
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421690920"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c7a9ca28579b87f212f3d0209c6e4b3d",
+    "wof:geomhash":"e9eac8f7bfb6d541800f58db7760daf7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404565887,
-    "wof:lastmodified":1577827843,
+    "wof:lastmodified":1695878244,
     "wof:name":"Presidente Juscelino",
     "wof:parent_id":102060751,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000822,
-    "geom:area_square_m":9054903.193809,
+    "geom:area_square_m":9054903.1938,
     "geom:bbox":"-48.69212,-27.009992,-48.645102,-26.970089",
     "geom:latitude":-26.994512,
     "geom:longitude":-48.671172,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.995108,
     "lbl:longitude":-48.67278,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u099f\u09c7 \u0986\u09b2\u09c7\u0997\u09cd\u09b0\u09c7"
@@ -63,19 +72,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060303,
         1511777409,
-        85682021
+        102060303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420320410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101958163
     ],
     "wof:country":"BR",
-    "wof:geomhash":"5633b8df142bedc9d960e4adb137682a",
+    "wof:geomhash":"69ed59fd254afbe80becd3f9f21aa1bc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404565257,
-    "wof:lastmodified":1608022968,
+    "wof:lastmodified":1695878752,
     "wof:name":"Monte Alegre",
     "wof:parent_id":102060303,
     "wof:placetype":"localadmin",

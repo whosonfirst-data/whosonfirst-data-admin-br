@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024843,
-    "geom:area_square_m":272168771.160039,
+    "geom:area_square_m":272168771.160053,
     "geom:bbox":"-52.349189369,-27.7067634327,-52.1559951117,-27.5093579309",
     "geom:latitude":-27.626302,
     "geom:longitude":-52.263805,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.633975,
     "lbl:longitude":-52.261961,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0631\u064a\u062a\u0634\u064a\u0645"
@@ -112,9 +121,12 @@
         102059369
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430700505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"82e7d84ff392b4fdaaa91b5705e7a39d",
+    "wof:geomhash":"2bc605d096bc9aabc47e3167c441db37",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +138,7 @@
         }
     ],
     "wof:id":404563511,
-    "wof:lastmodified":1577827863,
+    "wof:lastmodified":1695878253,
     "wof:name":"Erechim",
     "wof:parent_id":102059369,
     "wof:placetype":"localadmin",

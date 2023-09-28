@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009433,
-    "geom:area_square_m":109847237.222659,
+    "geom:area_square_m":109847237.222673,
     "geom:bbox":"-42.166984,-19.741078997,-42.045665,-19.591812997",
     "geom:latitude":-19.658418,
     "geom:longitude":-42.105258,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.650588,
     "lbl:longitude":-42.114435,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0989\u09ac\u09be\u09aa\u09cb\u09b0\u09be\u0999\u09cd\u0997\u09be"
@@ -100,9 +109,12 @@
         102055099
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"317005705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cf22705c78289a944ecaabd825abe55b",
+    "wof:geomhash":"c4a84ddf665251cb6d666108e50a5548",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404558657,
-    "wof:lastmodified":1577833013,
+    "wof:lastmodified":1695878486,
     "wof:name":"Ubaporanga",
     "wof:parent_id":102055099,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012011,
-    "geom:area_square_m":139078094.422183,
+    "geom:area_square_m":139078094.422129,
     "geom:bbox":"-41.7157487749,-20.6645199965,-41.5925090664,-20.4024382717",
     "geom:latitude":-20.538348,
     "geom:longitude":-41.642211,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.529314,
     "lbl:longitude":-41.641264,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09bf\u099f\u09bf\u09b0\u09be\u09ae\u09be"
@@ -94,9 +103,12 @@
         102051887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320255305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0b66c78ad443be15052a9ca6d8a39b29",
+    "wof:geomhash":"393bc550f2c77430a5b0633339e56c43",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404554377,
-    "wof:lastmodified":1577832858,
+    "wof:lastmodified":1695878432,
     "wof:name":"Ibitirama",
     "wof:parent_id":102051887,
     "wof:placetype":"localadmin",

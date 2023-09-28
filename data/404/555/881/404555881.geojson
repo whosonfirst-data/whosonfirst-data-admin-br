@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001435,
-    "geom:area_square_m":16959908.095754,
+    "geom:area_square_m":16959908.095747,
     "geom:bbox":"-42.681577,-17.0707779968,-42.626465,-17.0271689968",
     "geom:latitude":-17.048921,
     "geom:longitude":-42.65227,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.046964,
     "lbl:longitude":-42.652797,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053647
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311610010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d9f5176b135a45904d8a5d3c1a660a65",
+    "wof:geomhash":"a55e745cce040a7a2b2dd39d0475b01e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555881,
-    "wof:lastmodified":1577833430,
+    "wof:lastmodified":1695878618,
     "wof:name":"Cachoeira Do Norte",
     "wof:parent_id":102053647,
     "wof:placetype":"localadmin",

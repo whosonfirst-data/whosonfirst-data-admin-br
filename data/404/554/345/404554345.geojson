@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004193,
-    "geom:area_square_m":48714987.32378,
+    "geom:area_square_m":48714987.323738,
     "geom:bbox":"-40.4252924119,-20.0487899946,-40.30189468,-19.9834559",
     "geom:latitude":-20.010804,
     "geom:longitude":-40.357863,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.012266,
     "lbl:longitude":-40.352737,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051875
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320220715"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"36d44d57bd90bfdf0321792d3b5ccb11",
+    "wof:geomhash":"d9ab1c50dbe89746bbd24dd6b82160af",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554345,
-    "wof:lastmodified":1577832980,
+    "wof:lastmodified":1695878474,
     "wof:name":"Timbu\u00ed",
     "wof:parent_id":102051875,
     "wof:placetype":"localadmin",

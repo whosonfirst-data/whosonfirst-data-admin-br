@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015897,
-    "geom:area_square_m":174987233.273771,
+    "geom:area_square_m":174987233.273827,
     "geom:bbox":"-49.140033,-27.201896,-48.92417,-27.020624",
     "geom:latitude":-27.10326,
     "geom:longitude":-49.021274,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.096663,
     "lbl:longitude":-49.013933,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09ac\u09bf\u09b0\u09c1\u09ac\u09be"
@@ -84,19 +93,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060411,
         1511777409,
-        85682021
+        102060411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420630605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060411
     ],
     "wof:country":"BR",
-    "wof:geomhash":"fd10a19fc0e9e41ce1097ce3f1e73c9b",
+    "wof:geomhash":"68be147ec0cdd0f8c545685f2b309f17",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404565447,
-    "wof:lastmodified":1608034186,
+    "wof:lastmodified":1695878819,
     "wof:name":"Guabiruba",
     "wof:parent_id":102060411,
     "wof:placetype":"localadmin",

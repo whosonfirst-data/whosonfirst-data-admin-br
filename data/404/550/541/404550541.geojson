@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075357,
-    "geom:area_square_m":896097093.401309,
+    "geom:area_square_m":896097093.401376,
     "geom:bbox":"-39.572821839,-16.0606124298,-39.1025268496,-15.7840674741",
     "geom:latitude":-15.91308,
     "geom:longitude":-39.310409,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.944182,
     "lbl:longitude":-39.290825,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050557
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290340910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"54f65f8ecb3cf8e4789dfed975d74975",
+    "wof:geomhash":"4105af00af56ac160321a7e504e2c4a0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550541,
-    "wof:lastmodified":1577837721,
+    "wof:lastmodified":1695878682,
     "wof:name":"Boca Do C\u00f3rrego",
     "wof:parent_id":102050557,
     "wof:placetype":"localadmin",

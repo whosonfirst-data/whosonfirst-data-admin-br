@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048222,
-    "geom:area_square_m":565808067.160919,
+    "geom:area_square_m":565808063.566027,
     "geom:bbox":"-47.00504,-18.552761,-46.69332,-18.25727",
     "geom:latitude":-18.394928,
     "geom:longitude":-46.843986,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.410375,
     "lbl:longitude":-46.818011,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09b2\u09be\u09b0"
@@ -112,9 +121,12 @@
         102054511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314800427"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"49d194a80ce121387b0be45820f442cc",
+    "wof:geomhash":"1326d66e22a3f929cd29e73467513450",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +138,7 @@
         }
     ],
     "wof:id":404557591,
-    "wof:lastmodified":1636496433,
+    "wof:lastmodified":1695878862,
     "wof:name":"Pilar",
     "wof:parent_id":102054511,
     "wof:placetype":"localadmin",

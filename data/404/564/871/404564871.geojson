@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015829,
-    "geom:area_square_m":167239529.904938,
+    "geom:area_square_m":167239529.904937,
     "geom:bbox":"-51.1724899713,-31.3645806077,-50.9803765882,-31.2302800056",
     "geom:latitude":-31.303974,
     "geom:longitude":-51.084948,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-31.305181,
     "lbl:longitude":-51.086737,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u09ad\u09be\u09b0\u09c7\u09b8"
@@ -85,9 +94,12 @@
         102060035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432135205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6adbe7168de91b7a246fc24466993518",
+    "wof:geomhash":"38808c05a89bddaf90ed3ff80195bd4a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404564871,
-    "wof:lastmodified":1577827854,
+    "wof:lastmodified":1695878249,
     "wof:name":"Tavares",
     "wof:parent_id":102060035,
     "wof:placetype":"localadmin",

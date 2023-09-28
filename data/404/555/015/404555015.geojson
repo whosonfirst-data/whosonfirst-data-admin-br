@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027405,
-    "geom:area_square_m":337251136.525952,
+    "geom:area_square_m":337251136.525955,
     "geom:bbox":"-47.44102,-5.658435,-47.119552,-5.508714",
     "geom:latitude":-5.598475,
     "geom:longitude":-47.299858,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.599143,
     "lbl:longitude":-47.286379,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09be\u09ad\u09bf\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -81,19 +90,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681931,
         102191577,
         85633009,
-        102052907,
         1511777415,
-        85681931
+        102052907
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"210375205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102052907
     ],
     "wof:country":"BR",
-    "wof:geomhash":"be932427da7f34f7b06d2845721ec2c8",
+    "wof:geomhash":"84bbe9942c30f575915c96176c9ad5f1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404555015,
-    "wof:lastmodified":1608032441,
+    "wof:lastmodified":1695878806,
     "wof:name":"Davin\u00f3polis",
     "wof:parent_id":102052907,
     "wof:placetype":"localadmin",

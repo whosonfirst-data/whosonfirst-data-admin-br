@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013981,
-    "geom:area_square_m":163772578.894681,
+    "geom:area_square_m":163772578.894669,
     "geom:bbox":"-46.33482,-18.7442779971,-46.103974,-18.5861599971",
     "geom:latitude":-18.675548,
     "geom:longitude":-46.231672,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.670387,
     "lbl:longitude":-46.252569,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314800425"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"10d7944721ecaa1f811588bd4dc970ef",
+    "wof:geomhash":"b0525c9428f84b61f1f3b25e1f09e14d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557589,
-    "wof:lastmodified":1577833029,
+    "wof:lastmodified":1695878491,
     "wof:name":"Pinda\u00edbas",
     "wof:parent_id":102054511,
     "wof:placetype":"localadmin",

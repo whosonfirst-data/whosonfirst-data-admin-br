@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004155,
-    "geom:area_square_m":51265291.563952,
+    "geom:area_square_m":51265291.563951,
     "geom:bbox":"-39.6457816758,-3.72192547153,-39.5557344234,-3.64700807407",
     "geom:latitude":-3.68504,
     "geom:longitude":-39.595678,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.684555,
     "lbl:longitude":-39.595678,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09aa\u09be\u0997\u09c7"
@@ -91,9 +100,12 @@
         102051595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230630605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"44c3c4cfcefc05fefa24574d1f383a49",
+    "wof:geomhash":"d11550d93dfaf658195b6648525549b3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404553107,
-    "wof:lastmodified":1577837901,
+    "wof:lastmodified":1695878726,
     "wof:name":"Itapag\u00e9",
     "wof:parent_id":102051595,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020864,
-    "geom:area_square_m":255664895.045533,
+    "geom:area_square_m":255664895.045539,
     "geom:bbox":"-38.2985584585,-7.80768712321,-38.1054504618,-7.57155252043",
     "geom:latitude":-7.702989,
     "geom:longitude":-38.185122,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.70179,
     "lbl:longitude":-38.186618,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09a8\u09be\u0987\u09b0\u09be"
@@ -85,9 +94,12 @@
         102056235
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250900805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8ff308646e9d21d6cf564306b95c16d4",
+    "wof:geomhash":"81ad38a7d73dca8d79a829ff59dfe237",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404559975,
-    "wof:lastmodified":1577837982,
+    "wof:lastmodified":1695878746,
     "wof:name":"Mana\u00edra",
     "wof:parent_id":102056235,
     "wof:placetype":"localadmin",

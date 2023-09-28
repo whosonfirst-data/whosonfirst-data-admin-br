@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046551,
-    "geom:area_square_m":572732081.713655,
+    "geom:area_square_m":572732629.421737,
     "geom:bbox":"-36.284752,-5.899953,-36.062535,-5.578934",
     "geom:latitude":-5.732637,
     "geom:longitude":-36.181456,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.72904,
     "lbl:longitude":-36.183573,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u099c\u09c7\u09b8"
@@ -70,9 +79,12 @@
         102058675
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"240670005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0310587207bf719964b08bc723853fdb",
+    "wof:geomhash":"faa460702eaa702072548c02dc356360",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404562693,
-    "wof:lastmodified":1636496450,
+    "wof:lastmodified":1695878866,
     "wof:name":"Lajes",
     "wof:parent_id":102058675,
     "wof:placetype":"localadmin",

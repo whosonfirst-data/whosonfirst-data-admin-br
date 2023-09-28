@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010352,
-    "geom:area_square_m":118891838.167852,
+    "geom:area_square_m":118891981.782196,
     "geom:bbox":"-41.196515,-21.826471,-41.080882,-21.673823",
     "geom:latitude":-21.751342,
     "geom:longitude":-41.13123,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.751268,
     "lbl:longitude":-41.132108,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0633\u064a\u0644\u0648\u0633"
@@ -100,9 +109,12 @@
         102058469
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330500010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"86c8545198d91860ae0848d4d5f589e5",
+    "wof:geomhash":"4ff303a00b02cc98f202fef33d919a8b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404562563,
-    "wof:lastmodified":1636496451,
+    "wof:lastmodified":1695878867,
     "wof:name":"Barcelos",
     "wof:parent_id":102058469,
     "wof:placetype":"localadmin",

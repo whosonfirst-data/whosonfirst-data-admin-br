@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032187,
-    "geom:area_square_m":360723303.321954,
+    "geom:area_square_m":360723303.322066,
     "geom:bbox":"-52.803256,-25.14462,-52.58441,-24.85459",
     "geom:latitude":-24.995167,
     "geom:longitude":-52.703496,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.000661,
     "lbl:longitude":-52.703526,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681983,
         102191577,
         85633009,
-        102057623,
         1511777409,
-        85681983
+        102057623
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410712405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102057623
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a5b1d1b53176bd4ffd2f17b825cb6dc8",
+    "wof:geomhash":"4366766d0d88aedffc5b8500de7867b7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404561119,
-    "wof:lastmodified":1608031516,
+    "wof:lastmodified":1695878788,
     "wof:name":"Diamante Do Sul",
     "wof:parent_id":102057623,
     "wof:placetype":"localadmin",

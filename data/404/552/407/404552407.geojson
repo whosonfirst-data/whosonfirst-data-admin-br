@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044566,
-    "geom:area_square_m":546632184.036255,
+    "geom:area_square_m":546632184.036221,
     "geom:bbox":"-40.2694141143,-7.38309306713,-39.8903455139,-7.12730531132",
     "geom:latitude":-7.277475,
     "geom:longitude":-40.105652,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.304128,
     "lbl:longitude":-40.118601,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u09b0\u09bf\u09aa\u09c7"
@@ -91,9 +100,12 @@
         102051435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230130705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c078b719f9eb999644784e0d351127fa",
+    "wof:geomhash":"56f6c482b7b313571422a91bba1c1038",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404552407,
-    "wof:lastmodified":1577837825,
+    "wof:lastmodified":1695878707,
     "wof:name":"Araripe",
     "wof:parent_id":102051435,
     "wof:placetype":"localadmin",

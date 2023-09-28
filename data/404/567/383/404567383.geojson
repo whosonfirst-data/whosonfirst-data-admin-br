@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013422,
-    "geom:area_square_m":151817839.45944,
+    "geom:area_square_m":151817839.459473,
     "geom:bbox":"-46.801936,-23.911514,-46.613219,-23.73866",
     "geom:latitude":-23.830153,
     "geom:longitude":-46.716468,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.834386,
     "lbl:longitude":-46.730791,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:nld_x_preferred":[
         "Parelheiros"
@@ -37,9 +46,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030855"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f3821f9ead08bb3e236451881dcf13eb",
+    "wof:geomhash":"dd74d76d956b811bc6275033ca7dfa1d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404567383,
-    "wof:lastmodified":1577832882,
+    "wof:lastmodified":1695878443,
     "wof:name":"Parelheiros",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003558,
-    "geom:area_square_m":43625561.384157,
+    "geom:area_square_m":43625561.384161,
     "geom:bbox":"-35.5415950871,-7.4299186815,-35.4610571167,-7.36069910708",
     "geom:latitude":-7.397275,
     "geom:longitude":-35.491932,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.398709,
     "lbl:longitude":-35.491164,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u0987\u09b8 \u09b0\u09bf\u09af\u09bc\u09be\u0995\u09b9\u09cb\u09b8"
@@ -97,9 +106,12 @@
         102056357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"251310907"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"992f2b298caad491332acbb650af5827",
+    "wof:geomhash":"614cafe8985021706832bd580decbc98",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404560039,
-    "wof:lastmodified":1577837629,
+    "wof:lastmodified":1695878660,
     "wof:name":"Dois Riachos",
     "wof:parent_id":102056357,
     "wof:placetype":"localadmin",

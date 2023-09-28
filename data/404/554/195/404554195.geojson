@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026341,
-    "geom:area_square_m":306895754.760704,
+    "geom:area_square_m":306895754.760698,
     "geom:bbox":"-41.0791172224,-19.6695790701,-40.8185404187,-19.4873997393",
     "geom:latitude":-19.570447,
     "geom:longitude":-40.961409,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.561778,
     "lbl:longitude":-40.963318,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u0987\u0995\u09cd\u09b8\u09cb \u0997\u09c1\u09f1\u09be\u09a8\u09a1\u09c1"
@@ -97,9 +106,12 @@
         102051841
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320080505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"fc3e1a57da577389815bb4d8b9b55c61",
+    "wof:geomhash":"ed3ffa576d5a4aa559c810c2d0342d00",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404554195,
-    "wof:lastmodified":1577832728,
+    "wof:lastmodified":1695878384,
     "wof:name":"Baixo Guandu",
     "wof:parent_id":102051841,
     "wof:placetype":"localadmin",

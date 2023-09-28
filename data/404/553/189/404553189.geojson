@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018099,
-    "geom:area_square_m":222598117.510436,
+    "geom:area_square_m":222598117.510443,
     "geom:bbox":"-38.9744273942,-6.10302706956,-38.7631439541,-5.7975201209",
     "geom:latitude":-5.93856,
     "geom:longitude":-38.879226,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.930359,
     "lbl:longitude":-38.877634,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230690025"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"47bee463b83e80e22f1933a8f49aa050",
+    "wof:geomhash":"9d404cbe2dcdc284342f0727132d7fc2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553189,
-    "wof:lastmodified":1577837911,
+    "wof:lastmodified":1695878728,
     "wof:name":"Nova Floresta",
     "wof:parent_id":102051611,
     "wof:placetype":"localadmin",

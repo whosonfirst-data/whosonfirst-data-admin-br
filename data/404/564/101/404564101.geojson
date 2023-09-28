@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006815,
-    "geom:area_square_m":73374330.271461,
+    "geom:area_square_m":73374330.271449,
     "geom:bbox":"-53.0140610215,-29.5029702859,-52.8777890251,-29.4060282814",
     "geom:latitude":-29.456099,
     "geom:longitude":-52.951589,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.456909,
     "lbl:longitude":-52.951636,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b8\u09b8\u09be \u09b8\u09c7\u099f\u09c7"
@@ -94,9 +103,12 @@
         102059717
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431406805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f2971955a31d08a2d4730000714d526d",
+    "wof:geomhash":"786f544289f8596c1d4cc55d287acc51",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404564101,
-    "wof:lastmodified":1577827902,
+    "wof:lastmodified":1695878272,
     "wof:name":"Passa Sete",
     "wof:parent_id":102059717,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.333637,
-    "geom:area_square_m":3906744620.95117,
+    "geom:area_square_m":3906744620.951086,
     "geom:bbox":"-57.8862809462,-19.2511355051,-57.2267576445,-18.0484013395",
     "geom:latitude":-18.761356,
     "geom:longitude":-57.536055,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.764554,
     "lbl:longitude":-57.571641,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0648\u0645\u0628\u0627"
@@ -142,9 +151,12 @@
         102055227
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500320705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a56e1a9487ed9bfe31a45abb86ed87e1",
+    "wof:geomhash":"911b7abda526ce2e354544e9bab0047c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":404558871,
-    "wof:lastmodified":1577836176,
+    "wof:lastmodified":1695878650,
     "wof:name":"Corumb\u00e1",
     "wof:parent_id":102055227,
     "wof:placetype":"localadmin",

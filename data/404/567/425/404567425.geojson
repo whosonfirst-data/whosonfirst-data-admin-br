@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000765,
-    "geom:area_square_m":8679828.188802,
+    "geom:area_square_m":8679828.188797,
     "geom:bbox":"-46.457701,-23.526335,-46.42805,-23.479434",
     "geom:latitude":-23.501135,
     "geom:longitude":-46.440759,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.500527,
     "lbl:longitude":-46.438511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "S\u00e3o Miguel"
@@ -79,9 +88,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030874"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"77401e6e0f6af753315fe2cbc3c8f386",
+    "wof:geomhash":"ad559d67abee8aea908a97dddc32026a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404567425,
-    "wof:lastmodified":1577832947,
+    "wof:lastmodified":1695878466,
     "wof:name":"S\u00e3o Miguel",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

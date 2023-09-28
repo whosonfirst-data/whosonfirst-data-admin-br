@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.787426,
-    "geom:area_square_m":108122342499.264389,
+    "geom:area_square_m":108122341814.023758,
     "geom:bbox":"-55.623871,-8.618209,-51.647538,-2.988717",
     "geom:latitude":-5.573845,
     "geom:longitude":-53.750146,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.361401,
     "lbl:longitude":-54.109729,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u043b\u044c\u0442\u0430\u043c\u0456\u0440\u0430"
@@ -121,9 +130,12 @@
         102055679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150060205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"315d1f56c0d63a2663a5dd95b7d204c6",
+    "wof:geomhash":"cd9aaa8b1ad73b3b4ecfcba09abc69f7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +147,7 @@
         }
     ],
     "wof:id":404559471,
-    "wof:lastmodified":1636496425,
+    "wof:lastmodified":1695878858,
     "wof:name":"Altamira",
     "wof:parent_id":102055679,
     "wof:placetype":"localadmin",

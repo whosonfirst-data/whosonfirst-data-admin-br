@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.131475,
-    "geom:area_square_m":1606242985.658295,
+    "geom:area_square_m":1606242985.658387,
     "geom:bbox":"-39.7076412238,-9.16476409761,-39.351242923,-8.5328205708",
     "geom:latitude":-8.877623,
     "geom:longitude":-39.541441,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.881689,
     "lbl:longitude":-39.58597,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050727
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290990125"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"43f52b6d6066691bade39b9e14efdc3a",
+    "wof:geomhash":"30f01bcd897885f94482777f017488d1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550893,
-    "wof:lastmodified":1577837783,
+    "wof:lastmodified":1695878696,
     "wof:name":"Riacho Seco",
     "wof:parent_id":102050727,
     "wof:placetype":"localadmin",

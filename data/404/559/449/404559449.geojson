@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.348238,
-    "geom:area_square_m":4122236148.29559,
+    "geom:area_square_m":4122236148.295636,
     "geom:bbox":"-54.627972,-17.11206,-53.825499,-16.468508",
     "geom:latitude":-16.799863,
     "geom:longitude":-54.256456,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.853272,
     "lbl:longitude":-54.323274,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a1\u09cd\u09b0\u09be \u09aa\u09cd\u09b0\u09c7\u099f\u09be"
@@ -78,19 +87,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681955,
         102191577,
         85633009,
-        102055541,
         1511777413,
-        85681955
+        102055541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510637205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055541
     ],
     "wof:country":"BR",
-    "wof:geomhash":"1ae0ac698c20b998bb074e67d42ceb4a",
+    "wof:geomhash":"cd14bba5ace48fa57743ff3c0639c8f5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404559449,
-    "wof:lastmodified":1608031116,
+    "wof:lastmodified":1695878787,
     "wof:name":"Pedra Preta",
     "wof:parent_id":102055541,
     "wof:placetype":"localadmin",

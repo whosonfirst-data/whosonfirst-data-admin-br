@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075735,
-    "geom:area_square_m":918561693.759594,
+    "geom:area_square_m":918561693.759611,
     "geom:bbox":"-41.751819,-11.425138,-41.364611,-11.006607",
     "geom:latitude":-11.224102,
     "geom:longitude":-41.567711,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.225607,
     "lbl:longitude":-41.567693,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09cb\u09af\u09bc\u09be\u0993 \u09a1\u09cb\u0989\u09b0\u09be\u09a1\u09cb"
@@ -97,12 +106,15 @@
         102050949
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291835705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050949
     ],
     "wof:country":"BR",
-    "wof:geomhash":"9e2a5aea15e018328c97863e1d6ee4e5",
+    "wof:geomhash":"c1e5538e2e20f9ce0e49f7d16654b664",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404551339,
-    "wof:lastmodified":1617131225,
+    "wof:lastmodified":1695878843,
     "wof:name":"Jo\u00e3o Dourado",
     "wof:parent_id":102050949,
     "wof:placetype":"localadmin",

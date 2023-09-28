@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027279,
-    "geom:area_square_m":288760254.337514,
+    "geom:area_square_m":288760254.337548,
     "geom:bbox":"-51.0324511035,-31.2063842406,-50.7582574272,-31.0199575988",
     "geom:latitude":-31.121002,
     "geom:longitude":-50.909422,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-31.119856,
     "lbl:longitude":-50.911477,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Mostardas"
@@ -97,9 +106,12 @@
         102059629
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431250005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"26ba51fb31d365d3e2f5679ffac55bdd",
+    "wof:geomhash":"9630f0e79dea22c2afc8b953c53effd3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404563987,
-    "wof:lastmodified":1577828001,
+    "wof:lastmodified":1695878317,
     "wof:name":"Mostardas",
     "wof:parent_id":102059629,
     "wof:placetype":"localadmin",

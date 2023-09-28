@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014484,
-    "geom:area_square_m":177625623.492047,
+    "geom:area_square_m":177625754.526398,
     "geom:bbox":"-37.911273,-7.433957,-37.720464,-7.284718",
     "geom:latitude":-7.348262,
     "geom:longitude":-37.819687,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.346064,
     "lbl:longitude":-37.813152,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Socorro"
@@ -100,9 +109,12 @@
         102056277
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"251040230"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ce1e8984af7de4ffd3adb7797c4ca15d",
+    "wof:geomhash":"7f53455f771200caf90bb295e88e28e5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404560001,
-    "wof:lastmodified":1636496415,
+    "wof:lastmodified":1695878855,
     "wof:name":"Socorro",
     "wof:parent_id":102056277,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013329,
-    "geom:area_square_m":142236346.698769,
+    "geom:area_square_m":142236346.698807,
     "geom:bbox":"-54.0586383954,-30.4440508942,-53.937846059,-30.2243886828",
     "geom:latitude":-30.346719,
     "geom:longitude":-54.00536,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.352153,
     "lbl:longitude":-54.009428,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059859
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431697215"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7af40cb2dbd3ea62b8b8ecafb96f9810",
+    "wof:geomhash":"df38b3d74fd85ec0c03846075ae6e45e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564421,
-    "wof:lastmodified":1577827777,
+    "wof:lastmodified":1695878213,
     "wof:name":"Cambaizinho",
     "wof:parent_id":102059859,
     "wof:placetype":"localadmin",

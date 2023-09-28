@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001787,
-    "geom:area_square_m":20683210.087316,
+    "geom:area_square_m":20683210.087315,
     "geom:bbox":"-41.8295714936,-20.6496833547,-41.777531332,-20.5828872832",
     "geom:latitude":-20.619907,
     "geom:longitude":-41.80322,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.613664,
     "lbl:longitude":-41.805375,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mundo Novo"
@@ -67,9 +76,12 @@
         102051869
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320200910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f940d0397b6808b19de559ddcd678a9b",
+    "wof:geomhash":"364651d60c1bfb107c5559e289acf05d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404554317,
-    "wof:lastmodified":1577832559,
+    "wof:lastmodified":1695878321,
     "wof:name":"Mundo Novo",
     "wof:parent_id":102051869,
     "wof:placetype":"localadmin",

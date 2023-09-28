@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021006,
-    "geom:area_square_m":257428670.224877,
+    "geom:area_square_m":257428670.224888,
     "geom:bbox":"-39.6170756055,-7.76574303927,-39.383973928,-7.55984890229",
     "geom:latitude":-7.660085,
     "geom:longitude":-39.53264,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.672992,
     "lbl:longitude":-39.552018,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09b0\u09c7\u0987\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
@@ -88,9 +97,12 @@
         102056849
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261430305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"337540da43d132f3b716ccf4b87eaae3",
+    "wof:geomhash":"2abc4bf029689132ce196119deecfa77",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404560745,
-    "wof:lastmodified":1577837943,
+    "wof:lastmodified":1695878737,
     "wof:name":"Moreil\u00e2ndia",
     "wof:parent_id":102056849,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003035,
-    "geom:area_square_m":33193657.038928,
+    "geom:area_square_m":33193657.038931,
     "geom:bbox":"-54.862403827,-27.8409864513,-54.7764683824,-27.7760660768",
     "geom:latitude":-27.811101,
     "geom:longitude":-54.827526,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.811065,
     "lbl:longitude":-54.827549,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431790515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d0993f0ae620243e6c713d3590fbda48",
+    "wof:geomhash":"738b3145b06f03fe26273b3ac89e0114",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564555,
-    "wof:lastmodified":1577827798,
+    "wof:lastmodified":1695878223,
     "wof:name":"Vila Laranjeira",
     "wof:parent_id":102059889,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002711,
-    "geom:area_square_m":33435093.625889,
+    "geom:area_square_m":33435093.625892,
     "geom:bbox":"-40.5984612896,-4.28014990534,-40.5177752343,-4.21317964817",
     "geom:latitude":-4.250565,
     "geom:longitude":-40.555272,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.247732,
     "lbl:longitude":-40.558033,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051721
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231095120"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"36c9d47da5d793ca1fb445983fb004de",
+    "wof:geomhash":"c2fc91aaec36d1651328a33c031f5e61",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553653,
-    "wof:lastmodified":1577837768,
+    "wof:lastmodified":1695878693,
     "wof:name":"Otavil\u00e2ndia",
     "wof:parent_id":102051721,
     "wof:placetype":"localadmin",

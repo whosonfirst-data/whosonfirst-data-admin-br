@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023927,
-    "geom:area_square_m":271474681.22695,
+    "geom:area_square_m":271474681.227042,
     "geom:bbox":"-46.160501,-23.542171,-45.951865,-23.308598",
     "geom:latitude":-23.42757,
     "geom:longitude":-46.058562,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.405211,
     "lbl:longitude":-46.083059,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09b0\u09be\u09b0\u09c7\u09ae\u09be"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061457,
         1511777411,
-        85682041
+        102061457
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351830505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061457
     ],
     "wof:country":"BR",
-    "wof:geomhash":"f1328d50bb4773816ed9feb64f6d28e4",
+    "wof:geomhash":"13eb6e263794310107236143721f4787",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404566467,
-    "wof:lastmodified":1608030963,
+    "wof:lastmodified":1695878785,
     "wof:name":"Guararema",
     "wof:parent_id":102061457,
     "wof:placetype":"localadmin",

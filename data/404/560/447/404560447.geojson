@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022778,
-    "geom:area_square_m":278928508.880884,
+    "geom:area_square_m":278928508.880913,
     "geom:bbox":"-36.5799913594,-8.07944158671,-36.3802654782,-7.89871399627",
     "geom:latitude":-7.986418,
     "geom:longitude":-36.480729,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.987122,
     "lbl:longitude":-36.470756,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u099f\u09be\u0989\u09ac\u09be"
@@ -85,9 +94,12 @@
         102056687
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260800805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"47024d0a0d9e3b30c1b405e604d844e9",
+    "wof:geomhash":"1daeb62677754494b113adbbf927b26e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404560447,
-    "wof:lastmodified":1577837868,
+    "wof:lastmodified":1695878718,
     "wof:name":"Jata\u00faba",
     "wof:parent_id":102056687,
     "wof:placetype":"localadmin",

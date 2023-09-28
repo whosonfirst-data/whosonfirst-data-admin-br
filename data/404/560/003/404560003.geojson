@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026743,
-    "geom:area_square_m":328213946.065134,
+    "geom:area_square_m":328213701.156014,
     "geom:bbox":"-37.389852,-7.153869,-37.173013,-6.906249",
     "geom:latitude":-7.009812,
     "geom:longitude":-37.276317,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.015655,
     "lbl:longitude":-37.287072,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u062a\u0648\u0633"
@@ -112,9 +121,12 @@
         102056289
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"251080805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"64c6a36b1cc94caa66433d56255bd503",
+    "wof:geomhash":"f2b3359009f1cbb740f9df0c2dd228d6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +138,7 @@
         }
     ],
     "wof:id":404560003,
-    "wof:lastmodified":1636496416,
+    "wof:lastmodified":1695878856,
     "wof:name":"Patos",
     "wof:parent_id":102056289,
     "wof:placetype":"localadmin",

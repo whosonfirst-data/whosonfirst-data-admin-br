@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048627,
-    "geom:area_square_m":572097957.996774,
+    "geom:area_square_m":572097957.99671,
     "geom:bbox":"-44.405404,-18.0340269972,-44.068465,-17.7988439973",
     "geom:latitude":-17.922667,
     "geom:longitude":-44.23034,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.908526,
     "lbl:longitude":-44.210296,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c1\u09af\u09bc\u09c7\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -100,9 +109,12 @@
         102053287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310920405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4d9eb5fbbb2f68c8b35403b1d5451782",
+    "wof:geomhash":"e8954e2e5570c5961a14fee8e72ba79f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404555557,
-    "wof:lastmodified":1577833053,
+    "wof:lastmodified":1695878499,
     "wof:name":"Buen\u00f3polis",
     "wof:parent_id":102053287,
     "wof:placetype":"localadmin",

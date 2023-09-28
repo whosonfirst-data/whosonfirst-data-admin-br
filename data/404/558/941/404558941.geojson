@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050015,
-    "geom:area_square_m":573321430.924644,
+    "geom:area_square_m":573321430.924645,
     "geom:bbox":"-54.5566569352,-22.1554320085,-54.2009176518,-21.8901129071",
     "geom:latitude":-22.02157,
     "geom:longitude":-54.384195,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.024678,
     "lbl:longitude":-54.342501,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u0430-\u0424\u043e\u0440\u043c\u043e\u0437\u0430"
@@ -37,9 +46,12 @@
         102055241
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500370248"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"25a893b74989a134d29feacdc3771ede",
+    "wof:geomhash":"afd4a9fabacc1c42352c4b8aa9b26993",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404558941,
-    "wof:lastmodified":1577836180,
+    "wof:lastmodified":1695878651,
     "wof:name":"Vila Formosa",
     "wof:parent_id":102055241,
     "wof:placetype":"localadmin",

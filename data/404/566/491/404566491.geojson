@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017024,
-    "geom:area_square_m":196445557.300922,
+    "geom:area_square_m":196445557.300967,
     "geom:bbox":"-49.3162908095,-21.1419190594,-49.1528836988,-20.9585180964",
     "geom:latitude":-21.05669,
     "geom:longitude":-49.243352,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.051601,
     "lbl:longitude":-49.242106,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09bf\u09b0\u09be"
@@ -94,9 +103,12 @@
         102061491
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351940205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"22aa141dec2693767994b9af6d80fda8",
+    "wof:geomhash":"b856fc53094d4583fd78f58ad2e531ba",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404566491,
-    "wof:lastmodified":1577832935,
+    "wof:lastmodified":1695878462,
     "wof:name":"Ibir\u00e1",
     "wof:parent_id":102061491,
     "wof:placetype":"localadmin",

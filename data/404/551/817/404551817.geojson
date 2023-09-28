@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.261009,
-    "geom:area_square_m":3182337051.561214,
+    "geom:area_square_m":3182337334.838398,
     "geom:bbox":"-42.399008,-10.028894,-41.854662,-9.236563",
     "geom:latitude":-9.586295,
     "geom:longitude":-42.13979,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.480048,
     "lbl:longitude":-42.107402,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0645\u0627\u0646\u0633\u0648"
@@ -139,9 +148,12 @@
         102051183
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292600405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2b0a098be64f0c6f9e3fc83cb5276c82",
+    "wof:geomhash":"dfe3fc0e024ec69edffa60ece302a8a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +165,7 @@
         }
     ],
     "wof:id":404551817,
-    "wof:lastmodified":1642551756,
+    "wof:lastmodified":1695878870,
     "wof:name":"Remanso",
     "wof:parent_id":102051183,
     "wof:placetype":"localadmin",

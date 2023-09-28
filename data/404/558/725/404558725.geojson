@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018389,
-    "geom:area_square_m":218980933.393937,
+    "geom:area_square_m":218980933.394036,
     "geom:bbox":"-44.08998,-15.6885629975,-43.816874,-15.5497519976",
     "geom:latitude":-15.620367,
     "geom:longitude":-43.973594,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.613384,
     "lbl:longitude":-43.971556,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09cd\u09aa\u09cb \u09b0\u09c7\u09a1\u09cb\u09a8\u09a1\u09cb"
@@ -91,9 +100,12 @@
         102055133
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"317090915"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"56b9eafb00d6d94752b2a5eebc73580a",
+    "wof:geomhash":"78e88ee65a0a1c5f3c990d9af0a02e92",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404558725,
-    "wof:lastmodified":1577833129,
+    "wof:lastmodified":1695878521,
     "wof:name":"Campo Redondo",
     "wof:parent_id":102055133,
     "wof:placetype":"localadmin",

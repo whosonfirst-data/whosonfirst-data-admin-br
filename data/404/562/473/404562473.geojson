@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013322,
-    "geom:area_square_m":151895370.253154,
+    "geom:area_square_m":151895370.25316,
     "geom:bbox":"-42.594137642,-22.8289188128,-42.4418371527,-22.7102107261",
     "geom:latitude":-22.77082,
     "geom:longitude":-42.51314,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.772371,
     "lbl:longitude":-42.499526,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09f1\u09be \u098f\u09b8\u09aa\u09c7\u09b0\u09be\u09a8\u09cd\u09b8\u09be"
@@ -79,9 +88,12 @@
         102058447
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330430010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0230c29f76391077c27ad2c87b4b3705",
+    "wof:geomhash":"774cfb799ebf67ed31ea6fd9951f7199",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404562473,
-    "wof:lastmodified":1577832953,
+    "wof:lastmodified":1695878467,
     "wof:name":"Boa Esperan\u00e7a",
     "wof:parent_id":102058447,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054349,
-    "geom:area_square_m":661008166.181691,
+    "geom:area_square_m":661008166.181487,
     "geom:bbox":"-62.1005236886,-10.6808817996,-61.8278134088,-10.1170449847",
     "geom:latitude":-10.398708,
     "geom:longitude":-61.969695,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.40104,
     "lbl:longitude":-61.967646,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058919
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"110015525"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"15063653f0e37a422fde6ca157eb77b0",
+    "wof:geomhash":"9bb68c8bb2fe7d814a011526dc0433c9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562805,
-    "wof:lastmodified":1577825651,
+    "wof:lastmodified":1695878147,
     "wof:name":"Rondominas",
     "wof:parent_id":102058919,
     "wof:placetype":"localadmin",

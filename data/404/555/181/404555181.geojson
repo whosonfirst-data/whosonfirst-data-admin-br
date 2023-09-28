@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002779,
-    "geom:area_square_m":32057534.968291,
+    "geom:area_square_m":32057534.968341,
     "geom:bbox":"-43.670547,-21.1608909968,-43.600639,-21.0903299968",
     "geom:latitude":-21.121296,
     "geom:longitude":-43.640849,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.115565,
     "lbl:longitude":-43.643229,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310163125"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bddea5ad400dec86f23a9ec2556eb478",
+    "wof:geomhash":"2897a08e6b3e8d0f448251acfb6353d6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555181,
-    "wof:lastmodified":1577832712,
+    "wof:lastmodified":1695878378,
     "wof:name":"S\u00e3o Jos\u00e9 De Pouso Alegre",
     "wof:parent_id":102053405,
     "wof:placetype":"localadmin",

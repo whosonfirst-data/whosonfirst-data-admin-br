@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004052,
-    "geom:area_square_m":49558380.438513,
+    "geom:area_square_m":49558380.438516,
     "geom:bbox":"-35.3724346743,-8.55607554077,-35.2682284877,-8.40900999167",
     "geom:latitude":-8.486738,
     "geom:longitude":-35.308098,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.504902,
     "lbl:longitude":-35.291487,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261180410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2fdf5c2e05f9ceba0ccfc4a43ab29b4e",
+    "wof:geomhash":"709c47f12ff42294eb6392a1bd4f00ee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560613,
-    "wof:lastmodified":1577837927,
+    "wof:lastmodified":1695878733,
     "wof:name":"Aripibu",
     "wof:parent_id":102056785,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01398,
-    "geom:area_square_m":168410725.378666,
+    "geom:area_square_m":168410725.378667,
     "geom:bbox":"-39.6904622242,-13.120547891,-39.537998367,-12.959625891",
     "geom:latitude":-13.039482,
     "geom:longitude":-39.611071,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.0432,
     "lbl:longitude":-39.609889,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Amargosa"
@@ -52,9 +61,12 @@
         102050485
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290100705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"85bcb8aee973c18febd368644da14f80",
+    "wof:geomhash":"c5f8b286e03bcee59f1c8009fab25bc8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":404550397,
-    "wof:lastmodified":1577837918,
+    "wof:lastmodified":1695878730,
     "wof:name":"Amargosa",
     "wof:parent_id":102050485,
     "wof:placetype":"localadmin",

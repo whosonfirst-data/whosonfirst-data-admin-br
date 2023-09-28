@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037256,
-    "geom:area_square_m":442146242.984657,
+    "geom:area_square_m":442146242.984693,
     "geom:bbox":"-40.217067,-16.464741,-40.01722,-16.126892",
     "geom:latitude":-16.307343,
     "geom:longitude":-40.116354,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.309716,
     "lbl:longitude":-40.12314,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054775,
         1511777411,
-        85681941
+        102054775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315810205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054775
     ],
     "wof:country":"BR",
-    "wof:geomhash":"b02dccdbd8f52840b55354de29e6f8d7",
+    "wof:geomhash":"181a5a241e019ec17d42eb4f3138a4e9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404558081,
-    "wof:lastmodified":1608030532,
+    "wof:lastmodified":1695878777,
     "wof:name":"Santa Maria Do Salto",
     "wof:parent_id":102054775,
     "wof:placetype":"localadmin",

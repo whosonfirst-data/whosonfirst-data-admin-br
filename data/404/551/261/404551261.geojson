@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.798736,
-    "geom:area_square_m":9581366587.581575,
+    "geom:area_square_m":9581366587.582682,
     "geom:bbox":"-46.265972,-14.815725,-44.224877,-13.395891",
     "geom:latitude":-14.040382,
     "geom:longitude":-45.42561,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.134348,
     "lbl:longitude":-45.663149,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u09ac\u09cb\u09b0\u09be\u09a8\u09cd\u09a1\u09bf"
@@ -70,12 +79,15 @@
         102050925
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291735905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050925
     ],
     "wof:country":"BR",
-    "wof:geomhash":"1163d51a62003aaa70464ce3290c673e",
+    "wof:geomhash":"705fc49fe1f294677d286e0029112eca",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404551261,
-    "wof:lastmodified":1617130923,
+    "wof:lastmodified":1695878839,
     "wof:name":"Jaborandi",
     "wof:parent_id":102050925,
     "wof:placetype":"localadmin",

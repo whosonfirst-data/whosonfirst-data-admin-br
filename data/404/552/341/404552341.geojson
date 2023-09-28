@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021714,
-    "geom:area_square_m":267858888.301486,
+    "geom:area_square_m":267858888.301503,
     "geom:bbox":"-39.4857687466,-4.08953103004,-39.2979742232,-3.86129513209",
     "geom:latitude":-3.970517,
     "geom:longitude":-39.379175,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.979819,
     "lbl:longitude":-39.357216,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09aa\u09c1\u0987\u09af\u09bc\u09be\u09b0\u09c7\u09b8"
@@ -88,9 +97,12 @@
         102051425
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230090305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7f502e62c4ac1c7e571d4d499faf7afd",
+    "wof:geomhash":"82999e6dc8030ea56474966788e09aaa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404552341,
-    "wof:lastmodified":1577837647,
+    "wof:lastmodified":1695878664,
     "wof:name":"Apuiar\u00e9s",
     "wof:parent_id":102051425,
     "wof:placetype":"localadmin",

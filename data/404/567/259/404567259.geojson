@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003888,
-    "geom:area_square_m":43971306.832657,
+    "geom:area_square_m":43971306.832644,
     "geom:bbox":"-48.2074619349,-23.8957714573,-48.1072211751,-23.8240720296",
     "geom:latitude":-23.859166,
     "geom:longitude":-48.148138,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.858196,
     "lbl:longitude":-48.148892,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102062253
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355020915"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"83cd25a74c22656b7f6b9b7ddfcade35",
+    "wof:geomhash":"0c692acf7123f706a9c7ca4449b57ca6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404567259,
-    "wof:lastmodified":1577832576,
+    "wof:lastmodified":1695878326,
     "wof:name":"Gramad\u00e3o",
     "wof:parent_id":102062253,
     "wof:placetype":"localadmin",

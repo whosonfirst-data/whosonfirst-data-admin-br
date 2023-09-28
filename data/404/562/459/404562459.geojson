@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01352,
-    "geom:area_square_m":154547327.539999,
+    "geom:area_square_m":154547327.53997,
     "geom:bbox":"-44.5865747658,-22.4751253778,-44.3504834159,-22.3518002703",
     "geom:latitude":-22.415108,
     "geom:longitude":-44.457464,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.407031,
     "lbl:longitude":-44.459283,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058445
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330420110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"feedbb3819416cba37e59cd048afa3cb",
+    "wof:geomhash":"d0bb62ee844aa1d9c4893a25d84f6620",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562459,
-    "wof:lastmodified":1577832911,
+    "wof:lastmodified":1695878454,
     "wof:name":"Agulhas Negras",
     "wof:parent_id":102058445,
     "wof:placetype":"localadmin",

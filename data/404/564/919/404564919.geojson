@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001966,
-    "geom:area_square_m":21051680.227008,
+    "geom:area_square_m":21051680.227014,
     "geom:bbox":"-50.1875781534,-30.0290084246,-50.1188946174,-29.9756485688",
     "geom:latitude":-30.002452,
     "geom:longitude":-50.152696,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.005536,
     "lbl:longitude":-50.152174,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09cd\u09b0\u09be\u09ae\u09be\u09a8\u09cd\u09a1\u09be\u0987"
@@ -100,9 +109,12 @@
         102060053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432160005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1087a794bca83e4e779520c8c45c4993",
+    "wof:geomhash":"323704bfb18c3f66c4dcd18bfc0fbb0e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404564919,
-    "wof:lastmodified":1577827701,
+    "wof:lastmodified":1695878176,
     "wof:name":"Tramanda\u00ed",
     "wof:parent_id":102060053,
     "wof:placetype":"localadmin",

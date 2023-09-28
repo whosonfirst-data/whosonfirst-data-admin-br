@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019649,
-    "geom:area_square_m":224080317.438376,
+    "geom:area_square_m":224080317.438369,
     "geom:bbox":"-53.12788,-22.85516,-52.994727,-22.618186",
     "geom:latitude":-22.735469,
     "geom:longitude":-53.063572,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.74011,
     "lbl:longitude":-53.06424,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09bf\u09b2\u09c7\u09a8\u09be"
@@ -81,19 +90,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681983,
         102191577,
         85633009,
-        102057871,
         1511777409,
-        85681983
+        102057871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411500205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102057871
     ],
     "wof:country":"BR",
-    "wof:geomhash":"94460cb1c6f488eed1eb66974584889b",
+    "wof:geomhash":"ed6e5a0e046d991f63e129fcb1d9f568",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404561455,
-    "wof:lastmodified":1608031461,
+    "wof:lastmodified":1695878788,
     "wof:name":"Marilena",
     "wof:parent_id":102057871,
     "wof:placetype":"localadmin",

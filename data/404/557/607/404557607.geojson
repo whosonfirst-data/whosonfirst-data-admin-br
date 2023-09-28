@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009414,
-    "geom:area_square_m":108548987.922796,
+    "geom:area_square_m":108548987.922723,
     "geom:bbox":"-42.33615,-21.2243639968,-42.1744937523,-21.1186149968",
     "geom:latitude":-21.167153,
     "geom:longitude":-42.252987,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.164826,
     "lbl:longitude":-42.254207,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054515
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314820205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c7287be1bc4ced8cc9030ecde958cff7",
+    "wof:geomhash":"f0f03e78f5dcdd82dcaabfc7399db702",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557607,
-    "wof:lastmodified":1577833050,
+    "wof:lastmodified":1695878498,
     "wof:name":"Patroc\u00ednio Do Muria\u00e9",
     "wof:parent_id":102054515,
     "wof:placetype":"localadmin",

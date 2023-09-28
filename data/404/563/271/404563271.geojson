@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096274,
-    "geom:area_square_m":1019174483.926699,
+    "geom:area_square_m":1019174483.926667,
     "geom:bbox":"-52.9458413071,-31.3681253282,-52.6222670219,-30.8953370729",
     "geom:latitude":-31.115081,
     "geom:longitude":-52.795649,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-31.099712,
     "lbl:longitude":-52.814838,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059213
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430450725"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a7486b4caa0c460c69ce0eef7ad77f1a",
+    "wof:geomhash":"b437135c46d8a6a03c6ce1acb34cda0d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404563271,
-    "wof:lastmodified":1577827755,
+    "wof:lastmodified":1695878203,
     "wof:name":"Terceiro Distrito",
     "wof:parent_id":102059213,
     "wof:placetype":"localadmin",

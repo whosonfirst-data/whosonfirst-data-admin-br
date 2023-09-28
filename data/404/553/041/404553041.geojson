@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010306,
-    "geom:area_square_m":126542446.926332,
+    "geom:area_square_m":126542446.926338,
     "geom:bbox":"-38.8033115079,-6.86406433155,-38.6132729666,-6.717429872",
     "geom:latitude":-6.790518,
     "geom:longitude":-38.707835,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.800827,
     "lbl:longitude":-38.698542,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09aa\u09be\u0989\u09ae\u09bf\u09b0\u09bf\u09ae"
@@ -91,9 +100,12 @@
         102051579
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230570405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c3292af5c98115c4661c1528bb7c6095",
+    "wof:geomhash":"002396c960eee019eef2f3df95f0ed9f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404553041,
-    "wof:lastmodified":1577837889,
+    "wof:lastmodified":1695878722,
     "wof:name":"Ipaumirim",
     "wof:parent_id":102051579,
     "wof:placetype":"localadmin",

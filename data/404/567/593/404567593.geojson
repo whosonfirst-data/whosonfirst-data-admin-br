@@ -10,12 +10,21 @@
     "geom:latitude":-21.384605,
     "geom:longitude":-51.598405,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.38879,
     "lbl:longitude":-51.588305,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c1\u09aa\u09bf \u09aa\u09be\u0989\u09b2\u09bf\u09b8\u09cd\u099f\u09be"
@@ -91,9 +100,12 @@
         102062379
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355510905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4585f53610cc502a0ba443614feeb4f3",
+    "wof:geomhash":"7629ffacee76c96276ba9f55d9353357",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404567593,
-    "wof:lastmodified":1577833380,
+    "wof:lastmodified":1695878599,
     "wof:name":"Tupi Paulista",
     "wof:parent_id":102062379,
     "wof:placetype":"localadmin",

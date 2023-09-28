@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016641,
-    "geom:area_square_m":196409062.776042,
+    "geom:area_square_m":196409062.775935,
     "geom:bbox":"-42.393814,-17.4539089973,-42.18761,-17.2707569973",
     "geom:latitude":-17.352199,
     "geom:longitude":-42.308185,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.344245,
     "lbl:longitude":-42.323797,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054335
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314180106"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9d125a39fb4046cbd021602aaa4f6fef",
+    "wof:geomhash":"2189ff6fcb1d8707b4e503a34b27fb2d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557239,
-    "wof:lastmodified":1577832778,
+    "wof:lastmodified":1695878404,
     "wof:name":"Baixa Quente",
     "wof:parent_id":102054335,
     "wof:placetype":"localadmin",

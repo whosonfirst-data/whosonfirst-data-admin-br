@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027805,
-    "geom:area_square_m":302208270.580011,
+    "geom:area_square_m":302208270.580062,
     "geom:bbox":"-49.18424,-28.594257,-48.901995,-28.36241",
     "geom:latitude":-28.481159,
     "geom:longitude":-49.037184,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.473393,
     "lbl:longitude":-49.050754,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0628\u0627\u0631\u0627\u0648"
@@ -99,19 +108,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060807,
         1511777409,
-        85682021
+        102060807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421870705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060807
     ],
     "wof:country":"BR",
-    "wof:geomhash":"9d96254b196017d506e04832252329b5",
+    "wof:geomhash":"277720af537821b82585a3ad1b2d0a9c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":404565961,
-    "wof:lastmodified":1608034344,
+    "wof:lastmodified":1695878822,
     "wof:name":"Tubar\u00e3o",
     "wof:parent_id":102060807,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004817,
-    "geom:area_square_m":54921165.147749,
+    "geom:area_square_m":54921165.147747,
     "geom:bbox":"-51.6973703053,-22.8314383595,-51.6280814617,-22.7245574868",
     "geom:latitude":-22.769015,
     "geom:longitude":-51.656634,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.76499,
     "lbl:longitude":-51.659438,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09c1\u09aa\u09bf\u0993\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -94,9 +103,12 @@
         102057841
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411380905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f8b752391032e49e45461420658a927e",
+    "wof:geomhash":"8ec8609f0f0ba68c14cbc99d1523fb10",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404561395,
-    "wof:lastmodified":1577827874,
+    "wof:lastmodified":1695878258,
     "wof:name":"Lupion\u00f3polis",
     "wof:parent_id":102057841,
     "wof:placetype":"localadmin",

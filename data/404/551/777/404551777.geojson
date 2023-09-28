@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022897,
-    "geom:area_square_m":271493289.67423,
+    "geom:area_square_m":271493289.674229,
     "geom:bbox":"-39.575944462,-16.5783728064,-39.1913495806,-16.3822749922",
     "geom:latitude":-16.47443,
     "geom:longitude":-39.433831,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.511808,
     "lbl:longitude":-39.479085,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u09b2\u09c7 \u09ad\u09c7\u09b0\u09cd\u09a1\u09c7"
@@ -85,9 +94,12 @@
         102051161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292530315"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3f735b3c72b06ed6da17a3ba03007e1c",
+    "wof:geomhash":"fbc315dfe3d74a9bdf33157faedd7451",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404551777,
-    "wof:lastmodified":1577837953,
+    "wof:lastmodified":1695878740,
     "wof:name":"Vale Verde",
     "wof:parent_id":102051161,
     "wof:placetype":"localadmin",

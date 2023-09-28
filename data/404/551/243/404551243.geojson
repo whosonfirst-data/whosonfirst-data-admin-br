@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142384,
-    "geom:area_square_m":1729810133.941997,
+    "geom:area_square_m":1729810133.942635,
     "geom:bbox":"-40.057592,-10.985501,-39.624299,-10.385489",
     "geom:latitude":-10.730726,
     "geom:longitude":-39.842685,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.733764,
     "lbl:longitude":-39.875616,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09bf\u0989\u09ac\u09be"
@@ -94,12 +103,15 @@
         102050913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291700305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050913
     ],
     "wof:country":"BR",
-    "wof:geomhash":"279dff7404dc1aeb578f606301627a11",
+    "wof:geomhash":"36a70a962c6c30ab73bb4127b59f4e8a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404551243,
-    "wof:lastmodified":1617130357,
+    "wof:lastmodified":1695878835,
     "wof:name":"Iti\u00faba",
     "wof:parent_id":102050913,
     "wof:placetype":"localadmin",

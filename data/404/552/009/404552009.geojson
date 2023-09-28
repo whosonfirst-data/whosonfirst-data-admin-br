@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070654,
-    "geom:area_square_m":845384665.787143,
+    "geom:area_square_m":845384665.787038,
     "geom:bbox":"-43.3642993361,-14.7692902058,-42.835354206,-14.5016433535",
     "geom:latitude":-14.613719,
     "geom:longitude":-43.013188,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.602321,
     "lbl:longitude":-42.98737,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09ac\u09be\u09b8\u099f\u09bf\u09af\u09bc\u09be\u0993 \u09b2\u09be\u09b0\u09be\u09a8\u099c\u09c7\u0987\u09b0\u09be\u09b8"
@@ -100,9 +109,12 @@
         102051291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"293000605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"582fbc278fc25f363a603484fb3241ca",
+    "wof:geomhash":"36e0e0204717c7c1f7da39148c1689ed",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404552009,
-    "wof:lastmodified":1577837610,
+    "wof:lastmodified":1695878654,
     "wof:name":"Sebasti\u00e3o Laranjeiras",
     "wof:parent_id":102051291,
     "wof:placetype":"localadmin",

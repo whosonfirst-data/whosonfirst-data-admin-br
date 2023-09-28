@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004456,
-    "geom:area_square_m":54944670.001562,
+    "geom:area_square_m":54944670.001566,
     "geom:bbox":"-38.4522073756,-4.34007885239,-38.3856829753,-4.23894013532",
     "geom:latitude":-4.295294,
     "geom:longitude":-38.413887,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.29476,
     "lbl:longitude":-38.416585,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Cedro"
@@ -79,9 +88,12 @@
         102051507
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230395615"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c03c72e4cf44954847ea4052aec7dcd4",
+    "wof:geomhash":"83af9b8e3ea95fec46b492b275d6bdeb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404552721,
-    "wof:lastmodified":1577837950,
+    "wof:lastmodified":1695878739,
     "wof:name":"Cedro",
     "wof:parent_id":102051507,
     "wof:placetype":"localadmin",

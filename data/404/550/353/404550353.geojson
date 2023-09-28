@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047682,
-    "geom:area_square_m":589599693.429713,
+    "geom:area_square_m":589599693.429786,
     "geom:bbox":"-51.5783515627,-0.0836069302392,-51.3003814987,0.230128115526",
     "geom:latitude":0.080615,
     "geom:longitude":-51.42328,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":0.107683,
     "lbl:longitude":-51.4485,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050457
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"160060010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"736fe9a53d7b0201686a8cb12c210d08",
+    "wof:geomhash":"f18267712a94f8165cf24832cd5cf17e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550353,
-    "wof:lastmodified":1577825648,
+    "wof:lastmodified":1695878146,
     "wof:name":"Igarap\u00e9 Do Lago",
     "wof:parent_id":102050457,
     "wof:placetype":"localadmin",

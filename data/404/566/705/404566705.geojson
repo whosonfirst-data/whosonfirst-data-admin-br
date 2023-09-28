@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012685,
-    "geom:area_square_m":144337973.874821,
+    "geom:area_square_m":144337973.874798,
     "geom:bbox":"-49.3876369523,-23.1296624852,-49.2674680744,-22.952736639",
     "geom:latitude":-23.039673,
     "geom:longitude":-49.327759,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.044208,
     "lbl:longitude":-49.338601,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09a8\u09a1\u09c1\u09b0\u09bf"
@@ -88,9 +97,12 @@
         102061713
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352860105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7329d0cda17be7e6ecde29cb85e03c9b",
+    "wof:geomhash":"fb4100fdf986637f4b89e5ca7e46d957",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404566705,
-    "wof:lastmodified":1577833387,
+    "wof:lastmodified":1695878602,
     "wof:name":"Manduri",
     "wof:parent_id":102061713,
     "wof:placetype":"localadmin",

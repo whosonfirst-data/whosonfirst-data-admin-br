@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129732,
-    "geom:area_square_m":1391990337.646213,
+    "geom:area_square_m":1391990337.64641,
     "geom:bbox":"-56.797305658,-30.0197196341,-56.2832363317,-29.4686281314",
     "geom:latitude":-29.802845,
     "geom:longitude":-56.507948,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.818527,
     "lbl:longitude":-56.525482,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432240025"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5e13a9e59edc39b47c2a7f3babdded89",
+    "wof:geomhash":"480f4796918e3d04a1f749b06a012388",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565015,
-    "wof:lastmodified":1577827887,
+    "wof:lastmodified":1695878265,
     "wof:name":"Plano Alto",
     "wof:parent_id":102060101,
     "wof:placetype":"localadmin",

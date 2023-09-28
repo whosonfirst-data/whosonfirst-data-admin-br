@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034985,
-    "geom:area_square_m":428178111.9093,
+    "geom:area_square_m":428178111.909307,
     "geom:bbox":"-35.890804,-8.324582,-35.630329,-8.104083",
     "geom:latitude":-8.19815,
     "geom:longitude":-35.772221,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.198583,
     "lbl:longitude":-35.787721,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u099c\u09af\u09bc\u09c7\u09b0\u09b0\u09cb\u09b8"
@@ -81,19 +90,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681973,
         102191577,
         85633009,
-        102056531,
         1511777415,
-        85681973
+        102056531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260190405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102056531
     ],
     "wof:country":"BR",
-    "wof:geomhash":"3ff17232b0e9b8d4546f7d4e48549634",
+    "wof:geomhash":"0a097cf5a35c7bccba0d718707bca47e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404560185,
-    "wof:lastmodified":1608029993,
+    "wof:lastmodified":1695878771,
     "wof:name":"Bezerros",
     "wof:parent_id":102056531,
     "wof:placetype":"localadmin",

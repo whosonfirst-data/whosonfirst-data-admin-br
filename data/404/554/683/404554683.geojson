@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003881,
-    "geom:area_square_m":45012061.848446,
+    "geom:area_square_m":45012061.848427,
     "geom:bbox":"-40.362332,-20.33016,-40.273224,-20.2443",
     "geom:latitude":-20.296878,
     "geom:longitude":-40.321555,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.298851,
     "lbl:longitude":-40.329654,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681921,
         102191577,
         85633009,
-        102051991,
         1511777411,
-        85681921
+        102051991
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320530905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101954595
     ],
     "wof:country":"BR",
-    "wof:geomhash":"d350980659495aff33facd6c6c62d71c",
+    "wof:geomhash":"36093d07cbdbec8d207aa440c7d749bc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404554683,
-    "wof:lastmodified":1608012413,
+    "wof:lastmodified":1695878750,
     "wof:name":"Vit\u00f3ria",
     "wof:parent_id":102051991,
     "wof:placetype":"localadmin",

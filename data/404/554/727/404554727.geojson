@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008237,
-    "geom:area_square_m":97519060.591631,
+    "geom:area_square_m":97519060.59165,
     "geom:bbox":"-49.361969,-16.82569,-49.160247,-16.725597",
     "geom:latitude":-16.771655,
     "geom:longitude":-49.278787,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.767753,
     "lbl:longitude":-49.278766,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102052033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"520140510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101962375
     ],
     "wof:country":"BR",
-    "wof:geomhash":"96e394f37ce952068da9004302e2e8c5",
+    "wof:geomhash":"55c78943601d5903fa949f2fec13f781",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404554727,
-    "wof:lastmodified":1617129946,
+    "wof:lastmodified":1695878828,
     "wof:name":"Nova Bras\u00edlia",
     "wof:parent_id":102052033,
     "wof:placetype":"localadmin",

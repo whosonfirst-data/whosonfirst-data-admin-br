@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109636,
-    "geom:area_square_m":1309883969.920921,
+    "geom:area_square_m":1309883969.920758,
     "geom:bbox":"-43.539578,-15.0954819976,-42.983985,-14.7768839977",
     "geom:latitude":-14.933128,
     "geom:longitude":-43.302233,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.939209,
     "lbl:longitude":-43.302252,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053941
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312733915"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9face77f1b574a898afb9b2a5cfe7d87",
+    "wof:geomhash":"08bdc1edab7507fb34894a9104e3eb6f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556467,
-    "wof:lastmodified":1577832959,
+    "wof:lastmodified":1695878469,
     "wof:name":"Jacu Das Piranhas",
     "wof:parent_id":102053941,
     "wof:placetype":"localadmin",

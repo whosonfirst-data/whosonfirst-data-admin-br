@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060132,
-    "geom:area_square_m":677000947.538358,
+    "geom:area_square_m":677001064.08984,
     "geom:bbox":"-48.238731,-24.601344,-48.001415,-24.194164",
     "geom:latitude":-24.425108,
     "geom:longitude":-48.130205,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.438896,
     "lbl:longitude":-48.116156,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u0648\u0631\u0627\u062f\u0648"
@@ -94,9 +103,12 @@
         102061357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351480905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d9ff14415110c00caa73a192247d2d8d",
+    "wof:geomhash":"ad137a2e9599c5d51eb2357dfe5c4f7c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404566383,
-    "wof:lastmodified":1636496422,
+    "wof:lastmodified":1695878857,
     "wof:name":"Eldorado",
     "wof:parent_id":102061357,
     "wof:placetype":"localadmin",

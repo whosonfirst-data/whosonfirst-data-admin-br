@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.255057,
-    "geom:area_square_m":3045150175.158701,
+    "geom:area_square_m":3045150175.158082,
     "geom:bbox":"-52.8134398563,-15.3660406926,-52.0042059751,-14.8022849171",
     "geom:latitude":-15.084207,
     "geom:longitude":-52.366568,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.091498,
     "lbl:longitude":-52.271752,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09a8\u09a1\u09bf\u09af\u09bc\u09be\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -91,9 +100,12 @@
         102055381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510180315"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0ae1e750941cd363b9f13ac0915b1700",
+    "wof:geomhash":"59ad1dd7e8df4a1cf561e4d2f3818e85",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404559115,
-    "wof:lastmodified":1577836087,
+    "wof:lastmodified":1695878627,
     "wof:name":"Indian\u00f3polis",
     "wof:parent_id":102055381,
     "wof:placetype":"localadmin",

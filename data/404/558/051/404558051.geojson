@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006778,
-    "geom:area_square_m":78676243.650171,
+    "geom:area_square_m":78676243.650123,
     "geom:bbox":"-42.81233,-20.2370059969,-42.707269,-20.1214279969",
     "geom:latitude":-20.16862,
     "geom:longitude":-42.761976,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.167046,
     "lbl:longitude":-42.762779,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315740115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7388a29e0ef1b369895a4bbae7ba324a",
+    "wof:geomhash":"d6e59171d155bd6d14ef5adb64aeda28",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558051,
-    "wof:lastmodified":1577832593,
+    "wof:lastmodified":1695878335,
     "wof:name":"Zito Soares",
     "wof:parent_id":102054757,
     "wof:placetype":"localadmin",

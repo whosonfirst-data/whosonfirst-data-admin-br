@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049684,
-    "geom:area_square_m":533528670.25176,
+    "geom:area_square_m":533528670.251696,
     "geom:bbox":"-54.8315514293,-29.8367069203,-54.4679398737,-29.6088306421",
     "geom:latitude":-29.721674,
     "geom:longitude":-54.653122,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.723055,
     "lbl:longitude":-54.638373,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431980205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e9aa8427f09d4189f41dbb24efb4ba2b",
+    "wof:geomhash":"7bb59e35434da6c1d01dd77125a2a24b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564761,
-    "wof:lastmodified":1577827952,
+    "wof:lastmodified":1695878295,
     "wof:name":"S\u00e3o Vicente Do Sul",
     "wof:parent_id":102059975,
     "wof:placetype":"localadmin",

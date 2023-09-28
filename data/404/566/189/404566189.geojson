@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044987,
-    "geom:area_square_m":513030247.118378,
+    "geom:area_square_m":513030247.118277,
     "geom:bbox":"-48.4771453866,-22.88839591,-48.239638684,-22.5953158677",
     "geom:latitude":-22.739424,
     "geom:longitude":-48.343061,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.744654,
     "lbl:longitude":-48.364532,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061183
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350750615"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c367d10d01757496175648e4c28069cc",
+    "wof:geomhash":"dc1950198bacbc9ec4ab48802323e217",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566189,
-    "wof:lastmodified":1577832559,
+    "wof:lastmodified":1695878321,
     "wof:name":"Vitoriana",
     "wof:parent_id":102061183,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002726,
-    "geom:area_square_m":30869444.232207,
+    "geom:area_square_m":30869444.232183,
     "geom:bbox":"-46.651291,-23.739143,-46.577515,-23.657341",
     "geom:latitude":-23.697288,
     "geom:longitude":-46.611424,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.69098,
     "lbl:longitude":-46.607798,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Diadema"
@@ -60,20 +69,23 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061333,
         1511777411,
-        85682041
+        102061333
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351380105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101956143,
         102061333
     ],
     "wof:country":"BR",
-    "wof:geomhash":"f55d85d6e43a805f0602d607c7414835",
+    "wof:geomhash":"c02827e916f379c73f45ab2b68feaa72",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +97,7 @@
         }
     ],
     "wof:id":404566363,
-    "wof:lastmodified":1608030696,
+    "wof:lastmodified":1695878781,
     "wof:name":"Diadema",
     "wof:parent_id":102061333,
     "wof:placetype":"localadmin",

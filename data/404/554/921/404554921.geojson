@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049416,
-    "geom:area_square_m":589715407.310446,
+    "geom:area_square_m":589715407.310515,
     "geom:bbox":"-50.008640134,-15.3325759187,-49.6673374407,-15.0624747539",
     "geom:latitude":-15.179003,
     "geom:longitude":-49.843213,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.17657,
     "lbl:longitude":-49.854852,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09c1\u09ac\u09bf\u0986\u099f\u09be\u09ac\u09be"
@@ -91,9 +100,12 @@
         102052585
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"521890405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a19767f7868447092182c43dadfc3996",
+    "wof:geomhash":"f9c625bbcd90a371df970c7d71cee844",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404554921,
-    "wof:lastmodified":1577836185,
+    "wof:lastmodified":1695878653,
     "wof:name":"Rubiataba",
     "wof:parent_id":102052585,
     "wof:placetype":"localadmin",

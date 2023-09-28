@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063441,
-    "geom:area_square_m":729898211.492912,
+    "geom:area_square_m":729898211.493406,
     "geom:bbox":"-44.80142,-21.642918,-44.438408,-21.309102",
     "geom:latitude":-21.496353,
     "geom:longitude":-44.612083,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.508315,
     "lbl:longitude":-44.579206,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053607,
         1511777411,
-        85681941
+        102053607
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311460005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053607
     ],
     "wof:country":"BR",
-    "wof:geomhash":"3417bb45094045b867a8f860d0d73a47",
+    "wof:geomhash":"8be4367cde19d60afc9a013b82e06289",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404555817,
-    "wof:lastmodified":1608032467,
+    "wof:lastmodified":1695878807,
     "wof:name":"Carrancas",
     "wof:parent_id":102053607,
     "wof:placetype":"localadmin",

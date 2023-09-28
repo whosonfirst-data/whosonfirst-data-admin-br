@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10702,
-    "geom:area_square_m":1301327139.169355,
+    "geom:area_square_m":1301327139.169372,
     "geom:bbox":"-62.788410946,-10.6772281315,-62.2937316106,-10.2819716016",
     "geom:latitude":-10.460216,
     "geom:longitude":-62.523716,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.459068,
     "lbl:longitude":-62.479201,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u09b0\u09c1"
@@ -88,9 +97,12 @@
         102058909
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"110011405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9dcef66b67384e847cd277bbb96aa0c1",
+    "wof:geomhash":"e8cca2851c4375033e93182b5ad311e1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404562779,
-    "wof:lastmodified":1577825697,
+    "wof:lastmodified":1695878170,
     "wof:name":"Jaru",
     "wof:parent_id":102058909,
     "wof:placetype":"localadmin",

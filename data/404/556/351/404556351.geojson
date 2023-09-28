@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021514,
-    "geom:area_square_m":245195653.099392,
+    "geom:area_square_m":245195653.099465,
     "geom:bbox":"-46.384192,-22.904679,-46.16753,-22.71855",
     "geom:latitude":-22.825232,
     "geom:longitude":-46.289656,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.818836,
     "lbl:longitude":-46.298675,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Extrema"
@@ -42,19 +51,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053879,
         1511777411,
-        85681941
+        102053879
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312510105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053879
     ],
     "wof:country":"BR",
-    "wof:geomhash":"0cd73ab67e40d7a9f30bdcdadec1beca",
+    "wof:geomhash":"8d52e111adef8f4216518adfc74ad66d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":404556351,
-    "wof:lastmodified":1608029501,
+    "wof:lastmodified":1695878764,
     "wof:name":"Extrema",
     "wof:parent_id":102053879,
     "wof:placetype":"localadmin",

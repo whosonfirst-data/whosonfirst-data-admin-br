@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027658,
-    "geom:area_square_m":316086919.886659,
+    "geom:area_square_m":316086919.886558,
     "geom:bbox":"-48.289468,-22.536574,-48.040779,-22.361637",
     "geom:latitude":-22.444588,
     "geom:longitude":-48.164437,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.42293,
     "lbl:longitude":-48.164391,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09cb\u09b0\u09cd\u09b0\u09bf\u09a8\u09b9\u09be"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102062365,
         1511777411,
-        85682041
+        102062365
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355470605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102062365
     ],
     "wof:country":"BR",
-    "wof:geomhash":"e0bbbfbe1d96b7686fca69dcfdec5bf5",
+    "wof:geomhash":"99564e37395febf8fa17f3cf1e81a0ba",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404567581,
-    "wof:lastmodified":1608030120,
+    "wof:lastmodified":1695878772,
     "wof:name":"Torrinha",
     "wof:parent_id":102062365,
     "wof:placetype":"localadmin",

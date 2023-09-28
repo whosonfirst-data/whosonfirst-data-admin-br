@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008176,
-    "geom:area_square_m":88317687.593279,
+    "geom:area_square_m":88317687.593271,
     "geom:bbox":"-51.4272578308,-29.1561652581,-51.2928144258,-29.0561222833",
     "geom:latitude":-29.118181,
     "geom:longitude":-51.369232,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.127423,
     "lbl:longitude":-51.375952,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jansen"
@@ -85,9 +94,12 @@
         102059403
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430790610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3bd94887e6e59161ef085635498bd7fd",
+    "wof:geomhash":"435d085207b4a1b78275a2d741973830",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404563609,
-    "wof:lastmodified":1577827801,
+    "wof:lastmodified":1695878224,
     "wof:name":"Jansen",
     "wof:parent_id":102059403,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046305,
-    "geom:area_square_m":489819515.539141,
+    "geom:area_square_m":489819515.539116,
     "geom:bbox":"-52.0333068423,-31.3363573108,-51.7796575148,-31.0357549963",
     "geom:latitude":-31.18793,
     "geom:longitude":-51.904079,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-31.194614,
     "lbl:longitude":-51.906461,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431880435"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"30742b703e746cda54f1f91b7cfa86b5",
+    "wof:geomhash":"70dfbcefe25d304afa4c1e70e69d427a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564681,
-    "wof:lastmodified":1577827931,
+    "wof:lastmodified":1695878286,
     "wof:name":"Prado Novo",
     "wof:parent_id":102059933,
     "wof:placetype":"localadmin",

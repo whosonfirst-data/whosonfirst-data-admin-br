@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026983,
-    "geom:area_square_m":296705328.171415,
+    "geom:area_square_m":296705328.171639,
     "geom:bbox":"-49.247898,-27.308232,-48.975328,-27.11892",
     "geom:latitude":-27.218405,
     "geom:longitude":-49.123598,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.216284,
     "lbl:longitude":-49.12562,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u099f\u09c1\u09ad\u09c7\u09b0\u09be"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060285,
         1511777409,
-        85682021
+        102060285
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420270105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060285
     ],
     "wof:country":"BR",
-    "wof:geomhash":"c8ac9463bda51c48de8df46224da7cf9",
+    "wof:geomhash":"2272e8d38b3bc600199ec07e1e51fe32",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404565233,
-    "wof:lastmodified":1608034280,
+    "wof:lastmodified":1695878820,
     "wof:name":"Botuver\u00e1",
     "wof:parent_id":102060285,
     "wof:placetype":"localadmin",

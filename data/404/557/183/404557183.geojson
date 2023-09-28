@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007295,
-    "geom:area_square_m":84613836.368344,
+    "geom:area_square_m":84613836.368297,
     "geom:bbox":"-41.9031,-20.3109247678,-41.7749630595,-20.2326729969",
     "geom:latitude":-20.271081,
     "geom:longitude":-41.839442,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.275879,
     "lbl:longitude":-41.831824,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09cd\u099f\u09bf\u09a8\u09cd\u09b8 \u09b8\u09cb\u09af\u09bc\u09be\u09b0\u09c7\u09b8"
@@ -97,9 +106,12 @@
         102054301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314053005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"006d601b089b32838521ced260a3b2d8",
+    "wof:geomhash":"3dcce4c41a7efce48d02af745fcee51c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404557183,
-    "wof:lastmodified":1577832722,
+    "wof:lastmodified":1695878382,
     "wof:name":"Martins Soares",
     "wof:parent_id":102054301,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008638,
-    "geom:area_square_m":97565015.13514,
+    "geom:area_square_m":97565015.135145,
     "geom:bbox":"-46.612735,-24.08962,-46.497947,-23.946424",
     "geom:latitude":-24.018214,
     "geom:longitude":-46.556622,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.030874,
     "lbl:longitude":-46.562257,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102062023,
         1511777411,
-        85682041
+        102062023
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354100010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101956243
     ],
     "wof:country":"BR",
-    "wof:geomhash":"6211e97e6998cc644442e813772ee917",
+    "wof:geomhash":"23bab7b1926c49178b2e395a2b1c66fa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404567045,
-    "wof:lastmodified":1608023468,
+    "wof:lastmodified":1695878753,
     "wof:name":"Solemar",
     "wof:parent_id":102062023,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033571,
-    "geom:area_square_m":415002126.190701,
+    "geom:area_square_m":415002126.190738,
     "geom:bbox":"-48.6244082337,-1.52658474636,-48.3310579657,-1.15134926138",
     "geom:latitude":-1.301252,
     "geom:longitude":-48.50429,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-1.240355,
     "lbl:longitude":-48.52653,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Outeiro"
@@ -61,9 +70,12 @@
         102055703
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150140267"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"46d704c8f72509ffd86bae94d84845a0",
+    "wof:geomhash":"374a441533f6c7276443b989737dc488",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404559525,
-    "wof:lastmodified":1577825644,
+    "wof:lastmodified":1695878144,
     "wof:name":"Outeiro",
     "wof:parent_id":102055703,
     "wof:placetype":"localadmin",

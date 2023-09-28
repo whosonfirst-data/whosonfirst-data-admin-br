@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024869,
-    "geom:area_square_m":305836009.603644,
+    "geom:area_square_m":305836009.603682,
     "geom:bbox":"-38.4116025462,-6.08845940989,-38.2300332773,-5.86523977613",
     "geom:latitude":-5.983609,
     "geom:longitude":-38.325421,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.006269,
     "lbl:longitude":-38.316311,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u098f\u09b0\u09c7\u09b0\u09cd\u09af\u09bc"
@@ -88,9 +97,12 @@
         102051523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230427705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a9ce8c9ccaf3fa36320a2d35585653f8",
+    "wof:geomhash":"64159855c7ce308d523345d853273e1f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404552829,
-    "wof:lastmodified":1577837957,
+    "wof:lastmodified":1695878740,
     "wof:name":"Erer\u00ea",
     "wof:parent_id":102051523,
     "wof:placetype":"localadmin",

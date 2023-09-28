@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008143,
-    "geom:area_square_m":90365588.624997,
+    "geom:area_square_m":90365588.62499,
     "geom:bbox":"-53.4141473647,-26.2258821158,-53.2991132054,-26.1012360908",
     "geom:latitude":-26.166758,
     "geom:longitude":-53.366652,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.165576,
     "lbl:longitude":-53.370527,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09b2\u0997\u09be\u09a1\u09cb \u09ab\u09bf\u09b2\u09b9\u09cb"
@@ -94,9 +103,12 @@
         102058115
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412280005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"45fac29c43a6424ebe92200d2a5f6887",
+    "wof:geomhash":"5e77ee0bb28b4691c407c29791c9b030",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404561795,
-    "wof:lastmodified":1577827948,
+    "wof:lastmodified":1695878293,
     "wof:name":"Salgado Filho",
     "wof:parent_id":102058115,
     "wof:placetype":"localadmin",

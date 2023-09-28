@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041127,
-    "geom:area_square_m":490138980.355707,
+    "geom:area_square_m":490138980.355594,
     "geom:bbox":"-39.643304316,-15.614474984,-39.403870343,-15.268628072",
     "geom:latitude":-15.459495,
     "geom:longitude":-39.536282,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.47076,
     "lbl:longitude":-39.528122,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09be\u0995\u09be\u09a8"
@@ -103,9 +112,12 @@
         102050619
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290560205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a101e3728f68f6d53d59a8347757a1ec",
+    "wof:geomhash":"29caf767c34e6a366cb26d8ce2e55db0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404550655,
-    "wof:lastmodified":1577837736,
+    "wof:lastmodified":1695878685,
     "wof:name":"Camacan",
     "wof:parent_id":102050619,
     "wof:placetype":"localadmin",

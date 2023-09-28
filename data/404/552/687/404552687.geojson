@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010699,
-    "geom:area_square_m":131447729.435041,
+    "geom:area_square_m":131447729.435052,
     "geom:bbox":"-39.2236319447,-6.5524551691,-39.0624749234,-6.44227188452",
     "geom:latitude":-6.497767,
     "geom:longitude":-39.149999,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.497041,
     "lbl:longitude":-39.151577,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230380810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e2e1e7f2a7ac752eaf9476f60a4c4606",
+    "wof:geomhash":"be238614a1b3a61978c8b2fe4905d099",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404552687,
-    "wof:lastmodified":1577837946,
+    "wof:lastmodified":1695878738,
     "wof:name":"V\u00e1rzea Da Concei\u00e7\u00e3o",
     "wof:parent_id":102051501,
     "wof:placetype":"localadmin",

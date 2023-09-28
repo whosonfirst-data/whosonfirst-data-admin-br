@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012399,
-    "geom:area_square_m":153041496.601879,
+    "geom:area_square_m":153041496.601899,
     "geom:bbox":"-39.2846931153,-3.51458872115,-39.1070012432,-3.39289028399",
     "geom:latitude":-3.465509,
     "geom:longitude":-39.192326,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.465658,
     "lbl:longitude":-39.190974,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b0\u09be\u0987\u09aa\u09be\u09ac\u09be"
@@ -82,9 +91,12 @@
         102051701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231025805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9e45db15b9cdcf141ba0c0d18d6a787e",
+    "wof:geomhash":"7082dc4738ed55cf2cca402fa4bb74d2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404553569,
-    "wof:lastmodified":1577837926,
+    "wof:lastmodified":1695878732,
     "wof:name":"Paraipaba",
     "wof:parent_id":102051701,
     "wof:placetype":"localadmin",

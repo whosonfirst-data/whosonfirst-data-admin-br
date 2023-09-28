@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002469,
-    "geom:area_square_m":30370971.292819,
+    "geom:area_square_m":30370962.308261,
     "geom:bbox":"-39.28316,-5.886452,-39.175564,-5.831918",
     "geom:latitude":-5.853347,
     "geom:longitude":-39.216276,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.855519,
     "lbl:longitude":-39.208131,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Aurora"
@@ -289,9 +298,12 @@
         102051521
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230426906"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e0688a31331d01c4bdd826437ce36d61",
+    "wof:geomhash":"356178214a4b6d46e5f64ad3ea4bfc71",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -303,7 +315,7 @@
         }
     ],
     "wof:id":404552819,
-    "wof:lastmodified":1636496442,
+    "wof:lastmodified":1695878865,
     "wof:name":"Aurora",
     "wof:parent_id":102051521,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011583,
-    "geom:area_square_m":142137353.099795,
+    "geom:area_square_m":142137353.099796,
     "geom:bbox":"-40.3249551532,-7.17939422263,-40.1202599874,-7.00173971334",
     "geom:latitude":-7.083447,
     "geom:longitude":-40.238613,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.10484,
     "lbl:longitude":-40.274241,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231195910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"976541dfa76638068002133ff86a35be",
+    "wof:geomhash":"b8f2c96b2d4cc8e75e1e39a0a82b3931",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553797,
-    "wof:lastmodified":1577837954,
+    "wof:lastmodified":1695878740,
     "wof:name":"Caldeir\u00e3o",
     "wof:parent_id":102051753,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07415,
-    "geom:area_square_m":869376993.299101,
+    "geom:area_square_m":869376993.299064,
     "geom:bbox":"-44.074233,-18.678044,-43.666103,-18.332769",
     "geom:latitude":-18.523523,
     "geom:longitude":-43.833494,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.52346,
     "lbl:longitude":-43.785661,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Gouveia"
@@ -66,19 +75,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053955,
         1511777411,
-        85681941
+        102053955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312760205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053955
     ],
     "wof:country":"BR",
-    "wof:geomhash":"9884d75a3cceb7bd771b3218d1a46570",
+    "wof:geomhash":"4a0fee949bd1d95e68f32246855fe189",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404556483,
-    "wof:lastmodified":1608029350,
+    "wof:lastmodified":1695878759,
     "wof:name":"Gouveia",
     "wof:parent_id":102053955,
     "wof:placetype":"localadmin",

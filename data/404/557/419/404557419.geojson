@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025922,
-    "geom:area_square_m":298987655.702883,
+    "geom:area_square_m":298987655.70273,
     "geom:bbox":"-46.55295,-21.2040369968,-46.286863,-21.0522429968",
     "geom:latitude":-21.1234,
     "geom:longitude":-46.420099,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.114705,
     "lbl:longitude":-46.444172,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u09b0\u09c7\u09b8\u09c7\u09a8\u09cd\u09a1\u09c7"
@@ -97,9 +106,12 @@
         102054427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314510905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cd3e633af61384b815186c84d419d985",
+    "wof:geomhash":"21aeecdcd2de41da927528e753dccd65",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404557419,
-    "wof:lastmodified":1577832894,
+    "wof:lastmodified":1695878447,
     "wof:name":"Nova Resende",
     "wof:parent_id":102054427,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.177039,
-    "geom:area_square_m":2167454930.775818,
+    "geom:area_square_m":2167454930.775934,
     "geom:bbox":"-47.9536282289,-8.39475646991,-47.4726128324,-7.69748865485",
     "geom:latitude":-8.067249,
     "geom:longitude":-47.737353,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.075626,
     "lbl:longitude":-47.720921,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102062567
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"170900510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a1cb97dbbd5d594e953bbd02a3842109",
+    "wof:geomhash":"ca5425b46c3ff8eab58fb7a03600e3db",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404567647,
-    "wof:lastmodified":1577825660,
+    "wof:lastmodified":1695878151,
     "wof:name":"Cartucho",
     "wof:parent_id":102062567,
     "wof:placetype":"localadmin",

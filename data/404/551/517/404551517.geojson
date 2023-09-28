@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049755,
-    "geom:area_square_m":587177714.229965,
+    "geom:area_square_m":587177714.230089,
     "geom:bbox":"-40.6234751144,-17.4994407925,-40.2781398756,-17.2199278145",
     "geom:latitude":-17.368308,
     "geom:longitude":-40.460472,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.368658,
     "lbl:longitude":-40.486432,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09c1\u09aa\u09c7\u09ad\u09be"
@@ -91,9 +100,12 @@
         102051035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292110410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4c44f5a91164748bc796bc88030788bf",
+    "wof:geomhash":"3363fed01c2eeb383e173cdf5807f0bf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404551517,
-    "wof:lastmodified":1577837738,
+    "wof:lastmodified":1695878686,
     "wof:name":"Itupeva",
     "wof:parent_id":102051035,
     "wof:placetype":"localadmin",

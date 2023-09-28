@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003675,
-    "geom:area_square_m":41933608.822986,
+    "geom:area_square_m":41933608.822981,
     "geom:bbox":"-44.1965595354,-22.7196024636,-44.0784261693,-22.6443565427",
     "geom:latitude":-22.677084,
     "geom:longitude":-44.133269,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.670673,
     "lbl:longitude":-44.134161,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058449
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330440910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"df9fe6e91501279ba965b77ba5a4009d",
+    "wof:geomhash":"c897b59f71646c56931a0298b3156733",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562477,
-    "wof:lastmodified":1577832624,
+    "wof:lastmodified":1695878349,
     "wof:name":"Getul\u00e2ndia",
     "wof:parent_id":102058449,
     "wof:placetype":"localadmin",

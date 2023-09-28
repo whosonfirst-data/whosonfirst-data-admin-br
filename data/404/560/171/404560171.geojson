@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016179,
-    "geom:area_square_m":197967384.469731,
+    "geom:area_square_m":197967384.469724,
     "geom:bbox":"-36.5255249104,-8.36428916623,-36.3334985573,-8.20698085511",
     "geom:latitude":-8.297916,
     "geom:longitude":-36.422175,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.294809,
     "lbl:longitude":-36.4236,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b2\u09cb \u099c\u09be\u09b0\u09cd\u09a1\u09bf\u09ae"
@@ -85,9 +94,12 @@
         102056527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260170605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2d483cbffc864f061235870a7501338f",
+    "wof:geomhash":"7f64600f8d44b5909089070698ffd5f2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404560171,
-    "wof:lastmodified":1577837908,
+    "wof:lastmodified":1695878728,
     "wof:name":"Belo Jardim",
     "wof:parent_id":102056527,
     "wof:placetype":"localadmin",

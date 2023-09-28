@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
-    "geom:area_square_m":472836.834736,
+    "geom:area_square_m":472836.834735,
     "geom:bbox":"-54.537462,-16.995982,-54.52923,-16.985908",
     "geom:latitude":-16.990663,
     "geom:longitude":-54.533426,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.990701,
     "lbl:longitude":-54.533488,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681955,
         102191577,
         85633009,
-        102055541,
         1511777413,
-        85681955
+        102055541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510637210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101961535
     ],
     "wof:country":"BR",
-    "wof:geomhash":"8ba17d3b007e22a787a5fed8b1348c9e",
+    "wof:geomhash":"c4e639213c4866128fd834f4605179d2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404559319,
-    "wof:lastmodified":1608021552,
+    "wof:lastmodified":1695878751,
     "wof:name":"S\u00e3o Jos\u00e9 Do Planalto",
     "wof:parent_id":102055541,
     "wof:placetype":"localadmin",

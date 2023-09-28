@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013461,
-    "geom:area_square_m":166095956.914737,
+    "geom:area_square_m":166095956.914793,
     "geom:bbox":"-39.7094794841,-3.82932752434,-39.5786291895,-3.60981460901",
     "geom:latitude":-3.734009,
     "geom:longitude":-39.642875,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.729995,
     "lbl:longitude":-39.647337,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u0987\u0995\u09cd\u09b8\u09be \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
@@ -100,9 +109,12 @@
         102051595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230630610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d366276cd5d726a3d01c3df7d4c7f71d",
+    "wof:geomhash":"cd0572b80af1d5d518a1b12a0c328724",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404553111,
-    "wof:lastmodified":1577837660,
+    "wof:lastmodified":1695878667,
     "wof:name":"Baixa Grande",
     "wof:parent_id":102051595,
     "wof:placetype":"localadmin",

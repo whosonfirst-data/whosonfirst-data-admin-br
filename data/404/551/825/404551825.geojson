@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.284715,
-    "geom:area_square_m":3448888018.441423,
+    "geom:area_square_m":3448888018.441318,
     "geom:bbox":"-46.0872059606,-11.7908005034,-44.8346952832,-11.3396696364",
     "geom:latitude":-11.580043,
     "geom:longitude":-45.374349,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.588431,
     "lbl:longitude":-45.331908,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051187
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292620210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"85d693738eb54e6c469fdbe733a9e6f1",
+    "wof:geomhash":"3e1b67562efa11789b531ab4cba17ca2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551825,
-    "wof:lastmodified":1577837809,
+    "wof:lastmodified":1695878703,
     "wof:name":"Caripar\u00e9",
     "wof:parent_id":102051187,
     "wof:placetype":"localadmin",

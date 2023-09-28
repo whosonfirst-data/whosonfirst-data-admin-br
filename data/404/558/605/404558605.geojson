@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015122,
-    "geom:area_square_m":174353805.128666,
+    "geom:area_square_m":174353805.128639,
     "geom:bbox":"-43.119817,-21.256978,-42.92292,-21.106809",
     "geom:latitude":-21.177475,
     "geom:longitude":-43.026478,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.166633,
     "lbl:longitude":-43.04438,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Tocantins"
@@ -274,12 +283,15 @@
         102055069
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316900005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055069
     ],
     "wof:country":"BR",
-    "wof:geomhash":"865c0373a68c19b6379920057c55d5a6",
+    "wof:geomhash":"9396edfc52ed495172b9eb7105c5ff47",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -291,7 +303,7 @@
         }
     ],
     "wof:id":404558605,
-    "wof:lastmodified":1636496419,
+    "wof:lastmodified":1695878857,
     "wof:name":"Tocantins",
     "wof:parent_id":102055069,
     "wof:placetype":"localadmin",

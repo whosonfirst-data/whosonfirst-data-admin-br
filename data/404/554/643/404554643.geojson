@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0086,
-    "geom:area_square_m":99515293.903364,
+    "geom:area_square_m":99515293.903352,
     "geom:bbox":"-41.0552164794,-20.6977149974,-40.9093494925,-20.5995960683",
     "geom:latitude":-20.6468,
     "geom:longitude":-40.973666,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.648439,
     "lbl:longitude":-40.972285,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u09b0\u09cd\u0997\u09c7\u09ae \u0986\u09b2\u09cd\u099f\u09be"
@@ -97,9 +106,12 @@
         102051977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320503605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2736b97469ba5db9905d2f1a7d61d24c",
+    "wof:geomhash":"20114b07ab955dd7d480907d2d6a6369",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404554643,
-    "wof:lastmodified":1577833100,
+    "wof:lastmodified":1695878514,
     "wof:name":"Vargem Alta",
     "wof:parent_id":102051977,
     "wof:placetype":"localadmin",

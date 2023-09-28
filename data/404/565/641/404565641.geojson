@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010171,
-    "geom:area_square_m":112227715.91875,
+    "geom:area_square_m":112227715.918642,
     "geom:bbox":"-48.824523,-26.913705,-48.619816,-26.740714",
     "geom:latitude":-26.828799,
     "geom:longitude":-48.727272,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.799943,
     "lbl:longitude":-48.771247,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09be\u09ad\u09c7\u0997\u09be\u09a8\u09cd\u099f\u098f\u09b8"
@@ -84,19 +93,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060565,
         1511777409,
-        85682021
+        102060565
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421130605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060565
     ],
     "wof:country":"BR",
-    "wof:geomhash":"1cdd6b4b27acc78593b17f568b7f0860",
+    "wof:geomhash":"ce74ceb6b344b13d982eb90d9beeb539",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404565641,
-    "wof:lastmodified":1608034424,
+    "wof:lastmodified":1695878823,
     "wof:name":"Navegantes",
     "wof:parent_id":102060565,
     "wof:placetype":"localadmin",

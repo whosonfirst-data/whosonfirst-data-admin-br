@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014706,
-    "geom:area_square_m":177744922.381829,
+    "geom:area_square_m":177744922.381837,
     "geom:bbox":"-39.287427,-12.269269,-39.075946,-12.082947",
     "geom:latitude":-12.182478,
     "geom:longitude":-39.195468,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.156191,
     "lbl:longitude":-39.223252,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u0999\u09cd\u0997\u09c1\u09af\u09bc\u09c7\u09b0\u09be"
@@ -100,12 +109,15 @@
         102050501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290150205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050501
     ],
     "wof:country":"BR",
-    "wof:geomhash":"94f5669a03331ba14989620014683389",
+    "wof:geomhash":"2ebd4b32de76ccb4a14280f98095bedb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404550445,
-    "wof:lastmodified":1617130069,
+    "wof:lastmodified":1695878831,
     "wof:name":"Anguera",
     "wof:parent_id":102050501,
     "wof:placetype":"localadmin",

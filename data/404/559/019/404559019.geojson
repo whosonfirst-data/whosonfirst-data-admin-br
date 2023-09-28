@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.194638,
-    "geom:area_square_m":2232519838.493398,
+    "geom:area_square_m":2232519838.493387,
     "geom:bbox":"-56.1112939733,-22.151536495,-55.4118682955,-21.6339360414",
     "geom:latitude":-21.934212,
     "geom:longitude":-55.759372,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.945529,
     "lbl:longitude":-55.783118,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500660615"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"62c793de7d8f18b71f52dd0c68469c0e",
+    "wof:geomhash":"b7ed6d4bc4e9e26dd15bb2ce4505b1e5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559019,
-    "wof:lastmodified":1577836078,
+    "wof:lastmodified":1695878624,
     "wof:name":"Cabeceira Do Apa",
     "wof:parent_id":102055305,
     "wof:placetype":"localadmin",

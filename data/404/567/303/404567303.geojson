@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000688,
-    "geom:area_square_m":7804191.409595,
+    "geom:area_square_m":7804191.409596,
     "geom:bbox":"-46.5581873972,-23.570492,-46.51715,-23.534897",
     "geom:latitude":-23.551176,
     "geom:longitude":-46.538373,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.551545,
     "lbl:longitude":-46.536974,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030820"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bde60d0f0d495879d688d840a8e2f2de",
+    "wof:geomhash":"1355853793a43bb85322da7f5b8ad8a0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404567303,
-    "wof:lastmodified":1577832881,
+    "wof:lastmodified":1695878443,
     "wof:name":"Carr\u00e3o",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

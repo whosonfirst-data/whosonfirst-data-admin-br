@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008693,
-    "geom:area_square_m":106620834.760943,
+    "geom:area_square_m":106620834.760927,
     "geom:bbox":"-35.5244907776,-7.36492795544,-35.4006994883,-7.23101125769",
     "geom:latitude":-7.300487,
     "geom:longitude":-35.468381,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.294005,
     "lbl:longitude":-35.463221,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u0997\u09af\u09bc\u09c7\u0987\u09b0\u09cb"
@@ -85,9 +94,12 @@
         102056255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250940405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d115674cf149fa9c04a2cc140a002951",
+    "wof:geomhash":"e4e0e3b8dd487a4c37982320b9a4477c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404559989,
-    "wof:lastmodified":1577837984,
+    "wof:lastmodified":1695878747,
     "wof:name":"Mogeiro",
     "wof:parent_id":102056255,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0139,
-    "geom:area_square_m":152826491.761975,
+    "geom:area_square_m":152826491.762222,
     "geom:bbox":"-48.897013,-27.359176,-48.70014,-27.135459",
     "geom:latitude":-27.234607,
     "geom:longitude":-48.80257,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.230765,
     "lbl:longitude":-48.79586,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a8\u09c7\u09b2\u09bf\u09a8\u09b9\u09be"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060317,
         1511777409,
-        85682021
+        102060317
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420370905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060317
     ],
     "wof:country":"BR",
-    "wof:geomhash":"56c10354bac66f67acc8b85725f40b72",
+    "wof:geomhash":"6c315333e8ae60678805de030f224e11",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404565287,
-    "wof:lastmodified":1608034202,
+    "wof:lastmodified":1695878819,
     "wof:name":"Canelinha",
     "wof:parent_id":102060317,
     "wof:placetype":"localadmin",

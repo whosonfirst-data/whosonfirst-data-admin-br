@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009988,
-    "geom:area_square_m":123385175.894687,
+    "geom:area_square_m":123385175.894664,
     "geom:bbox":"-44.1923006953,-2.55461551185,-44.0571515986,-2.45541041966",
     "geom:latitude":-2.505853,
     "geom:longitude":-44.123824,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-2.508031,
     "lbl:longitude":-44.125128,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"210750605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"80269d61d8e2faf9fc9069ce7a97bd91",
+    "wof:geomhash":"9ed3c4cc75327d0070672e2253c88b1f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555039,
-    "wof:lastmodified":1577837630,
+    "wof:lastmodified":1695878660,
     "wof:name":"Pa\u00e7o Do Lumiar",
     "wof:parent_id":102053053,
     "wof:placetype":"localadmin",

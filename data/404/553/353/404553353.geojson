@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013762,
-    "geom:area_square_m":168719774.040722,
+    "geom:area_square_m":168719774.04074,
     "geom:bbox":"-38.7583457535,-7.58250918242,-38.5834350942,-7.41460518921",
     "geom:latitude":-7.490692,
     "geom:longitude":-38.681517,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.486708,
     "lbl:longitude":-38.690094,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0989\u09ae\u09ac\u09c1\u09b0\u09be\u09a8\u09be\u09b8"
@@ -97,9 +106,12 @@
         102051645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230810430"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1400e8e38550222d9aa1781defdafdea",
+    "wof:geomhash":"c10ecacc1d5d14d552903a1542f29e95",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404553353,
-    "wof:lastmodified":1577837845,
+    "wof:lastmodified":1695878712,
     "wof:name":"Umburanas",
     "wof:parent_id":102051645,
     "wof:placetype":"localadmin",

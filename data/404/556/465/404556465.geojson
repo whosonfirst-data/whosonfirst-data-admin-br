@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035988,
-    "geom:area_square_m":429666131.220333,
+    "geom:area_square_m":429666131.220177,
     "geom:bbox":"-43.296572,-15.1866599976,-43.00216,-14.9664439976",
     "geom:latitude":-15.086506,
     "geom:longitude":-43.130049,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.083548,
     "lbl:longitude":-43.115603,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09be\u09ae\u09c7\u09b2\u09af\u09bc\u09c7\u0987\u09b0\u09be\u09b8"
@@ -100,9 +109,12 @@
         102053941
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312733905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3541eff8f985fb5aee73379ff31a2c67",
+    "wof:geomhash":"6277a2b00d8ded9c40028df4aa514542",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404556465,
-    "wof:lastmodified":1577832958,
+    "wof:lastmodified":1695878469,
     "wof:name":"Gameleiras",
     "wof:parent_id":102053941,
     "wof:placetype":"localadmin",

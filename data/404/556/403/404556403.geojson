@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019505,
-    "geom:area_square_m":225702831.301319,
+    "geom:area_square_m":225702831.301407,
     "geom:bbox":"-45.63604,-20.7030909969,-45.38144,-20.5583109969",
     "geom:latitude":-20.636017,
     "geom:longitude":-45.519282,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.630282,
     "lbl:longitude":-45.521208,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053903
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312610910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"650c9f41831126779bc21f5d4be76ba6",
+    "wof:geomhash":"11288d270704c69d8f3f0d9bd24b7cc2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556403,
-    "wof:lastmodified":1577832891,
+    "wof:lastmodified":1695878445,
     "wof:name":"Albertos",
     "wof:parent_id":102053903,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002425,
-    "geom:area_square_m":26140037.636428,
+    "geom:area_square_m":26139927.598456,
     "geom:bbox":"-51.95797,-29.362735,-51.894605,-29.291142",
     "geom:latitude":-29.325971,
     "geom:longitude":-51.924127,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.322688,
     "lbl:longitude":-51.92893,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09ae\u09be\u09b8"
@@ -119,9 +128,12 @@
         102059083
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430100818"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"aa4eeff93388bbe6b1599e6e21e11ba7",
+    "wof:geomhash":"a472fe7343f9aa21d4fa913c060c9053",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -133,7 +145,7 @@
         }
     ],
     "wof:id":404562983,
-    "wof:lastmodified":1636496450,
+    "wof:lastmodified":1695878866,
     "wof:name":"Palmas",
     "wof:parent_id":102059083,
     "wof:placetype":"localadmin",

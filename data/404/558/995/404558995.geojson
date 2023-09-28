@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.366431,
-    "geom:area_square_m":4215465246.952979,
+    "geom:area_square_m":4215465241.863186,
     "geom:bbox":"-55.838445,-21.925055,-54.827474,-21.006791",
     "geom:latitude":-21.507637,
     "geom:longitude":-55.364395,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.402734,
     "lbl:longitude":-55.456148,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u0627\u0643\u0627\u062c\u0648"
@@ -76,9 +85,12 @@
         102055281
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500540005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0bdede5f6606040940259d50c277dfd0",
+    "wof:geomhash":"d61bc0d50c66978302116be3fa38088b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404558995,
-    "wof:lastmodified":1642551716,
+    "wof:lastmodified":1695878869,
     "wof:name":"Maracaju",
     "wof:parent_id":102055281,
     "wof:placetype":"localadmin",

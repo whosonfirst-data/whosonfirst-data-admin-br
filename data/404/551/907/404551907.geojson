@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009057,
-    "geom:area_square_m":109534614.543768,
+    "geom:area_square_m":109534614.54377,
     "geom:bbox":"-38.908877993,-12.1107607108,-38.796733303,-11.9382695048",
     "geom:latitude":-12.034176,
     "geom:longitude":-38.859139,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.031907,
     "lbl:longitude":-38.858273,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -97,9 +106,12 @@
         102051239
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292830705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"737181ded5142bd01b2fc2f138eb906c",
+    "wof:geomhash":"471d0bd684413a0a498a9764414f1d94",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404551907,
-    "wof:lastmodified":1577837824,
+    "wof:lastmodified":1695878707,
     "wof:name":"Santan\u00f3polis",
     "wof:parent_id":102051239,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0297,
-    "geom:area_square_m":364084735.001797,
+    "geom:area_square_m":364084735.001789,
     "geom:bbox":"-39.0463037781,-7.63391247114,-38.8534637316,-7.42283965655",
     "geom:latitude":-7.52039,
     "geom:longitude":-38.961145,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.51949,
     "lbl:longitude":-38.959294,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c7\u099c\u09cb \u09b8\u09be\u09a8\u09cd\u099f\u09cb"
@@ -91,9 +100,12 @@
         102051469
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230250305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"892b232302754d4cd23aede8eee36b07",
+    "wof:geomhash":"a9118818ccc3c8dbf7af5f7a422166a5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404552555,
-    "wof:lastmodified":1577837849,
+    "wof:lastmodified":1695878713,
     "wof:name":"Brejo Santo",
     "wof:parent_id":102051469,
     "wof:placetype":"localadmin",

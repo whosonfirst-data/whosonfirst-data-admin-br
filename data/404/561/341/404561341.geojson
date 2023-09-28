@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007445,
-    "geom:area_square_m":84571142.240425,
+    "geom:area_square_m":84571142.240443,
     "geom:bbox":"-50.9881638962,-23.3138010678,-50.8456257688,-23.2058079561",
     "geom:latitude":-23.26405,
     "geom:longitude":-50.92935,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.258209,
     "lbl:longitude":-50.936355,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u099f\u09be\u0987\u099c\u09bf\u09a8\u09b9\u09cb"
@@ -85,9 +94,12 @@
         102057801
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411270205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2beb4e63871841eb9096e0e4613a1a74",
+    "wof:geomhash":"1fffb0576133573c6618ecb791093902",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404561341,
-    "wof:lastmodified":1577827696,
+    "wof:lastmodified":1695878173,
     "wof:name":"Jataizinho",
     "wof:parent_id":102057801,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089085,
-    "geom:area_square_m":1064053097.006871,
+    "geom:area_square_m":1064053097.006512,
     "geom:bbox":"-47.235067,-15.314679,-46.873698,-14.671943",
     "geom:latitude":-14.993579,
     "geom:longitude":-47.062616,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.985088,
     "lbl:longitude":-47.047725,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09bf\u09b2\u09be \u09ac\u09cb\u09f1\u09be"
@@ -63,19 +72,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681925,
         102191577,
         85633009,
-        102052759,
         1511777413,
-        85681925
+        102052759
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"522220305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102052759
     ],
     "wof:country":"BR",
-    "wof:geomhash":"23216ed6703ac2152b0ed07d45264654",
+    "wof:geomhash":"f40d9dd8c4e1b039ee45285aa16e3432",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404554963,
-    "wof:lastmodified":1608034871,
+    "wof:lastmodified":1695878824,
     "wof:name":"Vila Boa",
     "wof:parent_id":102052759,
     "wof:placetype":"localadmin",

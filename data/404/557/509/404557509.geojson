@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013088,
-    "geom:area_square_m":153101709.316025,
+    "geom:area_square_m":153101709.316009,
     "geom:bbox":"-45.463243,-18.9531429971,-45.184326,-18.8691059971",
     "geom:latitude":-18.911824,
     "geom:longitude":-45.333428,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.908827,
     "lbl:longitude":-45.393425,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054471
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314640410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"13541035a3fd3fd20fe9c1796b56eb78",
+    "wof:geomhash":"ef75950a4f74d73432ece252aab3fa8b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557509,
-    "wof:lastmodified":1577832990,
+    "wof:lastmodified":1695878478,
     "wof:name":"Po\u00e7\u00f5es De Paineiras",
     "wof:parent_id":102054471,
     "wof:placetype":"localadmin",

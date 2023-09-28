@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050138,
-    "geom:area_square_m":607522926.368631,
+    "geom:area_square_m":607522926.368666,
     "geom:bbox":"-41.978525,-11.669373,-41.623397,-11.360909",
     "geom:latitude":-11.499142,
     "geom:longitude":-41.785384,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.496187,
     "lbl:longitude":-41.773281,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u09aa\u09af\u09bc\u09be\u0993"
@@ -94,12 +103,15 @@
         102050979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291915705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050979
     ],
     "wof:country":"BR",
-    "wof:geomhash":"abc03b4889e08e8dac762f820e2b9c56",
+    "wof:geomhash":"f73271d295a0c291030f77e128ac18ee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404551399,
-    "wof:lastmodified":1617130119,
+    "wof:lastmodified":1695878831,
     "wof:name":"Lap\u00e3o",
     "wof:parent_id":102050979,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007308,
-    "geom:area_square_m":78686907.871422,
+    "geom:area_square_m":78686907.871441,
     "geom:bbox":"-49.9743892842,-29.5173937278,-49.8356700086,-29.3883079112",
     "geom:latitude":-29.450512,
     "geom:longitude":-49.910791,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.444686,
     "lbl:longitude":-49.909744,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09cd\u09b0\u09c7\u09b8 \u0995\u09be\u0995\u09b9\u09cb\u09af\u09bc\u09c7\u0987\u09b0\u09be\u09b8"
@@ -94,9 +103,12 @@
         102060059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432166705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"304ffc3379e4e4707fcf62f153c7d0c5",
+    "wof:geomhash":"8ba6fc854837b2f26f10fba62e4f9f87",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404564929,
-    "wof:lastmodified":1577827944,
+    "wof:lastmodified":1695878291,
     "wof:name":"Tr\u00eas Cachoeiras",
     "wof:parent_id":102060059,
     "wof:placetype":"localadmin",

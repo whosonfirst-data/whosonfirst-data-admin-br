@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03019,
-    "geom:area_square_m":365750099.297099,
+    "geom:area_square_m":365750099.297104,
     "geom:bbox":"-38.2808809284,-11.6341429954,-37.980093521,-11.4249450024",
     "geom:latitude":-11.545312,
     "geom:longitude":-38.132461,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.537993,
     "lbl:longitude":-38.13018,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09b0\u09bf\u09b8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -97,9 +106,12 @@
         102050719
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290960405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6845d2771848ebd88a8bcba9dca345ba",
+    "wof:geomhash":"7b68cb41e1c6d668c8fce1ebc0b487dc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404550875,
-    "wof:lastmodified":1577837787,
+    "wof:lastmodified":1695878697,
     "wof:name":"Cris\u00f3polis",
     "wof:parent_id":102050719,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019895,
-    "geom:area_square_m":241241385.875095,
+    "geom:area_square_m":241241385.875097,
     "geom:bbox":"-41.5964066857,-11.3622091374,-41.355842243,-11.1838767271",
     "geom:latitude":-11.299319,
     "geom:longitude":-41.445047,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.303199,
     "lbl:longitude":-41.433224,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Soares"
@@ -37,9 +46,12 @@
         102050491
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290115520"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7cdc5cf4264805732e3de431008380ea",
+    "wof:geomhash":"cd439f5b98a8e8d648c4ef7cc734c39b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404550419,
-    "wof:lastmodified":1577837920,
+    "wof:lastmodified":1695878731,
     "wof:name":"Soares",
     "wof:parent_id":102050491,
     "wof:placetype":"localadmin",

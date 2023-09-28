@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086165,
-    "geom:area_square_m":1034573943.901521,
+    "geom:area_square_m":1034573943.901341,
     "geom:bbox":"-44.799715832,-14.0376307662,-44.4197436645,-13.6170411394",
     "geom:latitude":-13.825291,
     "geom:longitude":-44.556475,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.823653,
     "lbl:longitude":-44.556487,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b0\u09bf\u09ac\u09c7"
@@ -106,9 +115,12 @@
         102050709
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290910905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4cf18c1047d6715c3459aed31e740460",
+    "wof:geomhash":"68500b9a411d87374cdc1e5651c04a8f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404550853,
-    "wof:lastmodified":1577837792,
+    "wof:lastmodified":1695878698,
     "wof:name":"Coribe",
     "wof:parent_id":102050709,
     "wof:placetype":"localadmin",

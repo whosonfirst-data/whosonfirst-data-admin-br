@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032958,
-    "geom:area_square_m":404003493.538674,
+    "geom:area_square_m":404003493.538714,
     "geom:bbox":"-38.6798445873,-7.72177421057,-38.422640856,-7.44012537086",
     "geom:latitude":-7.550051,
     "geom:longitude":-38.540108,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.527325,
     "lbl:longitude":-38.552743,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Concei\u00e7\u00e3o"
@@ -73,9 +82,12 @@
         102056117
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250440505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4a35f2a2ce01333db43078626b981c6b",
+    "wof:geomhash":"6edeb292793916d243ec83d4b75532f5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404559917,
-    "wof:lastmodified":1577837976,
+    "wof:lastmodified":1695878745,
     "wof:name":"Concei\u00e7\u00e3o",
     "wof:parent_id":102056117,
     "wof:placetype":"localadmin",

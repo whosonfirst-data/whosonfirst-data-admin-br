@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016704,
-    "geom:area_square_m":180906436.333763,
+    "geom:area_square_m":180906436.333819,
     "geom:bbox":"-50.6070571188,-28.9488198883,-50.3782823011,-28.7781468346",
     "geom:latitude":-28.851518,
     "geom:longitude":-50.492366,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.856119,
     "lbl:longitude":-50.500122,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0628\u0627\u062f\u0627"
@@ -49,9 +58,12 @@
         102059539
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431112210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1d2b5d58cd0159aec8b3b6af3a3f6f9b",
+    "wof:geomhash":"8c1c13a28688657685684ae5b23d3aa3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":404563821,
-    "wof:lastmodified":1577827969,
+    "wof:lastmodified":1695878303,
     "wof:name":"Chapada",
     "wof:parent_id":102059539,
     "wof:placetype":"localadmin",

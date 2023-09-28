@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018977,
-    "geom:area_square_m":232555240.228263,
+    "geom:area_square_m":232555240.22828,
     "geom:bbox":"-39.1158469156,-7.76222302075,-38.8914533232,-7.60705333134",
     "geom:latitude":-7.674222,
     "geom:longitude":-38.970194,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.670551,
     "lbl:longitude":-38.968582,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u091c\u093e\u0924\u093f"
@@ -61,9 +70,12 @@
         102051617
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230720505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"13e03691df1752e7b92c171e5262df41",
+    "wof:geomhash":"8244d2cf3b9b79e7f6b8f82853c25447",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404553211,
-    "wof:lastmodified":1577837914,
+    "wof:lastmodified":1695878729,
     "wof:name":"Jati",
     "wof:parent_id":102051617,
     "wof:placetype":"localadmin",

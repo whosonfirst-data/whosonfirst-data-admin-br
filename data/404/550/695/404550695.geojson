@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02628,
-    "geom:area_square_m":313132059.58591,
+    "geom:area_square_m":313132059.585877,
     "geom:bbox":"-39.2077049066,-15.601137402,-38.942037341,-15.3823078447",
     "geom:latitude":-15.504682,
     "geom:longitude":-39.0504,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.513874,
     "lbl:longitude":-39.052371,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290630320"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2d6e295fe7a76cab99347d86000ff41b",
+    "wof:geomhash":"09c740ec19102510b4894937f46e4303",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550695,
-    "wof:lastmodified":1577837756,
+    "wof:lastmodified":1695878691,
     "wof:name":"Poxim Do Sul",
     "wof:parent_id":102050635,
     "wof:placetype":"localadmin",

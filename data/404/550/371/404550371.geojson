@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014936,
-    "geom:area_square_m":180874386.92921,
+    "geom:area_square_m":180874386.929213,
     "geom:bbox":"-38.058592,-11.764923,-37.911802,-11.594398",
     "geom:latitude":-11.669103,
     "geom:longitude":-37.997831,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.668102,
     "lbl:longitude":-37.996417,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u0995\u09be\u099c\u09c1\u099f\u09bf\u09ac\u09be"
@@ -106,12 +115,15 @@
         102050467
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290030605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050467
     ],
     "wof:country":"BR",
-    "wof:geomhash":"89b9d2354bb05f39790fee87e380154f",
+    "wof:geomhash":"637f74d1297611bc2c8ec0f390576f9b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":404550371,
-    "wof:lastmodified":1617131352,
+    "wof:lastmodified":1695878847,
     "wof:name":"Acajutiba",
     "wof:parent_id":102050467,
     "wof:placetype":"localadmin",

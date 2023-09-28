@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047693,
-    "geom:area_square_m":561800412.755168,
+    "geom:area_square_m":561800412.755205,
     "geom:bbox":"-39.6130920909,-17.840311872,-39.23478859,-17.5577245375",
     "geom:latitude":-17.703212,
     "geom:longitude":-39.408834,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.73103,
     "lbl:longitude":-39.411717,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u0641\u0644"
@@ -97,9 +106,12 @@
         102050657
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290690705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ea625de03b2d66a5d097ce4b21810620",
+    "wof:geomhash":"4349b40f8ad130318b0f400d9a72c75c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404550741,
-    "wof:lastmodified":1577837763,
+    "wof:lastmodified":1695878692,
     "wof:name":"Caravelas",
     "wof:parent_id":102050657,
     "wof:placetype":"localadmin",

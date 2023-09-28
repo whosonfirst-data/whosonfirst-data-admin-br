@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009313,
-    "geom:area_square_m":103726871.289972,
+    "geom:area_square_m":103726871.289957,
     "geom:bbox":"-53.8787989625,-25.8228384425,-53.6821038084,-25.684854746",
     "geom:latitude":-25.738545,
     "geom:longitude":-53.767249,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.732202,
     "lbl:longitude":-53.765845,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Planalto"
@@ -61,9 +70,12 @@
         102058021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411980605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1ed9e7dad858f9bff7469666452792f5",
+    "wof:geomhash":"09325a49b9ae0840473f926fc5d2d851",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404561661,
-    "wof:lastmodified":1577827937,
+    "wof:lastmodified":1695878288,
     "wof:name":"Planalto",
     "wof:parent_id":102058021,
     "wof:placetype":"localadmin",

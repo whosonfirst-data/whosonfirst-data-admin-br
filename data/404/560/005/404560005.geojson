@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011969,
-    "geom:area_square_m":146903337.232486,
+    "geom:area_square_m":146903337.232505,
     "geom:bbox":"-37.5240542539,-7.00582289999,-37.2994869422,-6.91288758177",
     "geom:latitude":-6.961844,
     "geom:longitude":-37.41086,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.966662,
     "lbl:longitude":-37.412546,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u0997\u09af\u09bc\u09c7\u09b0\u099f\u09cd\u09b0\u09c1\u09a1\u09c7\u09b8"
@@ -94,9 +103,12 @@
         102056289
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"251080810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"816931286aab59893cf0e4d9fc1e2dc7",
+    "wof:geomhash":"2c34eb778e19e5cb39521cce3826f38a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404560005,
-    "wof:lastmodified":1577837879,
+    "wof:lastmodified":1695878720,
     "wof:name":"Santa Gertrudes",
     "wof:parent_id":102056289,
     "wof:placetype":"localadmin",

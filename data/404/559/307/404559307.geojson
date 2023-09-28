@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175366,
-    "geom:area_square_m":2112104791.393648,
+    "geom:area_square_m":2112104791.393734,
     "geom:bbox":"-55.1329884118,-13.3032424312,-54.4006878987,-12.7739989541",
     "geom:latitude":-13.090642,
     "geom:longitude":-54.788185,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.077204,
     "lbl:longitude":-54.782804,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510624030"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"497137e6852303f1d71bbc0bfe38ad3d",
+    "wof:geomhash":"62b84dae4aabab29adfddbb7696c62b1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559307,
-    "wof:lastmodified":1577836106,
+    "wof:lastmodified":1695878634,
     "wof:name":"Santo Ant\u00f4nio Do Rio Bonito",
     "wof:parent_id":102055523,
     "wof:placetype":"localadmin",

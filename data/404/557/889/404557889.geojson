@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009268,
-    "geom:area_square_m":108190195.265041,
+    "geom:area_square_m":108190195.264943,
     "geom:bbox":"-41.119565,-19.3102369971,-40.992369,-19.1685009971",
     "geom:latitude":-19.246665,
     "geom:longitude":-41.058782,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.272677,
     "lbl:longitude":-41.068401,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054673
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315430910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1041256093f586df2fa303c137e62ca5",
+    "wof:geomhash":"0a650e0c7ca13ca7c3326348c611b793",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557889,
-    "wof:lastmodified":1577832934,
+    "wof:lastmodified":1695878461,
     "wof:name":"Bom Pastor",
     "wof:parent_id":102054673,
     "wof:placetype":"localadmin",

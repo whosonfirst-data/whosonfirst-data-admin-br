@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151004,
-    "geom:area_square_m":1757059551.253141,
+    "geom:area_square_m":1757059376.138207,
     "geom:bbox":"-47.634289,-20.05438,-47.062297,-19.425096",
     "geom:latitude":-19.777035,
     "geom:longitude":-47.375682,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.856896,
     "lbl:longitude":-47.403869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0643\u0631\u0645\u064a\u0646\u062a\u0648"
@@ -55,9 +64,12 @@
         102054737
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315690805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"47eafe738ce95263ee0b4e95aba254ae",
+    "wof:geomhash":"935e3fe10f4fb6df8b00728adf624940",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":404558007,
-    "wof:lastmodified":1636496419,
+    "wof:lastmodified":1695878857,
     "wof:name":"Sacramento",
     "wof:parent_id":102054737,
     "wof:placetype":"localadmin",

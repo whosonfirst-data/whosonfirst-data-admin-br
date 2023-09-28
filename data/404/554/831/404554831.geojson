@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069231,
-    "geom:area_square_m":808827313.623865,
+    "geom:area_square_m":808827313.623813,
     "geom:bbox":"-51.1241663457,-19.3116141284,-50.7267969922,-18.9012571645",
     "geom:latitude":-19.119316,
     "geom:longitude":-50.917967,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.143857,
     "lbl:longitude":-50.871363,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102052301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"521130515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"919e5d7490bfac6f01006614f38f258f",
+    "wof:geomhash":"8c3ef045e2a811d6686e2ee054ec1578",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554831,
-    "wof:lastmodified":1577836191,
+    "wof:lastmodified":1695878654,
     "wof:name":"Olaria Do Angico",
     "wof:parent_id":102052301,
     "wof:placetype":"localadmin",

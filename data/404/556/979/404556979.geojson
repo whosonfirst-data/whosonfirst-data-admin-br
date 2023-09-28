@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031889,
-    "geom:area_square_m":370550346.206772,
+    "geom:area_square_m":370550346.20689,
     "geom:bbox":"-45.617,-20.099144997,-45.380242,-19.846460997",
     "geom:latitude":-19.993789,
     "geom:longitude":-45.508008,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.997753,
     "lbl:longitude":-45.499943,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054207
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313720505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6c2607c0412c1dce159d26c954510d98",
+    "wof:geomhash":"b01c139a91a47b3653f52b472335269d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556979,
-    "wof:lastmodified":1577832936,
+    "wof:lastmodified":1695878462,
     "wof:name":"Lagoa Da Prata",
     "wof:parent_id":102054207,
     "wof:placetype":"localadmin",

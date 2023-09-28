@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06133,
-    "geom:area_square_m":736436573.211177,
+    "geom:area_square_m":736436573.21139,
     "geom:bbox":"-40.3301551655,-13.964556625,-39.8946960566,-13.6394824809",
     "geom:latitude":-13.807981,
     "geom:longitude":-40.068747,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.824603,
     "lbl:longitude":-40.017764,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u0643\u064a\u064a"
@@ -124,9 +133,12 @@
         102050941
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291800105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7d53f6c4726b3b1b3dca5d3c9e657cdc",
+    "wof:geomhash":"992d32c7d19bcbbe72e72327df7600c1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":404551313,
-    "wof:lastmodified":1577837733,
+    "wof:lastmodified":1695878685,
     "wof:name":"Jequi\u00e9",
     "wof:parent_id":102050941,
     "wof:placetype":"localadmin",

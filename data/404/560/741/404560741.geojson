@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006192,
-    "geom:area_square_m":75699762.858215,
+    "geom:area_square_m":75699762.85821,
     "geom:bbox":"-35.1824982991,-8.69240214533,-35.0447168199,-8.58580439327",
     "geom:latitude":-8.633496,
     "geom:longitude":-35.106627,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.639753,
     "lbl:longitude":-35.099848,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056847
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261420410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"39415c1195e70bf13ed11dbb01506c70",
+    "wof:geomhash":"227bf69e245ae63a122697774ab5d987",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560741,
-    "wof:lastmodified":1577837807,
+    "wof:lastmodified":1695878702,
     "wof:name":"Barra Do Sirinha\u00e9m",
     "wof:parent_id":102056847,
     "wof:placetype":"localadmin",

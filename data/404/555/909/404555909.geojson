@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020609,
-    "geom:area_square_m":243778369.608558,
+    "geom:area_square_m":243778369.608426,
     "geom:bbox":"-44.332305,-17.0269969974,-44.119118,-16.8179169974",
     "geom:latitude":-16.938292,
     "geom:longitude":-44.20863,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.961636,
     "lbl:longitude":-44.224697,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vista Alegre"
@@ -76,9 +85,12 @@
         102053659
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311650610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5bcfd551ef78eb70aadc9a40295234ff",
+    "wof:geomhash":"4b8958f26592e779bbb9f3fc022bb1db",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404555909,
-    "wof:lastmodified":1577833250,
+    "wof:lastmodified":1695878558,
     "wof:name":"Vista Alegre",
     "wof:parent_id":102053659,
     "wof:placetype":"localadmin",

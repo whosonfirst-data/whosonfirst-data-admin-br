@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008513,
-    "geom:area_square_m":104320689.703106,
+    "geom:area_square_m":104320689.703112,
     "geom:bbox":"-37.3769729004,-7.72018514506,-37.2389126901,-7.59524407157",
     "geom:latitude":-7.658386,
     "geom:longitude":-37.309855,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.665794,
     "lbl:longitude":-37.305177,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c1\u09aa\u09be\u09b0\u09c7\u099f\u09be\u09ae\u09be"
@@ -85,9 +94,12 @@
         102056885
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261590405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d1da8059cc9cd8ac16d9c09cd58271a5",
+    "wof:geomhash":"c492efdd0a7a28c51e499bc7b3eab032",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404560787,
-    "wof:lastmodified":1577837943,
+    "wof:lastmodified":1695878737,
     "wof:name":"Tuparetama",
     "wof:parent_id":102056885,
     "wof:placetype":"localadmin",

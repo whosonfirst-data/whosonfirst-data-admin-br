@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023418,
-    "geom:area_square_m":250345969.566195,
+    "geom:area_square_m":250345969.566148,
     "geom:bbox":"-53.6744393251,-30.2724421346,-53.5002706949,-30.0549928697",
     "geom:latitude":-30.170523,
     "geom:longitude":-53.583819,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.163107,
     "lbl:longitude":-53.594125,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09b8\u09c7\u09aa\u09c7"
@@ -88,9 +97,12 @@
         102059963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431960405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"19b11892e9b037e38e7d18cef37b42e7",
+    "wof:geomhash":"c68851c3e478479741f194b82772243c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404564743,
-    "wof:lastmodified":1577827948,
+    "wof:lastmodified":1695878293,
     "wof:name":"S\u00e3o Sep\u00e9",
     "wof:parent_id":102059963,
     "wof:placetype":"localadmin",

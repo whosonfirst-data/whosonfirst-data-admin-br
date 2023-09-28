@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018236,
-    "geom:area_square_m":211586902.419011,
+    "geom:area_square_m":211586902.419042,
     "geom:bbox":"-40.8865053361,-20.3001703143,-40.6696407654,-20.1527833871",
     "geom:latitude":-20.22523,
     "geom:longitude":-40.767745,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.217016,
     "lbl:longitude":-40.784176,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Melga\u00e7o"
@@ -70,9 +79,12 @@
         102051867
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320190230"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7d8a841a279c6f89edff5715c1f1733e",
+    "wof:geomhash":"493521b4fd1ec631da241ef00c29eb91",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404554309,
-    "wof:lastmodified":1577832603,
+    "wof:lastmodified":1695878338,
     "wof:name":"Melga\u00e7o",
     "wof:parent_id":102051867,
     "wof:placetype":"localadmin",

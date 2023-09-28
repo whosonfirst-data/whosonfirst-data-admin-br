@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021987,
-    "geom:area_square_m":252788886.418412,
+    "geom:area_square_m":252788886.418401,
     "geom:bbox":"-52.1034018818,-21.7120402903,-51.9410765886,-21.4933074526",
     "geom:latitude":-21.59254,
     "geom:longitude":-52.01298,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.591221,
     "lbl:longitude":-52.011475,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102062033
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354130715"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"596e4d7b6adbd187119c182c801123ce",
+    "wof:geomhash":"d50a4671fc892c529d101a7345cbc85d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404567061,
-    "wof:lastmodified":1577833346,
+    "wof:lastmodified":1695878587,
     "wof:name":"Campinal",
     "wof:parent_id":102062033,
     "wof:placetype":"localadmin",

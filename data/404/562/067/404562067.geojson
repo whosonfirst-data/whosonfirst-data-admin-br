@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005447,
-    "geom:area_square_m":60637566.093339,
+    "geom:area_square_m":60637566.093337,
     "geom:bbox":"-52.9952930869,-25.863573899,-52.8652880601,-25.744730939",
     "geom:latitude":-25.804925,
     "geom:longitude":-52.942258,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.809619,
     "lbl:longitude":-52.948661,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cd\u09b0\u09c7\u09b8\u09bf\u09a1\u09c7\u09a8\u09cd\u099f\u09c7 \u0995\u09c7\u09a8\u09cd\u09a8\u09c7\u09a1\u09bf"
@@ -67,9 +76,12 @@
         102058291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412860910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"12470e9cea624a6af428fee61eff4913",
+    "wof:geomhash":"6fb12e59837fb89e2886c69746552d05",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404562067,
-    "wof:lastmodified":1577827896,
+    "wof:lastmodified":1695878269,
     "wof:name":"Presidente Kennedy",
     "wof:parent_id":102058291,
     "wof:placetype":"localadmin",

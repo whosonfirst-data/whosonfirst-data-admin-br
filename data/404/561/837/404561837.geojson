@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009101,
-    "geom:area_square_m":102086015.404195,
+    "geom:area_square_m":102086015.404115,
     "geom:bbox":"-51.9937262525,-24.9635730037,-51.8749831142,-24.8347569571",
     "geom:latitude":-24.892572,
     "geom:longitude":-51.943082,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.892042,
     "lbl:longitude":-51.944276,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058143
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412385735"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"caa5def7bd1f6d0fc2d86370e6d8d3c1",
+    "wof:geomhash":"5107a31e45655641984d2b9a02ca860b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561837,
-    "wof:lastmodified":1577827958,
+    "wof:lastmodified":1695878297,
     "wof:name":"S\u00e3o Manoel",
     "wof:parent_id":102058143,
     "wof:placetype":"localadmin",

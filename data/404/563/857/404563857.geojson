@@ -10,12 +10,21 @@
     "geom:latitude":-27.590065,
     "geom:longitude":-53.049798,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.589118,
     "lbl:longitude":-53.049806,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09bf\u09ac\u09c7\u09b0\u09be\u099f\u09cb \u09b8\u09be\u09b2\u099c\u09be\u09a8\u09cb"
@@ -97,9 +106,12 @@
         102059565
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431160105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1266645868fec5cf3e752b095c6909ef",
+    "wof:geomhash":"c01df32fcc34c539814e633035d58258",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404563857,
-    "wof:lastmodified":1577827976,
+    "wof:lastmodified":1695878306,
     "wof:name":"Liberato Salzano",
     "wof:parent_id":102059565,
     "wof:placetype":"localadmin",

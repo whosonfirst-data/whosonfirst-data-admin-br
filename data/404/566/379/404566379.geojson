@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00952,
-    "geom:area_square_m":109499844.064221,
+    "geom:area_square_m":109499982.632399,
     "geom:bbox":"-51.715599,-21.629811,-51.590547,-21.433234",
     "geom:latitude":-21.535596,
     "geom:longitude":-51.648562,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.539637,
     "lbl:longitude":-51.627922,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Jamaika"
@@ -628,9 +637,12 @@
         102061349
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351440315"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"38fc9ab0979ced0cf39e688f5470e76d",
+    "wof:geomhash":"6eb4fd08828c8f9bdfb6472604bf1292",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -642,7 +654,7 @@
         }
     ],
     "wof:id":404566379,
-    "wof:lastmodified":1636496422,
+    "wof:lastmodified":1695878857,
     "wof:name":"Jamaica",
     "wof:parent_id":102061349,
     "wof:placetype":"localadmin",

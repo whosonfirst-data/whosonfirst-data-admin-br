@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029643,
-    "geom:area_square_m":351018863.176714,
+    "geom:area_square_m":351018863.176503,
     "geom:bbox":"-44.145989,-16.8916159968,-43.959036,-16.5751879969",
     "geom:latitude":-16.734191,
     "geom:longitude":-44.045004,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.735052,
     "lbl:longitude":-44.060524,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314330230"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d2fc88fe2cc22b0de2b4605b3b266f26",
+    "wof:geomhash":"d7d9df96701f5fc5f89af9a558dbdc57",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557325,
-    "wof:lastmodified":1577832817,
+    "wof:lastmodified":1695878417,
     "wof:name":"S\u00e3o Jo\u00e3o Da Vereda",
     "wof:parent_id":102054373,
     "wof:placetype":"localadmin",

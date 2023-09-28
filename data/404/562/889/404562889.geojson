@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055797,
-    "geom:area_square_m":586352413.139231,
+    "geom:area_square_m":586352413.139033,
     "geom:bbox":"-54.2340725956,-31.9587361161,-53.9063853195,-31.6391105455",
     "geom:latitude":-31.804086,
     "geom:longitude":-54.074453,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-31.805276,
     "lbl:longitude":-54.076889,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u30df\u30cc\u30a2\u30ce"
@@ -49,9 +58,12 @@
         102059039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430003425"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ed83e238758659020bac21690f34b5e3",
+    "wof:geomhash":"e80622f3722ed40f32108d478f8c5294",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":404562889,
-    "wof:lastmodified":1577827975,
+    "wof:lastmodified":1695878305,
     "wof:name":"Minuano",
     "wof:parent_id":102059039,
     "wof:placetype":"localadmin",

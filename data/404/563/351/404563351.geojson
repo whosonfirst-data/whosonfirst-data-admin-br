@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015288,
-    "geom:area_square_m":164959835.659092,
+    "geom:area_square_m":164959835.658995,
     "geom:bbox":"-51.0987641428,-29.3207857311,-50.9547436679,-29.1587184022",
     "geom:latitude":-29.234456,
     "geom:longitude":-51.018582,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.228147,
     "lbl:longitude":-51.012806,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059251
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430510840"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dbaa281e12f1eb6a3210e877db9797e1",
+    "wof:geomhash":"27158bbea3901328735dc4c0baac0b12",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404563351,
-    "wof:lastmodified":1577827728,
+    "wof:lastmodified":1695878190,
     "wof:name":"Santa L\u00facia Do Pia\u00ed",
     "wof:parent_id":102059251,
     "wof:placetype":"localadmin",

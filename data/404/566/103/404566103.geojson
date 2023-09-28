@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043932,
-    "geom:area_square_m":500986195.892979,
+    "geom:area_square_m":500986195.892944,
     "geom:bbox":"-48.2896913823,-22.8638121375,-48.01428,-22.5939633488",
     "geom:latitude":-22.744228,
     "geom:longitude":-48.158702,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.756912,
     "lbl:longitude":-48.161285,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u09b9\u09c7\u09ae\u09ac\u09bf"
@@ -91,9 +100,12 @@
         102061045
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350230905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1f625a60898acbee9fc61496ce65c0d7",
+    "wof:geomhash":"e59a9240d2c1e9c8daafa8fb3a88b07e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404566103,
-    "wof:lastmodified":1577832629,
+    "wof:lastmodified":1695878350,
     "wof:name":"Anhembi",
     "wof:parent_id":102061045,
     "wof:placetype":"localadmin",

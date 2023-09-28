@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086647,
-    "geom:area_square_m":1047241323.490336,
+    "geom:area_square_m":1047241323.490293,
     "geom:bbox":"-44.535002,-12.311371,-43.957216,-12.046396",
     "geom:latitude":-12.193504,
     "geom:longitude":-44.259173,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.199695,
     "lbl:longitude":-44.355111,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09b0\u09bf\u09b8\u099f\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -103,12 +112,15 @@
         102050723
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290970305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050723
     ],
     "wof:country":"BR",
-    "wof:geomhash":"98329c3bb63cfc99c850ad28cd0ed564",
+    "wof:geomhash":"e43dff329b008dedde81610fdf4fb3b7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404550879,
-    "wof:lastmodified":1617130059,
+    "wof:lastmodified":1695878831,
     "wof:name":"Crist\u00f3polis",
     "wof:parent_id":102050723,
     "wof:placetype":"localadmin",

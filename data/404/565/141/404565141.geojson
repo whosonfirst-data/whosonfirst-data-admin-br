@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017621,
-    "geom:area_square_m":193149149.497158,
+    "geom:area_square_m":193149149.497224,
     "geom:bbox":"-49.0982271435,-27.6483615868,-48.8969005106,-27.4666784386",
     "geom:latitude":-27.570189,
     "geom:longitude":-49.002204,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.576175,
     "lbl:longitude":-49.002253,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Angelina"
@@ -70,9 +79,12 @@
         102060213
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420090305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"20f3d702311a03d8df7be3666f3d98cc",
+    "wof:geomhash":"214dbaa9de271a0993d916ab6a9777a5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404565141,
-    "wof:lastmodified":1577827909,
+    "wof:lastmodified":1695878275,
     "wof:name":"Angelina",
     "wof:parent_id":102060213,
     "wof:placetype":"localadmin",

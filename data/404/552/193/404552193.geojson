@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008693,
-    "geom:area_square_m":104739716.078226,
+    "geom:area_square_m":104739716.078239,
     "geom:bbox":"-39.461480958,-13.065755067,-39.284451225,-12.950322475",
     "geom:latitude":-13.000699,
     "geom:longitude":-39.367171,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.002227,
     "lbl:longitude":-39.353782,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u09b0\u09cd\u099c\u09c7\u09a1\u09cb"
@@ -100,9 +109,12 @@
         102051383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"293317405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"237663b17a6ebcab9dc8c74a4b21fb03",
+    "wof:geomhash":"36f1bf6c356d4140ad7e95885d7f3ec5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404552193,
-    "wof:lastmodified":1577837689,
+    "wof:lastmodified":1695878675,
     "wof:name":"Varzedo",
     "wof:parent_id":102051383,
     "wof:placetype":"localadmin",

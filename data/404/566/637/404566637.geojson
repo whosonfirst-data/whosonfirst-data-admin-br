@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012427,
-    "geom:area_square_m":141762324.499209,
+    "geom:area_square_m":141762324.499205,
     "geom:bbox":"-47.102738,-22.750415,-46.930796,-22.608492",
     "geom:latitude":-22.69198,
     "geom:longitude":-47.012774,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.695085,
     "lbl:longitude":-47.006923,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u0997\u09c1\u09f1\u09be\u09b0\u09bf\u0989\u09a8\u09be"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061621,
         1511777411,
-        85682041
+        102061621
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352470905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061621
     ],
     "wof:country":"BR",
-    "wof:geomhash":"34bbdb8fd5f0718dfc3281972a46d973",
+    "wof:geomhash":"98c360372427dd06e12df842de0e90ab",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404566637,
-    "wof:lastmodified":1608030975,
+    "wof:lastmodified":1695878786,
     "wof:name":"Jaguari\u00fana",
     "wof:parent_id":102061621,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152526,
-    "geom:area_square_m":1816407817.248136,
+    "geom:area_square_m":1816407817.248277,
     "geom:bbox":"-55.0236186446,-15.9173105741,-54.5189415681,-15.3600374591",
     "geom:latitude":-15.613916,
     "geom:longitude":-54.772187,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.593604,
     "lbl:longitude":-54.747371,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u09ae \u0986\u0995\u09c1\u0987\u09a8\u09cb"
@@ -94,9 +103,12 @@
         102055439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510360105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6594875245363b53b6a0cbb511ed456f",
+    "wof:geomhash":"bfab02fc3523ded46991bfb847b21921",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404559193,
-    "wof:lastmodified":1577836096,
+    "wof:lastmodified":1695878631,
     "wof:name":"Dom Aquino",
     "wof:parent_id":102055439,
     "wof:placetype":"localadmin",

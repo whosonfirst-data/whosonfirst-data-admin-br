@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042574,
-    "geom:area_square_m":524280912.858502,
+    "geom:area_square_m":524280912.858437,
     "geom:bbox":"-40.7751898068,-5.31908579009,-40.5318717211,-5.05487208931",
     "geom:latitude":-5.182075,
     "geom:longitude":-40.661131,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.182346,
     "lbl:longitude":-40.675559,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09b0\u09be\u099f\u09c7\u0989\u09b8"
@@ -88,9 +97,12 @@
         102051511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230410305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"20cf2233b607788ff600676f3497bdc1",
+    "wof:geomhash":"597fd75dd1d460ac5c65c393fb2c7b48",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404552741,
-    "wof:lastmodified":1577837809,
+    "wof:lastmodified":1695878703,
     "wof:name":"Crate\u00fas",
     "wof:parent_id":102051511,
     "wof:placetype":"localadmin",

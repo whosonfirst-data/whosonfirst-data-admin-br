@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002729,
-    "geom:area_square_m":29494004.333935,
+    "geom:area_square_m":29494004.33393,
     "geom:bbox":"-52.9604262522,-29.1084540611,-52.8701965253,-29.0538501164",
     "geom:latitude":-29.082657,
     "geom:longitude":-52.91461,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.082184,
     "lbl:longitude":-52.907787,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pedregal"
@@ -58,9 +67,12 @@
         102060079
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432215225"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"058151926face5ce3fa4f5282ae6399f",
+    "wof:geomhash":"d1c71547f1830137d87058f55c0dec60",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":404564989,
-    "wof:lastmodified":1577827882,
+    "wof:lastmodified":1695878262,
     "wof:name":"Pedregal",
     "wof:parent_id":102060079,
     "wof:placetype":"localadmin",

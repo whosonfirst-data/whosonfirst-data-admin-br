@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019313,
-    "geom:area_square_m":221594889.526771,
+    "geom:area_square_m":221594889.526591,
     "geom:bbox":"-45.875347,-21.97062,-45.71153,-21.788814",
     "geom:latitude":-21.884976,
     "geom:longitude":-45.799678,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.886481,
     "lbl:longitude":-45.798117,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c1\u09b0\u09cd\u09ad\u09cb\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
@@ -96,19 +105,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102055091,
         1511777411,
-        85681941
+        102055091
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316980205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055091
     ],
     "wof:country":"BR",
-    "wof:geomhash":"6c0cde55ed36ce08c0d5f40374639d5b",
+    "wof:geomhash":"ca5241a2713f1554c33aa2e212013056",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404558641,
-    "wof:lastmodified":1608030547,
+    "wof:lastmodified":1695878778,
     "wof:name":"Turvol\u00e2ndia",
     "wof:parent_id":102055091,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101739,
-    "geom:area_square_m":1182785266.849448,
+    "geom:area_square_m":1182785266.849297,
     "geom:bbox":"-47.188014,-20.052683,-46.59953,-19.773675",
     "geom:latitude":-19.915843,
     "geom:longitude":-46.868282,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.91093,
     "lbl:longitude":-46.868177,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tapira"
@@ -57,19 +66,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102055049,
         1511777411,
-        85681941
+        102055049
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316810105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055049
     ],
     "wof:country":"BR",
-    "wof:geomhash":"55f7f7b96307435aaae969804a9a8858",
+    "wof:geomhash":"2e9f721e0ff13ccffd001f5255b6b222",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404558551,
-    "wof:lastmodified":1608030287,
+    "wof:lastmodified":1695878773,
     "wof:name":"Tapira",
     "wof:parent_id":102055049,
     "wof:placetype":"localadmin",

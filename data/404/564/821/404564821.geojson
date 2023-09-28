@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034206,
-    "geom:area_square_m":373436579.849246,
+    "geom:area_square_m":373436579.849363,
     "geom:bbox":"-52.5800808698,-28.0902471055,-52.0865640798,-27.9362853052",
     "geom:latitude":-28.004264,
     "geom:longitude":-52.323374,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.029881,
     "lbl:longitude":-52.422366,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u099f\u09be\u0993"
@@ -82,9 +91,12 @@
         102060001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432050305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"aaa07ed1d93bcd07a6d167a439a59064",
+    "wof:geomhash":"3f7baa1c2b34e8c39d66087eb1b3e9f4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404564821,
-    "wof:lastmodified":1577827831,
+    "wof:lastmodified":1695878236,
     "wof:name":"Sert\u00e3o",
     "wof:parent_id":102060001,
     "wof:placetype":"localadmin",

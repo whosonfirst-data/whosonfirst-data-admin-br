@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015165,
-    "geom:area_square_m":176107998.930454,
+    "geom:area_square_m":176107998.930538,
     "geom:bbox":"-42.09225,-20.1716059969,-41.950424,-19.983186997",
     "geom:latitude":-20.086851,
     "geom:longitude":-42.021637,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.090134,
     "lbl:longitude":-42.021634,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09bf\u09ae\u09cb\u09a8\u09c7\u09b8\u09bf\u09af\u09bc\u09be"
@@ -97,9 +106,12 @@
         102055035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316760805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4b5dd48600b300b610c270792ce40f80",
+    "wof:geomhash":"62c1aed52aa543c06a5831bacacbca4a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404558531,
-    "wof:lastmodified":1577833001,
+    "wof:lastmodified":1695878481,
     "wof:name":"Simon\u00e9sia",
     "wof:parent_id":102055035,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074612,
-    "geom:area_square_m":921108703.612723,
+    "geom:area_square_m":921108703.612715,
     "geom:bbox":"-57.7558918796,-3.51392063287,-57.3586315773,-3.03229085904",
     "geom:latitude":-3.253136,
     "geom:longitude":-57.517455,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.227573,
     "lbl:longitude":-57.536987,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050313
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"130068015"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d49074f20714bf58b4bcb4f89a20db62",
+    "wof:geomhash":"9a05daafd29a6ad96b7064c7e1b8ac43",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550241,
-    "wof:lastmodified":1577825681,
+    "wof:lastmodified":1695878161,
     "wof:name":"Massauari",
     "wof:parent_id":102050313,
     "wof:placetype":"localadmin",

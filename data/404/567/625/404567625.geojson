@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006943,
-    "geom:area_square_m":80427190.213204,
+    "geom:area_square_m":80427190.213223,
     "geom:bbox":"-49.9834403019,-20.576005,-49.8522736521,-20.4084643266",
     "geom:latitude":-20.484163,
     "geom:longitude":-49.912099,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.443917,
     "lbl:longitude":-49.88387,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043c\u043e\u043d\u0441\u0435\u043d"
@@ -37,9 +46,12 @@
         102062433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355710515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d1bd50f11b118f1a7124b6ad552e7829",
+    "wof:geomhash":"768a950fc2543be260d6ac42dbb1e86b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404567625,
-    "wof:lastmodified":1577833119,
+    "wof:lastmodified":1695878518,
     "wof:name":"Simonsen",
     "wof:parent_id":102062433,
     "wof:placetype":"localadmin",

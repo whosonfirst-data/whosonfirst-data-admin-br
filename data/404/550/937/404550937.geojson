@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043037,
-    "geom:area_square_m":515913182.340009,
+    "geom:area_square_m":515913182.339954,
     "geom:bbox":"-44.4847402677,-14.2861188818,-44.0456710608,-14.0503128392",
     "geom:latitude":-14.193984,
     "geom:longitude":-44.288795,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.18119,
     "lbl:longitude":-44.285387,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291077605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8b671ba44911e03ac9c38d3eab710c83",
+    "wof:geomhash":"f1c563fe02bb6b5cf1a1c39fa3d7267e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550937,
-    "wof:lastmodified":1577837803,
+    "wof:lastmodified":1695878701,
     "wof:name":"Feira Da Mata",
     "wof:parent_id":102050753,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010085,
-    "geom:area_square_m":124542358.413185,
+    "geom:area_square_m":124542358.413161,
     "geom:bbox":"-41.2271498496,-3.04452184763,-41.0850917965,-2.88768898292",
     "geom:latitude":-2.952244,
     "geom:longitude":-41.157138,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-2.945065,
     "lbl:longitude":-41.158159,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u0627\u0631\u0627\u0633"
@@ -106,9 +115,12 @@
         102051457
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230205710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5a866c60520551dd60bbae6523c95190",
+    "wof:geomhash":"6855eee19cd61e8a16b2b09f36f510b8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404552495,
-    "wof:lastmodified":1577837675,
+    "wof:lastmodified":1695878671,
     "wof:name":"Araras",
     "wof:parent_id":102051457,
     "wof:placetype":"localadmin",

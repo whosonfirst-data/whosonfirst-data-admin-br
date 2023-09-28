@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007581,
-    "geom:area_square_m":92653782.600907,
+    "geom:area_square_m":92653782.600895,
     "geom:bbox":"-36.1978396305,-8.78775109023,-36.0754600877,-8.66482502623",
     "geom:latitude":-8.735135,
     "geom:longitude":-36.136971,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.740262,
     "lbl:longitude":-36.137896,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jurema"
@@ -64,9 +73,12 @@
         102056701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260840405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"049175093d44534a483eff6151ebafd9",
+    "wof:geomhash":"e16f53a557fd2aaeca4ae92d5d56a177",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":404560463,
-    "wof:lastmodified":1577837865,
+    "wof:lastmodified":1695878717,
     "wof:name":"Jurema",
     "wof:parent_id":102056701,
     "wof:placetype":"localadmin",

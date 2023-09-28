@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008258,
-    "geom:area_square_m":90929433.991767,
+    "geom:area_square_m":90929433.991793,
     "geom:bbox":"-52.508477,-27.131489,-52.390865,-26.992334",
     "geom:latitude":-27.070957,
     "geom:longitude":-52.442233,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.077846,
     "lbl:longitude":-52.431557,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Arvoredu"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060235,
         1511777409,
-        85682021
+        102060235
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420165305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060235
     ],
     "wof:country":"BR",
-    "wof:geomhash":"4ecc349ed6e4b409a6f73aa034f8a058",
+    "wof:geomhash":"aea4cec571f3163a93d3a2a41323af92",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404565179,
-    "wof:lastmodified":1608034502,
+    "wof:lastmodified":1695878824,
     "wof:name":"Arvoredo",
     "wof:parent_id":102060235,
     "wof:placetype":"localadmin",

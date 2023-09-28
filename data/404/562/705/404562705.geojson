@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004442,
-    "geom:area_square_m":54613245.206465,
+    "geom:area_square_m":54613245.206468,
     "geom:bbox":"-37.9131421807,-6.10409074849,-37.8323787699,-6.00762898523",
     "geom:latitude":-6.059777,
     "geom:longitude":-37.8765,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.068135,
     "lbl:longitude":-37.872518,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058693
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"240740110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b87035e66a75bec0be1dc1f5b10b5397",
+    "wof:geomhash":"1e8922eaea09c283a31148cb46e9563b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562705,
-    "wof:lastmodified":1577837800,
+    "wof:lastmodified":1695878701,
     "wof:name":"Salva Vida",
     "wof:parent_id":102058693,
     "wof:placetype":"localadmin",

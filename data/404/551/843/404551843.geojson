@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07769,
-    "geom:area_square_m":926288180.19921,
+    "geom:area_square_m":926288180.199212,
     "geom:bbox":"-40.892831226,-15.5436990925,-40.470613885,-15.238861969",
     "geom:latitude":-15.370653,
     "geom:longitude":-40.683525,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.366183,
     "lbl:longitude":-40.708584,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051199
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292665705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7a6fc04f489282dc6a1c11d768b9d911",
+    "wof:geomhash":"52f0276e7b1a9c76b82bd6e30df6fa51",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551843,
-    "wof:lastmodified":1577837820,
+    "wof:lastmodified":1695878706,
     "wof:name":"Ribeir\u00e3o Do Largo",
     "wof:parent_id":102051199,
     "wof:placetype":"localadmin",

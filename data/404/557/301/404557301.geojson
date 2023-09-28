@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115038,
-    "geom:area_square_m":1347300830.549508,
+    "geom:area_square_m":1347300830.549562,
     "geom:bbox":"-47.726037,-18.978009,-47.27092,-18.452791",
     "geom:latitude":-18.70919,
     "geom:longitude":-47.46095,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.697303,
     "lbl:longitude":-47.457511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u099f\u09c7 \u0995\u09be\u09b0\u09cd\u09ae\u09c7\u09b2\u09cb"
@@ -84,19 +93,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054367,
         1511777411,
-        85681941
+        102054367
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314310405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054367
     ],
     "wof:country":"BR",
-    "wof:geomhash":"95462f88afc5a4e9373f13337bb3886e",
+    "wof:geomhash":"06d5f9d83b936e5d921a538ced1dba56",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404557301,
-    "wof:lastmodified":1608031717,
+    "wof:lastmodified":1695878790,
     "wof:name":"Monte Carmelo",
     "wof:parent_id":102054367,
     "wof:placetype":"localadmin",

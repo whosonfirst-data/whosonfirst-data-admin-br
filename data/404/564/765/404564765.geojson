@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041847,
-    "geom:area_square_m":449290506.68995,
+    "geom:area_square_m":449290446.197033,
     "geom:bbox":"-55.142685,-29.85679,-54.76576,-29.646725",
     "geom:latitude":-29.740484,
     "geom:longitude":-54.929309,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.735381,
     "lbl:longitude":-54.885103,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b2\u09cb\u09b0\u09c7\u09a4\u09cb"
@@ -136,9 +145,12 @@
         102059975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431980215"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2ee2b8830cd344cddd793d65bfdab824",
+    "wof:geomhash":"5a66716c29b6a84cd344f68f15f7591b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":404564765,
-    "wof:lastmodified":1636496445,
+    "wof:lastmodified":1695878865,
     "wof:name":"Loreto",
     "wof:parent_id":102059975,
     "wof:placetype":"localadmin",

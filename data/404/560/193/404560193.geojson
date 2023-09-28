@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029612,
-    "geom:area_square_m":362888056.331732,
+    "geom:area_square_m":362888056.331719,
     "geom:bbox":"-40.1064852755,-7.77822808085,-39.9039807608,-7.51750073543",
     "geom:latitude":-7.662717,
     "geom:longitude":-39.993341,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.663987,
     "lbl:longitude":-39.986437,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260200110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"aa6f9f781f5f768302981d1a0c1b9421",
+    "wof:geomhash":"114d65cb398dc402702907f9a074180e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560193,
-    "wof:lastmodified":1577837686,
+    "wof:lastmodified":1695878674,
     "wof:name":"Claran\u00e3",
     "wof:parent_id":102056533,
     "wof:placetype":"localadmin",

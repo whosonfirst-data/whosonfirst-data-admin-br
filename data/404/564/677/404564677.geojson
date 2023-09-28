@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021284,
-    "geom:area_square_m":224796911.603403,
+    "geom:area_square_m":224796911.60343,
     "geom:bbox":"-52.3485532686,-31.4030543517,-52.0683116496,-31.2488974879",
     "geom:latitude":-31.332153,
     "geom:longitude":-52.233588,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-31.339778,
     "lbl:longitude":-52.254853,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0631\u0645\u0648\u0646\u064a\u0627"
@@ -163,9 +172,12 @@
         102059933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431880425"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"95c9a9efd779c49a292543733f41bbb8",
+    "wof:geomhash":"144bc13d825785862b53f7f1d7157b57",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -177,7 +189,7 @@
         }
     ],
     "wof:id":404564677,
-    "wof:lastmodified":1577827930,
+    "wof:lastmodified":1695878286,
     "wof:name":"Harmonia",
     "wof:parent_id":102059933,
     "wof:placetype":"localadmin",

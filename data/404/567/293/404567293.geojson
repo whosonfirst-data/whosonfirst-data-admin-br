@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000782,
-    "geom:area_square_m":8863996.141384,
+    "geom:area_square_m":8864002.874704,
     "geom:bbox":"-46.687304,-23.644867,-46.647561,-23.608563",
     "geom:latitude":-23.628112,
     "geom:longitude":-46.667905,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.628104,
     "lbl:longitude":-46.668211,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0628\u0648 \u0628\u064a\u0644\u0648"
@@ -133,9 +142,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030815"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"38c482b451e4799e1d8789806d27b083",
+    "wof:geomhash":"41e663ef4b91f81a172b3ca8d25c6017",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":404567293,
-    "wof:lastmodified":1642551800,
+    "wof:lastmodified":1695878871,
     "wof:name":"Campo Belo",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

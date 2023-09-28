@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011,
-    "geom:area_square_m":116130290.158732,
+    "geom:area_square_m":116130290.158721,
     "geom:bbox":"-52.5416764493,-31.4283337028,-52.3521023576,-31.3221821668",
     "geom:latitude":-31.373714,
     "geom:longitude":-52.458069,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-31.372628,
     "lbl:longitude":-52.475309,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Triunfo"
@@ -76,9 +85,12 @@
         102059735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431440760"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e115d6d0023b8bec805b6caaa847e150",
+    "wof:geomhash":"044f6e8a52b9843ad43c7ab5340f2065",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404564163,
-    "wof:lastmodified":1577827911,
+    "wof:lastmodified":1695878277,
     "wof:name":"Triunfo",
     "wof:parent_id":102059735,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002722,
-    "geom:area_square_m":33567073.621914,
+    "geom:area_square_m":33567073.621917,
     "geom:bbox":"-38.9624942841,-4.32412228022,-38.8916762006,-4.23659920101",
     "geom:latitude":-4.269895,
     "geom:longitude":-38.931756,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.259168,
     "lbl:longitude":-38.937092,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09b0\u09be\u09ae\u09bf\u09b0\u09be\u0999\u09cd\u0997\u09be"
@@ -97,9 +106,12 @@
         102051555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230510005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c15c48b458fb67b59545117449b01b43",
+    "wof:geomhash":"e63aead28d14761f1bf1ffa16bb6569f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404552931,
-    "wof:lastmodified":1577837981,
+    "wof:lastmodified":1695878746,
     "wof:name":"Guaramiranga",
     "wof:parent_id":102051555,
     "wof:placetype":"localadmin",

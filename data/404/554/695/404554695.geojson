@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170462,
-    "geom:area_square_m":2036862074.265496,
+    "geom:area_square_m":2036862074.265692,
     "geom:bbox":"-48.0988826797,-15.1498831083,-47.4722111791,-14.639805937",
     "geom:latitude":-14.906515,
     "geom:longitude":-47.795432,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.914168,
     "lbl:longitude":-47.816607,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102052003
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"520017505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b5464a4f0311aca43046fe1484d0926b",
+    "wof:geomhash":"0edec02a867454103ef38b8f5fbc8ffd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554695,
-    "wof:lastmodified":1577836121,
+    "wof:lastmodified":1695878638,
     "wof:name":"\u00c1gua Fria De Goi\u00e1s",
     "wof:parent_id":102052003,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009829,
-    "geom:area_square_m":106983601.970931,
+    "geom:area_square_m":106983601.970908,
     "geom:bbox":"-51.6091874643,-28.4070459309,-51.4577797492,-28.2563798042",
     "geom:latitude":-28.323342,
     "geom:longitude":-51.522074,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.344485,
     "lbl:longitude":-51.497987,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Campinas"
@@ -208,9 +217,12 @@
         102059555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431130411"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d583b68cf395ef4949ed1ab19c6386f7",
+    "wof:geomhash":"16dc500a3399a2544588880ac972001a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -222,7 +234,7 @@
         }
     ],
     "wof:id":404563839,
-    "wof:lastmodified":1577827973,
+    "wof:lastmodified":1695878304,
     "wof:name":"Campinas",
     "wof:parent_id":102059555,
     "wof:placetype":"localadmin",

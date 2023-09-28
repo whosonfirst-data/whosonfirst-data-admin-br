@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037328,
-    "geom:area_square_m":447078428.417551,
+    "geom:area_square_m":447078428.417701,
     "geom:bbox":"-40.096983,-14.539808,-39.822445,-14.211867",
     "geom:latitude":-14.397043,
     "geom:longitude":-39.987897,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.419739,
     "lbl:longitude":-39.985799,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09be\u09b0\u09bf\u0993 \u09ae\u09c7\u0987\u09b0\u09be"
@@ -100,12 +109,15 @@
         102050729
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291000805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050729
     ],
     "wof:country":"BR",
-    "wof:geomhash":"99711e7bb7e6671f98eff6dc8dd1190d",
+    "wof:geomhash":"8544307ab45c4977e7c3da488342005e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404550895,
-    "wof:lastmodified":1617130020,
+    "wof:lastmodified":1695878829,
     "wof:name":"D\u00e1rio Meira",
     "wof:parent_id":102050729,
     "wof:placetype":"localadmin",

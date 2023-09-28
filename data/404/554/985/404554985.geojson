@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069326,
-    "geom:area_square_m":855548150.741268,
+    "geom:area_square_m":855548150.741391,
     "geom:bbox":"-44.8539383278,-3.83902357031,-44.5992053272,-3.38390020244",
     "geom:latitude":-3.584208,
     "geom:longitude":-44.713327,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.57374,
     "lbl:longitude":-44.715709,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u09b0\u09bf"
@@ -91,9 +100,12 @@
         102052801
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"210100405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9e6d15fc4ca1b4aae20cf79c91d6a452",
+    "wof:geomhash":"0830ec8749b2b48332028055f2471cbe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404554985,
-    "wof:lastmodified":1577837825,
+    "wof:lastmodified":1695878708,
     "wof:name":"Arari",
     "wof:parent_id":102052801,
     "wof:placetype":"localadmin",

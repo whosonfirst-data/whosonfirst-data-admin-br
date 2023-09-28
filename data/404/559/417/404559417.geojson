@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.299173,
-    "geom:area_square_m":3610880694.224327,
+    "geom:area_square_m":3610880694.223982,
     "geom:bbox":"-56.9779869464,-12.8875972544,-56.2349200285,-12.2475721279",
     "geom:latitude":-12.553946,
     "geom:longitude":-56.601997,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.594551,
     "lbl:longitude":-56.609187,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u09aa\u09c1\u09b0\u09be\u09b9"
@@ -91,9 +100,12 @@
         102055633
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510800605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"961bc1da581302d559b65ba50a3a3594",
+    "wof:geomhash":"58d8fdd0a7c572d8e35502c8694e41e4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404559417,
-    "wof:lastmodified":1577836159,
+    "wof:lastmodified":1695878645,
     "wof:name":"Tapurah",
     "wof:parent_id":102055633,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007767,
-    "geom:area_square_m":90736924.964663,
+    "geom:area_square_m":90736924.96472,
     "geom:bbox":"-42.49136,-19.2274399971,-42.353191,-19.0568609971",
     "geom:latitude":-19.133642,
     "geom:longitude":-42.440134,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.11944,
     "lbl:longitude":-42.452614,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053377
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310050028"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"fb5bc1d0784e55043a9d18bae7ad88e3",
+    "wof:geomhash":"c3d9264b7128167af3a5607450247b06",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555119,
-    "wof:lastmodified":1577832625,
+    "wof:lastmodified":1695878349,
     "wof:name":"Naque-Nanuque",
     "wof:parent_id":102053377,
     "wof:placetype":"localadmin",

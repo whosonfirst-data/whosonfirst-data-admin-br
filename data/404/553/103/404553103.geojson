@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012332,
-    "geom:area_square_m":152118592.124691,
+    "geom:area_square_m":152118592.124589,
     "geom:bbox":"-38.613301,-4.123409,-38.501662,-3.859791",
     "geom:latitude":-3.998931,
     "geom:longitude":-38.549839,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.999252,
     "lbl:longitude":-38.54437,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u0987\u099f\u09bf\u0999\u09cd\u0997\u09be"
@@ -85,12 +94,15 @@
         102051593
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230625605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102051593
     ],
     "wof:country":"BR",
-    "wof:geomhash":"4edd30d3d906eca4e2e4b00f7bda1d88",
+    "wof:geomhash":"d56c4e9602bba19b519baa21b659a5f1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404553103,
-    "wof:lastmodified":1617130317,
+    "wof:lastmodified":1695878834,
     "wof:name":"Itaitinga",
     "wof:parent_id":102051593,
     "wof:placetype":"localadmin",

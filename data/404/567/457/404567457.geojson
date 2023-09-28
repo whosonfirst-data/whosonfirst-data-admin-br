@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000618,
-    "geom:area_square_m":7005502.670834,
+    "geom:area_square_m":7005502.670835,
     "geom:bbox":"-46.751919,-23.545716,-46.71913,-23.514688",
     "geom:latitude":-23.529213,
     "geom:longitude":-46.734362,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.529833,
     "lbl:longitude":-46.734673,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Vila Leopoldina"
@@ -37,9 +46,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030888"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5dc2b14f5a5c06a8ef5e49a5a43cb8e3",
+    "wof:geomhash":"bf924133a562e8864f8736b9425da08c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404567457,
-    "wof:lastmodified":1577832648,
+    "wof:lastmodified":1695878358,
     "wof:name":"Vila Leopoldina",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

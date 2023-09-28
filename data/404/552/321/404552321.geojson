@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005315,
-    "geom:area_square_m":65623135.937524,
+    "geom:area_square_m":65623135.937533,
     "geom:bbox":"-39.7036355848,-3.13918659819,-39.6100081083,-3.01797077986",
     "geom:latitude":-3.071958,
     "geom:longitude":-39.653406,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.070905,
     "lbl:longitude":-39.652692,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Icara\u00ed"
@@ -37,9 +46,12 @@
         102051419
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230075415"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b49126764ea544c6735c0b56691702ae",
+    "wof:geomhash":"e4322c250aeadc627b21fef6436f1378",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404552321,
-    "wof:lastmodified":1577837726,
+    "wof:lastmodified":1695878683,
     "wof:name":"Icara\u00ed",
     "wof:parent_id":102051419,
     "wof:placetype":"localadmin",

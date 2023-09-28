@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027838,
-    "geom:area_square_m":330995554.391158,
+    "geom:area_square_m":330995554.391161,
     "geom:bbox":"-45.43763,-16.0355739975,-45.13091,-15.8429619975",
     "geom:latitude":-15.935439,
     "geom:longitude":-45.29918,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.956101,
     "lbl:longitude":-45.34789,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054581
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315057035"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"24f8d17a1ccf2c0142d4a8e8ba082a2f",
+    "wof:geomhash":"50633bbf2faadc9a6034883eb5456d18",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557705,
-    "wof:lastmodified":1577833145,
+    "wof:lastmodified":1695878526,
     "wof:name":"Vila Acari",
     "wof:parent_id":102054581,
     "wof:placetype":"localadmin",

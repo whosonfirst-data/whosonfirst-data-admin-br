@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003897,
-    "geom:area_square_m":44415660.034217,
+    "geom:area_square_m":44415660.034207,
     "geom:bbox":"-47.24482,-22.866487,-47.153151,-22.786899",
     "geom:latitude":-22.823632,
     "geom:longitude":-47.194142,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.821021,
     "lbl:longitude":-47.194834,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u09ad\u09c7\u09a8\u09c7\u099c\u09be"
@@ -67,12 +76,15 @@
         102062303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355240315"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101956083
     ],
     "wof:country":"BR",
-    "wof:geomhash":"efedcaf5985bdd344a9e43a0e63bb108",
+    "wof:geomhash":"3ba0d0839266764f3e518b64c6fff3e2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404567527,
-    "wof:lastmodified":1617131351,
+    "wof:lastmodified":1695878847,
     "wof:name":"Nova Veneza",
     "wof:parent_id":102062303,
     "wof:placetype":"localadmin",

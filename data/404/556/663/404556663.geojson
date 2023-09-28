@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044929,
-    "geom:area_square_m":526131835.19073,
+    "geom:area_square_m":526131835.190335,
     "geom:bbox":"-44.400158,-18.950261,-44.145338,-18.581932",
     "geom:latitude":-18.729154,
     "geom:longitude":-44.291379,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.723055,
     "lbl:longitude":-44.293331,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09a8\u09bf\u09ae\u09c1\u099f\u09be\u09ac\u09be"
@@ -93,19 +102,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054045,
         1511777411,
-        85681941
+        102054045
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313110905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054045
     ],
     "wof:country":"BR",
-    "wof:geomhash":"20edc6b5cd7c657e595790b804425b36",
+    "wof:geomhash":"343a58cfc8896ce318b949a2d58c5b15",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404556663,
-    "wof:lastmodified":1608029580,
+    "wof:lastmodified":1695878767,
     "wof:name":"Inimutaba",
     "wof:parent_id":102054045,
     "wof:placetype":"localadmin",

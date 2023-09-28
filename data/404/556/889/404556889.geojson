@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107753,
-    "geom:area_square_m":1272733650.411534,
+    "geom:area_square_m":1272733650.411433,
     "geom:bbox":"-44.68785,-17.456943,-44.26797,-16.945526",
     "geom:latitude":-17.2099,
     "geom:longitude":-44.475838,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.201143,
     "lbl:longitude":-44.478982,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09c7\u0995\u09c1\u0987\u099f\u09be\u0987"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054161,
         1511777411,
-        85681941
+        102054161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313560505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054161
     ],
     "wof:country":"BR",
-    "wof:geomhash":"8373dad14e077d3457bea7ca95c1fbc0",
+    "wof:geomhash":"37742e2f5ac4fb89879c202b303b4c07",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404556889,
-    "wof:lastmodified":1608029336,
+    "wof:lastmodified":1695878758,
     "wof:name":"Jequita\u00ed",
     "wof:parent_id":102054161,
     "wof:placetype":"localadmin",

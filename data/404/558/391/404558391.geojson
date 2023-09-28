@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026336,
-    "geom:area_square_m":309099881.265142,
+    "geom:area_square_m":309099881.265124,
     "geom:bbox":"-42.71244,-18.5099559972,-42.4512,-18.2214259972",
     "geom:latitude":-18.34789,
     "geom:longitude":-42.592629,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.341011,
     "lbl:longitude":-42.605492,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054941
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316410005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"fe1880ac07c17ff5c8d3e4a1df8be7ea",
+    "wof:geomhash":"f353ea25c152664ae9ab77da7ce6b2b5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558391,
-    "wof:lastmodified":1577832875,
+    "wof:lastmodified":1695878440,
     "wof:name":"S\u00e3o Pedro Do Sua\u00e7u\u00ed",
     "wof:parent_id":102054941,
     "wof:placetype":"localadmin",

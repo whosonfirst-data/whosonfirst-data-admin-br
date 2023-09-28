@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052851,
-    "geom:area_square_m":629534321.613702,
+    "geom:area_square_m":629534321.613991,
     "geom:bbox":"-42.32265,-15.7463109975,-41.984435,-15.3813319976",
     "geom:latitude":-15.568175,
     "geom:longitude":-42.193229,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.559558,
     "lbl:longitude":-42.249525,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09a8\u09cd\u09a1\u09be\u0987\u09af\u09bc\u09be\u09ac\u09bf\u09b0\u09be"
@@ -97,9 +106,12 @@
         102054035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313065505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ff4603a19f8d2b4cb828850b185c9f7e",
+    "wof:geomhash":"536924aa54fea7dd3faf1a073c7148ef",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404556631,
-    "wof:lastmodified":1577833046,
+    "wof:lastmodified":1695878497,
     "wof:name":"Indaiabira",
     "wof:parent_id":102054035,
     "wof:placetype":"localadmin",

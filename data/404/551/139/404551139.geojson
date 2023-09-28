@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059444,
-    "geom:area_square_m":718348807.6684,
+    "geom:area_square_m":718348807.668464,
     "geom:bbox":"-41.838369953,-12.3896192144,-41.4301570761,-12.0990407714",
     "geom:latitude":-12.232086,
     "geom:longitude":-41.630026,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.221382,
     "lbl:longitude":-41.649812,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09b0\u09be\u0995\u09c1\u09f1\u09be\u09b0\u09be"
@@ -100,9 +109,12 @@
         102050849
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291440605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f6a64f9a3f3720887e1d4c0779043d35",
+    "wof:geomhash":"ce4cb654f2ed8b9b4690201a3d803ead",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404551139,
-    "wof:lastmodified":1577837673,
+    "wof:lastmodified":1695878671,
     "wof:name":"Iraquara",
     "wof:parent_id":102050849,
     "wof:placetype":"localadmin",

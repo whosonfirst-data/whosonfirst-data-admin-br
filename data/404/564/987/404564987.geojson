@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003331,
-    "geom:area_square_m":35962757.88606,
+    "geom:area_square_m":35962757.886058,
     "geom:bbox":"-52.9299517122,-29.2065562733,-52.8445533408,-29.1398991987",
     "geom:latitude":-29.169994,
     "geom:longitude":-52.890532,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.173584,
     "lbl:longitude":-52.887219,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060079
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432215220"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d577b6b7b5b9ac8d7145a6e3e55ac952",
+    "wof:geomhash":"48d9481ac3a8ad873234342ebcb94522",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564987,
-    "wof:lastmodified":1577827996,
+    "wof:lastmodified":1695878315,
     "wof:name":"Nossa Senhora Aparecida",
     "wof:parent_id":102060079,
     "wof:placetype":"localadmin",

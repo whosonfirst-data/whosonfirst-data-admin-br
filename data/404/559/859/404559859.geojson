@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00631,
-    "geom:area_square_m":77395857.933622,
+    "geom:area_square_m":77395868.786026,
     "geom:bbox":"-38.496222,-7.321556,-38.403548,-7.192909",
     "geom:latitude":-7.255869,
     "geom:longitude":-38.448856,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.254552,
     "lbl:longitude":-38.449561,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09bf\u09af\u09bc\u09be\u09a8\u09be"
@@ -103,9 +112,12 @@
         102056059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250240930"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4d0633406d4942764e7e08e5ad71b899",
+    "wof:geomhash":"b7b960cd772dbe9695aee80cb7bfd4e8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404559859,
-    "wof:lastmodified":1636496425,
+    "wof:lastmodified":1695878859,
     "wof:name":"Viana",
     "wof:parent_id":102056059,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009047,
-    "geom:area_square_m":108022212.066078,
+    "geom:area_square_m":108022212.065978,
     "geom:bbox":"-40.139724535,-15.1254677665,-39.9926830439,-15.0101698355",
     "geom:latitude":-15.073603,
     "geom:longitude":-40.057173,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.077104,
     "lbl:longitude":-40.057151,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09cb\u09b0\u09cb\u09b0\u09cb"
@@ -94,9 +103,12 @@
         102050915
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291710205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"46cfad8ae11bb054aedcb3970b474e3e",
+    "wof:geomhash":"2a7374198267137b9af41f63c9bae525",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404551245,
-    "wof:lastmodified":1577837704,
+    "wof:lastmodified":1695878678,
     "wof:name":"Itoror\u00f3",
     "wof:parent_id":102050915,
     "wof:placetype":"localadmin",

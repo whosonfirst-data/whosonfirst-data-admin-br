@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005119,
-    "geom:area_square_m":59703824.780061,
+    "geom:area_square_m":59703824.780071,
     "geom:bbox":"-42.13631,-19.429434,-42.028352,-19.345225",
     "geom:latitude":-19.385972,
     "geom:longitude":-42.091233,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.387103,
     "lbl:longitude":-42.104672,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u09ae \u0995\u09be\u09ad\u09be\u099f\u09bf"
@@ -93,19 +102,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053815,
         1511777411,
-        85681941
+        102053815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312250405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053815
     ],
     "wof:country":"BR",
-    "wof:geomhash":"e5ba024d88f4d90ee3b75febaad79015",
+    "wof:geomhash":"43e8469f5d31415fc4ac64cb6466ae06",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404556241,
-    "wof:lastmodified":1608029533,
+    "wof:lastmodified":1695878765,
     "wof:name":"Dom Cavati",
     "wof:parent_id":102053815,
     "wof:placetype":"localadmin",

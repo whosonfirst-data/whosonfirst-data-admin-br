@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035424,
-    "geom:area_square_m":419549022.299372,
+    "geom:area_square_m":419549022.29953,
     "geom:bbox":"-44.49027,-16.8406889974,-44.207766,-16.5833809974",
     "geom:latitude":-16.698859,
     "geom:longitude":-44.380186,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.70157,
     "lbl:longitude":-44.382289,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053715
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311880905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ef73fade018ab64ca329349b2c3cbd97",
+    "wof:geomhash":"6997793ac4be1ae77996424461c0fecb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556029,
-    "wof:lastmodified":1577832577,
+    "wof:lastmodified":1695878327,
     "wof:name":"Cora\u00e7\u00e3o De Jesus",
     "wof:parent_id":102053715,
     "wof:placetype":"localadmin",

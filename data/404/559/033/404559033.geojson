@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134597,
-    "geom:area_square_m":1569085718.222539,
+    "geom:area_square_m":1569085718.222946,
     "geom:bbox":"-55.236764,-19.700671,-54.717533,-19.221489",
     "geom:latitude":-19.475995,
     "geom:longitude":-54.970639,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.500371,
     "lbl:longitude":-54.970669,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0648 \u0646\u064a\u062c\u0631\u0648"
@@ -164,12 +173,15 @@
         102055315
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500730705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055315
     ],
     "wof:country":"BR",
-    "wof:geomhash":"7f6b51c22d3aa676d42558a8c58d3091",
+    "wof:geomhash":"885c6f00a990ad6b9ce597e19e3d9ac4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -181,7 +193,7 @@
         }
     ],
     "wof:id":404559033,
-    "wof:lastmodified":1636496428,
+    "wof:lastmodified":1695878859,
     "wof:name":"Rio Negro",
     "wof:parent_id":102055315,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006638,
-    "geom:area_square_m":71188654.009078,
+    "geom:area_square_m":71188654.009093,
     "geom:bbox":"-51.1008507103,-29.8904270402,-50.974241187,-29.7965152888",
     "geom:latitude":-29.846602,
     "geom:longitude":-51.035977,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.847808,
     "lbl:longitude":-51.03691,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ipiranga"
@@ -52,9 +61,12 @@
         102059455
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430920930"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"be86da4a6a15e38437288f54fe3a1b3e",
+    "wof:geomhash":"d685444d61558df16c3f54043645ce96",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":404563697,
-    "wof:lastmodified":1577827942,
+    "wof:lastmodified":1695878290,
     "wof:name":"Ipiranga",
     "wof:parent_id":102059455,
     "wof:placetype":"localadmin",

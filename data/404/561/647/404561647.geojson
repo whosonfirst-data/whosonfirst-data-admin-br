@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09181,
-    "geom:area_square_m":1031208197.846255,
+    "geom:area_square_m":1031208197.846149,
     "geom:bbox":"-52.0112299542,-24.9011329216,-51.4503520987,-24.5540244797",
     "geom:latitude":-24.720939,
     "geom:longitude":-51.688495,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.723647,
     "lbl:longitude":-51.684289,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pitanga"
@@ -52,9 +61,12 @@
         102058015
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411960805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c782f6e57589afd647a4d21d0a9e41bb",
+    "wof:geomhash":"255863bdc9fdb5e1e2146e99a9da96ea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":404561647,
-    "wof:lastmodified":1577827810,
+    "wof:lastmodified":1695878227,
     "wof:name":"Pitanga",
     "wof:parent_id":102058015,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003218,
-    "geom:area_square_m":36427249.957223,
+    "geom:area_square_m":36427249.957237,
     "geom:bbox":"-46.42887,-23.774064,-46.323673,-23.702223",
     "geom:latitude":-23.737859,
     "geom:longitude":-46.379457,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.74047,
     "lbl:longitude":-46.383839,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,20 +36,23 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102062103,
         1511777411,
-        85682041
+        102062103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354410305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101956249,
         102062103
     ],
     "wof:country":"BR",
-    "wof:geomhash":"93fc2f88d2511f37e7cf0100c52e0a4e",
+    "wof:geomhash":"afd78404b446f83f9cff346f6a6fb58c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":404567133,
-    "wof:lastmodified":1608030014,
+    "wof:lastmodified":1695878771,
     "wof:name":"Rio Grande Da Serra",
     "wof:parent_id":102062103,
     "wof:placetype":"localadmin",

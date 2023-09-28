@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054241,
-    "geom:area_square_m":599582083.879981,
+    "geom:area_square_m":599582083.880159,
     "geom:bbox":"-50.858593,-26.780691,-50.487628,-26.498183",
     "geom:latitude":-26.623812,
     "geom:longitude":-50.665917,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.588988,
     "lbl:longitude":-50.6785,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Timbo-Qrandi"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060793,
         1511777409,
-        85682021
+        102060793
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421825105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060793
     ],
     "wof:country":"BR",
-    "wof:geomhash":"bf0f10c606f05ef5b17fe58a5764e153",
+    "wof:geomhash":"3c9476e0767282e40420068c9b992a75",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404565943,
-    "wof:lastmodified":1608034518,
+    "wof:lastmodified":1695878824,
     "wof:name":"Timb\u00f3 Grande",
     "wof:parent_id":102060793,
     "wof:placetype":"localadmin",

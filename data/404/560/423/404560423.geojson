@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01395,
-    "geom:area_square_m":171037647.728189,
+    "geom:area_square_m":171037647.728205,
     "geom:bbox":"-35.2268511263,-7.54366369254,-35.0764234395,-7.38760609785",
     "geom:latitude":-7.453602,
     "geom:longitude":-35.142241,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.452164,
     "lbl:longitude":-35.136151,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u062a\u0627\u0645\u0628\u064a"
@@ -94,9 +103,12 @@
         102056673
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260765305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d59c0e5e6e33b882ddcab0ec53f083a4",
+    "wof:geomhash":"5cbb07bb4909c4ee2d70b843843e7bac",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404560423,
-    "wof:lastmodified":1577837870,
+    "wof:lastmodified":1695878718,
     "wof:name":"Itamb\u00e9",
     "wof:parent_id":102056673,
     "wof:placetype":"localadmin",

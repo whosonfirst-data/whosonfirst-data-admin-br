@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001915,
-    "geom:area_square_m":20605608.054602,
+    "geom:area_square_m":20605608.054608,
     "geom:bbox":"-51.5892915553,-29.5334220617,-51.5211514902,-29.4766200053",
     "geom:latitude":-29.505154,
     "geom:longitude":-51.558492,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.505775,
     "lbl:longitude":-51.560815,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Esperan\u00e7a"
@@ -67,9 +76,12 @@
         102059583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431179115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d6861ff0a41de5177b50921765c94e78",
+    "wof:geomhash":"63f6d1bddd7c74b2b58ecdacc9674e66",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404563891,
-    "wof:lastmodified":1577827970,
+    "wof:lastmodified":1695878303,
     "wof:name":"Esperan\u00e7a",
     "wof:parent_id":102059583,
     "wof:placetype":"localadmin",

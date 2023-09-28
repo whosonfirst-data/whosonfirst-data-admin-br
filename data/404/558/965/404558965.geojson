@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.137444,
-    "geom:area_square_m":1601162529.739739,
+    "geom:area_square_m":1601162529.739629,
     "geom:bbox":"-52.515960979,-19.8907087618,-52.0503179988,-19.3324669637",
     "geom:latitude":-19.588279,
     "geom:longitude":-52.276219,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.560473,
     "lbl:longitude":-52.276125,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500440315"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d30abf838b03cf1b166516d44e4d680e",
+    "wof:geomhash":"d5c9c0ea3cc0ee9b1d3c92894e50925e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558965,
-    "wof:lastmodified":1577836183,
+    "wof:lastmodified":1695878652,
     "wof:name":"S\u00e3o Jos\u00e9 Do Sucuri\u00fa",
     "wof:parent_id":102055255,
     "wof:placetype":"localadmin",

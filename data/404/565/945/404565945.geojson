@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038644,
-    "geom:area_square_m":428850511.170462,
+    "geom:area_square_m":428850511.170434,
     "geom:bbox":"-50.384956,-26.308532,-50.125702,-26.030352",
     "geom:latitude":-26.170492,
     "geom:longitude":-50.252599,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.169866,
     "lbl:longitude":-50.250599,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09cd\u09b0\u09c7\u09b8 \u09ac\u09be\u09b0\u09cd\u09b0\u09be\u09b8"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060795,
         1511777409,
-        85682021
+        102060795
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421830105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060795
     ],
     "wof:country":"BR",
-    "wof:geomhash":"dd886991bc486f225864dec3c9194095",
+    "wof:geomhash":"e5e373cda9d2bad931c78589582e3684",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404565945,
-    "wof:lastmodified":1608034501,
+    "wof:lastmodified":1695878824,
     "wof:name":"Tr\u00eas Barras",
     "wof:parent_id":102060795,
     "wof:placetype":"localadmin",

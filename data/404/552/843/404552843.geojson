@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004994,
-    "geom:area_square_m":61303471.418441,
+    "geom:area_square_m":61303471.418437,
     "geom:bbox":"-39.5968234581,-6.91965509362,-39.4758041824,-6.84719102582",
     "geom:latitude":-6.884425,
     "geom:longitude":-39.54352,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.88863,
     "lbl:longitude":-39.547632,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230430115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9bba3e9c33297d2e735ccb337c1d5a70",
+    "wof:geomhash":"23b9118b915b0fc53dc9a8408d1cd0de",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404552843,
-    "wof:lastmodified":1577837967,
+    "wof:lastmodified":1695878743,
     "wof:name":"Nova Bet\u00e2nia",
     "wof:parent_id":102051527,
     "wof:placetype":"localadmin",

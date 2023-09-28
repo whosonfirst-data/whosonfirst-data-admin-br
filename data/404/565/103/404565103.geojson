@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009552,
-    "geom:area_square_m":103910224.112598,
+    "geom:area_square_m":103910224.112603,
     "geom:bbox":"-54.4874342178,-28.4580474445,-54.3663856475,-28.3141319627",
     "geom:latitude":-28.383549,
     "geom:longitude":-54.417828,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.388693,
     "lbl:longitude":-54.413721,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "S\u00e3o Jo\u00e3o Batista"
@@ -70,9 +79,12 @@
         102060147
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432375430"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2e277a51eeac2b290ab21126fb6d1ae0",
+    "wof:geomhash":"6ee625a64431b37955c7555081eea63a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404565103,
-    "wof:lastmodified":1577827903,
+    "wof:lastmodified":1695878273,
     "wof:name":"S\u00e3o Jo\u00e3o Batista",
     "wof:parent_id":102060147,
     "wof:placetype":"localadmin",

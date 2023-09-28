@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017854,
-    "geom:area_square_m":220731596.879368,
+    "geom:area_square_m":220731596.879375,
     "geom:bbox":"-47.7529356153,-1.06635383301,-47.5858222408,-0.900831499948",
     "geom:latitude":-0.986083,
     "geom:longitude":-47.661502,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-0.98983,
     "lbl:longitude":-47.663097,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055813
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150440615"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c105a4c20345b6c6c667d11e4ca969f9",
+    "wof:geomhash":"fb47d72c86b3df6480f46d116aac42cc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559659,
-    "wof:lastmodified":1577825661,
+    "wof:lastmodified":1695878151,
     "wof:name":"Matapiquara",
     "wof:parent_id":102055813,
     "wof:placetype":"localadmin",

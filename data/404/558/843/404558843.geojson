@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100463,
-    "geom:area_square_m":1146296731.629817,
+    "geom:area_square_m":1146296731.629733,
     "geom:bbox":"-55.1287332067,-22.8909469732,-54.4723371408,-22.4710474748",
     "geom:latitude":-22.667057,
     "geom:longitude":-54.834703,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.662682,
     "lbl:longitude":-54.834717,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09f1\u09be\u09b0\u09be\u09aa\u0993"
@@ -97,9 +106,12 @@
         102055209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500240705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"db62042c00ec37ebafa2649e35ea0526",
+    "wof:geomhash":"5fedfd49958c562ad7bf5b009ac0c35a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404558843,
-    "wof:lastmodified":1577836131,
+    "wof:lastmodified":1695878640,
     "wof:name":"Caarap\u00f3",
     "wof:parent_id":102055209,
     "wof:placetype":"localadmin",

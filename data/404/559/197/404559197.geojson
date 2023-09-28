@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.951216,
-    "geom:area_square_m":11508145726.908932,
+    "geom:area_square_m":11508145726.909521,
     "geom:bbox":"-55.239291,-12.686315,-53.239389,-10.954705",
     "geom:latitude":-11.917537,
     "geom:longitude":-54.166797,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.852697,
     "lbl:longitude":-53.9326,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09c7\u09b2\u09bf\u099c \u09a8\u09be\u099f\u09be\u09b2"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681955,
         102191577,
         85633009,
-        102055441,
         1511777413,
-        85681955
+        102055441
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510370005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055441
     ],
     "wof:country":"BR",
-    "wof:geomhash":"836196cc5ae2592eab74043401ca3401",
+    "wof:geomhash":"7f36ca802d0f3173c0c26aa7c8c605e2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404559197,
-    "wof:lastmodified":1608031241,
+    "wof:lastmodified":1695878787,
     "wof:name":"Feliz Natal",
     "wof:parent_id":102055441,
     "wof:placetype":"localadmin",

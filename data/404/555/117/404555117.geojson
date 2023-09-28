@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00352,
-    "geom:area_square_m":41125898.222101,
+    "geom:area_square_m":41125898.222104,
     "geom:bbox":"-42.420601,-19.1736529971,-42.349841,-19.0950849971",
     "geom:latitude":-19.131181,
     "geom:longitude":-42.383758,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.131115,
     "lbl:longitude":-42.380901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gama"
@@ -79,9 +88,12 @@
         102053377
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310050020"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7bd451265510feda567d28f5a17473dd",
+    "wof:geomhash":"7a5abbefbb26b00d81c03b9f3918e767",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404555117,
-    "wof:lastmodified":1577833355,
+    "wof:lastmodified":1695878590,
     "wof:name":"Gama",
     "wof:parent_id":102053377,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020327,
-    "geom:area_square_m":245536009.89509,
+    "geom:area_square_m":245536009.895029,
     "geom:bbox":"-39.438412954,-12.4127917638,-39.2294268442,-12.2711774198",
     "geom:latitude":-12.339179,
     "geom:longitude":-39.328846,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.347955,
     "lbl:longitude":-39.328846,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09aa\u09c7\u0995\u09be\u09af\u09bc\u09c7\u099f\u09be"
@@ -100,9 +109,12 @@
         102050835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291380405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"62e77e321b127b0c23792164f9bbb3b5",
+    "wof:geomhash":"91101b0616a5e2e3dcfb73c4fd8e8082",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404551115,
-    "wof:lastmodified":1577837665,
+    "wof:lastmodified":1695878668,
     "wof:name":"Ipecaet\u00e1",
     "wof:parent_id":102050835,
     "wof:placetype":"localadmin",

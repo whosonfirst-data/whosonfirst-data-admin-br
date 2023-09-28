@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009033,
-    "geom:area_square_m":97500588.967097,
+    "geom:area_square_m":97500588.967053,
     "geom:bbox":"-51.3909403476,-29.2694778415,-51.2904955236,-29.1540414761",
     "geom:latitude":-29.202452,
     "geom:longitude":-51.340117,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.200684,
     "lbl:longitude":-51.341115,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09be\u09b0\u09cd\u09b0\u09cd\u0994\u09aa\u09bf\u09b2\u09b9\u09be"
@@ -97,9 +106,12 @@
         102059403
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430790605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"db303b27710b94ee7f01b19b189a259b",
+    "wof:geomhash":"ae47f5b09df4a39b452168c68d5b0350",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404563607,
-    "wof:lastmodified":1577827741,
+    "wof:lastmodified":1695878196,
     "wof:name":"Farroupilha",
     "wof:parent_id":102059403,
     "wof:placetype":"localadmin",

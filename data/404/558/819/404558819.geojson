@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082059,
-    "geom:area_square_m":955407607.360815,
+    "geom:area_square_m":955407607.360698,
     "geom:bbox":"-54.7622057508,-19.8811946306,-54.3498376798,-19.5324038815",
     "geom:latitude":-19.680082,
     "geom:longitude":-54.532023,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.653217,
     "lbl:longitude":-54.535118,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055193
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500150810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3684b2bcd15c21af7d66ee26d9480a7f",
+    "wof:geomhash":"6f65f7c3043b9d5b260018dab705efaf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558819,
-    "wof:lastmodified":1577836129,
+    "wof:lastmodified":1695878640,
     "wof:name":"Congonha",
     "wof:parent_id":102055193,
     "wof:placetype":"localadmin",

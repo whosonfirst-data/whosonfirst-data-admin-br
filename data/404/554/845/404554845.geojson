@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083161,
-    "geom:area_square_m":989950668.617592,
+    "geom:area_square_m":989950668.61762,
     "geom:bbox":"-51.6987877928,-15.9398357689,-51.1312680977,-15.4755996839",
     "geom:latitude":-15.69748,
     "geom:longitude":-51.450963,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.75133,
     "lbl:longitude":-51.455398,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102052347
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"521220425"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"238de00d391f26613a2adc40630e6229",
+    "wof:geomhash":"776a5bdb4ef3df2803b2382f48684be4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554845,
-    "wof:lastmodified":1577836134,
+    "wof:lastmodified":1695878641,
     "wof:name":"S\u00e3o Sebasti\u00e3o Do Rio Claro",
     "wof:parent_id":102052347,
     "wof:placetype":"localadmin",

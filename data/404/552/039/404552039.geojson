@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112127,
-    "geom:area_square_m":1351938305.128994,
+    "geom:area_square_m":1351938305.128862,
     "geom:bbox":"-44.179869,-12.986685,-43.536416,-12.636861",
     "geom:latitude":-12.815561,
     "geom:longitude":-43.843392,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.843397,
     "lbl:longitude":-43.811722,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u09b0\u09be \u09a1\u09cb\u0989\u09b0\u09be\u09a1\u09be"
@@ -91,12 +100,15 @@
         102051301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"293030305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102051301
     ],
     "wof:country":"BR",
-    "wof:geomhash":"7ae6a006abc5ef0ef9e0a29b4eeaad84",
+    "wof:geomhash":"09738a19ee9acbc5065cdd3f74ad4ea6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404552039,
-    "wof:lastmodified":1617130308,
+    "wof:lastmodified":1695878833,
     "wof:name":"Serra Dourada",
     "wof:parent_id":102051301,
     "wof:placetype":"localadmin",

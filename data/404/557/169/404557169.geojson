@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027019,
-    "geom:area_square_m":314449792.027731,
+    "geom:area_square_m":314449792.027783,
     "geom:bbox":"-42.81216,-19.808854997,-42.477565,-19.665504997",
     "geom:latitude":-19.745864,
     "geom:longitude":-42.646199,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.746154,
     "lbl:longitude":-42.643659,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09cd\u09b2\u09bf\u09af\u09bc\u09c7\u09b0\u09bf\u09af\u09bc\u09be"
@@ -97,9 +106,12 @@
         102054295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314030805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0b1761c0bd29709c8c4cf2a11a0f4047",
+    "wof:geomhash":"d28a92714081c21e20ad12b204b4a403",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404557169,
-    "wof:lastmodified":1577832706,
+    "wof:lastmodified":1695878376,
     "wof:name":"Marli\u00e9ria",
     "wof:parent_id":102054295,
     "wof:placetype":"localadmin",

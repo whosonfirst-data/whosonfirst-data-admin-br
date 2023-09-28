@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044268,
-    "geom:area_square_m":546778501.123878,
+    "geom:area_square_m":546778501.123856,
     "geom:bbox":"-44.0966482585,-2.80887568946,-43.8113491673,-2.51086922015",
     "geom:latitude":-2.684327,
     "geom:longitude":-43.973766,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-2.674194,
     "lbl:longitude":-43.975988,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u0995\u09be\u099f\u09c1"
@@ -79,9 +88,12 @@
         102052957
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"210510405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6c4a919b98ff1f39231883f8982c8407",
+    "wof:geomhash":"08b85d006ca70d9a03feae3e8c93c9c2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404555023,
-    "wof:lastmodified":1577837885,
+    "wof:lastmodified":1695878722,
     "wof:name":"Icatu",
     "wof:parent_id":102052957,
     "wof:placetype":"localadmin",

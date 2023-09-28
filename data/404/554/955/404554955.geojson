@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005187,
-    "geom:area_square_m":61627067.551458,
+    "geom:area_square_m":61627067.551447,
     "geom:bbox":"-48.03048,-16.137787,-47.938573,-16.048981",
     "geom:latitude":-16.084265,
     "geom:longitude":-47.988371,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.082068,
     "lbl:longitude":-47.9921,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681925,
         102191577,
         85633009,
-        102052749,
         1511777413,
-        85681925
+        102052749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"522185805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101964869
     ],
     "wof:country":"BR",
-    "wof:geomhash":"ffd80e6a00c6ad1debfb050a74046af2",
+    "wof:geomhash":"3ed933e4fc74664cc4b83adad2635709",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404554955,
-    "wof:lastmodified":1608014649,
+    "wof:lastmodified":1695878750,
     "wof:name":"Valpara\u00edso De Goi\u00e1s",
     "wof:parent_id":102052749,
     "wof:placetype":"localadmin",

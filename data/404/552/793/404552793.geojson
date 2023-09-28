@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008781,
-    "geom:area_square_m":108257526.239293,
+    "geom:area_square_m":108257526.239302,
     "geom:bbox":"-41.0057532099,-4.46962190318,-40.8671874359,-4.36390704449",
     "geom:latitude":-4.419256,
     "geom:longitude":-40.937819,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.409563,
     "lbl:longitude":-40.937853,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09b0\u09cb\u0986\u099f\u09be"
@@ -79,9 +88,12 @@
         102051517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230423605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"62283062786b90659708cd6cd46487e7",
+    "wof:geomhash":"9c55c0a0a665607fba058b8e99f2c8e1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404552793,
-    "wof:lastmodified":1577837953,
+    "wof:lastmodified":1695878740,
     "wof:name":"Croat\u00e1",
     "wof:parent_id":102051517,
     "wof:placetype":"localadmin",

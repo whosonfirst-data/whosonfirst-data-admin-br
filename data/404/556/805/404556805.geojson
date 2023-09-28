@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038303,
-    "geom:area_square_m":446747079.435449,
+    "geom:area_square_m":446747079.435649,
     "geom:bbox":"-43.95962,-19.543267997,-43.617948,-19.2317439971",
     "geom:latitude":-19.394263,
     "geom:longitude":-43.794335,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.344855,
     "lbl:longitude":-43.735162,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u043b\u043c\u0435\u0439\u0434\u0430"
@@ -85,9 +94,12 @@
         102054129
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313460810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"501991238036b8a05f6dc057c03d17e6",
+    "wof:geomhash":"864344cfb76ce6f81f8af0e6175350e4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404556805,
-    "wof:lastmodified":1577833210,
+    "wof:lastmodified":1695878545,
     "wof:name":"Almeida",
     "wof:parent_id":102054129,
     "wof:placetype":"localadmin",

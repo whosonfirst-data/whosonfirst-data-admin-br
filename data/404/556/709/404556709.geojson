@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035514,
-    "geom:area_square_m":411670763.026534,
+    "geom:area_square_m":411670763.026595,
     "geom:bbox":"-44.658902,-20.486693,-44.40698,-20.25575",
     "geom:latitude":-20.371926,
     "geom:longitude":-44.531814,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.372746,
     "lbl:longitude":-44.534213,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u0997\u09c1\u09f1\u09be\u09b0\u09be"
@@ -96,19 +105,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054073,
         1511777411,
-        85681941
+        102054073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313220605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054073
     ],
     "wof:country":"BR",
-    "wof:geomhash":"ec2e07f499646b47ca33d46782e26717",
+    "wof:geomhash":"6f1bfc63b2d00549512fd6ff5c564b90",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404556709,
-    "wof:lastmodified":1608029305,
+    "wof:lastmodified":1695878757,
     "wof:name":"Itaguara",
     "wof:parent_id":102054073,
     "wof:placetype":"localadmin",

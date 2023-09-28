@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012702,
-    "geom:area_square_m":140362859.499786,
+    "geom:area_square_m":140362859.499864,
     "geom:bbox":"-48.806836,-26.740514,-48.663268,-26.560085",
     "geom:latitude":-26.66209,
     "geom:longitude":-48.727033,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.660957,
     "lbl:longitude":-48.720006,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u09b0\u09be \u09ad\u09c7\u09b2\u09b9\u09be"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060257,
         1511777409,
-        85682021
+        102060257
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420210705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060257
     ],
     "wof:country":"BR",
-    "wof:geomhash":"2d609a38aaaebf40eeca7e888f9889e3",
+    "wof:geomhash":"05d9b4b55f9b8f5ecaaca1078c64c618",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404565199,
-    "wof:lastmodified":1608034371,
+    "wof:lastmodified":1695878822,
     "wof:name":"Barra Velha",
     "wof:parent_id":102060257,
     "wof:placetype":"localadmin",

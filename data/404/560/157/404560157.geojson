@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0072,
-    "geom:area_square_m":87973967.844223,
+    "geom:area_square_m":87973967.844233,
     "geom:bbox":"-35.4090137079,-8.88723493083,-35.2350159901,-8.78679015911",
     "geom:latitude":-8.837924,
     "geom:longitude":-35.328625,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.830673,
     "lbl:longitude":-35.341839,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056521
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260140910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2dced5aa40f6dbea793b89ef21e90e79",
+    "wof:geomhash":"3d804284a51317bd775a09af056064d6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560157,
-    "wof:lastmodified":1577837906,
+    "wof:lastmodified":1695878727,
     "wof:name":"Carim\u00e3",
     "wof:parent_id":102056521,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007346,
-    "geom:area_square_m":90047710.185424,
+    "geom:area_square_m":90047710.185429,
     "geom:bbox":"-35.6882305553,-7.61690122334,-35.582483505,-7.44756256915",
     "geom:latitude":-7.538164,
     "geom:longitude":-35.625088,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.550754,
     "lbl:longitude":-35.634709,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a1\u09cd\u09b0\u09cb \u09ad\u09c7\u09b2\u09b9\u09cb"
@@ -85,9 +94,12 @@
         102056023
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250130220"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b1406207e61bf32fa243d0492ec2af05",
+    "wof:geomhash":"fb16e435ba8f48f2ead44d1b9bbfef41",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404559841,
-    "wof:lastmodified":1577837644,
+    "wof:lastmodified":1695878663,
     "wof:name":"Pedro Velho",
     "wof:parent_id":102056023,
     "wof:placetype":"localadmin",

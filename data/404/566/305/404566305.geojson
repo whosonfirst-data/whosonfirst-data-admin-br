@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047817,
-    "geom:area_square_m":555343703.066981,
+    "geom:area_square_m":555343703.067118,
     "geom:bbox":"-50.046429,-20.218405,-49.802447,-19.91829",
     "geom:latitude":-20.076363,
     "geom:longitude":-49.931297,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.091303,
     "lbl:longitude":-49.945723,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cardoso"
@@ -54,19 +63,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061265,
         1511777411,
-        85682041
+        102061265
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351070805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061265
     ],
     "wof:country":"BR",
-    "wof:geomhash":"88da114f8a69fd097d663a8c0f26de30",
+    "wof:geomhash":"f2c575e97e45bce9a7afd475c7e59e13",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":404566305,
-    "wof:lastmodified":1608030901,
+    "wof:lastmodified":1695878784,
     "wof:name":"Cardoso",
     "wof:parent_id":102061265,
     "wof:placetype":"localadmin",

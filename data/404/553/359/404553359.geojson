@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001381,
-    "geom:area_square_m":17039150.000965,
+    "geom:area_square_m":17039150.000963,
     "geom:bbox":"-40.5214972997,-3.55140520882,-40.4772697222,-3.50488146916",
     "geom:latitude":-3.529939,
     "geom:longitude":-40.500705,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.529346,
     "lbl:longitude":-40.500284,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Anil"
@@ -52,9 +61,12 @@
         102051647
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230820307"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b3928b15daed2f6e3a5dc6aa91d18785",
+    "wof:geomhash":"fa42d541b10c815d064ef8080ce3883b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":404553359,
-    "wof:lastmodified":1577837826,
+    "wof:lastmodified":1695878708,
     "wof:name":"Anil",
     "wof:parent_id":102051647,
     "wof:placetype":"localadmin",

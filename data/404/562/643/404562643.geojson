@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028054,
-    "geom:area_square_m":320999669.511843,
+    "geom:area_square_m":320999669.51178,
     "geom:bbox":"-43.8585375155,-22.3861225802,-43.5869617864,-22.1475831334",
     "geom:latitude":-22.277711,
     "geom:longitude":-43.723052,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.269296,
     "lbl:longitude":-43.725032,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Valen\u00e7a"
@@ -103,9 +112,12 @@
         102058503
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330610705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f03605cdff705d55c2ce12eec5470cac",
+    "wof:geomhash":"35dfd05ab08a2dcc53ba30453a2c9625",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404562643,
-    "wof:lastmodified":1577833111,
+    "wof:lastmodified":1695878517,
     "wof:name":"Valen\u00e7a",
     "wof:parent_id":102058503,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012152,
-    "geom:area_square_m":141393880.594798,
+    "geom:area_square_m":141393880.594778,
     "geom:bbox":"-42.917758,-19.863605997,-42.77461,-19.711534997",
     "geom:latitude":-19.784361,
     "geom:longitude":-42.850999,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.785826,
     "lbl:longitude":-42.852087,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054849
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316100725"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"63ebf1c7b60b6dc093fd8b2f7879455f",
+    "wof:geomhash":"1852eaa3209122a134051f7fac71fd2e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558221,
-    "wof:lastmodified":1577832758,
+    "wof:lastmodified":1695878397,
     "wof:name":"Santana Do Alfi\u00e9",
     "wof:parent_id":102054849,
     "wof:placetype":"localadmin",

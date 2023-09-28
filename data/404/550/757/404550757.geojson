@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.303454,
-    "geom:area_square_m":3703031941.019822,
+    "geom:area_square_m":3703031941.020274,
     "geom:bbox":"-41.7330174749,-9.68869605981,-40.7991765639,-8.95467462767",
     "geom:latitude":-9.289331,
     "geom:longitude":-41.293357,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.308471,
     "lbl:longitude":-41.324829,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0632\u0627\u0646\u0648\u0641\u0627"
@@ -97,9 +106,12 @@
         102050663
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290720205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8e2c3132e5bedb6bd3cec87c3b04ce2e",
+    "wof:geomhash":"9d227789243cc2375fdfb1ece19ea86d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404550757,
-    "wof:lastmodified":1577837765,
+    "wof:lastmodified":1695878692,
     "wof:name":"Casa Nova",
     "wof:parent_id":102050663,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002814,
-    "geom:area_square_m":30145605.003543,
+    "geom:area_square_m":30145605.003545,
     "geom:bbox":"-52.4056508633,-29.9980074895,-52.336231144,-29.9359679151",
     "geom:latitude":-29.967673,
     "geom:longitude":-52.364388,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.976624,
     "lbl:longitude":-52.356777,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u0993 \u09aa\u09be\u09b0\u09cd\u09a1\u09cb"
@@ -94,9 +103,12 @@
         102059809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431570105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"764b6b8676d2236545db814ea922aab8",
+    "wof:geomhash":"c01e4fbeb07d37bccb9e5ee352f8c619",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404564259,
-    "wof:lastmodified":1577827923,
+    "wof:lastmodified":1695878282,
     "wof:name":"Rio Pardo",
     "wof:parent_id":102059809,
     "wof:placetype":"localadmin",

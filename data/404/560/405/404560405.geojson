@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017817,
-    "geom:area_square_m":217897337.058933,
+    "geom:area_square_m":217897337.058941,
     "geom:bbox":"-35.2380528136,-8.6113322978,-35.002916,-8.37647090237",
     "geom:latitude":-8.48895,
     "geom:longitude":-35.109393,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.487202,
     "lbl:longitude":-35.107558,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Camela"
@@ -46,9 +55,12 @@
         102056663
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260720810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d5ba61c376c57857f990a0d863eb8fff",
+    "wof:geomhash":"4aefe156a0e23c2a377e545e6b92a7e6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":404560405,
-    "wof:lastmodified":1577837721,
+    "wof:lastmodified":1695878682,
     "wof:name":"Camela",
     "wof:parent_id":102056663,
     "wof:placetype":"localadmin",

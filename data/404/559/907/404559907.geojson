@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009881,
-    "geom:area_square_m":121262371.59207,
+    "geom:area_square_m":121262371.592088,
     "geom:bbox":"-37.676643886,-7.08825591436,-37.5139000423,-6.99334395448",
     "geom:latitude":-7.032102,
     "geom:longitude":-37.582076,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.030703,
     "lbl:longitude":-37.580512,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250420710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f3e9605c680b6bb4a4cf5b069076ca7e",
+    "wof:geomhash":"d2897f8cc3bfc0599265628c8013b85b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559907,
-    "wof:lastmodified":1577837974,
+    "wof:lastmodified":1695878744,
     "wof:name":"Itajubatiba",
     "wof:parent_id":102056111,
     "wof:placetype":"localadmin",

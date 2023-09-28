@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001755,
-    "geom:area_square_m":20001072.899437,
+    "geom:area_square_m":20001072.899441,
     "geom:bbox":"-43.099618,-22.877255,-43.019169,-22.833486",
     "geom:latitude":-22.857131,
     "geom:longitude":-43.054517,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.85654,
     "lbl:longitude":-43.057853,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681991,
         102191577,
         85633009,
-        102058467,
         1511777411,
-        85681991
+        102058467
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330490425"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101953271
     ],
     "wof:country":"BR",
-    "wof:geomhash":"d3c1566988c015c7134f3319a4dd74dc",
+    "wof:geomhash":"d6953e20fa9dca33e89ee817b80b2e0c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404562557,
-    "wof:lastmodified":1608013025,
+    "wof:lastmodified":1695878750,
     "wof:name":"Sete Pontes",
     "wof:parent_id":102058467,
     "wof:placetype":"localadmin",

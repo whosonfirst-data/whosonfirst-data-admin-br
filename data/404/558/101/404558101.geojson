@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015968,
-    "geom:area_square_m":183144603.584854,
+    "geom:area_square_m":183144603.584797,
     "geom:bbox":"-43.254273,-22.037461,-43.107013,-21.841108",
     "geom:latitude":-21.945971,
     "geom:longitude":-43.182806,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.95308,
     "lbl:longitude":-43.183917,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102054785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315860705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054785
     ],
     "wof:country":"BR",
-    "wof:geomhash":"b91edd8e6a68c966dad61c090e670911",
+    "wof:geomhash":"63922fd8b66d156412a3c8ddc79604ae",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404558101,
-    "wof:lastmodified":1617130366,
+    "wof:lastmodified":1695878835,
     "wof:name":"Santana Do Deserto",
     "wof:parent_id":102054785,
     "wof:placetype":"localadmin",

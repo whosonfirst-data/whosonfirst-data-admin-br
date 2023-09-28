@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070872,
-    "geom:area_square_m":841976643.870212,
+    "geom:area_square_m":841976643.870222,
     "geom:bbox":"-39.936521,-16.285703,-39.468123,-15.968707",
     "geom:latitude":-16.098977,
     "geom:longitude":-39.741953,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.084606,
     "lbl:longitude":-39.745536,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u0997\u09bf\u09ae\u09bf\u09b0\u09bf\u09ae"
@@ -97,12 +106,15 @@
         102050871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291530405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050871
     ],
     "wof:country":"BR",
-    "wof:geomhash":"e57b269cdb2dd0864dcbe315bc150cad",
+    "wof:geomhash":"9c104a5807df6928b2fe88114fe55e3b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404551177,
-    "wof:lastmodified":1617131339,
+    "wof:lastmodified":1695878846,
     "wof:name":"Itagimirim",
     "wof:parent_id":102050871,
     "wof:placetype":"localadmin",

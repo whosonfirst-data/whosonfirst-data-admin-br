@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016354,
-    "geom:area_square_m":200172104.903774,
+    "geom:area_square_m":200172104.903734,
     "geom:bbox":"-38.4783986444,-8.2458449831,-38.2297325942,-8.08853949858",
     "geom:latitude":-8.161377,
     "geom:longitude":-38.345872,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.157233,
     "lbl:longitude":-38.337407,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09cb\u0997\u09cd\u09b0\u09be\u09a1\u09cb\u0989\u09b0\u09cb"
@@ -88,9 +97,12 @@
         102056839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261390918"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"55caa6a9b1e37493c8d1ed0eb4b90268",
+    "wof:geomhash":"8267959510be4b38dff6053362c0973d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404560707,
-    "wof:lastmodified":1577837928,
+    "wof:lastmodified":1695878733,
     "wof:name":"Logradouro",
     "wof:parent_id":102056839,
     "wof:placetype":"localadmin",

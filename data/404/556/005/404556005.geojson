@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038866,
-    "geom:area_square_m":453773442.514541,
+    "geom:area_square_m":453773442.51466,
     "geom:bbox":"-41.58914,-19.365055997,-41.342525,-19.0741109971",
     "geom:latitude":-19.230586,
     "geom:longitude":-41.475028,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.23027,
     "lbl:longitude":-41.483403,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a8\u09cd\u09b8\u09c7\u09b2\u09b9\u09c7\u0987\u09b0\u09cb \u09aa\u09c7\u09a8\u09be"
@@ -94,9 +103,12 @@
         102053705
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311840305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"86dbcb9fe0dcbb725da9813a2d6a0753",
+    "wof:geomhash":"d85dcfc56b44d8f178687a0f431725aa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404556005,
-    "wof:lastmodified":1577832554,
+    "wof:lastmodified":1695878319,
     "wof:name":"Conselheiro Pena",
     "wof:parent_id":102053705,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080948,
-    "geom:area_square_m":989521434.354202,
+    "geom:area_square_m":989521434.354231,
     "geom:bbox":"-40.4462752291,-8.82274483829,-40.0737948544,-8.49653264665",
     "geom:latitude":-8.659381,
     "geom:longitude":-40.272038,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.653377,
     "lbl:longitude":-40.268522,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0648\u062a\u0627\u064a"
@@ -100,9 +109,12 @@
         102056711
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260875015"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"318edf525c29130365b32bd7d9625b86",
+    "wof:geomhash":"10184b086d48bfc51b97c8c141c38ec7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404560483,
-    "wof:lastmodified":1577837843,
+    "wof:lastmodified":1695878711,
     "wof:name":"Juta\u00ed",
     "wof:parent_id":102056711,
     "wof:placetype":"localadmin",

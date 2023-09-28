@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011583,
-    "geom:area_square_m":134387969.076782,
+    "geom:area_square_m":134387969.076841,
     "geom:bbox":"-43.309956,-20.2956979969,-43.145734,-20.1724629969",
     "geom:latitude":-20.232408,
     "geom:longitude":-43.219632,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.245299,
     "lbl:longitude":-43.2277,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314000125"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"42658624b810d38f5a48d267b426ae70",
+    "wof:geomhash":"8ffe79f68e7a5b25e5e66b3754778088",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557151,
-    "wof:lastmodified":1577832683,
+    "wof:lastmodified":1695878370,
     "wof:name":"Cl\u00e1udio Manuel",
     "wof:parent_id":102054287,
     "wof:placetype":"localadmin",

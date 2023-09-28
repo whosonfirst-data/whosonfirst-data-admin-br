@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018086,
-    "geom:area_square_m":206154852.433063,
+    "geom:area_square_m":206154852.433168,
     "geom:bbox":"-49.5229164092,-22.9094966305,-49.3680128305,-22.724993227",
     "geom:latitude":-22.804386,
     "geom:longitude":-49.438292,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.790189,
     "lbl:longitude":-49.429085,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102062159
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354640515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"21a3d65ee7ae89fe9207c6d1e6962ef5",
+    "wof:geomhash":"b3eade1d4a9e3f0df676c83e0c12ecdc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404567167,
-    "wof:lastmodified":1577833363,
+    "wof:lastmodified":1695878593,
     "wof:name":"Clar\u00ednia",
     "wof:parent_id":102062159,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007487,
-    "geom:area_square_m":92299919.985125,
+    "geom:area_square_m":92299919.985149,
     "geom:bbox":"-39.0992425111,-4.51847758987,-38.9773283761,-4.35231906098",
     "geom:latitude":-4.413976,
     "geom:longitude":-39.03271,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.401053,
     "lbl:longitude":-39.02765,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u099f\u09c1\u09ac\u09be"
@@ -88,9 +97,12 @@
         102051437
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230140605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e83472e8a906b11c37a3f59c0aef479f",
+    "wof:geomhash":"580fd0836e388c436e7348f12cae7159",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404552417,
-    "wof:lastmodified":1577837874,
+    "wof:lastmodified":1695878718,
     "wof:name":"Aratuba",
     "wof:parent_id":102051437,
     "wof:placetype":"localadmin",

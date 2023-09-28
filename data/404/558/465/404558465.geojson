@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014455,
-    "geom:area_square_m":166968902.731306,
+    "geom:area_square_m":166968902.731332,
     "geom:bbox":"-43.173232,-20.982357,-43.034387,-20.815804",
     "geom:latitude":-20.904273,
     "geom:longitude":-43.10449,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.903308,
     "lbl:longitude":-43.105811,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09a8\u09be\u09a1\u09cb\u09b0\u09cd \u09ab\u09bf\u09b0\u09cd\u09ae\u09bf\u09a8\u09cb"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054991,
         1511777411,
-        85681941
+        102054991
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316570105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054991
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a93100e5935caf825c44275c373c0848",
+    "wof:geomhash":"13282f334ee1af71cc56237823ab9b43",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404558465,
-    "wof:lastmodified":1608030418,
+    "wof:lastmodified":1695878776,
     "wof:name":"Senador Firmino",
     "wof:parent_id":102054991,
     "wof:placetype":"localadmin",

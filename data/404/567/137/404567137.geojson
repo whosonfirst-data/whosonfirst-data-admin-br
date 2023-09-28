@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010745,
-    "geom:area_square_m":124598300.62519,
+    "geom:area_square_m":124598300.625205,
     "geom:bbox":"-51.1093895548,-20.4317230381,-50.9703997291,-20.2331886714",
     "geom:latitude":-20.322079,
     "geom:longitude":-51.036342,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.311698,
     "lbl:longitude":-51.046888,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0415\u0441\u043c\u0435\u0440\u0430\u043b\u0434\u0430"
@@ -97,9 +106,12 @@
         102062113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354450910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b131b14de6460102c43da6daf61cfc95",
+    "wof:geomhash":"79b1b2568b053717ef846d9ed32b718e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404567137,
-    "wof:lastmodified":1577832685,
+    "wof:lastmodified":1695878371,
     "wof:name":"Esmeralda",
     "wof:parent_id":102062113,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0054,
-    "geom:area_square_m":66428142.01715,
+    "geom:area_square_m":66428142.017159,
     "geom:bbox":"-39.401658523,-5.90714632479,-39.3239609758,-5.77269894611",
     "geom:latitude":-5.835999,
     "geom:longitude":-39.364198,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.843797,
     "lbl:longitude":-39.360357,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Mulungu"
@@ -43,9 +52,12 @@
         102051719
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231090215"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f40b6db75288dc49982a194318bb69f3",
+    "wof:geomhash":"ba31d6fde0511518e40ba46839813716",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":404553643,
-    "wof:lastmodified":1577837626,
+    "wof:lastmodified":1695878659,
     "wof:name":"Mulungu",
     "wof:parent_id":102051719,
     "wof:placetype":"localadmin",

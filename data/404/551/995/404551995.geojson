@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00361,
-    "geom:area_square_m":43524482.476584,
+    "geom:area_square_m":43524482.47658,
     "geom:bbox":"-38.845768302,-12.8517086504,-38.736312881,-12.7767038809",
     "geom:latitude":-12.816311,
     "geom:longitude":-38.80322,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.81219,
     "lbl:longitude":-38.806945,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051285
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292975010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5e548f4529129da95cad099460ffebf9",
+    "wof:geomhash":"d420af0de5c91ba21bc6f5105052f3fe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551995,
-    "wof:lastmodified":1577837989,
+    "wof:lastmodified":1695878748,
     "wof:name":"Bom Jesus Dos Pobres",
     "wof:parent_id":102051285,
     "wof:placetype":"localadmin",

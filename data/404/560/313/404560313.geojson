@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033299,
-    "geom:area_square_m":407291115.953481,
+    "geom:area_square_m":407291115.953477,
     "geom:bbox":"-40.6502910759,-8.52778454285,-40.3512538431,-8.36091424823",
     "geom:latitude":-8.43785,
     "geom:longitude":-40.503828,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.433178,
     "lbl:longitude":-40.491699,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056613
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260515218"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"daf77b20c71a501ae4418be968b59a7c",
+    "wof:geomhash":"1a57c4f1abd4555b728827a90e3cc133",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560313,
-    "wof:lastmodified":1577837831,
+    "wof:lastmodified":1695878709,
     "wof:name":"Lagoas",
     "wof:parent_id":102056613,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001347,
-    "geom:area_square_m":14790616.788564,
+    "geom:area_square_m":14790616.788571,
     "geom:bbox":"-53.4276773494,-27.4268889024,-53.3714094945,-27.3857595403",
     "geom:latitude":-27.407736,
     "geom:longitude":-53.405775,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.408951,
     "lbl:longitude":-53.410035,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0993\u09b8\u09ad\u09be\u09b2\u09a1\u09cb \u0995\u09cd\u09b0\u09c1\u099c"
@@ -85,9 +94,12 @@
         102059427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430850815"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b142b880e79960b8a6b68adafb672f28",
+    "wof:geomhash":"b3d710048bcc3d495d48a6babf716c4b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404563643,
-    "wof:lastmodified":1577827705,
+    "wof:lastmodified":1695878178,
     "wof:name":"Osvaldo Cruz",
     "wof:parent_id":102059427,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041069,
-    "geom:area_square_m":486309388.82188,
+    "geom:area_square_m":486309388.822107,
     "geom:bbox":"-42.173926,-16.9235019974,-41.85769,-16.5780769974",
     "geom:latitude":-16.738998,
     "geom:longitude":-41.99366,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.715963,
     "lbl:longitude":-41.9829,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053449
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310340515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"15da0ccd6c4c2dc99e65ea994b707fb4",
+    "wof:geomhash":"b26b07cd9d90cf6c6593e955f5188adf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555269,
-    "wof:lastmodified":1577832798,
+    "wof:lastmodified":1695878412,
     "wof:name":"Itira",
     "wof:parent_id":102053449,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.314529,
-    "geom:area_square_m":3729981200.537858,
+    "geom:area_square_m":3729981200.538214,
     "geom:bbox":"-47.4600697541,-16.9219149974,-46.714331,-16.1005509975",
     "geom:latitude":-16.450799,
     "geom:longitude":-47.063408,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.396278,
     "lbl:longitude":-47.057742,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0989\u09a8\u09be\u0987"
@@ -97,9 +106,12 @@
         102055107
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"317040405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f402f621130d1add52dbc63e47d68229",
+    "wof:geomhash":"94e8cfa8fa75e7e2250de7ba6d512a49",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404558679,
-    "wof:lastmodified":1577833091,
+    "wof:lastmodified":1695878511,
     "wof:name":"Una\u00ed",
     "wof:parent_id":102055107,
     "wof:placetype":"localadmin",

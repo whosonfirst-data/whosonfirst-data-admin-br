@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014081,
-    "geom:area_square_m":172567891.079715,
+    "geom:area_square_m":172567891.079737,
     "geom:bbox":"-40.2857947475,-7.70286893688,-40.1039382437,-7.58047779221",
     "geom:latitude":-7.646079,
     "geom:longitude":-40.189509,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.638389,
     "lbl:longitude":-40.196872,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09aa\u09c1\u09ac\u09bf"
@@ -88,9 +97,12 @@
         102056665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260730705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ddcd041bc82ebf903bcecfeeb6a02350",
+    "wof:geomhash":"d9823186514e369e8e5f9e89137eb697",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404560409,
-    "wof:lastmodified":1577837845,
+    "wof:lastmodified":1695878712,
     "wof:name":"Ipubi",
     "wof:parent_id":102056665,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043603,
-    "geom:area_square_m":501517015.478499,
+    "geom:area_square_m":501517015.4786,
     "geom:bbox":"-45.065925,-21.642068,-44.73993,-21.404486",
     "geom:latitude":-21.537978,
     "geom:longitude":-44.923145,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.552531,
     "lbl:longitude":-44.934252,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09c1\u09ae\u09bf\u09a8\u09be\u09b0\u09bf\u09af\u09bc\u09be\u09b8"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054255,
         1511777411,
-        85681941
+        102054255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313870805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054255
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a6afeca18d74590f46428192a6d8b375",
+    "wof:geomhash":"69fdf4e3c137dd0ad91a69c4364c8d3a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404557067,
-    "wof:lastmodified":1608032023,
+    "wof:lastmodified":1695878802,
     "wof:name":"Lumin\u00e1rias",
     "wof:parent_id":102054255,
     "wof:placetype":"localadmin",

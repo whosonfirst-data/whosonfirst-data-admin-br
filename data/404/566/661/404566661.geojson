@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038731,
-    "geom:area_square_m":437673058.303041,
+    "geom:area_square_m":437673058.303088,
     "geom:bbox":"-47.1589653095,-24.0642506813,-46.8067173457,-23.835291",
     "geom:latitude":-23.952251,
     "geom:longitude":-47.001384,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.959501,
     "lbl:longitude":-47.013418,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09c1\u0995\u09c1\u0987\u099f\u09bf\u09ac\u09be"
@@ -94,9 +103,12 @@
         102061657
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352620905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f44c32fd5833829b1244cce658ef4dfa",
+    "wof:geomhash":"8aa9ed7f2f2a74fbe4712a1bfc7a0813",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404566661,
-    "wof:lastmodified":1577833090,
+    "wof:lastmodified":1695878510,
     "wof:name":"Juquitiba",
     "wof:parent_id":102061657,
     "wof:placetype":"localadmin",

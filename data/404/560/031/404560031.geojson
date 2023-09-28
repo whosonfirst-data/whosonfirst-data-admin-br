@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010724,
-    "geom:area_square_m":131581029.251632,
+    "geom:area_square_m":131581029.251635,
     "geom:bbox":"-36.9325212918,-7.16017355408,-36.7503742542,-7.04294032737",
     "geom:latitude":-7.111322,
     "geom:longitude":-36.842056,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.115304,
     "lbl:longitude":-36.842051,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Salgadinho"
@@ -67,9 +76,12 @@
         102056353
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"251300005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"10372807ebaaed8c4050fa1ccc37b247",
+    "wof:geomhash":"ef3819c0b0c7fced50e27af2bed950d4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404560031,
-    "wof:lastmodified":1577837626,
+    "wof:lastmodified":1695878659,
     "wof:name":"Salgadinho",
     "wof:parent_id":102056353,
     "wof:placetype":"localadmin",

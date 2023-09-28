@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007493,
-    "geom:area_square_m":92376581.662554,
+    "geom:area_square_m":92376581.662548,
     "geom:bbox":"-38.8433879093,-4.45522002292,-38.7133621937,-4.32742493415",
     "geom:latitude":-4.387294,
     "geom:longitude":-38.794076,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.387923,
     "lbl:longitude":-38.798576,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051431
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230120805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a0504a6202fcd81e097836b3ec1f066a",
+    "wof:geomhash":"9beed906ed332069436250b7a78a889b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404552381,
-    "wof:lastmodified":1577837774,
+    "wof:lastmodified":1695878694,
     "wof:name":"Aracoiaba",
     "wof:parent_id":102051431,
     "wof:placetype":"localadmin",

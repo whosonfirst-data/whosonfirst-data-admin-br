@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017947,
-    "geom:area_square_m":197654406.407742,
+    "geom:area_square_m":197654406.407761,
     "geom:bbox":"-51.83351,-27.11792,-51.609887,-26.943188",
     "geom:latitude":-27.045538,
     "geom:longitude":-51.696804,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.056371,
     "lbl:longitude":-51.68577,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u099f\u09be\u09a8\u09a1\u09c1\u09ad\u09be\u09b8"
@@ -63,19 +72,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060325,
         1511777409,
-        85682021
+        102060325
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420400405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060325
     ],
     "wof:country":"BR",
-    "wof:geomhash":"2d3dc04f3caebae548fb919e983320c2",
+    "wof:geomhash":"dfa960a936946c15632da4d189b9549c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404565311,
-    "wof:lastmodified":1608034484,
+    "wof:lastmodified":1695878823,
     "wof:name":"Catanduvas",
     "wof:parent_id":102060325,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005917,
-    "geom:area_square_m":67450454.921787,
+    "geom:area_square_m":67450454.921771,
     "geom:bbox":"-43.0815316926,-22.8562301674,-42.9916131882,-22.7340939849",
     "geom:latitude":-22.794087,
     "geom:longitude":-43.031927,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.783584,
     "lbl:longitude":-43.042472,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u0997\u09cb\u09a8\u0995\u09be\u09b2\u09cb"
@@ -73,9 +82,12 @@
         102058467
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330490405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e7ae88d244f47a7ef992dc69f19d3641",
+    "wof:geomhash":"9b05f07ab9442b0d0929294992328f68",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404562547,
-    "wof:lastmodified":1577833031,
+    "wof:lastmodified":1695878492,
     "wof:name":"S\u00e3o Gon\u00e7alo",
     "wof:parent_id":102058467,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011765,
-    "geom:area_square_m":124904498.752177,
+    "geom:area_square_m":124904498.752183,
     "geom:bbox":"-51.8982308162,-30.9123972474,-51.6937716875,-30.7616606992",
     "geom:latitude":-30.840691,
     "geom:longitude":-51.817632,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.838086,
     "lbl:longitude":-51.807536,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09be\u0995\u09c1\u09af\u09bc\u09be"
@@ -85,9 +94,12 @@
         102059185
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430350905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"11c6cf5820e9551f366fc0f624151f6a",
+    "wof:geomhash":"c440b066e207fd227da9e6769ebc9962",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404563193,
-    "wof:lastmodified":1577827742,
+    "wof:lastmodified":1695878197,
     "wof:name":"Camaqu\u00e3",
     "wof:parent_id":102059185,
     "wof:placetype":"localadmin",

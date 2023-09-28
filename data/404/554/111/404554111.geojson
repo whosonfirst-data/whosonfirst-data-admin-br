@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009069,
-    "geom:area_square_m":105368713.784228,
+    "geom:area_square_m":105368713.784209,
     "geom:bbox":"-41.1210387633,-20.08782583,-40.9705374751,-19.9600934416",
     "geom:latitude":-20.01208,
     "geom:longitude":-41.031726,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.013451,
     "lbl:longitude":-41.024323,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Serra Pelada"
@@ -52,9 +61,12 @@
         102051817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320010240"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0449544bedb7562e2fca809049bc3f14",
+    "wof:geomhash":"f6e0de2cbe068df347764a0e5277a58d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":404554111,
-    "wof:lastmodified":1577833353,
+    "wof:lastmodified":1695878589,
     "wof:name":"Serra Pelada",
     "wof:parent_id":102051817,
     "wof:placetype":"localadmin",

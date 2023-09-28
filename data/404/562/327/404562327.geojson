@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01307,
-    "geom:area_square_m":149610830.899672,
+    "geom:area_square_m":149610830.899663,
     "geom:bbox":"-42.0993838134,-22.3050221714,-41.9009116058,-22.1251318123",
     "geom:latitude":-22.214744,
     "geom:longitude":-41.994677,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.190062,
     "lbl:longitude":-41.953282,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09b2\u09bf\u0995\u09c7\u09b0\u09bf\u0993"
@@ -94,9 +103,12 @@
         102058385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330240330"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d621aeac9512337e7d8b6d8ab79fc57f",
+    "wof:geomhash":"487f6782dbdd74da2ed1798c92bc2570",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404562327,
-    "wof:lastmodified":1577833284,
+    "wof:lastmodified":1695878570,
     "wof:name":"Glic\u00e9rio",
     "wof:parent_id":102058385,
     "wof:placetype":"localadmin",

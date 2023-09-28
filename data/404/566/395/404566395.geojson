@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006229,
-    "geom:area_square_m":70557620.80291,
+    "geom:area_square_m":70557620.802893,
     "geom:bbox":"-46.91832,-23.688208,-46.791872,-23.61011",
     "geom:latitude":-23.651336,
     "geom:longitude":-46.851505,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.651516,
     "lbl:longitude":-46.852704,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u098f\u09ae\u09cd\u09ac\u09c1"
@@ -106,12 +115,15 @@
         102061367
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351500405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061367
     ],
     "wof:country":"BR",
-    "wof:geomhash":"7e2b25f61a24c39c51b80cec9ede0e7c",
+    "wof:geomhash":"f58f3f0e8c1e2ec5e4b339f741ffdf95",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":404566395,
-    "wof:lastmodified":1636496422,
+    "wof:lastmodified":1695878857,
     "wof:name":"Embu",
     "wof:parent_id":102061367,
     "wof:placetype":"localadmin",

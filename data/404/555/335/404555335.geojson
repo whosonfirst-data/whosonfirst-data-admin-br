@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009304,
-    "geom:area_square_m":108579264.198723,
+    "geom:area_square_m":108579264.198749,
     "geom:bbox":"-43.90962,-19.375956997,-43.744236,-19.2048689971",
     "geom:latitude":-19.304681,
     "geom:longitude":-43.819933,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.338988,
     "lbl:longitude":-43.839389,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u043c\u0430\u043d\u0434\u0430"
@@ -88,9 +97,12 @@
         102053489
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310500410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b5957e3c9463d353c220e30ce93bb320",
+    "wof:geomhash":"5af59687b4caa38ef29d4ef8b1b41dc7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404555335,
-    "wof:lastmodified":1577832838,
+    "wof:lastmodified":1695878424,
     "wof:name":"Amanda",
     "wof:parent_id":102053489,
     "wof:placetype":"localadmin",

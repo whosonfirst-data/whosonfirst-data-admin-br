@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051109,
-    "geom:area_square_m":610104237.575567,
+    "geom:area_square_m":610104237.57556,
     "geom:bbox":"-58.0854339819,-15.236177173,-57.665340031,-14.9999552146",
     "geom:latitude":-15.115306,
     "geom:longitude":-57.860504,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.071463,
     "lbl:longitude":-57.811185,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055607
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510775010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"767bbde2baba9e5fcac0b2d2cfdba3b5",
+    "wof:geomhash":"8f4b6114fcc1d20adfec7da65ffa39dd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559379,
-    "wof:lastmodified":1577836160,
+    "wof:lastmodified":1695878645,
     "wof:name":"Cristin\u00f3polis",
     "wof:parent_id":102055607,
     "wof:placetype":"localadmin",

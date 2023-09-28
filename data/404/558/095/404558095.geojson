@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014055,
-    "geom:area_square_m":161936585.943885,
+    "geom:area_square_m":161936585.943958,
     "geom:bbox":"-42.62961,-21.354173,-42.462926,-21.201176",
     "geom:latitude":-21.282115,
     "geom:longitude":-42.556146,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.283679,
     "lbl:longitude":-42.548001,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054781,
         1511777411,
-        85681941
+        102054781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315840905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054781
     ],
     "wof:country":"BR",
-    "wof:geomhash":"6caf13feb25faf66ae4426fb232da9c3",
+    "wof:geomhash":"177bcb33b5a2d99acf0fcc0ad882acb9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404558095,
-    "wof:lastmodified":1608030568,
+    "wof:lastmodified":1695878779,
     "wof:name":"Santana De Cataguases",
     "wof:parent_id":102054781,
     "wof:placetype":"localadmin",

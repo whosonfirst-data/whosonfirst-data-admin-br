@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008762,
-    "geom:area_square_m":107107501.30689,
+    "geom:area_square_m":107107501.306889,
     "geom:bbox":"-36.1817443335,-8.71960889437,-36.0651082977,-8.60019524254",
     "geom:latitude":-8.661316,
     "geom:longitude":-36.11641,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.661255,
     "lbl:longitude":-36.116457,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261020210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"465438737d185c62bb42bbacbeec22b2",
+    "wof:geomhash":"4ec5c18412d5fd89b900a08a600359da",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560527,
-    "wof:lastmodified":1577837744,
+    "wof:lastmodified":1695878688,
     "wof:name":"Cruzes",
     "wof:parent_id":102056747,
     "wof:placetype":"localadmin",

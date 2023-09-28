@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114123,
-    "geom:area_square_m":1325431753.676254,
+    "geom:area_square_m":1325431753.676188,
     "geom:bbox":"-47.4403154093,-20.2869179969,-46.81054,-19.853469997",
     "geom:latitude":-20.07313,
     "geom:longitude":-47.121752,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.078874,
     "lbl:longitude":-47.143169,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054737
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315690810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f9a50653f46f26048560da9d3d5ae7f9",
+    "wof:geomhash":"26655221c43c4c510fa7e76871055f22",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558009,
-    "wof:lastmodified":1577832558,
+    "wof:lastmodified":1695878320,
     "wof:name":"Desemboque",
     "wof:parent_id":102054737,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028762,
-    "geom:area_square_m":352521189.690165,
+    "geom:area_square_m":352521574.04083,
     "geom:bbox":"-35.077806,-7.714574,-34.848179,-7.462009",
     "geom:latitude":-7.609275,
     "geom:longitude":-34.977267,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.655767,
     "lbl:longitude":-34.969472,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Goiana"
@@ -121,9 +130,12 @@
         102056639
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260620005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6cba350e3acc7655fc169b2bb1ed56d5",
+    "wof:geomhash":"b9c389d676be54f2064b7d3a7c2776df",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +147,7 @@
         }
     ],
     "wof:id":404560371,
-    "wof:lastmodified":1642551770,
+    "wof:lastmodified":1695878870,
     "wof:name":"Goiana",
     "wof:parent_id":102056639,
     "wof:placetype":"localadmin",

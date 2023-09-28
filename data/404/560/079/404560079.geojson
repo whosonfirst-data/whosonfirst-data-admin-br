@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013774,
-    "geom:area_square_m":168985601.60299,
+    "geom:area_square_m":168985601.60298,
     "geom:bbox":"-36.488469612,-7.21829559427,-36.2821322299,-7.12047138481",
     "geom:latitude":-7.163259,
     "geom:longitude":-36.391772,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.16649,
     "lbl:longitude":-36.390038,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09ae \u09b8\u0989\u09b8\u09c7\u09b8\u09b8\u09cb"
@@ -64,9 +73,12 @@
         102056453
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"251610210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ece4573e2ac1f24678e6fc636b49e267",
+    "wof:geomhash":"663572d370ab0412bea3eaea3b06aa8f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":404560079,
-    "wof:lastmodified":1577837892,
+    "wof:lastmodified":1695878723,
     "wof:name":"Bom Sucesso",
     "wof:parent_id":102056453,
     "wof:placetype":"localadmin",

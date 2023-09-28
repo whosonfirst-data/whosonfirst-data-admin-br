@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048687,
-    "geom:area_square_m":539154862.786871,
+    "geom:area_square_m":539154862.786641,
     "geom:bbox":"-50.584142,-26.642821,-50.398829,-26.228725",
     "geom:latitude":-26.418114,
     "geom:longitude":-50.487755,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.400299,
     "lbl:longitude":-50.495273,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060259,
         1511777409,
-        85682021
+        102060259
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420213105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060259
     ],
     "wof:country":"BR",
-    "wof:geomhash":"367d6e757b1d539f0ae5220b2484fd58",
+    "wof:geomhash":"7c2c4fdd9cf1f5aea5f31c7529acd95b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404565203,
-    "wof:lastmodified":1608034257,
+    "wof:lastmodified":1695878820,
     "wof:name":"Bela Vista Do Toldo",
     "wof:parent_id":102060259,
     "wof:placetype":"localadmin",

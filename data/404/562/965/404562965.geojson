@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012256,
-    "geom:area_square_m":134590248.988171,
+    "geom:area_square_m":134590248.988127,
     "geom:bbox":"-52.4000960624,-27.4543461476,-52.2500406084,-27.2514014953",
     "geom:latitude":-27.367,
     "geom:longitude":-52.317938,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.379367,
     "lbl:longitude":-52.300304,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u099f\u09bf\u09ac\u09be"
@@ -109,9 +118,12 @@
         102059081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430090105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"68e221639137db9b129d1c220e8de041",
+    "wof:geomhash":"602809c13df0f71074841f60088006b2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":404562965,
-    "wof:lastmodified":1577827981,
+    "wof:lastmodified":1695878308,
     "wof:name":"Aratiba",
     "wof:parent_id":102059081,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070707,
-    "geom:area_square_m":842835543.602465,
+    "geom:area_square_m":842835543.602757,
     "geom:bbox":"-43.332094,-15.617179,-42.91222,-15.081516",
     "geom:latitude":-15.419123,
     "geom:longitude":-43.149589,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.469191,
     "lbl:longitude":-43.163955,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u0987 \u09aa\u09c7\u09a1\u09cd\u09b0\u09cb"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054475,
         1511777411,
-        85681941
+        102054475
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314655205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054475
     ],
     "wof:country":"BR",
-    "wof:geomhash":"87733e3c6e1a661f8bf5e35ae11cf802",
+    "wof:geomhash":"929554f080c2a369e4c19d374259155f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404557517,
-    "wof:lastmodified":1608031835,
+    "wof:lastmodified":1695878796,
     "wof:name":"Pai Pedro",
     "wof:parent_id":102054475,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.921316,
-    "geom:area_square_m":23753153264.450127,
+    "geom:area_square_m":23753153264.448246,
     "geom:bbox":"-55.413634,-2.167322,-54.359831,1.550282",
     "geom:latitude":-0.604683,
     "geom:longitude":-55.039155,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-0.898233,
     "lbl:longitude":-55.030838,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u064a\u0646\u0643\u064a\u0631"
@@ -100,12 +109,15 @@
         102055675
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150040405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055675
     ],
     "wof:country":"BR",
-    "wof:geomhash":"bde18a93c8cbdafc551a4c3f415b1f76",
+    "wof:geomhash":"0af603fcc4156f566a23079942e8cf38",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404559463,
-    "wof:lastmodified":1636496426,
+    "wof:lastmodified":1695878859,
     "wof:name":"Alenquer",
     "wof:parent_id":102055675,
     "wof:placetype":"localadmin",

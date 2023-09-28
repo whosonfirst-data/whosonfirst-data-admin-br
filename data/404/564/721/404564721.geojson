@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03701,
-    "geom:area_square_m":403211305.008234,
+    "geom:area_square_m":403211305.008183,
     "geom:bbox":"-55.3686199125,-28.344705584,-55.0547613878,-28.0964796396",
     "geom:latitude":-28.227803,
     "geom:longitude":-55.223738,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.219717,
     "lbl:longitude":-55.212994,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "S\u00e3o Nicolau"
@@ -76,9 +85,12 @@
         102059947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431920805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6abd5e031b0427cf4ba839d7401ef48c",
+    "wof:geomhash":"35af2052127afff2929857b4d483fe34",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404564721,
-    "wof:lastmodified":1577827938,
+    "wof:lastmodified":1695878289,
     "wof:name":"S\u00e3o Nicolau",
     "wof:parent_id":102059947,
     "wof:placetype":"localadmin",

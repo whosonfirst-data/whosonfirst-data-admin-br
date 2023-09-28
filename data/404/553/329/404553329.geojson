@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007227,
-    "geom:area_square_m":89201411.388573,
+    "geom:area_square_m":89201411.388581,
     "geom:bbox":"-40.5569091073,-3.52310226864,-40.4512920037,-3.38153499982",
     "geom:latitude":-3.460537,
     "geom:longitude":-40.504789,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.473016,
     "lbl:longitude":-40.517248,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051643
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230800520"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"63db777930912d3564e7ccb27fd20f3b",
+    "wof:geomhash":"d157ad1c56dfaf2974e54d6a6f135ce1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553329,
-    "wof:lastmodified":1577837753,
+    "wof:lastmodified":1695878690,
     "wof:name":"Padre Linhares",
     "wof:parent_id":102051643,
     "wof:placetype":"localadmin",

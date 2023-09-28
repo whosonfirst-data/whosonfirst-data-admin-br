@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10374,
-    "geom:area_square_m":1282254347.475626,
+    "geom:area_square_m":1282254347.475501,
     "geom:bbox":"-49.9751424228,-1.83560090013,-49.5748310711,-1.30063430915",
     "geom:latitude":-1.61234,
     "geom:longitude":-49.786603,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-1.704447,
     "lbl:longitude":-49.783444,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c1\u09b0\u09cd\u09b0\u09be\u09b2\u09bf\u09a8\u09b9\u09cb"
@@ -79,9 +88,12 @@
         102055757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150280605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"062939e528793c99204141f1dbe412d7",
+    "wof:geomhash":"6dd0406cd178783f679793637310b046",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404559601,
-    "wof:lastmodified":1577825690,
+    "wof:lastmodified":1695878165,
     "wof:name":"Curralinho",
     "wof:parent_id":102055757,
     "wof:placetype":"localadmin",

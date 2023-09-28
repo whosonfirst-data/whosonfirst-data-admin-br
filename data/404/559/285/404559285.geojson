@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145254,
-    "geom:area_square_m":1737357816.700201,
+    "geom:area_square_m":1737357816.699914,
     "geom:bbox":"-55.6516837436,-14.8787702828,-54.8999602577,-14.4211470998",
     "geom:latitude":-14.693692,
     "geom:longitude":-55.212679,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.724795,
     "lbl:longitude":-55.238194,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u0993\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
@@ -94,9 +103,12 @@
         102055515
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510620810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"218cee867e4d0ac79f64f0c9cea9a70a",
+    "wof:geomhash":"37153c65b56fb1146adc2eb98ef5c873",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404559285,
-    "wof:lastmodified":1577836105,
+    "wof:lastmodified":1695878634,
     "wof:name":"Riol\u00e2ndia",
     "wof:parent_id":102055515,
     "wof:placetype":"localadmin",

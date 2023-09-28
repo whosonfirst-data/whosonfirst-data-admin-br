@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00929,
-    "geom:area_square_m":108019000.541109,
+    "geom:area_square_m":108019000.541114,
     "geom:bbox":"-43.739294,-20.003477997,-43.61381,-19.821722997",
     "geom:latitude":-19.897839,
     "geom:longitude":-43.6701,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.898415,
     "lbl:longitude":-43.659661,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09af\u09bc\u09c7\u099f\u09c7"
@@ -103,9 +112,12 @@
         102053309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311000405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c06646ec8693cad865e39f2484f3af54",
+    "wof:geomhash":"ca36943aaee1bc678ac2cb96ae15f8ad",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404555601,
-    "wof:lastmodified":1577833084,
+    "wof:lastmodified":1695878508,
     "wof:name":"Caet\u00e9",
     "wof:parent_id":102053309,
     "wof:placetype":"localadmin",

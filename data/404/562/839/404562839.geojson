@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019434,
-    "geom:area_square_m":235696723.651796,
+    "geom:area_square_m":235696723.65183,
     "geom:bbox":"-61.9436176629,-11.3842596061,-61.834566981,-11.1062949223",
     "geom:latitude":-11.235893,
     "geom:longitude":-61.878277,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.231172,
     "lbl:longitude":-61.882721,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Presidente M\u00e9dici"
@@ -61,9 +70,12 @@
         102058925
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"110025405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ea29d8f34c883214882cda52421e47e5",
+    "wof:geomhash":"f4967d71f99a5b7085c11ccb30f53a9e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404562839,
-    "wof:lastmodified":1577825700,
+    "wof:lastmodified":1695878171,
     "wof:name":"Presidente M\u00e9dici",
     "wof:parent_id":102058925,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021684,
-    "geom:area_square_m":265917167.336957,
+    "geom:area_square_m":265917167.336968,
     "geom:bbox":"-38.082918695,-7.44298630396,-37.8541481818,-7.28505900059",
     "geom:latitude":-7.366871,
     "geom:longitude":-37.969178,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.356645,
     "lbl:longitude":-37.99427,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056371
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"251360405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3686749ebbcce5c10a8296789d702053",
+    "wof:geomhash":"f299ad6ff8451b15789f38d8ac18a2a5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560043,
-    "wof:lastmodified":1577837889,
+    "wof:lastmodified":1695878722,
     "wof:name":"Santana Dos Garrotes",
     "wof:parent_id":102056371,
     "wof:placetype":"localadmin",

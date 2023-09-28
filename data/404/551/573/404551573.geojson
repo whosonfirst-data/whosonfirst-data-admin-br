@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031067,
-    "geom:area_square_m":373828181.672596,
+    "geom:area_square_m":373828181.672623,
     "geom:bbox":"-41.655737123,-13.4258741574,-41.437012502,-13.1401852651",
     "geom:latitude":-13.309137,
     "geom:longitude":-41.537207,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.323708,
     "lbl:longitude":-41.526462,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Jo\u00e3o Correia"
@@ -40,9 +49,12 @@
         102051055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292190615"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ab6a5dced978e9d523876baecad4464f",
+    "wof:geomhash":"1a01c54271768baef62e28dd12dc466d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404551573,
-    "wof:lastmodified":1577837747,
+    "wof:lastmodified":1695878688,
     "wof:name":"Jo\u00e3o Correia",
     "wof:parent_id":102051055,
     "wof:placetype":"localadmin",

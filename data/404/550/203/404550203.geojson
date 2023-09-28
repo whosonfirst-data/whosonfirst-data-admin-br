@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00273,
-    "geom:area_square_m":33317471.316953,
+    "geom:area_square_m":33317471.316948,
     "geom:bbox":"-35.4846092245,-9.23119682166,-35.3270504715,-9.17536339465",
     "geom:latitude":-9.200325,
     "geom:longitude":-35.378906,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.208569,
     "lbl:longitude":-35.352718,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"270740410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"68cb9bc7aa21279d2b765e45d2a5bc7a",
+    "wof:geomhash":"98e3cdf3eae49074eaf8c938482f6aac",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550203,
-    "wof:lastmodified":1577837890,
+    "wof:lastmodified":1695878723,
     "wof:name":"Tatuamunha",
     "wof:parent_id":102050237,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0036,
-    "geom:area_square_m":43469294.302782,
+    "geom:area_square_m":43469294.302736,
     "geom:bbox":"-38.7317960531,-12.5130715144,-38.637818514,-12.4290853631",
     "geom:latitude":-12.464199,
     "geom:longitude":-38.682538,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.459687,
     "lbl:longitude":-38.683267,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050489
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290110615"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7d00b050b5f9d36798f7e2651e39f119",
+    "wof:geomhash":"5cceecba201d40fb1d95b67bb5c5b09d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550411,
-    "wof:lastmodified":1577837702,
+    "wof:lastmodified":1695878678,
     "wof:name":"Mata Da Alian\u00e7a",
     "wof:parent_id":102050489,
     "wof:placetype":"localadmin",

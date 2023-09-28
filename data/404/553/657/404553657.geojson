@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016714,
-    "geom:area_square_m":205933358.61886,
+    "geom:area_square_m":205933358.618883,
     "geom:bbox":"-41.0501227912,-4.93583873417,-40.8721150594,-4.76063999007",
     "geom:latitude":-4.833977,
     "geom:longitude":-40.965736,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.828606,
     "lbl:longitude":-40.964411,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c1\u09b0\u09bf\u099f\u09bf\u099c\u09be\u09b2"
@@ -94,9 +103,12 @@
         102051723
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231100907"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a22a1d985421f4b25e31c2988b683f2f",
+    "wof:geomhash":"692f820a4e140691155800c45afd1b02",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404553657,
-    "wof:lastmodified":1577837931,
+    "wof:lastmodified":1695878734,
     "wof:name":"Buritizal",
     "wof:parent_id":102051723,
     "wof:placetype":"localadmin",

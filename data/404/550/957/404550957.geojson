@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005234,
-    "geom:area_square_m":63275583.734523,
+    "geom:area_square_m":63275583.734562,
     "geom:bbox":"-38.969705328,-12.167610678,-38.880843557,-12.0664811935",
     "geom:latitude":-12.122053,
     "geom:longitude":-38.935033,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.125703,
     "lbl:longitude":-38.935711,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u099f\u09bf\u09a8\u09b9\u09be"
@@ -88,9 +97,12 @@
         102050755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291080038"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d9cc5505053397785ecec4f5b74912da",
+    "wof:geomhash":"6eeecc6afb80c7bf6f3f02c98e9a1675",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404550957,
-    "wof:lastmodified":1577837958,
+    "wof:lastmodified":1695878741,
     "wof:name":"Matinha",
     "wof:parent_id":102050755,
     "wof:placetype":"localadmin",

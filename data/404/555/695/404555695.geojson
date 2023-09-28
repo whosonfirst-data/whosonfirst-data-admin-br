@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008207,
-    "geom:area_square_m":95623973.756303,
+    "geom:area_square_m":95623973.756356,
     "geom:bbox":"-44.222553,-19.64217,-44.105509,-19.520947",
     "geom:latitude":-19.570064,
     "geom:longitude":-44.167699,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.568037,
     "lbl:longitude":-44.172571,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09aa\u09bf\u09ae \u09ac\u09cd\u09b0\u09be\u0999\u09cd\u0995\u09cb"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053555,
         1511777411,
-        85681941
+        102053555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311250505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053555
     ],
     "wof:country":"BR",
-    "wof:geomhash":"5fd9c5713322adea76dbf50ca9316cb7",
+    "wof:geomhash":"e97110fb7fb3c4e62096bc8648d4ffac",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404555695,
-    "wof:lastmodified":1608032529,
+    "wof:lastmodified":1695878809,
     "wof:name":"Capim Branco",
     "wof:parent_id":102053555,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.804778,
-    "geom:area_square_m":9945651460.432938,
+    "geom:area_square_m":9945651460.433578,
     "geom:bbox":"-54.0374369745,-2.67690236993,-52.966766147,-0.949523372046",
     "geom:latitude":-1.876864,
     "geom:longitude":-53.591549,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-1.876005,
     "lbl:longitude":-53.554667,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cd\u09b0\u09be\u0987\u09a8\u09b9\u09be"
@@ -55,9 +64,12 @@
         102055879
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150600505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"aae379f23f4222bc44f909c84c710976",
+    "wof:geomhash":"16f29f739dcf59a3284727914441aed6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":404559719,
-    "wof:lastmodified":1577825665,
+    "wof:lastmodified":1695878153,
     "wof:name":"Prainha",
     "wof:parent_id":102055879,
     "wof:placetype":"localadmin",

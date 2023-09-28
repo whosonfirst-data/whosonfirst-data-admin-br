@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025267,
-    "geom:area_square_m":291412995.69445,
+    "geom:area_square_m":291412995.694453,
     "geom:bbox":"-49.091331,-21.254568,-48.816769,-21.006078",
     "geom:latitude":-21.133764,
     "geom:longitude":-48.963688,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.134645,
     "lbl:longitude":-48.975063,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u062a\u0627\u0646\u062f\u0648\u0641\u0627"
@@ -96,19 +105,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061275,
         1511777411,
-        85682041
+        102061275
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351110205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061275
     ],
     "wof:country":"BR",
-    "wof:geomhash":"9438b85460cc13fe34e78863c01bddea",
+    "wof:geomhash":"afa83eb729a0924589a62b52ff239482",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404566315,
-    "wof:lastmodified":1608030824,
+    "wof:lastmodified":1695878783,
     "wof:name":"Catanduva",
     "wof:parent_id":102061275,
     "wof:placetype":"localadmin",

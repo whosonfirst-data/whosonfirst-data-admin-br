@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003719,
-    "geom:area_square_m":40895705.610385,
+    "geom:area_square_m":40895705.610388,
     "geom:bbox":"-51.732349,-27.2500904189,-51.6328978067,-27.1827609992",
     "geom:latitude":-27.220047,
     "geom:longitude":-51.68416,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.218854,
     "lbl:longitude":-51.689057,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421180115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"10b4e0602e8b7c1f4718234f4fcff1ee",
+    "wof:geomhash":"26ed2bb58a3caf505013d7bc3526450d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565673,
-    "wof:lastmodified":1577827814,
+    "wof:lastmodified":1695878230,
     "wof:name":"Santa L\u00facia",
     "wof:parent_id":102060583,
     "wof:placetype":"localadmin",

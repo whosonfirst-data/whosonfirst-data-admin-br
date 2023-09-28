@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103835,
-    "geom:area_square_m":1278720665.446703,
+    "geom:area_square_m":1278720971.883385,
     "geom:bbox":"-43.069913,-5.45201,-42.797946,-4.894791",
     "geom:latitude":-5.163486,
     "geom:longitude":-42.934886,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.165693,
     "lbl:longitude":-42.923884,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Timon"
@@ -94,9 +103,12 @@
         102053219
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"211220905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f3fe2ee03511cb5cdbecabc0d385a0b3",
+    "wof:geomhash":"1d60f3feb172331853d3cf6ff98df137",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404555087,
-    "wof:lastmodified":1636496439,
+    "wof:lastmodified":1695878864,
     "wof:name":"Timon",
     "wof:parent_id":102053219,
     "wof:placetype":"localadmin",

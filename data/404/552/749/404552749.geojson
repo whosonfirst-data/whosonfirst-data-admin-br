@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017585,
-    "geom:area_square_m":216589632.668658,
+    "geom:area_square_m":216589632.668653,
     "geom:bbox":"-41.0310877172,-5.17145777331,-40.8443197277,-4.98718422455",
     "geom:latitude":-5.07208,
     "geom:longitude":-40.904866,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.049316,
     "lbl:longitude":-40.906288,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230410310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"90c63bb99aadb7424915d1c822eadf91",
+    "wof:geomhash":"c9bbe766c3af95bc94cf9391beb04d6c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404552749,
-    "wof:lastmodified":1577837952,
+    "wof:lastmodified":1695878739,
     "wof:name":"Ibiapaba",
     "wof:parent_id":102051511,
     "wof:placetype":"localadmin",

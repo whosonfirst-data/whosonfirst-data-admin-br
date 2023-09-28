@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019632,
-    "geom:area_square_m":211445048.853624,
+    "geom:area_square_m":211445048.853601,
     "geom:bbox":"-53.5326784761,-29.5246007311,-53.3337472527,-29.3386721102",
     "geom:latitude":-29.41946,
     "geom:longitude":-53.442851,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.402097,
     "lbl:longitude":-53.457871,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u09aa\u09be\u09b2\u09ae\u09be"
@@ -94,9 +103,12 @@
         102059665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431310205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9fe8dcc2cbc6ed46efd5e3b6ef86080d",
+    "wof:geomhash":"f420c6f4b25b321468118bd3bd6cb71c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404564025,
-    "wof:lastmodified":1577827889,
+    "wof:lastmodified":1695878266,
     "wof:name":"Nova Palma",
     "wof:parent_id":102059665,
     "wof:placetype":"localadmin",

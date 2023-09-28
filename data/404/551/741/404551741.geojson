@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043956,
-    "geom:area_square_m":532205458.240327,
+    "geom:area_square_m":532205458.240325,
     "geom:bbox":"-40.7153786137,-11.8393085944,-40.3706700523,-11.6007600224",
     "geom:latitude":-11.716085,
     "geom:longitude":-40.53886,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.7201,
     "lbl:longitude":-40.541488,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09b0\u09bf\u099f\u09bf\u09ac\u09be"
@@ -88,9 +97,12 @@
         102051147
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292480105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"90d29554b637c0192e9f0fc59ad89eb8",
+    "wof:geomhash":"09ad258a34d62cc98296116366af4de7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404551741,
-    "wof:lastmodified":1577837795,
+    "wof:lastmodified":1695878699,
     "wof:name":"Piritiba",
     "wof:parent_id":102051147,
     "wof:placetype":"localadmin",

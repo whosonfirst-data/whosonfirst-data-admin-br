@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035511,
-    "geom:area_square_m":416094018.28755,
+    "geom:area_square_m":416094018.287456,
     "geom:bbox":"-44.821889,-18.7364239971,-44.44762,-18.4712479972",
     "geom:latitude":-18.629994,
     "geom:longitude":-44.633147,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.627957,
     "lbl:longitude":-44.630317,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314360905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"45788084f84d9cd454d76e80fbf3b747",
+    "wof:geomhash":"76b51f49c57741c69e8bce934f3064df",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557341,
-    "wof:lastmodified":1577832831,
+    "wof:lastmodified":1695878422,
     "wof:name":"Morro Da Gar\u00e7a",
     "wof:parent_id":102054383,
     "wof:placetype":"localadmin",

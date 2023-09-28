@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000487,
-    "geom:area_square_m":6004591.303368,
+    "geom:area_square_m":6004591.303364,
     "geom:bbox":"-38.3617759827,-4.50087428489,-38.3362432724,-4.46879029953",
     "geom:latitude":-4.483626,
     "geom:longitude":-38.350723,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.483691,
     "lbl:longitude":-38.350479,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09b0\u09bf\u09b8\u09cd\u099f\u09be\u0987\u09b8"
@@ -97,9 +106,12 @@
         102051491
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230350112"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"263f601a23f9473a9796bc9bee17a8ec",
+    "wof:geomhash":"8e75cb58f52ff8c8acc4e67bea373351",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404552649,
-    "wof:lastmodified":1577837939,
+    "wof:lastmodified":1695878736,
     "wof:name":"Cristais",
     "wof:parent_id":102051491,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000633,
-    "geom:area_square_m":7173225.810355,
+    "geom:area_square_m":7173225.810371,
     "geom:bbox":"-46.670999,-23.516764,-46.64121,-23.481705",
     "geom:latitude":-23.501,
     "geom:longitude":-46.657348,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.501639,
     "lbl:longitude":-46.655586,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Casa Verde"
@@ -41,14 +50,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "bra-ibge:code":"355030821",
         "gn:id":8449509,
         "qs_pg:id":381742
     },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d0632804c40271e5176d843523c93ac",
+    "wof:geomhash":"80a2d99ff3c607e94f0c370314b65534",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -60,7 +71,7 @@
         }
     ],
     "wof:id":404567305,
-    "wof:lastmodified":1582321206,
+    "wof:lastmodified":1695878749,
     "wof:name":"Casa Verde",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

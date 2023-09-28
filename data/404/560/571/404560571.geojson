@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124475,
-    "geom:area_square_m":1519360691.060957,
+    "geom:area_square_m":1519361932.962771,
     "geom:bbox":"-40.776751,-9.482897,-40.208113,-8.923813",
     "geom:latitude":-9.197104,
     "geom:longitude":-40.461382,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.184404,
     "lbl:longitude":-40.43347,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u062a\u0631\u0648\u0644\u064a\u0646\u0627"
@@ -133,9 +142,12 @@
         102056767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261110105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"484992636dd699514749441611030d23",
+    "wof:geomhash":"2565a897740e3e9ca9d612c5d04c9867",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":404560571,
-    "wof:lastmodified":1636496416,
+    "wof:lastmodified":1695878856,
     "wof:name":"Petrolina",
     "wof:parent_id":102056767,
     "wof:placetype":"localadmin",

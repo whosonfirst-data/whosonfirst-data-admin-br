@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012699,
-    "geom:area_square_m":133909554.984425,
+    "geom:area_square_m":133909554.98445,
     "geom:bbox":"-53.8328112359,-31.5540225659,-53.7106335584,-31.3956661613",
     "geom:latitude":-31.481543,
     "geom:longitude":-53.767209,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-31.496272,
     "lbl:longitude":-53.768329,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430435830"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cc602596512e59682f1a07e2511f0712",
+    "wof:geomhash":"5c839298bc3637281d9c464bb138f4b1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404563261,
-    "wof:lastmodified":1577827694,
+    "wof:lastmodified":1695878172,
     "wof:name":"Seival",
     "wof:parent_id":102059209,
     "wof:placetype":"localadmin",

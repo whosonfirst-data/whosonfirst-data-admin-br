@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019241,
-    "geom:area_square_m":213424885.257468,
+    "geom:area_square_m":213424885.257421,
     "geom:bbox":"-51.29438,-26.351505,-51.12386,-26.130314",
     "geom:latitude":-26.227651,
     "geom:longitude":-51.22226,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.222035,
     "lbl:longitude":-51.213869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09b0\u09cd\u099f\u09cb \u09ad\u09bf\u099f\u09cb\u09b0\u09bf\u09af\u09bc\u09be"
@@ -84,19 +93,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681983,
         102191577,
         85633009,
-        102058037,
         1511777409,
-        85681983
+        102058037
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412030905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102058037
     ],
     "wof:country":"BR",
-    "wof:geomhash":"f2c3949329703f5c63467c036732b8bc",
+    "wof:geomhash":"a0e2afdb602c95ff8edbb2a43519d7d2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404561683,
-    "wof:lastmodified":1608031600,
+    "wof:lastmodified":1695878789,
     "wof:name":"Porto Vit\u00f3ria",
     "wof:parent_id":102058037,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014001,
-    "geom:area_square_m":151236694.008205,
+    "geom:area_square_m":151236694.008202,
     "geom:bbox":"-49.834035,-29.205953,-49.655057,-29.038865",
     "geom:latitude":-29.122081,
     "geom:longitude":-49.74387,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.121085,
     "lbl:longitude":-49.745225,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060705,
         1511777409,
-        85682021
+        102060705
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421565305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060705
     ],
     "wof:country":"BR",
-    "wof:geomhash":"79f38d5b01e0ebe314f1ca378b0b946c",
+    "wof:geomhash":"257e7932b829a2263b324116eb4029e8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404565819,
-    "wof:lastmodified":1608034220,
+    "wof:lastmodified":1695878819,
     "wof:name":"Santa Rosa Do Sul",
     "wof:parent_id":102060705,
     "wof:placetype":"localadmin",

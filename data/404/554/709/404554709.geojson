@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007397,
-    "geom:area_square_m":87759410.455669,
+    "geom:area_square_m":87759410.455661,
     "geom:bbox":"-49.1945853827,-16.4274730339,-49.0593621692,-16.3160584459",
     "geom:latitude":-16.366418,
     "geom:longitude":-49.123886,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.371928,
     "lbl:longitude":-49.128497,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102052027
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"520110810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e7cbd66466a0f640bfa8308fc97600be",
+    "wof:geomhash":"bb4cc734843198a2c1970c6579098b4a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554709,
-    "wof:lastmodified":1577836121,
+    "wof:lastmodified":1695878638,
     "wof:name":"Goial\u00e2ndia",
     "wof:parent_id":102052027,
     "wof:placetype":"localadmin",

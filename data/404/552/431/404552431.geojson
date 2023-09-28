@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015516,
-    "geom:area_square_m":190461616.258222,
+    "geom:area_square_m":190461616.258206,
     "geom:bbox":"-39.8046546857,-6.99416065862,-39.5963500284,-6.82000640837",
     "geom:latitude":-6.912139,
     "geom:longitude":-39.699948,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.911128,
     "lbl:longitude":-39.707018,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Amaro"
@@ -70,9 +79,12 @@
         102051443
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230160410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a01085c5fdbaf23087618f98288312de",
+    "wof:geomhash":"ba9aab8ceaf58a540db34f692b512cfd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404552431,
-    "wof:lastmodified":1577837808,
+    "wof:lastmodified":1695878703,
     "wof:name":"Amaro",
     "wof:parent_id":102051443,
     "wof:placetype":"localadmin",

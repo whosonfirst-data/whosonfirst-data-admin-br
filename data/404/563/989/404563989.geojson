@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077756,
-    "geom:area_square_m":827241417.069188,
+    "geom:area_square_m":827241417.06921,
     "geom:bbox":"-50.7365794016,-30.8250391473,-50.3334909427,-30.5008003176",
     "geom:latitude":-30.638301,
     "geom:longitude":-50.56002,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.616817,
     "lbl:longitude":-50.563889,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059629
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431250010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d383b9e56754521be3092d3325051ce0",
+    "wof:geomhash":"8f873d345c1ca6389a6f5068bae8572b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404563989,
-    "wof:lastmodified":1577827994,
+    "wof:lastmodified":1695878314,
     "wof:name":"Doutor Edgardo Pereira Velho",
     "wof:parent_id":102059629,
     "wof:placetype":"localadmin",

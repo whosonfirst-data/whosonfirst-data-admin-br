@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03929,
-    "geom:area_square_m":463386152.827429,
+    "geom:area_square_m":463386152.827255,
     "geom:bbox":"-42.45537,-17.6136669973,-42.086134,-17.3420209973",
     "geom:latitude":-17.480897,
     "geom:longitude":-42.292257,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.486809,
     "lbl:longitude":-42.295044,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054335
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314180125"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"746c963b8e7834a002be342ac133494d",
+    "wof:geomhash":"987187044643128952e4fc4c50c9e7c7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557247,
-    "wof:lastmodified":1577832784,
+    "wof:lastmodified":1695878407,
     "wof:name":"Ribeir\u00e3o Da Folha",
     "wof:parent_id":102054335,
     "wof:placetype":"localadmin",

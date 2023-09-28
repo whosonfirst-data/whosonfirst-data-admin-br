@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043795,
-    "geom:area_square_m":493875247.22267,
+    "geom:area_square_m":493875247.22251,
     "geom:bbox":"-47.5373742711,-24.3889794342,-47.2643801099,-24.0063919894",
     "geom:latitude":-24.216122,
     "geom:longitude":-47.427277,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.31213,
     "lbl:longitude":-47.452111,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09bf\u09b0\u09be\u0995\u09be\u099f\u09c1"
@@ -91,9 +100,12 @@
         102061747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352990605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0aeafcb351a904df7de55a786733cb73",
+    "wof:geomhash":"a82eeb3d1a31e3c6712e3a76073233d5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404566751,
-    "wof:lastmodified":1577833174,
+    "wof:lastmodified":1695878535,
     "wof:name":"Miracatu",
     "wof:parent_id":102061747,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008503,
-    "geom:area_square_m":98914874.933102,
+    "geom:area_square_m":98914874.933103,
     "geom:bbox":"-40.5142389532,-19.8574435234,-40.3460386757,-19.745551024",
     "geom:latitude":-19.808103,
     "geom:longitude":-40.421372,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.806544,
     "lbl:longitude":-40.400256,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09bf\u09b0\u09be\u0995\u09c1"
@@ -94,9 +103,12 @@
         102051885
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320250405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"18833ea03532280bcb2a24f3a1c7f7a7",
+    "wof:geomhash":"95680166f96ee5a56e49d1bb9a98bb4c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404554373,
-    "wof:lastmodified":1577832853,
+    "wof:lastmodified":1695878431,
     "wof:name":"Ibira\u00e7u",
     "wof:parent_id":102051885,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030688,
-    "geom:area_square_m":345335405.178589,
+    "geom:area_square_m":345335405.178916,
     "geom:bbox":"-51.1068722328,-24.6903185674,-50.8768236642,-24.3233869615",
     "geom:latitude":-24.485971,
     "geom:longitude":-50.975911,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.492864,
     "lbl:longitude":-50.958511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rio Novo"
@@ -55,9 +64,12 @@
         102058081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412170315"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ad8b991014a059fd15bb226afd3206b4",
+    "wof:geomhash":"16a040f360c7e33a8e8dc38eae71931e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":404561751,
-    "wof:lastmodified":1577827824,
+    "wof:lastmodified":1695878233,
     "wof:name":"Rio Novo",
     "wof:parent_id":102058081,
     "wof:placetype":"localadmin",

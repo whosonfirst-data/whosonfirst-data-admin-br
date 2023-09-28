@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107118,
-    "geom:area_square_m":1258923805.041189,
+    "geom:area_square_m":1258923805.041058,
     "geom:bbox":"-44.503803,-18.251879,-43.94449,-17.949555",
     "geom:latitude":-18.10884,
     "geom:longitude":-44.198057,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.120973,
     "lbl:longitude":-44.164819,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102053485
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310480905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053485
     ],
     "wof:country":"BR",
-    "wof:geomhash":"fcb7999d9ae949ee0d67773db30ecec0",
+    "wof:geomhash":"d70b6859db8401eac8c7caa732a7c9a1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404555329,
-    "wof:lastmodified":1617130903,
+    "wof:lastmodified":1695878839,
     "wof:name":"Augusto De Lima",
     "wof:parent_id":102053485,
     "wof:placetype":"localadmin",

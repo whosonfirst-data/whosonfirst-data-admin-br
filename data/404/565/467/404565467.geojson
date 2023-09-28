@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020158,
-    "geom:area_square_m":222053369.128048,
+    "geom:area_square_m":222053369.128039,
     "geom:bbox":"-49.595125,-27.136516,-49.456582,-26.890918",
     "geom:latitude":-27.016759,
     "geom:longitude":-49.522719,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.014468,
     "lbl:longitude":-49.514421,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09bf\u09b0\u09be\u09ae\u09be"
@@ -75,19 +84,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060429,
         1511777409,
-        85682021
+        102060429
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420690005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060429
     ],
     "wof:country":"BR",
-    "wof:geomhash":"f32e8e5c7b1a5ca4d0295dadbd4d6006",
+    "wof:geomhash":"4b53f767935943bf9c3e5236a58e6e48",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404565467,
-    "wof:lastmodified":1608034434,
+    "wof:lastmodified":1695878823,
     "wof:name":"Ibirama",
     "wof:parent_id":102060429,
     "wof:placetype":"localadmin",

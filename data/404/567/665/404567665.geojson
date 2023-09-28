@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123925,
-    "geom:area_square_m":1512554304.658671,
+    "geom:area_square_m":1512554304.658285,
     "geom:bbox":"-48.3483829051,-9.45216284647,-47.7047971867,-8.9566929424",
     "geom:latitude":-9.221052,
     "geom:longitude":-48.105639,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.216295,
     "lbl:longitude":-48.154349,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a1\u09cd\u09b0\u09cb \u0986\u09ab\u09cb\u09a8\u09cd\u09b8\u09cb"
@@ -91,9 +100,12 @@
         102062651
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"171650505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"33e62bfbde81a61808af2f73e4c0c720",
+    "wof:geomhash":"b6f004f155f86d1ba694b206e52da708",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404567665,
-    "wof:lastmodified":1577825663,
+    "wof:lastmodified":1695878152,
     "wof:name":"Pedro Afonso",
     "wof:parent_id":102062651,
     "wof:placetype":"localadmin",

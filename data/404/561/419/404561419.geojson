@@ -10,12 +10,21 @@
     "geom:latitude":-24.562813,
     "geom:longitude":-54.082295,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.55018,
     "lbl:longitude":-54.061081,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Marechal C\u00e2ndido Rondon"
@@ -85,9 +94,12 @@
         102057861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411460905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ac8b47d0243d29dc0af7430f01a36b05",
+    "wof:geomhash":"500dd7164ff2820ee858570c70e25158",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404561419,
-    "wof:lastmodified":1577827869,
+    "wof:lastmodified":1695878256,
     "wof:name":"Marechal C\u00e2ndido Rondon",
     "wof:parent_id":102057861,
     "wof:placetype":"localadmin",

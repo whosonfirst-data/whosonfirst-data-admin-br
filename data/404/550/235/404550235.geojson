@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068115,
-    "geom:area_square_m":841264420.002046,
+    "geom:area_square_m":841264420.002059,
     "geom:bbox":"-57.4937254985,-2.98532595955,-57.1312366718,-2.58981832463",
     "geom:latitude":-2.781693,
     "geom:longitude":-57.287555,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-2.78531,
     "lbl:longitude":-57.254622,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"130050820"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ffdc5b9606f7ecd44004c6741d93b3dc",
+    "wof:geomhash":"373135c51bfbdd97867b6bd3191890cb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550235,
-    "wof:lastmodified":1577825681,
+    "wof:lastmodified":1695878161,
     "wof:name":"Pedras",
     "wof:parent_id":102050305,
     "wof:placetype":"localadmin",

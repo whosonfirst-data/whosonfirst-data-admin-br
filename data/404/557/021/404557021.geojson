@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030334,
-    "geom:area_square_m":353176491.217887,
+    "geom:area_square_m":353176491.217904,
     "geom:bbox":"-45.137659,-19.805955,-44.944896,-19.529506",
     "geom:latitude":-19.679544,
     "geom:longitude":-45.040823,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.681123,
     "lbl:longitude":-45.032891,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09c7\u09af\u09bc\u09be\u09a8\u09a1\u09cd\u09b0\u09cb \u09ab\u09c7\u09b0\u09cd\u09b0\u09c7\u0987\u09b0\u09be"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054235,
         1511777411,
-        85681941
+        102054235
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313830205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054235
     ],
     "wof:country":"BR",
-    "wof:geomhash":"43d0aec8add39e794676b4f3165e55cc",
+    "wof:geomhash":"ec53169434b1e2b39cf7fa4d0fc175a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404557021,
-    "wof:lastmodified":1608031975,
+    "wof:lastmodified":1695878800,
     "wof:name":"Leandro Ferreira",
     "wof:parent_id":102054235,
     "wof:placetype":"localadmin",

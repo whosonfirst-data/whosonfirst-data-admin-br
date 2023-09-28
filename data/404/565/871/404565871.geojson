@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00991,
-    "geom:area_square_m":108611847.354914,
+    "geom:area_square_m":108611847.354833,
     "geom:bbox":"-48.7460722825,-27.6626044927,-48.5942940194,-27.5197223255",
     "geom:latitude":-27.587741,
     "geom:longitude":-48.673344,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.574887,
     "lbl:longitude":-48.685998,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421660213"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d97cfb32ac1f2d7697c970b236d9a812",
+    "wof:geomhash":"fabffda364d7a1c041feed7d7717bd6f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565871,
-    "wof:lastmodified":1577827997,
+    "wof:lastmodified":1695878316,
     "wof:name":"Centro Hist\u00f3rico De S\u00e3o Jos\u00e9",
     "wof:parent_id":102060743,
     "wof:placetype":"localadmin",

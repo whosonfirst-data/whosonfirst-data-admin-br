@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046576,
-    "geom:area_square_m":563154529.951269,
+    "geom:area_square_m":563154529.951339,
     "geom:bbox":"-37.9558196918,-12.2332279102,-37.685768057,-11.8699995184",
     "geom:latitude":-12.089491,
     "geom:longitude":-37.811425,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.099671,
     "lbl:longitude":-37.802304,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Palame"
@@ -55,9 +64,12 @@
         102050745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291060210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3bc1ab292fd1a8d83f62c114b1525f2a",
+    "wof:geomhash":"c0436befc4048969015ef82942d06c93",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":404550919,
-    "wof:lastmodified":1577837799,
+    "wof:lastmodified":1695878700,
     "wof:name":"Palame",
     "wof:parent_id":102050745,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009592,
-    "geom:area_square_m":105837785.301804,
+    "geom:area_square_m":105837785.301767,
     "geom:bbox":"-53.4203881457,-26.8972133285,-53.2381942455,-26.7818096601",
     "geom:latitude":-26.82939,
     "geom:longitude":-53.308071,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.830305,
     "lbl:longitude":-53.300511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09b0\u09be\u09b8\u09c7\u09ae\u09bf\u09a8\u09b9\u09be"
@@ -94,9 +103,12 @@
         102060455
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420775905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"182c7b17e48c1708f4fbf4c5ad289430",
+    "wof:geomhash":"b86755e250bed00b75af3a0ea68b537e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404565503,
-    "wof:lastmodified":1577827928,
+    "wof:lastmodified":1695878285,
     "wof:name":"Iraceminha",
     "wof:parent_id":102060455,
     "wof:placetype":"localadmin",

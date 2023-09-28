@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019973,
-    "geom:area_square_m":240323715.697895,
+    "geom:area_square_m":240323715.697931,
     "geom:bbox":"-39.6493102301,-13.4826014814,-39.525802918,-13.1715768143",
     "geom:latitude":-13.32385,
     "geom:longitude":-39.585173,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.331528,
     "lbl:longitude":-39.58424,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09bf\u0995\u09c1\u0987\u09b0\u09bf\u09b8\u09be"
@@ -97,9 +106,12 @@
         102050945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291820905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f081f8f8ccbec8faf0483c18fe3e8f1c",
+    "wof:geomhash":"83a150677162602ad86a7d25cf569c63",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404551335,
-    "wof:lastmodified":1577837851,
+    "wof:lastmodified":1695878713,
     "wof:name":"Jiquiri\u00e7\u00e1",
     "wof:parent_id":102050945,
     "wof:placetype":"localadmin",

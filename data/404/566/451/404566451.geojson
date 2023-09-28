@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013279,
-    "geom:area_square_m":152336495.373237,
+    "geom:area_square_m":152336495.373238,
     "geom:bbox":"-49.9651740041,-21.9713136073,-49.797471139,-21.8258341464",
     "geom:latitude":-21.907153,
     "geom:longitude":-49.877328,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.913804,
     "lbl:longitude":-49.87858,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u0987\u09ae\u09ac\u09c7"
@@ -94,9 +103,12 @@
         102061435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351730705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"787c82f76b55bd3ef497e3411cdcc180",
+    "wof:geomhash":"9ddffb1e54e63448b8227fe5315a63ad",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404566451,
-    "wof:lastmodified":1577833373,
+    "wof:lastmodified":1695878596,
     "wof:name":"Guaimb\u00ea",
     "wof:parent_id":102061435,
     "wof:placetype":"localadmin",

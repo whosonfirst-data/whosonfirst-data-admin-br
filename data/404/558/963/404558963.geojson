@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101836,
-    "geom:area_square_m":1187961061.645976,
+    "geom:area_square_m":1187961061.645724,
     "geom:bbox":"-52.2407206389,-19.5522055274,-51.809225141,-19.1912050612",
     "geom:latitude":-19.368387,
     "geom:longitude":-52.013042,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.383425,
     "lbl:longitude":-51.965744,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500440310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2771b60d5b706a889968ec6e2774a6e3",
+    "wof:geomhash":"403fb44299e98b64b31077746ba28551",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558963,
-    "wof:lastmodified":1577836188,
+    "wof:lastmodified":1695878653,
     "wof:name":"Morangas",
     "wof:parent_id":102055255,
     "wof:placetype":"localadmin",

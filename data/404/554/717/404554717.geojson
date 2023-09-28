@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065254,
-    "geom:area_square_m":773984313.362795,
+    "geom:area_square_m":773984313.362858,
     "geom:bbox":"-50.1715944579,-16.5699448049,-49.8142069246,-16.2443862537",
     "geom:latitude":-16.417138,
     "geom:longitude":-49.981716,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.422877,
     "lbl:longitude":-49.969475,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u09bf\u0995\u09c1\u09a8\u09cd\u09b8"
@@ -91,9 +100,12 @@
         102052031
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"520130605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3cd118b580d41679a1b8907d92ea0763",
+    "wof:geomhash":"e59afeb52e4a7f16690ad1bc25aeab43",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404554717,
-    "wof:lastmodified":1577836123,
+    "wof:lastmodified":1695878639,
     "wof:name":"Anicuns",
     "wof:parent_id":102052031,
     "wof:placetype":"localadmin",

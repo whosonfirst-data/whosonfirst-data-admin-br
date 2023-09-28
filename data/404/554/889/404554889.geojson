@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.264925,
-    "geom:area_square_m":3173660528.311028,
+    "geom:area_square_m":3173660528.311119,
     "geom:bbox":"-50.8414847502,-14.739834535,-50.1422315671,-13.7577425164",
     "geom:latitude":-14.352415,
     "geom:longitude":-50.437365,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.48145,
     "lbl:longitude":-50.46122,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u0995\u09b0\u09bf\u0995\u09cd\u09b8\u09be\u09b8"
@@ -97,9 +106,12 @@
         102052453
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"521483805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"614bf772185a3363b9b32806a99f38cb",
+    "wof:geomhash":"259ebecf0d9d05c1840d7e84645249f8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404554889,
-    "wof:lastmodified":1577836184,
+    "wof:lastmodified":1695878652,
     "wof:name":"Nova Crix\u00e1s",
     "wof:parent_id":102052453,
     "wof:placetype":"localadmin",

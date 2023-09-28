@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002696,
-    "geom:area_square_m":31253978.2357,
+    "geom:area_square_m":31253978.235688,
     "geom:bbox":"-40.390063,-20.413738,-40.309315,-20.333566",
     "geom:latitude":-20.373417,
     "geom:longitude":-40.339863,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.37737,
     "lbl:longitude":-40.340457,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102051989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320520015"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101954589
     ],
     "wof:country":"BR",
-    "wof:geomhash":"c8b7a78e8a4aeba95af735f4fc0a6907",
+    "wof:geomhash":"aae4267e3196f8c490305da6ff5448b9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404554677,
-    "wof:lastmodified":1617131339,
+    "wof:lastmodified":1695878846,
     "wof:name":"Ibes",
     "wof:parent_id":102051989,
     "wof:placetype":"localadmin",

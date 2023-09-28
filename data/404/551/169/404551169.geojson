@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100762,
-    "geom:area_square_m":1213569956.012797,
+    "geom:area_square_m":1213569956.01282,
     "geom:bbox":"-41.235638,-13.293575,-40.753903,-12.905663",
     "geom:latitude":-13.085981,
     "geom:longitude":-41.025664,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.133411,
     "lbl:longitude":-41.029345,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09af\u09bc\u09c7\u099f\u09c7"
@@ -97,12 +106,15 @@
         102050863
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291500705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050863
     ],
     "wof:country":"BR",
-    "wof:geomhash":"39df6d6c1af10d7293e2893f51dbd080",
+    "wof:geomhash":"59ed4afbd6312912a940e868bfe00a45",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404551169,
-    "wof:lastmodified":1617131290,
+    "wof:lastmodified":1695878844,
     "wof:name":"Itaet\u00e9",
     "wof:parent_id":102050863,
     "wof:placetype":"localadmin",

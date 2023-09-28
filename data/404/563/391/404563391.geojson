@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007491,
-    "geom:area_square_m":81553376.788171,
+    "geom:area_square_m":81553376.788177,
     "geom:bbox":"-52.0186231372,-28.3811898127,-51.8902024002,-28.2399509987",
     "geom:latitude":-28.305158,
     "geom:longitude":-51.95044,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.306806,
     "lbl:longitude":-51.949478,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059283
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430550407"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f4dc4bbafd0e1cfdeee8efdcf5f860a3",
+    "wof:geomhash":"9eaa710f9425ef64d8d18c3ff09198ff",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404563391,
-    "wof:lastmodified":1577827833,
+    "wof:lastmodified":1695878237,
     "wof:name":"Cruzaltinha",
     "wof:parent_id":102059283,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00249,
-    "geom:area_square_m":28296471.04675,
+    "geom:area_square_m":28296605.860866,
     "geom:bbox":"-51.209468,-23.24336,-51.13243,-23.171434",
     "geom:latitude":-23.207106,
     "geom:longitude":-51.17795,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.187988,
     "lbl:longitude":-51.186991,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0647\u0631 \u0641\u0627\u0631\u062a\u0627"
@@ -184,9 +193,12 @@
         102057835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411370045"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a4f5837a9dab24c254be5bfa796014f1",
+    "wof:geomhash":"9f09162f1c30936a60720dc204acd368",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -198,7 +210,7 @@
         }
     ],
     "wof:id":404561393,
-    "wof:lastmodified":1636496429,
+    "wof:lastmodified":1695878860,
     "wof:name":"Warta",
     "wof:parent_id":102057835,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000599,
-    "geom:area_square_m":6476320.613207,
+    "geom:area_square_m":6476320.613202,
     "geom:bbox":"-51.8140991031,-29.0326807291,-51.7789268751,-29.0088737487",
     "geom:latitude":-29.021808,
     "geom:longitude":-51.797009,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.022021,
     "lbl:longitude":-51.798432,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431971110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6c9ef28318e01ca655b9f1ffa7de550c",
+    "wof:geomhash":"1828c3bdbac57970db9e1b08f3ac2d89",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564757,
-    "wof:lastmodified":1577827951,
+    "wof:lastmodified":1695878294,
     "wof:name":"Fazenda Fialho",
     "wof:parent_id":102059967,
     "wof:placetype":"localadmin",

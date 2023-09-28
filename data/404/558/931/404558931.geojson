@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006671,
-    "geom:area_square_m":76412481.804631,
+    "geom:area_square_m":76412481.80462,
     "geom:bbox":"-54.7576269494,-22.1789948523,-54.6455677366,-22.0670087346",
     "geom:latitude":-22.129432,
     "geom:longitude":-54.696093,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.132587,
     "lbl:longitude":-54.695244,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09a8\u09be\u09ae\u09ac\u09bf"
@@ -97,9 +106,12 @@
         102055241
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500370230"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c29e466d5a0c1f54c5a3a5b7584d10b6",
+    "wof:geomhash":"8bed7bbda0eb17b76f023aa34fc18dd2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404558931,
-    "wof:lastmodified":1577836183,
+    "wof:lastmodified":1695878652,
     "wof:name":"Panambi",
     "wof:parent_id":102055241,
     "wof:placetype":"localadmin",

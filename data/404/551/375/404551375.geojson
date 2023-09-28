@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033862,
-    "geom:area_square_m":406934439.042016,
+    "geom:area_square_m":406934439.042049,
     "geom:bbox":"-40.536883,-13.704208,-40.116093,-13.462154",
     "geom:latitude":-13.624256,
     "geom:longitude":-40.286341,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.61823,
     "lbl:longitude":-40.248613,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u09ab\u09be\u0987\u09af\u09bc\u09c7\u099f\u09c7 \u0995\u09cb\u0989\u099f\u09bf\u09a8\u09b9\u09cb"
@@ -100,12 +109,15 @@
         102050963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291870405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050963
     ],
     "wof:country":"BR",
-    "wof:geomhash":"ffe1cee0df37c09a62b0175467b6a652",
+    "wof:geomhash":"9170f23306d257a7bc726e3201d89e6e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404551375,
-    "wof:lastmodified":1617131457,
+    "wof:lastmodified":1695878850,
     "wof:name":"Lafaiete Coutinho",
     "wof:parent_id":102050963,
     "wof:placetype":"localadmin",

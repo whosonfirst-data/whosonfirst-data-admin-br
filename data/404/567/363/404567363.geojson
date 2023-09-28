@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002294,
-    "geom:area_square_m":25973705.207299,
+    "geom:area_square_m":25973705.207306,
     "geom:bbox":"-46.76208,-23.726584,-46.71971,-23.640423",
     "geom:latitude":-23.680771,
     "geom:longitude":-46.739407,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.662711,
     "lbl:longitude":-46.741114,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Jardim S\u00e3o Lu\u00eds"
@@ -37,9 +46,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030846"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"054c74e7789d036516285ef054d151d0",
+    "wof:geomhash":"8ad5c90261632540648b2393a79f13d7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404567363,
-    "wof:lastmodified":1577832866,
+    "wof:lastmodified":1695878436,
     "wof:name":"Jardim S\u00e3o Lu\u00eds",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

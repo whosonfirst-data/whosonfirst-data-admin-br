@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.340539,
-    "geom:area_square_m":4039610351.119925,
+    "geom:area_square_m":4039610351.120528,
     "geom:bbox":"-54.0375608066,-16.7980096945,-52.9785875052,-15.9575772775",
     "geom:latitude":-16.394053,
     "geom:longitude":-53.578676,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.404569,
     "lbl:longitude":-53.751685,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u0987\u09b0\u09be\u099f\u09bf\u0999\u09cd\u0997\u09be"
@@ -85,9 +94,12 @@
         102055453
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510420305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8a086a379ccf6eaf10faba10efbfc176",
+    "wof:geomhash":"e25b24f513fa92a8a6659803c695a5f6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404559209,
-    "wof:lastmodified":1577836098,
+    "wof:lastmodified":1695878631,
     "wof:name":"Guiratinga",
     "wof:parent_id":102055453,
     "wof:placetype":"localadmin",

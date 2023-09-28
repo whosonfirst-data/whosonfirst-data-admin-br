@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004234,
-    "geom:area_square_m":46154710.916728,
+    "geom:area_square_m":46154710.916709,
     "geom:bbox":"-54.0253112909,-28.2351937871,-53.9422314506,-28.1217035548",
     "geom:latitude":-28.178158,
     "geom:longitude":-53.975609,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.177564,
     "lbl:longitude":-53.974977,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430500918"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5e3682a9385e07e5838795e1909c7a6a",
+    "wof:geomhash":"02da8a9c565f20001874f044fc9bc877",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404563337,
-    "wof:lastmodified":1577827861,
+    "wof:lastmodified":1695878252,
     "wof:name":"Pont\u00e3o Santo Ant\u00f4nio",
     "wof:parent_id":102059249,
     "wof:placetype":"localadmin",

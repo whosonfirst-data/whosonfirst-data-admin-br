@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0172,
-    "geom:area_square_m":201568961.288547,
+    "geom:area_square_m":201568961.288543,
     "geom:bbox":"-49.548052,-18.70049,-49.37149,-18.491485",
     "geom:latitude":-18.607517,
     "geom:longitude":-49.479292,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.6182,
     "lbl:longitude":-49.487965,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0995\u09b9\u09cb\u09af\u09bc\u09c7\u0987\u09b0\u09be \u09a1\u09cb\u0989\u09b0\u09be\u09a1\u09be"
@@ -81,19 +90,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053305,
         1511777411,
-        85681941
+        102053305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310980805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053305
     ],
     "wof:country":"BR",
-    "wof:geomhash":"4e7cce3aeee91a90a8e6e5bb8be759d2",
+    "wof:geomhash":"5a81c92b48652cdbccc70ba88439de1d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404555597,
-    "wof:lastmodified":1608032608,
+    "wof:lastmodified":1695878811,
     "wof:name":"Cachoeira Dourada",
     "wof:parent_id":102053305,
     "wof:placetype":"localadmin",

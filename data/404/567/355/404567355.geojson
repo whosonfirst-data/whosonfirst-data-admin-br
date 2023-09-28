@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003253,
-    "geom:area_square_m":36825644.771388,
+    "geom:area_square_m":36825644.771343,
     "geom:bbox":"-46.800804,-23.755212,-46.728272,-23.669855",
     "geom:latitude":-23.716224,
     "geom:longitude":-46.767797,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.720471,
     "lbl:longitude":-46.771372,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Jardim \u00c2ngela"
@@ -40,9 +49,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030843"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2f40336d3bbf6439f30da8ea5805ca7b",
+    "wof:geomhash":"c5954d82e5b8a0eba020656f5506aa68",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404567355,
-    "wof:lastmodified":1577832861,
+    "wof:lastmodified":1695878433,
     "wof:name":"Jardim \u00c2ngela",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

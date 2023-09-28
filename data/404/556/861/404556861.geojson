@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014871,
-    "geom:area_square_m":172651236.588817,
+    "geom:area_square_m":172651236.588731,
     "geom:bbox":"-45.627244,-20.206765,-45.4395,-20.061128",
     "geom:latitude":-20.132782,
     "geom:longitude":-45.529126,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.125864,
     "lbl:longitude":-45.530537,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u09aa\u09be\u09b0\u09be\u0987\u09ac\u09be"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054149,
         1511777411,
-        85681941
+        102054149
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313530805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054149
     ],
     "wof:country":"BR",
-    "wof:geomhash":"f226a0b403a9118174a858b11cf40a02",
+    "wof:geomhash":"a7f23a03326c0d4577d0a396598edcd0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404556861,
-    "wof:lastmodified":1608029379,
+    "wof:lastmodified":1695878760,
     "wof:name":"Japara\u00edba",
     "wof:parent_id":102054149,
     "wof:placetype":"localadmin",

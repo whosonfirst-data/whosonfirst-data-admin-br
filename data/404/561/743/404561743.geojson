@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00522,
-    "geom:area_square_m":57953883.430393,
+    "geom:area_square_m":57953706.677905,
     "geom:bbox":"-52.960092,-26.164921,-52.81192,-26.070881",
     "geom:latitude":-26.132432,
     "geom:longitude":-52.889582,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.138882,
     "lbl:longitude":-52.890919,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Canela"
@@ -76,9 +85,12 @@
         102058079
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412160415"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cb45f11dd193df0dc25e11a12519cebb",
+    "wof:geomhash":"5c8e9a1ebf579aa54bbfe6d54a12a4fc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404561743,
-    "wof:lastmodified":1636496431,
+    "wof:lastmodified":1695878861,
     "wof:name":"Canela",
     "wof:parent_id":102058079,
     "wof:placetype":"localadmin",

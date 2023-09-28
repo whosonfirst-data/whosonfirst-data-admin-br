@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012916,
-    "geom:area_square_m":147123038.746863,
+    "geom:area_square_m":147123038.746821,
     "geom:bbox":"-46.891336,-22.941571,-46.679857,-22.834006",
     "geom:latitude":-22.893861,
     "geom:longitude":-46.782544,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.887167,
     "lbl:longitude":-46.780949,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09b0\u09c1\u0999\u09cd\u0997\u09be\u09ac\u09be"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061795,
         1511777411,
-        85682041
+        102061795
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"353200905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061795
     ],
     "wof:country":"BR",
-    "wof:geomhash":"16319f6935c08077be403197fb6766ff",
+    "wof:geomhash":"dde3753fdf011fe0c7bcbcecbe9068bd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404566841,
-    "wof:lastmodified":1608030908,
+    "wof:lastmodified":1695878784,
     "wof:name":"Morungaba",
     "wof:parent_id":102061795,
     "wof:placetype":"localadmin",

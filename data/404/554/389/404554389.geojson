@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00292,
-    "geom:area_square_m":33860951.894408,
+    "geom:area_square_m":33860951.894426,
     "geom:bbox":"-41.7972606258,-20.3535227861,-41.6680301362,-20.2581765901",
     "geom:latitude":-20.313854,
     "geom:longitude":-41.711146,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.311642,
     "lbl:longitude":-41.695032,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051893
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320265220"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1779777d13b9a760ac2412759ae1a723",
+    "wof:geomhash":"79b1ee7de5e6eda1eb7d707a0bcc6276",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554389,
-    "wof:lastmodified":1577833296,
+    "wof:lastmodified":1695878575,
     "wof:name":"Santa Cruz De Irupi",
     "wof:parent_id":102051893,
     "wof:placetype":"localadmin",

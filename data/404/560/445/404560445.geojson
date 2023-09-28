@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000325,
-    "geom:area_square_m":3977946.30011,
+    "geom:area_square_m":3977946.300107,
     "geom:bbox":"-34.947446,-8.15487,-34.918004,-8.13682",
     "geom:latitude":-8.145654,
     "geom:longitude":-34.933403,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.14431,
     "lbl:longitude":-34.9381,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681973,
         102191577,
         85633009,
-        102056683,
         1511777415,
-        85681973
+        102056683
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260790125"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101948663
     ],
     "wof:country":"BR",
-    "wof:geomhash":"e8ce487d7bf9900c3076da70317f485a",
+    "wof:geomhash":"c4a7394d381992ae4c37951ee8416b20",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404560445,
-    "wof:lastmodified":1608015967,
+    "wof:lastmodified":1695878751,
     "wof:name":"Jardim Jord\u00e3o",
     "wof:parent_id":102056683,
     "wof:placetype":"localadmin",

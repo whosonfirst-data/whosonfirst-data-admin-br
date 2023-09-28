@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101053,
-    "geom:area_square_m":1232508209.076909,
+    "geom:area_square_m":1232508209.076929,
     "geom:bbox":"-41.903144654,-9.74979149144,-41.6380168339,-9.1256650142",
     "geom:latitude":-9.474098,
     "geom:longitude":-41.781384,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.479348,
     "lbl:longitude":-41.765541,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050663
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290720210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"92ab595ddad502cda5edec2f1afe43e9",
+    "wof:geomhash":"24fe55f25599a7154d11e5fae666d344",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550759,
-    "wof:lastmodified":1577837755,
+    "wof:lastmodified":1695878691,
     "wof:name":"Bem-Bom",
     "wof:parent_id":102050663,
     "wof:placetype":"localadmin",

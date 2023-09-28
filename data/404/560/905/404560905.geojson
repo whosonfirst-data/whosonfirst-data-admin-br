@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020863,
-    "geom:area_square_m":234988859.531267,
+    "geom:area_square_m":234988859.531307,
     "geom:bbox":"-53.7154194408,-24.5436286286,-53.5958596822,-24.2009376224",
     "geom:latitude":-24.367313,
     "geom:longitude":-53.66155,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.321953,
     "lbl:longitude":-53.660644,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057461
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410200020"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0d9453c8bc9d065131ae5604a37394a4",
+    "wof:geomhash":"ea69235270501deea2e0930dbae50683",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560905,
-    "wof:lastmodified":1577827832,
+    "wof:lastmodified":1695878237,
     "wof:name":"Encantado D'Oeste",
     "wof:parent_id":102057461,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011661,
-    "geom:area_square_m":131979725.239472,
+    "geom:area_square_m":131979725.239413,
     "geom:bbox":"-49.3427111205,-23.8120601628,-49.1399977304,-23.6932012687",
     "geom:latitude":-23.754252,
     "geom:longitude":-49.25465,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.757896,
     "lbl:longitude":-49.253129,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061549
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352170510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"83e4c5e66ce61acbcd4d50a9aee237e5",
+    "wof:geomhash":"f997d2b77aed534aeea58ab49a274149",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566535,
-    "wof:lastmodified":1577832693,
+    "wof:lastmodified":1695878373,
     "wof:name":"Turiba Do Sul",
     "wof:parent_id":102061549,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006184,
-    "geom:area_square_m":72179081.617691,
+    "geom:area_square_m":72179081.617646,
     "geom:bbox":"-42.427858,-19.3291969971,-42.314081,-19.2201419971",
     "geom:latitude":-19.266169,
     "geom:longitude":-42.375508,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.265916,
     "lbl:longitude":-42.381107,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310630910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bc7eff7f76844d04931306808acafed6",
+    "wof:geomhash":"cfdb3b571718b223e0bf7e130c6854ea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555415,
-    "wof:lastmodified":1577832914,
+    "wof:lastmodified":1695878455,
     "wof:name":"Perp\u00e9tuo Socorro",
     "wof:parent_id":102053517,
     "wof:placetype":"localadmin",

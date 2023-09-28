@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019965,
-    "geom:area_square_m":245021410.717154,
+    "geom:area_square_m":245021410.717104,
     "geom:bbox":"-39.335059689,-7.1383173107,-39.2002316467,-6.92539963905",
     "geom:latitude":-7.02914,
     "geom:longitude":-39.269572,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.030439,
     "lbl:longitude":-39.270894,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09bf\u09b0\u09bf\u09af\u09bc\u09be\u0995\u09c1"
@@ -85,9 +94,12 @@
         102051485
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230320405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7f58f21aa8987a6f6c59258dc65a6385",
+    "wof:geomhash":"e2af9a85fa575db1819d48542eb5b191",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404552625,
-    "wof:lastmodified":1577837834,
+    "wof:lastmodified":1695878710,
     "wof:name":"Cariria\u00e7u",
     "wof:parent_id":102051485,
     "wof:placetype":"localadmin",

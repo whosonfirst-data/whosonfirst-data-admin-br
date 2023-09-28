@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013485,
-    "geom:area_square_m":165714642.502895,
+    "geom:area_square_m":165714887.634171,
     "geom:bbox":"-37.723931,-6.433957,-37.575962,-6.285306",
     "geom:latitude":-6.357562,
     "geom:longitude":-37.650648,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.350011,
     "lbl:longitude":-37.656767,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0643\u0648\u0633"
@@ -118,9 +127,12 @@
         102056113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250430625"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ac092166d274b76940748461b7464994",
+    "wof:geomhash":"ce971f7268f51d4c162510204712e608",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":404559915,
-    "wof:lastmodified":1636496426,
+    "wof:lastmodified":1695878859,
     "wof:name":"Picos",
     "wof:parent_id":102056113,
     "wof:placetype":"localadmin",

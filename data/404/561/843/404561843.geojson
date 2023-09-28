@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012628,
-    "geom:area_square_m":143527935.715797,
+    "geom:area_square_m":143527935.715772,
     "geom:bbox":"-50.2428243641,-23.2593951475,-50.0974387821,-23.1225597084",
     "geom:latitude":-23.195252,
     "geom:longitude":-50.168162,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.195156,
     "lbl:longitude":-50.166773,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Monte Real"
@@ -61,9 +70,12 @@
         102058157
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412410317"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7f70f9811c0d934b0de065b7a654fb7e",
+    "wof:geomhash":"e884c5ef5ad80359c4a1ee3559e11926",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404561843,
-    "wof:lastmodified":1577827835,
+    "wof:lastmodified":1695878239,
     "wof:name":"Monte Real",
     "wof:parent_id":102058157,
     "wof:placetype":"localadmin",

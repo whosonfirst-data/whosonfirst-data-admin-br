@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036942,
-    "geom:area_square_m":441234825.403256,
+    "geom:area_square_m":441234825.403124,
     "geom:bbox":"-41.830028,-15.137975,-41.595943,-14.865557",
     "geom:latitude":-14.995649,
     "geom:longitude":-41.719313,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.997445,
     "lbl:longitude":-41.701588,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09b0\u09bf\u09aa\u09be"
@@ -97,12 +106,15 @@
         102051145
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292470205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102051145
     ],
     "wof:country":"BR",
-    "wof:geomhash":"651e6f9c260ff7a82c75ae7931c61bd0",
+    "wof:geomhash":"489a58c171d886369e7298693acd89f3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404551739,
-    "wof:lastmodified":1617130303,
+    "wof:lastmodified":1695878833,
     "wof:name":"Pirip\u00e1",
     "wof:parent_id":102051145,
     "wof:placetype":"localadmin",

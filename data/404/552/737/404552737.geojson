@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001814,
-    "geom:area_square_m":22383436.5217,
+    "geom:area_square_m":22383436.521706,
     "geom:bbox":"-40.6540153898,-3.55771219716,-40.5573051432,-3.52688191921",
     "geom:latitude":-3.5425,
     "geom:longitude":-40.600014,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.54426,
     "lbl:longitude":-40.600021,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Canto"
@@ -55,9 +64,12 @@
         102051509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230400417"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9e8d61fb904abafc3193f13f75bd3510",
+    "wof:geomhash":"542d5af6bee2ba1c3be071df3e03daeb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":404552737,
-    "wof:lastmodified":1577837796,
+    "wof:lastmodified":1695878700,
     "wof:name":"Canto",
     "wof:parent_id":102051509,
     "wof:placetype":"localadmin",

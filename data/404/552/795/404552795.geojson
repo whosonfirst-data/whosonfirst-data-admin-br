@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015193,
-    "geom:area_square_m":187329378.684966,
+    "geom:area_square_m":187329378.684986,
     "geom:bbox":"-41.161827507,-4.38932312403,-40.8907838185,-4.27258238019",
     "geom:latitude":-4.333114,
     "geom:longitude":-41.014694,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.321903,
     "lbl:longitude":-40.994353,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230423610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"774be65c9277714568e67fec804247d7",
+    "wof:geomhash":"ab592f4b3cdd58ffd44cf2c8e8e82d43",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404552795,
-    "wof:lastmodified":1577837959,
+    "wof:lastmodified":1695878741,
     "wof:name":"Barra Do Sotero",
     "wof:parent_id":102051517,
     "wof:placetype":"localadmin",

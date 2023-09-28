@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069227,
-    "geom:area_square_m":838268717.965637,
+    "geom:area_square_m":838268717.965618,
     "geom:bbox":"-41.0544867342,-11.8517988851,-40.7301316547,-11.5102721195",
     "geom:latitude":-11.685019,
     "geom:longitude":-40.91923,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.693259,
     "lbl:longitude":-40.932343,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u043d\u0442\u0443\u0440\u0430"
@@ -106,9 +115,12 @@
         102051051
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292170830"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"430f46c4d0d8e4f85dddd203ce3af6fa",
+    "wof:geomhash":"521abf93fb2b44f80df8741edea8e04e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404551565,
-    "wof:lastmodified":1577837833,
+    "wof:lastmodified":1695878709,
     "wof:name":"Ventura",
     "wof:parent_id":102051051,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044585,
-    "geom:area_square_m":535205506.0493,
+    "geom:area_square_m":535205506.049201,
     "geom:bbox":"-42.02281271,-14.055444634,-41.745370713,-13.712086701",
     "geom:latitude":-13.879597,
     "geom:longitude":-41.903551,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.932631,
     "lbl:longitude":-41.894101,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u0997\u09c1\u09f1\u09be\u099f\u09c7\u09ae\u09bf"
@@ -94,9 +103,12 @@
         102050987
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291950410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"da5bbeeefc52382cf1be3d84bd5bc327",
+    "wof:geomhash":"e403ca2c174cb5bec077cac5c4767304",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404551417,
-    "wof:lastmodified":1577837861,
+    "wof:lastmodified":1695878716,
     "wof:name":"Iguatemi",
     "wof:parent_id":102050987,
     "wof:placetype":"localadmin",

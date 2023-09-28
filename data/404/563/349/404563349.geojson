@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017648,
-    "geom:area_square_m":190480200.943673,
+    "geom:area_square_m":190480200.943716,
     "geom:bbox":"-50.9701281051,-29.3131258115,-50.8342236099,-29.1162667038",
     "geom:latitude":-29.204119,
     "geom:longitude":-50.904785,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.202268,
     "lbl:longitude":-50.906119,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Oliva"
@@ -112,9 +121,12 @@
         102059251
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430510835"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6241c22f568961b5a2e5b08f72f6e996",
+    "wof:geomhash":"c6d905199ce65eea918bf31e6ac707e7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +138,7 @@
         }
     ],
     "wof:id":404563349,
-    "wof:lastmodified":1577827732,
+    "wof:lastmodified":1695878192,
     "wof:name":"Oliva",
     "wof:parent_id":102059251,
     "wof:placetype":"localadmin",

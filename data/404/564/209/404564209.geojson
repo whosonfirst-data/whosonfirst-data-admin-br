@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022393,
-    "geom:area_square_m":244638230.061734,
+    "geom:area_square_m":244638230.06176,
     "geom:bbox":"-55.233477,-28.037115,-55.043802,-27.842232",
     "geom:latitude":-27.931922,
     "geom:longitude":-55.129552,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.948676,
     "lbl:longitude":-55.131355,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09b0\u09cd\u099f\u09cb \u0995\u09cd\u09b8\u09be\u09ad\u09bf\u09af\u09bc\u09c7\u09b0"
@@ -93,19 +102,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682015,
         102191577,
         85633009,
-        102059777,
         1511777409,
-        85682015
+        102059777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431510705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102059777
     ],
     "wof:country":"BR",
-    "wof:geomhash":"42d19808faf1eb86e47c62ab522ae6ef",
+    "wof:geomhash":"9e064370a36b8b4ff2b7d6b06bf65bea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404564209,
-    "wof:lastmodified":1608033358,
+    "wof:lastmodified":1695878817,
     "wof:name":"Porto Xavier",
     "wof:parent_id":102059777,
     "wof:placetype":"localadmin",

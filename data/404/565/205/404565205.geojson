@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00839,
-    "geom:area_square_m":92559085.9965,
+    "geom:area_square_m":92559085.996476,
     "geom:bbox":"-53.696738,-26.89647,-53.545774,-26.808911",
     "geom:latitude":-26.856536,
     "geom:longitude":-53.617868,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.852455,
     "lbl:longitude":-53.610351,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b2\u09ae\u09cb\u09a8\u09cd\u099f\u09c7"
@@ -108,19 +117,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060263,
         1511777409,
-        85682021
+        102060263
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420215605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060263
     ],
     "wof:country":"BR",
-    "wof:geomhash":"d07e950caeda157f623a466440175ced",
+    "wof:geomhash":"ecf8a903bbbe0d56b33217d9c09ab9c3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":404565205,
-    "wof:lastmodified":1608034278,
+    "wof:lastmodified":1695878820,
     "wof:name":"Belmonte",
     "wof:parent_id":102060263,
     "wof:placetype":"localadmin",

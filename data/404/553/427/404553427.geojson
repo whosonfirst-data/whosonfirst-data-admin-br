@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045548,
-    "geom:area_square_m":561184155.690049,
+    "geom:area_square_m":561184155.690112,
     "geom:bbox":"-40.1973949814,-5.08160526777,-39.8923494061,-4.71788757981",
     "geom:latitude":-4.85795,
     "geom:longitude":-40.04336,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.7992,
     "lbl:longitude":-40.028451,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u09b8\u09c7\u09a8\u09b9\u09cb\u09b0\u09cd \u099f\u09be\u09ac\u09cb\u09b8\u09be"
@@ -88,9 +97,12 @@
         102051661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230860905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cd42fe630524f11876b56be0f4611688",
+    "wof:geomhash":"f219e17cc7d61c7740246d2d101f1f0d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404553427,
-    "wof:lastmodified":1577837802,
+    "wof:lastmodified":1695878701,
     "wof:name":"Monsenhor Tabosa",
     "wof:parent_id":102051661,
     "wof:placetype":"localadmin",

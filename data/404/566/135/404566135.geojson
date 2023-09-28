@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042184,
-    "geom:area_square_m":479707204.495085,
+    "geom:area_square_m":479707204.494961,
     "geom:bbox":"-46.716452,-23.261602,-46.430915,-22.997472",
     "geom:latitude":-23.123262,
     "geom:longitude":-46.586788,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.114989,
     "lbl:longitude":-46.596505,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u062a\u064a\u0628\u0627\u064a\u0627"
@@ -105,19 +114,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061097,
         1511777411,
-        85682041
+        102061097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350410705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061097
     ],
     "wof:country":"BR",
-    "wof:geomhash":"5ddded7bbf54f32cd9715f1edeb37702",
+    "wof:geomhash":"4bb043ead3ebfef40e8fff31d71ca4e8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":404566135,
-    "wof:lastmodified":1608030648,
+    "wof:lastmodified":1695878780,
     "wof:name":"Atibaia",
     "wof:parent_id":102061097,
     "wof:placetype":"localadmin",

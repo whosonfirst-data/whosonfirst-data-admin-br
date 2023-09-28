@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010235,
-    "geom:area_square_m":124873805.433107,
+    "geom:area_square_m":124873805.433221,
     "geom:bbox":"-36.3893630755,-9.46457509788,-36.2795015501,-9.28463176003",
     "geom:latitude":-9.371372,
     "geom:longitude":-36.333836,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.366813,
     "lbl:longitude":-36.328426,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050285
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"270940010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"21ba23b61c9ed371fbc44db001f45bf5",
+    "wof:geomhash":"63f8c4ba667a78f98e9d2d1f6123c1bf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550219,
-    "wof:lastmodified":1577837894,
+    "wof:lastmodified":1695878724,
     "wof:name":"Anel",
     "wof:parent_id":102050285,
     "wof:placetype":"localadmin",

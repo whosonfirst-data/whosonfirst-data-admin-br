@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010288,
-    "geom:area_square_m":114674922.874979,
+    "geom:area_square_m":114675167.694597,
     "geom:bbox":"-53.890081,-25.709186,-53.733361,-25.580242",
     "geom:latitude":-25.653043,
     "geom:longitude":-53.803753,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.6539,
     "lbl:longitude":-53.802538,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u0627\u0646\u064a\u0645\u0627"
@@ -103,9 +112,12 @@
         102057551
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410450105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"eac1d45c0b0fa11a13ec70a767247e32",
+    "wof:geomhash":"7784550d3322e3d99210ae2467dd554d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404560997,
-    "wof:lastmodified":1636496413,
+    "wof:lastmodified":1695878855,
     "wof:name":"Capanema",
     "wof:parent_id":102057551,
     "wof:placetype":"localadmin",

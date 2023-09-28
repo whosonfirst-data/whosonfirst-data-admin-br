@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004747,
-    "geom:area_square_m":58520336.64632,
+    "geom:area_square_m":58520336.646338,
     "geom:bbox":"-38.8345542889,-4.5289584363,-38.7420375212,-4.43858853925",
     "geom:latitude":-4.490738,
     "geom:longitude":-38.793483,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.492136,
     "lbl:longitude":-38.805733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a1\u09cd\u09b0\u09be \u09ac\u09cd\u09b0\u09be\u0999\u09cd\u0995\u09be"
@@ -73,9 +82,12 @@
         102051431
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230120823"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0f0e73431707ec770a8acac3541d0a51",
+    "wof:geomhash":"db13b1a2dcbc7ad627367b802b61dae8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404552395,
-    "wof:lastmodified":1577837862,
+    "wof:lastmodified":1695878716,
     "wof:name":"Pedra Branca",
     "wof:parent_id":102051431,
     "wof:placetype":"localadmin",

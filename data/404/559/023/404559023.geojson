@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.455184,
-    "geom:area_square_m":16842735906.058872,
+    "geom:area_square_m":16842735906.060219,
     "geom:bbox":"-54.192496,-21.632071,-52.818053,-19.529528",
     "geom:latitude":-20.598343,
     "geom:longitude":-53.527464,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.630489,
     "lbl:longitude":-53.573847,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681947,
         102191577,
         85633009,
-        102055309,
         1511777413,
-        85681947
+        102055309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500710905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055309
     ],
     "wof:country":"BR",
-    "wof:geomhash":"d38151e78352ad53ae1447bbd84102ec",
+    "wof:geomhash":"aed24e7404c944ed2c79b0760f59e509",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404559023,
-    "wof:lastmodified":1608031109,
+    "wof:lastmodified":1695878787,
     "wof:name":"Ribas Do Rio Pardo",
     "wof:parent_id":102055309,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017997,
-    "geom:area_square_m":212494077.640577,
+    "geom:area_square_m":212494077.640491,
     "geom:bbox":"-42.300393,-17.3669369968,-42.096528,-17.1589269968",
     "geom:latitude":-17.274511,
     "geom:longitude":-42.206502,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.263025,
     "lbl:longitude":-42.230407,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053647
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311610020"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a12bcd3f9e5f898559ae5e9ec40ae6f5",
+    "wof:geomhash":"372512a88fba39fefb7210400ba621a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555883,
-    "wof:lastmodified":1577833417,
+    "wof:lastmodified":1695878614,
     "wof:name":"Granjas Do Norte",
     "wof:parent_id":102053647,
     "wof:placetype":"localadmin",

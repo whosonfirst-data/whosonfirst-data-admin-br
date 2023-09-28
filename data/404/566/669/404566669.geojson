@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003335,
-    "geom:area_square_m":37952735.699597,
+    "geom:area_square_m":37952735.699595,
     "geom:bbox":"-47.9461866414,-23.0812559178,-47.8639798324,-22.9799895701",
     "geom:latitude":-23.031451,
     "geom:longitude":-47.908032,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.037083,
     "lbl:longitude":-47.893713,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352640715"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"053810037f2524d4ebf64c0778de3214",
+    "wof:geomhash":"bc35d0816659c4422d75b99299ca05db",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566669,
-    "wof:lastmodified":1577833383,
+    "wof:lastmodified":1695878600,
     "wof:name":"Maristela",
     "wof:parent_id":102061661,
     "wof:placetype":"localadmin",

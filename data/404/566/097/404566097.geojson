@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080166,
-    "geom:area_square_m":909558818.386392,
+    "geom:area_square_m":909558818.386418,
     "geom:bbox":"-48.656315,-23.635822,-48.281892,-23.261133",
     "geom:latitude":-23.425625,
     "geom:longitude":-48.482612,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.395517,
     "lbl:longitude":-48.495393,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u0997\u09be\u099f\u09c1\u09ac\u09be"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061043,
         1511777411,
-        85682041
+        102061043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350220005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061043
     ],
     "wof:country":"BR",
-    "wof:geomhash":"ac861e2992767a86e382b1814e344714",
+    "wof:geomhash":"b406a938b06f787ac77d4880d1853493",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404566097,
-    "wof:lastmodified":1608030787,
+    "wof:lastmodified":1695878782,
     "wof:name":"Angatuba",
     "wof:parent_id":102061043,
     "wof:placetype":"localadmin",

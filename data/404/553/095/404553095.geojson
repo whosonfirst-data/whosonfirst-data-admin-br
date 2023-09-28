@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030365,
-    "geom:area_square_m":374663411.173571,
+    "geom:area_square_m":374663411.173504,
     "geom:bbox":"-40.0181798617,-3.83305389546,-39.641869944,-3.61847135798",
     "geom:latitude":-3.761305,
     "geom:longitude":-39.825184,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.770725,
     "lbl:longitude":-39.843558,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09b0\u09be\u0989\u0995\u09c1\u09ac\u09be"
@@ -79,9 +88,12 @@
         102051589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230610805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"aa054df866cc4e2e85ae6797ca54115b",
+    "wof:geomhash":"1bf30fc394179076a535a52d3cdc7848",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404553095,
-    "wof:lastmodified":1577837899,
+    "wof:lastmodified":1695878725,
     "wof:name":"Irau\u00e7uba",
     "wof:parent_id":102051589,
     "wof:placetype":"localadmin",

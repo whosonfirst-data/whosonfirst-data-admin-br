@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037629,
-    "geom:area_square_m":439634295.396062,
+    "geom:area_square_m":439634295.396143,
     "geom:bbox":"-40.9643115796,-19.2502144437,-40.6550526668,-18.9944668704",
     "geom:latitude":-19.116343,
     "geom:longitude":-40.794788,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.085786,
     "lbl:longitude":-40.779511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u099c\u09bf\u09a8\u09b9\u09be"
@@ -97,9 +106,12 @@
         102051937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320400515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9a2667c4210686411d726c66504d4c14",
+    "wof:geomhash":"310f32450aaf7cb0d6c733025380f271",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404554543,
-    "wof:lastmodified":1577833021,
+    "wof:lastmodified":1695878488,
     "wof:name":"Lajinha",
     "wof:parent_id":102051937,
     "wof:placetype":"localadmin",

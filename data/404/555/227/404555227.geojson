@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032588,
-    "geom:area_square_m":373466813.888234,
+    "geom:area_square_m":373466813.888232,
     "geom:bbox":"-46.7234430202,-22.1555129967,-46.4272,-21.9254759967",
     "geom:latitude":-22.05457,
     "geom:longitude":-46.560372,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.060873,
     "lbl:longitude":-46.55818,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u09a1\u09cd\u09b0\u09be\u09a1\u09be\u09b8"
@@ -103,9 +112,12 @@
         102053429
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310260505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cd08f31c71495b5ef57cce4043096f81",
+    "wof:geomhash":"55443e83ccc731a16299e0ca8c9ca719",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404555227,
-    "wof:lastmodified":1577832893,
+    "wof:lastmodified":1695878446,
     "wof:name":"Andradas",
     "wof:parent_id":102053429,
     "wof:placetype":"localadmin",

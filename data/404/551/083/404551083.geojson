@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044081,
-    "geom:area_square_m":529210015.782802,
+    "geom:area_square_m":529210015.782953,
     "geom:bbox":"-39.40078,-13.969332,-38.96679,-13.71754",
     "geom:latitude":-13.856955,
     "geom:longitude":-39.185657,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.824027,
     "lbl:longitude":-39.113372,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u0997\u09cd\u09b0\u09be\u09aa\u09bf\u0989\u09a8\u09be"
@@ -97,12 +106,15 @@
         102050825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291345705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050825
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a9b89ae63c7e18b7b2b1e0a42205ed1a",
+    "wof:geomhash":"94377e9513b6271563294b2b0e882ebc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404551083,
-    "wof:lastmodified":1617130005,
+    "wof:lastmodified":1695878829,
     "wof:name":"Igrapi\u00fana",
     "wof:parent_id":102050825,
     "wof:placetype":"localadmin",

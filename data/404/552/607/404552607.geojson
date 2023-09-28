@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037691,
-    "geom:area_square_m":464795775.909716,
+    "geom:area_square_m":464795775.909703,
     "geom:bbox":"-39.3099583237,-4.31586440414,-38.9922378373,-4.08123319165",
     "geom:latitude":-4.209486,
     "geom:longitude":-39.155924,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.216084,
     "lbl:longitude":-39.158305,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09bf\u09a1\u09be\u09a1\u09c7"
@@ -85,9 +94,12 @@
         102051481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230300605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0cda2f35005c4fd83266ff3025bc7aba",
+    "wof:geomhash":"c88f04733bd1074f9a3f73208760aa9e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404552607,
-    "wof:lastmodified":1577837781,
+    "wof:lastmodified":1695878696,
     "wof:name":"Caridade",
     "wof:parent_id":102051481,
     "wof:placetype":"localadmin",

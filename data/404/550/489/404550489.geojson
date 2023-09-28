@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017281,
-    "geom:area_square_m":207017693.000917,
+    "geom:area_square_m":207017693.000932,
     "geom:bbox":"-39.696571684,-14.4175280378,-39.460652876,-14.2670052769",
     "geom:latitude":-14.35149,
     "geom:longitude":-39.584124,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.350842,
     "lbl:longitude":-39.601975,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290240115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2dac13ab31a74846aedb0a39948e4dc1",
+    "wof:geomhash":"d4703ee4d0f80e5e5828c0a002a8f880",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550489,
-    "wof:lastmodified":1577837715,
+    "wof:lastmodified":1695878681,
     "wof:name":"Po\u00e7o Central",
     "wof:parent_id":102050529,
     "wof:placetype":"localadmin",

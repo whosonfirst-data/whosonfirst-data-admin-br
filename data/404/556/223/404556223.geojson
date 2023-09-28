@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015063,
-    "geom:area_square_m":176435073.655451,
+    "geom:area_square_m":176435073.655454,
     "geom:bbox":"-41.59619,-18.8182729971,-41.49514,-18.5815119971",
     "geom:latitude":-18.694409,
     "geom:longitude":-41.547718,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.698997,
     "lbl:longitude":-41.54368,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053801
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312210810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0304c37461861dd145852ef6e2735db3",
+    "wof:geomhash":"c717e91cd386bf738d0b8e4b9be4116e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556223,
-    "wof:lastmodified":1577832763,
+    "wof:lastmodified":1695878398,
     "wof:name":"Central De Santa Helena",
     "wof:parent_id":102053801,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005591,
-    "geom:area_square_m":63755377.812023,
+    "geom:area_square_m":63755377.812008,
     "geom:bbox":"-46.8846808786,-22.796156069,-46.7773162616,-22.6770167021",
     "geom:latitude":-22.738591,
     "geom:longitude":-46.83091,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.738546,
     "lbl:longitude":-46.827197,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061037
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350190510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3452d2c7be4938eb266ef374753e0a30",
+    "wof:geomhash":"be22d69c3a848bb4a733427512e27d7f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566091,
-    "wof:lastmodified":1577832632,
+    "wof:lastmodified":1695878351,
     "wof:name":"Arcadas",
     "wof:parent_id":102061037,
     "wof:placetype":"localadmin",

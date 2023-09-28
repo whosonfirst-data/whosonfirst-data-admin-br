@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017157,
-    "geom:area_square_m":188971584.081124,
+    "geom:area_square_m":188971584.080946,
     "geom:bbox":"-52.1272359739,-27.1439588446,-51.9922020606,-26.9411133665",
     "geom:latitude":-27.031312,
     "geom:longitude":-52.052125,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.030289,
     "lbl:longitude":-52.058887,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420985405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"228f9c21291785f33e595251398ba685",
+    "wof:geomhash":"1d2753eac2927a62bb9fc02a90a4207b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565589,
-    "wof:lastmodified":1577827799,
+    "wof:lastmodified":1695878223,
     "wof:name":"Lind\u00f3ia Do Sul",
     "wof:parent_id":102060519,
     "wof:placetype":"localadmin",

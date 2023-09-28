@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015574,
-    "geom:area_square_m":168906326.888137,
+    "geom:area_square_m":168906326.888128,
     "geom:bbox":"-49.7122715577,-28.7757694837,-49.4736499652,-28.6210239992",
     "geom:latitude":-28.705049,
     "geom:longitude":-49.6068,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.723253,
     "lbl:longitude":-49.606759,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421160310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8067095d3728b7b8706c14431efbcc74",
+    "wof:geomhash":"fe60535403b2895c0e6ae80a6ae155d7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565655,
-    "wof:lastmodified":1577827817,
+    "wof:lastmodified":1695878231,
     "wof:name":"S\u00e3o Bento Baixo",
     "wof:parent_id":102060575,
     "wof:placetype":"localadmin",

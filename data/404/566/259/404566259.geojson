@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001045,
-    "geom:area_square_m":11910813.322796,
+    "geom:area_square_m":11910813.32279,
     "geom:bbox":"-47.162853,-22.871155,-47.129505,-22.81997",
     "geom:latitude":-22.847019,
     "geom:longitude":-47.145636,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.850251,
     "lbl:longitude":-47.144293,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102061235
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350950220"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101956075
     ],
     "wof:country":"BR",
-    "wof:geomhash":"6ecd55e637188745e8b9b525c8704b13",
+    "wof:geomhash":"8b3aa554354887e8389b0283cd42b507",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404566259,
-    "wof:lastmodified":1617131436,
+    "wof:lastmodified":1695878850,
     "wof:name":"Nova Aparecida",
     "wof:parent_id":102061235,
     "wof:placetype":"localadmin",

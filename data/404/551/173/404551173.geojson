@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041911,
-    "geom:area_square_m":502237481.267995,
+    "geom:area_square_m":502237481.267896,
     "geom:bbox":"-39.987836367,-14.38755238,-39.696571684,-14.127541575",
     "geom:latitude":-14.275042,
     "geom:longitude":-39.867279,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.275279,
     "lbl:longitude":-39.877201,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u0997\u09bf\u09ac\u09be"
@@ -94,9 +103,12 @@
         102050869
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291520505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f3b837b6a4c48d7d203c97c78ad10cbe",
+    "wof:geomhash":"730588b24797874604d4b1c54f988562",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404551173,
-    "wof:lastmodified":1577837683,
+    "wof:lastmodified":1695878673,
     "wof:name":"Itagib\u00e1",
     "wof:parent_id":102050869,
     "wof:placetype":"localadmin",

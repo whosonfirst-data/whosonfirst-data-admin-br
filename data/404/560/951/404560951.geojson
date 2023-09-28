@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02424,
-    "geom:area_square_m":272325718.939042,
+    "geom:area_square_m":272325718.9391,
     "geom:bbox":"-53.45914,-24.808324,-53.235951,-24.571738",
     "geom:latitude":-24.692427,
     "geom:longitude":-53.36392,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.69374,
     "lbl:longitude":-53.371346,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cafel\u00e2ndia"
@@ -57,19 +66,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681983,
         102191577,
         85633009,
-        102057513,
         1511777409,
-        85681983
+        102057513
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410345305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102057513
     ],
     "wof:country":"BR",
-    "wof:geomhash":"ad89c0830102d59759d3a202ca3b5522",
+    "wof:geomhash":"01d9246a774372f5041dfc9bbf7c4ee9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404560951,
-    "wof:lastmodified":1608029860,
+    "wof:lastmodified":1695878771,
     "wof:name":"Cafel\u00e2ndia",
     "wof:parent_id":102057513,
     "wof:placetype":"localadmin",

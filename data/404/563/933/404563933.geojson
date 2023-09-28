@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003295,
-    "geom:area_square_m":36129526.545656,
+    "geom:area_square_m":36129526.545655,
     "geom:bbox":"-53.756432519,-27.5513932713,-53.6599816909,-27.4828255306",
     "geom:latitude":-27.515592,
     "geom:longitude":-53.702053,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.506803,
     "lbl:longitude":-53.702779,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09bf\u09b0\u09be\u0997\u09c1\u09f1\u09be\u0987"
@@ -97,9 +106,12 @@
         102059609
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431230205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bc1f0b230315dcae9baefd30b903df80",
+    "wof:geomhash":"d6d0d2c9cce172c20af4c29bb7bd70fa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404563933,
-    "wof:lastmodified":1577827995,
+    "wof:lastmodified":1695878314,
     "wof:name":"Miragua\u00ed",
     "wof:parent_id":102059609,
     "wof:placetype":"localadmin",

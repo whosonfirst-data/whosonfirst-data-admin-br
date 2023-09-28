@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039752,
-    "geom:area_square_m":450895759.51916,
+    "geom:area_square_m":450895759.519217,
     "geom:bbox":"-47.570494,-23.588905,-47.303087,-23.350829",
     "geom:latitude":-23.464522,
     "geom:longitude":-47.446782,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.44106,
     "lbl:longitude":-47.449304,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u0648\u0643\u0627\u0628\u0627"
@@ -157,12 +166,15 @@
         102062299
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355220505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102062299
     ],
     "wof:country":"BR",
-    "wof:geomhash":"69b3541ea891d7e031fd903b943ccda6",
+    "wof:geomhash":"d254fc99efb3d35db33a581ffd8125c8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -174,7 +186,7 @@
         }
     ],
     "wof:id":404567517,
-    "wof:lastmodified":1636496417,
+    "wof:lastmodified":1695878856,
     "wof:name":"Sorocaba",
     "wof:parent_id":102062299,
     "wof:placetype":"localadmin",

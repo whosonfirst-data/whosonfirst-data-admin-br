@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017474,
-    "geom:area_square_m":192269548.727966,
+    "geom:area_square_m":192269548.728004,
     "geom:bbox":"-51.890739,-27.209557,-51.649036,-27.070936",
     "geom:latitude":-27.143417,
     "geom:longitude":-51.767608,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.153645,
     "lbl:longitude":-51.759353,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u09ac\u09cb\u09b0\u09be"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060481,
         1511777409,
-        85682021
+        102060481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420860905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060481
     ],
     "wof:country":"BR",
-    "wof:geomhash":"5ce85381824223a28f4eb877d5503709",
+    "wof:geomhash":"818647f9f16cf835c8657548c09ce555",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404565537,
-    "wof:lastmodified":1608034339,
+    "wof:lastmodified":1695878822,
     "wof:name":"Jabor\u00e1",
     "wof:parent_id":102060481,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.225108,
-    "geom:area_square_m":2635640811.107182,
+    "geom:area_square_m":2635640811.10736,
     "geom:bbox":"-51.9244196176,-19.1064135803,-51.0142407909,-18.4695932191",
     "geom:latitude":-18.758971,
     "geom:longitude":-51.458204,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.735028,
     "lbl:longitude":-51.451143,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u062a\u0627\u0631\u0648\u0645\u0627"
@@ -100,9 +109,12 @@
         102052301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"521130505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"60e0bf090b922abf39d7d9e852f20b97",
+    "wof:geomhash":"eee698fd4470986591b00a115fe4ad02",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404554829,
-    "wof:lastmodified":1577836179,
+    "wof:lastmodified":1695878650,
     "wof:name":"Itarum\u00e3",
     "wof:parent_id":102052301,
     "wof:placetype":"localadmin",

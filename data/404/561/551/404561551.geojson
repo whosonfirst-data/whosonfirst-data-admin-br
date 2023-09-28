@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01026,
-    "geom:area_square_m":115468166.636763,
+    "geom:area_square_m":115468166.636764,
     "geom:bbox":"-54.0148102121,-24.5275278832,-53.8541673314,-24.414339541",
     "geom:latitude":-24.470019,
     "geom:longitude":-53.931818,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.467443,
     "lbl:longitude":-53.939762,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u09b8\u09be\u09a8\u09cd\u099f\u09be \u09b0\u09cb\u09b8\u09be"
@@ -94,9 +103,12 @@
         102057943
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411722205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b165af918b70e5959f9a7b0e2ab5c6a5",
+    "wof:geomhash":"8fcf15a790e6ed25507de7d259f90fee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404561551,
-    "wof:lastmodified":1577827785,
+    "wof:lastmodified":1695878217,
     "wof:name":"Nova Santa Rosa",
     "wof:parent_id":102057943,
     "wof:placetype":"localadmin",

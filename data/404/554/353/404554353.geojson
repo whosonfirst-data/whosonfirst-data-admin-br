@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005409,
-    "geom:area_square_m":63191021.552422,
+    "geom:area_square_m":63191021.552435,
     "geom:bbox":"-40.5101951097,-19.1824466875,-40.38717604,-19.0996340171",
     "geom:latitude":-19.13821,
     "geom:longitude":-40.461166,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.140252,
     "lbl:longitude":-40.457026,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Morello"
@@ -58,9 +67,12 @@
         102051877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320225613"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f0aa3e1c2bca8aee344b1fde029ddb9d",
+    "wof:geomhash":"d8d32d4db27ccd83c303d1ad38056a3a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":404554353,
-    "wof:lastmodified":1577833308,
+    "wof:lastmodified":1695878578,
     "wof:name":"Morello",
     "wof:parent_id":102051877,
     "wof:placetype":"localadmin",

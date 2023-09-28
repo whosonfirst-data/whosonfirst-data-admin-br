@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012137,
-    "geom:area_square_m":142309450.782449,
+    "geom:area_square_m":142309450.78248,
     "geom:bbox":"-42.708237,-18.602402,-42.595367,-18.416508",
     "geom:latitude":-18.516132,
     "geom:longitude":-42.648697,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.53683,
     "lbl:longitude":-42.653396,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cantagalo"
@@ -66,19 +75,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053359,
         1511777411,
-        85681941
+        102053359
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311205905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053359
     ],
     "wof:country":"BR",
-    "wof:geomhash":"e2a8849fdb8f33e33011009f273b5f58",
+    "wof:geomhash":"949460d95067dd1a969966d069aea7ab",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404555683,
-    "wof:lastmodified":1608032678,
+    "wof:lastmodified":1695878813,
     "wof:name":"Cantagalo",
     "wof:parent_id":102053359,
     "wof:placetype":"localadmin",

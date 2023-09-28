@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038234,
-    "geom:area_square_m":442996528.173248,
+    "geom:area_square_m":442996528.172876,
     "geom:bbox":"-49.92444,-20.590988,-49.612471,-20.260444",
     "geom:latitude":-20.442979,
     "geom:longitude":-49.774718,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.446359,
     "lbl:longitude":-49.772415,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cosmorama"
@@ -39,19 +48,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061313,
         1511777411,
-        85682041
+        102061313
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351290205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061313
     ],
     "wof:country":"BR",
-    "wof:geomhash":"8b868f721fafc69c6bbe475e91ff23d9",
+    "wof:geomhash":"6813c72123162ed52429921852e46366",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":404566347,
-    "wof:lastmodified":1608030837,
+    "wof:lastmodified":1695878783,
     "wof:name":"Cosmorama",
     "wof:parent_id":102061313,
     "wof:placetype":"localadmin",

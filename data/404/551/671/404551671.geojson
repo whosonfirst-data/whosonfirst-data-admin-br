@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063061,
-    "geom:area_square_m":756391533.061381,
+    "geom:area_square_m":756391533.0614,
     "geom:bbox":"-43.487663346,-14.1982393266,-43.0938653756,-13.8934928954",
     "geom:latitude":-14.063461,
     "geom:longitude":-43.306566,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.084217,
     "lbl:longitude":-43.287168,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292340715"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"817b498d57922722c5f72cf7ae9a6961",
+    "wof:geomhash":"73b75f61e52d4caa8d4269abff139dad",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551671,
-    "wof:lastmodified":1577837771,
+    "wof:lastmodified":1695878694,
     "wof:name":"Espraiado",
     "wof:parent_id":102051109,
     "wof:placetype":"localadmin",

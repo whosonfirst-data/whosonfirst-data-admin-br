@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027267,
-    "geom:area_square_m":312151111.052486,
+    "geom:area_square_m":312151111.052487,
     "geom:bbox":"-45.393801,-22.311438,-45.16438,-22.113749",
     "geom:latitude":-22.205665,
     "geom:longitude":-45.289405,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.204388,
     "lbl:longitude":-45.287231,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cristina"
@@ -45,19 +54,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053757,
         1511777411,
-        85681941
+        102053757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312050805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053757
     ],
     "wof:country":"BR",
-    "wof:geomhash":"15e0f0a1c18b8dc693080444b9a15e83",
+    "wof:geomhash":"034bc74b5a4b7bfa5d9cd01d787c04e1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":404556121,
-    "wof:lastmodified":1608029464,
+    "wof:lastmodified":1695878762,
     "wof:name":"Cristina",
     "wof:parent_id":102053757,
     "wof:placetype":"localadmin",

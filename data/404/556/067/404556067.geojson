@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046928,
-    "geom:area_square_m":551410150.335573,
+    "geom:area_square_m":551410150.335576,
     "geom:bbox":"-47.2848480917,-18.3102419972,-46.919955,-17.9232779972",
     "geom:latitude":-18.147969,
     "geom:longitude":-47.129847,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.127733,
     "lbl:longitude":-47.147759,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Alegre"
@@ -55,9 +64,12 @@
         102053725
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311930210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b402821a4515e13a45493bf8d3a78043",
+    "wof:geomhash":"d59806e502b435e8008ac084559cc0f8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":404556067,
-    "wof:lastmodified":1577832602,
+    "wof:lastmodified":1695878338,
     "wof:name":"Alegre",
     "wof:parent_id":102053725,
     "wof:placetype":"localadmin",

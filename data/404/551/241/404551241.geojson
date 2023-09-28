@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026189,
-    "geom:area_square_m":314907082.907695,
+    "geom:area_square_m":314907082.907554,
     "geom:bbox":"-40.234658,-13.671748,-40.071694,-13.337231",
     "geom:latitude":-13.48416,
     "geom:longitude":-40.150251,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.473464,
     "lbl:longitude":-40.135447,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09bf\u09b0\u09c1\u0995\u09c1"
@@ -91,12 +100,15 @@
         102050911
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291690605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050911
     ],
     "wof:country":"BR",
-    "wof:geomhash":"c07e61cb223f59386f8a964198278e2f",
+    "wof:geomhash":"490f10724035fb12dda3d2fc9be0655b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404551241,
-    "wof:lastmodified":1617130357,
+    "wof:lastmodified":1695878835,
     "wof:name":"Itiru\u00e7u",
     "wof:parent_id":102050911,
     "wof:placetype":"localadmin",

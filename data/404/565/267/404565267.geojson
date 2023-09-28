@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043357,
-    "geom:area_square_m":479999316.086979,
+    "geom:area_square_m":479999316.086967,
     "geom:bbox":"-53.292022,-26.578859,-52.937659,-26.344385",
     "geom:latitude":-26.450292,
     "geom:longitude":-53.130041,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.455009,
     "lbl:longitude":-53.132745,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09cd\u09aa\u09cb \u09af\u09bc\u09c7\u09b0\u09c7"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060311,
         1511777409,
-        85682021
+        102060311
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420350105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060311
     ],
     "wof:country":"BR",
-    "wof:geomhash":"d92d66fa300c7fdb513de0b0caec7911",
+    "wof:geomhash":"0e6614239461db368356e13d3070d24f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404565267,
-    "wof:lastmodified":1608034263,
+    "wof:lastmodified":1695878820,
     "wof:name":"Campo Er\u00ea",
     "wof:parent_id":102060311,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029293,
-    "geom:area_square_m":333579980.208761,
+    "geom:area_square_m":333579980.208774,
     "geom:bbox":"-45.932399,-23.045411,-45.666227,-22.829387",
     "geom:latitude":-22.936565,
     "geom:longitude":-45.804286,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.930343,
     "lbl:longitude":-45.802288,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u062a\u064a\u0631\u0648 \u0644\u0648\u0628\u0627\u062a\u0648"
@@ -72,19 +81,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061787,
         1511777411,
-        85682041
+        102061787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"353170405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061787
     ],
     "wof:country":"BR",
-    "wof:geomhash":"e13399b661323d6d5e66d082ef75cc17",
+    "wof:geomhash":"1179bea16731327df85d5c2dc1879e6c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404566835,
-    "wof:lastmodified":1608030770,
+    "wof:lastmodified":1695878782,
     "wof:name":"Monteiro Lobato",
     "wof:parent_id":102061787,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012373,
-    "geom:area_square_m":143248553.589979,
+    "geom:area_square_m":143248553.589918,
     "geom:bbox":"-44.180162,-20.6255359969,-44.021682,-20.4839489969",
     "geom:latitude":-20.555246,
     "geom:longitude":-44.090259,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.556356,
     "lbl:longitude":-44.089055,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054153
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313540710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6c96062565b0c2ef4b1cc7ab95e28fa6",
+    "wof:geomhash":"72b199dfe77b3b9db0ed07eb3b82a972",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556871,
-    "wof:lastmodified":1577833416,
+    "wof:lastmodified":1695878613,
     "wof:name":"Bituri",
     "wof:parent_id":102054153,
     "wof:placetype":"localadmin",

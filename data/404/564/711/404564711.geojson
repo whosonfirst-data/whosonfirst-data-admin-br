@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009366,
-    "geom:area_square_m":101688270.274308,
+    "geom:area_square_m":101688270.274291,
     "geom:bbox":"-54.7364718067,-28.655945262,-54.5819939897,-28.5424812629",
     "geom:latitude":-28.594333,
     "geom:longitude":-54.657569,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.592749,
     "lbl:longitude":-54.656373,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mato Grande"
@@ -43,9 +52,12 @@
         102059945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431915820"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"929d783395ee112f086e6b9286877935",
+    "wof:geomhash":"5fe3f2602f47c240d2172dddaeba8845",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":404564711,
-    "wof:lastmodified":1577827945,
+    "wof:lastmodified":1695878291,
     "wof:name":"Mato Grande",
     "wof:parent_id":102059945,
     "wof:placetype":"localadmin",

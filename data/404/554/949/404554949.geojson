@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026894,
-    "geom:area_square_m":320400297.760334,
+    "geom:area_square_m":320400297.760438,
     "geom:bbox":"-49.7337878494,-15.6981417007,-49.5395594017,-15.4026886906",
     "geom:latitude":-15.533176,
     "geom:longitude":-49.638418,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.464627,
     "lbl:longitude":-49.636937,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0989\u09b0\u09c1\u09f1\u09be\u09a8\u09be"
@@ -94,9 +103,12 @@
         102052745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"522170005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"70a583922e7e61043c4d23c2df150823",
+    "wof:geomhash":"0813bc345bacce55b8a08202a70ac42a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404554949,
-    "wof:lastmodified":1577836185,
+    "wof:lastmodified":1695878653,
     "wof:name":"Uruana",
     "wof:parent_id":102052745,
     "wof:placetype":"localadmin",

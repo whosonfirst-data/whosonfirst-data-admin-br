@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020439,
-    "geom:area_square_m":250801902.081336,
+    "geom:area_square_m":250801902.081326,
     "geom:bbox":"-40.1008220013,-7.15061321324,-39.8833252865,-6.98343910232",
     "geom:latitude":-7.07694,
     "geom:longitude":-40.009239,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.079079,
     "lbl:longitude":-40.009139,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u099f\u09c7\u09a8\u0997\u09bf"
@@ -88,9 +97,12 @@
         102051727
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231120705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d76d0e6b88398b30a26318a361477a20",
+    "wof:geomhash":"7eeba667ca56cb9718f08d4a5359d20b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404553669,
-    "wof:lastmodified":1577837931,
+    "wof:lastmodified":1695878734,
     "wof:name":"Potengi",
     "wof:parent_id":102051727,
     "wof:placetype":"localadmin",

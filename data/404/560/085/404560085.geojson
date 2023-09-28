@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00881,
-    "geom:area_square_m":107960735.531133,
+    "geom:area_square_m":107960735.531118,
     "geom:bbox":"-35.7751859831,-7.72138733421,-35.6213112746,-7.60845111323",
     "geom:latitude":-7.668,
     "geom:longitude":-35.697104,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.669996,
     "lbl:longitude":-35.678062,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0989\u09ae\u09ac\u09c1\u099c\u09af\u09bc\u09c7\u0987\u09b0\u09cb"
@@ -88,9 +97,12 @@
         102056477
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"251700105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1b03a1df4644707cc52acb05932c7a96",
+    "wof:geomhash":"32b8399ad45d2111bf73e98489e979a5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404560085,
-    "wof:lastmodified":1577837898,
+    "wof:lastmodified":1695878725,
     "wof:name":"Umbuzeiro",
     "wof:parent_id":102056477,
     "wof:placetype":"localadmin",

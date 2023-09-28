@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.228007,
-    "geom:area_square_m":2747143537.575387,
+    "geom:area_square_m":2747143537.57498,
     "geom:bbox":"-55.4694748612,-13.4249220625,-54.9180404688,-12.6402404854",
     "geom:latitude":-12.99352,
     "geom:longitude":-55.184377,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.893145,
     "lbl:longitude":-55.203018,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u0989\u09ac\u09bf\u09b0\u09be\u099f\u09be"
@@ -94,9 +103,12 @@
         102055523
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510624005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ada938e8327f09a81b4b07d35d2931f1",
+    "wof:geomhash":"b8d2b03dcc723e7a5c65598ab02e12dc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404559293,
-    "wof:lastmodified":1577836110,
+    "wof:lastmodified":1695878635,
     "wof:name":"Nova Ubirat\u00e3",
     "wof:parent_id":102055523,
     "wof:placetype":"localadmin",

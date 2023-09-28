@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018062,
-    "geom:area_square_m":209456255.564104,
+    "geom:area_square_m":209456255.56405,
     "geom:bbox":"-40.7885985011,-20.4057786498,-40.5992515062,-20.1877362549",
     "geom:latitude":-20.310078,
     "geom:longitude":-40.684915,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.342202,
     "lbl:longitude":-40.686335,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u09ae\u09bf\u09a8\u0997\u09cb\u09b8 \u09ae\u09be\u09b0\u09cd\u099f\u09bf\u09a8\u09cd\u09b8"
@@ -100,9 +109,12 @@
         102051867
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320190205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a973fab008a37b1cb64040f8ab972add",
+    "wof:geomhash":"d5ab5dbdf53c6800df4f1d8294a9f499",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404554301,
-    "wof:lastmodified":1577832813,
+    "wof:lastmodified":1695878416,
     "wof:name":"Domingos Martins",
     "wof:parent_id":102051867,
     "wof:placetype":"localadmin",

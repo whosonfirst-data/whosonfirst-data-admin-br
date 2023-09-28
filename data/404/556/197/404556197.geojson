@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047396,
-    "geom:area_square_m":558215038.641435,
+    "geom:area_square_m":558215038.641425,
     "geom:bbox":"-43.617341,-17.9515249972,-43.376131,-17.5048369973",
     "geom:latitude":-17.734003,
     "geom:longitude":-43.503974,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.751237,
     "lbl:longitude":-43.535837,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053789
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312160550"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5a0d7201033c6894fe16ec1ebabb0a89",
+    "wof:geomhash":"a5576b5cdc3eeb262af6ffae3c6c6b80",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556197,
-    "wof:lastmodified":1577832740,
+    "wof:lastmodified":1695878389,
     "wof:name":"Senador Mour\u00e3o",
     "wof:parent_id":102053789,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00052,
-    "geom:area_square_m":5898773.801905,
+    "geom:area_square_m":5898773.801902,
     "geom:bbox":"-46.69369,-23.537046,-46.653948,-23.508283",
     "geom:latitude":-23.521253,
     "geom:longitude":-46.673917,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.52378,
     "lbl:longitude":-46.670303,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u09b0\u09be \u09ab\u09c1\u09a8\u09cd\u09a1\u09be"
@@ -91,9 +100,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030806"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"aca3265262954f134df96f35b63832af",
+    "wof:geomhash":"bcaef5baf077edb7357205dc8e600ff3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404567273,
-    "wof:lastmodified":1577832595,
+    "wof:lastmodified":1695878336,
     "wof:name":"Barra Funda",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

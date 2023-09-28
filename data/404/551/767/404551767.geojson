@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041139,
-    "geom:area_square_m":499425699.545076,
+    "geom:area_square_m":499425699.544784,
     "geom:bbox":"-40.282579,-11.158199,-39.98709,-10.816342",
     "geom:latitude":-10.95668,
     "geom:longitude":-40.119473,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.937104,
     "lbl:longitude":-40.1173,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u09a8\u099f\u09cb \u09a8\u09cb\u09ad\u09cb"
@@ -82,12 +91,15 @@
         102051159
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292525305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102051159
     ],
     "wof:country":"BR",
-    "wof:geomhash":"c820628d53ac961129a4d6700a22cf0e",
+    "wof:geomhash":"844d4cceb48e1c2832549495c3c4b0ac",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404551767,
-    "wof:lastmodified":1617131385,
+    "wof:lastmodified":1695878848,
     "wof:name":"Ponto Novo",
     "wof:parent_id":102051159,
     "wof:placetype":"localadmin",

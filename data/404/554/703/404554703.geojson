@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025758,
-    "geom:area_square_m":308757101.551252,
+    "geom:area_square_m":308757101.551278,
     "geom:bbox":"-47.9320957842,-14.3335672749,-47.7085221866,-14.0945269196",
     "geom:latitude":-14.206212,
     "geom:longitude":-47.808449,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.20854,
     "lbl:longitude":-47.801178,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "S\u00e3o Jorge"
@@ -76,9 +85,12 @@
         102052015
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"520060525"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"66cadb8f12bf5a541de8a1a89b474150",
+    "wof:geomhash":"ff6276cede1583b0a3acacdea5010537",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404554703,
-    "wof:lastmodified":1577836169,
+    "wof:lastmodified":1695878648,
     "wof:name":"S\u00e3o Jorge",
     "wof:parent_id":102052015,
     "wof:placetype":"localadmin",

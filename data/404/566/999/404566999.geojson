@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005555,
-    "geom:area_square_m":63737455.565378,
+    "geom:area_square_m":63737455.565373,
     "geom:bbox":"-49.4494326619,-21.9408592424,-49.3399826167,-21.8261248967",
     "geom:latitude":-21.880497,
     "geom:longitude":-49.397826,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.884846,
     "lbl:longitude":-49.407779,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"353890720"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"46c15e39fb762504a5f3e35ff2ccf524",
+    "wof:geomhash":"f585c1991d15e54dce82cbfb2a8de2e4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566999,
-    "wof:lastmodified":1577833435,
+    "wof:lastmodified":1695878619,
     "wof:name":"Santo Ant\u00f4nio Da Estiva",
     "wof:parent_id":102061969,
     "wof:placetype":"localadmin",

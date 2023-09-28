@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004453,
-    "geom:area_square_m":51107393.114253,
+    "geom:area_square_m":51107393.114269,
     "geom:bbox":"-42.0255876181,-21.8928591061,-41.8838499285,-21.8030878155",
     "geom:latitude":-21.858923,
     "geom:longitude":-41.971146,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.86188,
     "lbl:longitude":-41.978047,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09c7\u09a8\u09be\u09b8\u09b8\u09c7\u09a8\u09cd\u09b8\u09be"
@@ -94,9 +103,12 @@
         102058457
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330460715"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c14495e119a4d2934d095f114fbb6b34",
+    "wof:geomhash":"29f5f60d1016e6d3d506522c6de2d90e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404562499,
-    "wof:lastmodified":1577832570,
+    "wof:lastmodified":1695878324,
     "wof:name":"Renascen\u00e7a",
     "wof:parent_id":102058457,
     "wof:placetype":"localadmin",

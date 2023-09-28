@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071948,
-    "geom:area_square_m":842399071.000465,
+    "geom:area_square_m":842399071.000512,
     "geom:bbox":"-49.434585,-18.953755,-49.050849,-18.560058",
     "geom:latitude":-18.758137,
     "geom:longitude":-49.27263,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.763869,
     "lbl:longitude":-49.275537,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a8\u09be\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -81,19 +90,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053353,
         1511777411,
-        85681941
+        102053353
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311180405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053353
     ],
     "wof:country":"BR",
-    "wof:geomhash":"c12be7562112dd5056152cda0e8a8df1",
+    "wof:geomhash":"d062537522a44abb88aa4eb10427887f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404555675,
-    "wof:lastmodified":1608032437,
+    "wof:lastmodified":1695878806,
     "wof:name":"Can\u00e1polis",
     "wof:parent_id":102053353,
     "wof:placetype":"localadmin",

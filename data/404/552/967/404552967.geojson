@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006692,
-    "geom:area_square_m":82549058.539688,
+    "geom:area_square_m":82549058.539694,
     "geom:bbox":"-41.0653748751,-3.99611773778,-40.9198010971,-3.93331686888",
     "geom:latitude":-3.963463,
     "geom:longitude":-40.998157,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.961764,
     "lbl:longitude":-40.997224,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051563
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230530807"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dfd403043b83bf16dd1dff0cefe22169",
+    "wof:geomhash":"578dc1cb211ad070a851c6ab35650475",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404552967,
-    "wof:lastmodified":1577837976,
+    "wof:lastmodified":1695878745,
     "wof:name":"Alto Lindo",
     "wof:parent_id":102051563,
     "wof:placetype":"localadmin",

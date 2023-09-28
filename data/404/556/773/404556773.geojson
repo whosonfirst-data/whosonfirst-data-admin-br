@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042815,
-    "geom:area_square_m":497243442.148594,
+    "geom:area_square_m":497243442.148307,
     "geom:bbox":"-44.718151,-20.224406,-44.444987,-19.935697",
     "geom:latitude":-20.07809,
     "geom:longitude":-44.588851,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.067344,
     "lbl:longitude":-44.598145,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u0989\u09a8\u09be"
@@ -96,19 +105,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054111,
         1511777411,
-        85681941
+        102054111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313380805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054111
     ],
     "wof:country":"BR",
-    "wof:geomhash":"d23a4ee4c420509c920b29f0981ce9cc",
+    "wof:geomhash":"32fe3122ee96b77bd839c5c0ebfe621c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404556773,
-    "wof:lastmodified":1608029647,
+    "wof:lastmodified":1695878769,
     "wof:name":"Ita\u00fana",
     "wof:parent_id":102054111,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03292,
-    "geom:area_square_m":344861761.177834,
+    "geom:area_square_m":344861601.598666,
     "geom:bbox":"-53.242375,-32.211614,-52.923676,-32.002634",
     "geom:latitude":-32.092883,
     "geom:longitude":-53.085061,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-32.08501,
     "lbl:longitude":-53.087411,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062f\u0631\u0627\u0631\u064a\u0633"
@@ -106,9 +115,12 @@
         102059095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430130515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8a251e60d17affd2b7227be49afab7b2",
+    "wof:geomhash":"4cb3750941960c0854f0af5101b104de",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404563009,
-    "wof:lastmodified":1636496448,
+    "wof:lastmodified":1695878866,
     "wof:name":"Pedreiras",
     "wof:parent_id":102059095,
     "wof:placetype":"localadmin",

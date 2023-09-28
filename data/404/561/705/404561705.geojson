@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025319,
-    "geom:area_square_m":282816463.370146,
+    "geom:area_square_m":282816463.370175,
     "geom:bbox":"-51.1524457746,-25.5118941007,-50.7817568608,-25.315178203",
     "geom:latitude":-25.395779,
     "geom:longitude":-50.989393,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.413466,
     "lbl:longitude":-51.053802,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058049
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412060615"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"058750811ca10078caa9bc8f6d0a5836",
+    "wof:geomhash":"b13e652db3f4936499cda50966262697",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561705,
-    "wof:lastmodified":1577827813,
+    "wof:lastmodified":1695878229,
     "wof:name":"Patos Velhos",
     "wof:parent_id":102058049,
     "wof:placetype":"localadmin",

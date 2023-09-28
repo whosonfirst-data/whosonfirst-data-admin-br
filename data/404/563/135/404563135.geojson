@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009102,
-    "geom:area_square_m":99754318.44342,
+    "geom:area_square_m":99754318.443447,
     "geom:bbox":"-53.8259760918,-27.6638552164,-53.6767082794,-27.4984889437",
     "geom:latitude":-27.581581,
     "geom:longitude":-53.755077,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.582795,
     "lbl:longitude":-53.760167,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u063a\u0627"
@@ -241,9 +250,12 @@
         102059161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430260005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0f17b379f4465e77187e372e593d944a",
+    "wof:geomhash":"cddad87310b38e188b228483f2f2ef41",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -255,7 +267,7 @@
         }
     ],
     "wof:id":404563135,
-    "wof:lastmodified":1577827908,
+    "wof:lastmodified":1695878275,
     "wof:name":"Braga",
     "wof:parent_id":102059161,
     "wof:placetype":"localadmin",

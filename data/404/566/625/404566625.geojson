@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035158,
-    "geom:area_square_m":405233570.004073,
+    "geom:area_square_m":405233726.942989,
     "geom:bbox":"-48.450489,-21.331781,-48.1622,-21.130397",
     "geom:latitude":-21.227928,
     "geom:longitude":-48.313591,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.241414,
     "lbl:longitude":-48.354015,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0627\u0628\u0648\u062a\u064a\u0643\u0627\u0628\u0627\u0644"
@@ -124,9 +133,12 @@
         102061613
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352430305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2b871dbd4837008f293c761244cef691",
+    "wof:geomhash":"82712c204bba73d1eff2c3b7583e952a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":404566625,
-    "wof:lastmodified":1636496423,
+    "wof:lastmodified":1695878858,
     "wof:name":"Jaboticabal",
     "wof:parent_id":102061613,
     "wof:placetype":"localadmin",

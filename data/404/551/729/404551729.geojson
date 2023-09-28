@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00544,
-    "geom:area_square_m":66093870.278379,
+    "geom:area_square_m":66093870.278408,
     "geom:bbox":"-40.485197627,-10.777666734,-40.398228024,-10.670640841",
     "geom:latitude":-10.721975,
     "geom:longitude":-40.44352,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.722816,
     "lbl:longitude":-40.442871,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051139
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292460315"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"badfc925a42c29aee99a3ea488e62e5f",
+    "wof:geomhash":"4e07d117a21c0e55683b1b83bba30d1b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551729,
-    "wof:lastmodified":1577837793,
+    "wof:lastmodified":1695878699,
     "wof:name":"Carna\u00edba De Baixo",
     "wof:parent_id":102051139,
     "wof:placetype":"localadmin",

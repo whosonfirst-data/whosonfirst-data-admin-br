@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030994,
-    "geom:area_square_m":337510732.804076,
+    "geom:area_square_m":337510732.803985,
     "geom:bbox":"-48.959362069,-28.3612049992,-48.7236437032,-28.1412086345",
     "geom:latitude":-28.276277,
     "geom:longitude":-48.853227,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.286691,
     "lbl:longitude":-48.864925,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ae\u09be\u09b0\u09c1\u0987"
@@ -94,9 +103,12 @@
         102060435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420720505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d19a23e2e5e0ddccd826beb6eb333cbd",
+    "wof:geomhash":"e8c3342c72e914895354ece7ddb1aaf5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404565479,
-    "wof:lastmodified":1577827789,
+    "wof:lastmodified":1695878219,
     "wof:name":"Imaru\u00ed",
     "wof:parent_id":102060435,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111901,
-    "geom:area_square_m":1337725255.156103,
+    "geom:area_square_m":1337725255.156113,
     "geom:bbox":"-48.7617769498,-15.0177509304,-48.3478311955,-14.5677064009",
     "geom:latitude":-14.807198,
     "geom:longitude":-48.572587,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.803279,
     "lbl:longitude":-48.589292,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102052445
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"521460625"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2f112d785fc747bfa3a00c3c992fe770",
+    "wof:geomhash":"9737097d8ba7b7f82a7a266d274e7df6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554885,
-    "wof:lastmodified":1577836148,
+    "wof:lastmodified":1695878643,
     "wof:name":"Vila Taveira",
     "wof:parent_id":102052445,
     "wof:placetype":"localadmin",

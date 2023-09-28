@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029376,
-    "geom:area_square_m":337092620.394524,
+    "geom:area_square_m":337092620.394608,
     "geom:bbox":"-42.932513,-21.9900073483,-42.59382,-21.7702889967",
     "geom:latitude":-21.870055,
     "geom:longitude":-42.767372,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.885023,
     "lbl:longitude":-42.795604,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09c7\u09ae \u09aa\u09be\u09b0\u09be\u0987\u09ac\u09be"
@@ -106,9 +115,12 @@
         102053399
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310150805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9f9fe383d234e301951efe4cfc4fdfad",
+    "wof:geomhash":"c60998a8b43ee45a45b63fbc580d5aaf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404555169,
-    "wof:lastmodified":1577832706,
+    "wof:lastmodified":1695878376,
     "wof:name":"Al\u00e9m Para\u00edba",
     "wof:parent_id":102053399,
     "wof:placetype":"localadmin",

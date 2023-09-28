@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086593,
-    "geom:area_square_m":934962208.561661,
+    "geom:area_square_m":934962325.815586,
     "geom:bbox":"-55.132354,-29.351619,-54.688266,-28.99721",
     "geom:latitude":-29.167917,
     "geom:longitude":-54.899628,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.180993,
     "lbl:longitude":-54.921488,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ady_x_preferred":[
         "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
@@ -523,9 +532,12 @@
         102059873
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431740005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3cfe97acdcf8367f014b0e2c24ed87f1",
+    "wof:geomhash":"c4797d1f770c8d238fc14c2233808c49",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -537,7 +549,7 @@
         }
     ],
     "wof:id":404564461,
-    "wof:lastmodified":1636496447,
+    "wof:lastmodified":1695878866,
     "wof:name":"Santiago",
     "wof:parent_id":102059873,
     "wof:placetype":"localadmin",

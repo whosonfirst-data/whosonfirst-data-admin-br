@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0274,
-    "geom:area_square_m":335830690.720439,
+    "geom:area_square_m":335830690.720407,
     "geom:bbox":"-40.4818354106,-7.72870958861,-40.2863483299,-7.38946584812",
     "geom:latitude":-7.602596,
     "geom:longitude":-40.377984,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.594705,
     "lbl:longitude":-40.360211,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Morais"
@@ -37,9 +46,12 @@
         102056513
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260110215"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"14ab5f3544daa9cb9f49b1a331a1e8f5",
+    "wof:geomhash":"fb662431c6c200e19d2501ce41d4479c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404560147,
-    "wof:lastmodified":1577837673,
+    "wof:lastmodified":1695878671,
     "wof:name":"Morais",
     "wof:parent_id":102056513,
     "wof:placetype":"localadmin",

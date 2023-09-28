@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083816,
-    "geom:area_square_m":987584783.365662,
+    "geom:area_square_m":987584783.365622,
     "geom:bbox":"-40.06228859,-17.8448981066,-39.44398859,-17.453690891",
     "geom:latitude":-17.656533,
     "geom:longitude":-39.732528,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.688387,
     "lbl:longitude":-39.650733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050657
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290690710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0edf967da2119a26a11c495ec1e47bfb",
+    "wof:geomhash":"93034c5da69aef254e0b169317ac19fb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550743,
-    "wof:lastmodified":1577837764,
+    "wof:lastmodified":1695878692,
     "wof:name":"Juerana",
     "wof:parent_id":102050657,
     "wof:placetype":"localadmin",

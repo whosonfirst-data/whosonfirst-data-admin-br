@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008992,
-    "geom:area_square_m":110883784.396414,
+    "geom:area_square_m":110883784.396422,
     "geom:bbox":"-40.689532048,-4.30881593635,-40.553727081,-4.20099786689",
     "geom:latitude":-4.251888,
     "geom:longitude":-40.629251,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.255541,
     "lbl:longitude":-40.636024,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09b0\u09c7\u09b8 \u09ab\u09c7\u09b0\u09cd\u09b0\u09c7\u0987\u09b0\u09be"
@@ -85,9 +94,12 @@
         102051721
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231095105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0a49fa5b0d21d6365654c576c65b32ff",
+    "wof:geomhash":"38fcad1084133e085c119b10683b6ef2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404553647,
-    "wof:lastmodified":1577837635,
+    "wof:lastmodified":1695878661,
     "wof:name":"Pires Ferreira",
     "wof:parent_id":102051721,
     "wof:placetype":"localadmin",

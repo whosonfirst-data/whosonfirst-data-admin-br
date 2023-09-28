@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032447,
-    "geom:area_square_m":400441473.413864,
+    "geom:area_square_m":400441473.413936,
     "geom:bbox":"-40.0708478723,-3.7161118433,-39.8519518315,-3.433217131",
     "geom:latitude":-3.54736,
     "geom:longitude":-39.961025,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.506701,
     "lbl:longitude":-39.959398,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09bf\u09b0\u09be\u0987\u09ae\u09be"
@@ -85,9 +94,12 @@
         102051653
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230837705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dbe8b101edcbf777c22993d74de45e02",
+    "wof:geomhash":"cba212879f9593bb10a98f115115d6d8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404553387,
-    "wof:lastmodified":1577837833,
+    "wof:lastmodified":1695878709,
     "wof:name":"Mira\u00edma",
     "wof:parent_id":102051653,
     "wof:placetype":"localadmin",

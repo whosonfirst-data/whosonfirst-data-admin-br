@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01373,
-    "geom:area_square_m":157056723.374157,
+    "geom:area_square_m":157056723.374186,
     "geom:bbox":"-42.2663336275,-22.4332074168,-42.0993838134,-22.2245102344",
     "geom:latitude":-22.321825,
     "geom:longitude":-42.185924,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.304657,
     "lbl:longitude":-42.194102,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0430"
@@ -106,9 +115,12 @@
         102058385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330240340"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"741587de5dd305984c0b102d5b2140cd",
+    "wof:geomhash":"61bda19e5234ccd76ea76d756ec58fcf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404562329,
-    "wof:lastmodified":1577832605,
+    "wof:lastmodified":1695878339,
     "wof:name":"Sana",
     "wof:parent_id":102058385,
     "wof:placetype":"localadmin",

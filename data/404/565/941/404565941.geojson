@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011565,
-    "geom:area_square_m":127638265.415273,
+    "geom:area_square_m":127638265.41535,
     "geom:bbox":"-49.338462,-26.879574,-49.19921,-26.746012",
     "geom:latitude":-26.807822,
     "geom:longitude":-49.269016,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.809837,
     "lbl:longitude":-49.268985,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09bf\u09ae\u09ac\u09cb"
@@ -91,12 +100,15 @@
         102060791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421820205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060791
     ],
     "wof:country":"BR",
-    "wof:geomhash":"ec086fe56fbfebce75b39498f4b3f917",
+    "wof:geomhash":"e68b63b6b65ebd39e83358d9dfcf6555",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404565941,
-    "wof:lastmodified":1617129935,
+    "wof:lastmodified":1695878827,
     "wof:name":"Timb\u00f3",
     "wof:parent_id":102060791,
     "wof:placetype":"localadmin",

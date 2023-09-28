@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05361,
-    "geom:area_square_m":662024594.315065,
+    "geom:area_square_m":662025003.752911,
     "geom:bbox":"-41.000736,-3.037653,-40.563096,-2.85014",
     "geom:latitude":-2.944323,
     "geom:longitude":-40.789343,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-2.947169,
     "lbl:longitude":-40.789376,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0643\u0627\u0645\u0648\u0643\u064a\u0645"
@@ -124,9 +133,12 @@
         102051471
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230260205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"661e6aa181cf43d06c6a73d8c50ad4e7",
+    "wof:geomhash":"2d413fb6b83fe3988f7963a392477c6f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":404552561,
-    "wof:lastmodified":1642551824,
+    "wof:lastmodified":1695878871,
     "wof:name":"Camocim",
     "wof:parent_id":102051471,
     "wof:placetype":"localadmin",

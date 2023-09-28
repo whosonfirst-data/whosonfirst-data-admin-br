@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001015,
-    "geom:area_square_m":11571786.396147,
+    "geom:area_square_m":11571786.396149,
     "geom:bbox":"-43.410708,-22.801911,-43.360995,-22.762491",
     "geom:latitude":-22.780933,
     "geom:longitude":-43.383426,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.77805,
     "lbl:longitude":-43.381738,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102058471
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330510910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101953275
     ],
     "wof:country":"BR",
-    "wof:geomhash":"794357ffae6789887723fcd453c91543",
+    "wof:geomhash":"85bee22219bf1752accdd697c7f0a7f7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404562575,
-    "wof:lastmodified":1617131321,
+    "wof:lastmodified":1695878846,
     "wof:name":"Coelho Da Rocha",
     "wof:parent_id":102058471,
     "wof:placetype":"localadmin",

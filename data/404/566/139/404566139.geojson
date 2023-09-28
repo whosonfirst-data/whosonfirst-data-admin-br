@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027772,
-    "geom:area_square_m":317983401.902318,
+    "geom:area_square_m":317983401.902391,
     "geom:bbox":"-49.4589811093,-22.319373001,-49.2463070852,-22.0439414777",
     "geom:latitude":-22.186342,
     "geom:longitude":-49.353048,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.189308,
     "lbl:longitude":-49.363484,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ad\u09be\u0987"
@@ -97,9 +106,12 @@
         102061101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350430505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"36b348830b83870e5a1b6111234d5c2d",
+    "wof:geomhash":"3147b1e54d6ea03260958521ac34d345",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404566139,
-    "wof:lastmodified":1577832674,
+    "wof:lastmodified":1695878367,
     "wof:name":"Ava\u00ed",
     "wof:parent_id":102061101,
     "wof:placetype":"localadmin",

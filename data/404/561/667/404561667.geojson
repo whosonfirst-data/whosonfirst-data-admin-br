@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008367,
-    "geom:area_square_m":93228762.681908,
+    "geom:area_square_m":93228762.681904,
     "geom:bbox":"-53.7511795931,-25.736893807,-53.592355223,-25.6417055269",
     "geom:latitude":-25.691222,
     "geom:longitude":-53.666274,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.692649,
     "lbl:longitude":-53.665086,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u063a\u0631\u0627\u062f\u0627 \u0641\u0627\u0645\u064a\u0644\u064a\u0627"
@@ -256,9 +265,12 @@
         102058021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411980620"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"54d8181d968f70309bc65b698df25afb",
+    "wof:geomhash":"38096c9de5ea6d1da3b24ad2d612f488",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -270,7 +282,7 @@
         }
     ],
     "wof:id":404561667,
-    "wof:lastmodified":1577827697,
+    "wof:lastmodified":1695878174,
     "wof:name":"Sagrada Fam\u00edlia",
     "wof:parent_id":102058021,
     "wof:placetype":"localadmin",

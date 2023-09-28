@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063074,
-    "geom:area_square_m":778996312.631772,
+    "geom:area_square_m":778996312.631727,
     "geom:bbox":"-49.6850614394,-2.97978602738,-49.3864936261,-2.662828039",
     "geom:latitude":-2.79632,
     "geom:longitude":-49.563474,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-2.792627,
     "lbl:longitude":-49.575578,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Bai\u00e3o"
@@ -73,9 +82,12 @@
         102055697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150120405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"518ec6c4c61340ba79c25061381ecc8b",
+    "wof:geomhash":"d1512649611f99c7107d83149a913324",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404559499,
-    "wof:lastmodified":1577825657,
+    "wof:lastmodified":1695878149,
     "wof:name":"Bai\u00e3o",
     "wof:parent_id":102055697,
     "wof:placetype":"localadmin",

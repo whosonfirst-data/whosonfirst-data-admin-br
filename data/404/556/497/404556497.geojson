@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007241,
-    "geom:area_square_m":84826618.294242,
+    "geom:area_square_m":84826618.294233,
     "geom:bbox":"-42.030119,-18.7196539971,-41.826443,-18.6429199971",
     "geom:latitude":-18.678018,
     "geom:longitude":-41.951693,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.68051,
     "lbl:longitude":-41.953224,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053957
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312770128"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3d16c28a85a414b426811fea03823a1b",
+    "wof:geomhash":"75dbc4555688a5358aea5551485b9539",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556497,
-    "wof:lastmodified":1577832934,
+    "wof:lastmodified":1695878461,
     "wof:name":"Chonin De Baixo",
     "wof:parent_id":102053957,
     "wof:placetype":"localadmin",

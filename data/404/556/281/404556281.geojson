@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003343,
-    "geom:area_square_m":39050063.813124,
+    "geom:area_square_m":39050063.813138,
     "geom:bbox":"-42.047173,-19.1701839971,-41.961296,-19.0942099971",
     "geom:latitude":-19.13047,
     "geom:longitude":-41.998538,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.135728,
     "lbl:longitude":-41.992045,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312370006"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"43f8c64a3586bf6100477afdb71764b8",
+    "wof:geomhash":"f5f8b41ead3812d002ea28ba3ba9d062",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556281,
-    "wof:lastmodified":1577832807,
+    "wof:lastmodified":1695878415,
     "wof:name":"Divino Do Tra\u00edra",
     "wof:parent_id":102053845,
     "wof:placetype":"localadmin",

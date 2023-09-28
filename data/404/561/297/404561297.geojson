@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004601,
-    "geom:area_square_m":52388821.882125,
+    "geom:area_square_m":52388821.882113,
     "geom:bbox":"-50.5418012566,-23.0006261168,-50.4211957206,-22.9348221268",
     "geom:latitude":-22.964679,
     "geom:longitude":-50.475311,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.966795,
     "lbl:longitude":-50.474397,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411100110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"806dca6618db2d46a6a8f4abc5024e5f",
+    "wof:geomhash":"1517c4cfa2d68228e467331e27210dd7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561297,
-    "wof:lastmodified":1577827819,
+    "wof:lastmodified":1695878231,
     "wof:name":"S\u00e3o Joaquim Do Pontal",
     "wof:parent_id":102057757,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014294,
-    "geom:area_square_m":165571711.257834,
+    "geom:area_square_m":165571711.257795,
     "geom:bbox":"-43.29104,-20.547812,-43.05165,-20.424706",
     "geom:latitude":-20.481324,
     "geom:longitude":-43.183884,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.486682,
     "lbl:longitude":-43.193882,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053791,
         1511777411,
-        85681941
+        102053791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312170405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053791
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a4e8629f9192474f993943a8209260d4",
+    "wof:geomhash":"56cdfd56eb6b9c1dd523fe1e703a1aa9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404556203,
-    "wof:lastmodified":1608029395,
+    "wof:lastmodified":1695878761,
     "wof:name":"Diogo De Vasconcelos",
     "wof:parent_id":102053791,
     "wof:placetype":"localadmin",

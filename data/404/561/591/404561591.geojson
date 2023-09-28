@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047294,
-    "geom:area_square_m":533023454.889256,
+    "geom:area_square_m":533023454.889356,
     "geom:bbox":"-53.9665746975,-24.4674818956,-53.6633064431,-24.1495558006",
     "geom:latitude":-24.291933,
     "geom:longitude":-53.814478,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.284708,
     "lbl:longitude":-53.812135,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b2\u09cb\u099f\u09bf\u09a8\u09be"
@@ -88,9 +97,12 @@
         102057967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411790905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9a6f718c1e964d09ec27fde48e949553",
+    "wof:geomhash":"3e74f79289ec0e4a2cd78f25f8bae2ba",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404561591,
-    "wof:lastmodified":1577827927,
+    "wof:lastmodified":1695878284,
     "wof:name":"Palotina",
     "wof:parent_id":102057967,
     "wof:placetype":"localadmin",

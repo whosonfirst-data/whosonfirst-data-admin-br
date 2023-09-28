@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004792,
-    "geom:area_square_m":52007710.073191,
+    "geom:area_square_m":52007710.073189,
     "geom:bbox":"-49.1813521862,-28.6871930679,-49.0696843128,-28.5929496505",
     "geom:latitude":-28.637283,
     "geom:longitude":-49.127737,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.633204,
     "lbl:longitude":-49.126922,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09a8\u09be\u0993"
@@ -91,9 +100,12 @@
         102060697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421545505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7eaf69bce57f5e4e910928800ade4eed",
+    "wof:geomhash":"9b804288a840454dcf7b10d78f73fd8e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404565809,
-    "wof:lastmodified":1577827986,
+    "wof:lastmodified":1695878310,
     "wof:name":"Sang\u00e3o",
     "wof:parent_id":102060697,
     "wof:placetype":"localadmin",

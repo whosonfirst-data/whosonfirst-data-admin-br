@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009279,
-    "geom:area_square_m":114710545.747132,
+    "geom:area_square_m":114710545.747133,
     "geom:bbox":"-47.1381591251,-1.20643652531,-47.0271730801,-1.00024424233",
     "geom:latitude":-1.117497,
     "geom:longitude":-47.090117,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-1.11986,
     "lbl:longitude":-47.080013,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055737
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150220215"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7386c50dc54b6e1a14097412a7373de7",
+    "wof:geomhash":"3b7f1d9308164bcdb57d5d68d0d1cfad",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559591,
-    "wof:lastmodified":1577825659,
+    "wof:lastmodified":1695878150,
     "wof:name":"Tauari",
     "wof:parent_id":102055737,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004344,
-    "geom:area_square_m":49614937.143143,
+    "geom:area_square_m":49614937.143116,
     "geom:bbox":"-42.056271259,-22.5994307696,-41.9792841518,-22.4872886124",
     "geom:latitude":-22.540017,
     "geom:longitude":-42.012735,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.539449,
     "lbl:longitude":-42.015358,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058349
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330130610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"02b640055fb68d95740f7aab0eff3ab8",
+    "wof:geomhash":"659e772c677e0389dde21051477b7779",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562229,
-    "wof:lastmodified":1577833370,
+    "wof:lastmodified":1695878595,
     "wof:name":"Barra De S\u00e3o Jo\u00e3o",
     "wof:parent_id":102058349,
     "wof:placetype":"localadmin",

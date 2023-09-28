@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017728,
-    "geom:area_square_m":218845415.121841,
+    "geom:area_square_m":218845415.121827,
     "geom:bbox":"-39.5120637307,-3.42718447453,-39.2975694602,-3.18002694442",
     "geom:latitude":-3.303748,
     "geom:longitude":-39.41176,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.345385,
     "lbl:longitude":-39.449196,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kana\u00e4n"
@@ -241,9 +250,12 @@
         102051793
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231350007"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9c73406c74154a0aa5029c7134a6e809",
+    "wof:geomhash":"c85b077caa7aee09f2a4ab1aaa6c3fcd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -255,7 +267,7 @@
         }
     ],
     "wof:id":404554001,
-    "wof:lastmodified":1577837879,
+    "wof:lastmodified":1695878720,
     "wof:name":"Canaan",
     "wof:parent_id":102051793,
     "wof:placetype":"localadmin",

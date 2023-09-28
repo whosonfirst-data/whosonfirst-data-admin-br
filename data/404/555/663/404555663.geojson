@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108937,
-    "geom:area_square_m":1268075955.230377,
+    "geom:area_square_m":1268075955.230317,
     "geom:bbox":"-48.86062,-19.895283,-48.445043,-19.533989",
     "geom:latitude":-19.713413,
     "geom:longitude":-48.647836,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.718467,
     "lbl:longitude":-48.643934,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09cd\u09aa\u09cb \u09ab\u09cd\u09b2\u09cb\u09b0\u09bf\u09a1\u09cb"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053343,
         1511777411,
-        85681941
+        102053343
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311140805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053343
     ],
     "wof:country":"BR",
-    "wof:geomhash":"020d47838e62ef8386556b9c0ea35954",
+    "wof:geomhash":"f3040c1f5d2e4606c60bdedf061cd17f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404555663,
-    "wof:lastmodified":1608032691,
+    "wof:lastmodified":1695878814,
     "wof:name":"Campo Florido",
     "wof:parent_id":102053343,
     "wof:placetype":"localadmin",

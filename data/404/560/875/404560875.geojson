@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010343,
-    "geom:area_square_m":117148515.816541,
+    "geom:area_square_m":117148515.816475,
     "geom:bbox":"-51.5082363404,-23.7372135668,-51.3705344837,-23.5909055512",
     "geom:latitude":-23.651258,
     "geom:longitude":-51.446114,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.648984,
     "lbl:longitude":-51.445025,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057443
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410140825"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4187cd6e19bd8d750d3bba0f26c942e8",
+    "wof:geomhash":"62dcdbb8847714bfed1bc151f69ed7cb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560875,
-    "wof:lastmodified":1577827967,
+    "wof:lastmodified":1695878301,
     "wof:name":"Vila Reis",
     "wof:parent_id":102057443,
     "wof:placetype":"localadmin",

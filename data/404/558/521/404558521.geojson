@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009274,
-    "geom:area_square_m":108200026.235397,
+    "geom:area_square_m":108200026.235437,
     "geom:bbox":"-44.309055,-19.4076205975,-44.145964,-19.2926809971",
     "geom:latitude":-19.346629,
     "geom:longitude":-44.238468,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.355835,
     "lbl:longitude":-44.244029,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055027
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316720210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2a04b246e2df746c69e803fe886c0e47",
+    "wof:geomhash":"5c6b6fc168c05493b375b36d4b1643fa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558521,
-    "wof:lastmodified":1577833298,
+    "wof:lastmodified":1695878575,
     "wof:name":"Silva Xavier",
     "wof:parent_id":102055027,
     "wof:placetype":"localadmin",

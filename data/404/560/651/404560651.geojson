@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120298,
-    "geom:area_square_m":1470138637.836835,
+    "geom:area_square_m":1470138637.836889,
     "geom:bbox":"-40.0969733914,-9.06112478857,-39.6717135601,-8.4969340994",
     "geom:latitude":-8.763984,
     "geom:longitude":-39.938036,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.721344,
     "lbl:longitude":-39.952389,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261260405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3090286f46ae75f8fa84750fd8707770",
+    "wof:geomhash":"4957b09907e843aa707ba23524978289",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560651,
-    "wof:lastmodified":1577837930,
+    "wof:lastmodified":1695878733,
     "wof:name":"Santa Maria Da Boa Vista",
     "wof:parent_id":102056811,
     "wof:placetype":"localadmin",

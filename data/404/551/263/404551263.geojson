@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043108,
-    "geom:area_square_m":515261934.150985,
+    "geom:area_square_m":515261934.151022,
     "geom:bbox":"-42.624073628,-14.9593087715,-42.3251500291,-14.6365651725",
     "geom:latitude":-14.83671,
     "geom:longitude":-42.446807,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.835874,
     "lbl:longitude":-42.422097,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u0995\u09be\u09b0\u09be\u09b8\u09bf"
@@ -100,9 +109,12 @@
         102050927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291740905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"56017535a68643407155a6961882b1ff",
+    "wof:geomhash":"50e2eee7aef5a5d4eeaaa97a1ff1db1d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404551263,
-    "wof:lastmodified":1577837707,
+    "wof:lastmodified":1695878679,
     "wof:name":"Jacaraci",
     "wof:parent_id":102050927,
     "wof:placetype":"localadmin",

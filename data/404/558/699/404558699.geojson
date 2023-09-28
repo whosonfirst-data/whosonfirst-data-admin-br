@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00124,
-    "geom:area_square_m":14379830.841472,
+    "geom:area_square_m":14379830.841459,
     "geom:bbox":"-42.791603,-20.3702259969,-42.752854,-20.3092059969",
     "geom:latitude":-20.343453,
     "geom:longitude":-42.770994,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.342356,
     "lbl:longitude":-42.77393,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055115
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"317050310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"971dbe2bbec140adbfb921badc09ab57",
+    "wof:geomhash":"67c0d94185f70ab434b7361fbdaf8755",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558699,
-    "wof:lastmodified":1577833112,
+    "wof:lastmodified":1695878517,
     "wof:name":"Bom Jesus De Cardosos",
     "wof:parent_id":102055115,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023795,
-    "geom:area_square_m":290890889.138414,
+    "geom:area_square_m":290890889.138412,
     "geom:bbox":"-35.707673,-8.742223,-35.537638,-8.517626",
     "geom:latitude":-8.638013,
     "geom:longitude":-35.626133,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.636836,
     "lbl:longitude":-35.624516,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Palmares"
@@ -69,19 +78,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681973,
         102191577,
         85633009,
-        102056743,
         1511777415,
-        85681973
+        102056743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261000405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102056743
     ],
     "wof:country":"BR",
-    "wof:geomhash":"83114ded342582904e5cd7f4485f52ca",
+    "wof:geomhash":"ce63e77b3ef756d2bcf69b3c32235861",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404560519,
-    "wof:lastmodified":1608029799,
+    "wof:lastmodified":1695878771,
     "wof:name":"Palmares",
     "wof:parent_id":102056743,
     "wof:placetype":"localadmin",

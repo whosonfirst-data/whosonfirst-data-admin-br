@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007198,
-    "geom:area_square_m":81407990.430406,
+    "geom:area_square_m":81407990.430403,
     "geom:bbox":"-50.1618745004,-23.9297436632,-50.0199871606,-23.7380962186",
     "geom:latitude":-23.846144,
     "geom:longitude":-50.078363,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.868619,
     "lbl:longitude":-50.083199,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09a8\u09b9\u09be\u09b2\u09af\u09bc\u09be\u0993"
@@ -91,9 +100,12 @@
         102058003
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411920205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"39c2afdba4d1eb752d9c46fb6732f55b",
+    "wof:geomhash":"7ad1cdcf273a02a5206174d1874988f4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404561631,
-    "wof:lastmodified":1577827808,
+    "wof:lastmodified":1695878227,
     "wof:name":"Pinhal\u00e3o",
     "wof:parent_id":102058003,
     "wof:placetype":"localadmin",

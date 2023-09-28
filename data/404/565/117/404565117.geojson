@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018948,
-    "geom:area_square_m":207907278.573851,
+    "geom:area_square_m":207907278.573771,
     "geom:bbox":"-49.911375,-27.58616,-49.75,-27.3469",
     "geom:latitude":-27.454695,
     "geom:longitude":-49.824413,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.445636,
     "lbl:longitude":-49.852454,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u0997\u09cd\u09b0\u09cb\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
@@ -96,19 +105,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060193,
         1511777409,
-        85682021
+        102060193
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420020005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060193
     ],
     "wof:country":"BR",
-    "wof:geomhash":"ad34f10e337a69a85fb309b6763b83fb",
+    "wof:geomhash":"9030b32f16f2bde77fbd4cd27f395214",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404565117,
-    "wof:lastmodified":1608034336,
+    "wof:lastmodified":1695878822,
     "wof:name":"Agrol\u00e2ndia",
     "wof:parent_id":102060193,
     "wof:placetype":"localadmin",

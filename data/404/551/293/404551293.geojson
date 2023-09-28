@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012779,
-    "geom:area_square_m":153871974.779847,
+    "geom:area_square_m":153871974.779844,
     "geom:bbox":"-39.008648967,-13.214903953,-38.794971596,-13.086720263",
     "geom:latitude":-13.142486,
     "geom:longitude":-38.908763,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.147355,
     "lbl:longitude":-38.901486,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u0997\u09c1\u09f1\u09be\u09b0\u09bf\u09aa\u09c7"
@@ -103,9 +112,12 @@
         102050935
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291780505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"68528ce9b51356630c4e74db1f3d79c0",
+    "wof:geomhash":"8c5272990f4a38bbbbf290d677c124a1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404551293,
-    "wof:lastmodified":1577837624,
+    "wof:lastmodified":1695878658,
     "wof:name":"Jaguaripe",
     "wof:parent_id":102050935,
     "wof:placetype":"localadmin",

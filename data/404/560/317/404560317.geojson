@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016649,
-    "geom:area_square_m":203689869.292796,
+    "geom:area_square_m":203689869.292832,
     "geom:bbox":"-35.3590298543,-8.40527834661,-35.1401484065,-8.24284902404",
     "geom:latitude":-8.332119,
     "geom:longitude":-35.248703,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.339979,
     "lbl:longitude":-35.241252,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0633\u0643\u0627\u062f\u0627"
@@ -88,9 +97,12 @@
         102056615
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260520205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"36f97afc0e87fdf526e0c72fd21aaf20",
+    "wof:geomhash":"94a99c9b272fc914bc66593f065ad274",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404560317,
-    "wof:lastmodified":1577837721,
+    "wof:lastmodified":1695878682,
     "wof:name":"Escada",
     "wof:parent_id":102056615,
     "wof:placetype":"localadmin",

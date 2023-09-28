@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08169,
-    "geom:area_square_m":949265555.009545,
+    "geom:area_square_m":949265555.009839,
     "geom:bbox":"-46.634723,-20.184556,-46.11278,-19.857663",
     "geom:latitude":-19.989152,
     "geom:longitude":-46.339726,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.009307,
     "lbl:longitude":-46.27047,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Medeiros"
@@ -51,19 +60,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054325,
         1511777411,
-        85681941
+        102054325
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314130605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054325
     ],
     "wof:country":"BR",
-    "wof:geomhash":"16c4bbffe00ae43675f0f8e13bbb202b",
+    "wof:geomhash":"91189903bda4296119364da051f25d61",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404557221,
-    "wof:lastmodified":1608031762,
+    "wof:lastmodified":1695878792,
     "wof:name":"Medeiros",
     "wof:parent_id":102054325,
     "wof:placetype":"localadmin",

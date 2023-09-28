@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001905,
-    "geom:area_square_m":21565107.704092,
+    "geom:area_square_m":21565107.704081,
     "geom:bbox":"-46.38187,-23.717482,-46.3307,-23.658651",
     "geom:latitude":-23.690342,
     "geom:longitude":-46.356275,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.690163,
     "lbl:longitude":-46.356275,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102062085,
         1511777411,
-        85682041
+        102062085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354330310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101956247
     ],
     "wof:country":"BR",
-    "wof:geomhash":"393abf0a9223b5c810ff01bc0c90d02c",
+    "wof:geomhash":"aa4c8bc5b14f35bd56de803514b3ce2e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404567117,
-    "wof:lastmodified":1608023637,
+    "wof:lastmodified":1695878754,
     "wof:name":"Ouro Fino Paulista",
     "wof:parent_id":102062085,
     "wof:placetype":"localadmin",

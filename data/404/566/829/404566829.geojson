@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005884,
-    "geom:area_square_m":68009960.643876,
+    "geom:area_square_m":68009960.643877,
     "geom:bbox":"-49.9132735623,-20.8595674839,-49.7993934375,-20.7581333849",
     "geom:latitude":-20.814259,
     "geom:longitude":-49.869815,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.816119,
     "lbl:longitude":-49.880161,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Junqueira"
@@ -58,9 +67,12 @@
         102061781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"353140720"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"84342ca745de3a08f44aecf1d151c5c8",
+    "wof:geomhash":"5b23e91381dd194d21585521d4df640b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":404566829,
-    "wof:lastmodified":1577833403,
+    "wof:lastmodified":1695878608,
     "wof:name":"Junqueira",
     "wof:parent_id":102061781,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009246,
-    "geom:area_square_m":113002800.291957,
+    "geom:area_square_m":113002800.29195,
     "geom:bbox":"-35.3614207026,-8.80648086183,-35.1845991523,-8.68930472305",
     "geom:latitude":-8.749566,
     "geom:longitude":-35.289821,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.747453,
     "lbl:longitude":-35.291068,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056863
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261485715"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3a56111377c3fb1351adb3cdae4ed3dd",
+    "wof:geomhash":"719e57f0e8ebe18e10c9d1ff7116159e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560765,
-    "wof:lastmodified":1577837947,
+    "wof:lastmodified":1695878738,
     "wof:name":"Sau\u00ea",
     "wof:parent_id":102056863,
     "wof:placetype":"localadmin",

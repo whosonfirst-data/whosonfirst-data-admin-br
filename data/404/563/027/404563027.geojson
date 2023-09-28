@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087804,
-    "geom:area_square_m":927304544.676982,
+    "geom:area_square_m":927304544.676704,
     "geom:bbox":"-54.4305899899,-31.5362156319,-54.1079233386,-31.1429914569",
     "geom:latitude":-31.339488,
     "geom:longitude":-54.272322,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-31.344097,
     "lbl:longitude":-54.291483,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Jos\u00e9 Ot\u00e1vio"
@@ -37,9 +46,12 @@
         102059103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430160220"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9aa871de032e6c2f32c9cfdf0934f523",
+    "wof:geomhash":"9dc47625b18346bf0c1a8ffe49936605",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404563027,
-    "wof:lastmodified":1577827889,
+    "wof:lastmodified":1695878266,
     "wof:name":"Jos\u00e9 Ot\u00e1vio",
     "wof:parent_id":102059103,
     "wof:placetype":"localadmin",

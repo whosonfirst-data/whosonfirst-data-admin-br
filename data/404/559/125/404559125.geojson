@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.282501,
-    "geom:area_square_m":3420962196.274311,
+    "geom:area_square_m":3420962196.274235,
     "geom:bbox":"-58.486931846,-12.1298084613,-57.938793671,-10.939680435",
     "geom:latitude":-11.667519,
     "geom:longitude":-58.242385,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.829051,
     "lbl:longitude":-58.215414,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055387
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510190210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a7a413436c5709775254dae6196dc718",
+    "wof:geomhash":"98378dd658a2b9316d34ee5e03f1cf79",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559125,
-    "wof:lastmodified":1577836089,
+    "wof:lastmodified":1695878628,
     "wof:name":"\u00c1gua Da Prata",
     "wof:parent_id":102055387,
     "wof:placetype":"localadmin",

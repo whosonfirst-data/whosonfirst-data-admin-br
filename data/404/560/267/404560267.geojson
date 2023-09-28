@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017939,
-    "geom:area_square_m":219761092.665557,
+    "geom:area_square_m":219761092.665581,
     "geom:bbox":"-37.8470192803,-7.98385938428,-37.6513777276,-7.68388803807",
     "geom:latitude":-7.816658,
     "geom:longitude":-37.752706,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.799875,
     "lbl:longitude":-37.778658,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09cd\u09a8\u09be\u0987\u09ac\u09be"
@@ -82,9 +91,12 @@
         102056579
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260390005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cfcac7016a850fa3bfbc7609ae0f4c73",
+    "wof:geomhash":"4a0f001145b9710ce5ccf76e4b9a7843",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404560267,
-    "wof:lastmodified":1577837922,
+    "wof:lastmodified":1695878731,
     "wof:name":"Carna\u00edba",
     "wof:parent_id":102056579,
     "wof:placetype":"localadmin",

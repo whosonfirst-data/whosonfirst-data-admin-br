@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037105,
-    "geom:area_square_m":435473020.740183,
+    "geom:area_square_m":435472826.346426,
     "geom:bbox":"-41.33499,-18.502476,-41.091351,-18.195692",
     "geom:latitude":-18.35354,
     "geom:longitude":-41.223569,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.353259,
     "lbl:longitude":-41.223662,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u0648 \u0647\u0648\u0631\u064a\u0632\u0648\u0646\u062a\u064a"
@@ -110,9 +119,12 @@
         102053483
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310470015"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"567b8855895da3a0d451d2248aa139fb",
+    "wof:geomhash":"2f97926cf3b0cdf6b83efaa0ce91f08e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +136,7 @@
         }
     ],
     "wof:id":404555327,
-    "wof:lastmodified":1636496441,
+    "wof:lastmodified":1695878865,
     "wof:name":"Novo Horizonte",
     "wof:parent_id":102053483,
     "wof:placetype":"localadmin",

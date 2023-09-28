@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009829,
-    "geom:area_square_m":107122214.383216,
+    "geom:area_square_m":107122214.383226,
     "geom:bbox":"-49.4425875635,-28.2537233251,-49.2755501453,-28.1112164098",
     "geom:latitude":-28.185025,
     "geom:longitude":-49.35421,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.196263,
     "lbl:longitude":-49.355426,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060407
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420610815"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4c0d65340ebcf5664aa8b63387c36954",
+    "wof:geomhash":"93cc7dfa3ba286b8aa765300a655bf7f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565443,
-    "wof:lastmodified":1577827871,
+    "wof:lastmodified":1695878257,
     "wof:name":"Invernada",
     "wof:parent_id":102060407,
     "wof:placetype":"localadmin",

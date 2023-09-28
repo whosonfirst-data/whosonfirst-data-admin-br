@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010381,
-    "geom:area_square_m":112665097.021839,
+    "geom:area_square_m":112665097.021848,
     "geom:bbox":"-52.0937528952,-28.6725012116,-51.8389522,-28.5916851091",
     "geom:latitude":-28.631664,
     "geom:longitude":-51.943129,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.63171,
     "lbl:longitude":-51.95371,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Evangelista"
@@ -64,9 +73,12 @@
         102059245
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430490310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a98670bad55ce3a0f730766dbedbefc7",
+    "wof:geomhash":"00612179f4f0fc53943b1467cd5311d1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":404563323,
-    "wof:lastmodified":1577827808,
+    "wof:lastmodified":1695878227,
     "wof:name":"Evangelista",
     "wof:parent_id":102059245,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035629,
-    "geom:area_square_m":405961720.150244,
+    "geom:area_square_m":405961720.150405,
     "geom:bbox":"-49.379132086,-23.0364807076,-49.1676315585,-22.721920624",
     "geom:latitude":-22.858008,
     "geom:longitude":-49.261079,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.836146,
     "lbl:longitude":-49.262673,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350055005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9cd7d99816c8e5e7b2172664372db161",
+    "wof:geomhash":"f8c89c7694968152f11f06d1d0fa83f7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566051,
-    "wof:lastmodified":1577832600,
+    "wof:lastmodified":1695878337,
     "wof:name":"\u00c1guas De Santa B\u00e1rbara",
     "wof:parent_id":102061001,
     "wof:placetype":"localadmin",

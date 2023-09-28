@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005946,
-    "geom:area_square_m":63971487.451427,
+    "geom:area_square_m":63971487.451403,
     "geom:bbox":"-54.4246097699,-29.5868919895,-54.3300994604,-29.4613606654",
     "geom:latitude":-29.534339,
     "geom:longitude":-54.38653,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.534546,
     "lbl:longitude":-54.390421,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Clara"
@@ -91,9 +100,12 @@
         102059597
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431210410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c83942514ab9c3d07a14a1f8265eb51d",
+    "wof:geomhash":"b94e93ba9157646df82e8e2645078723",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404563921,
-    "wof:lastmodified":1577827995,
+    "wof:lastmodified":1695878314,
     "wof:name":"Clara",
     "wof:parent_id":102059597,
     "wof:placetype":"localadmin",

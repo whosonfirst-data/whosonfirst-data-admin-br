@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004365,
-    "geom:area_square_m":53786213.67135,
+    "geom:area_square_m":53786213.671349,
     "geom:bbox":"-40.1605782842,-4.75226714095,-40.0594065814,-4.64980968367",
     "geom:latitude":-4.706895,
     "geom:longitude":-40.103815,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.710483,
     "lbl:longitude":-40.100353,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Video"
@@ -229,9 +238,12 @@
         102051497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230365925"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9aa15f704af1dc2231d9e3f874e8bf4f",
+    "wof:geomhash":"a33464350454ba1b700a9d89e82d8bda",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -243,7 +255,7 @@
         }
     ],
     "wof:id":404552663,
-    "wof:lastmodified":1577837648,
+    "wof:lastmodified":1695878664,
     "wof:name":"Video",
     "wof:parent_id":102051497,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009665,
-    "geom:area_square_m":110486396.913077,
+    "geom:area_square_m":110486396.91308,
     "geom:bbox":"-43.6112425752,-22.5265903316,-43.4882125822,-22.3297689248",
     "geom:latitude":-22.411141,
     "geom:longitude":-43.544492,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.406393,
     "lbl:longitude":-43.545397,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058507
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330620630"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9c490a1bc26a494f7dd3670b885a3fb4",
+    "wof:geomhash":"04211e91ed207461d30ebac754dc2d27",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562661,
-    "wof:lastmodified":1577833078,
+    "wof:lastmodified":1695878507,
     "wof:name":"S\u00e3o Sebasti\u00e3o Dos Ferreiros",
     "wof:parent_id":102058507,
     "wof:placetype":"localadmin",

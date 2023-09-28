@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017138,
-    "geom:area_square_m":199506524.490347,
+    "geom:area_square_m":199506524.490158,
     "geom:bbox":"-40.5329341068,-19.8312777465,-40.3494846189,-19.6224129886",
     "geom:latitude":-19.704494,
     "geom:longitude":-40.45721,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.716407,
     "lbl:longitude":-40.48147,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051907
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320313010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"62308b2ce5ccce638f03e4e70cde958a",
+    "wof:geomhash":"f1cbfaae74844fe77516ac655dd4f409",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554431,
-    "wof:lastmodified":1577833325,
+    "wof:lastmodified":1695878582,
     "wof:name":"Acioli",
     "wof:parent_id":102051907,
     "wof:placetype":"localadmin",

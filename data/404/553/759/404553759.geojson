@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004024,
-    "geom:area_square_m":49624478.186761,
+    "geom:area_square_m":49624478.186772,
     "geom:bbox":"-38.83657578,-4.27401257401,-38.7393841157,-4.14241893721",
     "geom:latitude":-4.19682,
     "geom:longitude":-38.791195,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.185918,
     "lbl:longitude":-38.799315,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231160330"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c2505352e514e07cfeb919911fee7fc6",
+    "wof:geomhash":"8d62861fa1ef25d48a63847c9c466c1c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553759,
-    "wof:lastmodified":1577837956,
+    "wof:lastmodified":1695878740,
     "wof:name":"Barra Nova",
     "wof:parent_id":102051743,
     "wof:placetype":"localadmin",

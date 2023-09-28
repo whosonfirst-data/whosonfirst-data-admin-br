@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012747,
-    "geom:area_square_m":139685355.549571,
+    "geom:area_square_m":139685355.54956,
     "geom:bbox":"-48.613467,-27.665412,-48.472097,-27.51584",
     "geom:latitude":-27.594724,
     "geom:longitude":-48.541798,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.595267,
     "lbl:longitude":-48.541812,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Florian\u00f3polis"
@@ -231,19 +240,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060383,
         1511777409,
-        85682021
+        102060383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420540705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101958175
     ],
     "wof:country":"BR",
-    "wof:geomhash":"3614e6e39c088d8568a938674096ca45",
+    "wof:geomhash":"87bb9545fecefaa4db081b6e04805dc2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -255,7 +267,7 @@
         }
     ],
     "wof:id":404565395,
-    "wof:lastmodified":1608022934,
+    "wof:lastmodified":1695878752,
     "wof:name":"Florian\u00f3polis",
     "wof:parent_id":102060383,
     "wof:placetype":"localadmin",

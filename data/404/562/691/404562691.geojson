@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002476,
-    "geom:area_square_m":30427776.756853,
+    "geom:area_square_m":30427776.756855,
     "geom:bbox":"-38.3365803157,-6.40236841198,-38.2539050248,-6.34564296362",
     "geom:latitude":-6.369032,
     "geom:longitude":-38.295337,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.363772,
     "lbl:longitude":-38.292519,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058657
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"240600710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e99d9ca74975d7040526212f258df894",
+    "wof:geomhash":"193cb4934a85ca75f462ef81c58e4bd2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562691,
-    "wof:lastmodified":1577837942,
+    "wof:lastmodified":1695878737,
     "wof:name":"Major Felipe",
     "wof:parent_id":102058657,
     "wof:placetype":"localadmin",

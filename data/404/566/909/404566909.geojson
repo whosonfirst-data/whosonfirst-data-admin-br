@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011468,
-    "geom:area_square_m":132998276.491932,
+    "geom:area_square_m":132998276.491916,
     "geom:bbox":"-49.4474957686,-20.3646094602,-49.3072319009,-20.2175942992",
     "geom:latitude":-20.292308,
     "geom:longitude":-49.39014,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.295208,
     "lbl:longitude":-49.391209,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"353500215"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c192c8a6e884c25586162b0464d2c17a",
+    "wof:geomhash":"21bea3b0c4cecb3a6839857bdf04980c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566909,
-    "wof:lastmodified":1577833200,
+    "wof:lastmodified":1695878542,
     "wof:name":"Jurupeba",
     "wof:parent_id":102061877,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03271,
-    "geom:area_square_m":381510107.635941,
+    "geom:area_square_m":381510107.635831,
     "geom:bbox":"-43.52116,-19.511814997,-43.19205,-19.3090219971",
     "geom:latitude":-19.396353,
     "geom:longitude":-43.351266,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.404532,
     "lbl:longitude":-43.310122,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313280005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7bb937ff7e663e8b8d395ef4e3667e3b",
+    "wof:geomhash":"1443ebefe182a0ef62a6d8c8187429b1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556735,
-    "wof:lastmodified":1577833146,
+    "wof:lastmodified":1695878526,
     "wof:name":"Itamb\u00e9 Do Mato Dentro",
     "wof:parent_id":102054085,
     "wof:placetype":"localadmin",

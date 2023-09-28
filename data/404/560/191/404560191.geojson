@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049776,
-    "geom:area_square_m":609738105.259781,
+    "geom:area_square_m":609738105.259801,
     "geom:bbox":"-40.0889428555,-8.02801741604,-39.7626494644,-7.69053695761",
     "geom:latitude":-7.835343,
     "geom:longitude":-39.880249,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.840108,
     "lbl:longitude":-39.855515,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09a1\u09cb\u0995\u09cb"
@@ -88,9 +97,12 @@
         102056533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260200105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c9a75181efa703ce5b303790adc778ac",
+    "wof:geomhash":"5934d5170837ba6760b5e14c2823644d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404560191,
-    "wof:lastmodified":1577837911,
+    "wof:lastmodified":1695878728,
     "wof:name":"Bodoc\u00f3",
     "wof:parent_id":102056533,
     "wof:placetype":"localadmin",

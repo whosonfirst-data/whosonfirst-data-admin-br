@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006967,
-    "geom:area_square_m":81098933.187229,
+    "geom:area_square_m":81098933.187216,
     "geom:bbox":"-40.6872950767,-19.7795559742,-40.6033068106,-19.6418661679",
     "geom:latitude":-19.716006,
     "geom:longitude":-40.645707,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.689269,
     "lbl:longitude":-40.637295,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051971
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320495505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"760ee6c88356832d6e2c09873d631345",
+    "wof:geomhash":"b6ac7b544c1af25202f6fa572c7b33a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554625,
-    "wof:lastmodified":1577833384,
+    "wof:lastmodified":1695878600,
     "wof:name":"S\u00e3o Roque Do Cana\u00e3",
     "wof:parent_id":102051971,
     "wof:placetype":"localadmin",

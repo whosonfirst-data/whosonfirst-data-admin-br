@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049989,
-    "geom:area_square_m":560656474.795643,
+    "geom:area_square_m":560656474.795439,
     "geom:bbox":"-52.662913,-25.050411,-52.369779,-24.734119",
     "geom:latitude":-24.9021,
     "geom:longitude":-52.490639,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.913179,
     "lbl:longitude":-52.476112,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Laranjal"
@@ -54,19 +63,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681983,
         102191577,
         85633009,
-        102057819,
         1511777409,
-        85681983
+        102057819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411325405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102057819
     ],
     "wof:country":"BR",
-    "wof:geomhash":"1b493529ba9d1ae4083a589cc1feef63",
+    "wof:geomhash":"a6ed24cb23f98104e080bd24a866a748",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":404561371,
-    "wof:lastmodified":1608031506,
+    "wof:lastmodified":1695878788,
     "wof:name":"Laranjal",
     "wof:parent_id":102057819,
     "wof:placetype":"localadmin",

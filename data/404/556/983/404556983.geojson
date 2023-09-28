@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050962,
-    "geom:area_square_m":602594703.280164,
+    "geom:area_square_m":602594703.279812,
     "geom:bbox":"-44.84093,-17.168128,-44.480144,-16.856501",
     "geom:latitude":-17.007814,
     "geom:longitude":-44.646363,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.012601,
     "lbl:longitude":-44.649068,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054209,
         1511777411,
-        85681941
+        102054209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313730405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054209
     ],
     "wof:country":"BR",
-    "wof:geomhash":"355036a61c6bebb0df63c01ef08c3e11",
+    "wof:geomhash":"729692415b9262207d671ee9ffdfa376",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404556983,
-    "wof:lastmodified":1608029426,
+    "wof:lastmodified":1695878761,
     "wof:name":"Lagoa Dos Patos",
     "wof:parent_id":102054209,
     "wof:placetype":"localadmin",

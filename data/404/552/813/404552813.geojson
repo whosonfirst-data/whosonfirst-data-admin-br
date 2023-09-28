@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007473,
-    "geom:area_square_m":92293140.109762,
+    "geom:area_square_m":92293140.109738,
     "geom:bbox":"-40.4601720518,-2.90594454788,-40.3625401656,-2.80420585829",
     "geom:latitude":-2.854387,
     "geom:longitude":-40.411061,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-2.8564,
     "lbl:longitude":-40.40711,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230425110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0fddfb1cd6a4d746bbcc0326ed0bc7c4",
+    "wof:geomhash":"ee7af44930af3cf097f733825125418f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404552813,
-    "wof:lastmodified":1577837951,
+    "wof:lastmodified":1695878739,
     "wof:name":"Cai\u00e7ara",
     "wof:parent_id":102051519,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005274,
-    "geom:area_square_m":64782519.678024,
+    "geom:area_square_m":64782519.67806,
     "geom:bbox":"-39.835194527,-6.61159743304,-39.7295790771,-6.51177582763",
     "geom:latitude":-6.564873,
     "geom:longitude":-39.782455,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.5683,
     "lbl:longitude":-39.790452,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Felipe"
@@ -40,9 +49,12 @@
         102051751
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231190009"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"31ad6021c33efd5ebefd1f3d3ab8f997",
+    "wof:geomhash":"cf227dac38d85570ae2557ba78dccf61",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404553785,
-    "wof:lastmodified":1577837802,
+    "wof:lastmodified":1695878701,
     "wof:name":"Felipe",
     "wof:parent_id":102051751,
     "wof:placetype":"localadmin",

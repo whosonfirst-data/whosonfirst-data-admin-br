@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020795,
-    "geom:area_square_m":255457547.056481,
+    "geom:area_square_m":255457547.056513,
     "geom:bbox":"-39.5744881207,-6.64573709974,-39.342092981,-6.46329570588",
     "geom:latitude":-6.55023,
     "geom:longitude":-39.437706,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.548584,
     "lbl:longitude":-39.429816,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09bf\u0989\u09b8"
@@ -85,9 +94,12 @@
         102051487
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230330305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9e6f7c897d3efda1f838b5781f1011c0",
+    "wof:geomhash":"d7f6ae0e7b25a63a9933a250a9ca1913",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404552633,
-    "wof:lastmodified":1577837937,
+    "wof:lastmodified":1695878735,
     "wof:name":"Cari\u00fas",
     "wof:parent_id":102051487,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.2731,
-    "geom:area_square_m":3286428964.164344,
+    "geom:area_square_m":3286428964.164567,
     "geom:bbox":"-43.545193276,-13.87617224,-43.0219023995,-12.689172658",
     "geom:latitude":-13.292034,
     "geom:longitude":-43.304583,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.302829,
     "lbl:longitude":-43.283028,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050569
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290390405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1cc01d9e555152ea663e6f59d9936292",
+    "wof:geomhash":"d51b850646b79a22f935f570ffce3c2b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550557,
-    "wof:lastmodified":1577837805,
+    "wof:lastmodified":1695878701,
     "wof:name":"Bom Jesus Da Lapa",
     "wof:parent_id":102050569,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014539,
-    "geom:area_square_m":168893280.010138,
+    "geom:area_square_m":168893280.010012,
     "geom:bbox":"-41.750616,-20.104701997,-41.547659,-19.982979997",
     "geom:latitude":-20.042613,
     "geom:longitude":-41.65524,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.051277,
     "lbl:longitude":-41.657164,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099a\u09be\u09b2\u09c7"
@@ -97,9 +106,12 @@
         102053645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311600105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"af1cd38729fa5e89b1ac752924176034",
+    "wof:geomhash":"85d60980b75de31f8f9dfff3c803e4b8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404555873,
-    "wof:lastmodified":1577833239,
+    "wof:lastmodified":1695878554,
     "wof:name":"Chal\u00e9",
     "wof:parent_id":102053645,
     "wof:placetype":"localadmin",

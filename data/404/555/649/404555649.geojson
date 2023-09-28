@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.229816,
-    "geom:area_square_m":2679728898.174134,
+    "geom:area_square_m":2679728898.173884,
     "geom:bbox":"-50.236424,-19.6811409964,-49.30222,-19.1981579965",
     "geom:latitude":-19.438756,
     "geom:longitude":-49.726069,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.468776,
     "lbl:longitude":-49.71904,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09aa\u09bf\u09a8\u09be \u09ad\u09c7\u09b0\u09cd\u09a1\u09c7"
@@ -97,9 +106,12 @@
         102053335
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311110105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"047fbc613012e44519090c7a5bffe8c3",
+    "wof:geomhash":"bb2728138cbebad99fdaba957663565b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404555649,
-    "wof:lastmodified":1577833120,
+    "wof:lastmodified":1695878518,
     "wof:name":"Campina Verde",
     "wof:parent_id":102053335,
     "wof:placetype":"localadmin",

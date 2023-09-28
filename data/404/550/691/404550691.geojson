@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063219,
-    "geom:area_square_m":752464781.751217,
+    "geom:area_square_m":752464781.751183,
     "geom:bbox":"-39.351245601,-15.8503792025,-38.898374959,-15.5921424535",
     "geom:latitude":-15.723576,
     "geom:longitude":-39.16854,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.708178,
     "lbl:longitude":-39.190875,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290630315"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3fa6e0b7758db777c2fc3a0b52c2cdf1",
+    "wof:geomhash":"4be56b78addafba6ba46434675e62c34",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550691,
-    "wof:lastmodified":1577837744,
+    "wof:lastmodified":1695878687,
     "wof:name":"Ouricana",
     "wof:parent_id":102050635,
     "wof:placetype":"localadmin",

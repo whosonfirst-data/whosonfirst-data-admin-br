@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015795,
-    "geom:area_square_m":190259115.278131,
+    "geom:area_square_m":190259115.278121,
     "geom:bbox":"-38.959438293,-13.141008467,-38.794971596,-12.931906117",
     "geom:latitude":-13.054515,
     "geom:longitude":-38.887286,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.055279,
     "lbl:longitude":-38.900982,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050935
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291780520"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"150997b51a187bcd02d384236a791180",
+    "wof:geomhash":"9ead75190fc18a2dcac454c1d4e471ec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551299,
-    "wof:lastmodified":1577837613,
+    "wof:lastmodified":1695878655,
     "wof:name":"Jacuruna",
     "wof:parent_id":102050935,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.148132,
-    "geom:area_square_m":1789273336.689714,
+    "geom:area_square_m":1789273336.689768,
     "geom:bbox":"-64.2868520041,-12.5317710903,-63.6239612416,-12.1823419488",
     "geom:latitude":-12.353236,
     "geom:longitude":-63.969977,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.36172,
     "lbl:longitude":-63.996807,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b8\u09cd\u099f\u09be \u09ae\u09be\u09b0\u09cd\u0995\u09c1\u09af\u09bc\u09c7\u09b8"
@@ -91,9 +100,12 @@
         102058903
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"110008005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2c1f6b2d409f939d5441a36649f62187",
+    "wof:geomhash":"3120220bbe02311aeae8141920471b22",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404562757,
-    "wof:lastmodified":1577825669,
+    "wof:lastmodified":1695878155,
     "wof:name":"Costa Marques",
     "wof:parent_id":102058903,
     "wof:placetype":"localadmin",

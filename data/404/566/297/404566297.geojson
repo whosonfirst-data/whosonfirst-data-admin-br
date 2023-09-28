@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001382,
-    "geom:area_square_m":15672226.223101,
+    "geom:area_square_m":15672226.223141,
     "geom:bbox":"-46.862928,-23.552827,-46.816471,-23.510625",
     "geom:latitude":-23.532123,
     "geom:longitude":-46.839023,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.531438,
     "lbl:longitude":-46.838586,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0627\u0628\u064a\u0643\u0648\u064a\u0628\u0627"
@@ -111,19 +120,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061263,
         1511777411,
-        85682041
+        102061263
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351060905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101956135
     ],
     "wof:country":"BR",
-    "wof:geomhash":"f3a8751ff61b06369479070d5f01d7bb",
+    "wof:geomhash":"4579024e1a8e4953eaaf817d5ff3d2d5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +147,7 @@
         }
     ],
     "wof:id":404566297,
-    "wof:lastmodified":1608023384,
+    "wof:lastmodified":1695878753,
     "wof:name":"Carapicu\u00edba",
     "wof:parent_id":102061263,
     "wof:placetype":"localadmin",

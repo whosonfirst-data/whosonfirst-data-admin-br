@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007957,
-    "geom:area_square_m":95306234.151845,
+    "geom:area_square_m":95306234.151814,
     "geom:bbox":"-39.384122036,-14.4600048875,-39.290647864,-14.2782915729",
     "geom:latitude":-14.370304,
     "geom:longitude":-39.347877,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.342002,
     "lbl:longitude":-39.344693,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0994\u09b0\u09c7\u09b2\u09bf\u09a8\u09cb \u09b2\u09c7\u0986\u09b2"
@@ -100,9 +109,12 @@
         102050529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290240105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0fa0eee332c3955949148cee9e618247",
+    "wof:geomhash":"1df50fd3ba5d385f42b02232c03c42fa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404550485,
-    "wof:lastmodified":1577837714,
+    "wof:lastmodified":1695878680,
     "wof:name":"Aurelino Leal",
     "wof:parent_id":102050529,
     "wof:placetype":"localadmin",

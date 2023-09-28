@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006397,
-    "geom:area_square_m":73837184.007575,
+    "geom:area_square_m":73837184.007581,
     "geom:bbox":"-42.658526,-21.0776819968,-42.546599,-20.9530959968",
     "geom:latitude":-21.024256,
     "geom:longitude":-42.599234,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.01801,
     "lbl:longitude":-42.598385,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054949
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316443105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0126c6e6142d4ad53708cd3854d62a3c",
+    "wof:geomhash":"c731d6589193f5d162beb02e3bdac44d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558407,
-    "wof:lastmodified":1577832915,
+    "wof:lastmodified":1695878455,
     "wof:name":"S\u00e3o Sebasti\u00e3o Da Vargem Alegre",
     "wof:parent_id":102054949,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040245,
-    "geom:area_square_m":496884139.768004,
+    "geom:area_square_m":496884047.98451,
     "geom:bbox":"-40.949635,-3.32849029733,-40.691737,-3.011725",
     "geom:latitude":-3.156643,
     "geom:longitude":-40.824519,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.129837,
     "lbl:longitude":-40.81187,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0631\u0627\u0646\u062e\u0627"
@@ -115,9 +124,12 @@
         102051543
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230470705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b86e5a3d1eb3f7a58d80116f9021118e",
+    "wof:geomhash":"1f5a6ef15bbd3427ce6ee87811ec44a8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":404552883,
-    "wof:lastmodified":1642551725,
+    "wof:lastmodified":1695878869,
     "wof:name":"Granja",
     "wof:parent_id":102051543,
     "wof:placetype":"localadmin",
@@ -140,7 +152,7 @@
 },
   "bbox": [
     -40.949635,
-    -3.328490297334196,
+    -3.3284902973342,
     -40.691737,
     -3.011725
 ],

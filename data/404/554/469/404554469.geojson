@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004055,
-    "geom:area_square_m":47456694.578533,
+    "geom:area_square_m":47456694.578528,
     "geom:bbox":"-41.2454774697,-18.8776398037,-41.1660661487,-18.7972787971",
     "geom:latitude":-18.831125,
     "geom:longitude":-41.209408,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.830522,
     "lbl:longitude":-41.214128,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "S\u00e3o Geraldo"
@@ -52,9 +61,12 @@
         102051915
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320330415"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"34e5a91814c4436f8214713d54bb1e04",
+    "wof:geomhash":"a89e74c8f68cbd46a2eb50162d9edb15",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":404554469,
-    "wof:lastmodified":1577833337,
+    "wof:lastmodified":1695878585,
     "wof:name":"S\u00e3o Geraldo",
     "wof:parent_id":102051915,
     "wof:placetype":"localadmin",

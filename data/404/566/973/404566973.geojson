@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003641,
-    "geom:area_square_m":41416296.152559,
+    "geom:area_square_m":41416296.152572,
     "geom:bbox":"-46.48349,-23.122695,-46.370722,-23.056241",
     "geom:latitude":-23.096929,
     "geom:longitude":-46.415442,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.096153,
     "lbl:longitude":-46.414586,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061963,
         1511777411,
-        85682041
+        102061963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"353860010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101956209
     ],
     "wof:country":"BR",
-    "wof:geomhash":"df91a9a7f91a4558591e6d253793f785",
+    "wof:geomhash":"167e1ec68e5ac27b23cee01a9d657c01",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404566973,
-    "wof:lastmodified":1608023663,
+    "wof:lastmodified":1695878754,
     "wof:name":"Batatuba",
     "wof:parent_id":102061963,
     "wof:placetype":"localadmin",

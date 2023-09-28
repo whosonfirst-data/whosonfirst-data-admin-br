@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030295,
-    "geom:area_square_m":360596188.187032,
+    "geom:area_square_m":360596188.187119,
     "geom:bbox":"-44.085232,-15.7894349975,-43.761429,-15.6427739975",
     "geom:latitude":-15.715968,
     "geom:longitude":-43.92396,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.711772,
     "lbl:longitude":-43.936973,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u09b0\u09cd\u099c\u09c7\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
@@ -97,9 +106,12 @@
         102055133
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"317090905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dc6572b886641c0fe69f2512bf84d24b",
+    "wof:geomhash":"f0dd0930c667b1ff565f2b3544724e85",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404558719,
-    "wof:lastmodified":1577833128,
+    "wof:lastmodified":1695878521,
     "wof:name":"Varzel\u00e2ndia",
     "wof:parent_id":102055133,
     "wof:placetype":"localadmin",

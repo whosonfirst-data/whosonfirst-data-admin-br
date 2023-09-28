@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005125,
-    "geom:area_square_m":59080176.394517,
+    "geom:area_square_m":59080176.394544,
     "geom:bbox":"-49.2221082404,-21.2576053498,-49.1418299949,-21.1333310973",
     "geom:latitude":-21.19563,
     "geom:longitude":-49.187613,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.20323,
     "lbl:longitude":-49.187001,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102062401
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355600810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6731029cc0ce8152da62eaac8030a375",
+    "wof:geomhash":"e698de939662f54a1d8f074d27c11ea3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404567609,
-    "wof:lastmodified":1577833382,
+    "wof:lastmodified":1695878600,
     "wof:name":"S\u00e3o Jo\u00e3o De Itagua\u00e7u",
     "wof:parent_id":102062401,
     "wof:placetype":"localadmin",

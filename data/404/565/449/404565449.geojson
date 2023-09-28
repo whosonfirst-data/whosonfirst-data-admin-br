@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022699,
-    "geom:area_square_m":250991801.711155,
+    "geom:area_square_m":250991801.711238,
     "geom:bbox":"-53.641051,-26.6597303937,-53.4127646735,-26.5156150502",
     "geom:latitude":-26.589158,
     "geom:longitude":-53.537403,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.586328,
     "lbl:longitude":-53.528274,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Guaraciaba"
@@ -76,9 +85,12 @@
         102060413
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420640505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6ccae6cc3b8193e5540bf48b1882ef85",
+    "wof:geomhash":"2e4c0d075fe0071b61d286efdf089234",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404565449,
-    "wof:lastmodified":1577827778,
+    "wof:lastmodified":1695878214,
     "wof:name":"Guaraciaba",
     "wof:parent_id":102060413,
     "wof:placetype":"localadmin",

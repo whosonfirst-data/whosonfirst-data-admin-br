@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015663,
-    "geom:area_square_m":181753308.520464,
+    "geom:area_square_m":181753310.207568,
     "geom:bbox":"-42.440073,-20.31925,-42.31071,-20.121676",
     "geom:latitude":-20.207685,
     "geom:longitude":-42.382331,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.195913,
     "lbl:longitude":-42.377115,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Granada"
@@ -334,9 +343,12 @@
         102053373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310030210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9dd847cc6e9f5dbb56242a2f317e590e",
+    "wof:geomhash":"0c264a7050646928baa2300144e5449b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -348,7 +360,7 @@
         }
     ],
     "wof:id":404555107,
-    "wof:lastmodified":1636496439,
+    "wof:lastmodified":1695878864,
     "wof:name":"Granada",
     "wof:parent_id":102053373,
     "wof:placetype":"localadmin",

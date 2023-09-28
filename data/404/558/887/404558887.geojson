@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.260452,
-    "geom:area_square_m":3051408418.8871,
+    "geom:area_square_m":3051408418.886964,
     "geom:bbox":"-53.580900774,-19.217918366,-52.9246565452,-18.0074431735",
     "geom:latitude":-18.649684,
     "geom:longitude":-53.275287,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.404155,
     "lbl:longitude":-53.298195,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430"
@@ -619,9 +628,12 @@
         102055229
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500325605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d034f738c69d12a3e876146715c43bc0",
+    "wof:geomhash":"59271779537782bf4bd2635999f2b928",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -633,7 +645,7 @@
         }
     ],
     "wof:id":404558887,
-    "wof:lastmodified":1577836180,
+    "wof:lastmodified":1695878651,
     "wof:name":"Costa Rica",
     "wof:parent_id":102055229,
     "wof:placetype":"localadmin",

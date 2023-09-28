@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.946934,
-    "geom:area_square_m":11695352441.718462,
+    "geom:area_square_m":11695352441.718014,
     "geom:bbox":"-53.2791849029,1.94162120292,-51.680729333,3.82940032325",
     "geom:latitude":2.731805,
     "geom:longitude":-52.259244,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":2.703948,
     "lbl:longitude":-52.180808,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050449
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"160050110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"934c9d221dbf7635e730b54ed72c7693",
+    "wof:geomhash":"af74e49ff848fcd2094d5a4327ff7878",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550343,
-    "wof:lastmodified":1577825652,
+    "wof:lastmodified":1695878148,
     "wof:name":"Clevel\u00e2ndia Do Norte",
     "wof:parent_id":102050449,
     "wof:placetype":"localadmin",

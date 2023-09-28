@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016296,
-    "geom:area_square_m":177708908.841484,
+    "geom:area_square_m":177708908.84151,
     "geom:bbox":"-49.0656452351,-28.2399870823,-48.9096704738,-27.9905590702",
     "geom:latitude":-28.128774,
     "geom:longitude":-48.990557,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.105261,
     "lbl:longitude":-49.015315,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09ae\u09be\u09b0\u09cd\u099f\u09bf\u09a8\u09b9\u09cb"
@@ -73,9 +82,12 @@
         102060755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421710505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"567097e0972eaf4f49247a02b52b797d",
+    "wof:geomhash":"bc91f906137f3e70a3ec8f0e27dd7f71",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404565893,
-    "wof:lastmodified":1577827844,
+    "wof:lastmodified":1695878245,
     "wof:name":"S\u00e3o Martinho",
     "wof:parent_id":102060755,
     "wof:placetype":"localadmin",

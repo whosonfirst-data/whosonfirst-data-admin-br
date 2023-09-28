@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025153,
-    "geom:area_square_m":294321874.696947,
+    "geom:area_square_m":294321874.696977,
     "geom:bbox":"-41.713425,-18.9779569971,-41.553917,-18.7422209971",
     "geom:latitude":-18.862658,
     "geom:longitude":-41.632627,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.865999,
     "lbl:longitude":-41.623149,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312730508"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0d592412fc6a6e3b293062ccb73bac38",
+    "wof:geomhash":"b37174b111411243150cbefe8de608d9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556461,
-    "wof:lastmodified":1577832915,
+    "wof:lastmodified":1695878455,
     "wof:name":"Santa Cruz De Galil\u00e9ia",
     "wof:parent_id":102053939,
     "wof:placetype":"localadmin",

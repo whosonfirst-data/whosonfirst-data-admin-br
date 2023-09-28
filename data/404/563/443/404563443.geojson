@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002702,
-    "geom:area_square_m":29637059.63466,
+    "geom:area_square_m":29637059.634667,
     "geom:bbox":"-54.0584244454,-27.5303213455,-53.9741839677,-27.4490973413",
     "geom:latitude":-27.492432,
     "geom:longitude":-54.0179,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.495404,
     "lbl:longitude":-54.014461,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u099c\u09c7\u0986\u09a1\u09cb \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
@@ -88,9 +97,12 @@
         102059311
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430600715"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b7586b2c3ebd38b9f7c2401db97c3edb",
+    "wof:geomhash":"38c4585b900aa36fd1b9ffa58f1dd5c5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404563443,
-    "wof:lastmodified":1577827780,
+    "wof:lastmodified":1695878214,
     "wof:name":"Lajeado Grande",
     "wof:parent_id":102059311,
     "wof:placetype":"localadmin",

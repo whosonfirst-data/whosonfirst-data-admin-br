@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001395,
-    "geom:area_square_m":16212956.382943,
+    "geom:area_square_m":16212956.382935,
     "geom:bbox":"-43.482965,-19.989163997,-43.42538,-19.937638997",
     "geom:latitude":-19.959448,
     "geom:longitude":-43.455238,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.954123,
     "lbl:longitude":-43.453273,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315720310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"70c7d5d63a93bc5b440a84f9bb900e7b",
+    "wof:geomhash":"a7316c77852dee9a30414f3bbb80a5e6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558023,
-    "wof:lastmodified":1577832573,
+    "wof:lastmodified":1695878325,
     "wof:name":"Barra Feliz",
     "wof:parent_id":102054743,
     "wof:placetype":"localadmin",

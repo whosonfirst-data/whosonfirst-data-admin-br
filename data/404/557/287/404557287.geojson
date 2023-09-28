@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.222532,
-    "geom:area_square_m":2604151881.572857,
+    "geom:area_square_m":2604151881.573236,
     "geom:bbox":"-49.26587,-19.103351,-48.519675,-18.523899",
     "geom:latitude":-18.844535,
     "geom:longitude":-48.886767,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.873286,
     "lbl:longitude":-48.886712,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054361,
         1511777411,
-        85681941
+        102054361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314280905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054361
     ],
     "wof:country":"BR",
-    "wof:geomhash":"ceb8268cba133fc9b3395fc3e4730636",
+    "wof:geomhash":"e84fb747d1e9073a6f33c2201ba0eff5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404557287,
-    "wof:lastmodified":1608031754,
+    "wof:lastmodified":1695878792,
     "wof:name":"Monte Alegre De Minas",
     "wof:parent_id":102054361,
     "wof:placetype":"localadmin",

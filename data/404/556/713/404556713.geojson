@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018872,
-    "geom:area_square_m":215689058.872624,
+    "geom:area_square_m":215689058.872833,
     "geom:bbox":"-45.530293,-22.5397259967,-45.349535,-22.3537969967",
     "geom:latitude":-22.438217,
     "geom:longitude":-45.443881,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.433203,
     "lbl:longitude":-45.451398,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u099c\u09c1\u09ac\u09be"
@@ -106,9 +115,12 @@
         102054077
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313240405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5720fd402d8f424ad1b3200b6be28ce6",
+    "wof:geomhash":"07a03aaf3b8b1d89a6a99df5e8fa77a5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404556713,
-    "wof:lastmodified":1577833155,
+    "wof:lastmodified":1695878529,
     "wof:name":"Itajub\u00e1",
     "wof:parent_id":102054077,
     "wof:placetype":"localadmin",

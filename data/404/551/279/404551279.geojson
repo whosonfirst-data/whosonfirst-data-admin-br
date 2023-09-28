@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022546,
-    "geom:area_square_m":273426189.756565,
+    "geom:area_square_m":273426189.75664,
     "geom:bbox":"-40.2378124511,-11.3405557094,-39.997467598,-11.176800055",
     "geom:latitude":-11.250375,
     "geom:longitude":-40.153977,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.254301,
     "lbl:longitude":-40.155818,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0646\u0643"
@@ -109,9 +118,12 @@
         102050929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291750826"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e4cee9cfbb3530adb8fc08d8d62b0144",
+    "wof:geomhash":"ca9071ba6f530427a49652b7f5688eab",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":404551279,
-    "wof:lastmodified":1577837731,
+    "wof:lastmodified":1695878684,
     "wof:name":"Junco",
     "wof:parent_id":102050929,
     "wof:placetype":"localadmin",

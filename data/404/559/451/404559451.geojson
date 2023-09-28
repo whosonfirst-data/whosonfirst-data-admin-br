@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114064,
-    "geom:area_square_m":1409776938.40312,
+    "geom:area_square_m":1409776938.403141,
     "geom:bbox":"-49.154547,-1.956582,-48.530411,-1.521444",
     "geom:latitude":-1.739432,
     "geom:longitude":-48.901386,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-1.709538,
     "lbl:longitude":-48.953244,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0628\u0627\u064a\u062a\u064a\u062a\u0648\u0628\u0627"
@@ -121,12 +130,15 @@
         102055663
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150010705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055663
     ],
     "wof:country":"BR",
-    "wof:geomhash":"56ffe4adc2e678ec6d3ae09693ed50eb",
+    "wof:geomhash":"ce8af0c776fd6d9dcb0dbdb6b6a65d52",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":404559451,
-    "wof:lastmodified":1636496427,
+    "wof:lastmodified":1695878859,
     "wof:name":"Abaetetuba",
     "wof:parent_id":102055663,
     "wof:placetype":"localadmin",

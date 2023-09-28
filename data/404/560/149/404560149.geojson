@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012531,
-    "geom:area_square_m":153487152.019904,
+    "geom:area_square_m":153487152.019918,
     "geom:bbox":"-40.5459081449,-7.94766386564,-40.3436205773,-7.80277841519",
     "geom:latitude":-7.863448,
     "geom:longitude":-40.462056,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.873273,
     "lbl:longitude":-40.494218,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056513
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260110220"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f6ce45530766c5f84535c43ac1ca27f7",
+    "wof:geomhash":"6260f1b7417f5d5f8bb98d5b0ff6aa9e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560149,
-    "wof:lastmodified":1577837905,
+    "wof:lastmodified":1695878727,
     "wof:name":"Nascente",
     "wof:parent_id":102056513,
     "wof:placetype":"localadmin",

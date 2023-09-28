@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02049,
-    "geom:area_square_m":234502856.905025,
+    "geom:area_square_m":234502856.905042,
     "geom:bbox":"-50.0508182411,-22.3391782049,-49.8746053639,-22.144191",
     "geom:latitude":-22.248675,
     "geom:longitude":-49.958122,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.271442,
     "lbl:longitude":-49.959824,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u064a\u0644\u064a\u0627"
@@ -118,9 +127,12 @@
         102061725
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352900505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3212e1ea5b81bcac2a1412694ea2cd5c",
+    "wof:geomhash":"729628f2d39010ee49c6cbe18166764b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":404566721,
-    "wof:lastmodified":1577833161,
+    "wof:lastmodified":1695878531,
     "wof:name":"Mar\u00edlia",
     "wof:parent_id":102061725,
     "wof:placetype":"localadmin",

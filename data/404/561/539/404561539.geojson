@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01513,
-    "geom:area_square_m":169272087.517006,
+    "geom:area_square_m":169272087.516996,
     "geom:bbox":"-52.607683733,-25.2722969638,-52.407947233,-25.1123815176",
     "geom:latitude":-25.205976,
     "geom:longitude":-52.506659,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.206902,
     "lbl:longitude":-52.508039,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09b0\u09be\u0987"
@@ -91,9 +100,12 @@
         102057933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411705715"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7a3a0adf2ce360c4bc17b831f19f4f02",
+    "wof:geomhash":"5a9c496b90c30f29bb65c3e1e669165c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404561539,
-    "wof:lastmodified":1577827791,
+    "wof:lastmodified":1695878219,
     "wof:name":"Guara\u00ed",
     "wof:parent_id":102057933,
     "wof:placetype":"localadmin",

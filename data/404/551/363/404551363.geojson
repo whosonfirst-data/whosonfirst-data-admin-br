@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010924,
-    "geom:area_square_m":132559941.421228,
+    "geom:area_square_m":132559941.421238,
     "geom:bbox":"-42.025801627,-11.1777986744,-41.9014120897,-10.9687765545",
     "geom:latitude":-11.087966,
     "geom:longitude":-41.963209,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.098135,
     "lbl:longitude":-41.969277,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09c1\u09b8\u09b8\u09be\u09b0\u09be"
@@ -91,9 +100,12 @@
         102050957
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291850605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"940a2e8dbb2237118c7435519dd22873",
+    "wof:geomhash":"4c42eed1a20fb5a422645c863a37d173",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404551363,
-    "wof:lastmodified":1577837839,
+    "wof:lastmodified":1695878711,
     "wof:name":"Jussara",
     "wof:parent_id":102050957,
     "wof:placetype":"localadmin",

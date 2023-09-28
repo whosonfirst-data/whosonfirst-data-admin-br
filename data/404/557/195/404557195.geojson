@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005473,
-    "geom:area_square_m":63590846.919167,
+    "geom:area_square_m":63590846.919137,
     "geom:bbox":"-44.541885,-20.0770629963,-44.44831,-19.9483959964",
     "geom:latitude":-20.00394,
     "geom:longitude":-44.488806,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.992684,
     "lbl:longitude":-44.484205,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314070410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"67f984e1c84b849ce563bc0cfedcbe95",
+    "wof:geomhash":"59b609dc2515ee09b88bec2257fcf211",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557195,
-    "wof:lastmodified":1577832733,
+    "wof:lastmodified":1695878387,
     "wof:name":"Azurita",
     "wof:parent_id":102054309,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006445,
-    "geom:area_square_m":75424674.805421,
+    "geom:area_square_m":75424674.805423,
     "geom:bbox":"-40.8969084143,-18.8963086327,-40.8079536237,-18.7650548656",
     "geom:latitude":-18.829258,
     "geom:longitude":-40.854942,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.828169,
     "lbl:longitude":-40.855595,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u09b0\u09cd\u0997\u09c7\u09ae \u0986\u09b2\u09c7\u0997\u09cd\u09b0\u09c7"
@@ -97,9 +106,12 @@
         102051843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320090456"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b9b9982bbfa55f1eaf5ca43445e17849",
+    "wof:geomhash":"2ea5da8dc6ee4be23bdeac9b40ca7aae",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404554225,
-    "wof:lastmodified":1577833368,
+    "wof:lastmodified":1695878594,
     "wof:name":"Vargem Alegre",
     "wof:parent_id":102051843,
     "wof:placetype":"localadmin",

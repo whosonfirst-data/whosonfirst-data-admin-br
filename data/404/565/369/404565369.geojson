@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005393,
-    "geom:area_square_m":59781853.620624,
+    "geom:area_square_m":59781853.620629,
     "geom:bbox":"-53.6778054592,-26.3350143644,-53.5523640371,-26.2477629941",
     "geom:latitude":-26.294424,
     "geom:longitude":-53.617846,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.293973,
     "lbl:longitude":-53.623097,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09bf\u0993\u09a8\u09bf\u09b8\u09bf\u0993 \u09b8\u09c7\u09b0\u09cd\u0995\u09c1\u09af\u09bc\u09c7\u0987\u09b0\u09be"
@@ -94,9 +103,12 @@
         102060365
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420500105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"596004576ca0c1882c18eebcdc93fc0c",
+    "wof:geomhash":"0608706f1ce8fca96f52051d0b5aae4c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404565369,
-    "wof:lastmodified":1577827765,
+    "wof:lastmodified":1695878207,
     "wof:name":"Dion\u00edsio Cerqueira",
     "wof:parent_id":102060365,
     "wof:placetype":"localadmin",

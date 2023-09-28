@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037429,
-    "geom:area_square_m":448941426.896287,
+    "geom:area_square_m":448941426.8963,
     "geom:bbox":"-39.516181,-14.241542,-39.330348,-13.875885",
     "geom:latitude":-14.06543,
     "geom:longitude":-39.432859,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.082293,
     "lbl:longitude":-39.418779,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09bf\u09b0\u09be\u09aa\u09bf\u099f\u09be\u0999\u09cd\u0997\u09be"
@@ -94,12 +103,15 @@
         102050807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291270705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050807
     ],
     "wof:country":"BR",
-    "wof:geomhash":"8ef8bffdfafa676ee3fdff75b3d2edde",
+    "wof:geomhash":"b6cdae3f9f11d3be6f95d6905f222851",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404551051,
-    "wof:lastmodified":1617131473,
+    "wof:lastmodified":1695878851,
     "wof:name":"Ibirapitanga",
     "wof:parent_id":102050807,
     "wof:placetype":"localadmin",

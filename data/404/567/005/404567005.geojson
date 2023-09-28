@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016244,
-    "geom:area_square_m":185830941.131552,
+    "geom:area_square_m":185830941.131571,
     "geom:bbox":"-51.6002339818,-22.5111978276,-51.4130429035,-22.1977472523",
     "geom:latitude":-22.30388,
     "geom:longitude":-51.50407,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.288987,
     "lbl:longitude":-51.497292,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09b0\u09be\u09aa\u09cb\u099c\u09bf\u09a8\u09b9\u09cb"
@@ -91,9 +100,12 @@
         102061977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"353920205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b455b6d2d7f2df1c158223313d65de28",
+    "wof:geomhash":"d080a3d0989b4e1f9821e520ee10bf80",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404567005,
-    "wof:lastmodified":1577833341,
+    "wof:lastmodified":1695878586,
     "wof:name":"Pirapozinho",
     "wof:parent_id":102061977,
     "wof:placetype":"localadmin",

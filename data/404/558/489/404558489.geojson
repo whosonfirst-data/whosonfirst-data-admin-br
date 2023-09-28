@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01869,
-    "geom:area_square_m":219298616.285811,
+    "geom:area_square_m":219298616.285608,
     "geom:bbox":"-43.336406,-18.482112,-43.100401,-18.298965",
     "geom:latitude":-18.390648,
     "geom:longitude":-43.207278,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.383856,
     "lbl:longitude":-43.205486,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102055009,
         1511777411,
-        85681941
+        102055009
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316650105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055009
     ],
     "wof:country":"BR",
-    "wof:geomhash":"8da431e9453e734c67207ee334013fe1",
+    "wof:geomhash":"a1f0f205e0a99023c85dd09983b13bbd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404558489,
-    "wof:lastmodified":1608030550,
+    "wof:lastmodified":1695878778,
     "wof:name":"Serra Azul De Minas",
     "wof:parent_id":102055009,
     "wof:placetype":"localadmin",

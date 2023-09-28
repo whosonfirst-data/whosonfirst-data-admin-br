@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002874,
-    "geom:area_square_m":30975942.831873,
+    "geom:area_square_m":30975942.831908,
     "geom:bbox":"-53.1942954175,-29.3737780861,-53.0999922767,-29.3101889685",
     "geom:latitude":-29.339088,
     "geom:longitude":-53.137792,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.337675,
     "lbl:longitude":-53.133867,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u0995\u09c1\u09f1\u09be\u09b0\u09cd\u09af\u09bc\u09be\u09b2"
@@ -94,9 +103,12 @@
         102059093
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430120645"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"820003aad4ab6f8f28bb350d275732ae",
+    "wof:geomhash":"54a8364ea045efb9fc86bad56ce5181c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404563001,
-    "wof:lastmodified":1577827883,
+    "wof:lastmodified":1695878263,
     "wof:name":"Taquaral",
     "wof:parent_id":102059093,
     "wof:placetype":"localadmin",

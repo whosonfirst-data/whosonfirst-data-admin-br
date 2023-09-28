@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05929,
-    "geom:area_square_m":732159223.475746,
+    "geom:area_square_m":732159223.475778,
     "geom:bbox":"-42.5664030367,-3.09247918567,-42.1694361474,-2.7977966347",
     "geom:latitude":-2.960386,
     "geom:longitude":-42.349884,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-2.977027,
     "lbl:longitude":-42.346873,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u09b0\u09cb \u09a1\u09c1\u09b0\u09cb"
@@ -85,9 +94,12 @@
         102053233
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"211250610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c98669aa87ec50e369c34e728907045e",
+    "wof:geomhash":"43853fccc1f9d329aeb3d2b1ebe4120d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404555097,
-    "wof:lastmodified":1577837900,
+    "wof:lastmodified":1695878725,
     "wof:name":"Barro Duro",
     "wof:parent_id":102053233,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014659,
-    "geom:area_square_m":181051972.5832,
+    "geom:area_square_m":181051972.583207,
     "geom:bbox":"-45.3577281944,-2.81920784267,-45.1463774268,-2.69703231178",
     "geom:latitude":-2.759129,
     "geom:longitude":-45.248736,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-2.752734,
     "lbl:longitude":-45.266328,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Roque"
@@ -85,9 +94,12 @@
         102053085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"210860310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3defc029f0d8c80ed027b8f4a30037c7",
+    "wof:geomhash":"0f17fa360e61f7261509b458c99bc19c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404555061,
-    "wof:lastmodified":1577837640,
+    "wof:lastmodified":1695878662,
     "wof:name":"Roque",
     "wof:parent_id":102053085,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004378,
-    "geom:area_square_m":53982127.152361,
+    "geom:area_square_m":53982127.152348,
     "geom:bbox":"-39.339085945,-4.28013475769,-39.235413945,-4.17177226796",
     "geom:latitude":-4.216202,
     "geom:longitude":-39.281151,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.214998,
     "lbl:longitude":-39.280366,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09a1\u09cb\u09ae\u09bf\u09a8\u0997\u09cb\u09b8"
@@ -82,9 +91,12 @@
         102051481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230300615"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b60663d353a5f6cccd982ed0b3dfdcc8",
+    "wof:geomhash":"fe6ee59e440130de0fe4d634d13d581f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404552611,
-    "wof:lastmodified":1577837924,
+    "wof:lastmodified":1695878732,
     "wof:name":"S\u00e3o Domingos",
     "wof:parent_id":102051481,
     "wof:placetype":"localadmin",

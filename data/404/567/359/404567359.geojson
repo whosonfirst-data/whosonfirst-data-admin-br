@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000553,
-    "geom:area_square_m":6267629.043871,
+    "geom:area_square_m":6267629.043859,
     "geom:bbox":"-46.68276,-23.58414,-46.64894,-23.551021",
     "geom:latitude":-23.566381,
     "geom:longitude":-46.666756,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.566634,
     "lbl:longitude":-46.665608,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Jardim Paulista"
@@ -43,9 +52,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030845"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bc615fdc4a02a6c148a5b9dde0c1ab64",
+    "wof:geomhash":"f6ce55a51778fc015fca6604e1da587c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":404567359,
-    "wof:lastmodified":1577833285,
+    "wof:lastmodified":1695878571,
     "wof:name":"Jardim Paulista",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

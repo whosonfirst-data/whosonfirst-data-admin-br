@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003863,
-    "geom:area_square_m":43275438.779653,
+    "geom:area_square_m":43275438.77965,
     "geom:bbox":"-54.3084654768,-25.0563781253,-54.1644316775,-25.0177338807",
     "geom:latitude":-25.034497,
     "geom:longitude":-54.22853,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.036939,
     "lbl:longitude":-54.229876,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057907
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411605910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e6bb5491c6a9c41bbc5f55c7172eb9ab",
+    "wof:geomhash":"a2918a0c442fa7cfd3b2013c220a0736",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561497,
-    "wof:lastmodified":1577827873,
+    "wof:lastmodified":1695878258,
     "wof:name":"Dom Armando",
     "wof:parent_id":102057907,
     "wof:placetype":"localadmin",

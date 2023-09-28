@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000854,
-    "geom:area_square_m":9739072.788869,
+    "geom:area_square_m":9739072.788871,
     "geom:bbox":"-43.469218,-22.844999,-43.398926,-22.791675",
     "geom:latitude":-22.814208,
     "geom:longitude":-43.429255,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.807621,
     "lbl:longitude":-43.421045,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0644\u0648\u0628\u0648\u0644\u064a\u0633"
@@ -115,12 +124,15 @@
         102058409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330320305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101953255
     ],
     "wof:country":"BR",
-    "wof:geomhash":"de0ae2d73ffdd26fd123f2d61b96327e",
+    "wof:geomhash":"56bf18d4bd9896f79691dd524f97a573",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":404562379,
-    "wof:lastmodified":1617131089,
+    "wof:lastmodified":1695878840,
     "wof:name":"Nil\u00f3polis",
     "wof:parent_id":102058409,
     "wof:placetype":"localadmin",

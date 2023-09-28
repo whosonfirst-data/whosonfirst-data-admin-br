@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017456,
-    "geom:area_square_m":195153461.149631,
+    "geom:area_square_m":195153461.149572,
     "geom:bbox":"-49.452195,-25.384266,-49.229397,-25.224454",
     "geom:latitude":-25.29639,
     "geom:longitude":-49.323639,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.291577,
     "lbl:longitude":-49.321937,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681983,
         102191577,
         85633009,
-        102057413,
         1511777409,
-        85681983
+        102057413
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410040005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102057413
     ],
     "wof:country":"BR",
-    "wof:geomhash":"e78ad7b402dc07475b1ed5c6579f360a",
+    "wof:geomhash":"022523751573d7fa8c1c305df6cf941a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404560815,
-    "wof:lastmodified":1608029890,
+    "wof:lastmodified":1695878771,
     "wof:name":"Almirante Tamandar\u00e9",
     "wof:parent_id":102057413,
     "wof:placetype":"localadmin",

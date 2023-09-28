@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007138,
-    "geom:area_square_m":82299384.012141,
+    "geom:area_square_m":82299384.012122,
     "geom:bbox":"-44.013387,-21.230921,-43.896246,-21.121208",
     "geom:latitude":-21.183229,
     "geom:longitude":-43.957817,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.176748,
     "lbl:longitude":-43.948121,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barroso"
@@ -69,19 +78,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053507,
         1511777411,
-        85681941
+        102053507
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310590505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053507
     ],
     "wof:country":"BR",
-    "wof:geomhash":"fd5725bfa5943a6e5163e14016d48f4b",
+    "wof:geomhash":"e9eb5732a612815d381506f7a17bd194",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404555393,
-    "wof:lastmodified":1608032620,
+    "wof:lastmodified":1695878811,
     "wof:name":"Barroso",
     "wof:parent_id":102053507,
     "wof:placetype":"localadmin",

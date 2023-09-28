@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00496,
-    "geom:area_square_m":60819699.139481,
+    "geom:area_square_m":60819699.139501,
     "geom:bbox":"-38.4142855596,-7.43820474207,-38.3132258826,-7.3468318228",
     "geom:latitude":-7.395919,
     "geom:longitude":-38.368573,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.392568,
     "lbl:longitude":-38.381975,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u099c\u0986\u09a8\u099f\u09c7"
@@ -100,9 +109,12 @@
         102056153
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250560010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"45d5524de4c414eb2ffd4ca0e0a5454e",
+    "wof:geomhash":"6126f1ff343c8b1bfc35ab9fd29787d5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404559935,
-    "wof:lastmodified":1577837855,
+    "wof:lastmodified":1695878714,
     "wof:name":"Vazante",
     "wof:parent_id":102056153,
     "wof:placetype":"localadmin",

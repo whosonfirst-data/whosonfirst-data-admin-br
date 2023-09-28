@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020131,
-    "geom:area_square_m":239036132.694529,
+    "geom:area_square_m":239036132.694556,
     "geom:bbox":"-43.993195,-16.2997339969,-43.77221,-16.117114997",
     "geom:latitude":-16.200645,
     "geom:longitude":-43.905066,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.197643,
     "lbl:longitude":-43.912641,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314330235"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bfb458a34407232531b1c6e4bde2de92",
+    "wof:geomhash":"c36c6877c2db513d0d51503dc366eda1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557327,
-    "wof:lastmodified":1577832830,
+    "wof:lastmodified":1695878422,
     "wof:name":"S\u00e3o Pedro Da Gar\u00e7a",
     "wof:parent_id":102054373,
     "wof:placetype":"localadmin",

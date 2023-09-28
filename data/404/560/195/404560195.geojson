@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053089,
-    "geom:area_square_m":650862919.934183,
+    "geom:area_square_m":650862919.934157,
     "geom:bbox":"-40.1571334189,-7.67182236228,-39.9043521412,-7.33721029793",
     "geom:latitude":-7.48387,
     "geom:longitude":-40.028018,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.481794,
     "lbl:longitude":-40.030431,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260200115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"08d8069508426440561149fed8a1c3ee",
+    "wof:geomhash":"45a0dc4d026741001358877d9bd4b60b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560195,
-    "wof:lastmodified":1577837687,
+    "wof:lastmodified":1695878675,
     "wof:name":"Feitoria",
     "wof:parent_id":102056533,
     "wof:placetype":"localadmin",

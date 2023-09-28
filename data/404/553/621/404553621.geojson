@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029118,
-    "geom:area_square_m":358068415.328416,
+    "geom:area_square_m":358068415.328463,
     "geom:bbox":"-38.58436566,-6.15197828377,-38.3976147254,-5.7802113346",
     "geom:latitude":-6.010434,
     "geom:longitude":-38.47678,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.037579,
     "lbl:longitude":-38.467606,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pereiro"
@@ -61,9 +70,12 @@
         102051715
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231080305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d2f550b99a549ab4d527039ac617bdc7",
+    "wof:geomhash":"4e207e24eecbdbd100bac725d8d4bf64",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404553621,
-    "wof:lastmodified":1577837935,
+    "wof:lastmodified":1695878735,
     "wof:name":"Pereiro",
     "wof:parent_id":102051715,
     "wof:placetype":"localadmin",

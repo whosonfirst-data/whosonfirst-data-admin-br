@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009768,
-    "geom:area_square_m":117991962.21853,
+    "geom:area_square_m":117991962.218521,
     "geom:bbox":"-38.848687919,-12.3736102348,-38.637307302,-12.2812077698",
     "geom:latitude":-12.337865,
     "geom:longitude":-38.740052,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.328801,
     "lbl:longitude":-38.741737,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290850705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5e29fc363f495a96bea7680c4af8a8cc",
+    "wof:geomhash":"f8c68e4f1501db21e09b61a8039b2a53",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550831,
-    "wof:lastmodified":1577837769,
+    "wof:lastmodified":1695878693,
     "wof:name":"Concei\u00e7\u00e3o Do Jacu\u00edpe",
     "wof:parent_id":102050695,
     "wof:placetype":"localadmin",

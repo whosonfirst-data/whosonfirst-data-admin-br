@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012568,
-    "geom:area_square_m":144516897.095322,
+    "geom:area_square_m":144516897.095382,
     "geom:bbox":"-50.557494,-21.662101,-50.396297,-21.518332",
     "geom:latitude":-21.580044,
     "geom:longitude":-50.466207,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.565423,
     "lbl:longitude":-50.464993,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Clementina"
@@ -48,19 +57,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061291,
         1511777411,
-        85682041
+        102061291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351190405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061291
     ],
     "wof:country":"BR",
-    "wof:geomhash":"76758b3153615d06e4ae49875859149a",
+    "wof:geomhash":"10e87cb3e59806e2fbd3deca281e1f21",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":404566331,
-    "wof:lastmodified":1608030659,
+    "wof:lastmodified":1695878780,
     "wof:name":"Clementina",
     "wof:parent_id":102061291,
     "wof:placetype":"localadmin",

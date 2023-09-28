@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004111,
-    "geom:area_square_m":49527054.806433,
+    "geom:area_square_m":49527054.806415,
     "geom:bbox":"-39.142049499,-13.065705388,-39.025507513,-12.956983393",
     "geom:latitude":-13.016695,
     "geom:longitude":-39.077177,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.019735,
     "lbl:longitude":-39.073235,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051065
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292220110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4ab3521acef1102031abee25d67fb284",
+    "wof:geomhash":"4d7014af99a37ac50ddf80e4fb9cffc0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551603,
-    "wof:lastmodified":1577837925,
+    "wof:lastmodified":1695878732,
     "wof:name":"Onha",
     "wof:parent_id":102051065,
     "wof:placetype":"localadmin",

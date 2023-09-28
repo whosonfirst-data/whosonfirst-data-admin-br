@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018994,
-    "geom:area_square_m":205592582.214745,
+    "geom:area_square_m":205592582.214875,
     "geom:bbox":"-49.86831,-28.984082,-49.533503,-28.843328",
     "geom:latitude":-28.911648,
     "geom:longitude":-49.701302,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.925518,
     "lbl:longitude":-49.689938,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c1\u09b0\u09cd\u09ad\u09cb"
@@ -81,19 +90,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060811,
         1511777409,
-        85682021
+        102060811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421880605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060811
     ],
     "wof:country":"BR",
-    "wof:geomhash":"d57b16817d15d08efe624a460da0d508",
+    "wof:geomhash":"e02d738fbff958070db0230d1fa8ef88",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404565965,
-    "wof:lastmodified":1608034153,
+    "wof:lastmodified":1695878818,
     "wof:name":"Turvo",
     "wof:parent_id":102060811,
     "wof:placetype":"localadmin",

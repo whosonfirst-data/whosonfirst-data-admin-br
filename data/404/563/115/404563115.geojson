@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035307,
-    "geom:area_square_m":383520460.999888,
+    "geom:area_square_m":383520460.999891,
     "geom:bbox":"-50.3000868348,-28.6477778219,-50.0221023128,-28.4282705194",
     "geom:latitude":-28.542021,
     "geom:longitude":-50.155844,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.564672,
     "lbl:longitude":-50.130591,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09cb \u0987\u09a8\u09be\u09b8\u09bf\u0993"
@@ -88,9 +97,12 @@
         102059147
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430230320"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1d3381e8bfe94ebb4e483f0cf2caf169",
+    "wof:geomhash":"f5306c23a62e9ae7f98205d82b4017d2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404563115,
-    "wof:lastmodified":1577827724,
+    "wof:lastmodified":1695878188,
     "wof:name":"Santo In\u00e1cio",
     "wof:parent_id":102059147,
     "wof:placetype":"localadmin",

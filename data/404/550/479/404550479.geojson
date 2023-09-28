@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013208,
-    "geom:area_square_m":157608066.806251,
+    "geom:area_square_m":157608066.80627,
     "geom:bbox":"-39.485973676,-15.260388852,-39.29819858,-15.1301837415",
     "geom:latitude":-15.193999,
     "geom:longitude":-39.389323,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.202831,
     "lbl:longitude":-39.411369,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290225210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ac46be35cd935ce50f6e235dba54ac5d",
+    "wof:geomhash":"c4203d20ff1889fbd7ef54a7124b5691",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550479,
-    "wof:lastmodified":1577837631,
+    "wof:lastmodified":1695878660,
     "wof:name":"Itatingui",
     "wof:parent_id":102050525,
     "wof:placetype":"localadmin",

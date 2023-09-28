@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008839,
-    "geom:area_square_m":100075733.390778,
+    "geom:area_square_m":100075733.390808,
     "geom:bbox":"-47.7959887932,-23.7428743951,-47.6373871849,-23.6340338047",
     "geom:latitude":-23.697885,
     "geom:longitude":-47.717691,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.698344,
     "lbl:longitude":-47.742916,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102062273
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355110815"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"aaba925f6e43325a3ad9dd99480cf845",
+    "wof:geomhash":"7317c66b167e42ff110fdbf698530f69",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404567501,
-    "wof:lastmodified":1577833376,
+    "wof:lastmodified":1695878597,
     "wof:name":"Cocaes",
     "wof:parent_id":102062273,
     "wof:placetype":"localadmin",

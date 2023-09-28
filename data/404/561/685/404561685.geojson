@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013513,
-    "geom:area_square_m":153782610.144706,
+    "geom:area_square_m":153782610.144676,
     "geom:bbox":"-51.492079,-23.093647,-51.31167,-22.961302",
     "geom:latitude":-23.025572,
     "geom:longitude":-51.400546,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.027839,
     "lbl:longitude":-51.399194,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cd\u09b0\u09be\u09a1\u09cb \u09ab\u09c7\u09b0\u09cd\u09b0\u09c7\u0987\u09b0\u09be"
@@ -84,19 +93,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681983,
         102191577,
         85633009,
-        102058039,
         1511777409,
-        85681983
+        102058039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412033305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102058039
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a27b821f66cca2ec2188a324bbc97c9c",
+    "wof:geomhash":"fae8a8d47ed349fb0a55d5c4aa00da97",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404561685,
-    "wof:lastmodified":1608031576,
+    "wof:lastmodified":1695878789,
     "wof:name":"Prado Ferreira",
     "wof:parent_id":102058039,
     "wof:placetype":"localadmin",

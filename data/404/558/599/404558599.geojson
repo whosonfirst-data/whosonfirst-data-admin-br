@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001328,
-    "geom:area_square_m":15314012.579497,
+    "geom:area_square_m":15314012.579503,
     "geom:bbox":"-44.162672,-21.1787859968,-44.09191,-21.1363249968",
     "geom:latitude":-21.157383,
     "geom:longitude":-44.125674,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.162678,
     "lbl:longitude":-44.125657,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0648\u0627\u0633"
@@ -154,9 +163,12 @@
         102055065
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316880415"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"63bff95bddac823aab578e55100f2bfe",
+    "wof:geomhash":"f7986f3f06a330e17419d40074172454",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -168,7 +180,7 @@
         }
     ],
     "wof:id":404558599,
-    "wof:lastmodified":1577833004,
+    "wof:lastmodified":1695878482,
     "wof:name":"Elvas",
     "wof:parent_id":102055065,
     "wof:placetype":"localadmin",

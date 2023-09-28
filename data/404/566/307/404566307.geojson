@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007426,
-    "geom:area_square_m":86285698.236238,
+    "geom:area_square_m":86285698.236239,
     "geom:bbox":"-50.1116963017,-20.0717215171,-50.0073588145,-19.9164224973",
     "geom:latitude":-20.008631,
     "geom:longitude":-50.052072,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.011587,
     "lbl:longitude":-50.044233,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061265
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351070810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"fd02e46c02fc73b9d837c33aba5cfab3",
+    "wof:geomhash":"94599053e724a67f69d2904ce9de50f6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566307,
-    "wof:lastmodified":1577832829,
+    "wof:lastmodified":1695878422,
     "wof:name":"S\u00e3o Jo\u00e3o Do Marinheiro",
     "wof:parent_id":102061265,
     "wof:placetype":"localadmin",

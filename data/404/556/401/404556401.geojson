@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045318,
-    "geom:area_square_m":525029693.502604,
+    "geom:area_square_m":525029690.542059,
     "geom:bbox":"-45.58888,-20.615648,-45.29771,-20.312043",
     "geom:latitude":-20.4567,
     "geom:longitude":-45.418681,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.45904,
     "lbl:longitude":-45.404414,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0631\u0645\u064a\u062c\u0627"
@@ -127,9 +136,12 @@
         102053903
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312610905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"64cedb64a214abf0e25c58896bf1742a",
+    "wof:geomhash":"8d72a4f7c794d05a90db1a1c563caaca",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +153,7 @@
         }
     ],
     "wof:id":404556401,
-    "wof:lastmodified":1636496411,
+    "wof:lastmodified":1695878854,
     "wof:name":"Formiga",
     "wof:parent_id":102053903,
     "wof:placetype":"localadmin",

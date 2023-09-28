@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010843,
-    "geom:area_square_m":125702506.091142,
+    "geom:area_square_m":125702506.091057,
     "geom:bbox":"-45.835879,-20.4255779969,-45.70853,-20.2884109969",
     "geom:latitude":-20.357181,
     "geom:longitude":-45.770801,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.359205,
     "lbl:longitude":-45.772022,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054473
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314650310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"686a777cde9d4f14a41fade54e8c6f7d",
+    "wof:geomhash":"ce0baa69abb76387a0ce36b73755868b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557513,
-    "wof:lastmodified":1577832946,
+    "wof:lastmodified":1695878466,
     "wof:name":"Vila Costina",
     "wof:parent_id":102054473,
     "wof:placetype":"localadmin",

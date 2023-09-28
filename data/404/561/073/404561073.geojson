@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023902,
-    "geom:area_square_m":270697324.085814,
+    "geom:area_square_m":270697324.085959,
     "geom:bbox":"-50.6250152121,-23.7661456155,-50.3923597789,-23.5938528312",
     "geom:latitude":-23.667998,
     "geom:longitude":-50.503966,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.667673,
     "lbl:longitude":-50.503888,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057587
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410600110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"437e68ef7660c2c3974a9cbb2ac8f549",
+    "wof:geomhash":"f9cbb9ab2a3850814b65f2b3fc8f1cde",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561073,
-    "wof:lastmodified":1577827715,
+    "wof:lastmodified":1695878183,
     "wof:name":"Santa Maria Do Rio Do Peixe",
     "wof:parent_id":102057587,
     "wof:placetype":"localadmin",

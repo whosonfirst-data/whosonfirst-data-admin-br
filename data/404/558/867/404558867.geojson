@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198924,
-    "geom:area_square_m":2313858560.617079,
+    "geom:area_square_m":2313858560.617403,
     "geom:bbox":"-55.396419,-20.164874,-54.737007,-19.520847",
     "geom:latitude":-19.831207,
     "geom:longitude":-55.096033,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.789366,
     "lbl:longitude":-55.178199,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b0\u09cd\u0997\u09c1\u0987\u09a8\u09b9\u09cb"
@@ -94,12 +103,15 @@
         102055223
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500310805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055223
     ],
     "wof:country":"BR",
-    "wof:geomhash":"ef22647734d04db60e221d71c2472de0",
+    "wof:geomhash":"583f52c4d7608edaaa369731bd583ac5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404558867,
-    "wof:lastmodified":1617130075,
+    "wof:lastmodified":1695878831,
     "wof:name":"Corguinho",
     "wof:parent_id":102055223,
     "wof:placetype":"localadmin",

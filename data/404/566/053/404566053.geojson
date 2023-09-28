@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05144,
-    "geom:area_square_m":587646706.671816,
+    "geom:area_square_m":587646706.671877,
     "geom:bbox":"-49.1807983751,-22.6660799039,-48.8509631251,-22.3374685318",
     "geom:latitude":-22.501371,
     "geom:longitude":-49.013458,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.458379,
     "lbl:longitude":-48.986108,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u0997\u09c1\u09a1\u09cb\u09b8"
@@ -94,9 +103,12 @@
         102061005
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350070905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"255cfcb79bb0b6c76061fe10d92e2c5e",
+    "wof:geomhash":"f4c469c20d48993b144143d8e2128c3e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404566053,
-    "wof:lastmodified":1577832602,
+    "wof:lastmodified":1695878338,
     "wof:name":"Agudos",
     "wof:parent_id":102061005,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005068,
-    "geom:area_square_m":55275490.4625,
+    "geom:area_square_m":55275490.462512,
     "geom:bbox":"-52.9013863794,-28.1983750346,-52.8057220464,-28.054727951",
     "geom:latitude":-28.11866,
     "geom:longitude":-52.852833,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.118439,
     "lbl:longitude":-52.845741,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430047130"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dd84d333a77d9251521f1c184e597203",
+    "wof:geomhash":"965c5a3d58989614ac77299c8e5ba16c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562921,
-    "wof:lastmodified":1577827980,
+    "wof:lastmodified":1695878308,
     "wof:name":"Rinc\u00e3o Do Segredo",
     "wof:parent_id":102059053,
     "wof:placetype":"localadmin",

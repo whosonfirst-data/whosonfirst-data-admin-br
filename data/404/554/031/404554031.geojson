@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008064,
-    "geom:area_square_m":99051967.272335,
+    "geom:area_square_m":99051967.272368,
     "geom:bbox":"-38.8774354873,-6.67667149354,-38.734191728,-6.58175851093",
     "geom:latitude":-6.63051,
     "geom:longitude":-38.801564,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.629338,
     "lbl:longitude":-38.802925,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231370815"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"74bdb65f3b88c0db8df66f662a445313",
+    "wof:geomhash":"4f3e6a736185eca69ae36cc7d194ca25",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554031,
-    "wof:lastmodified":1577837886,
+    "wof:lastmodified":1695878722,
     "wof:name":"Pio X",
     "wof:parent_id":102051799,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016927,
-    "geom:area_square_m":190343589.498244,
+    "geom:area_square_m":190343589.498241,
     "geom:bbox":"-53.7158444978,-24.689494183,-53.5469227821,-24.4923331356",
     "geom:latitude":-24.577077,
     "geom:longitude":-53.62777,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.57734,
     "lbl:longitude":-53.629058,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057461
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410200010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7302e0ff271001a122d33d305cb0c72a",
+    "wof:geomhash":"fc56fcf902096a33f939fb985dd82447",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560903,
-    "wof:lastmodified":1577827960,
+    "wof:lastmodified":1695878298,
     "wof:name":"Bragantina",
     "wof:parent_id":102057461,
     "wof:placetype":"localadmin",

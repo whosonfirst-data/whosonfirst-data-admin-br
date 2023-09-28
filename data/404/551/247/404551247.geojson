@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007789,
-    "geom:area_square_m":93031470.121139,
+    "geom:area_square_m":93031470.121204,
     "geom:bbox":"-40.091496957,-15.0639758954,-39.9568442857,-14.9497037455",
     "geom:latitude":-15.003828,
     "geom:longitude":-40.020261,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.003629,
     "lbl:longitude":-40.019251,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Itati"
@@ -82,9 +91,12 @@
         102050915
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291710210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"047fa809cc1b74db2d12bb414292808a",
+    "wof:geomhash":"9eef04c37bf30a0112d8ae00c09d99b0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404551247,
-    "wof:lastmodified":1577837611,
+    "wof:lastmodified":1695878655,
     "wof:name":"Itati",
     "wof:parent_id":102050915,
     "wof:placetype":"localadmin",

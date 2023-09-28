@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016428,
-    "geom:area_square_m":201967026.082378,
+    "geom:area_square_m":201967026.082368,
     "geom:bbox":"-35.9182065894,-6.22990346438,-35.7174555341,-6.0733943618",
     "geom:latitude":-6.164284,
     "geom:longitude":-35.82351,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.170089,
     "lbl:longitude":-35.824994,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058855
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"241400105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f376c8b924eb36bcf5d03adb1e5a5179",
+    "wof:geomhash":"7c2a45687e2793c5bd651076e8ad92ef",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562729,
-    "wof:lastmodified":1577837623,
+    "wof:lastmodified":1695878658,
     "wof:name":"Tangar\u00e1",
     "wof:parent_id":102058855,
     "wof:placetype":"localadmin",

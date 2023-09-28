@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007078,
-    "geom:area_square_m":86809364.753577,
+    "geom:area_square_m":86809364.753593,
     "geom:bbox":"-35.8880774859,-7.33100718811,-35.7041393819,-7.25285342918",
     "geom:latitude":-7.294169,
     "geom:longitude":-35.792716,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.29329,
     "lbl:longitude":-35.80054,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0413\u0430\u043b\u0430\u043d\u0442\u0435"
@@ -37,9 +46,12 @@
         102056099
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250400920"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dc15297243285e5bed5f4034ca3a9714",
+    "wof:geomhash":"05d749fb01615eb05381268177d41ecc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404559897,
-    "wof:lastmodified":1577837962,
+    "wof:lastmodified":1695878742,
     "wof:name":"Galante",
     "wof:parent_id":102056099,
     "wof:placetype":"localadmin",

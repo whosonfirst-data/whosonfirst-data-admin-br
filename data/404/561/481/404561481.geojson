@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008593,
-    "geom:area_square_m":96725593.901479,
+    "geom:area_square_m":96725593.901482,
     "geom:bbox":"-53.8310261082,-24.5058574139,-53.7150048897,-24.3947624043",
     "geom:latitude":-24.45526,
     "geom:longitude":-53.759984,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.458747,
     "lbl:longitude":-53.759958,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057879
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411535810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b10c63cb0ccc7e556f99a24ddf3c3080",
+    "wof:geomhash":"9e15a93f739539cc273e7437ff284a66",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561481,
-    "wof:lastmodified":1577827778,
+    "wof:lastmodified":1695878213,
     "wof:name":"Candeia",
     "wof:parent_id":102057879,
     "wof:placetype":"localadmin",

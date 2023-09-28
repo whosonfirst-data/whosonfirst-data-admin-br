@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034052,
-    "geom:area_square_m":418694668.34162,
+    "geom:area_square_m":418694668.341598,
     "geom:bbox":"-39.5557912714,-6.18532521863,-39.3175412844,-5.97361578873",
     "geom:latitude":-6.069805,
     "geom:longitude":-39.447561,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.065232,
     "lbl:longitude":-39.457198,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u0995\u09cb\u09aa\u09bf\u09f1\u09be\u09b0\u09be"
@@ -97,9 +106,12 @@
         102051409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230030905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"85470467240486afda560fb42b45c3ac",
+    "wof:geomhash":"d919e60ffe9aeb420e7f7276a04113f4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404552263,
-    "wof:lastmodified":1577837922,
+    "wof:lastmodified":1695878731,
     "wof:name":"Acopiara",
     "wof:parent_id":102051409,
     "wof:placetype":"localadmin",

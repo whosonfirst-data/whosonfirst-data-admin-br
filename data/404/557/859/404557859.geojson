@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00622,
-    "geom:area_square_m":72283779.41418,
+    "geom:area_square_m":72283779.414135,
     "geom:bbox":"-43.84088,-20.029014,-43.72285,-19.927427",
     "geom:latitude":-19.980937,
     "geom:longitude":-43.783071,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.982188,
     "lbl:longitude":-43.783072,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09be\u09aa\u09cb\u09b8\u09cb\u09b8"
@@ -93,19 +102,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054661,
         1511777411,
-        85681941
+        102054661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315390505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054661
     ],
     "wof:country":"BR",
-    "wof:geomhash":"c88be1beb2631a711af568dd6629659e",
+    "wof:geomhash":"e0345022c6eee021ba5f1b61374ca369",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404557859,
-    "wof:lastmodified":1608031784,
+    "wof:lastmodified":1695878794,
     "wof:name":"Raposos",
     "wof:parent_id":102054661,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004304,
-    "geom:area_square_m":52983812.541642,
+    "geom:area_square_m":52983812.541616,
     "geom:bbox":"-38.4435099497,-5.44502612596,-38.3420393797,-5.36295314627",
     "geom:latitude":-5.408005,
     "geom:longitude":-38.396373,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.407282,
     "lbl:longitude":-38.397141,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09ae \u099c\u09c7\u09b8\u0989\u09b8"
@@ -79,9 +88,12 @@
         102051417
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230070520"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9a0b71798c3f9fcfc6297e990111ceda",
+    "wof:geomhash":"8d2202506220e6a4322fd1a4727eef38",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404552309,
-    "wof:lastmodified":1577837673,
+    "wof:lastmodified":1695878671,
     "wof:name":"Bom Jesus",
     "wof:parent_id":102051417,
     "wof:placetype":"localadmin",

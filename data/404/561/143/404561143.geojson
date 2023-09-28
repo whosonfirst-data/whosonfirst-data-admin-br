@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005605,
-    "geom:area_square_m":63471534.347405,
+    "geom:area_square_m":63471534.347411,
     "geom:bbox":"-52.2856876989,-23.7278567063,-52.1573758875,-23.6347312932",
     "geom:latitude":-23.67328,
     "geom:longitude":-52.231142,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.675273,
     "lbl:longitude":-52.240858,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057637
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410750420"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"01d2d4ac1824ad8e5a87dd7480a64a8b",
+    "wof:geomhash":"e1d3d42f69e2e153b55b580d3af090c2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561143,
-    "wof:lastmodified":1577827909,
+    "wof:lastmodified":1695878275,
     "wof:name":"Tri\u00e2ngulo",
     "wof:parent_id":102057637,
     "wof:placetype":"localadmin",

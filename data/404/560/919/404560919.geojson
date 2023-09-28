@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003299,
-    "geom:area_square_m":36822950.341223,
+    "geom:area_square_m":36822950.341218,
     "geom:bbox":"-49.6651383888,-25.5196479121,-49.57367,-25.4484707822",
     "geom:latitude":-25.482805,
     "geom:longitude":-49.614392,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.481656,
     "lbl:longitude":-49.610609,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c1\u0997\u09cd\u09b0\u09c7"
@@ -97,9 +106,12 @@
         102057467
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410230710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8dff45b9b92046952f01f54270d2f47d",
+    "wof:geomhash":"bfbe80d64ce71e434e132229abd38c75",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404560919,
-    "wof:lastmodified":1577827965,
+    "wof:lastmodified":1695878300,
     "wof:name":"Bugre",
     "wof:parent_id":102057467,
     "wof:placetype":"localadmin",

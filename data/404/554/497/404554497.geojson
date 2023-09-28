@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007988,
-    "geom:area_square_m":92111604.364936,
+    "geom:area_square_m":92111604.364934,
     "geom:bbox":"-41.5614564035,-21.2158488956,-41.3884703216,-21.1078499787",
     "geom:latitude":-21.167506,
     "geom:longitude":-41.472677,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.157104,
     "lbl:longitude":-41.478502,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320340320"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3a9c92b82525307d1b96da8c9386790c",
+    "wof:geomhash":"f15e42ba5520b312a658f4151002abc0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554497,
-    "wof:lastmodified":1577832572,
+    "wof:lastmodified":1695878325,
     "wof:name":"Ponte De Itabapoana",
     "wof:parent_id":102051923,
     "wof:placetype":"localadmin",

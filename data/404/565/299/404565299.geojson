@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015567,
-    "geom:area_square_m":172892929.04453,
+    "geom:area_square_m":172892929.044497,
     "geom:bbox":"-50.6445517806,-26.1430814256,-50.4116261415,-26.0018913866",
     "geom:latitude":-26.078126,
     "geom:longitude":-50.526623,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.08465,
     "lbl:longitude":-50.518722,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Paula Pereira"
@@ -43,9 +52,12 @@
         102060319
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420380825"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5a12a14319ce6add88c6e81ab8eeb110",
+    "wof:geomhash":"a9355154ed1a3fb6c8a68b6d0c069baf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":404565299,
-    "wof:lastmodified":1577827758,
+    "wof:lastmodified":1695878204,
     "wof:name":"Paula Pereira",
     "wof:parent_id":102060319,
     "wof:placetype":"localadmin",

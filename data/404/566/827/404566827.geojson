@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006059,
-    "geom:area_square_m":70081522.205954,
+    "geom:area_square_m":70081522.205901,
     "geom:bbox":"-49.9481846819,-20.760203253,-49.8131413259,-20.6344524111",
     "geom:latitude":-20.698341,
     "geom:longitude":-49.870967,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.695018,
     "lbl:longitude":-49.858737,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"353140715"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e9456a16e5c1217e129727f3cfb9f87c",
+    "wof:geomhash":"a5fadb4a274e0612d3a202d9e778cd7c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566827,
-    "wof:lastmodified":1577833399,
+    "wof:lastmodified":1695878607,
     "wof:name":"Itai\u00faba",
     "wof:parent_id":102061781,
     "wof:placetype":"localadmin",

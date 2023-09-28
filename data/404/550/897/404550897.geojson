@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015327,
-    "geom:area_square_m":184951884.888632,
+    "geom:area_square_m":184951884.888593,
     "geom:bbox":"-38.406714816,-12.677035115,-38.131596976,-12.535674933",
     "geom:latitude":-12.601455,
     "geom:longitude":-38.282656,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.600216,
     "lbl:longitude":-38.223333,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050731
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291005705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a054d37d04941e58c0dc7c8ecf8bc0b7",
+    "wof:geomhash":"4eccbd6661cd87c81f45ae026107d1a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550897,
-    "wof:lastmodified":1577837796,
+    "wof:lastmodified":1695878699,
     "wof:name":"Dias D'\u00c1vila",
     "wof:parent_id":102050731,
     "wof:placetype":"localadmin",

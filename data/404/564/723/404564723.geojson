@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007596,
-    "geom:area_square_m":82869018.55052,
+    "geom:area_square_m":82869018.550499,
     "geom:bbox":"-55.4377582848,-28.1305340503,-55.2923649533,-28.0353627511",
     "geom:latitude":-28.082918,
     "geom:longitude":-55.366895,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.080889,
     "lbl:longitude":-55.36689,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431920820"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dd8f859629fa781e942a374749202608",
+    "wof:geomhash":"3c5e70e4d96a0a0a8bc0bbd093a7e39f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564723,
-    "wof:lastmodified":1577827936,
+    "wof:lastmodified":1695878288,
     "wof:name":"Santo Isidro",
     "wof:parent_id":102059947,
     "wof:placetype":"localadmin",

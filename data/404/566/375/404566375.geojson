@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016583,
-    "geom:area_square_m":190785386.169531,
+    "geom:area_square_m":190785386.169563,
     "geom:bbox":"-51.6585653337,-21.593839526,-51.4761725505,-21.4270754983",
     "geom:latitude":-21.502808,
     "geom:longitude":-51.547102,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.510062,
     "lbl:longitude":-51.540898,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cd\u09b0\u09be\u09b8\u09c7\u09a8\u09be"
@@ -100,9 +109,12 @@
         102061349
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351440305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"19fc35545495001dc3e0a9adb99923cb",
+    "wof:geomhash":"f5c903bb29e784d92a634d8a0329cb60",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404566375,
-    "wof:lastmodified":1577832862,
+    "wof:lastmodified":1695878434,
     "wof:name":"Dracena",
     "wof:parent_id":102061349,
     "wof:placetype":"localadmin",

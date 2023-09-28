@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008991,
-    "geom:area_square_m":103941183.91168,
+    "geom:area_square_m":103941183.911713,
     "geom:bbox":"-40.9006513659,-20.8559636791,-40.770786631,-20.6875576111",
     "geom:latitude":-20.774959,
     "geom:longitude":-40.828095,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.778456,
     "lbl:longitude":-40.823741,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u0995\u09cb\u09a8\u09b9\u09be"
@@ -97,9 +106,12 @@
         102051889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320260305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"21c005bc9c9c7fc7c48ad8bb79f58030",
+    "wof:geomhash":"31b11b934d3567b45e544ff7b0634ce0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404554381,
-    "wof:lastmodified":1577833331,
+    "wof:lastmodified":1695878583,
     "wof:name":"Iconha",
     "wof:parent_id":102051889,
     "wof:placetype":"localadmin",

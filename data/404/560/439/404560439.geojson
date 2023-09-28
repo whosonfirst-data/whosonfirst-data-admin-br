@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001144,
-    "geom:area_square_m":14009475.520045,
+    "geom:area_square_m":14009475.52005,
     "geom:bbox":"-35.001326,-8.142973,-34.952126,-8.069719",
     "geom:latitude":-8.109209,
     "geom:longitude":-34.97256,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.102469,
     "lbl:longitude":-34.974208,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102056683
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260790110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101948655
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a3405ea4c3b29a4bbbefc74140d7f990",
+    "wof:geomhash":"c268e8326b42412013426d10ae70889c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404560439,
-    "wof:lastmodified":1617131333,
+    "wof:lastmodified":1695878846,
     "wof:name":"Cavaleiro",
     "wof:parent_id":102056683,
     "wof:placetype":"localadmin",

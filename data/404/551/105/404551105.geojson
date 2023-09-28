@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034774,
-    "geom:area_square_m":415332401.519844,
+    "geom:area_square_m":415332401.52004,
     "geom:bbox":"-39.236151891,-15.1202777395,-38.99596566,-14.8808196692",
     "geom:latitude":-15.00333,
     "geom:longitude":-39.092922,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.018554,
     "lbl:longitude":-39.078671,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Oliven\u00e7a"
@@ -61,9 +70,12 @@
         102050831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291360645"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e91d44ff4a7f471f8f95cc5c20e109e1",
+    "wof:geomhash":"bde63dc5ace1ef698f60b7528fc6fcfa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404551105,
-    "wof:lastmodified":1577837661,
+    "wof:lastmodified":1695878668,
     "wof:name":"Oliven\u00e7a",
     "wof:parent_id":102050831,
     "wof:placetype":"localadmin",

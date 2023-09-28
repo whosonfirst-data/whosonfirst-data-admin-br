@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151678,
-    "geom:area_square_m":1803832815.010484,
+    "geom:area_square_m":1803832815.010692,
     "geom:bbox":"-56.1436932,-16.2027278254,-55.3830518761,-15.6016807129",
     "geom:latitude":-15.892111,
     "geom:longitude":-55.879613,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.900075,
     "lbl:longitude":-55.905393,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055615
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510780005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"683dd081b3c07ba96b4d97fa9ba396f7",
+    "wof:geomhash":"68f2787acaffaa37ba2c80a411a1cb41",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559383,
-    "wof:lastmodified":1577836156,
+    "wof:lastmodified":1695878644,
     "wof:name":"Santo Ant\u00f4nio Do Leverger",
     "wof:parent_id":102055615,
     "wof:placetype":"localadmin",

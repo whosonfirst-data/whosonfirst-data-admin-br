@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000797,
-    "geom:area_square_m":9749792.375035,
+    "geom:area_square_m":9749792.375034,
     "geom:bbox":"-35.9039896975,-8.38583898985,-35.8345640302,-8.36439136473",
     "geom:latitude":-8.373901,
     "geom:longitude":-35.874536,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.375329,
     "lbl:longitude":-35.889526,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260190410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b476a3cca9cf3a129a02939773bbd500",
+    "wof:geomhash":"17f31022e25406812dc0b2adf1ce2105",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560187,
-    "wof:lastmodified":1577837683,
+    "wof:lastmodified":1695878674,
     "wof:name":"Boas Novas",
     "wof:parent_id":102056531,
     "wof:placetype":"localadmin",

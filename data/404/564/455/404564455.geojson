@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055799,
-    "geom:area_square_m":578688449.490508,
+    "geom:area_square_m":578688449.490513,
     "geom:bbox":"-53.0420464607,-33.1608452662,-52.6618204936,-32.8623965224",
     "geom:latitude":-32.994092,
     "geom:longitude":-52.858281,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-33.007679,
     "lbl:longitude":-52.887111,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431730115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8b2827c7494055411e855adaba983d7f",
+    "wof:geomhash":"f818c5e6d4b171d368d482a069bfd245",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564455,
-    "wof:lastmodified":1577827822,
+    "wof:lastmodified":1695878233,
     "wof:name":"Curral Alto",
     "wof:parent_id":102059871,
     "wof:placetype":"localadmin",

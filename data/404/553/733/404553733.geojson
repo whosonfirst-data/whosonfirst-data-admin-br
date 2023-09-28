@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02924,
-    "geom:area_square_m":360195958.282824,
+    "geom:area_square_m":360195958.28274,
     "geom:bbox":"-39.4804181101,-5.1008252793,-39.2191601441,-4.79089641432",
     "geom:latitude":-4.964084,
     "geom:longitude":-39.32702,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.966056,
     "lbl:longitude":-39.292591,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051739
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231140540"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a9f6e0e371828463f841c3d314a9078d",
+    "wof:geomhash":"77507bf34c1c92b403f9ec5aecf1ef08",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553733,
-    "wof:lastmodified":1577837948,
+    "wof:lastmodified":1695878738,
     "wof:name":"Dami\u00e3o Carneiro",
     "wof:parent_id":102051739,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.272926,
-    "geom:area_square_m":3248224966.816146,
+    "geom:area_square_m":3248224966.816041,
     "geom:bbox":"-46.457705,-16.1090919975,-45.787366,-15.3631489976",
     "geom:latitude":-15.739671,
     "geom:longitude":-46.079739,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.587838,
     "lbl:longitude":-46.084865,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b0\u09bf\u09a8\u09cb\u09b8"
@@ -100,9 +109,12 @@
         102053479
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310450205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5615a7a912667bdca4c768f28e3130c1",
+    "wof:geomhash":"5262e281e368846140586a802ca1e0a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404555309,
-    "wof:lastmodified":1577832643,
+    "wof:lastmodified":1695878355,
     "wof:name":"Arinos",
     "wof:parent_id":102053479,
     "wof:placetype":"localadmin",

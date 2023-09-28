@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030306,
-    "geom:area_square_m":328828866.096714,
+    "geom:area_square_m":328828866.096566,
     "geom:bbox":"-49.207588,-28.801486,-48.857869,-28.53333",
     "geom:latitude":-28.657985,
     "geom:longitude":-49.044513,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.625174,
     "lbl:longitude":-49.012712,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u0997\u09c1\u09f1\u09be\u09b0\u09c1\u09a8\u09be"
@@ -84,19 +93,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060485,
         1511777409,
-        85682021
+        102060485
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420880705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060485
     ],
     "wof:country":"BR",
-    "wof:geomhash":"1e97837e9e912351e35ed8501a812624",
+    "wof:geomhash":"7ec794577d235b66a73594be668f70ca",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404565541,
-    "wof:lastmodified":1608034503,
+    "wof:lastmodified":1695878824,
     "wof:name":"Jaguaruna",
     "wof:parent_id":102060485,
     "wof:placetype":"localadmin",

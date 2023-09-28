@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007304,
-    "geom:area_square_m":88018175.747604,
+    "geom:area_square_m":88018175.747584,
     "geom:bbox":"-39.605451224,-13.022239486,-39.458715284,-12.932650205",
     "geom:latitude":-12.965173,
     "geom:longitude":-39.522362,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.968057,
     "lbl:longitude":-39.522359,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09af\u09bc\u09c7\u09b2\u0987\u09b8\u09bf\u0993 \u09ae\u09c7\u09a1\u09cd\u09b0\u09be\u09a1\u09cb"
@@ -100,9 +109,12 @@
         102050737
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291030505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cdeb24f2364c66bddb7a09613710c1d8",
+    "wof:geomhash":"a7630926cd92e6830bcf700044674655",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404550903,
-    "wof:lastmodified":1577837959,
+    "wof:lastmodified":1695878741,
     "wof:name":"El\u00edsio Medrado",
     "wof:parent_id":102050737,
     "wof:placetype":"localadmin",

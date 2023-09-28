@@ -10,12 +10,21 @@
     "geom:latitude":-30.183581,
     "geom:longitude":-52.43397,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.177289,
     "lbl:longitude":-52.433981,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09a8\u09cd\u099f\u09be\u09a8\u09cb \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
@@ -88,9 +97,12 @@
         102059707
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431395305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"160021a168c84616f4502b1264540472",
+    "wof:geomhash":"408a26345966625d40749b0ef8370df7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404564087,
-    "wof:lastmodified":1577827899,
+    "wof:lastmodified":1695878270,
     "wof:name":"Pantano Grande",
     "wof:parent_id":102059707,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016935,
-    "geom:area_square_m":192856314.278368,
+    "geom:area_square_m":192856314.278355,
     "geom:bbox":"-44.1925901059,-23.0113789516,-43.9956487033,-22.8585201122",
     "geom:latitude":-22.928588,
     "geom:longitude":-44.091868,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.928831,
     "lbl:longitude":-44.117136,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u0999\u09cd\u0997\u09be\u09b0\u09be\u099f\u09bf\u09ac\u09be"
@@ -100,9 +109,12 @@
         102058393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330260105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9c1a9d1b53d62e0168791c79c0fc5769",
+    "wof:geomhash":"1e53ffbd8b17c7acab4b6438200a8b96",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404562343,
-    "wof:lastmodified":1577832703,
+    "wof:lastmodified":1695878375,
     "wof:name":"Mangaratiba",
     "wof:parent_id":102058393,
     "wof:placetype":"localadmin",

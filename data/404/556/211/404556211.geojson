@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010161,
-    "geom:area_square_m":117301642.165465,
+    "geom:area_square_m":117301642.165504,
     "geom:bbox":"-43.06897,-21.058634,-42.922563,-20.92679",
     "geom:latitude":-20.987916,
     "geom:longitude":-42.998061,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.983644,
     "lbl:longitude":-43.004151,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09bf\u09ad\u09bf\u09a8\u09c7\u09b8\u09bf\u09af\u09bc\u09be"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053795,
         1511777411,
-        85681941
+        102053795
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312190205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053795
     ],
     "wof:country":"BR",
-    "wof:geomhash":"c77a1adc1563464ba118b997879c0525",
+    "wof:geomhash":"a512f38700a57f3d3a0ac5e87ef734f3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404556211,
-    "wof:lastmodified":1608029323,
+    "wof:lastmodified":1695878758,
     "wof:name":"Divin\u00e9sia",
     "wof:parent_id":102053795,
     "wof:placetype":"localadmin",

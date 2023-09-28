@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001976,
-    "geom:area_square_m":22770419.139618,
+    "geom:area_square_m":22770419.139594,
     "geom:bbox":"-43.79178,-21.2995169968,-43.728178,-21.2408186536",
     "geom:latitude":-21.269066,
     "geom:longitude":-43.759695,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.269687,
     "lbl:longitude":-43.760182,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053503
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310560825"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ea9d57fd4c64c3a471ae70419f850e4c",
+    "wof:geomhash":"31fff8f93a0fca0b34645549a667455a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555381,
-    "wof:lastmodified":1577832862,
+    "wof:lastmodified":1695878434,
     "wof:name":"Ponte Do Cosme",
     "wof:parent_id":102053503,
     "wof:placetype":"localadmin",

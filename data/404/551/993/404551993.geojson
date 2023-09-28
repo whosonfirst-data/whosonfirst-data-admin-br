@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00381,
-    "geom:area_square_m":45952612.697509,
+    "geom:area_square_m":45952612.69749,
     "geom:bbox":"-38.844535121,-12.7621877396,-38.687207188,-12.7161593874",
     "geom:latitude":-12.737775,
     "geom:longitude":-38.7659,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.737719,
     "lbl:longitude":-38.771476,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0989\u09ac\u09be\u09b0\u09be"
@@ -91,9 +100,12 @@
         102051285
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292975005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0bbc13371c97cc7d7452bf19c7f222b9",
+    "wof:geomhash":"b1a359700964bfe0dd5d9cc70963998b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404551993,
-    "wof:lastmodified":1577837989,
+    "wof:lastmodified":1695878748,
     "wof:name":"Saubara",
     "wof:parent_id":102051285,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001891,
-    "geom:area_square_m":22158275.719368,
+    "geom:area_square_m":22158275.719354,
     "geom:bbox":"-47.64989,-18.6806739971,-47.5763113092,-18.6291295816",
     "geom:latitude":-18.651413,
     "geom:longitude":-47.619192,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.65182,
     "lbl:longitude":-47.625325,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053873
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312480720"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"564a7dfb27c8cae0df97e131e7645c65",
+    "wof:geomhash":"94d7e54b66b81482ae8261d413e0c86d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556337,
-    "wof:lastmodified":1577832953,
+    "wof:lastmodified":1695878467,
     "wof:name":"S\u00e3o F\u00e9lix De Estrela",
     "wof:parent_id":102053873,
     "wof:placetype":"localadmin",

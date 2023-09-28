@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020567,
-    "geom:area_square_m":226053357.866266,
+    "geom:area_square_m":226053357.86611,
     "geom:bbox":"-49.489104,-27.35767,-49.187165,-27.158554",
     "geom:latitude":-27.267841,
     "geom:longitude":-49.354599,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.276728,
     "lbl:longitude":-49.369421,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cd\u09b0\u09c7\u09b8\u09bf\u09a1\u09c7\u09a8\u09cd\u099f\u09c7 \u09a8\u09c7\u09b0\u09c7\u0989"
@@ -81,19 +90,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060655,
         1511777409,
-        85682021
+        102060655
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421410205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060655
     ],
     "wof:country":"BR",
-    "wof:geomhash":"d8f0aeb13e6d0898ef9c170115250b2e",
+    "wof:geomhash":"0e10a4d56669c825b398b314fe23068c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404565771,
-    "wof:lastmodified":1608034306,
+    "wof:lastmodified":1695878821,
     "wof:name":"Presidente Nereu",
     "wof:parent_id":102060655,
     "wof:placetype":"localadmin",

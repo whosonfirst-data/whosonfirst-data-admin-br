@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009397,
-    "geom:area_square_m":108612733.600398,
+    "geom:area_square_m":108612733.600359,
     "geom:bbox":"-41.9356209957,-20.8771432743,-41.7751560212,-20.763205462",
     "geom:latitude":-20.821369,
     "geom:longitude":-41.870526,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.821694,
     "lbl:longitude":-41.871741,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Santa Clara"
@@ -145,9 +154,12 @@
         102058433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330410215"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ede2ce61a3c5419b07e59a38afacfea9",
+    "wof:geomhash":"faef77889bdb38ec1fdc37d138d0b005",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -159,7 +171,7 @@
         }
     ],
     "wof:id":404562449,
-    "wof:lastmodified":1577833318,
+    "wof:lastmodified":1695878581,
     "wof:name":"Santa Clara",
     "wof:parent_id":102058433,
     "wof:placetype":"localadmin",

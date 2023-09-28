@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02374,
-    "geom:area_square_m":274151649.034907,
+    "geom:area_square_m":274151649.034858,
     "geom:bbox":"-50.4323557241,-21.0653770653,-50.2627690079,-20.8086069997",
     "geom:latitude":-20.943253,
     "geom:longitude":-50.355704,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.93926,
     "lbl:longitude":-50.347425,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09bf\u09b8\u09c7\u09a8\u09cd\u099f\u09bf\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -97,9 +106,12 @@
         102062199
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354805415"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5505dd0343644af05895e1439058e6a4",
+    "wof:geomhash":"205208d9ba78f33d0d863c95f1ea4f65",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404567205,
-    "wof:lastmodified":1577832754,
+    "wof:lastmodified":1695878395,
     "wof:name":"Vicentin\u00f3polis",
     "wof:parent_id":102062199,
     "wof:placetype":"localadmin",

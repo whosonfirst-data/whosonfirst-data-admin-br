@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001804,
-    "geom:area_square_m":20436360.20282,
+    "geom:area_square_m":20436360.202827,
     "geom:bbox":"-46.821622,-23.647191,-46.749202,-23.594916",
     "geom:latitude":-23.620534,
     "geom:longitude":-46.78637,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.622694,
     "lbl:longitude":-46.791845,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102062315
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355280905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101956189
     ],
     "wof:country":"BR",
-    "wof:geomhash":"2a5a6ce8b430127c897ef2004643ded9",
+    "wof:geomhash":"a0569f50d951b36f9bdae19b3baac5f0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404567543,
-    "wof:lastmodified":1617130338,
+    "wof:lastmodified":1695878834,
     "wof:name":"Tabo\u00e3o Da Serra",
     "wof:parent_id":102062315,
     "wof:placetype":"localadmin",

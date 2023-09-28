@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004993,
-    "geom:area_square_m":53662444.648853,
+    "geom:area_square_m":53662444.648874,
     "geom:bbox":"-53.494902232,-29.679751432,-53.3838040678,-29.5856049129",
     "geom:latitude":-29.632248,
     "geom:longitude":-53.447593,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.629048,
     "lbl:longitude":-53.442143,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059909
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431843205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"55db615da291e71afcf4a6c71f6bfaad",
+    "wof:geomhash":"4b6b6fc5f0fd0f90fa281f30538ba642",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564621,
-    "wof:lastmodified":1577827876,
+    "wof:lastmodified":1695878260,
     "wof:name":"S\u00e3o Jo\u00e3o Do Pol\u00easine",
     "wof:parent_id":102059909,
     "wof:placetype":"localadmin",

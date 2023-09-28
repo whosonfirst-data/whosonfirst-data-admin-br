@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004269,
-    "geom:area_square_m":48936965.071421,
+    "geom:area_square_m":48936965.071419,
     "geom:bbox":"-43.3466988285,-22.0666899453,-43.2336210617,-22.0034403326",
     "geom:latitude":-22.032437,
     "geom:longitude":-43.298246,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.041447,
     "lbl:longitude":-43.308339,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Afonso Arinos"
@@ -37,9 +46,12 @@
         102058339
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330095110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c20b7c332b09915f6e69c567a7f21536",
+    "wof:geomhash":"2c0b417a35d3fbdb509f1ac96bb6afe4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404562171,
-    "wof:lastmodified":1577833363,
+    "wof:lastmodified":1695878593,
     "wof:name":"Afonso Arinos",
     "wof:parent_id":102058339,
     "wof:placetype":"localadmin",

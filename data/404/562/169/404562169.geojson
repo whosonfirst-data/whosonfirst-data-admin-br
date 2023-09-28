@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005081,
-    "geom:area_square_m":58234694.34785,
+    "geom:area_square_m":58234694.347843,
     "geom:bbox":"-43.2987177201,-22.1023779106,-43.1283527664,-22.0218104782",
     "geom:latitude":-22.052415,
     "geom:longitude":-43.221549,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.052991,
     "lbl:longitude":-43.22868,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09ae\u09c7\u09a8\u09a1\u09be\u09a1\u09cb\u09b0\u09cd \u09b2\u09c7\u09ad\u09af\u09bc \u0997\u09be\u09b8\u09aa\u09be\u09b0\u09bf\u09af\u09bc\u09be\u09a8"
@@ -91,9 +100,12 @@
         102058339
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330095105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d05218d34b6abacb2efb0392885d78b4",
+    "wof:geomhash":"62e8654185254ee9b21e13bdcf83d763",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404562169,
-    "wof:lastmodified":1577832713,
+    "wof:lastmodified":1695878379,
     "wof:name":"Comendador Levy Gasparian",
     "wof:parent_id":102058339,
     "wof:placetype":"localadmin",

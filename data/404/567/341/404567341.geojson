@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0013,
-    "geom:area_square_m":14734628.948513,
+    "geom:area_square_m":14734628.948512,
     "geom:bbox":"-46.47755,-23.556978,-46.429368,-23.513474",
     "geom:latitude":-23.533895,
     "geom:longitude":-46.455844,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.533884,
     "lbl:longitude":-46.458251,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -38,14 +47,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "bra-ibge:code":"355030837",
         "gn:id":8449535,
         "qs_pg:id":358553
     },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0712dce2510eeb1be7512d81b02bafb6",
+    "wof:geomhash":"1a495145c58979cc6e5c5d546a80ee45",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":404567341,
-    "wof:lastmodified":1582321205,
+    "wof:lastmodified":1695878749,
     "wof:name":"Itaquera",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

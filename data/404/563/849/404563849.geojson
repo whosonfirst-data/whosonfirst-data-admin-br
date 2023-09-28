@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009374,
-    "geom:area_square_m":101888252.259227,
+    "geom:area_square_m":101888252.259203,
     "geom:bbox":"-51.548287473,-28.5472397404,-51.4021537989,-28.4034423813",
     "geom:latitude":-28.479584,
     "geom:longitude":-51.481167,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.477034,
     "lbl:longitude":-51.488379,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431130435"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2bb4f8297731f6f63b1500c909306820",
+    "wof:geomhash":"03206aca2f9ecd3aaa97af255a883ebd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404563849,
-    "wof:lastmodified":1577827964,
+    "wof:lastmodified":1695878300,
     "wof:name":"Tupinamb\u00e1",
     "wof:parent_id":102059555,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00626,
-    "geom:area_square_m":68889552.02004,
+    "geom:area_square_m":68889552.02001,
     "geom:bbox":"-53.1838593155,-27.1802817845,-53.0697111945,-27.0837970216",
     "geom:latitude":-27.132419,
     "geom:longitude":-53.120955,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.135205,
     "lbl:longitude":-53.116205,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060599
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421210620"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7836135e1a0810ce87f36f822a606b39",
+    "wof:geomhash":"d7f65ef1492920ae7de5821e61eadfe3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565689,
-    "wof:lastmodified":1577827819,
+    "wof:lastmodified":1695878232,
     "wof:name":"Oldemburg",
     "wof:parent_id":102060599,
     "wof:placetype":"localadmin",

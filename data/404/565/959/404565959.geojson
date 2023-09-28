@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009903,
-    "geom:area_square_m":108805438.303976,
+    "geom:area_square_m":108805438.304001,
     "geom:bbox":"-49.885671,-27.380834,-49.752583,-27.247486",
     "geom:latitude":-27.311617,
     "geom:longitude":-49.810981,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.309297,
     "lbl:longitude":-49.806467,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09cd\u09b0\u09cb\u09ae\u09ac\u09c1\u09a1\u09cb \u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2"
@@ -81,19 +90,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060805,
         1511777409,
-        85682021
+        102060805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421860805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060805
     ],
     "wof:country":"BR",
-    "wof:geomhash":"51380ad02b0d2e4ee935bee05a8a56aa",
+    "wof:geomhash":"a8d4c5ec070490f648cc1845c46aabd4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404565959,
-    "wof:lastmodified":1608034347,
+    "wof:lastmodified":1695878822,
     "wof:name":"Trombudo Central",
     "wof:parent_id":102060805,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003419,
-    "geom:area_square_m":41860865.192318,
+    "geom:area_square_m":41860865.19232,
     "geom:bbox":"-34.916923,-8.044467,-34.827789,-7.954672",
     "geom:latitude":-7.993098,
     "geom:longitude":-34.866127,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.996748,
     "lbl:longitude":-34.859388,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u064a\u0646\u062f\u0627"
@@ -198,19 +207,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681973,
         102191577,
         85633009,
-        102056735,
         1511777415,
-        85681973
+        102056735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260960005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102056735
     ],
     "wof:country":"BR",
-    "wof:geomhash":"3e392f277f6dc2022a0d85000105edf1",
+    "wof:geomhash":"9c13d5d374cdbd3869ef289631cddcfb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -222,7 +234,7 @@
         }
     ],
     "wof:id":404560507,
-    "wof:lastmodified":1608029853,
+    "wof:lastmodified":1695878771,
     "wof:name":"Olinda",
     "wof:parent_id":102056735,
     "wof:placetype":"localadmin",

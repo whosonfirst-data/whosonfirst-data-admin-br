@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.358245,
-    "geom:area_square_m":4420003421.277741,
+    "geom:area_square_m":4420003421.277866,
     "geom:bbox":"-62.5789244784,-4.15547875403,-61.8004918407,-3.26770849151",
     "geom:latitude":-3.799167,
     "geom:longitude":-62.155791,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.851308,
     "lbl:longitude":-62.084941,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a1\u09be\u099c\u09be\u09b8"
@@ -100,9 +109,12 @@
         102050333
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"130130805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"567511cc1a1b8b3d83847675b63d5deb",
+    "wof:geomhash":"0686bec0ddd4571df78ef6585c428840",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404550249,
-    "wof:lastmodified":1577825681,
+    "wof:lastmodified":1695878161,
     "wof:name":"Codaj\u00e1s",
     "wof:parent_id":102050333,
     "wof:placetype":"localadmin",

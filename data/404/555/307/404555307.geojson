@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020745,
-    "geom:area_square_m":244130163.232406,
+    "geom:area_square_m":244130163.232362,
     "geom:bbox":"-42.696915,-17.992552,-42.486613,-17.716169",
     "geom:latitude":-17.881104,
     "geom:longitude":-42.605562,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.886022,
     "lbl:longitude":-42.607172,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Aricanduva"
@@ -30,19 +39,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053477,
         1511777411,
-        85681941
+        102053477
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310445205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053477
     ],
     "wof:country":"BR",
-    "wof:geomhash":"b6c626cfc97efdd14f506b0ad963ea36",
+    "wof:geomhash":"e5c499b4dabf63a928c270c8c3d901cd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404555307,
-    "wof:lastmodified":1608032389,
+    "wof:lastmodified":1695878805,
     "wof:name":"Aricanduva",
     "wof:parent_id":102053477,
     "wof:placetype":"localadmin",

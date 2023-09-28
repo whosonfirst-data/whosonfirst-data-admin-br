@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004921,
-    "geom:area_square_m":60758827.091081,
+    "geom:area_square_m":60758827.091082,
     "geom:bbox":"-39.5637683458,-3.21450220045,-39.4067182956,-3.14384503201",
     "geom:latitude":-3.184348,
     "geom:longitude":-39.479216,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.177173,
     "lbl:longitude":-39.478075,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051597
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230640550"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"74099d50e6f1520a900716cff744e255",
+    "wof:geomhash":"89ea80e775eee9faff4d8a70f101c947",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553151,
-    "wof:lastmodified":1577837906,
+    "wof:lastmodified":1695878727,
     "wof:name":"Marinheiros",
     "wof:parent_id":102051597,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001025,
-    "geom:area_square_m":12639681.359742,
+    "geom:area_square_m":12639681.35974,
     "geom:bbox":"-38.3476897717,-4.04612612778,-38.2898555214,-4.01205076762",
     "geom:latitude":-4.030926,
     "geom:longitude":-38.31145,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.028591,
     "lbl:longitude":-38.31102,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09a8\u09a1\u09cb\u09b0\u09c7\u099f\u09be\u09ae\u09be"
@@ -82,9 +91,12 @@
         102051717
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231085205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d03cc433ad77ec15b9a08111902649f9",
+    "wof:geomhash":"a0b6af1660cc842b5101494973a98fc2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404553625,
-    "wof:lastmodified":1577837859,
+    "wof:lastmodified":1695878716,
     "wof:name":"Pindoretama",
     "wof:parent_id":102051717,
     "wof:placetype":"localadmin",

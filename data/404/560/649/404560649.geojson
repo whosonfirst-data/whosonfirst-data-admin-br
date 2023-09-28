@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006391,
-    "geom:area_square_m":78264971.213659,
+    "geom:area_square_m":78264971.213669,
     "geom:bbox":"-36.4463009262,-7.96861864152,-36.264000211,-7.8963178866",
     "geom:latitude":-7.928504,
     "geom:longitude":-36.354394,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.928852,
     "lbl:longitude":-36.355766,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u0995\u09cb \u09ab\u09c1\u09a8\u09a1\u09cb"
@@ -97,9 +106,12 @@
         102056807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261250515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5a3db507f5a755bb641419d92bab6aaf",
+    "wof:geomhash":"21310c3876922f79f6f4ecdbbc829110",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404560649,
-    "wof:lastmodified":1577837707,
+    "wof:lastmodified":1695878679,
     "wof:name":"Po\u00e7o Fundo",
     "wof:parent_id":102056807,
     "wof:placetype":"localadmin",

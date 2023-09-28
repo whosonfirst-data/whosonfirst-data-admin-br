@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045163,
-    "geom:area_square_m":515017619.480722,
+    "geom:area_square_m":515017619.480788,
     "geom:bbox":"-47.880126,-22.901498,-47.5219788121,-22.577701",
     "geom:latitude":-22.747386,
     "geom:longitude":-47.69022,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.745564,
     "lbl:longitude":-47.672622,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0627\u0633\u064a\u0643\u0627\u0628\u0627"
@@ -145,9 +154,12 @@
         102061965
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"353870905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8cdcc59d29303f8a64c69ac4f82a55be",
+    "wof:geomhash":"8d82fccfed344aa9feb61530678bec4f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -159,7 +171,7 @@
         }
     ],
     "wof:id":404566975,
-    "wof:lastmodified":1577833377,
+    "wof:lastmodified":1695878598,
     "wof:name":"Piracicaba",
     "wof:parent_id":102061965,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001167,
-    "geom:area_square_m":13230006.561582,
+    "geom:area_square_m":13230006.561567,
     "geom:bbox":"-46.876765,-23.582857,-46.820581,-23.543702",
     "geom:latitude":-23.561383,
     "geom:longitude":-46.850479,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.558987,
     "lbl:longitude":-46.850895,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061263,
         1511777411,
-        85682041
+        102061263
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351060930"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101956139
     ],
     "wof:country":"BR",
-    "wof:geomhash":"99cdc76c48931b29550fba92eba88da0",
+    "wof:geomhash":"560cc7d11deecab01cd3805f4a56672e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404566303,
-    "wof:lastmodified":1608023600,
+    "wof:lastmodified":1695878754,
     "wof:name":"Vila Dirce",
     "wof:parent_id":102061263,
     "wof:placetype":"localadmin",

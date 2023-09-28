@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023429,
-    "geom:area_square_m":275862583.291331,
+    "geom:area_square_m":275862583.291381,
     "geom:bbox":"-39.455126163,-18.0432545066,-38.628850504,-17.6367619715",
     "geom:latitude":-17.780113,
     "geom:longitude":-39.23889,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.799744,
     "lbl:longitude":-39.282397,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050657
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290690715"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2af5e971f62269d48dd4f3ec6067472b",
+    "wof:geomhash":"2486e919b7cca07349970c45c58365fd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550745,
-    "wof:lastmodified":1577837764,
+    "wof:lastmodified":1695878692,
     "wof:name":"Ponta Da Areia",
     "wof:parent_id":102050657,
     "wof:placetype":"localadmin",

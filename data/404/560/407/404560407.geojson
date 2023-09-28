@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006761,
-    "geom:area_square_m":82693657.177672,
+    "geom:area_square_m":82693657.177652,
     "geom:bbox":"-35.0877830607,-8.543274,-34.9674386303,-8.40343307511",
     "geom:latitude":-8.451843,
     "geom:longitude":-35.02403,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.450057,
     "lbl:longitude":-35.010156,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056663
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260720815"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0c63d5d616718c9133dad4bde1617d55",
+    "wof:geomhash":"42b1c3af9412770fc00113098aef702a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560407,
-    "wof:lastmodified":1577837863,
+    "wof:lastmodified":1695878717,
     "wof:name":"Nossa Senhora Do \u00d3",
     "wof:parent_id":102056663,
     "wof:placetype":"localadmin",

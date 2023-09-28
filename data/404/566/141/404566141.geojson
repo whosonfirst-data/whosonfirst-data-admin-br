@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019556,
-    "geom:area_square_m":223903857.039841,
+    "geom:area_square_m":223903857.039874,
     "geom:bbox":"-49.3839710828,-22.3472630813,-49.1607698155,-22.0414597167",
     "geom:latitude":-22.188501,
     "geom:longitude":-49.263889,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.213801,
     "lbl:longitude":-49.273237,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nogueira"
@@ -73,9 +82,12 @@
         102061101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350430510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"38927f03bc8a3d9b5fcac3982f698697",
+    "wof:geomhash":"f6ac4be8f0889b61fd61f7c440e7b62b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404566141,
-    "wof:lastmodified":1577832675,
+    "wof:lastmodified":1695878367,
     "wof:name":"Nogueira",
     "wof:parent_id":102061101,
     "wof:placetype":"localadmin",

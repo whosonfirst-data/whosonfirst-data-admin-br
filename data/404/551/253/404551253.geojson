@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047911,
-    "geom:area_square_m":575281075.714409,
+    "geom:area_square_m":575281075.714018,
     "geom:bbox":"-41.433366,-14.0344896096,-41.205138313,-13.6516119299",
     "geom:latitude":-13.820846,
     "geom:longitude":-41.322027,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.823533,
     "lbl:longitude":-41.310858,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09c1\u09af\u09bc\u09be\u0995\u09c1"
@@ -91,9 +100,12 @@
         102050917
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291720105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"38ff2c0b344028966df498d37da6d96b",
+    "wof:geomhash":"4e3c08c16b6ca5b798fc770c03443037",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404551253,
-    "wof:lastmodified":1577837705,
+    "wof:lastmodified":1695878678,
     "wof:name":"Itua\u00e7u",
     "wof:parent_id":102050917,
     "wof:placetype":"localadmin",

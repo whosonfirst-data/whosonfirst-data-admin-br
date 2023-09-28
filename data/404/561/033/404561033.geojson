@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121792,
-    "geom:area_square_m":1367827616.454156,
+    "geom:area_square_m":1367826876.468468,
     "geom:bbox":"-50.246328,-24.960505,-49.641528,-24.541096",
     "geom:latitude":-24.733354,
     "geom:longitude":-49.949021,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.764086,
     "lbl:longitude":-49.953595,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0441\u0442\u0440\u0430"
@@ -157,9 +166,12 @@
         102057563
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410490705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9f9e078696f95faa88a8dcddbe2260c3",
+    "wof:geomhash":"adcdc927dcf7f2d56096216f306c3b5c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -171,7 +183,7 @@
         }
     ],
     "wof:id":404561033,
-    "wof:lastmodified":1636496431,
+    "wof:lastmodified":1695878860,
     "wof:name":"Castro",
     "wof:parent_id":102057563,
     "wof:placetype":"localadmin",

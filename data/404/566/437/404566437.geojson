@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039074,
-    "geom:area_square_m":448591899.329599,
+    "geom:area_square_m":448591899.329673,
     "geom:bbox":"-50.1049816232,-21.9411437953,-49.8390554637,-21.6908228503",
     "geom:latitude":-21.803029,
     "geom:longitude":-49.970754,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.793995,
     "lbl:longitude":-49.954949,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c7\u099f\u09c1\u09b2\u09bf\u09a8\u09be"
@@ -97,9 +106,12 @@
         102061427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351700005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e50219f18d8fd0fa6f0911a8f7b86ef6",
+    "wof:geomhash":"2c6fc3e5a29724856781dd8bf2620563",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404566437,
-    "wof:lastmodified":1577832903,
+    "wof:lastmodified":1695878451,
     "wof:name":"Getulina",
     "wof:parent_id":102061427,
     "wof:placetype":"localadmin",

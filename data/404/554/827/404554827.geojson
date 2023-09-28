@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009257,
-    "geom:area_square_m":110354195.002368,
+    "geom:area_square_m":110354195.00234,
     "geom:bbox":"-50.062472469,-15.4536413463,-49.8843235901,-15.3583236693",
     "geom:latitude":-15.398792,
     "geom:longitude":-49.985792,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.398401,
     "lbl:longitude":-49.993228,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102052297
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"521120615"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8d5512b766c6a8b20ab410c9e1178b9a",
+    "wof:geomhash":"cedaa2531d4d9cb5ab5022c61f94db21",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554827,
-    "wof:lastmodified":1577836174,
+    "wof:lastmodified":1695878649,
     "wof:name":"Diol\u00e2ndia",
     "wof:parent_id":102052297,
     "wof:placetype":"localadmin",

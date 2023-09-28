@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073421,
-    "geom:area_square_m":880738049.828931,
+    "geom:area_square_m":880738049.829074,
     "geom:bbox":"-42.359253,-14.200905,-41.99428,-13.860648",
     "geom:latitude":-14.041506,
     "geom:longitude":-42.221099,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.041681,
     "lbl:longitude":-42.23581,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u0997\u09cb\u09af\u09bc\u09be \u09b0\u09c7\u09af\u09bc\u09be\u09b2"
@@ -100,12 +109,15 @@
         102050965
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291875305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050965
     ],
     "wof:country":"BR",
-    "wof:geomhash":"1cc1f5cc4c3945b41defd66b515e9e00",
+    "wof:geomhash":"431cb76cc6d5394e8647c8499767e815",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404551379,
-    "wof:lastmodified":1617131104,
+    "wof:lastmodified":1695878840,
     "wof:name":"Lagoa Real",
     "wof:parent_id":102050965,
     "wof:placetype":"localadmin",

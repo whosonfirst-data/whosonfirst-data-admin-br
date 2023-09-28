@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009273,
-    "geom:area_square_m":105514636.3189,
+    "geom:area_square_m":105514636.318876,
     "geom:bbox":"-48.2352557354,-23.1131807317,-48.1231196315,-22.9649404127",
     "geom:latitude":-23.044386,
     "geom:longitude":-48.179372,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.042287,
     "lbl:longitude":-48.180186,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350690410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2578f6d680b49eb9f032ba1514372c62",
+    "wof:geomhash":"994b6d9ae7d3c892f2b38c6a43dd3728",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566181,
-    "wof:lastmodified":1577832724,
+    "wof:lastmodified":1695878383,
     "wof:name":"S\u00e3o Roque Novo",
     "wof:parent_id":102061165,
     "wof:placetype":"localadmin",

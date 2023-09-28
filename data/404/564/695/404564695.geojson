@@ -10,12 +10,21 @@
     "geom:latitude":-28.324678,
     "geom:longitude":-54.90448,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.320746,
     "lbl:longitude":-54.899964,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Santa In\u00eas"
@@ -79,9 +88,12 @@
         102059935
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431890330"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2cc53bc13ac7203cd86ff218ab3355e8",
+    "wof:geomhash":"6eb3e7fcf0fcb7af1fefcad3e0da2f88",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404564695,
-    "wof:lastmodified":1577827858,
+    "wof:lastmodified":1695878251,
     "wof:name":"Santa In\u00eas",
     "wof:parent_id":102059935,
     "wof:placetype":"localadmin",

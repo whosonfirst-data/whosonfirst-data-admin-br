@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014374,
-    "geom:area_square_m":157429582.783872,
+    "geom:area_square_m":157429582.783905,
     "geom:bbox":"-49.2114386465,-27.7685924223,-49.0655590883,-27.5819666892",
     "geom:latitude":-27.658027,
     "geom:longitude":-49.133108,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.64529,
     "lbl:longitude":-49.122158,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060663
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421430010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9fd447939c129efdd73d8e4d57a9aab9",
+    "wof:geomhash":"7e569bbed96313734176bb99c85d73cf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565779,
-    "wof:lastmodified":1577827979,
+    "wof:lastmodified":1695878307,
     "wof:name":"Taquaras",
     "wof:parent_id":102060663,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003561,
-    "geom:area_square_m":41019141.956677,
+    "geom:area_square_m":41019141.956685,
     "geom:bbox":"-42.2037031864,-21.3747232584,-42.0929984383,-21.3059201315",
     "geom:latitude":-21.337171,
     "geom:longitude":-42.151697,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.335159,
     "lbl:longitude":-42.146244,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058403
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330300515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6869671666409532db0547e947594ef6",
+    "wof:geomhash":"14ddeec24ea4722143eb1b0fedee7fe7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562369,
-    "wof:lastmodified":1577833042,
+    "wof:lastmodified":1695878495,
     "wof:name":"Venda Das Flores",
     "wof:parent_id":102058403,
     "wof:placetype":"localadmin",

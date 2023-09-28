@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007189,
-    "geom:area_square_m":88308535.174819,
+    "geom:area_square_m":88308535.174818,
     "geom:bbox":"-39.194029345,-6.63625701075,-39.0585389638,-6.54441562583",
     "geom:latitude":-6.590588,
     "geom:longitude":-39.122125,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.591666,
     "lbl:longitude":-39.123081,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a8\u09cd\u09a1\u09c7\u0987\u09af\u09bc\u09be\u09b8"
@@ -73,9 +82,12 @@
         102051501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230380820"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"43f24d191272076a99c1b2941c5f18ac",
+    "wof:geomhash":"25f08e5ee83c952bdb01f1729c20b9d3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404552689,
-    "wof:lastmodified":1577837938,
+    "wof:lastmodified":1695878736,
     "wof:name":"Candeias",
     "wof:parent_id":102051501,
     "wof:placetype":"localadmin",

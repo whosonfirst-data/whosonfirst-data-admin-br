@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015269,
-    "geom:area_square_m":188127139.157041,
+    "geom:area_square_m":188127139.157019,
     "geom:bbox":"-38.9226033652,-4.93535194896,-38.7625556394,-4.75901617748",
     "geom:latitude":-4.863023,
     "geom:longitude":-38.832624,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.872022,
     "lbl:longitude":-38.824724,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09be\u09b0\u09c7\u099f\u09be\u09ae\u09be"
@@ -85,9 +94,12 @@
         102051561
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230526605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6d99721a00f4a5ffff8a321de7403a4f",
+    "wof:geomhash":"2a4255f079b1b2a12f3804227e941444",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404552953,
-    "wof:lastmodified":1577837983,
+    "wof:lastmodified":1695878747,
     "wof:name":"Ibaretama",
     "wof:parent_id":102051561,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008759,
-    "geom:area_square_m":100559113.293894,
+    "geom:area_square_m":100559113.29386,
     "geom:bbox":"-43.278541,-21.8617539961,-43.146653,-21.7428639961",
     "geom:latitude":-21.803866,
     "geom:longitude":-43.212633,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.800275,
     "lbl:longitude":-43.217128,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054193
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313670270"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a973d3f30686cd04d8d89505ae28e928",
+    "wof:geomhash":"9f24356189d7887f22917d251d9b2873",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556953,
-    "wof:lastmodified":1577833260,
+    "wof:lastmodified":1695878562,
     "wof:name":"Sarandira",
     "wof:parent_id":102054193,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009285,
-    "geom:area_square_m":111508571.915851,
+    "geom:area_square_m":111508571.922847,
     "geom:bbox":"-39.701169,-13.859795,-39.596852,-13.694456",
     "geom:latitude":-13.768031,
     "geom:longitude":-39.659265,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.751129,
     "lbl:longitude":-39.655702,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09ae\u09be\u09b0\u09bf"
@@ -100,12 +109,15 @@
         102050881
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291570005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050881
     ],
     "wof:country":"BR",
-    "wof:geomhash":"66684ce6127deddaa2f5b02ade9b101b",
+    "wof:geomhash":"26b5ab912143e2039ec69f3f44fea5d3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404551193,
-    "wof:lastmodified":1617130932,
+    "wof:lastmodified":1695878839,
     "wof:name":"Itamari",
     "wof:parent_id":102050881,
     "wof:placetype":"localadmin",

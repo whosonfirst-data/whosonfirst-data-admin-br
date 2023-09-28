@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017427,
-    "geom:area_square_m":188084332.171913,
+    "geom:area_square_m":188084332.171784,
     "geom:bbox":"-50.177509124,-29.3548140084,-49.886522106,-29.1180577342",
     "geom:latitude":-29.209591,
     "geom:longitude":-50.035193,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.171419,
     "lbl:longitude":-49.977199,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u064a\u0627 \u063a\u0631\u0627\u0646\u062f\u064a"
@@ -118,9 +127,12 @@
         102060649
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421380705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3b60bedf6e15c53cd601dfe082b8b57c",
+    "wof:geomhash":"bf0ce5aa51fbef4da7aba4b24b25c2ec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":404565761,
-    "wof:lastmodified":1577827829,
+    "wof:lastmodified":1695878235,
     "wof:name":"Praia Grande",
     "wof:parent_id":102060649,
     "wof:placetype":"localadmin",

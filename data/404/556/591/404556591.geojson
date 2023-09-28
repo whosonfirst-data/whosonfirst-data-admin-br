@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009801,
-    "geom:area_square_m":116679869.738551,
+    "geom:area_square_m":116679869.73852,
     "geom:bbox":"-44.237424,-15.733386997,-44.068152,-15.6171749971",
     "geom:latitude":-15.683479,
     "geom:longitude":-44.150916,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.692365,
     "lbl:longitude":-44.152192,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09bf\u09b0\u09be\u0995\u09be\u099f\u09c1"
@@ -97,9 +106,12 @@
         102054005
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312965705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6c84ab9bf9214777186e3882e6c980c4",
+    "wof:geomhash":"111b54917cd7707c864118278636cdbb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404556591,
-    "wof:lastmodified":1577833062,
+    "wof:lastmodified":1695878502,
     "wof:name":"Ibiracatu",
     "wof:parent_id":102054005,
     "wof:placetype":"localadmin",

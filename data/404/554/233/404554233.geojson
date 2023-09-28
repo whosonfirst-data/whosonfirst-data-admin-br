@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020962,
-    "geom:area_square_m":243318169.548554,
+    "geom:area_square_m":243318169.54864,
     "geom:bbox":"-41.4161100585,-20.2778573774,-41.2262089327,-20.0164158697",
     "geom:latitude":-20.161878,
     "geom:longitude":-41.308601,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.16184,
     "lbl:longitude":-41.315049,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c7\u099c\u09c7\u099f\u09c1\u09ac\u09be"
@@ -100,9 +109,12 @@
         102051849
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320115905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"48cd9dfd95121ffb5dd6c8950cc731d0",
+    "wof:geomhash":"e29041b3985cac7fa48827174f9ba93c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404554233,
-    "wof:lastmodified":1577832764,
+    "wof:lastmodified":1695878398,
     "wof:name":"Brejetuba",
     "wof:parent_id":102051849,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022667,
-    "geom:area_square_m":256021104.208008,
+    "geom:area_square_m":256021104.20797,
     "geom:bbox":"-52.7533932337,-24.1047018513,-52.5141492051,-23.9277667445",
     "geom:latitude":-24.012821,
     "geom:longitude":-52.622532,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.014785,
     "lbl:longitude":-52.600991,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043d-\u0412\u0456\u0441\u0435\u043d\u0442\u044b"
@@ -109,9 +118,12 @@
         102057451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410170515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f952f00df3f1298fe6f36f857627050f",
+    "wof:geomhash":"d5617166b5aa12a7e2c0b7158df3f59e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":404560889,
-    "wof:lastmodified":1577827970,
+    "wof:lastmodified":1695878303,
     "wof:name":"S\u00e3o Vicente",
     "wof:parent_id":102057451,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001751,
-    "geom:area_square_m":21607927.509985,
+    "geom:area_square_m":21607927.509978,
     "geom:bbox":"-39.5155357038,-3.76214385059,-39.4646435341,-3.70291344439",
     "geom:latitude":-3.738138,
     "geom:longitude":-39.492407,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.740219,
     "lbl:longitude":-39.490685,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "S\u00e3o Tom\u00e9"
@@ -346,9 +355,12 @@
         102051595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230630632"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"58353301bc58cca6d5059a6a0827ac6c",
+    "wof:geomhash":"6e5bb0cdda522a3c3d0880c0187550b8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -360,7 +372,7 @@
         }
     ],
     "wof:id":404553119,
-    "wof:lastmodified":1577837660,
+    "wof:lastmodified":1695878668,
     "wof:name":"S\u00e3o Tom\u00e9",
     "wof:parent_id":102051595,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013698,
-    "geom:area_square_m":158863842.83395,
+    "geom:area_square_m":158863842.83397,
     "geom:bbox":"-44.447288,-20.3517269969,-44.25903,-20.2393819969",
     "geom:latitude":-20.292824,
     "geom:longitude":-44.358574,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.286627,
     "lbl:longitude":-44.356787,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u0993 \u09ae\u09be\u09a8\u09cd\u09b8\u09cb"
@@ -97,9 +106,12 @@
         102054697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315530605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ceb05871682e00853b47e34bb74b0bb8",
+    "wof:geomhash":"ae535d795914c11cc3c50e323c54c677",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404557941,
-    "wof:lastmodified":1577833246,
+    "wof:lastmodified":1695878557,
     "wof:name":"Rio Manso",
     "wof:parent_id":102054697,
     "wof:placetype":"localadmin",

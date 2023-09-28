@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049924,
-    "geom:area_square_m":598669957.06486,
+    "geom:area_square_m":598669957.064882,
     "geom:bbox":"-49.0612710526,-14.2671890762,-48.7025453156,-13.8777809975",
     "geom:latitude":-14.122047,
     "geom:longitude":-48.877275,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.151162,
     "lbl:longitude":-48.936899,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102052743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"522160120"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d51b6e09bb758395c9a0f1bae5691327",
+    "wof:geomhash":"d6c3d62ab9b9620966803f04e4436305",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554947,
-    "wof:lastmodified":1577836147,
+    "wof:lastmodified":1695878643,
     "wof:name":"Pau Terra",
     "wof:parent_id":102052743,
     "wof:placetype":"localadmin",

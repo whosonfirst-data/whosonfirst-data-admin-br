@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012148,
-    "geom:area_square_m":137351601.244431,
+    "geom:area_square_m":137351601.244408,
     "geom:bbox":"-52.7425614321,-23.9534061245,-52.5610315202,-23.8072180151",
     "geom:latitude":-23.88377,
     "geom:longitude":-52.642869,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.891591,
     "lbl:longitude":-52.621568,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "S\u00e3o Louren\u00e7o"
@@ -64,9 +73,12 @@
         102057575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410550810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ed5d35bc27c691871818c07eda356f3a",
+    "wof:geomhash":"3571031bdd82aa7b97aea09066592640",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":404561053,
-    "wof:lastmodified":1577827893,
+    "wof:lastmodified":1695878267,
     "wof:name":"S\u00e3o Louren\u00e7o",
     "wof:parent_id":102057575,
     "wof:placetype":"localadmin",

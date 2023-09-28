@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034754,
-    "geom:area_square_m":364044047.863839,
+    "geom:area_square_m":364044047.863972,
     "geom:bbox":"-53.744197362,-32.2380630322,-53.3903709197,-32.004063003",
     "geom:latitude":-32.100062,
     "geom:longitude":-53.589987,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-32.09063,
     "lbl:longitude":-53.560525,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bote"
@@ -55,9 +64,12 @@
         102059373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430710415"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2d2d016f8a4ea18ac89258d4e28aed77",
+    "wof:geomhash":"9c5872147bc42b391b8ac9b7a8f7011d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":404563521,
-    "wof:lastmodified":1577827925,
+    "wof:lastmodified":1695878283,
     "wof:name":"Bote",
     "wof:parent_id":102059373,
     "wof:placetype":"localadmin",

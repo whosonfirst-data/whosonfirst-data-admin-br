@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039004,
-    "geom:area_square_m":446370220.849268,
+    "geom:area_square_m":446370226.199384,
     "geom:bbox":"-46.064232,-22.414588,-45.816631,-22.109678",
     "geom:latitude":-22.253763,
     "geom:longitude":-45.9258,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.288201,
     "lbl:longitude":-45.90333,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0633\u0648 \u0623\u0644\u064a\u063a\u0631\u064a"
@@ -121,9 +130,12 @@
         102054631
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315250105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8fe34aea3436a0cf7d875a9ff35ae637",
+    "wof:geomhash":"4eafeacaeaea95f8ed3a27c5db001696",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +147,7 @@
         }
     ],
     "wof:id":404557807,
-    "wof:lastmodified":1636496435,
+    "wof:lastmodified":1695878863,
     "wof:name":"Pouso Alegre",
     "wof:parent_id":102054631,
     "wof:placetype":"localadmin",

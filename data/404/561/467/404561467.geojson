@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00764,
-    "geom:area_square_m":86627891.12215,
+    "geom:area_square_m":86627960.731336,
     "geom:bbox":"-52.100271,-23.558002,-51.951229,-23.46551",
     "geom:latitude":-23.507892,
     "geom:longitude":-52.021209,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.513811,
     "lbl:longitude":-52.022338,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ab\u09cd\u09b2\u09b0\u09bf\u09df\u09be\u09a8\u09cb"
@@ -91,9 +100,12 @@
         102057875
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411520010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e669026e896a67c0e8574e2cb1c409f8",
+    "wof:geomhash":"451b9d6d6bcd7e459f4e720beb4cd4cd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404561467,
-    "wof:lastmodified":1636496430,
+    "wof:lastmodified":1695878860,
     "wof:name":"Floriano",
     "wof:parent_id":102057875,
     "wof:placetype":"localadmin",

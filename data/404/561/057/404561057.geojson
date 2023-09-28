@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036051,
-    "geom:area_square_m":399433381.507768,
+    "geom:area_square_m":399433381.507842,
     "geom:bbox":"-52.4668272982,-26.4613905098,-52.235836408,-26.2332895164",
     "geom:latitude":-26.35751,
     "geom:longitude":-52.354465,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.359102,
     "lbl:longitude":-52.35221,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09b2\u09c7\u09ad\u09c7\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
@@ -88,9 +97,12 @@
         102057581
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410570605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3b0e2eb80ee923d749b7adb5333b5019",
+    "wof:geomhash":"634e7c8f06b4870c5ea29a8142489f14",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404561057,
-    "wof:lastmodified":1577827710,
+    "wof:lastmodified":1695878180,
     "wof:name":"Clevel\u00e2ndia",
     "wof:parent_id":102057581,
     "wof:placetype":"localadmin",

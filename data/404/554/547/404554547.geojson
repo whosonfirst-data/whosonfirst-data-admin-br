@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006763,
-    "geom:area_square_m":79078916.439625,
+    "geom:area_square_m":79078916.43962,
     "geom:bbox":"-40.9507882773,-19.0532076253,-40.8578491329,-18.9403676663",
     "geom:latitude":-18.981995,
     "geom:longitude":-40.898235,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.972836,
     "lbl:longitude":-40.897328,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vila Verde"
@@ -103,9 +112,12 @@
         102051937
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320400525"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4e1efe738a70497382ce3c3c478d77f5",
+    "wof:geomhash":"64e3c162d5db39f6dca86c9408bbd31a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404554547,
-    "wof:lastmodified":1577832975,
+    "wof:lastmodified":1695878473,
     "wof:name":"Vila Verde",
     "wof:parent_id":102051937,
     "wof:placetype":"localadmin",

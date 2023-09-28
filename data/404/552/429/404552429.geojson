@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057537,
-    "geom:area_square_m":706323914.264323,
+    "geom:area_square_m":706323914.264468,
     "geom:bbox":"-40.1252259001,-7.00905617087,-39.6909630304,-6.76352855129",
     "geom:latitude":-6.88539,
     "geom:longitude":-39.915992,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.878372,
     "lbl:longitude":-39.949002,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b8\u09b8\u09be\u09b0\u09c7"
@@ -91,9 +100,12 @@
         102051443
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230160405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"266b252a5c5ee69712bb9aaa47157ab7",
+    "wof:geomhash":"0d71cacecfaaad77c79fdd5c974e5e48",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404552429,
-    "wof:lastmodified":1577837876,
+    "wof:lastmodified":1695878719,
     "wof:name":"Assar\u00e9",
     "wof:parent_id":102051443,
     "wof:placetype":"localadmin",

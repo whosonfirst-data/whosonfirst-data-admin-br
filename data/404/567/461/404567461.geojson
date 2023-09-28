@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000754,
-    "geom:area_square_m":8543946.838305,
+    "geom:area_square_m":8543946.838309,
     "geom:bbox":"-46.653567,-23.599728,-46.61421,-23.567639",
     "geom:latitude":-23.586448,
     "geom:longitude":-46.635891,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.588173,
     "lbl:longitude":-46.637474,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Vila Mariana"
@@ -37,9 +46,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030890"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cc37bc64573577db2017d0d81dd5c619",
+    "wof:geomhash":"2f0712997747f6f8144544f8c31fdbbe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404567461,
-    "wof:lastmodified":1577832649,
+    "wof:lastmodified":1695878359,
     "wof:name":"Vila Mariana",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

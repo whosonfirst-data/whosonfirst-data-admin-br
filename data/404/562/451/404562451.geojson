@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012869,
-    "geom:area_square_m":147128025.412674,
+    "geom:area_square_m":147128025.412694,
     "geom:bbox":"-44.3428430333,-22.4863385444,-44.2028026605,-22.3038426958",
     "geom:latitude":-22.394281,
     "geom:longitude":-44.269677,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.36512,
     "lbl:longitude":-44.282372,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c1\u09f1\u09be\u099f\u09bf\u09b8"
@@ -88,9 +97,12 @@
         102058437
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330412805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"93ca150eddec1d9bb9ccabe807bd7665",
+    "wof:geomhash":"44b21c74c34fc33bcb2be8981cd1274e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404562451,
-    "wof:lastmodified":1577832905,
+    "wof:lastmodified":1695878451,
     "wof:name":"Quatis",
     "wof:parent_id":102058437,
     "wof:placetype":"localadmin",

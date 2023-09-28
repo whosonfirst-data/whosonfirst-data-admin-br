@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028067,
-    "geom:area_square_m":306201079.676015,
+    "geom:area_square_m":306201079.676056,
     "geom:bbox":"-51.0624850672,-28.2076453415,-50.8749169563,-27.9403043015",
     "geom:latitude":-28.080502,
     "geom:longitude":-50.971203,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.090846,
     "lbl:longitude":-50.969802,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Estrela"
@@ -58,9 +67,12 @@
         102060103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432250920"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c4d523f72b007efd5cf6dc13390fec9d",
+    "wof:geomhash":"8b5fb92756fcfb344339a5ba6984b45f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":404565031,
-    "wof:lastmodified":1577827890,
+    "wof:lastmodified":1695878266,
     "wof:name":"Estrela",
     "wof:parent_id":102060103,
     "wof:placetype":"localadmin",

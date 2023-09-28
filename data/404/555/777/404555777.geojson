@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022239,
-    "geom:area_square_m":259913694.77259,
+    "geom:area_square_m":259913694.772573,
     "geom:bbox":"-43.294984,-19.140515,-43.07812,-18.970838",
     "geom:latitude":-19.060347,
     "geom:longitude":-43.174441,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.05027,
     "lbl:longitude":-43.172378,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09cd\u09ae\u09c7\u09b8\u09bf\u09af\u09bc\u09be"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053587,
         1511777411,
-        85681941
+        102053587
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311380005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053587
     ],
     "wof:country":"BR",
-    "wof:geomhash":"732239a9294d6ace1fd444a4fd529a64",
+    "wof:geomhash":"c5f70a960e0585bd40458ab4ef42e170",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404555777,
-    "wof:lastmodified":1608032576,
+    "wof:lastmodified":1695878810,
     "wof:name":"Carm\u00e9sia",
     "wof:parent_id":102053587,
     "wof:placetype":"localadmin",

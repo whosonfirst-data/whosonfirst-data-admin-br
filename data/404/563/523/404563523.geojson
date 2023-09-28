@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038692,
-    "geom:area_square_m":406053412.089724,
+    "geom:area_square_m":406053412.08975,
     "geom:bbox":"-53.49734895,-32.0280279962,-53.1926669951,-31.8336171724",
     "geom:latitude":-31.928969,
     "geom:longitude":-53.364849,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-31.932767,
     "lbl:longitude":-53.367751,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cerro Chato"
@@ -67,9 +76,12 @@
         102059373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430710420"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"beb18779e612400905d00ee6a5c5f90b",
+    "wof:geomhash":"b2396d5a57a63451429605c42cec2d54",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404563523,
-    "wof:lastmodified":1577827859,
+    "wof:lastmodified":1695878252,
     "wof:name":"Cerro Chato",
     "wof:parent_id":102059373,
     "wof:placetype":"localadmin",

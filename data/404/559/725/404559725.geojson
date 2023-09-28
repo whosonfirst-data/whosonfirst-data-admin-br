@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.20331,
-    "geom:area_square_m":2506635228.392909,
+    "geom:area_square_m":2506635228.392455,
     "geom:bbox":"-55.8969147148,-4.6783255428,-55.0469414771,-3.99296764081",
     "geom:latitude":-4.37453,
     "geom:longitude":-55.486056,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.433213,
     "lbl:longitude":-55.479058,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0641\u064a\u0646\u0648\u0628\u0648\u0644\u064a\u0633"
@@ -121,9 +130,12 @@
         102055893
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150619515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d16e450e445f39c9501ed169a54e481f",
+    "wof:geomhash":"f07ae200589d2204cb12c238734bc92a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +147,7 @@
         }
     ],
     "wof:id":404559725,
-    "wof:lastmodified":1577825671,
+    "wof:lastmodified":1695878156,
     "wof:name":"Divin\u00f3polis",
     "wof:parent_id":102055893,
     "wof:placetype":"localadmin",

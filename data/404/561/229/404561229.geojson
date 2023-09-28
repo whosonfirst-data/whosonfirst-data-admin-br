@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085995,
-    "geom:area_square_m":957446174.047547,
+    "geom:area_square_m":957446174.047555,
     "geom:bbox":"-48.9734271484,-25.9843746028,-48.5496509461,-25.5971402623",
     "geom:latitude":-25.788318,
     "geom:longitude":-48.729205,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.710283,
     "lbl:longitude":-48.746778,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09b0\u09be\u099f\u09c1\u09ac\u09be"
@@ -88,9 +97,12 @@
         102057713
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410960905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"36b232bcaf4085bee8e242e832e02f1c",
+    "wof:geomhash":"eb8430f6e005adb002e19384cce8e4cd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404561229,
-    "wof:lastmodified":1577827771,
+    "wof:lastmodified":1695878210,
     "wof:name":"Guaratuba",
     "wof:parent_id":102057713,
     "wof:placetype":"localadmin",

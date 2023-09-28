@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00114,
-    "geom:area_square_m":12919326.303759,
+    "geom:area_square_m":12919326.30376,
     "geom:bbox":"-46.75705,-23.589921,-46.700917,-23.548235",
     "geom:latitude":-23.570164,
     "geom:longitude":-46.726193,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.569509,
     "lbl:longitude":-46.721938,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -38,14 +47,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "bra-ibge:code":"355030812",
         "gn:id":8449506,
         "qs_pg:id":1246279
     },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2df293550f0d6a32d269dd8fd7a55ac4",
+    "wof:geomhash":"e4f58fd297afefd885bedbe530473789",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":404567285,
-    "wof:lastmodified":1582321206,
+    "wof:lastmodified":1695878749,
     "wof:name":"Butant\u00e3",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

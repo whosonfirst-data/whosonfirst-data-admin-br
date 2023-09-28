@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008128,
-    "geom:area_square_m":92581073.78023,
+    "geom:area_square_m":92581073.780216,
     "geom:bbox":"-42.8923873503,-22.9664938845,-42.7566209978,-22.8437328988",
     "geom:latitude":-22.907407,
     "geom:longitude":-42.827295,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.906453,
     "lbl:longitude":-42.831915,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058395
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330270005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"63a296c69198cffa1e76087c718a0321",
+    "wof:geomhash":"565b48f485529de953766eacc8c63bf3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562351,
-    "wof:lastmodified":1577832847,
+    "wof:lastmodified":1695878428,
     "wof:name":"Maric\u00e1",
     "wof:parent_id":102058395,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015426,
-    "geom:area_square_m":190483511.101249,
+    "geom:area_square_m":190483511.101259,
     "geom:bbox":"-40.5118555361,-3.003959126,-40.160622767,-2.93977592291",
     "geom:latitude":-2.974788,
     "geom:longitude":-40.324527,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-2.973612,
     "lbl:longitude":-40.306959,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Prata"
@@ -73,9 +82,12 @@
         102051465
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230230510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c8f02ecc64a242b1e98601d84dc9810d",
+    "wof:geomhash":"a49891ea742c1d20654ab8dbd548f928",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404552523,
-    "wof:lastmodified":1577837675,
+    "wof:lastmodified":1695878671,
     "wof:name":"Prata",
     "wof:parent_id":102051465,
     "wof:placetype":"localadmin",

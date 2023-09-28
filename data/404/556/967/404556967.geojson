@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04157,
-    "geom:area_square_m":497888137.987145,
+    "geom:area_square_m":497888137.987082,
     "geom:bbox":"-44.056086,-14.5369249977,-43.7831867328,-14.2654043792",
     "geom:latitude":-14.395064,
     "geom:longitude":-43.945961,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.391442,
     "lbl:longitude":-43.959325,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313695920"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a2e88de788d9ae9b8805f49046f0b0ae",
+    "wof:geomhash":"45c6a22a8a9d5b7af4dbd7321a387588",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556967,
-    "wof:lastmodified":1577832589,
+    "wof:lastmodified":1695878332,
     "wof:name":"Porto Agr\u00e1rio",
     "wof:parent_id":102054201,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040529,
-    "geom:area_square_m":491415620.313601,
+    "geom:area_square_m":491415620.313406,
     "geom:bbox":"-39.86610873,-11.4270017631,-39.5299145143,-11.139018937",
     "geom:latitude":-11.304924,
     "geom:longitude":-39.69307,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.307151,
     "lbl:longitude":-39.690338,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pereira"
@@ -97,9 +106,12 @@
         102051231
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292800020"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f140f35dda815d747ffa89dd12a7b46c",
+    "wof:geomhash":"017df55c674d57d471236c3528140f92",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404551891,
-    "wof:lastmodified":1577837820,
+    "wof:lastmodified":1695878706,
     "wof:name":"Pereira",
     "wof:parent_id":102051231,
     "wof:placetype":"localadmin",

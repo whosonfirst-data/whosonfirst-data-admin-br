@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016515,
-    "geom:area_square_m":186769046.317024,
+    "geom:area_square_m":186769046.317078,
     "geom:bbox":"-47.0287876214,-23.9384371356,-46.848447226,-23.774516",
     "geom:latitude":-23.852457,
     "geom:longitude":-46.936379,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.846179,
     "lbl:longitude":-46.945211,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102062247
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354995305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1fdd8780faf28d63c10d315f012eaed2",
+    "wof:geomhash":"5a753da1fd55fc1ac5636af8acc508de",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404567245,
-    "wof:lastmodified":1577832789,
+    "wof:lastmodified":1695878409,
     "wof:name":"S\u00e3o Louren\u00e7o Da Serra",
     "wof:parent_id":102062247,
     "wof:placetype":"localadmin",

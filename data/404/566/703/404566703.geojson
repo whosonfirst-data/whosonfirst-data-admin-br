@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003887,
-    "geom:area_square_m":44162783.292445,
+    "geom:area_square_m":44162783.292456,
     "geom:bbox":"-46.629456,-23.2856161309,-46.51347,-23.225811",
     "geom:latitude":-23.255173,
     "geom:longitude":-46.579065,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.256489,
     "lbl:longitude":-46.579944,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061711
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352850215"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"370b18576a4c32a826cc76f4b46fddb7",
+    "wof:geomhash":"e0e86fabee4b809780e4d10c6d77a811",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566703,
-    "wof:lastmodified":1577833159,
+    "wof:lastmodified":1695878530,
     "wof:name":"Terra Preta",
     "wof:parent_id":102061711,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014472,
-    "geom:area_square_m":169182830.978939,
+    "geom:area_square_m":169182830.978954,
     "geom:bbox":"-40.4644972522,-19.0857816889,-40.2638860017,-18.9415765095",
     "geom:latitude":-19.021329,
     "geom:longitude":-40.385835,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.035792,
     "lbl:longitude":-40.395697,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09bf\u09b2\u09be \u09ad\u09be\u09b2\u09c7\u09b0\u09bf\u0993"
@@ -94,9 +103,12 @@
         102051987
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320517605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e31d88daff8069ca80b2e9412541982c",
+    "wof:geomhash":"acae4a78772e99967a5e59cb383bf847",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404554665,
-    "wof:lastmodified":1577833114,
+    "wof:lastmodified":1695878517,
     "wof:name":"Vila Val\u00e9rio",
     "wof:parent_id":102051987,
     "wof:placetype":"localadmin",

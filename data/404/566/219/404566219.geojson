@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007595,
-    "geom:area_square_m":87324619.52862,
+    "geom:area_square_m":87324619.528646,
     "geom:bbox":"-49.5099906205,-21.6479246285,-49.3962219487,-21.5240685001",
     "geom:latitude":-21.585606,
     "geom:longitude":-49.453293,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.587278,
     "lbl:longitude":-49.452441,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061213
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350880110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a1bdf39b26a6d6562d5b2a6e9c9ab73f",
+    "wof:geomhash":"28fdcd24b811bc94e6eb5928ab90fe44",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566219,
-    "wof:lastmodified":1577833367,
+    "wof:lastmodified":1695878594,
     "wof:name":"Bacuriti",
     "wof:parent_id":102061213,
     "wof:placetype":"localadmin",

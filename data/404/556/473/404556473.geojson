@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009649,
-    "geom:area_square_m":112794535.937453,
+    "geom:area_square_m":112794535.937483,
     "geom:bbox":"-41.287826,-19.122565,-41.158325,-18.958992",
     "geom:latitude":-19.021938,
     "geom:longitude":-41.236066,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.011309,
     "lbl:longitude":-41.237051,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053947,
         1511777411,
-        85681941
+        102053947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312737005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053947
     ],
     "wof:country":"BR",
-    "wof:geomhash":"fbc9ed771ecc81ad6a8bf127f91f4da7",
+    "wof:geomhash":"184f143bcf027fef37d6b55e7204b7fe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404556473,
-    "wof:lastmodified":1608029564,
+    "wof:lastmodified":1695878767,
     "wof:name":"Goiabeira",
     "wof:parent_id":102053947,
     "wof:placetype":"localadmin",

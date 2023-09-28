@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010504,
-    "geom:area_square_m":121223548.758314,
+    "geom:area_square_m":121223548.75828,
     "geom:bbox":"-44.660709,-21.1028359968,-44.480018,-20.9593019885",
     "geom:latitude":-21.040523,
     "geom:longitude":-44.583738,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.048832,
     "lbl:longitude":-44.583749,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054965
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316500810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0bbc064efac587d42c1235b50abe32fe",
+    "wof:geomhash":"b86e11105486a7da15eb91f0c2d40494",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558431,
-    "wof:lastmodified":1577832902,
+    "wof:lastmodified":1695878451,
     "wof:name":"Merc\u00eas De \u00c1gua Limpa",
     "wof:parent_id":102054965,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022334,
-    "geom:area_square_m":258492053.430223,
+    "geom:area_square_m":258492053.430253,
     "geom:bbox":"-42.087374,-20.6951069969,-41.8072973367,-20.5152109969",
     "geom:latitude":-20.609041,
     "geom:longitude":-41.949962,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.616904,
     "lbl:longitude":-41.926577,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u098f\u09b8\u09aa\u09c7\u09b0\u09be \u09ab\u09c7\u09b2\u09bf\u099c"
@@ -94,9 +103,12 @@
         102053859
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312420305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c16e0702d4499a8d7d6cfb54a7593dae",
+    "wof:geomhash":"9d4a841da11cae8a55770604a26dfd47",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404556303,
-    "wof:lastmodified":1577832585,
+    "wof:lastmodified":1695878331,
     "wof:name":"Espera Feliz",
     "wof:parent_id":102053859,
     "wof:placetype":"localadmin",

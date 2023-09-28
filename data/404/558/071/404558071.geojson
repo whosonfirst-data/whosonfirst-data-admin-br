@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013351,
-    "geom:area_square_m":154733603.667791,
+    "geom:area_square_m":154733603.667879,
     "geom:bbox":"-42.346914,-20.4779439969,-42.17934,-20.3220859969",
     "geom:latitude":-20.396659,
     "geom:longitude":-42.247314,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.394051,
     "lbl:longitude":-42.239079,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Santa Margarida"
@@ -52,9 +61,12 @@
         102054769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315790605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"257f9add837493173b5d909b53e3ea6a",
+    "wof:geomhash":"a17a06a22ddae4f2a66ef7351120d49b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":404558071,
-    "wof:lastmodified":1577832609,
+    "wof:lastmodified":1695878341,
     "wof:name":"Santa Margarida",
     "wof:parent_id":102054769,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018284,
-    "geom:area_square_m":210606285.980839,
+    "geom:area_square_m":210606401.004228,
     "geom:bbox":"-41.587808,-21.425355,-41.409473,-21.231807",
     "geom:latitude":-21.32668,
     "geom:longitude":-41.500309,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.314562,
     "lbl:longitude":-41.484181,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Santa Maria"
@@ -157,9 +166,12 @@
         102058341
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330100945"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d36cb5ad977c2131817fb2dd41966098",
+    "wof:geomhash":"39832ec3104ae580bc2954072919d5c9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -171,7 +183,7 @@
         }
     ],
     "wof:id":404562187,
-    "wof:lastmodified":1636496450,
+    "wof:lastmodified":1695878866,
     "wof:name":"Santa Maria",
     "wof:parent_id":102058341,
     "wof:placetype":"localadmin",

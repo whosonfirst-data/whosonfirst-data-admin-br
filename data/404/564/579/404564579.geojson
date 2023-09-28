@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056266,
-    "geom:area_square_m":605970405.327297,
+    "geom:area_square_m":605970405.327325,
     "geom:bbox":"-50.7158157929,-29.5605672497,-50.3952312424,-29.2754957725",
     "geom:latitude":-29.427877,
     "geom:longitude":-50.536667,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.430675,
     "lbl:longitude":-50.533525,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059899
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431820005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"62e86b68dcf14b8e1f06ac85f21d6700",
+    "wof:geomhash":"077358a0c739c63cdef631f96f232db8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564579,
-    "wof:lastmodified":1577827803,
+    "wof:lastmodified":1695878225,
     "wof:name":"S\u00e3o Francisco De Paula",
     "wof:parent_id":102059899,
     "wof:placetype":"localadmin",

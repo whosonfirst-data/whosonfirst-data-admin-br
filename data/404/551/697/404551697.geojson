@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130089,
-    "geom:area_square_m":1586341133.151885,
+    "geom:area_square_m":1586341133.151864,
     "geom:bbox":"-38.513046,-9.720795,-37.997949,-9.352937",
     "geom:latitude":-9.538036,
     "geom:longitude":-38.296805,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.524041,
     "lbl:longitude":-38.296812,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0648\u0644\u0648 \u0623\u0641\u0648\u0646\u0633\u0648"
@@ -121,12 +130,15 @@
         102051123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292400905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102051123
     ],
     "wof:country":"BR",
-    "wof:geomhash":"9f6a2457ba8fdf28ee8bfa2187cc2136",
+    "wof:geomhash":"b0ce832c6d378149ee97190efcb14b31",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":404551697,
-    "wof:lastmodified":1636496409,
+    "wof:lastmodified":1695878853,
     "wof:name":"Paulo Afonso",
     "wof:parent_id":102051123,
     "wof:placetype":"localadmin",

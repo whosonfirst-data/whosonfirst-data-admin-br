@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030194,
-    "geom:area_square_m":333139137.246845,
+    "geom:area_square_m":333139137.24675,
     "geom:bbox":"-49.969158,-26.928136,-49.705336,-26.731935",
     "geom:latitude":-26.836296,
     "geom:longitude":-49.847645,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.828114,
     "lbl:longitude":-49.849665,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09bf\u099f\u09cb\u09b0\u09cd \u09ae\u09c7\u0987\u09b0\u09c7\u09b2\u09c7\u09b8"
@@ -81,19 +90,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060175,
         1511777409,
-        85682021
+        102060175
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421935805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060175
     ],
     "wof:country":"BR",
-    "wof:geomhash":"bc1c03f8d406637c40a72a53482b08d9",
+    "wof:geomhash":"8b09d78c4dcbe174536f74dde628112e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404565989,
-    "wof:lastmodified":1608034499,
+    "wof:lastmodified":1695878824,
     "wof:name":"Vitor Meireles",
     "wof:parent_id":102060175,
     "wof:placetype":"localadmin",

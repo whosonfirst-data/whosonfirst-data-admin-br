@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032826,
-    "geom:area_square_m":383712340.317459,
+    "geom:area_square_m":383712340.317425,
     "geom:bbox":"-41.80646,-19.1810459965,-41.522729,-18.8963969965",
     "geom:latitude":-19.03128,
     "geom:longitude":-41.659837,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.039381,
     "lbl:longitude":-41.626542,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c1\u09ae\u09bf\u09b0\u09bf\u099f\u09bf\u0999\u09cd\u0997\u09be"
@@ -94,9 +103,12 @@
         102055085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316950505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e2f89daef55a3d0d65bff43fdc233ffa",
+    "wof:geomhash":"1e1bc19dc85363bfa0fdef0fddf73e59",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404558629,
-    "wof:lastmodified":1577833082,
+    "wof:lastmodified":1695878508,
     "wof:name":"Tumiritinga",
     "wof:parent_id":102055085,
     "wof:placetype":"localadmin",

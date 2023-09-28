@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026734,
-    "geom:area_square_m":292383455.869145,
+    "geom:area_square_m":292383455.869249,
     "geom:bbox":"-48.7481973824,-27.9170720895,-48.5730193015,-27.6947365938",
     "geom:latitude":-27.811899,
     "geom:longitude":-48.655825,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.824847,
     "lbl:longitude":-48.65748,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060593
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421190010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7ca37b77ed5f10a1224468308da55362",
+    "wof:geomhash":"6afd0576c565e47a23ad5aff8fedd0c4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565679,
-    "wof:lastmodified":1577827820,
+    "wof:lastmodified":1695878232,
     "wof:name":"Enseada De Brito",
     "wof:parent_id":102060593,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013662,
-    "geom:area_square_m":165496000.733428,
+    "geom:area_square_m":165496000.733429,
     "geom:bbox":"-37.8288705709,-11.6608411392,-37.6581052966,-11.5185789871",
     "geom:latitude":-11.585032,
     "geom:longitude":-37.749918,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.586982,
     "lbl:longitude":-37.758318,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Janda\u00edra"
@@ -91,9 +100,12 @@
         102050939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291790405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6aadb45975f4da83f08ce57c6801444a",
+    "wof:geomhash":"59cf12c88c2a0108d951eaff156abfb7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404551303,
-    "wof:lastmodified":1577837711,
+    "wof:lastmodified":1695878680,
     "wof:name":"Janda\u00edra",
     "wof:parent_id":102050939,
     "wof:placetype":"localadmin",

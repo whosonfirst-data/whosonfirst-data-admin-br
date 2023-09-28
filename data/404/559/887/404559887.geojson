@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035163,
-    "geom:area_square_m":430672333.240115,
+    "geom:area_square_m":430672333.24011,
     "geom:bbox":"-36.9616924325,-8.03708671112,-36.6565520018,-7.77581447346",
     "geom:latitude":-7.894027,
     "geom:longitude":-36.831243,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.907637,
     "lbl:longitude":-36.85892,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09be\u09b2\u09be\u0989"
@@ -94,9 +103,12 @@
         102056097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250390205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"48f7b321e65f569737edf1a4bdce06d1",
+    "wof:geomhash":"baeaa8636e533025243e4065a3251dbf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404559887,
-    "wof:lastmodified":1577837973,
+    "wof:lastmodified":1695878744,
     "wof:name":"Camala\u00fa",
     "wof:parent_id":102056097,
     "wof:placetype":"localadmin",

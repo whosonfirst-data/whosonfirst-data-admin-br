@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014866,
-    "geom:area_square_m":164695241.385766,
+    "geom:area_square_m":164695241.385633,
     "geom:bbox":"-49.146386,-26.457709,-48.97933,-26.26131",
     "geom:latitude":-26.368089,
     "geom:longitude":-49.060519,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.369961,
     "lbl:longitude":-49.061803,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u30b7\u30e5\u30ed\u30fc\u30c0\u30fc"
@@ -46,12 +55,15 @@
         102060767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421740205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060767
     ],
     "wof:country":"BR",
-    "wof:geomhash":"d506b22d07920907201b7d44d2c08847",
+    "wof:geomhash":"c63ec48849b1c85382683c01d687a5f0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":404565905,
-    "wof:lastmodified":1617130586,
+    "wof:lastmodified":1695878836,
     "wof:name":"Schroeder",
     "wof:parent_id":102060767,
     "wof:placetype":"localadmin",

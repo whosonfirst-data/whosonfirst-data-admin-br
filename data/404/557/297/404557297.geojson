@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004978,
-    "geom:area_square_m":57358021.9333,
+    "geom:area_square_m":57358021.933317,
     "geom:bbox":"-46.335732,-21.3152129968,-46.240467,-21.2024719968",
     "geom:latitude":-21.262986,
     "geom:longitude":-46.291663,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.266542,
     "lbl:longitude":-46.290933,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054365
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314300515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b8f9b4abca64010e52797b539a0b1185",
+    "wof:geomhash":"bad08ca4e4f1704aa15048dd698ce9ae",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557297,
-    "wof:lastmodified":1577832812,
+    "wof:lastmodified":1695878416,
     "wof:name":"Santa Cruz Da Aparecida",
     "wof:parent_id":102054365,
     "wof:placetype":"localadmin",

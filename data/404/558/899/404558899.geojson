@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141585,
-    "geom:area_square_m":1661983389.501844,
+    "geom:area_square_m":1661983802.543997,
     "geom:bbox":"-54.68581,-18.586988,-54.134479,-18.092061",
     "geom:latitude":-18.320441,
     "geom:longitude":-54.412664,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.320252,
     "lbl:longitude":-54.454457,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u0995\u09c1\u09f1\u09be\u09b0\u09bf"
@@ -118,9 +127,12 @@
         102055231
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500330615"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1fdbde42377d0e5d11c8f410ab2aa859",
+    "wof:geomhash":"900a1a35a08669f699e89f8d9840599d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":404558899,
-    "wof:lastmodified":1636496421,
+    "wof:lastmodified":1695878857,
     "wof:name":"Taquari",
     "wof:parent_id":102055231,
     "wof:placetype":"localadmin",

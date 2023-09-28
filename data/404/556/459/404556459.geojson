@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019305,
-    "geom:area_square_m":225768225.746321,
+    "geom:area_square_m":225768225.746298,
     "geom:bbox":"-41.606814,-19.0375889971,-41.402424,-18.8355599971",
     "geom:latitude":-18.949271,
     "geom:longitude":-41.517078,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.969846,
     "lbl:longitude":-41.515536,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09be\u09b2\u09bf\u09b2\u09c7\u0987\u09af\u09bc\u09be"
@@ -100,9 +109,12 @@
         102053939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312730505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e72e8b310218591810e3576294cd2551",
+    "wof:geomhash":"e8374e02755cbe9745dd973c1dbc63d5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404556459,
-    "wof:lastmodified":1577832914,
+    "wof:lastmodified":1695878455,
     "wof:name":"Galil\u00e9ia",
     "wof:parent_id":102053939,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020413,
-    "geom:area_square_m":232200588.875978,
+    "geom:area_square_m":232200588.87603,
     "geom:bbox":"-52.9186817691,-23.1850732098,-52.7151893432,-23.0037809586",
     "geom:latitude":-23.084663,
     "geom:longitude":-52.814723,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.08656,
     "lbl:longitude":-52.790838,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09be\u09aa\u09cb\u09b0\u09be"
@@ -97,9 +106,12 @@
         102057427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410090505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d51c1ebfee8229bd27c697c609005ad2",
+    "wof:geomhash":"b886f79cf2397023ca94d405423a4682",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404560843,
-    "wof:lastmodified":1577827963,
+    "wof:lastmodified":1695878299,
     "wof:name":"Amapor\u00e3",
     "wof:parent_id":102057427,
     "wof:placetype":"localadmin",

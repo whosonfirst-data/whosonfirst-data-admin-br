@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047581,
-    "geom:area_square_m":528134310.301343,
+    "geom:area_square_m":528134310.300909,
     "geom:bbox":"-50.0319980974,-26.3045504872,-49.6764332482,-26.0084140115",
     "geom:latitude":-26.147531,
     "geom:longitude":-49.864981,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.155313,
     "lbl:longitude":-49.867749,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Mafra"
@@ -79,9 +88,12 @@
         102060529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421010005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8b20b52a5e081fe1e48f36d9f93043aa",
+    "wof:geomhash":"e6d6406d50c045ca560788db118f7cf1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404565599,
-    "wof:lastmodified":1577827803,
+    "wof:lastmodified":1695878225,
     "wof:name":"Mafra",
     "wof:parent_id":102060529,
     "wof:placetype":"localadmin",

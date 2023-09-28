@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00141,
-    "geom:area_square_m":15976124.979829,
+    "geom:area_square_m":15976124.97984,
     "geom:bbox":"-46.726397,-23.665104,-46.672575,-23.620078",
     "geom:latitude":-23.642349,
     "geom:longitude":-46.701241,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.641465,
     "lbl:longitude":-46.701649,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09cb \u0986\u09ae\u09be\u09b0\u09cb"
@@ -70,9 +79,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030871"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"924d27908785659583b5e72613d2d3b2",
+    "wof:geomhash":"3e607bcedd3935416c01f0bab6dcc386",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404567419,
-    "wof:lastmodified":1577833322,
+    "wof:lastmodified":1695878582,
     "wof:name":"Santo Amaro",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

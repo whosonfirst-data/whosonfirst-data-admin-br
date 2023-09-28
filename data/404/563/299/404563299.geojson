@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007134,
-    "geom:area_square_m":76279147.172872,
+    "geom:area_square_m":76279147.172867,
     "geom:bbox":"-50.496169871,-30.2205566637,-50.3574719856,-30.0758984447",
     "geom:latitude":-30.145227,
     "geom:longitude":-50.416479,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.130071,
     "lbl:longitude":-50.415462,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059229
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430467110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2e9d083f7025907b7e4c73d44a5b1e54",
+    "wof:geomhash":"138331421f4f15c092532ffd73835387",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404563299,
-    "wof:lastmodified":1577827726,
+    "wof:lastmodified":1695878189,
     "wof:name":"Rancho Velho",
     "wof:parent_id":102059229,
     "wof:placetype":"localadmin",

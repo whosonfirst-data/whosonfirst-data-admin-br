@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058764,
-    "geom:area_square_m":724744431.539147,
+    "geom:area_square_m":724744431.539254,
     "geom:bbox":"-45.6260659929,-4.30223344031,-45.356097676,-3.87216472007",
     "geom:latitude":-4.122144,
     "geom:longitude":-45.495605,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.194172,
     "lbl:longitude":-45.504872,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102052775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"210040205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d68300bd23baca40bd13f309bf05e8f6",
+    "wof:geomhash":"6ad3a8bcac7603ccca0f638919e35ade",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554969,
-    "wof:lastmodified":1577837635,
+    "wof:lastmodified":1695878661,
     "wof:name":"Altamira Do Maranh\u00e3o",
     "wof:parent_id":102052775,
     "wof:placetype":"localadmin",

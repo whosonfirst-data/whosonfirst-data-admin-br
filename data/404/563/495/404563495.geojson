@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002713,
-    "geom:area_square_m":28890642.260298,
+    "geom:area_square_m":28890642.260288,
     "geom:bbox":"-52.564159,-30.570643,-52.490425,-30.501823",
     "geom:latitude":-30.545938,
     "geom:longitude":-52.52517,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.548153,
     "lbl:longitude":-52.518467,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682015,
         102191577,
         85633009,
-        102059357,
         1511777409,
-        85682015
+        102059357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430690805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101959293
     ],
     "wof:country":"BR",
-    "wof:geomhash":"df1d9fa6b827e4cda9af5bfb6aae7967",
+    "wof:geomhash":"2ca21ce4dedd96a8695e80c710db0b35",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404563495,
-    "wof:lastmodified":1608022251,
+    "wof:lastmodified":1695878751,
     "wof:name":"Encruzilhada Do Sul",
     "wof:parent_id":102059357,
     "wof:placetype":"localadmin",

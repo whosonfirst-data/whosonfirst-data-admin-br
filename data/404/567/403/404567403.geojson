@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00058,
-    "geom:area_square_m":6570798.116097,
+    "geom:area_square_m":6570798.116101,
     "geom:bbox":"-46.520985,-23.527753,-46.475061,-23.506407",
     "geom:latitude":-23.51568,
     "geom:longitude":-46.493755,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.516719,
     "lbl:longitude":-46.487338,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Ponte Rasa"
@@ -37,9 +46,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030864"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"695f7a5c4a39c1bc6b294eb6422e9085",
+    "wof:geomhash":"321d42f8a6cceb805c499561aa7456dc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404567403,
-    "wof:lastmodified":1577833309,
+    "wof:lastmodified":1695878578,
     "wof:name":"Ponte Rasa",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

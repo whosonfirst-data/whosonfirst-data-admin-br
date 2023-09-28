@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019694,
-    "geom:area_square_m":228294815.028498,
+    "geom:area_square_m":228294815.028449,
     "geom:bbox":"-47.298208,-20.491079,-47.17319,-20.226728",
     "geom:latitude":-20.369379,
     "geom:longitude":-47.239497,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.403746,
     "lbl:longitude":-47.240714,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09b2\u09be\u09b0\u09be\u09ad\u09be\u09b2"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053657,
         1511777411,
-        85681941
+        102053657
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311640705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053657
     ],
     "wof:country":"BR",
-    "wof:geomhash":"6473f3e980f26ef8c0c75b08ec3ce75a",
+    "wof:geomhash":"184fd946b775e5f9e76d87f226f473bf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404555905,
-    "wof:lastmodified":1608032624,
+    "wof:lastmodified":1695878811,
     "wof:name":"Claraval",
     "wof:parent_id":102053657,
     "wof:placetype":"localadmin",

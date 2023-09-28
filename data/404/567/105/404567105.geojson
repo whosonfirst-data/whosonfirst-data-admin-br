@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049472,
-    "geom:area_square_m":557767145.579745,
+    "geom:area_square_m":557767145.579759,
     "geom:bbox":"-48.9040091234,-24.39235606,-48.626171515,-24.1157294072",
     "geom:latitude":-24.247663,
     "geom:longitude":-48.747028,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.247352,
     "lbl:longitude":-48.744342,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u09ac\u09c7\u0987\u09b0\u09be\u0993 \u09ac\u09cd\u09b0\u09be\u0999\u09cd\u0995\u09cb"
@@ -91,9 +100,12 @@
         102062073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354300605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"aeab01d1538af93321e848945147febb",
+    "wof:geomhash":"456e02441cd9b3b7fffd8b16602a57bc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404567105,
-    "wof:lastmodified":1577832651,
+    "wof:lastmodified":1695878359,
     "wof:name":"Ribeir\u00e3o Branco",
     "wof:parent_id":102062073,
     "wof:placetype":"localadmin",

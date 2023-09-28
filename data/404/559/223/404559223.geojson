@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.664569,
-    "geom:area_square_m":8073148572.888462,
+    "geom:area_square_m":8073148572.888264,
     "geom:bbox":"-57.6826947159,-11.3275212492,-56.7135282606,-10.248904692",
     "geom:latitude":-10.752706,
     "geom:longitude":-57.204059,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.64491,
     "lbl:longitude":-57.116581,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09c1\u09f1\u09be\u09b0\u09be"
@@ -91,9 +100,12 @@
         102055475
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510510105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3783b7d8008703dae216c03b37ea6fa0",
+    "wof:geomhash":"fad1db3b4e676e770032af5da2f915d7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404559223,
-    "wof:lastmodified":1577836099,
+    "wof:lastmodified":1695878632,
     "wof:name":"Juara",
     "wof:parent_id":102055475,
     "wof:placetype":"localadmin",

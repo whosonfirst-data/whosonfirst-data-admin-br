@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053765,
-    "geom:area_square_m":627559506.698073,
+    "geom:area_square_m":627559506.698405,
     "geom:bbox":"-44.663174,-19.429458,-44.240474,-19.129966",
     "geom:latitude":-19.272196,
     "geom:longitude":-44.452664,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.228097,
     "lbl:longitude":-44.502135,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b0\u09be\u0993\u09aa\u09c7\u09ac\u09be"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054495,
         1511777411,
-        85681941
+        102054495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314740205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054495
     ],
     "wof:country":"BR",
-    "wof:geomhash":"0285ac7dbb6e93b046c208d520eec2cc",
+    "wof:geomhash":"c969078c98c08293f859d43f76a9867e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404557559,
-    "wof:lastmodified":1608031707,
+    "wof:lastmodified":1695878790,
     "wof:name":"Paraopeba",
     "wof:parent_id":102054495,
     "wof:placetype":"localadmin",

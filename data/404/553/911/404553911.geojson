@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008613,
-    "geom:area_square_m":106278540.098368,
+    "geom:area_square_m":106278540.098362,
     "geom:bbox":"-40.5686273482,-3.73784180732,-40.4177597452,-3.63583525692",
     "geom:latitude":-3.682043,
     "geom:longitude":-40.498474,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.682319,
     "lbl:longitude":-40.498488,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Jord\u00e3o"
@@ -40,9 +49,12 @@
         102051775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231290840"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"093914f6c9f4b98eeec8e43ed5a81a41",
+    "wof:geomhash":"af523dd75567ae9ff8cb5280d92e1e3f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404553911,
-    "wof:lastmodified":1577837864,
+    "wof:lastmodified":1695878717,
     "wof:name":"Jord\u00e3o",
     "wof:parent_id":102051775,
     "wof:placetype":"localadmin",

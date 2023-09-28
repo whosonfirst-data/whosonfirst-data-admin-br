@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102177,
-    "geom:area_square_m":1233756713.488938,
+    "geom:area_square_m":1233756713.488931,
     "geom:bbox":"-44.3208254455,-12.7064276843,-43.952415861,-12.2382712554",
     "geom:latitude":-12.442978,
     "geom:longitude":-44.16424,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.381371,
     "lbl:longitude":-44.186104,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mariquita"
@@ -49,9 +58,12 @@
         102051321
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"293090710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"033be46f6fcb12ce4878b880b3822785",
+    "wof:geomhash":"48bf289719b27863dd3f7ee126403bd0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":404552069,
-    "wof:lastmodified":1577837645,
+    "wof:lastmodified":1695878663,
     "wof:name":"Mariquita",
     "wof:parent_id":102051321,
     "wof:placetype":"localadmin",

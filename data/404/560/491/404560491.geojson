@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031256,
-    "geom:area_square_m":381838497.060488,
+    "geom:area_square_m":381838497.060553,
     "geom:bbox":"-37.703501,-9.018343,-37.411687,-8.781499",
     "geom:latitude":-8.897654,
     "geom:longitude":-37.553875,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.886494,
     "lbl:longitude":-37.541769,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Manari"
@@ -36,19 +45,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681973,
         102191577,
         85633009,
-        102056723,
         1511777415,
-        85681973
+        102056723
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260915405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102056723
     ],
     "wof:country":"BR",
-    "wof:geomhash":"90e8af2efc63926deb7e360866a0f7ad",
+    "wof:geomhash":"f4555d5b13816bf649ba1ff0a0dc2447",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":404560491,
-    "wof:lastmodified":1608029788,
+    "wof:lastmodified":1695878771,
     "wof:name":"Manari",
     "wof:parent_id":102056723,
     "wof:placetype":"localadmin",

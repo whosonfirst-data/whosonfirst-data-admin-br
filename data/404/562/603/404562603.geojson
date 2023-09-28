@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035635,
-    "geom:area_square_m":406688552.048527,
+    "geom:area_square_m":406688552.048447,
     "geom:bbox":"-42.5599115801,-22.736429401,-42.2773410094,-22.5367579953",
     "geom:latitude":-22.638026,
     "geom:longitude":-42.415028,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.63557,
     "lbl:longitude":-42.415029,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09bf\u09b2\u09ad\u09be \u099c\u09be\u09b0\u09cd\u09a1\u09bf\u09ae"
@@ -88,9 +97,12 @@
         102058489
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330560405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0f67cb4abee0e1adec5218a529a31703",
+    "wof:geomhash":"2ba5c999a8d86675650c9029630a728c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404562603,
-    "wof:lastmodified":1577833072,
+    "wof:lastmodified":1695878505,
     "wof:name":"Silva Jardim",
     "wof:parent_id":102058489,
     "wof:placetype":"localadmin",

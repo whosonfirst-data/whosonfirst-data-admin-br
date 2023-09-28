@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109302,
-    "geom:area_square_m":1229194073.716071,
+    "geom:area_square_m":1229194073.716285,
     "geom:bbox":"-50.5535126979,-24.78164585,-50.0860026557,-24.3622399456",
     "geom:latitude":-24.567199,
     "geom:longitude":-50.321623,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.552045,
     "lbl:longitude":-50.325215,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09bf\u09ac\u09be\u0997\u09bf"
@@ -103,9 +112,12 @@
         102058253
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412750205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b0bf0d9c915d49293978a5d7058d78f6",
+    "wof:geomhash":"64741d719e66b5314f654fbebf0376ee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404561993,
-    "wof:lastmodified":1577827991,
+    "wof:lastmodified":1695878312,
     "wof:name":"Tibagi",
     "wof:parent_id":102058253,
     "wof:placetype":"localadmin",

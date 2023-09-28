@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002565,
-    "geom:area_square_m":27895219.67116,
+    "geom:area_square_m":27895219.671169,
     "geom:bbox":"-49.2868132256,-28.4334385223,-49.1910851095,-28.3646687743",
     "geom:latitude":-28.401243,
     "geom:longitude":-49.233963,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.397614,
     "lbl:longitude":-49.230695,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060579
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421170210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"fabab7a4d03cc7cc44be8545973a0cab",
+    "wof:geomhash":"e5193c9032a66113c60174d9a9a6a206",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565659,
-    "wof:lastmodified":1577827954,
+    "wof:lastmodified":1695878296,
     "wof:name":"Pindotiba",
     "wof:parent_id":102060579,
     "wof:placetype":"localadmin",

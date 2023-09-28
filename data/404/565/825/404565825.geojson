@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016102,
-    "geom:area_square_m":177973072.499724,
+    "geom:area_square_m":177973072.499685,
     "geom:bbox":"-50.1322778716,-26.693111214,-49.8755160376,-26.5847082588",
     "geom:latitude":-26.634814,
     "geom:longitude":-49.985706,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.639617,
     "lbl:longitude":-49.983746,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060707
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421567925"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2cc92b1e1fd52289d0ec6a2f1e2ea9ce",
+    "wof:geomhash":"4e4bbd061fd7394ef069a7ad06cf3c83",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565825,
-    "wof:lastmodified":1577827989,
+    "wof:lastmodified":1695878312,
     "wof:name":"Rio Da Anta",
     "wof:parent_id":102060707,
     "wof:placetype":"localadmin",

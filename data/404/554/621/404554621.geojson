@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048783,
-    "geom:area_square_m":571292489.755383,
+    "geom:area_square_m":571292489.7554,
     "geom:bbox":"-40.3398313015,-18.8845621676,-40.0819630618,-18.5669628339",
     "geom:latitude":-18.72413,
     "geom:longitude":-40.20928,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.714059,
     "lbl:longitude":-40.193983,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320490630"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8a8e0cf6d2c1b528d69d18ae6f0defc0",
+    "wof:geomhash":"86c4f74fb79260bf4d56b68bc07fc9aa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554621,
-    "wof:lastmodified":1577833040,
+    "wof:lastmodified":1695878495,
     "wof:name":"Nestor Gomes",
     "wof:parent_id":102051969,
     "wof:placetype":"localadmin",

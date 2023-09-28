@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017614,
-    "geom:area_square_m":216433538.768149,
+    "geom:area_square_m":216433538.768138,
     "geom:bbox":"-43.1338234819,-6.50510564224,-42.857725997,-6.37889012094",
     "geom:latitude":-6.434151,
     "geom:longitude":-42.963263,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.441511,
     "lbl:longitude":-42.926698,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"211090610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0012eef48990a3119ff509dc51507bc8",
+    "wof:geomhash":"a10cfdaa545af83f3abff2314f80d272",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555075,
-    "wof:lastmodified":1577837897,
+    "wof:lastmodified":1695878725,
     "wof:name":"Cara\u00edba Do Norte",
     "wof:parent_id":102053161,
     "wof:placetype":"localadmin",

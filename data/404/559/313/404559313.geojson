@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.207368,
-    "geom:area_square_m":2476861102.191963,
+    "geom:area_square_m":2476861102.192024,
     "geom:bbox":"-53.2695091179,-15.2858281903,-52.6409442699,-14.7249379559",
     "geom:latitude":-14.991612,
     "geom:longitude":-52.972845,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.004162,
     "lbl:longitude":-52.972999,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09cb \u09b8\u09be\u0993 \u099c\u09cb\u09af\u09bc\u09be\u0995\u09c1\u0987\u09ae"
@@ -91,9 +100,12 @@
         102055533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510628105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"896e4c279e5893860c4d18d7f1a2285b",
+    "wof:geomhash":"1f106bbd3a9144587cae36669349c931",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404559313,
-    "wof:lastmodified":1577836107,
+    "wof:lastmodified":1695878634,
     "wof:name":"Novo S\u00e3o Joaquim",
     "wof:parent_id":102055533,
     "wof:placetype":"localadmin",

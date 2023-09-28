@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001167,
-    "geom:area_square_m":13234924.59779,
+    "geom:area_square_m":13234924.597783,
     "geom:bbox":"-46.655395,-23.488678,-46.618595,-23.427295",
     "geom:latitude":-23.459448,
     "geom:longitude":-46.640755,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.464278,
     "lbl:longitude":-46.639503,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Mandaqui"
@@ -40,9 +49,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030851"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ff0b070ec404aeb92b758f1194c8dbca",
+    "wof:geomhash":"215b118fcbe45eb07934b8a45703d04d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404567373,
-    "wof:lastmodified":1577832910,
+    "wof:lastmodified":1695878453,
     "wof:name":"Mandaqui",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

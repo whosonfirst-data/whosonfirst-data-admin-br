@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004171,
-    "geom:area_square_m":51474991.717483,
+    "geom:area_square_m":51474991.717491,
     "geom:bbox":"-40.4894902403,-3.59870816871,-40.4126066863,-3.49520292403",
     "geom:latitude":-3.548193,
     "geom:longitude":-40.453734,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.548397,
     "lbl:longitude":-40.453737,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09c7\u09b0\u09c1\u0993\u0995\u09be"
@@ -85,9 +94,12 @@
         102051647
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230820305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dcd9004b53c78c93e8c630065a3686a0",
+    "wof:geomhash":"d8bbc29f66b648130e2d254678b0eca0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404553355,
-    "wof:lastmodified":1577837845,
+    "wof:lastmodified":1695878712,
     "wof:name":"Meruoca",
     "wof:parent_id":102051647,
     "wof:placetype":"localadmin",

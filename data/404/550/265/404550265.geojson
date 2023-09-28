@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000153,
-    "geom:area_square_m":1894160.222402,
+    "geom:area_square_m":1894160.222398,
     "geom:bbox":"-60.241951,-3.094316,-60.224752,-3.080641",
     "geom:latitude":-3.087203,
     "geom:longitude":-60.234429,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.088005,
     "lbl:longitude":-60.234592,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681885,
         102191577,
         85633009,
-        102050349,
         1511777407,
-        85681885
+        102050349
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"130185225"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101941903
     ],
     "wof:country":"BR",
-    "wof:geomhash":"8db8dabb4d71483aeea4b5a9e6708c9e",
+    "wof:geomhash":"e9ad5e8fe8317d398f445666f6410fea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404550265,
-    "wof:lastmodified":1608018063,
+    "wof:lastmodified":1695878751,
     "wof:name":"Paricatuba",
     "wof:parent_id":102050349,
     "wof:placetype":"localadmin",

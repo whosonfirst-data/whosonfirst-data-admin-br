@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026758,
-    "geom:area_square_m":313884046.275075,
+    "geom:area_square_m":313884046.275078,
     "geom:bbox":"-47.76949,-18.534382,-47.452852,-18.352394",
     "geom:latitude":-18.437367,
     "geom:longitude":-47.604393,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.454611,
     "lbl:longitude":-47.540878,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u0989\u09b0\u09be\u09a1\u09cb\u0995\u09c1\u09f1\u09be\u09b0\u09be"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053839,
         1511777411,
-        85681941
+        102053839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312350205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053839
     ],
     "wof:country":"BR",
-    "wof:geomhash":"9169af374c529497d03ea97528534d86",
+    "wof:geomhash":"2d417a74ad4835f41ae5ac21d2c9eacd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404556267,
-    "wof:lastmodified":1608029402,
+    "wof:lastmodified":1695878761,
     "wof:name":"Douradoquara",
     "wof:parent_id":102053839,
     "wof:placetype":"localadmin",

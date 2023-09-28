@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053157,
-    "geom:area_square_m":656347725.429935,
+    "geom:area_square_m":656347725.429832,
     "geom:bbox":"-40.5057149127,-3.20428170097,-40.0828099397,-2.99021238521",
     "geom:latitude":-3.075833,
     "geom:longitude":-40.303226,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.07908,
     "lbl:longitude":-40.317432,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b2\u09be \u0995\u09cd\u09b0\u09c1\u099c"
@@ -85,9 +94,12 @@
         102051465
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230230505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dd67de6d183fa87c802ad8adf572e2b4",
+    "wof:geomhash":"630b5c1471f7e8965bd1f10cb448ab49",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404552521,
-    "wof:lastmodified":1577837848,
+    "wof:lastmodified":1695878713,
     "wof:name":"Bela Cruz",
     "wof:parent_id":102051465,
     "wof:placetype":"localadmin",

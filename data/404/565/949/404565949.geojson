@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014477,
-    "geom:area_square_m":157319708.719614,
+    "geom:area_square_m":157319708.719601,
     "geom:bbox":"-49.569674,-28.583456,-49.421484,-28.435587",
     "geom:latitude":-28.498565,
     "geom:longitude":-49.490287,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.496362,
     "lbl:longitude":-49.490281,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Treviso"
@@ -228,19 +237,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060797,
         1511777409,
-        85682021
+        102060797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421835005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060797
     ],
     "wof:country":"BR",
-    "wof:geomhash":"99e32b23a8480bd2dbcd8b262b375779",
+    "wof:geomhash":"cadddaf33735826664c294128833c6c6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -252,7 +264,7 @@
         }
     ],
     "wof:id":404565949,
-    "wof:lastmodified":1608034322,
+    "wof:lastmodified":1695878821,
     "wof:name":"Treviso",
     "wof:parent_id":102060797,
     "wof:placetype":"localadmin",

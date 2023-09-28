@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002966,
-    "geom:area_square_m":35231980.738021,
+    "geom:area_square_m":35231980.738027,
     "geom:bbox":"-47.974967,-16.185286,-47.904554,-16.104866",
     "geom:latitude":-16.150258,
     "geom:longitude":-47.943015,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.152982,
     "lbl:longitude":-47.94355,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102052357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"521250106"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101962679
     ],
     "wof:country":"BR",
-    "wof:geomhash":"4e2db5541e47700f89abda3a1e4a6f53",
+    "wof:geomhash":"9a2748744cb3054984d1b355b2d62665",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404554849,
-    "wof:lastmodified":1617131301,
+    "wof:lastmodified":1695878845,
     "wof:name":"Jardim Ing\u00e1",
     "wof:parent_id":102052357,
     "wof:placetype":"localadmin",

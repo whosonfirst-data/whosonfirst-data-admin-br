@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015163,
-    "geom:area_square_m":165003114.110797,
+    "geom:area_square_m":165003114.110737,
     "geom:bbox":"-49.106318,-28.421863,-48.933741,-28.273579",
     "geom:latitude":-28.353428,
     "geom:longitude":-49.020123,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.350562,
     "lbl:longitude":-49.011491,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09cd\u09b0\u09be\u09ad\u09be\u099f\u09be\u09b2"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060409,
         1511777409,
-        85682021
+        102060409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420620705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060409
     ],
     "wof:country":"BR",
-    "wof:geomhash":"dd3bd7fb26c94fb1b8ce99b454f25579",
+    "wof:geomhash":"0b84e082aa28f78e9bb9aef8d34131a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404565445,
-    "wof:lastmodified":1608034428,
+    "wof:lastmodified":1695878823,
     "wof:name":"Gravatal",
     "wof:parent_id":102060409,
     "wof:placetype":"localadmin",

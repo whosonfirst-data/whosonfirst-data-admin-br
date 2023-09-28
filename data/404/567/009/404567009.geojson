@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04962,
-    "geom:area_square_m":568800366.244864,
+    "geom:area_square_m":568800705.285311,
     "geom:bbox":"-47.626466,-22.104188,-47.197489,-21.913595",
     "geom:latitude":-22.01994,
     "geom:longitude":-47.402391,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.029024,
     "lbl:longitude":-47.3639,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0627\u0633\u0646\u0646\u0648\u0646\u062c\u0627"
@@ -127,9 +136,12 @@
         102061979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"353930105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"76c191732190e436ef18f5b0c6844f28",
+    "wof:geomhash":"e8de78cdf5841036444bb6da17c52680",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +153,7 @@
         }
     ],
     "wof:id":404567009,
-    "wof:lastmodified":1636496416,
+    "wof:lastmodified":1695878856,
     "wof:name":"Pirassununga",
     "wof:parent_id":102061979,
     "wof:placetype":"localadmin",

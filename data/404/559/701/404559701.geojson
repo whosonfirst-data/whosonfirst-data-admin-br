@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.266362,
-    "geom:area_square_m":3282740681.612072,
+    "geom:area_square_m":3282740681.612273,
     "geom:bbox":"-50.9476514846,-4.97686000726,-49.767492949,-4.36012992076",
     "geom:latitude":-4.656152,
     "geom:longitude":-50.280921,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.701797,
     "lbl:longitude":-50.240778,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055841
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150506410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d496bab0546da6f417d85047b7d8497e",
+    "wof:geomhash":"8889bbc9327ab5721df277e3ef03b798",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559701,
-    "wof:lastmodified":1577825668,
+    "wof:lastmodified":1695878154,
     "wof:name":"Belo Monte Do Par\u00e1",
     "wof:parent_id":102055841,
     "wof:placetype":"localadmin",

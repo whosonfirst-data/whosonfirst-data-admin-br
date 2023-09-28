@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015822,
-    "geom:area_square_m":183435905.28221,
+    "geom:area_square_m":183435905.282244,
     "geom:bbox":"-42.045688,-20.410522,-41.822111,-20.288127",
     "geom:latitude":-20.347321,
     "geom:longitude":-41.939402,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.343536,
     "lbl:longitude":-41.947002,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09a8\u09b9\u09c1\u09ae\u09bf\u09b0\u09bf\u09ae"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054275,
         1511777411,
-        85681941
+        102054275
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313950805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054275
     ],
     "wof:country":"BR",
-    "wof:geomhash":"622a23d5789ebfad9c44cffdc12a4f19",
+    "wof:geomhash":"7ccd2d53f2e0ad325ccc10e04fb45b06",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404557117,
-    "wof:lastmodified":1608031877,
+    "wof:lastmodified":1695878797,
     "wof:name":"Manhumirim",
     "wof:parent_id":102054275,
     "wof:placetype":"localadmin",

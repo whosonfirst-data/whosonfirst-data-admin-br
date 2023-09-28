@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018969,
-    "geom:area_square_m":232659052.990292,
+    "geom:area_square_m":232659052.990312,
     "geom:bbox":"-36.128612658,-7.38685477571,-35.9479328876,-7.19575781936",
     "geom:latitude":-7.30022,
     "geom:longitude":-36.049455,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.313304,
     "lbl:longitude":-36.058395,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056099
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250400915"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1f48e7bb6c5f7c58b0a110e06b16d219",
+    "wof:geomhash":"fe5ae4f4d8250e639fbc096b4ac27c58",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559895,
-    "wof:lastmodified":1577837822,
+    "wof:lastmodified":1695878707,
     "wof:name":"Catol\u00e9",
     "wof:parent_id":102056099,
     "wof:placetype":"localadmin",

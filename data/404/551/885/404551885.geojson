@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025047,
-    "geom:area_square_m":299302604.126934,
+    "geom:area_square_m":299302604.126614,
     "geom:bbox":"-39.885000244,-15.0165437595,-39.68368482,-14.7413659535",
     "geom:latitude":-14.894397,
     "geom:longitude":-39.80995,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.920139,
     "lbl:longitude":-39.825237,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051227
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292780405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d722891922d778309a6c163b66d7be94",
+    "wof:geomhash":"5ec641ff9c1b6858484c4331eebb8b7b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551885,
-    "wof:lastmodified":1577837820,
+    "wof:lastmodified":1695878706,
     "wof:name":"Santa Cruz Da Vit\u00f3ria",
     "wof:parent_id":102051227,
     "wof:placetype":"localadmin",

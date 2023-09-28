@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020473,
-    "geom:area_square_m":247002629.425648,
+    "geom:area_square_m":247002629.425747,
     "geom:bbox":"-39.4013636314,-12.7441348404,-39.226491495,-12.5470615864",
     "geom:latitude":-12.649548,
     "geom:longitude":-39.32404,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.640446,
     "lbl:longitude":-39.332772,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290730125"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a6a3503f9a32b05066b187a6d12251fd",
+    "wof:geomhash":"c662e42dce6ab41989cb9a71f65f2e5c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550773,
-    "wof:lastmodified":1577837843,
+    "wof:lastmodified":1695878711,
     "wof:name":"Petim",
     "wof:parent_id":102050665,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006084,
-    "geom:area_square_m":67217107.380436,
+    "geom:area_square_m":67217107.380483,
     "geom:bbox":"-53.13709,-26.739975,-53.057842,-26.626708",
     "geom:latitude":-26.683378,
     "geom:longitude":-53.0952,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.699872,
     "lbl:longitude":-53.09447,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060281,
         1511777409,
-        85682021
+        102060281
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420257805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060281
     ],
     "wof:country":"BR",
-    "wof:geomhash":"bdffe99b898c7ee935d1a58456a06a51",
+    "wof:geomhash":"1520357c90ebf4487ef2668cf660d86a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404565227,
-    "wof:lastmodified":1608034191,
+    "wof:lastmodified":1695878819,
     "wof:name":"Bom Jesus Do Oeste",
     "wof:parent_id":102060281,
     "wof:placetype":"localadmin",

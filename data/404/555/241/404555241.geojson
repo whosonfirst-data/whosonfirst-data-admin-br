@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015775,
-    "geom:area_square_m":185825210.819665,
+    "geom:area_square_m":185825210.819852,
     "geom:bbox":"-42.375932,-17.790045,-42.21226,-17.594711",
     "geom:latitude":-17.703241,
     "geom:longitude":-42.282835,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.685758,
     "lbl:longitude":-42.282841,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u0997\u09c7\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
@@ -93,19 +102,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053435,
         1511777411,
-        85681941
+        102053435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310285205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053435
     ],
     "wof:country":"BR",
-    "wof:geomhash":"4c8072994b0e2fa597d4c08f0dd982f4",
+    "wof:geomhash":"9ee8e9aea9f3575eccf4420fa4509252",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404555241,
-    "wof:lastmodified":1608032643,
+    "wof:lastmodified":1695878812,
     "wof:name":"Angel\u00e2ndia",
     "wof:parent_id":102053435,
     "wof:placetype":"localadmin",

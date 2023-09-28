@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053685,
-    "geom:area_square_m":604278622.956852,
+    "geom:area_square_m":604278622.956822,
     "geom:bbox":"-48.984475813,-24.5860993501,-48.489941583,-24.3298937668",
     "geom:latitude":-24.454619,
     "geom:longitude":-48.742587,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.45961,
     "lbl:longitude":-48.742681,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09aa\u09bf\u0986\u0987"
@@ -91,9 +100,12 @@
         102061055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350270505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"63dbfbd7a329d1d18594b2be5ff5638a",
+    "wof:geomhash":"170a2b185730a0cb36a3124f02daaad4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404566107,
-    "wof:lastmodified":1577833344,
+    "wof:lastmodified":1695878587,
     "wof:name":"Apia\u00ed",
     "wof:parent_id":102061055,
     "wof:placetype":"localadmin",

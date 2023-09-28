@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011292,
-    "geom:area_square_m":131492987.350488,
+    "geom:area_square_m":131492987.35055,
     "geom:bbox":"-42.80828,-19.7129499964,-42.62393,-19.5820849964",
     "geom:latitude":-19.648033,
     "geom:longitude":-42.722703,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.63847,
     "lbl:longitude":-42.752019,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u0997\u09c1\u09f1\u09be\u09b0\u09be\u0995\u09c1"
@@ -103,9 +112,12 @@
         102054137
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313500105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4109c6a3288cc7628c08d8b9252dcc92",
+    "wof:geomhash":"2056a2941cb749d625c10156ebe81435",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404556823,
-    "wof:lastmodified":1577833200,
+    "wof:lastmodified":1695878542,
     "wof:name":"Jaguara\u00e7u",
     "wof:parent_id":102054137,
     "wof:placetype":"localadmin",

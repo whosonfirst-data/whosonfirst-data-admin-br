@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006077,
-    "geom:area_square_m":68821959.890713,
+    "geom:area_square_m":68821959.890676,
     "geom:bbox":"-47.3687753108,-23.748389,-47.277604,-23.6112874111",
     "geom:latitude":-23.67976,
     "geom:longitude":-47.322355,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.682295,
     "lbl:longitude":-47.325459,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351970910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d988a8470361d3ed211606abe6923a52",
+    "wof:geomhash":"69ffa40017a3f19e341b12e4c326fd56",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566503,
-    "wof:lastmodified":1577833291,
+    "wof:lastmodified":1695878573,
     "wof:name":"Paruru",
     "wof:parent_id":102061497,
     "wof:placetype":"localadmin",

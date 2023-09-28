@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013223,
-    "geom:area_square_m":153362081.803185,
+    "geom:area_square_m":153362081.80327,
     "geom:bbox":"-45.975961,-20.352406,-45.799946,-20.21708",
     "geom:latitude":-20.291679,
     "geom:longitude":-45.88705,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.283182,
     "lbl:longitude":-45.885723,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u09b0\u09c7\u09b8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -93,19 +102,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053837,
         1511777411,
-        85681941
+        102053837
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312340305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053837
     ],
     "wof:country":"BR",
-    "wof:geomhash":"6d38a3840f52be8e074027ce9917a50b",
+    "wof:geomhash":"faee19731c4be3735c4d4c148ec1728e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404556265,
-    "wof:lastmodified":1608029594,
+    "wof:lastmodified":1695878768,
     "wof:name":"Dores\u00f3polis",
     "wof:parent_id":102053837,
     "wof:placetype":"localadmin",

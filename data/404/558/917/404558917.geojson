@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007186,
-    "geom:area_square_m":82357393.980165,
+    "geom:area_square_m":82357393.980163,
     "geom:bbox":"-54.6829360373,-22.1016923821,-54.5589204931,-21.9963241075",
     "geom:latitude":-22.050619,
     "geom:longitude":-54.629358,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.044695,
     "lbl:longitude":-54.629325,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Douradina"
@@ -64,9 +73,12 @@
         102055237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500350405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4acd5f7633725b5ccf4ae05d63b36037",
+    "wof:geomhash":"18171f01335eb149aefe1ec4eff0e85c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":404558917,
-    "wof:lastmodified":1577836182,
+    "wof:lastmodified":1695878652,
     "wof:name":"Douradina",
     "wof:parent_id":102055237,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002151,
-    "geom:area_square_m":26388801.046443,
+    "geom:area_square_m":26388801.046458,
     "geom:bbox":"-38.9474536719,-7.2313372576,-38.8939919165,-7.14390931275",
     "geom:latitude":-7.188601,
     "geom:longitude":-38.918711,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.186878,
     "lbl:longitude":-38.919114,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c7\u099c\u09bf\u09a8\u09b9\u09cb"
@@ -76,9 +85,12 @@
         102051455
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230200808"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f2c5911e0a3b627b4a627de8353136fe",
+    "wof:geomhash":"05101c5e01ef04b1441d4d50987162c4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404552477,
-    "wof:lastmodified":1577837875,
+    "wof:lastmodified":1695878719,
     "wof:name":"Brejinho",
     "wof:parent_id":102051455,
     "wof:placetype":"localadmin",

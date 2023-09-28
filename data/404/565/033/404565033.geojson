@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01817,
-    "geom:area_square_m":197127903.052589,
+    "geom:area_square_m":197127903.052652,
     "geom:bbox":"-51.0206530763,-28.7908796639,-50.8700041895,-28.5621779527",
     "geom:latitude":-28.669135,
     "geom:longitude":-50.947678,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.686271,
     "lbl:longitude":-50.955172,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Refugiado"
@@ -37,9 +46,12 @@
         102060103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432250940"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"70fce38735f3a17f30c067dd7406b7cf",
+    "wof:geomhash":"e28e7d711bab3001c7541d42f447088c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404565033,
-    "wof:lastmodified":1577827890,
+    "wof:lastmodified":1695878266,
     "wof:name":"Refugiado",
     "wof:parent_id":102060103,
     "wof:placetype":"localadmin",

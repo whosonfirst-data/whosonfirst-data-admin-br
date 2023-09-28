@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023375,
-    "geom:area_square_m":285039924.812165,
+    "geom:area_square_m":285039924.812167,
     "geom:bbox":"-36.2281880999,-9.61877759428,-36.0007631714,-9.45275284291",
     "geom:latitude":-9.536244,
     "geom:longitude":-36.134491,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.532778,
     "lbl:longitude":-36.13453,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sapucaia"
@@ -76,9 +85,12 @@
         102050065
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"270040910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3a6d7528cc100cc28bc7405b73236bd7",
+    "wof:geomhash":"6193ea5864c93f93c5736bef56e6bbc5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404550165,
-    "wof:lastmodified":1577837881,
+    "wof:lastmodified":1695878720,
     "wof:name":"Sapucaia",
     "wof:parent_id":102050065,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02158,
-    "geom:area_square_m":251086437.655432,
+    "geom:area_square_m":251086437.655409,
     "geom:bbox":"-44.9913,-19.892705997,-44.773123,-19.688695997",
     "geom:latitude":-19.785658,
     "geom:longitude":-44.871734,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.803028,
     "lbl:longitude":-44.84282,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053683
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311760305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7908a0f565f72262452064fcbf036c4c",
+    "wof:geomhash":"44e795992ee891d29f2b9ce04a357438",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555963,
-    "wof:lastmodified":1577833442,
+    "wof:lastmodified":1695878622,
     "wof:name":"Concei\u00e7\u00e3o Do Par\u00e1",
     "wof:parent_id":102053683,
     "wof:placetype":"localadmin",

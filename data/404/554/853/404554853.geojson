@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080095,
-    "geom:area_square_m":955078628.121806,
+    "geom:area_square_m":955078628.122048,
     "geom:bbox":"-51.0701150615,-15.5378317803,-50.6319384281,-15.0222883996",
     "geom:latitude":-15.346902,
     "geom:longitude":-50.81151,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.364993,
     "lbl:longitude":-50.814896,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u062a\u0631\u064a\u0646\u0634\u0627"
@@ -100,9 +109,12 @@
         102052381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"521295605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a08ca2fd7e3f3b4862dae90ce8ff2fb7",
+    "wof:geomhash":"4bdceb15866dcc529090802a2b2e6c8c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404554853,
-    "wof:lastmodified":1577836181,
+    "wof:lastmodified":1695878651,
     "wof:name":"Matrinch\u00e3",
     "wof:parent_id":102052381,
     "wof:placetype":"localadmin",

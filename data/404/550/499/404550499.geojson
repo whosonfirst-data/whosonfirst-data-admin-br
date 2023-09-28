@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0188,
-    "geom:area_square_m":228481392.816294,
+    "geom:area_square_m":228481392.816261,
     "geom:bbox":"-38.735828,-10.718401,-38.546531,-10.52738",
     "geom:latitude":-10.618568,
     "geom:longitude":-38.626096,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.620523,
     "lbl:longitude":-38.625948,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09a8\u099c\u09be\u09af\u09bc\u09c7"
@@ -100,12 +109,15 @@
         102050535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290265805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050535
     ],
     "wof:country":"BR",
-    "wof:geomhash":"c29a48342f3d1ccef45f1c04430d4a6b",
+    "wof:geomhash":"c9215c1792b7f01608867ffae7731791",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404550499,
-    "wof:lastmodified":1617131162,
+    "wof:lastmodified":1695878840,
     "wof:name":"Banza\u00ea",
     "wof:parent_id":102050535,
     "wof:placetype":"localadmin",

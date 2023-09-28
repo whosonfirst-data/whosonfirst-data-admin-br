@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071235,
-    "geom:area_square_m":843599702.616217,
+    "geom:area_square_m":843599702.616206,
     "geom:bbox":"-43.00424,-16.874065,-42.600507,-16.543136",
     "geom:latitude":-16.718635,
     "geom:longitude":-42.821016,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.715415,
     "lbl:longitude":-42.820962,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09b0\u09bf\u09b8\u099f\u09be\u09b2\u09bf\u09af\u09bc\u09be"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053753,
         1511777411,
-        85681941
+        102053753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312030005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053753
     ],
     "wof:country":"BR",
-    "wof:geomhash":"0db538f4b7ada81b39baea92778e275e",
+    "wof:geomhash":"5e971da0ddf9da242d986b0fac827920",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404556115,
-    "wof:lastmodified":1608029625,
+    "wof:lastmodified":1695878769,
     "wof:name":"Crist\u00e1lia",
     "wof:parent_id":102053753,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007692,
-    "geom:area_square_m":88758582.776012,
+    "geom:area_square_m":88758582.776007,
     "geom:bbox":"-47.9924213606,-21.1113110747,-47.870679,-20.9920014143",
     "geom:latitude":-21.057976,
     "geom:longitude":-47.931956,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.069754,
     "lbl:longitude":-47.932915,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102062287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355170210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f478a5029b963c9744772f468d38ad41",
+    "wof:geomhash":"f519290b0bb970e691f6f9e46252c47b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404567513,
-    "wof:lastmodified":1577832623,
+    "wof:lastmodified":1695878349,
     "wof:name":"Cruz Das Posses",
     "wof:parent_id":102062287,
     "wof:placetype":"localadmin",

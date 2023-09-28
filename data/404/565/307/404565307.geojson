@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004914,
-    "geom:area_square_m":53418105.80667,
+    "geom:area_square_m":53418105.806667,
     "geom:bbox":"-48.985999,-28.524503,-48.896001,-28.383238",
     "geom:latitude":-28.455423,
     "geom:longitude":-48.943529,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.460714,
     "lbl:longitude":-48.944214,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060323,
         1511777409,
-        85682021
+        102060323
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420395605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060323
     ],
     "wof:country":"BR",
-    "wof:geomhash":"fc366c731ef5342f8aa5edc10eaac0d8",
+    "wof:geomhash":"cd9b7b4f3e0085d8f3d0aa92bd8eb37c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404565307,
-    "wof:lastmodified":1608034134,
+    "wof:lastmodified":1695878818,
     "wof:name":"Capivari De Baixo",
     "wof:parent_id":102060323,
     "wof:placetype":"localadmin",

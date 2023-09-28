@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014924,
-    "geom:area_square_m":174437337.640803,
+    "geom:area_square_m":174437337.64085,
     "geom:bbox":"-46.217436,-19.109413,-46.036211,-18.94151",
     "geom:latitude":-19.041452,
     "geom:longitude":-46.11529,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.049148,
     "lbl:longitude":-46.113896,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Arapu\u00e1"
@@ -97,12 +106,15 @@
         102053461
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310380105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053461
     ],
     "wof:country":"BR",
-    "wof:geomhash":"c059941e3989f8cf4eba70e67783467e",
+    "wof:geomhash":"4786b4210a32fd7f2cc22deaf9a9c0bc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404555289,
-    "wof:lastmodified":1617131504,
+    "wof:lastmodified":1695878852,
     "wof:name":"Arapu\u00e1",
     "wof:parent_id":102053461,
     "wof:placetype":"localadmin",

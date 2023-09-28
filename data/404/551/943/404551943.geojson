@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079252,
-    "geom:area_square_m":952954964.624433,
+    "geom:area_square_m":952954964.624416,
     "geom:bbox":"-44.224876698,-13.7299267203,-43.855928898,-13.2620544424",
     "geom:latitude":-13.483197,
     "geom:longitude":-44.045006,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.479067,
     "lbl:longitude":-44.06322,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051259
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292905705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e6fb71ebba61ae19c6c89282ff3a5f5f",
+    "wof:geomhash":"30843001242c7309905cd4bab815f5ea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551943,
-    "wof:lastmodified":1577837987,
+    "wof:lastmodified":1695878748,
     "wof:name":"S\u00e3o F\u00e9lix Do Coribe",
     "wof:parent_id":102051259,
     "wof:placetype":"localadmin",

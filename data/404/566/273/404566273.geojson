@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017948,
-    "geom:area_square_m":200822429.917183,
+    "geom:area_square_m":200822429.9172,
     "geom:bbox":"-48.1936396732,-25.3123209493,-47.9088561597,-25.1289646607",
     "geom:latitude":-25.193081,
     "geom:longitude":-48.0744,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.189373,
     "lbl:longitude":-48.118475,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350990810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5f89169abb66af036857cd183857ba01",
+    "wof:geomhash":"c6ba59330a54511049a92f94ab17059a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566273,
-    "wof:lastmodified":1577833272,
+    "wof:lastmodified":1695878566,
     "wof:name":"Ariri",
     "wof:parent_id":102061243,
     "wof:placetype":"localadmin",

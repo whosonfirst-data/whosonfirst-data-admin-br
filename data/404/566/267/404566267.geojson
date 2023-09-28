@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000854,
-    "geom:area_square_m":9697743.921384,
+    "geom:area_square_m":9697743.916307,
     "geom:bbox":"-46.785113,-23.260215,-46.740621,-23.225419",
     "geom:latitude":-23.243848,
     "geom:longitude":-46.764728,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.244714,
     "lbl:longitude":-46.766245,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102061237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350960108"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101956123
     ],
     "wof:country":"BR",
-    "wof:geomhash":"fe39bba73d98fb8bb8469030f11d5ae0",
+    "wof:geomhash":"52b22723ed6918cdb4d03cf75d0c1855",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404566267,
-    "wof:lastmodified":1617131189,
+    "wof:lastmodified":1695878842,
     "wof:name":"Botujuru",
     "wof:parent_id":102061237,
     "wof:placetype":"localadmin",

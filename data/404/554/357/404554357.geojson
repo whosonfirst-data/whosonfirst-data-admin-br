@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017281,
-    "geom:area_square_m":199721538.518166,
+    "geom:area_square_m":199721538.51828,
     "geom:bbox":"-41.7675084197,-20.9433432897,-41.6145051355,-20.7287419749",
     "geom:latitude":-20.822545,
     "geom:longitude":-41.684884,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.831238,
     "lbl:longitude":-41.684873,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u0995\u09c1\u0987"
@@ -94,9 +103,12 @@
         102051879
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320230605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"77d1f42d7ce71af3db243b329c018ba9",
+    "wof:geomhash":"020272e0376675d019fadbbd16443498",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404554357,
-    "wof:lastmodified":1577833311,
+    "wof:lastmodified":1695878579,
     "wof:name":"Gua\u00e7u\u00ed",
     "wof:parent_id":102051879,
     "wof:placetype":"localadmin",

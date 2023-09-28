@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037128,
-    "geom:area_square_m":409320560.220013,
+    "geom:area_square_m":409320560.220053,
     "geom:bbox":"-49.20071,-27.1325423401,-49.0096489482,-26.7374376122",
     "geom:latitude":-26.926082,
     "geom:longitude":-49.101463,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.879215,
     "lbl:longitude":-49.100785,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Blumenau"
@@ -166,9 +175,12 @@
         102060269
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420240405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b2e9956431760d86d1a244216bb2b602",
+    "wof:geomhash":"d8e34df1d6ca060d0f0da1a65d24b444",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -180,7 +192,7 @@
         }
     ],
     "wof:id":404565221,
-    "wof:lastmodified":1577827748,
+    "wof:lastmodified":1695878199,
     "wof:name":"Blumenau",
     "wof:parent_id":102060269,
     "wof:placetype":"localadmin",

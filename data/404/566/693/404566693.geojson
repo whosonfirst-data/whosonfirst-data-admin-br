@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009805,
-    "geom:area_square_m":112062473.035053,
+    "geom:area_square_m":112062473.035037,
     "geom:bbox":"-49.8853850942,-22.5268496247,-49.7832225125,-22.3550347775",
     "geom:latitude":-22.44334,
     "geom:longitude":-49.832521,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.443638,
     "lbl:longitude":-49.829028,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09c1\u09aa\u09c7\u09b0\u09cd\u09b8\u09bf\u0993"
@@ -91,9 +100,12 @@
         102061695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352780105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"79280bfdb074783f64986330e24fd9e2",
+    "wof:geomhash":"71947a06fa51d683041096576c19737a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404566693,
-    "wof:lastmodified":1577833151,
+    "wof:lastmodified":1695878528,
     "wof:name":"Lup\u00e9rcio",
     "wof:parent_id":102061695,
     "wof:placetype":"localadmin",

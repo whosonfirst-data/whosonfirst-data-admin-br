@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020319,
-    "geom:area_square_m":226182731.736868,
+    "geom:area_square_m":226182731.736971,
     "geom:bbox":"-49.3773484204,-25.9277499992,-49.205238209,-25.6734914897",
     "geom:latitude":-25.808732,
     "geom:longitude":-49.293612,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.789437,
     "lbl:longitude":-49.299451,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09a8\u09a1\u09bf\u09b0\u09bf\u099f\u09c1\u09ac\u09be"
@@ -91,9 +100,12 @@
         102057853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411430205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ccb7c34d0774c4a1c31020935b6d74cb",
+    "wof:geomhash":"56197d0f4c31470ed0f388a3cdacb669",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404561407,
-    "wof:lastmodified":1577827769,
+    "wof:lastmodified":1695878209,
     "wof:name":"Mandirituba",
     "wof:parent_id":102057853,
     "wof:placetype":"localadmin",

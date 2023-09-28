@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010479,
-    "geom:area_square_m":128093983.78618,
+    "geom:area_square_m":128093983.786173,
     "geom:bbox":"-36.0743406523,-8.78095512459,-35.9479822067,-8.61667526763",
     "geom:latitude":-8.68658,
     "geom:longitude":-36.007848,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.677987,
     "lbl:longitude":-36.008799,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09a8\u09af\u09bc\u09c7\u09b2\u09be\u09b8"
@@ -82,9 +91,12 @@
         102056747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261020205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"eb110a9e4c8919551cf94a16da6abc6c",
+    "wof:geomhash":"df7cf433492b2da65b5b2fce521d0e59",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404560525,
-    "wof:lastmodified":1577837842,
+    "wof:lastmodified":1695878711,
     "wof:name":"Panelas",
     "wof:parent_id":102056747,
     "wof:placetype":"localadmin",

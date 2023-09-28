@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018246,
-    "geom:area_square_m":209844145.614778,
+    "geom:area_square_m":209844145.614766,
     "geom:bbox":"-46.192254,-21.652481,-45.98061,-21.489426",
     "geom:latitude":-21.554019,
     "geom:longitude":-46.092808,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.550774,
     "lbl:longitude":-46.101619,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u09b0\u09be\u09a8\u09bf\u09af\u09bc\u09be"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102055017,
         1511777411,
-        85681941
+        102055017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316690705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055017
     ],
     "wof:country":"BR",
-    "wof:geomhash":"99c5b0b3a8a9ddd8f0c2619872ad2838",
+    "wof:geomhash":"36fffc2c4d52ef9bc8caecf9978b1068",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404558499,
-    "wof:lastmodified":1608030393,
+    "wof:lastmodified":1695878776,
     "wof:name":"Serrania",
     "wof:parent_id":102055017,
     "wof:placetype":"localadmin",

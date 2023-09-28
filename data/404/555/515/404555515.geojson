@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.212915,
-    "geom:area_square_m":2518266629.122706,
+    "geom:area_square_m":2518266629.122644,
     "geom:bbox":"-46.213994,-17.1943639973,-45.503056,-16.6932569974",
     "geom:latitude":-16.956983,
     "geom:longitude":-45.902478,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.947198,
     "lbl:longitude":-45.90926,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053271
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310855205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"23d1f263f7e941fa81ca28cc8486bee0",
+    "wof:geomhash":"de810a7117b59599ad1ebefe02fa7659",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555515,
-    "wof:lastmodified":1577833007,
+    "wof:lastmodified":1695878483,
     "wof:name":"Brasil\u00e2ndia De Minas",
     "wof:parent_id":102053271,
     "wof:placetype":"localadmin",

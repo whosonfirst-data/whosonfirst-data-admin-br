@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062779,
-    "geom:area_square_m":768716874.300738,
+    "geom:area_square_m":768716874.300728,
     "geom:bbox":"-38.482826223,-8.15181653307,-38.1421867935,-7.82038796825",
     "geom:latitude":-7.998228,
     "geom:longitude":-38.316887,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.01237,
     "lbl:longitude":-38.342668,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u09b0\u09be \u099f\u09be\u09b2\u09b9\u09be\u09a1\u09be"
@@ -85,9 +94,12 @@
         102056839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261390905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"de35740979997bf41c44b236d663a838",
+    "wof:geomhash":"b33d7deb105cfc337af66bf8cb14c728",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404560699,
-    "wof:lastmodified":1577837798,
+    "wof:lastmodified":1695878700,
     "wof:name":"Serra Talhada",
     "wof:parent_id":102056839,
     "wof:placetype":"localadmin",

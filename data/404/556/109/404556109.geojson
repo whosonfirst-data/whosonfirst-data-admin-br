@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026367,
-    "geom:area_square_m":311383739.41876,
+    "geom:area_square_m":311383739.418741,
     "geom:bbox":"-41.208638,-17.3601009973,-41.001805,-17.1248609973",
     "geom:latitude":-17.242991,
     "geom:longitude":-41.102598,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.242423,
     "lbl:longitude":-41.112753,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312015120"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"91eec8ed5d28c690b7333e568338d386",
+    "wof:geomhash":"7d2445be5d1bc315dd3e7eaf34d2530a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556109,
-    "wof:lastmodified":1577832643,
+    "wof:lastmodified":1695878356,
     "wof:name":"Nova Santa Luzia",
     "wof:parent_id":102053749,
     "wof:placetype":"localadmin",

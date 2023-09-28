@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020828,
-    "geom:area_square_m":226905145.545644,
+    "geom:area_square_m":226905106.285998,
     "geom:bbox":"-52.510855,-28.310688,-52.264563,-28.136894",
     "geom:latitude":-28.231791,
     "geom:longitude":-52.390138,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.237906,
     "lbl:longitude":-52.391971,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0633\u0648 \u0641\u0648\u0646\u062f\u0648"
@@ -133,9 +142,12 @@
         102059723
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431410005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8f03157a6b08e9ffbb1b1bf21179b8a6",
+    "wof:geomhash":"5e0495de12ab69813a05c05c71b5c04b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":404564111,
-    "wof:lastmodified":1636496446,
+    "wof:lastmodified":1695878865,
     "wof:name":"Passo Fundo",
     "wof:parent_id":102059723,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003731,
-    "geom:area_square_m":41010116.872071,
+    "geom:area_square_m":41010116.872068,
     "geom:bbox":"-52.4817638676,-27.3144072833,-52.4191973285,-27.2162322929",
     "geom:latitude":-27.266811,
     "geom:longitude":-52.453223,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.274405,
     "lbl:longitude":-52.455756,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saltinho"
@@ -64,9 +73,12 @@
         102059521
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431070215"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8a6afd97aaaec5221f4162ba45fff2ef",
+    "wof:geomhash":"6f4cfc3c60b50d1aa119d253ebbdf320",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":404563795,
-    "wof:lastmodified":1577827952,
+    "wof:lastmodified":1695878295,
     "wof:name":"Saltinho",
     "wof:parent_id":102059521,
     "wof:placetype":"localadmin",

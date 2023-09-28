@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.626342,
-    "geom:area_square_m":7741467510.90462,
+    "geom:area_square_m":7741467510.90347,
     "geom:bbox":"-52.867938,0.841201,-51.815456,2.4392",
     "geom:latitude":1.654386,
     "geom:longitude":-52.272052,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":1.779599,
     "lbl:longitude":-52.308058,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681891,
         102191577,
         85633009,
-        102050427,
         1511777407,
-        85681891
+        102050427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"160005505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050427
     ],
     "wof:country":"BR",
-    "wof:geomhash":"eb6cbd5e69f4e4e1edeb27e4d22a18e5",
+    "wof:geomhash":"5dcb4111041eb5b2619795006b247176",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404550307,
-    "wof:lastmodified":1608032081,
+    "wof:lastmodified":1695878804,
     "wof:name":"Serra Do Navio",
     "wof:parent_id":102050427,
     "wof:placetype":"localadmin",

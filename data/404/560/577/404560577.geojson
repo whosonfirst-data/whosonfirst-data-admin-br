@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03619,
-    "geom:area_square_m":441614182.134664,
+    "geom:area_square_m":441614182.134734,
     "geom:bbox":"-40.7564219439,-9.39828136952,-40.52272284,-9.11258186177",
     "geom:latitude":-9.296531,
     "geom:longitude":-40.628409,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.306363,
     "lbl:longitude":-40.616975,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261110115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e528cd17d2fc07aa84b257867f3004a4",
+    "wof:geomhash":"c137e748e825119be9716ca91a9543fc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560577,
-    "wof:lastmodified":1577837648,
+    "wof:lastmodified":1695878664,
     "wof:name":"Curral Queimado",
     "wof:parent_id":102056767,
     "wof:placetype":"localadmin",

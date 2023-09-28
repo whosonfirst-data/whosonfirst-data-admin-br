@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015124,
-    "geom:area_square_m":166953463.515821,
+    "geom:area_square_m":166953463.515678,
     "geom:bbox":"-52.205409,-26.929524,-52.038487,-26.66865",
     "geom:latitude":-26.778014,
     "geom:longitude":-52.124191,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.744393,
     "lbl:longitude":-52.09501,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u09b0\u09cd\u0997\u09c7\u09af\u09bc\u09be\u0993"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060163,
         1511777409,
-        85682021
+        102060163
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421910105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060163
     ],
     "wof:country":"BR",
-    "wof:geomhash":"29f4e14aee793bdbc28ed5e0607cd942",
+    "wof:geomhash":"52ef1ca9b5264f1143fbed6f57b74eed",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404565977,
-    "wof:lastmodified":1608034285,
+    "wof:lastmodified":1695878821,
     "wof:name":"Varge\u00e3o",
     "wof:parent_id":102060163,
     "wof:placetype":"localadmin",

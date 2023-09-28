@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000536,
-    "geom:area_square_m":5878127.439604,
+    "geom:area_square_m":5878127.439601,
     "geom:bbox":"-48.4490899958,-27.5993812446,-48.4134423929,-27.5653545586",
     "geom:latitude":-27.578815,
     "geom:longitude":-48.433066,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.579156,
     "lbl:longitude":-48.433069,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420540708"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8119e5f9f15c15cef6165c04e41877fc",
+    "wof:geomhash":"aff66ca4d3cfc09b0510476b3276eaa2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565397,
-    "wof:lastmodified":1577827869,
+    "wof:lastmodified":1695878256,
     "wof:name":"Barra Da Lagoa",
     "wof:parent_id":102060383,
     "wof:placetype":"localadmin",

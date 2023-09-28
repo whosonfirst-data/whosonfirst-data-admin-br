@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008165,
-    "geom:area_square_m":97815178.168087,
+    "geom:area_square_m":97815178.168128,
     "geom:bbox":"-40.708057605,-14.3761376458,-40.5429135481,-14.2825229345",
     "geom:latitude":-14.333157,
     "geom:longitude":-40.639414,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.329123,
     "lbl:longitude":-40.65439,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290395310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"aa9ea7e770e4047c085872c946afdecc",
+    "wof:geomhash":"3e84a30f6e0be80eaa80024bc359ed5f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550565,
-    "wof:lastmodified":1577837869,
+    "wof:lastmodified":1695878718,
     "wof:name":"\u00c1gua Bela",
     "wof:parent_id":102050571,
     "wof:placetype":"localadmin",

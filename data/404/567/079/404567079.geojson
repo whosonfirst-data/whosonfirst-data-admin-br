@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018155,
-    "geom:area_square_m":206184365.07097,
+    "geom:area_square_m":206184365.070984,
     "geom:bbox":"-48.139324,-23.383345,-47.949141,-23.222558",
     "geom:latitude":-23.301077,
     "geom:longitude":-48.038597,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.301552,
     "lbl:longitude":-48.03679,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Quadra"
@@ -51,19 +60,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102062041,
         1511777411,
-        85682041
+        102062041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354165305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102062041
     ],
     "wof:country":"BR",
-    "wof:geomhash":"4b1f4b7d324440b421e03a5e81540c7b",
+    "wof:geomhash":"dec2a3c75076438292ba8a900b37850c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404567079,
-    "wof:lastmodified":1608030036,
+    "wof:lastmodified":1695878771,
     "wof:name":"Quadra",
     "wof:parent_id":102062041,
     "wof:placetype":"localadmin",

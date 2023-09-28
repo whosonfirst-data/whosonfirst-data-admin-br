@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013383,
-    "geom:area_square_m":164817392.556273,
+    "geom:area_square_m":164817392.556277,
     "geom:bbox":"-40.8918707251,-5.20835753962,-40.7495257715,-5.04283791861",
     "geom:latitude":-5.127129,
     "geom:longitude":-40.813705,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.129562,
     "lbl:longitude":-40.808862,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0524\u0430\u04ad"
@@ -190,9 +199,12 @@
         102051511
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230410330"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"fbb1a8e5e8d3b5df7e4de6db9b9fe907",
+    "wof:geomhash":"4c4dd652508411139cf4c6ddc76594dd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -204,7 +216,7 @@
         }
     ],
     "wof:id":404552759,
-    "wof:lastmodified":1577837947,
+    "wof:lastmodified":1695878738,
     "wof:name":"Poti",
     "wof:parent_id":102051511,
     "wof:placetype":"localadmin",

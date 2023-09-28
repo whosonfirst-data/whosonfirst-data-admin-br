@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004806,
-    "geom:area_square_m":58758423.876098,
+    "geom:area_square_m":58758423.876095,
     "geom:bbox":"-37.3012733103,-8.64054959639,-37.1983891325,-8.51035119217",
     "geom:latitude":-8.581534,
     "geom:longitude":-37.256154,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.587223,
     "lbl:longitude":-37.256934,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056551
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260280315"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2f41a738664dc1c19a0cd05bd66fd731",
+    "wof:geomhash":"74e40189e0bc72c3cbc0e61e23552af5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560243,
-    "wof:lastmodified":1577837699,
+    "wof:lastmodified":1695878677,
     "wof:name":"Catimbau",
     "wof:parent_id":102056551,
     "wof:placetype":"localadmin",

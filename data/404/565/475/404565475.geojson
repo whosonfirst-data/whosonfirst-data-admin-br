@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005989,
-    "geom:area_square_m":64878341.553645,
+    "geom:area_square_m":64878341.55365,
     "geom:bbox":"-49.330116,-28.882885,-49.185413,-28.774591",
     "geom:latitude":-28.827699,
     "geom:longitude":-49.255346,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.827672,
     "lbl:longitude":-49.255353,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Balne\u00e1rio Rinc\u00e3o"
@@ -72,19 +81,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060431,
         1511777409,
-        85682021
+        102060431
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420700710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101957955
     ],
     "wof:country":"BR",
-    "wof:geomhash":"f065a78f0a098a1ef79a1dc8c910ea02",
+    "wof:geomhash":"1a53a78c165d37d123491e692b1557c1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404565475,
-    "wof:lastmodified":1608020831,
+    "wof:lastmodified":1695878751,
     "wof:name":"Balne\u00e1rio Rinc\u00e3o",
     "wof:parent_id":102060431,
     "wof:placetype":"localadmin",

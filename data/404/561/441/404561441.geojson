@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011939,
-    "geom:area_square_m":135309062.275066,
+    "geom:area_square_m":135309062.275078,
     "geom:bbox":"-53.3517927983,-23.6785187917,-53.2580445891,-23.4846291595",
     "geom:latitude":-23.57758,
     "geom:longitude":-53.296008,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.576083,
     "lbl:longitude":-53.29041,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carbonera"
@@ -55,9 +64,12 @@
         102057863
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411470810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b2a72ec881b8fc429e17446ca468f452",
+    "wof:geomhash":"e13941c7cfe3adf5d820e5cdd8c25010",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":404561441,
-    "wof:lastmodified":1577827861,
+    "wof:lastmodified":1695878252,
     "wof:name":"Carbonera",
     "wof:parent_id":102057863,
     "wof:placetype":"localadmin",

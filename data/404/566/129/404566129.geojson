@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028475,
-    "geom:area_square_m":326298463.506041,
+    "geom:area_square_m":326298463.506034,
     "geom:bbox":"-49.0354239528,-22.2194843569,-48.8535079197,-21.9333039835",
     "geom:latitude":-22.069491,
     "geom:longitude":-48.942022,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.064556,
     "lbl:longitude":-48.934445,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b0\u09c7\u09af\u09bc\u09be\u09b2\u09ad\u09be"
@@ -97,9 +106,12 @@
         102061077
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350340605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"34e568f2019ff1aa962a4006f541c0c1",
+    "wof:geomhash":"2d9c6cf0e5cf06063f65662263e1c70d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404566129,
-    "wof:lastmodified":1577832668,
+    "wof:lastmodified":1695878365,
     "wof:name":"Arealva",
     "wof:parent_id":102061077,
     "wof:placetype":"localadmin",

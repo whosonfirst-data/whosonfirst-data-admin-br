@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005719,
-    "geom:area_square_m":62754003.347722,
+    "geom:area_square_m":62754003.347717,
     "geom:bbox":"-52.299822995,-27.5110622361,-52.2113576378,-27.3796042698",
     "geom:latitude":-27.450349,
     "geom:longitude":-52.261449,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.480839,
     "lbl:longitude":-52.275513,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u0989\u09b0\u09be\u09a1\u09cb"
@@ -52,9 +61,12 @@
         102059081
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430090115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d23f0000fea6a13c03efe9073144b3a2",
+    "wof:geomhash":"d0ecefecc4b21f3d0fd96fc6e0a17cdd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":404562967,
-    "wof:lastmodified":1577827767,
+    "wof:lastmodified":1695878208,
     "wof:name":"Dourado",
     "wof:parent_id":102059081,
     "wof:placetype":"localadmin",

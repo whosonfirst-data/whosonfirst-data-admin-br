@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016565,
-    "geom:area_square_m":204425572.867263,
+    "geom:area_square_m":204425572.867235,
     "geom:bbox":"-39.1352558776,-3.65619984819,-38.9166045254,-3.52879685906",
     "geom:latitude":-3.593886,
     "geom:longitude":-39.029978,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.591534,
     "lbl:longitude":-39.030001,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231240305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"991798b02c8e4ad8f8ed5d1dea9720cf",
+    "wof:geomhash":"1985963f8f041f59e88a6fb66054487d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553859,
-    "wof:lastmodified":1577837967,
+    "wof:lastmodified":1695878743,
     "wof:name":"S\u00e3o Gon\u00e7alo Do Amarante",
     "wof:parent_id":102051763,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018923,
-    "geom:area_square_m":216329214.719517,
+    "geom:area_square_m":216329214.719515,
     "geom:bbox":"-43.0388225506,-22.4711389147,-42.8110698879,-22.3316118779",
     "geom:latitude":-22.402724,
     "geom:longitude":-42.94928,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.398886,
     "lbl:longitude":-42.951501,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c7\u09b0\u09c7\u09b8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -124,9 +133,12 @@
         102058495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330580205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"721ff42c2a89e279698f840a7683ebad",
+    "wof:geomhash":"51474f338500302b2e9921e4eb4db78d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":404562621,
-    "wof:lastmodified":1577833038,
+    "wof:lastmodified":1695878494,
     "wof:name":"Teres\u00f3polis",
     "wof:parent_id":102058495,
     "wof:placetype":"localadmin",

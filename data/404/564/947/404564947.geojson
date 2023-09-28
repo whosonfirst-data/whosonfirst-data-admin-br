@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005576,
-    "geom:area_square_m":61084448.0316,
+    "geom:area_square_m":61084448.031609,
     "geom:bbox":"-54.2865472672,-27.6932527588,-54.1415896445,-27.5916729321",
     "geom:latitude":-27.638418,
     "geom:longitude":-54.216876,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.631897,
     "lbl:longitude":-54.211934,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cd\u09b0\u09cb\u0997\u09cd\u09b0\u09c7\u09b8\u09b8\u09cb"
@@ -58,9 +67,12 @@
         102060065
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432180825"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b003b6d2cb8733af5f84e1ec494f117a",
+    "wof:geomhash":"9686e83657134754be01af6174156f78",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":404564947,
-    "wof:lastmodified":1577827990,
+    "wof:lastmodified":1695878312,
     "wof:name":"Progresso",
     "wof:parent_id":102060065,
     "wof:placetype":"localadmin",

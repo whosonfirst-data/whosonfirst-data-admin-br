@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032067,
-    "geom:area_square_m":393496535.037102,
+    "geom:area_square_m":393496535.037103,
     "geom:bbox":"-36.4885153794,-7.20063834184,-36.2185845841,-6.95594352136",
     "geom:latitude":-7.07573,
     "geom:longitude":-36.36105,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.057283,
     "lbl:longitude":-36.371899,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09cb\u09b2\u09c7\u09a1\u09be\u09a1\u09c7"
@@ -61,9 +70,12 @@
         102056453
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"251610205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"75bae9b506bbb17b4013054db14b3772",
+    "wof:geomhash":"43b626ffc1b35d997970efbcb442df0b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404560077,
-    "wof:lastmodified":1577837896,
+    "wof:lastmodified":1695878724,
     "wof:name":"Soledade",
     "wof:parent_id":102056453,
     "wof:placetype":"localadmin",

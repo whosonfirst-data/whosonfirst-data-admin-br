@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.174185,
-    "geom:area_square_m":2072232123.854062,
+    "geom:area_square_m":2072232123.854009,
     "geom:bbox":"-49.217498,-16.146127,-48.792301,-15.505793",
     "geom:latitude":-15.82091,
     "geom:longitude":-49.010428,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.861088,
     "lbl:longitude":-49.047292,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0648\u0646\u0648\u0628\u0648\u0644\u064a\u0633"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681925,
         102191577,
         85633009,
-        102052553,
         1511777413,
-        85681925
+        102052553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"521730205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102052553
     ],
     "wof:country":"BR",
-    "wof:geomhash":"3979abb2c312890ea78f13cf7f045168",
+    "wof:geomhash":"f7d7f89445484a6f5c3baafbb3c9ba44",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404554897,
-    "wof:lastmodified":1608035126,
+    "wof:lastmodified":1695878825,
     "wof:name":"Piren\u00f3polis",
     "wof:parent_id":102052553,
     "wof:placetype":"localadmin",

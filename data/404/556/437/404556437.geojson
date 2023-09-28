@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053505,
-    "geom:area_square_m":628712497.676299,
+    "geom:area_square_m":628712497.67625,
     "geom:bbox":"-41.662031,-18.281809,-41.363602,-17.999596",
     "geom:latitude":-18.139692,
     "geom:longitude":-41.510677,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.150483,
     "lbl:longitude":-41.528474,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09cd\u09b0\u09c7\u0987 \u0997\u09be\u09b8\u09aa\u09be\u09b0\u09cd"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053921,
         1511777411,
-        85681941
+        102053921
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312680205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053921
     ],
     "wof:country":"BR",
-    "wof:geomhash":"35e6856d11075bb9053afd9021ca9c87",
+    "wof:geomhash":"710f627bc6db5c01fc7726fa4086b7db",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404556437,
-    "wof:lastmodified":1608029382,
+    "wof:lastmodified":1695878760,
     "wof:name":"Frei Gaspar",
     "wof:parent_id":102053921,
     "wof:placetype":"localadmin",

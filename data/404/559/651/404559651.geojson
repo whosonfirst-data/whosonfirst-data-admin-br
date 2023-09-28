@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02209,
-    "geom:area_square_m":273109872.333504,
+    "geom:area_square_m":273109872.333519,
     "geom:bbox":"-47.6104010273,-1.03151489088,-47.3940575404,-0.835877658491",
     "geom:latitude":-0.939694,
     "geom:longitude":-47.498327,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-0.949047,
     "lbl:longitude":-47.463904,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09b0\u09cb\u09ac\u09c7\u09b0\u09cd\u099f\u09cb"
@@ -88,9 +97,12 @@
         102055811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150430740"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"542feb0b1dcf7b01b4832205de357570",
+    "wof:geomhash":"600cd059602419d35fe79cf7212bec26",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404559651,
-    "wof:lastmodified":1577825660,
+    "wof:lastmodified":1695878151,
     "wof:name":"S\u00e3o Roberto",
     "wof:parent_id":102055811,
     "wof:placetype":"localadmin",

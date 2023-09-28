@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01622,
-    "geom:area_square_m":188258950.105426,
+    "geom:area_square_m":188258950.105348,
     "geom:bbox":"-42.32217,-20.283266,-42.1935,-20.083713",
     "geom:latitude":-20.176479,
     "geom:longitude":-42.25231,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.165102,
     "lbl:longitude":-42.263933,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09aa\u09c1\u099f\u09bf\u09b0\u09be"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053567,
         1511777411,
-        85681941
+        102053567
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311290105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053567
     ],
     "wof:country":"BR",
-    "wof:geomhash":"9fad0d1ce7a9f5a404d85ce25eb763b1",
+    "wof:geomhash":"53c65eec2a2c50b2a26c753c25c80449",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404555711,
-    "wof:lastmodified":1608032776,
+    "wof:lastmodified":1695878817,
     "wof:name":"Caputira",
     "wof:parent_id":102053567,
     "wof:placetype":"localadmin",

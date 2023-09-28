@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056968,
-    "geom:area_square_m":680764928.889705,
+    "geom:area_square_m":680764928.889706,
     "geom:bbox":"-44.48367,-14.9973439976,-44.003666,-14.7636309977",
     "geom:latitude":-14.891893,
     "geom:longitude":-44.227719,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.876593,
     "lbl:longitude":-44.224309,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316245005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d004a223528d71efc1bf21bc6dbfcab1",
+    "wof:geomhash":"062a177a060f2a87bb42a4fa6e4f4a5e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558309,
-    "wof:lastmodified":1577833274,
+    "wof:lastmodified":1695878567,
     "wof:name":"S\u00e3o Jo\u00e3o Das Miss\u00f5es",
     "wof:parent_id":102054889,
     "wof:placetype":"localadmin",

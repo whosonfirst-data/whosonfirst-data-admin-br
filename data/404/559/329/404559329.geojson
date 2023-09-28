@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.233522,
-    "geom:area_square_m":2781184522.975708,
+    "geom:area_square_m":2781184522.976038,
     "geom:bbox":"-54.5945395032,-15.8918968274,-53.7338124175,-15.246667326",
     "geom:latitude":-15.598089,
     "geom:longitude":-54.133098,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.741659,
     "lbl:longitude":-54.054756,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055567
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510700810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"14bc8b9e84da437539d254cc0e296fda",
+    "wof:geomhash":"38f88ec5961fbb6da19b43de468ecd30",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559329,
-    "wof:lastmodified":1577836107,
+    "wof:lastmodified":1695878635,
     "wof:name":"Alto Coit\u00e9",
     "wof:parent_id":102055567,
     "wof:placetype":"localadmin",

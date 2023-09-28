@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011798,
-    "geom:area_square_m":136642833.464597,
+    "geom:area_square_m":136642833.464594,
     "geom:bbox":"-41.6055535397,-20.5761827763,-41.4723640005,-20.4274578416",
     "geom:latitude":-20.498765,
     "geom:longitude":-41.543898,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.491763,
     "lbl:longitude":-41.536004,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051931
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320370010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"58a5904cc07aa1d39644b8570a11f2e3",
+    "wof:geomhash":"ffd747c477c25c4d1865c232ca1a0633",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554519,
-    "wof:lastmodified":1577832947,
+    "wof:lastmodified":1695878466,
     "wof:name":"Itaici",
     "wof:parent_id":102051931,
     "wof:placetype":"localadmin",

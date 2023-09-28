@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027801,
-    "geom:area_square_m":336887876.965979,
+    "geom:area_square_m":336887876.96591,
     "geom:bbox":"-39.068235,-11.605336,-38.853498,-11.38229",
     "geom:latitude":-11.476554,
     "geom:longitude":-38.955687,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.479894,
     "lbl:longitude":-38.953941,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c7\u0993\u09ab\u09bf\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
@@ -97,12 +106,15 @@
         102051339
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"293150905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102051339
     ],
     "wof:country":"BR",
-    "wof:geomhash":"b36142aabb9f2a09c4acb2654ab442d1",
+    "wof:geomhash":"2ab95c80ff648782a65bf9c0bfdd8483",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404552101,
-    "wof:lastmodified":1617130550,
+    "wof:lastmodified":1695878836,
     "wof:name":"Teofil\u00e2ndia",
     "wof:parent_id":102051339,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023744,
-    "geom:area_square_m":292576242.328846,
+    "geom:area_square_m":292576242.328853,
     "geom:bbox":"-40.8836384718,-4.86663500295,-40.6339257819,-4.70508680355",
     "geom:latitude":-4.780111,
     "geom:longitude":-40.758202,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.766645,
     "lbl:longitude":-40.773079,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u09b0\u09c7\u09a8\u09cd\u09a6\u09be"
@@ -91,9 +100,12 @@
         102051433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230125705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bb3804859e366b5f6c207d9483d4fe99",
+    "wof:geomhash":"a4d11471085f82f5590957afc91a87ee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404552401,
-    "wof:lastmodified":1577837863,
+    "wof:lastmodified":1695878716,
     "wof:name":"Ararend\u00e1",
     "wof:parent_id":102051433,
     "wof:placetype":"localadmin",

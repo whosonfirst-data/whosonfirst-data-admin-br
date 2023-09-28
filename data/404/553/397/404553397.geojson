@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016492,
-    "geom:area_square_m":202299306.848349,
+    "geom:area_square_m":202299306.848358,
     "geom:bbox":"-39.2349341456,-7.34186088391,-39.0742885319,-7.15839730252",
     "geom:latitude":-7.253057,
     "geom:longitude":-39.153026,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.24381,
     "lbl:longitude":-39.145015,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09bf\u09b8\u09b8\u09be\u0993 \u09ad\u09c7\u09b2\u09b9\u09be"
@@ -88,9 +97,12 @@
         102051655
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230840105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"378db9d7ce43c1a465a21f196b35d215",
+    "wof:geomhash":"b68f8f406a2ed98a1d4653af88341c84",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404553397,
-    "wof:lastmodified":1577837810,
+    "wof:lastmodified":1695878703,
     "wof:name":"Miss\u00e3o Velha",
     "wof:parent_id":102051655,
     "wof:placetype":"localadmin",

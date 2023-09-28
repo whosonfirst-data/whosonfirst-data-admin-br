@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008618,
-    "geom:area_square_m":98870934.246466,
+    "geom:area_square_m":98870934.246457,
     "geom:bbox":"-42.3170084226,-21.9897785217,-42.1671551523,-21.8297553846",
     "geom:latitude":-21.906027,
     "geom:longitude":-42.244365,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.908557,
     "lbl:longitude":-42.245489,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058343
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330110815"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c1f19db561ba30de19766cc3c5bf3eef",
+    "wof:geomhash":"9247e5301deb9af6f0a4cc1eccae20e1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562209,
-    "wof:lastmodified":1577832560,
+    "wof:lastmodified":1695878321,
     "wof:name":"Euclidel\u00e2ndia",
     "wof:parent_id":102058343,
     "wof:placetype":"localadmin",

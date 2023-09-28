@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004083,
-    "geom:area_square_m":49230330.227128,
+    "geom:area_square_m":49230330.227129,
     "geom:bbox":"-38.9624146008,-12.8469385276,-38.8811912645,-12.7422996036",
     "geom:latitude":-12.784767,
     "geom:longitude":-38.926004,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.771602,
     "lbl:longitude":-38.926618,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09be\u0997\u09cb\u0997\u09bf\u09aa\u09c7"
@@ -94,9 +103,12 @@
         102051021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292060105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3f89af40f2b814955275b6042a2fbaa9",
+    "wof:geomhash":"0fe679fcf19627495f01ce254dae080f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404551473,
-    "wof:lastmodified":1577837922,
+    "wof:lastmodified":1695878731,
     "wof:name":"Maragogipe",
     "wof:parent_id":102051021,
     "wof:placetype":"localadmin",

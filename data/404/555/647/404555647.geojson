@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050436,
-    "geom:area_square_m":579414290.103304,
+    "geom:area_square_m":579414290.103407,
     "geom:bbox":"-46.396566,-21.878443,-46.080011,-21.554117",
     "geom:latitude":-21.710404,
     "geom:longitude":-46.221487,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.695876,
     "lbl:longitude":-46.219106,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Campestre"
@@ -72,19 +81,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053333,
         1511777411,
-        85681941
+        102053333
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311100205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053333
     ],
     "wof:country":"BR",
-    "wof:geomhash":"7025f1fce9a163d351079755c85e0c0d",
+    "wof:geomhash":"a1293208828170db453c109754dd3a23",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404555647,
-    "wof:lastmodified":1608032653,
+    "wof:lastmodified":1695878812,
     "wof:name":"Campestre",
     "wof:parent_id":102053333,
     "wof:placetype":"localadmin",

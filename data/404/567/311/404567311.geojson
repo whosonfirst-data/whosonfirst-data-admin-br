@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002455,
-    "geom:area_square_m":27789116.250954,
+    "geom:area_square_m":27789116.250973,
     "geom:bbox":"-46.729693,-23.768559,-46.66325,-23.687533",
     "geom:latitude":-23.725813,
     "geom:longitude":-46.701995,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.725263,
     "lbl:longitude":-46.709797,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Cidade Dutra"
@@ -37,9 +46,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030823"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b06dec257b181e3ad51199dca8df9d54",
+    "wof:geomhash":"5e04bb5c35af4b56dd3313a23b86125d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404567311,
-    "wof:lastmodified":1577832836,
+    "wof:lastmodified":1695878424,
     "wof:name":"Cidade Dutra",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

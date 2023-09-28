@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024834,
-    "geom:area_square_m":281280242.135709,
+    "geom:area_square_m":281280242.135811,
     "geom:bbox":"-47.706566,-23.757027,-47.466751,-23.565111",
     "geom:latitude":-23.652807,
     "geom:longitude":-47.580644,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.648309,
     "lbl:longitude":-47.572494,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102062135,
         1511777411,
-        85682041
+        102062135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354530805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102062135
     ],
     "wof:country":"BR",
-    "wof:geomhash":"4de3d475be76648986ec1b5f6e574561",
+    "wof:geomhash":"34eeecd74e70ad233e501dc5c2c53e7c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404567147,
-    "wof:lastmodified":1608030277,
+    "wof:lastmodified":1695878773,
     "wof:name":"Salto De Pirapora",
     "wof:parent_id":102062135,
     "wof:placetype":"localadmin",

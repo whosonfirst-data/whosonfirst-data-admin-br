@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094146,
-    "geom:area_square_m":1029322515.015169,
+    "geom:area_square_m":1029322515.015112,
     "geom:bbox":"-50.978369,-28.051616,-50.605625,-27.593032",
     "geom:latitude":-27.846824,
     "geom:longitude":-50.771678,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.830947,
     "lbl:longitude":-50.743513,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060309,
         1511777409,
-        85682021
+        102060309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420340205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060309
     ],
     "wof:country":"BR",
-    "wof:geomhash":"d4b371bb5f5ff7dfe5e5b27ea8157732",
+    "wof:geomhash":"c49ffde4253632e88d6bd46db30fdae4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404565265,
-    "wof:lastmodified":1608034452,
+    "wof:lastmodified":1695878823,
     "wof:name":"Campo Belo Do Sul",
     "wof:parent_id":102060309,
     "wof:placetype":"localadmin",

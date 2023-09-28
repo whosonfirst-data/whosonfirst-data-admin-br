@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019891,
-    "geom:area_square_m":233299191.159068,
+    "geom:area_square_m":233299191.159123,
     "geom:bbox":"-42.409585,-18.5693829971,-42.230773,-18.3554549972",
     "geom:latitude":-18.461612,
     "geom:longitude":-42.328966,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.460883,
     "lbl:longitude":-42.349951,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09bf\u09b0\u09cd\u0997\u09cb\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
@@ -97,9 +106,12 @@
         102055161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"317190705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"55ef32720fd54fc2d22bfdd4acec1654",
+    "wof:geomhash":"085d486250f489e98054ab8358671895",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404558769,
-    "wof:lastmodified":1577833188,
+    "wof:lastmodified":1695878539,
     "wof:name":"Virgol\u00e2ndia",
     "wof:parent_id":102055161,
     "wof:placetype":"localadmin",

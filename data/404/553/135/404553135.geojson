@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005504,
-    "geom:area_square_m":67956483.644705,
+    "geom:area_square_m":67956483.644703,
     "geom:bbox":"-39.5655605412,-3.19215896547,-39.3835484143,-3.07970420155",
     "geom:latitude":-3.138223,
     "geom:longitude":-39.489374,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.126933,
     "lbl:longitude":-39.512112,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Baleia"
@@ -40,9 +49,12 @@
         102051597
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230640527"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f71fca9ac2c2ffa23e02c458ccdbed2d",
+    "wof:geomhash":"f069a788f98bb388fbe4923499b6160b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404553135,
-    "wof:lastmodified":1577837904,
+    "wof:lastmodified":1695878726,
     "wof:name":"Baleia",
     "wof:parent_id":102051597,
     "wof:placetype":"localadmin",

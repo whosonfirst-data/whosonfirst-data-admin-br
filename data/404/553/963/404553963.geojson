@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066572,
-    "geom:area_square_m":818638081.033915,
+    "geom:area_square_m":818638081.034009,
     "geom:bbox":"-40.486421411,-6.20634898281,-40.0922207254,-5.88460188997",
     "geom:latitude":-6.020453,
     "geom:longitude":-40.269275,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.022006,
     "lbl:longitude":-40.239757,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u09f1\u09be"
@@ -82,9 +91,12 @@
         102051787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231330205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9f02dc363d37d3e3e59a7c62018a1427",
+    "wof:geomhash":"8704fd0cf58663b67ce3ec17555b4323",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404553963,
-    "wof:lastmodified":1577837976,
+    "wof:lastmodified":1695878745,
     "wof:name":"Tau\u00e1",
     "wof:parent_id":102051787,
     "wof:placetype":"localadmin",

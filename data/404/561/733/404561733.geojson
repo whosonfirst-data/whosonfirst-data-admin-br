@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001686,
-    "geom:area_square_m":18785466.145474,
+    "geom:area_square_m":18785466.14546,
     "geom:bbox":"-53.4974476801,-25.7567658092,-53.4710921617,-25.6408309671",
     "geom:latitude":-25.695446,
     "geom:longitude":-53.487781,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.695878,
     "lbl:longitude":-53.487589,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09be\u09ad\u09bf\u09b2\u09b9\u09be"
@@ -91,9 +100,12 @@
         102058075
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412140610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5f309e7c9355192a8b633945ca2da1f0",
+    "wof:geomhash":"263396c13c672d3b7f1077e9fb73b6d9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404561733,
-    "wof:lastmodified":1577827946,
+    "wof:lastmodified":1695878292,
     "wof:name":"Maravilha",
     "wof:parent_id":102058075,
     "wof:placetype":"localadmin",

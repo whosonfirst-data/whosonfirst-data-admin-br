@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00507,
-    "geom:area_square_m":55868082.919157,
+    "geom:area_square_m":55868082.919178,
     "geom:bbox":"-53.14299,-27.029377,-53.046405,-26.922734",
     "geom:latitude":-26.974681,
     "geom:longitude":-53.100913,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.968081,
     "lbl:longitude":-53.101614,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Kunyatay"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060359,
         1511777409,
-        85682021
+        102060359
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420475605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060359
     ],
     "wof:country":"BR",
-    "wof:geomhash":"75a19d7a9ab249c319e7113cf9dc4c60",
+    "wof:geomhash":"d24aba5b30da28c39343433c8165e6f1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404565355,
-    "wof:lastmodified":1608034176,
+    "wof:lastmodified":1695878819,
     "wof:name":"Cunhata\u00ed",
     "wof:parent_id":102060359,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053183,
-    "geom:area_square_m":602063587.842163,
+    "geom:area_square_m":602063587.842129,
     "geom:bbox":"-49.054450133,-23.8430996707,-48.7113043678,-23.5935225877",
     "geom:latitude":-23.72015,
     "geom:longitude":-48.880019,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.718299,
     "lbl:longitude":-48.880008,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061567
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352240615"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a9d7c3f702ce490d253075c23d9d3fa9",
+    "wof:geomhash":"fc974d15ccf4e095dece80bd3df436d2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566571,
-    "wof:lastmodified":1577833010,
+    "wof:lastmodified":1695878485,
     "wof:name":"Guarizinho",
     "wof:parent_id":102061567,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016707,
-    "geom:area_square_m":204824719.553276,
+    "geom:area_square_m":204824719.553261,
     "geom:bbox":"-38.4916285755,-7.59483804768,-38.3148973918,-7.4188668111",
     "geom:latitude":-7.489802,
     "geom:longitude":-38.415331,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.482177,
     "lbl:longitude":-38.431376,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09bf\u09f1\u09be\u09b0\u09be"
@@ -91,9 +100,12 @@
         102056179
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250660805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e688b071a24d076d849b2667703ec944",
+    "wof:geomhash":"2405909bad3a80eb8481bbb364f8b750",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404559941,
-    "wof:lastmodified":1577837968,
+    "wof:lastmodified":1695878743,
     "wof:name":"Ibiara",
     "wof:parent_id":102056179,
     "wof:placetype":"localadmin",

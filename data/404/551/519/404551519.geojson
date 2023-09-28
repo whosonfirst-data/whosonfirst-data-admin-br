@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015165,
-    "geom:area_square_m":178939292.851275,
+    "geom:area_square_m":178939292.851313,
     "geom:bbox":"-40.173397138,-17.4787730405,-39.933394678,-17.2597930465",
     "geom:latitude":-17.403845,
     "geom:longitude":-40.025082,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.418298,
     "lbl:longitude":-40.003222,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292110415"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"937155224065be829b670c9b036eadbf",
+    "wof:geomhash":"89ea0b11236d42a9b2b560c5307de9d7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551519,
-    "wof:lastmodified":1577837738,
+    "wof:lastmodified":1695878686,
     "wof:name":"Nova L\u00eddice",
     "wof:parent_id":102051035,
     "wof:placetype":"localadmin",

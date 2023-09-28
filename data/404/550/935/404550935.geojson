@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02969,
-    "geom:area_square_m":360868381.677347,
+    "geom:area_square_m":360868381.677392,
     "geom:bbox":"-38.293914,-10.718241,-38.130079,-10.457286",
     "geom:latitude":-10.593623,
     "geom:longitude":-38.201348,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.590988,
     "lbl:longitude":-38.202926,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681895,
         102191577,
         85633009,
-        102050751,
         1511777415,
-        85681895
+        102050751
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291075005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050751
     ],
     "wof:country":"BR",
-    "wof:geomhash":"ec47e59451feb802bf86768ae2b03cc6",
+    "wof:geomhash":"70ab6c1d5c4833eab116d3ed54808762",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404550935,
-    "wof:lastmodified":1608032252,
+    "wof:lastmodified":1695878805,
     "wof:name":"F\u00e1tima",
     "wof:parent_id":102050751,
     "wof:placetype":"localadmin",

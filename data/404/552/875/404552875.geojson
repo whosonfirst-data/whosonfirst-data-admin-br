@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000664,
-    "geom:area_square_m":8180772.933829,
+    "geom:area_square_m":8180772.933823,
     "geom:bbox":"-37.802663069,-4.42322348054,-37.7634579974,-4.39721558095",
     "geom:latitude":-4.412098,
     "geom:longitude":-37.782925,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.411804,
     "lbl:longitude":-37.782925,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Macei\u00f3"
@@ -235,9 +244,12 @@
         102051535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230445925"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dfe1b69a7dda50d84f3bec1b04d3c26e",
+    "wof:geomhash":"39154967ec1fbdc1e2411117fd9247a6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -249,7 +261,7 @@
         }
     ],
     "wof:id":404552875,
-    "wof:lastmodified":1577837819,
+    "wof:lastmodified":1695878706,
     "wof:name":"Macei\u00f3",
     "wof:parent_id":102051535,
     "wof:placetype":"localadmin",

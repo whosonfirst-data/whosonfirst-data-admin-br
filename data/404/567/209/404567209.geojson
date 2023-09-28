@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022236,
-    "geom:area_square_m":253692934.826482,
+    "geom:area_square_m":253692934.82644,
     "geom:bbox":"-45.8199278186,-22.7876974138,-45.5553554382,-22.5732910303",
     "geom:latitude":-22.681432,
     "geom:longitude":-45.686695,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.700214,
     "lbl:longitude":-45.684632,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102062213
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354860905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a4bb8f73ec534aae1fe2288ce078807b",
+    "wof:geomhash":"856c176f4de4b36c8889fd5d41b6f4e2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404567209,
-    "wof:lastmodified":1577832759,
+    "wof:lastmodified":1695878397,
     "wof:name":"S\u00e3o Bento Do Sapuca\u00ed",
     "wof:parent_id":102062213,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011676,
-    "geom:area_square_m":143185614.549666,
+    "geom:area_square_m":143185614.549693,
     "geom:bbox":"-37.7401906071,-7.43762882211,-37.5311054377,-7.31496443966",
     "geom:latitude":-7.363314,
     "geom:longitude":-37.628738,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.371701,
     "lbl:longitude":-37.62005,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Palmeira"
@@ -79,9 +88,12 @@
         102056181
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250670715"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"112d4facfa0c2816d8d419ee1275a6db",
+    "wof:geomhash":"d19db5597697cc4ec843047727012281",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404559949,
-    "wof:lastmodified":1577837832,
+    "wof:lastmodified":1695878709,
     "wof:name":"Palmeira",
     "wof:parent_id":102056181,
     "wof:placetype":"localadmin",

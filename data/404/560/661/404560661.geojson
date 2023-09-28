@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052508,
-    "geom:area_square_m":642069707.72333,
+    "geom:area_square_m":642069707.723401,
     "geom:bbox":"-36.6164775104,-8.70388979055,-36.3085001779,-8.37459370791",
     "geom:latitude":-8.543638,
     "geom:longitude":-36.462444,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.555231,
     "lbl:longitude":-36.472931,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261300805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1fe9239f2f5256c752585df3f7c35a46",
+    "wof:geomhash":"a94a5b7dd3ab1dd10007fe7b449d3f3a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560661,
-    "wof:lastmodified":1577837931,
+    "wof:lastmodified":1695878734,
     "wof:name":"S\u00e3o Bento Do Una",
     "wof:parent_id":102056819,
     "wof:placetype":"localadmin",

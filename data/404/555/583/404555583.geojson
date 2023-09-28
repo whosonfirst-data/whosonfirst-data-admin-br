@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018403,
-    "geom:area_square_m":211711299.549023,
+    "geom:area_square_m":211711299.549237,
     "geom:bbox":"-46.5241757025,-21.5893149968,-46.3225,-21.3911359968",
     "geom:latitude":-21.511537,
     "geom:longitude":-46.420909,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.505075,
     "lbl:longitude":-46.402598,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053299
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310950105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d5fc9340c411721344649e4cfe1c2041",
+    "wof:geomhash":"a866cd84ab22612cf13ce5a1362c5c42",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555583,
-    "wof:lastmodified":1577833026,
+    "wof:lastmodified":1695878490,
     "wof:name":"Cabo Verde",
     "wof:parent_id":102053299,
     "wof:placetype":"localadmin",

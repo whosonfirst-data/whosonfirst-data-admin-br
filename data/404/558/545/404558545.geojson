@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018381,
-    "geom:area_square_m":211669893.65374,
+    "geom:area_square_m":211669893.653652,
     "geom:bbox":"-43.352862,-21.439299,-43.158493,-21.278374",
     "geom:latitude":-21.363355,
     "geom:longitude":-43.256172,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.372729,
     "lbl:longitude":-43.258027,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u09ac\u09c1\u09b2\u09af\u09bc\u09c7\u0987\u09b0\u09cb"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102055043,
         1511777411,
-        85681941
+        102055043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316790505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055043
     ],
     "wof:country":"BR",
-    "wof:geomhash":"db64203eb2553e127eac09b84e1b3461",
+    "wof:geomhash":"bb2e7336fb54f99f4acdd56b82a11133",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404558545,
-    "wof:lastmodified":1608030458,
+    "wof:lastmodified":1695878777,
     "wof:name":"Tabuleiro",
     "wof:parent_id":102055043,
     "wof:placetype":"localadmin",

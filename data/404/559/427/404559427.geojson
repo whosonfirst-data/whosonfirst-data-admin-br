@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013242,
-    "geom:area_square_m":161006810.718048,
+    "geom:area_square_m":161006810.718058,
     "geom:bbox":"-55.3353662438,-10.5537988304,-55.0998975044,-10.4273229146",
     "geom:latitude":-10.487322,
     "geom:longitude":-55.206222,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.488931,
     "lbl:longitude":-55.217845,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055637
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510805520"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d19401312a7e93d7f6b74a7c8e64b77d",
+    "wof:geomhash":"db30550a335b52555d8b7453a3c0e216",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559427,
-    "wof:lastmodified":1577836160,
+    "wof:lastmodified":1695878646,
     "wof:name":"Nonoa\u00ed Do Norte",
     "wof:parent_id":102055637,
     "wof:placetype":"localadmin",

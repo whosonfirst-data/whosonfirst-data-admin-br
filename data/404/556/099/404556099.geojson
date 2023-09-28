@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010862,
-    "geom:area_square_m":123968461.402715,
+    "geom:area_square_m":123968461.40279,
     "geom:bbox":"-46.06419,-22.6997079966,-45.93172,-22.5521419967",
     "geom:latitude":-22.634456,
     "geom:longitude":-45.993174,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.645096,
     "lbl:longitude":-45.994173,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053739
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311990605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9ee807b0379df9461a045b4e96ed3489",
+    "wof:geomhash":"c7314e147cfe18c229a12ba1f3b139e2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556099,
-    "wof:lastmodified":1577832633,
+    "wof:lastmodified":1695878352,
     "wof:name":"C\u00f3rrego Do Bom Jesus",
     "wof:parent_id":102053739,
     "wof:placetype":"localadmin",

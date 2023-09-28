@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079104,
-    "geom:area_square_m":941048272.0038,
+    "geom:area_square_m":941048272.00375,
     "geom:bbox":"-50.9193079673,-16.0424337476,-50.4644275631,-15.5939253951",
     "geom:latitude":-15.830567,
     "geom:longitude":-50.650971,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.817712,
     "lbl:longitude":-50.647528,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09aa\u09bf\u09b0\u09be\u09aa\u09c1\u09f1\u09be"
@@ -91,9 +100,12 @@
         102052295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"521100805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"95610f037ab85ffdea7faf2218d33f75",
+    "wof:geomhash":"198e936a44ded09ad74f998ca3ff80d7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404554819,
-    "wof:lastmodified":1577836178,
+    "wof:lastmodified":1695878650,
     "wof:name":"Itapirapu\u00e3",
     "wof:parent_id":102052295,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049744,
-    "geom:area_square_m":606379828.571905,
+    "geom:area_square_m":606379828.57194,
     "geom:bbox":"-37.6722807069,-9.78688493598,-37.3030573987,-9.49656615727",
     "geom:latitude":-9.658657,
     "geom:longitude":-37.511559,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.66987,
     "lbl:longitude":-37.542316,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"270640605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0dc3280d4c5ae7883701b841d6e5cc5a",
+    "wof:geomhash":"41503d99aea8f055a9d92631bc558de0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550193,
-    "wof:lastmodified":1577837887,
+    "wof:lastmodified":1695878722,
     "wof:name":"P\u00e3o De A\u00e7\u00facar",
     "wof:parent_id":102050209,
     "wof:placetype":"localadmin",

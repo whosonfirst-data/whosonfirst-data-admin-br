@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031896,
-    "geom:area_square_m":392397007.673594,
+    "geom:area_square_m":392397007.67359,
     "geom:bbox":"-40.909793776,-5.89787868086,-40.6242366044,-5.64338326827",
     "geom:latitude":-5.782999,
     "geom:longitude":-40.775136,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.78242,
     "lbl:longitude":-40.777238,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "S\u00e3o Francisco"
@@ -85,9 +94,12 @@
         102051733
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231126420"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b341f83e9bfd54cee8d51f293f1ba38a",
+    "wof:geomhash":"48d6c29b9afc92c7b8bc676b240c6b51",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404553683,
-    "wof:lastmodified":1577837695,
+    "wof:lastmodified":1695878676,
     "wof:name":"S\u00e3o Francisco",
     "wof:parent_id":102051733,
     "wof:placetype":"localadmin",

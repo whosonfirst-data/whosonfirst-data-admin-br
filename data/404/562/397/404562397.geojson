@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013782,
-    "geom:area_square_m":157576748.111843,
+    "geom:area_square_m":157576748.111844,
     "geom:bbox":"-42.576484262,-22.4579045162,-42.4362445992,-22.2944222327",
     "geom:latitude":-22.384157,
     "geom:longitude":-42.498878,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.381653,
     "lbl:longitude":-42.49752,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Muri"
@@ -73,9 +82,12 @@
         102058413
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330340127"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1f855f2b1822d877bf5b2175d5fe7dc2",
+    "wof:geomhash":"4da30fbe0785c780c0442ba9bc68a411",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404562397,
-    "wof:lastmodified":1577832872,
+    "wof:lastmodified":1695878439,
     "wof:name":"Muri",
     "wof:parent_id":102058413,
     "wof:placetype":"localadmin",

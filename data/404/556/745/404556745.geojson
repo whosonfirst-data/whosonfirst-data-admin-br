@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023005,
-    "geom:area_square_m":268709972.225699,
+    "geom:area_square_m":268709972.225722,
     "geom:bbox":"-41.920633,-19.2275319971,-41.633612,-19.0889089971",
     "geom:latitude":-19.157345,
     "geom:longitude":-41.784964,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.148136,
     "lbl:longitude":-41.775188,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09a8\u09b9\u09cb\u09ae\u09bf"
@@ -97,9 +106,12 @@
         102054095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313320405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4789f7472eca792236662892e7725e3f",
+    "wof:geomhash":"e3e0601940785f378091d4a2f03c2ad1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404556745,
-    "wof:lastmodified":1577833188,
+    "wof:lastmodified":1695878539,
     "wof:name":"Itanhomi",
     "wof:parent_id":102054095,
     "wof:placetype":"localadmin",

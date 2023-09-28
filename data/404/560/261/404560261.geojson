@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019698,
-    "geom:area_square_m":240616194.527865,
+    "geom:area_square_m":240616194.527856,
     "geom:bbox":"-36.246536211,-9.03285709083,-36.0864105676,-8.84791386643",
     "geom:latitude":-8.939836,
     "geom:longitude":-36.173999,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.94489,
     "lbl:longitude":-36.180437,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a8\u09b9\u09cb\u099f\u09bf\u09a8\u09b9\u09cb"
@@ -79,9 +88,12 @@
         102056575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260370205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c866d16b83d07149d07e6b3ed645c9ff",
+    "wof:geomhash":"57695b56aebcab918e6aaa0a6daed7e0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404560261,
-    "wof:lastmodified":1577837921,
+    "wof:lastmodified":1695878731,
     "wof:name":"Canhotinho",
     "wof:parent_id":102056575,
     "wof:placetype":"localadmin",

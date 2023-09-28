@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028156,
-    "geom:area_square_m":322644424.983437,
+    "geom:area_square_m":322644424.983341,
     "geom:bbox":"-51.7321439469,-22.196436117,-51.4824774412,-21.9565186429",
     "geom:latitude":-22.06923,
     "geom:longitude":-51.60286,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.063882,
     "lbl:longitude":-51.602886,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Presidente Bernardes"
@@ -70,9 +79,12 @@
         102062031
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354120805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"292c92a3145f9324bc170fc567627a62",
+    "wof:geomhash":"2b58a1f6ca827c6b4a4f0d5554aaee14",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404567051,
-    "wof:lastmodified":1577833346,
+    "wof:lastmodified":1695878587,
     "wof:name":"Presidente Bernardes",
     "wof:parent_id":102062031,
     "wof:placetype":"localadmin",

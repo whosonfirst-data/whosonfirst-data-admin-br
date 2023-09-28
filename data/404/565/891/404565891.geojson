@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009909,
-    "geom:area_square_m":107827126.481694,
+    "geom:area_square_m":107827126.481706,
     "geom:bbox":"-49.227804,-28.413632,-49.101572,-28.287558",
     "geom:latitude":-28.353146,
     "geom:longitude":-49.168904,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.353804,
     "lbl:longitude":-49.170104,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09b2\u09c1\u09a1\u0997\u09c7\u09b0\u09cb"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060753,
         1511777409,
-        85682021
+        102060753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421700605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060753
     ],
     "wof:country":"BR",
-    "wof:geomhash":"ad337fabad42e7902bb702a7ad1080ab",
+    "wof:geomhash":"1b71039b8a812007ac04e0b49f0ebe88",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404565891,
-    "wof:lastmodified":1608034449,
+    "wof:lastmodified":1695878823,
     "wof:name":"S\u00e3o Ludgero",
     "wof:parent_id":102060753,
     "wof:placetype":"localadmin",

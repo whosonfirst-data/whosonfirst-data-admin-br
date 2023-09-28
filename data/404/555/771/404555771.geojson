@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15064,
-    "geom:area_square_m":1775296735.287423,
+    "geom:area_square_m":1775296735.287478,
     "geom:bbox":"-40.959598,-17.9882564444,-40.487263,-17.3287779973",
     "geom:latitude":-17.620263,
     "geom:longitude":-40.733071,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.593204,
     "lbl:longitude":-40.717058,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0644\u0648\u0633 \u0634\u0627\u063a\u0627\u0633"
@@ -97,9 +106,12 @@
         102053585
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311370105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"486f8fe19684d1b40cae2ed5bca359ce",
+    "wof:geomhash":"c1d85940d4edc9771dc39cd688d8fff1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404555771,
-    "wof:lastmodified":1577833199,
+    "wof:lastmodified":1695878542,
     "wof:name":"Carlos Chagas",
     "wof:parent_id":102053585,
     "wof:placetype":"localadmin",

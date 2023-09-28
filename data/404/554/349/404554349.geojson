@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009332,
-    "geom:area_square_m":108964902.14221,
+    "geom:area_square_m":108964902.142164,
     "geom:bbox":"-40.4960554464,-19.2937890301,-40.364855497,-19.0793205533",
     "geom:latitude":-19.208793,
     "geom:longitude":-40.44492,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.214578,
     "lbl:longitude":-40.454856,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Governador Lindenberg"
@@ -91,9 +100,12 @@
         102051877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320225605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"78f7a678596b381001f7f0c2f2307ed4",
+    "wof:geomhash":"331fed6f5d02dbf9a89221fc4a5c305f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404554349,
-    "wof:lastmodified":1577832841,
+    "wof:lastmodified":1695878425,
     "wof:name":"Governador Lindenberg",
     "wof:parent_id":102051877,
     "wof:placetype":"localadmin",

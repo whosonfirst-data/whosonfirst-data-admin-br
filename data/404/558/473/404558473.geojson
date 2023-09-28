@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014814,
-    "geom:area_square_m":171238044.574614,
+    "geom:area_square_m":171238044.574587,
     "geom:bbox":"-43.43363,-20.879786,-43.266389,-20.738104",
     "geom:latitude":-20.801,
     "geom:longitude":-43.349449,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.803951,
     "lbl:longitude":-43.3562,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054997,
         1511777411,
-        85681941
+        102054997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316600605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054997
     ],
     "wof:country":"BR",
-    "wof:geomhash":"746bca30068d4e0dc9e64e0e2e692928",
+    "wof:geomhash":"8866895ebcc1a30617364a8033282b85",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404558473,
-    "wof:lastmodified":1608030546,
+    "wof:lastmodified":1695878778,
     "wof:name":"Senhora De Oliveira",
     "wof:parent_id":102054997,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018674,
-    "geom:area_square_m":216065351.977532,
+    "geom:area_square_m":216065351.97741,
     "geom:bbox":"-42.419909,-20.7572969969,-42.21612,-20.5697869969",
     "geom:latitude":-20.654675,
     "geom:longitude":-42.314344,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.628727,
     "lbl:longitude":-42.338114,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09c7\u09b0\u09cd\u09ad\u09c7\u09a1\u09cb\u0989\u09b0\u09cb"
@@ -94,9 +103,12 @@
         102053899
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312595205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"67052b0fe10fdc62c495368c65dca7f4",
+    "wof:geomhash":"d5cbcd6677e85ff990fd26c0ae7e931f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404556391,
-    "wof:lastmodified":1577832881,
+    "wof:lastmodified":1695878442,
     "wof:name":"Fervedouro",
     "wof:parent_id":102053899,
     "wof:placetype":"localadmin",

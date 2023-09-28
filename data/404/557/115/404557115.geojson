@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001192,
-    "geom:area_square_m":13828892.296004,
+    "geom:area_square_m":13828892.296005,
     "geom:bbox":"-42.21763,-20.2497279969,-42.14661,-20.2001929969",
     "geom:latitude":-20.231299,
     "geom:longitude":-42.172284,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.238141,
     "lbl:longitude":-42.175779,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Vilanova"
@@ -79,9 +88,12 @@
         102054273
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313940940"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bc0e4a0c3b5fa13535b8dbb9eccbd44a",
+    "wof:geomhash":"03e9a74ab433c0c8169a3a0d0e7b802d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404557115,
-    "wof:lastmodified":1577832883,
+    "wof:lastmodified":1695878443,
     "wof:name":"Vilanova",
     "wof:parent_id":102054273,
     "wof:placetype":"localadmin",

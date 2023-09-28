@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054189,
-    "geom:area_square_m":618000799.249099,
+    "geom:area_square_m":618000799.249077,
     "geom:bbox":"-44.508494,-22.885371,-44.161365,-22.587849",
     "geom:latitude":-22.733835,
     "geom:longitude":-44.33452,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.740221,
     "lbl:longitude":-44.331843,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bananal"
@@ -48,19 +57,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061115,
         1511777411,
-        85682041
+        102061115
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350490905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061115
     ],
     "wof:country":"BR",
-    "wof:geomhash":"b5fe169c7be44f37b9c1ba2a61d193b7",
+    "wof:geomhash":"c5d4227dbefc801a50d9f78184576d8c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":404566145,
-    "wof:lastmodified":1608030809,
+    "wof:lastmodified":1695878783,
     "wof:name":"Bananal",
     "wof:parent_id":102061115,
     "wof:placetype":"localadmin",

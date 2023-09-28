@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016271,
-    "geom:area_square_m":182984445.820093,
+    "geom:area_square_m":182984445.820108,
     "geom:bbox":"-51.8791957762,-24.6500485929,-51.720397496,-24.4492662988",
     "geom:latitude":-24.564219,
     "geom:longitude":-51.802548,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.5792,
     "lbl:longitude":-51.801342,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vila Nova"
@@ -73,9 +82,12 @@
         102058015
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411960840"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"91276c3ad8e895c6027559b32e5fe6ec",
+    "wof:geomhash":"1b8b16fc0c55f56294b8f0e18e5b0ca1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404561653,
-    "wof:lastmodified":1577827802,
+    "wof:lastmodified":1695878224,
     "wof:name":"Vila Nova",
     "wof:parent_id":102058015,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077963,
-    "geom:area_square_m":869757731.722955,
+    "geom:area_square_m":869757862.349983,
     "geom:bbox":"-51.818775,-25.682228,-51.267181,-25.431081",
     "geom:latitude":-25.549002,
     "geom:longitude":-51.53013,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.533569,
     "lbl:longitude":-51.525958,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Entre Rios"
@@ -88,9 +97,12 @@
         102057709
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410940135"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"095013e313103979b57c616c1b3fb99a",
+    "wof:geomhash":"a2e7e4017b7b80edd7124e7b266d3df5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404561213,
-    "wof:lastmodified":1636496430,
+    "wof:lastmodified":1695878860,
     "wof:name":"Entre Rios",
     "wof:parent_id":102057709,
     "wof:placetype":"localadmin",

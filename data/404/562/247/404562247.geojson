@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003496,
-    "geom:area_square_m":40049484.069813,
+    "geom:area_square_m":40049484.069762,
     "geom:bbox":"-42.6173702727,-22.1438730354,-42.5409081964,-22.0317308149",
     "geom:latitude":-22.093099,
     "geom:longitude":-42.577831,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.124462,
     "lbl:longitude":-42.586807,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u09b0\u09cd\u0997\u09c7\u09ae \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
@@ -88,9 +97,12 @@
         102058357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330160335"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4617e21985b1ce8d8be6fc742f18c085",
+    "wof:geomhash":"da4d6bc7f34ef24b4832c56e6d2c9b49",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404562247,
-    "wof:lastmodified":1577833372,
+    "wof:lastmodified":1695878596,
     "wof:name":"Vargem Grande",
     "wof:parent_id":102058357,
     "wof:placetype":"localadmin",

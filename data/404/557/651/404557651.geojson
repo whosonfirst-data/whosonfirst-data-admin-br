@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003578,
-    "geom:area_square_m":41687705.373733,
+    "geom:area_square_m":41687705.373751,
     "geom:bbox":"-44.0509994735,-19.6235321543,-43.963086,-19.5545734137",
     "geom:latitude":-19.581655,
     "geom:longitude":-44.006206,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.58062,
     "lbl:longitude":-44.006208,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054545
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314930917"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"80e569928c0492c168c006d48c45061f",
+    "wof:geomhash":"b3f7c75cb0a4152290992487f30da063",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557651,
-    "wof:lastmodified":1577833089,
+    "wof:lastmodified":1695878510,
     "wof:name":"Lagoa De Santo Ant\u00f4nio",
     "wof:parent_id":102054545,
     "wof:placetype":"localadmin",

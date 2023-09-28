@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010095,
-    "geom:area_square_m":116325665.028733,
+    "geom:area_square_m":116325665.028758,
     "geom:bbox":"-48.8700520982,-21.3321150196,-48.7321651303,-21.214444428",
     "geom:latitude":-21.266999,
     "geom:longitude":-48.800165,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.266484,
     "lbl:longitude":-48.805749,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u0986\u09a1\u09c7\u09b2\u09bf\u09af\u09bc\u09be"
@@ -91,9 +100,12 @@
         102062141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354560505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"69a46cdc5a40bfdde29b0bbb12f8a5f1",
+    "wof:geomhash":"b6dc35c629450aa6049d52ca5d684dfb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404567149,
-    "wof:lastmodified":1577833360,
+    "wof:lastmodified":1695878592,
     "wof:name":"Santa Ad\u00e9lia",
     "wof:parent_id":102062141,
     "wof:placetype":"localadmin",

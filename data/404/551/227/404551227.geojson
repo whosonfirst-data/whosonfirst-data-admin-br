@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070244,
-    "geom:area_square_m":852235384.865939,
+    "geom:area_square_m":852235384.866056,
     "geom:bbox":"-38.2927307174,-11.3717512948,-37.9740924464,-10.8639758722",
     "geom:latitude":-11.133086,
     "geom:longitude":-38.151232,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.096729,
     "lbl:longitude":-38.191005,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09ae\u09ac\u09be\u0987\u09ac\u09be"
@@ -88,9 +97,12 @@
         102050899
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291650010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f2c95dce4b0522eca819ce211688f1f9",
+    "wof:geomhash":"deb22ed7d5785fb3e82795bceabe401c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404551227,
-    "wof:lastmodified":1577837699,
+    "wof:lastmodified":1695878677,
     "wof:name":"Samba\u00edba",
     "wof:parent_id":102050899,
     "wof:placetype":"localadmin",

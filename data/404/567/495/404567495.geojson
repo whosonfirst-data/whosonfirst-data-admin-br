@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053786,
-    "geom:area_square_m":618955879.428103,
+    "geom:area_square_m":618955879.428101,
     "geom:bbox":"-47.82977,-21.5922651885,-47.3797489284,-21.3399235235",
     "geom:latitude":-21.461521,
     "geom:longitude":-47.568273,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.476037,
     "lbl:longitude":-47.56834,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102062269
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355090205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5569464c909704970dba8587a827fd34",
+    "wof:geomhash":"3c87c52e1e5e6ef41910e46b95124611",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404567495,
-    "wof:lastmodified":1577833023,
+    "wof:lastmodified":1695878489,
     "wof:name":"S\u00e3o Sim\u00e3o",
     "wof:parent_id":102062269,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081171,
-    "geom:area_square_m":882124600.782437,
+    "geom:area_square_m":882124600.782386,
     "geom:bbox":"-50.7649180158,-28.6696933197,-50.2180905163,-28.248531649",
     "geom:latitude":-28.49263,
     "geom:longitude":-50.473872,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.562326,
     "lbl:longitude":-50.364626,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Casa Branca"
@@ -55,9 +64,12 @@
         102059147
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430230313"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"933bf275412ba5a7ba098da8f6fcdadb",
+    "wof:geomhash":"b7499c67e76277f2f3d49c1628925302",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":404563109,
-    "wof:lastmodified":1577827723,
+    "wof:lastmodified":1695878188,
     "wof:name":"Casa Branca",
     "wof:parent_id":102059147,
     "wof:placetype":"localadmin",

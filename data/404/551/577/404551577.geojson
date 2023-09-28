@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085708,
-    "geom:area_square_m":1007214244.17564,
+    "geom:area_square_m":1007214244.175732,
     "geom:bbox":"-39.9184251722,-18.3485602608,-39.491538126,-17.9772916776",
     "geom:latitude":-18.123582,
     "geom:longitude":-39.715779,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.134312,
     "lbl:longitude":-39.730275,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09c1\u0995\u09c1\u09b0\u09bf"
@@ -94,9 +103,12 @@
         102051057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292200305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b1859dbb5e217f0352a7ca3da1d4ae56",
+    "wof:geomhash":"467e350e8214d5c19eb387a4c670406d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404551577,
-    "wof:lastmodified":1577837748,
+    "wof:lastmodified":1695878689,
     "wof:name":"Mucuri",
     "wof:parent_id":102051057,
     "wof:placetype":"localadmin",

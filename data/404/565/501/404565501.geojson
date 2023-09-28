@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0225,
-    "geom:area_square_m":247806645.934533,
+    "geom:area_square_m":247806645.934845,
     "geom:bbox":"-52.248447,-27.155506,-52.042436,-26.925444",
     "geom:latitude":-27.04005,
     "geom:longitude":-52.152887,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.04744,
     "lbl:longitude":-52.168349,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09aa\u09c1\u09ae\u09bf\u09b0\u09bf\u09ae"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060453,
         1511777409,
-        85682021
+        102060453
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420770005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060453
     ],
     "wof:country":"BR",
-    "wof:geomhash":"1a25973a665cb9668c1080d5a9a62751",
+    "wof:geomhash":"0f3cc403d201a94dd05bf13486970577",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404565501,
-    "wof:lastmodified":1608034344,
+    "wof:lastmodified":1695878822,
     "wof:name":"Ipumirim",
     "wof:parent_id":102060453,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015821,
-    "geom:area_square_m":195433176.437429,
+    "geom:area_square_m":195433176.437432,
     "geom:bbox":"-44.1224910161,-2.65033418807,-43.9588271097,-2.46535586443",
     "geom:latitude":-2.544452,
     "geom:longitude":-44.036705,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-2.543299,
     "lbl:longitude":-44.028666,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053175
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"211120105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c765ba0eb32e10c3da7a57f84ae113af",
+    "wof:geomhash":"31cd90c399c8ef5e76fb3bbf5e2d17ab",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555079,
-    "wof:lastmodified":1577837898,
+    "wof:lastmodified":1695878725,
     "wof:name":"S\u00e3o Jos\u00e9 De Ribamar",
     "wof:parent_id":102053175,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037739,
-    "geom:area_square_m":447888638.082361,
+    "geom:area_square_m":447888638.082283,
     "geom:bbox":"-42.7257,-16.456943,-42.469967,-16.161414",
     "geom:latitude":-16.301242,
     "geom:longitude":-42.586283,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.336644,
     "lbl:longitude":-42.556264,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09a1\u09cd\u09b0\u09c7 \u0995\u09be\u09b0\u09cd\u09ad\u09be\u09b2\u09b9\u09cb"
@@ -97,12 +106,15 @@
         102054467
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314625505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054467
     ],
     "wof:country":"BR",
-    "wof:geomhash":"fa475c4c46ab7939755a3586f93c40c4",
+    "wof:geomhash":"e2abadc472208f91ea8478751e9f0507",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404557503,
-    "wof:lastmodified":1617131468,
+    "wof:lastmodified":1695878851,
     "wof:name":"Padre Carvalho",
     "wof:parent_id":102054467,
     "wof:placetype":"localadmin",

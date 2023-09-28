@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114198,
-    "geom:area_square_m":1222245517.056213,
+    "geom:area_square_m":1222245517.056326,
     "geom:bbox":"-56.8889008921,-30.2058840118,-56.150267888,-29.91256692",
     "geom:latitude":-30.053204,
     "geom:longitude":-56.546816,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.058144,
     "lbl:longitude":-56.675277,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09c7\u09b0\u09cd\u099f\u09c7\u09a8\u099f\u09c7\u09b8"
@@ -85,9 +94,12 @@
         102060101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432240035"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"fd2a7a4238f8884a99ca517cc06fd12c",
+    "wof:geomhash":"df01e1ae953da55ae8bc1b05876c6fee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404565019,
-    "wof:lastmodified":1577827888,
+    "wof:lastmodified":1695878265,
     "wof:name":"Vertentes",
     "wof:parent_id":102060101,
     "wof:placetype":"localadmin",

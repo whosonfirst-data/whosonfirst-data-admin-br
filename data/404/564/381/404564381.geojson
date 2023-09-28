@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007766,
-    "geom:area_square_m":83497568.283649,
+    "geom:area_square_m":83497514.811536,
     "geom:bbox":"-52.478401,-29.644494,-52.34632,-29.540344",
     "geom:latitude":-29.595201,
     "geom:longitude":-52.419035,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.592715,
     "lbl:longitude":-52.418015,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09df\u09be \u09ad\u09bf\u09b8\u09cd\u09a4\u09be"
@@ -127,9 +136,12 @@
         102059853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431680810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4c6e6ae9584479603aab93567c9b3724",
+    "wof:geomhash":"3e9ce7082b7134e5ddd924449732e741",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +153,7 @@
         }
     ],
     "wof:id":404564381,
-    "wof:lastmodified":1636496447,
+    "wof:lastmodified":1695878866,
     "wof:name":"Boa Vista",
     "wof:parent_id":102059853,
     "wof:placetype":"localadmin",

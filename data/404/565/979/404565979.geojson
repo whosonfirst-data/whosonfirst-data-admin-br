@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027129,
-    "geom:area_square_m":299034530.978811,
+    "geom:area_square_m":299034530.978804,
     "geom:bbox":"-51.862905,-27.051694,-51.622799,-26.838985",
     "geom:latitude":-26.945597,
     "geom:longitude":-51.75609,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.944607,
     "lbl:longitude":-51.754293,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u09b0\u09cd\u0997\u09c7\u09ae \u09ac\u09cb\u09a8\u09bf\u099f\u09be"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060167,
         1511777409,
-        85682021
+        102060167
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421917605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060167
     ],
     "wof:country":"BR",
-    "wof:geomhash":"07b84fc4ff424e8bc2bd908e8212d1b7",
+    "wof:geomhash":"bee0ec535a2715f948cdc7e6d1bd920e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404565979,
-    "wof:lastmodified":1608034293,
+    "wof:lastmodified":1695878821,
     "wof:name":"Vargem Bonita",
     "wof:parent_id":102060167,
     "wof:placetype":"localadmin",

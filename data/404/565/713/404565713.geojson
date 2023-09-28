@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007015,
-    "geom:area_square_m":76215952.905317,
+    "geom:area_square_m":76215952.905338,
     "geom:bbox":"-49.2902744655,-28.5905385039,-49.1928561374,-28.464475112",
     "geom:latitude":-28.514167,
     "geom:longitude":-49.237352,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.505648,
     "lbl:longitude":-49.232568,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Azambuja"
@@ -91,9 +100,12 @@
         102060613
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421240310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0d7f0af2902b137c798ffdb32ab686c2",
+    "wof:geomhash":"66608597ad815a3106b8581940bb49c0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404565713,
-    "wof:lastmodified":1577827962,
+    "wof:lastmodified":1695878299,
     "wof:name":"Azambuja",
     "wof:parent_id":102060613,
     "wof:placetype":"localadmin",

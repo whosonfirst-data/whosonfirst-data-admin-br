@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004045,
-    "geom:area_square_m":49229686.589018,
+    "geom:area_square_m":49229686.589019,
     "geom:bbox":"-36.943424,-10.228199,-36.845836,-10.145069",
     "geom:latitude":-10.192723,
     "geom:longitude":-36.888448,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.192624,
     "lbl:longitude":-36.887701,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09af\u09bc\u09c7\u09b2\u09b9\u09be"
@@ -75,19 +84,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682037,
         102191577,
         85633009,
-        102060979,
         1511777415,
-        85682037
+        102060979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"280730305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060979
     ],
     "wof:country":"BR",
-    "wof:geomhash":"48499d9ac8a34248610867179dd748d6",
+    "wof:geomhash":"4af03eac313f419579af6d925a0a8d6a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404566039,
-    "wof:lastmodified":1608030800,
+    "wof:lastmodified":1695878782,
     "wof:name":"Telha",
     "wof:parent_id":102060979,
     "wof:placetype":"localadmin",

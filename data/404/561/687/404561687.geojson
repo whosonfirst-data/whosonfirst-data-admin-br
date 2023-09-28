@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014768,
-    "geom:area_square_m":164170044.612344,
+    "geom:area_square_m":164170044.612356,
     "geom:bbox":"-53.8429392965,-26.0452259074,-53.6503265638,-25.9123737921",
     "geom:latitude":-25.971904,
     "geom:longitude":-53.751359,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.973718,
     "lbl:longitude":-53.751257,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cd\u09b0\u09be\u09a8\u099a\u09bf\u099f\u09be"
@@ -94,9 +103,12 @@
         102058041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412035805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"74d61f1955c31c478fa9766fd02fae67",
+    "wof:geomhash":"4e0f08c4f927e8c29f8c90dc42a7178c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404561687,
-    "wof:lastmodified":1577827940,
+    "wof:lastmodified":1695878289,
     "wof:name":"Pranchita",
     "wof:parent_id":102058041,
     "wof:placetype":"localadmin",

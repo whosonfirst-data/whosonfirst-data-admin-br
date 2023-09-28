@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015006,
-    "geom:area_square_m":185208160.202924,
+    "geom:area_square_m":185208160.202952,
     "geom:bbox":"-39.5525450528,-3.58281214941,-39.4013077821,-3.39696045658",
     "geom:latitude":-3.482946,
     "geom:longitude":-39.477264,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.481077,
     "lbl:longitude":-39.478419,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051597
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230640547"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cb275ccb54e93f8cee9b2cd7a697ae63",
+    "wof:geomhash":"83964533ad952a096fd407549a22d151",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553147,
-    "wof:lastmodified":1577837906,
+    "wof:lastmodified":1695878727,
     "wof:name":"Deserto",
     "wof:parent_id":102051597,
     "wof:placetype":"localadmin",

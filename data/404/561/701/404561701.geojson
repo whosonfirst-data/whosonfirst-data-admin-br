@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113412,
-    "geom:area_square_m":1269058773.061532,
+    "geom:area_square_m":1269058773.061616,
     "geom:bbox":"-51.2306755426,-25.439831422,-50.7997276815,-24.9136988508",
     "geom:latitude":-25.184287,
     "geom:longitude":-51.042223,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.19066,
     "lbl:longitude":-51.056894,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09b0\u09c1\u09a1\u09c7\u09a8\u099f\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -94,9 +103,12 @@
         102058049
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412060605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"56b2dabc63f792f6bca6db387f2e6432",
+    "wof:geomhash":"f458f05d5ace3b6c21ffcf72637146c9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404561701,
-    "wof:lastmodified":1577827934,
+    "wof:lastmodified":1695878287,
     "wof:name":"Prudent\u00f3polis",
     "wof:parent_id":102058049,
     "wof:placetype":"localadmin",

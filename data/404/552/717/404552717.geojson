@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007903,
-    "geom:area_square_m":97452694.175647,
+    "geom:area_square_m":97452694.175644,
     "geom:bbox":"-38.5513568358,-4.36732774611,-38.3926123799,-4.22506275558",
     "geom:latitude":-4.287045,
     "geom:longitude":-38.481334,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.293278,
     "lbl:longitude":-38.482472,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09b9\u09cb\u09b0\u09cb\u099c\u09bf\u09a8\u09b9\u09cb"
@@ -85,9 +94,12 @@
         102051507
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230395605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4dce7faa554810b70402159ec679af74",
+    "wof:geomhash":"e4868d8ca9bd8d938f0255cf77b060b2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404552717,
-    "wof:lastmodified":1577837783,
+    "wof:lastmodified":1695878696,
     "wof:name":"Chorozinho",
     "wof:parent_id":102051507,
     "wof:placetype":"localadmin",

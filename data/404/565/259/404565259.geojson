@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021839,
-    "geom:area_square_m":242339139.75436,
+    "geom:area_square_m":242339139.754331,
     "geom:bbox":"-49.4315377065,-26.2679563135,-49.155724,-26.1089289722",
     "geom:latitude":-26.179505,
     "geom:longitude":-49.276905,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.189311,
     "lbl:longitude":-49.2748,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Campo Alegre"
@@ -70,9 +79,12 @@
         102060307
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420330305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0fb40e1671daf3574f959510fc571ba0",
+    "wof:geomhash":"2b950715763805e9d5412956d6cb2a7d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404565259,
-    "wof:lastmodified":1577827753,
+    "wof:lastmodified":1695878202,
     "wof:name":"Campo Alegre",
     "wof:parent_id":102060307,
     "wof:placetype":"localadmin",

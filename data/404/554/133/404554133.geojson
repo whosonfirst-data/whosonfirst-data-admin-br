@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007001,
-    "geom:area_square_m":81027308.751922,
+    "geom:area_square_m":81027308.751962,
     "geom:bbox":"-41.4880368486,-20.6648354306,-41.3721486141,-20.5610934853",
     "geom:latitude":-20.616174,
     "geom:longitude":-41.4318,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.606819,
     "lbl:longitude":-41.432678,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320020110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"fd6f7d12ee0da2bb220896762eb819f2",
+    "wof:geomhash":"9feb97b7bc345bfac5958ea8547517a1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554133,
-    "wof:lastmodified":1577832657,
+    "wof:lastmodified":1695878361,
     "wof:name":"Anutiba",
     "wof:parent_id":102051825,
     "wof:placetype":"localadmin",

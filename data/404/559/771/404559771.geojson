@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040487,
-    "geom:area_square_m":500586955.530477,
+    "geom:area_square_m":500586955.530394,
     "geom:bbox":"-48.2932631202,-0.875106144907,-47.9518984035,-0.581730559175",
     "geom:latitude":-0.702629,
     "geom:longitude":-48.110265,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-0.692882,
     "lbl:longitude":-48.112927,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055921
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150710205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4403b5711fe7b16120be3ddab10a345d",
+    "wof:geomhash":"7faf6466249f439dad2027c73fc1cca7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559771,
-    "wof:lastmodified":1577825699,
+    "wof:lastmodified":1695878171,
     "wof:name":"S\u00e3o Caetano De Odivelas",
     "wof:parent_id":102055921,
     "wof:placetype":"localadmin",

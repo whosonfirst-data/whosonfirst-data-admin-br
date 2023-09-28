@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025639,
-    "geom:area_square_m":310905107.181973,
+    "geom:area_square_m":310905107.18194,
     "geom:bbox":"-48.0926195766,-11.3652392779,-47.7687132392,-11.2051159771",
     "geom:latitude":-11.283461,
     "geom:longitude":-47.899269,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.288341,
     "lbl:longitude":-47.8834,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Cangas"
@@ -70,9 +79,12 @@
         102062705
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"171890710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a622230392f00ae64f527eab214fdcd3",
+    "wof:geomhash":"66d0d7b508e77fcaaff789a84408db69",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404567677,
-    "wof:lastmodified":1577825689,
+    "wof:lastmodified":1695878165,
     "wof:name":"Cangas",
     "wof:parent_id":102062705,
     "wof:placetype":"localadmin",

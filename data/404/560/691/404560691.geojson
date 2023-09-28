@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007391,
-    "geom:area_square_m":90497533.209825,
+    "geom:area_square_m":90497533.209829,
     "geom:bbox":"-35.1124169475,-8.06014277403,-34.9932577292,-7.94144878913",
     "geom:latitude":-7.998788,
     "geom:longitude":-35.048639,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.993564,
     "lbl:longitude":-35.053623,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261370105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ee173e25fcc9d6d8085a1c44fcdb98eb",
+    "wof:geomhash":"1e3f9d8b9a3a773ac6399147e2c89cdd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560691,
-    "wof:lastmodified":1577837926,
+    "wof:lastmodified":1695878733,
     "wof:name":"S\u00e3o Louren\u00e7o Da Mata",
     "wof:parent_id":102056835,
     "wof:placetype":"localadmin",

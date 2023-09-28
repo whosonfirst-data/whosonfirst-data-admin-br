@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015916,
-    "geom:area_square_m":181883638.373398,
+    "geom:area_square_m":181883638.373396,
     "geom:bbox":"-43.303735,-22.522767,-43.022311,-22.400931",
     "geom:latitude":-22.453314,
     "geom:longitude":-43.156881,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.461707,
     "lbl:longitude":-43.119738,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102058427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330390610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101953311
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a7687d8595b103a6bb86cbb536f84508",
+    "wof:geomhash":"7e21efe41687313b31c583dd584cb233",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404562425,
-    "wof:lastmodified":1617131267,
+    "wof:lastmodified":1695878844,
     "wof:name":"Cascatinha",
     "wof:parent_id":102058427,
     "wof:placetype":"localadmin",

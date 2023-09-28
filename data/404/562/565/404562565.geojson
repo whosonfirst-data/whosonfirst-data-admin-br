@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003443,
-    "geom:area_square_m":39544362.500283,
+    "geom:area_square_m":39544362.500297,
     "geom:bbox":"-41.0967379086,-21.8022789166,-41.0295520082,-21.7181628371",
     "geom:latitude":-21.759978,
     "geom:longitude":-41.067032,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.759508,
     "lbl:longitude":-41.069683,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u099c\u09c1\u09af\u09bc\u09c7\u0987\u09b0\u09cb"
@@ -94,9 +103,12 @@
         102058469
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330500016"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"41dfbd5dc2798f8e6a95e319396c3943",
+    "wof:geomhash":"9236e15703b5b0ffa203276058a1f32b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404562565,
-    "wof:lastmodified":1577832994,
+    "wof:lastmodified":1695878479,
     "wof:name":"Cajueiro",
     "wof:parent_id":102058469,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019921,
-    "geom:area_square_m":244238187.234774,
+    "geom:area_square_m":244238187.234807,
     "geom:bbox":"-36.2232416773,-7.54609262265,-36.0491622611,-7.34629657086",
     "geom:latitude":-7.468146,
     "geom:longitude":-36.143291,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.469742,
     "lbl:longitude":-36.150521,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u0995\u09c1\u09af\u09bc\u09c7\u0987\u09b0\u09be\u0993"
@@ -88,9 +97,12 @@
         102056061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250250805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ef530c0b4d165e4ddd7a900dd28b4a6d",
+    "wof:geomhash":"07aa7a8b4787ee3472b116ec08fe3548",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404559861,
-    "wof:lastmodified":1577837687,
+    "wof:lastmodified":1695878675,
     "wof:name":"Boqueir\u00e3o",
     "wof:parent_id":102056061,
     "wof:placetype":"localadmin",

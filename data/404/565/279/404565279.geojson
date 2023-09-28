@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009192,
-    "geom:area_square_m":101006743.406378,
+    "geom:area_square_m":101006743.406434,
     "geom:bbox":"-51.13992979,-27.3377964564,-51.0007152479,-27.233501956",
     "geom:latitude":-27.289366,
     "geom:longitude":-51.068337,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.293583,
     "lbl:longitude":-51.069666,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060313
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420360020"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3baadc9a504c5775eaf7ffb5772a3c5c",
+    "wof:geomhash":"c7244a65ed64ccf1add444f724c18767",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565279,
-    "wof:lastmodified":1577827817,
+    "wof:lastmodified":1695878231,
     "wof:name":"Espinilho",
     "wof:parent_id":102060313,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003577,
-    "geom:area_square_m":44143560.030714,
+    "geom:area_square_m":44143560.030724,
     "geom:bbox":"-39.4676956653,-3.50081166633,-39.3321628796,-3.40184546269",
     "geom:latitude":-3.461053,
     "geom:longitude":-39.410161,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.467338,
     "lbl:longitude":-39.40912,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051795
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231355910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a3545b8bf7e1b85e76bf676ff245f38f",
+    "wof:geomhash":"4b61911458e8b21c7b19b06ba26ba16b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554013,
-    "wof:lastmodified":1577837878,
+    "wof:lastmodified":1695878720,
     "wof:name":"Cemoaba",
     "wof:parent_id":102051795,
     "wof:placetype":"localadmin",

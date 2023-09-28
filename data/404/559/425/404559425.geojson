@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038831,
-    "geom:area_square_m":472324925.964247,
+    "geom:area_square_m":472324925.964183,
     "geom:bbox":"-55.2697340997,-10.4820178242,-54.9409813438,-10.2169966484",
     "geom:latitude":-10.362696,
     "geom:longitude":-55.08509,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.361657,
     "lbl:longitude":-55.087548,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055637
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510805515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2a4a7af62a687d69e896cbc68612e58d",
+    "wof:geomhash":"6506b67172c073f0ad7a0f4a9e98bb54",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559425,
-    "wof:lastmodified":1577836156,
+    "wof:lastmodified":1695878644,
     "wof:name":"Miragua\u00ed Do Norte",
     "wof:parent_id":102055637,
     "wof:placetype":"localadmin",

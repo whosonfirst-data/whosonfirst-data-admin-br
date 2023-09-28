@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037518,
-    "geom:area_square_m":445762233.15017,
+    "geom:area_square_m":445762233.150196,
     "geom:bbox":"-44.235696,-16.205907,-43.9691,-15.970542",
     "geom:latitude":-16.080637,
     "geom:longitude":-44.101417,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.082741,
     "lbl:longitude":-44.101534,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Patis"
@@ -33,19 +42,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054509,
         1511777411,
-        85681941
+        102054509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314795605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054509
     ],
     "wof:country":"BR",
-    "wof:geomhash":"0717b98a29660e0d155094bc818cbb1c",
+    "wof:geomhash":"c3629e28b7881eabf4478e7d88049890",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":404557577,
-    "wof:lastmodified":1608032065,
+    "wof:lastmodified":1695878804,
     "wof:name":"Patis",
     "wof:parent_id":102054509,
     "wof:placetype":"localadmin",

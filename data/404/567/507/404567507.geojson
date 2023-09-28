@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024648,
-    "geom:area_square_m":283931494.527779,
+    "geom:area_square_m":283931494.527728,
     "geom:bbox":"-47.660916,-21.413982,-47.456544,-21.200545",
     "geom:latitude":-21.316059,
     "geom:longitude":-47.549694,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.318386,
     "lbl:longitude":-47.542661,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u09b0\u09be \u0986\u099c\u09c1\u09b2"
@@ -94,12 +103,15 @@
         102062281
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355140505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102062281
     ],
     "wof:country":"BR",
-    "wof:geomhash":"6963855cca1d5b996a3165f66b6fadd2",
+    "wof:geomhash":"98e10db17988823c9c058cc2d9384d0f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404567507,
-    "wof:lastmodified":1617131471,
+    "wof:lastmodified":1695878851,
     "wof:name":"Serra Azul",
     "wof:parent_id":102062281,
     "wof:placetype":"localadmin",

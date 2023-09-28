@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006398,
-    "geom:area_square_m":78400096.711438,
+    "geom:area_square_m":78400096.711441,
     "geom:bbox":"-39.1893526069,-7.71821910074,-39.0734224636,-7.60637506627",
     "geom:latitude":-7.664897,
     "geom:longitude":-39.13621,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.666514,
     "lbl:longitude":-39.140162,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051615
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230710607"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"de3b32e019cfd18f0e27a43d7e878e3a",
+    "wof:geomhash":"aa2e30046614af900fde4373416cc12a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553207,
-    "wof:lastmodified":1577837689,
+    "wof:lastmodified":1695878675,
     "wof:name":"Corrente",
     "wof:parent_id":102051615,
     "wof:placetype":"localadmin",

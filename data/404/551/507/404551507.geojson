@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027131,
-    "geom:area_square_m":327579724.867627,
+    "geom:area_square_m":327579724.86759,
     "geom:bbox":"-38.384838375,-12.5634702019,-38.059885791,-12.371993581",
     "geom:latitude":-12.462141,
     "geom:longitude":-38.229497,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.485385,
     "lbl:longitude":-38.299059,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051031
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292100505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"60674225e6ef244adceb3092abd93c50",
+    "wof:geomhash":"bfc1bc6b653e95a8bbca65ff19c3ba34",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551507,
-    "wof:lastmodified":1577837662,
+    "wof:lastmodified":1695878668,
     "wof:name":"Mata De S\u00e3o Jo\u00e3o",
     "wof:parent_id":102051031,
     "wof:placetype":"localadmin",

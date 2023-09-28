@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.383102,
-    "geom:area_square_m":4723026611.03551,
+    "geom:area_square_m":4723026611.035581,
     "geom:bbox":"-50.2652771176,-4.82024957615,-49.406157272,-3.95839223515",
     "geom:latitude":-4.418705,
     "geom:longitude":-49.796752,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.321947,
     "lbl:longitude":-49.754408,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09cb \u09b0\u09c7\u09aa\u09be\u09b0\u09cd\u099f\u09bf\u09ae\u09c7\u09a8\u099f\u09cb"
@@ -85,9 +94,12 @@
         102055841
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150506405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ea3f2222d3e34fdd16df01759cbe9175",
+    "wof:geomhash":"7f65b69e5287d06779bb0673cc1d0808",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404559699,
-    "wof:lastmodified":1577825663,
+    "wof:lastmodified":1695878152,
     "wof:name":"Novo Repartimento",
     "wof:parent_id":102055841,
     "wof:placetype":"localadmin",

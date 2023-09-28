@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012247,
-    "geom:area_square_m":149829749.010757,
+    "geom:area_square_m":149829749.010776,
     "geom:bbox":"-36.6275753692,-8.44520484431,-36.484623296,-8.27056297405",
     "geom:latitude":-8.355106,
     "geom:longitude":-36.556131,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.351157,
     "lbl:longitude":-36.561045,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09b9\u09be\u09b0\u09cb"
@@ -88,9 +97,12 @@
         102056799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261240605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"03c5369bcf0b60ab7ae0258180236be5",
+    "wof:geomhash":"db260b47e7e8af4389c04b11b4001f3b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404560637,
-    "wof:lastmodified":1577837928,
+    "wof:lastmodified":1695878733,
     "wof:name":"Sanhar\u00f3",
     "wof:parent_id":102056799,
     "wof:placetype":"localadmin",

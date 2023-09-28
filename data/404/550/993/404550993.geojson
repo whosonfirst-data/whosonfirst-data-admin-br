@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004251,
-    "geom:area_square_m":50928408.910659,
+    "geom:area_square_m":50928408.910673,
     "geom:bbox":"-39.5293037401,-14.3512257345,-39.440265467,-14.2685693933",
     "geom:latitude":-14.310833,
     "geom:longitude":-39.491947,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.308988,
     "lbl:longitude":-39.492634,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09cb\u09a8\u0997\u09cb\u0997\u09bf"
@@ -100,9 +109,12 @@
         102050777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291150105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"81f5c0ceb4ee2492a9b67e235d083bae",
+    "wof:geomhash":"778ae7eaff6694fe6ff394bdf1b0bd32",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404550993,
-    "wof:lastmodified":1577837974,
+    "wof:lastmodified":1695878744,
     "wof:name":"Gongogi",
     "wof:parent_id":102050777,
     "wof:placetype":"localadmin",

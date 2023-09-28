@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007719,
-    "geom:area_square_m":88315934.003007,
+    "geom:area_square_m":88315934.003039,
     "geom:bbox":"-44.3875889765,-22.3357996083,-44.2365998054,-22.2430613711",
     "geom:latitude":-22.286026,
     "geom:longitude":-44.312617,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.293163,
     "lbl:longitude":-44.313765,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Fuma\u00e7a"
@@ -37,9 +46,12 @@
         102058445
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330420120"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"60842b8f50c1962fdd36224821fb95bd",
+    "wof:geomhash":"924295b5b7b63c500b340afbd5876900",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404562463,
-    "wof:lastmodified":1577832949,
+    "wof:lastmodified":1695878467,
     "wof:name":"Fuma\u00e7a",
     "wof:parent_id":102058445,
     "wof:placetype":"localadmin",

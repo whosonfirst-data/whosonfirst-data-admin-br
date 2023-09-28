@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04363,
-    "geom:area_square_m":496244442.661356,
+    "geom:area_square_m":496244442.661485,
     "geom:bbox":"-45.6234824055,-23.2246396217,-45.2890155917,-22.9789929318",
     "geom:latitude":-23.098881,
     "geom:longitude":-45.467103,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.121652,
     "lbl:longitude":-45.483613,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0648\u0628\u0627\u062a\u064a"
@@ -160,9 +169,12 @@
         102062351
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355410205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"08510e01a794ce4c0b56714c6448d26b",
+    "wof:geomhash":"f20419aa876c1e0d3a8f39697810404e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -174,7 +186,7 @@
         }
     ],
     "wof:id":404567563,
-    "wof:lastmodified":1577833045,
+    "wof:lastmodified":1695878497,
     "wof:name":"Taubat\u00e9",
     "wof:parent_id":102062351,
     "wof:placetype":"localadmin",

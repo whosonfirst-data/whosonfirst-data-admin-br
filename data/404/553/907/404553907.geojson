@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018109,
-    "geom:area_square_m":223466109.187733,
+    "geom:area_square_m":223466109.187699,
     "geom:bbox":"-40.1262616367,-3.77309815043,-39.9760188052,-3.57184632904",
     "geom:latitude":-3.671744,
     "geom:longitude":-40.058719,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.675007,
     "lbl:longitude":-40.064774,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231290825"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8bfc2d89e9a066192b7e07bc4dd2c756",
+    "wof:geomhash":"8d74a9639cdc7d05b163ac54050b4c93",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553907,
-    "wof:lastmodified":1577837965,
+    "wof:lastmodified":1695878742,
     "wof:name":"Caracar\u00e1",
     "wof:parent_id":102051775,
     "wof:placetype":"localadmin",

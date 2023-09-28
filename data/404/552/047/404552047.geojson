@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024509,
-    "geom:area_square_m":297042229.075656,
+    "geom:area_square_m":297042229.075628,
     "geom:bbox":"-40.393864,-11.574035,-40.166495,-11.324935",
     "geom:latitude":-11.43656,
     "geom:longitude":-40.254937,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.440357,
     "lbl:longitude":-40.24724,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u09b0\u09cb\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
@@ -94,12 +103,15 @@
         102051307
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"293060005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102051307
     ],
     "wof:country":"BR",
-    "wof:geomhash":"6a0ac93987274512d21f703517f3aa81",
+    "wof:geomhash":"a209f0a5e40199e4574f9cf6950eabb1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404552047,
-    "wof:lastmodified":1617131366,
+    "wof:lastmodified":1695878847,
     "wof:name":"Serrol\u00e2ndia",
     "wof:parent_id":102051307,
     "wof:placetype":"localadmin",

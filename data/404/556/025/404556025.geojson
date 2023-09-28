@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020137,
-    "geom:area_square_m":232200773.596272,
+    "geom:area_square_m":232200773.596392,
     "geom:bbox":"-45.531443,-21.2913589968,-45.333311,-21.0645319968",
     "geom:latitude":-21.168357,
     "geom:longitude":-45.430829,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.182005,
     "lbl:longitude":-45.437583,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u0995\u09c1\u09af\u09bc\u09c7\u0987\u09b0\u09cd\u0986\u09b2"
@@ -94,9 +103,12 @@
         102053713
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311870005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"88a3d7efbcb3b2df596bf02de1f22660",
+    "wof:geomhash":"aadf17e138e56a713445284162b65d28",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404556025,
-    "wof:lastmodified":1577832574,
+    "wof:lastmodified":1695878325,
     "wof:name":"Coqueiral",
     "wof:parent_id":102053713,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040426,
-    "geom:area_square_m":473255470.349255,
+    "geom:area_square_m":473255470.349143,
     "geom:bbox":"-43.062563,-18.9355429971,-42.7598,-18.6541739971",
     "geom:latitude":-18.78174,
     "geom:longitude":-42.926288,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.775141,
     "lbl:longitude":-42.911386,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u063a\u0648\u0627\u0646\u0647\u0627\u064a\u0633"
@@ -100,9 +109,12 @@
         102053965
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312800605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1d13a4ddb0efa50317f9aaea116218d4",
+    "wof:geomhash":"9faacd8f669a123f985b6067493e50d4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404556521,
-    "wof:lastmodified":1577832948,
+    "wof:lastmodified":1695878466,
     "wof:name":"Guanh\u00e3es",
     "wof:parent_id":102053965,
     "wof:placetype":"localadmin",

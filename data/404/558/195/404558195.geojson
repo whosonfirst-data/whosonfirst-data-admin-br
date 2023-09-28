@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008954,
-    "geom:area_square_m":103078250.810556,
+    "geom:area_square_m":103078250.810576,
     "geom:bbox":"-43.4411965334,-21.4605119961,-43.29359,-21.3580159962",
     "geom:latitude":-21.412804,
     "geom:longitude":-43.364912,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.408692,
     "lbl:longitude":-43.35897,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316070210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"18ae4fed00e4e15c3c634e233e68be0b",
+    "wof:geomhash":"1b0ae129a5d3d52aecfeb6b88545fc6f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558195,
-    "wof:lastmodified":1577832735,
+    "wof:lastmodified":1695878388,
     "wof:name":"Concei\u00e7\u00e3o Do Formoso",
     "wof:parent_id":102054839,
     "wof:placetype":"localadmin",

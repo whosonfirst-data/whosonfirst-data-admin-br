@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005204,
-    "geom:area_square_m":59903195.020825,
+    "geom:area_square_m":59903195.020858,
     "geom:bbox":"-42.1445675911,-21.473886188,-42.0366014555,-21.3828714917",
     "geom:latitude":-21.424035,
     "geom:longitude":-42.096608,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.428624,
     "lbl:longitude":-42.100261,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058403
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330300510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bec51813318475bc7057974a6c1dadc6",
+    "wof:geomhash":"af5af912b9d32910192207f8368abe53",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562367,
-    "wof:lastmodified":1577833303,
+    "wof:lastmodified":1695878577,
     "wof:name":"Para\u00edso Do Tobias",
     "wof:parent_id":102058403,
     "wof:placetype":"localadmin",

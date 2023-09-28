@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122058,
-    "geom:area_square_m":1434846185.38313,
+    "geom:area_square_m":1434846185.382983,
     "geom:bbox":"-45.674201,-18.2649489972,-45.17995,-17.8471319972",
     "geom:latitude":-18.06824,
     "geom:longitude":-45.422709,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.070632,
     "lbl:longitude":-45.422711,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054869
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316170010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"55a8c943530bf7afad86256bf4e6e6f1",
+    "wof:geomhash":"0732e64571fca3ae062bb024d3a2f490",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558263,
-    "wof:lastmodified":1577832796,
+    "wof:lastmodified":1695878412,
     "wof:name":"Canoeiros",
     "wof:parent_id":102054869,
     "wof:placetype":"localadmin",

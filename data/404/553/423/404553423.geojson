@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017434,
-    "geom:area_square_m":214459527.893089,
+    "geom:area_square_m":214459527.89308,
     "geom:bbox":"-39.9598307963,-5.90137155429,-39.7406319585,-5.73385797846",
     "geom:latitude":-5.82819,
     "geom:longitude":-39.836139,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.832121,
     "lbl:longitude":-39.834489,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051659
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230850030"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"100a0054fb7522ffc36b8fb6388ab825",
+    "wof:geomhash":"5883964058bc4c7d917694d8a220d87b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553423,
-    "wof:lastmodified":1577837872,
+    "wof:lastmodified":1695878718,
     "wof:name":"S\u00e3o Gon\u00e7alo Do Umari",
     "wof:parent_id":102051659,
     "wof:placetype":"localadmin",

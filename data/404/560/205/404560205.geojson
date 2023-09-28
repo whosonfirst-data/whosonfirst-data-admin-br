@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00464,
-    "geom:area_square_m":56626058.347054,
+    "geom:area_square_m":56626058.347052,
     "geom:bbox":"-36.7639291028,-9.29639001691,-36.6579871139,-9.21990863408",
     "geom:latitude":-9.257757,
     "geom:longitude":-36.718179,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.259542,
     "lbl:longitude":-36.718988,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056537
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260210020"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"82ceec171b243ada0b261899788408b4",
+    "wof:geomhash":"dd3babc7a37ed34632217598be8f81e1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560205,
-    "wof:lastmodified":1577837913,
+    "wof:lastmodified":1695878729,
     "wof:name":"Lagoa De S\u00e3o Jos\u00e9",
     "wof:parent_id":102056537,
     "wof:placetype":"localadmin",

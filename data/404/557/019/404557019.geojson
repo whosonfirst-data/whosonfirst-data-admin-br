@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049146,
-    "geom:area_square_m":566319744.199732,
+    "geom:area_square_m":566319744.199641,
     "geom:bbox":"-45.180515,-21.401744,-44.864239,-21.124845",
     "geom:latitude":-21.264676,
     "geom:longitude":-45.038487,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.274949,
     "lbl:longitude":-45.062446,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0641\u0631\u0627\u0633"
@@ -109,12 +118,15 @@
         102054233
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313820305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054233
     ],
     "wof:country":"BR",
-    "wof:geomhash":"5f1f313f5c1d24b87770db933e530da2",
+    "wof:geomhash":"bd8da19f2ae1b3d0d9bec3bb4de0e9d9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +138,7 @@
         }
     ],
     "wof:id":404557019,
-    "wof:lastmodified":1636496434,
+    "wof:lastmodified":1695878862,
     "wof:name":"Lavras",
     "wof:parent_id":102054233,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025871,
-    "geom:area_square_m":319872331.089967,
+    "geom:area_square_m":319872331.089646,
     "geom:bbox":"-47.5924907767,-0.936464544889,-47.3772562998,-0.581353459702",
     "geom:latitude":-0.724846,
     "geom:longitude":-47.46171,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-0.695159,
     "lbl:longitude":-47.451142,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Maracan\u00e3"
@@ -76,9 +85,12 @@
         102055811
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150430705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"913d808d04b133bb2b36f49b85b6b9b0",
+    "wof:geomhash":"a3039aa3c1ae8212c6ce317f974326cd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404559647,
-    "wof:lastmodified":1577825662,
+    "wof:lastmodified":1695878151,
     "wof:name":"Maracan\u00e3",
     "wof:parent_id":102055811,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052279,
-    "geom:area_square_m":568372324.086393,
+    "geom:area_square_m":568372324.086539,
     "geom:bbox":"-55.1285584074,-28.5930299803,-54.7302406362,-28.3138305221",
     "geom:latitude":-28.448954,
     "geom:longitude":-54.907246,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.425315,
     "lbl:longitude":-54.937513,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09b2\u09c1\u0987\u099c \u0997\u09cb\u09a8\u099c\u09be\u0997\u09be"
@@ -88,9 +97,12 @@
         102059935
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431890305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9d725d360b01f5bcbe50cf2392424972",
+    "wof:geomhash":"862291c6224536a8d87a07d0f107c999",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404564685,
-    "wof:lastmodified":1577827931,
+    "wof:lastmodified":1695878286,
     "wof:name":"S\u00e3o Luiz Gonzaga",
     "wof:parent_id":102059935,
     "wof:placetype":"localadmin",
