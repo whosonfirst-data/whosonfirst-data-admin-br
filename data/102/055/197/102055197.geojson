@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.16031,
-    "geom:area_square_m":1832837379.576108,
+    "geom:area_square_m":1832837379.576123,
     "geom:bbox":"-53.3549320481,-22.7645650231,-52.9481915548,-21.9740706883",
     "geom:latitude":-22.390526,
     "geom:longitude":-53.177521,
@@ -32,7 +32,7 @@
     "mps:latitude":-22.396119,
     "mps:longitude":-53.174388,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u099f\u09be\u09af\u09bc\u09aa\u09cb\u09b0\u09be"
@@ -90,9 +90,12 @@
         1511777413
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"5002001"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6918e2221ec1941dcb5de85886d89da2",
+    "wof:geomhash":"ac2f79261723b202f5898879a7014abe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102055197,
-    "wof:lastmodified":1577836032,
+    "wof:lastmodified":1695887090,
     "wof:name":"Bataypora",
     "wof:parent_id":85681947,
     "wof:placetype":"county",

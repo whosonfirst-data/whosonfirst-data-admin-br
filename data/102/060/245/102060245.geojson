@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008822,
-    "geom:area_square_m":95391731.141079,
+    "geom:area_square_m":95391731.141046,
     "geom:bbox":"-49.566928,-29.0953035459,-49.3768345,-28.9412156265",
     "geom:latitude":-29.019156,
     "geom:longitude":-49.474793,
@@ -32,7 +32,7 @@
     "mps:latitude":-29.022643,
     "mps:longitude":-49.47629,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b2\u09a8\u09c7\u0986\u09b0\u09bf\u0993 \u0986\u09b0\u09cd\u09b0\u09cb\u0987\u0993 \u09a1\u09cb \u09b8\u09bf\u09b2\u09ad\u09be"
@@ -90,9 +90,12 @@
         1511777409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"4201950"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"20caa92fbf34289f7a160f8f1feb7c36",
+    "wof:geomhash":"c85fcb494f1ffaa3adcdb7435d3a60ba",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102060245,
-    "wof:lastmodified":1577827586,
+    "wof:lastmodified":1695887004,
     "wof:name":"Balneario Arroio do Silva",
     "wof:parent_id":85682021,
     "wof:placetype":"county",

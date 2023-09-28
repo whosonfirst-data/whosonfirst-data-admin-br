@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008989,
-    "geom:area_square_m":110539111.715575,
+    "geom:area_square_m":110538963.275636,
     "geom:bbox":"-38.086729,-6.096373,-37.954416,-5.962892",
     "geom:latitude":-6.032874,
     "geom:longitude":-38.014984,
@@ -29,7 +29,7 @@
     "mps:latitude":-6.034109,
     "mps:longitude":-38.015958,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u09b0\u09cd\u09a4\u09be\u09b2\u09c7\u0997\u09cd\u09b0\u09c7"
@@ -114,9 +114,12 @@
         1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2410207"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"63287f3986bf4a2ab2f4bdfeb83febb2",
+    "wof:geomhash":"beadefa4b1f3108d0caf30eecddfd26c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":102058759,
-    "wof:lastmodified":1636496134,
+    "wof:lastmodified":1695887146,
     "wof:name":"Portalegre",
     "wof:parent_id":85681999,
     "wof:placetype":"county",

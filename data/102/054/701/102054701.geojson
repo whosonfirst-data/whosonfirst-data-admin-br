@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01824,
-    "geom:area_square_m":209887596.686836,
+    "geom:area_square_m":209887596.686762,
     "geom:bbox":"-43.263368,-21.57101,-43.040754,-21.391196",
     "geom:latitude":-21.468571,
     "geom:longitude":-43.14391,
@@ -69,16 +69,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777411,
-        85681941
+        85681941,
+        1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3155405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404557945
     ],
     "wof:country":"BR",
-    "wof:geomhash":"b92fafd02096bc67640497f840ce1693",
+    "wof:geomhash":"ca964bde58b1bfa460c8c08a697eec4e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":102054701,
-    "wof:lastmodified":1608032052,
+    "wof:lastmodified":1695886420,
     "wof:name":"Rio Novo",
     "wof:parent_id":85681941,
     "wof:placetype":"county",

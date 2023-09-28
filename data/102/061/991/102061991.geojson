@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001526,
-    "geom:area_square_m":17304844.772069,
+    "geom:area_square_m":17304844.772045,
     "geom:bbox":"-46.368692,-23.57355,-46.324373,-23.504813",
     "geom:latitude":-23.530485,
     "geom:longitude":-46.346774,
@@ -32,7 +32,7 @@
     "mps:latitude":-23.523499,
     "mps:longitude":-46.34459,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0642\u0628\u0623"
@@ -182,17 +182,20 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777411,
-        85682041
+        85682041,
+        1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3539806"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101956171,
         404567017
     ],
     "wof:country":"BR",
-    "wof:geomhash":"e4f248ab40053919965cd561b40cdb8d",
+    "wof:geomhash":"9b340ce27e6664b456f9d2dfa4244ed8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":102061991,
-    "wof:lastmodified":1608030204,
+    "wof:lastmodified":1695887459,
     "wof:name":"Poa",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

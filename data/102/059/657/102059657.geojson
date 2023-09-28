@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008943,
-    "geom:area_square_m":97996449.876217,
+    "geom:area_square_m":97996449.876206,
     "geom:bbox":"-54.2099064369,-27.6538407078,-54.0436736778,-27.5511431115",
     "geom:latitude":-27.595809,
     "geom:longitude":-54.124848,
@@ -32,7 +32,7 @@
     "mps:latitude":-27.596177,
     "mps:longitude":-54.123583,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u0995\u09be\u09a8\u09cd\u09a1\u09c7\u09b2\u09be\u09b0\u09bf\u09af\u09bc\u09be"
@@ -90,9 +90,12 @@
         1511777409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"4313011"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cab04cef9fc5d552b65da51ea0bcc727",
+    "wof:geomhash":"3c7bee2d1e391d3bc64b4f7011968fb0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102059657,
-    "wof:lastmodified":1577827454,
+    "wof:lastmodified":1695886999,
     "wof:name":"Nova Candelaria",
     "wof:parent_id":85682015,
     "wof:placetype":"county",

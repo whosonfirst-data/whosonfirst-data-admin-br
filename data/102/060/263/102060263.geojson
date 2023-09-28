@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00839,
-    "geom:area_square_m":92559122.377136,
+    "geom:area_square_m":92559122.377112,
     "geom:bbox":"-53.696738,-26.89647,-53.545774,-26.808911",
     "geom:latitude":-26.856536,
     "geom:longitude":-53.617868,
@@ -132,16 +132,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777409,
-        85682021
+        85682021,
+        1511777409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"4202156"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404565205
     ],
     "wof:country":"BR",
-    "wof:geomhash":"3021ce3f684554768ec5091b7f5a5ac2",
+    "wof:geomhash":"061068cf19b789181c7713c399b63e7d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":102060263,
-    "wof:lastmodified":1608034278,
+    "wof:lastmodified":1695886424,
     "wof:name":"Belmonte",
     "wof:parent_id":85682021,
     "wof:placetype":"county",

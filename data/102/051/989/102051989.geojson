@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018182,
-    "geom:area_square_m":210680116.557023,
+    "geom:area_square_m":210680111.652173,
     "geom:bbox":"-40.484155,-20.535614,-40.250878,-20.319888",
     "geom:latitude":-20.433988,
     "geom:longitude":-40.378252,
@@ -29,7 +29,7 @@
     "mps:latitude":-20.469543,
     "mps:longitude":-40.394832,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627 \u0641\u0627\u0644\u064a\u0627"
@@ -177,9 +177,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3205200"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"18873052d6c6d0b9969a025b8d2119e8",
+    "wof:geomhash":"c58e0372273d088892862170d8dd337d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":102051989,
-    "wof:lastmodified":1642551833,
+    "wof:lastmodified":1695887183,
     "wof:name":"Vila Velha",
     "wof:parent_id":85681921,
     "wof:placetype":"county",

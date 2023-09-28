@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043413,
-    "geom:area_square_m":491312982.604578,
+    "geom:area_square_m":491312982.604613,
     "geom:bbox":"-46.242677,-23.888888,-45.794008,-23.643529",
     "geom:latitude":-23.759658,
     "geom:longitude":-46.030106,
@@ -29,7 +29,7 @@
     "mps:latitude":-23.768647,
     "mps:longitude":-46.048844,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b0\u09cd\u099f\u09bf\u0993\u0997\u09be"
@@ -129,12 +129,15 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3506359"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404566175
     ],
     "wof:country":"BR",
-    "wof:geomhash":"947a38dd776753ae8ff11277c408ad50",
+    "wof:geomhash":"6b1c59af0b7f5177da0ac101504091f3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":102061151,
-    "wof:lastmodified":1617130363,
+    "wof:lastmodified":1695887491,
     "wof:name":"Bertioga",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

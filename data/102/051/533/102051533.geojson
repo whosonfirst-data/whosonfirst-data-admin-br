@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02564,
-    "geom:area_square_m":316347006.301287,
+    "geom:area_square_m":316347006.30121,
     "geom:bbox":"-38.6365725681,-3.88817630195,-38.40132096,-3.692025",
     "geom:latitude":-3.785656,
     "geom:longitude":-38.527701,
@@ -29,7 +29,7 @@
     "mps:latitude":-3.78667,
     "mps:longitude":-38.52594,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Fortaleza"
@@ -327,9 +327,12 @@
         1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2304400"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c1e638fb398a6564c6f32fc718bcec8a",
+    "wof:geomhash":"05dce9f55a1929a15dc73a1954f405e7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -340,7 +343,7 @@
         }
     ],
     "wof:id":102051533,
-    "wof:lastmodified":1577837094,
+    "wof:lastmodified":1695887101,
     "wof:name":"Fortaleza",
     "wof:parent_id":85681907,
     "wof:placetype":"county",

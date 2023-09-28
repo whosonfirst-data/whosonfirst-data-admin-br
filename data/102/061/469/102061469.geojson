@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028151,
-    "geom:area_square_m":319456644.978002,
+    "geom:area_square_m":319456644.978,
     "geom:bbox":"-46.570683,-23.510097,-46.335875,-23.27381",
     "geom:latitude":-23.402693,
     "geom:longitude":-46.454874,
@@ -29,7 +29,7 @@
     "mps:latitude":-23.419757,
     "mps:longitude":-46.456677,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Guarulhos"
@@ -198,9 +198,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3518800"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"40d8de275fd7dd2d347fe6f0fcb2ecb6",
+    "wof:geomhash":"93597b71fe974a92371befeef3e63cab",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":102061469,
-    "wof:lastmodified":1577831308,
+    "wof:lastmodified":1695887037,
     "wof:name":"Guarulhos",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

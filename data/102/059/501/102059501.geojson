@@ -32,7 +32,7 @@
     "mps:latitude":-27.885826,
     "mps:longitude":-54.016624,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0987\u09a8\u09b9\u09be\u0995\u09cb\u09b0\u09be"
@@ -90,9 +90,12 @@
         1511777409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"4310413"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b67437f7d365181812fedc721d2db19a",
+    "wof:geomhash":"6d63eba3528160dc36853d7f76529e7b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102059501,
-    "wof:lastmodified":1577827450,
+    "wof:lastmodified":1695886999,
     "wof:name":"Inhacora",
     "wof:parent_id":85682015,
     "wof:placetype":"county",

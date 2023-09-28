@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002617,
-    "geom:area_square_m":32112364.701398,
+    "geom:area_square_m":32112364.701416,
     "geom:bbox":"-34.973791,-7.175584,-34.889617,-7.07942",
     "geom:latitude":-7.135064,
     "geom:longitude":-34.926,
@@ -29,7 +29,7 @@
     "mps:latitude":-7.147567,
     "mps:longitude":-34.933647,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ang_x_preferred":[
         "Baius"
@@ -212,16 +212,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777415,
-        85681967
+        85681967,
+        1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2501807"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404559849
     ],
     "wof:country":"BR",
-    "wof:geomhash":"193b3a12335a071fe7bb42c66eef7060",
+    "wof:geomhash":"1ba1a3d2189963456a8c062e427d4577",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -232,7 +235,7 @@
         }
     ],
     "wof:id":102056041,
-    "wof:lastmodified":1608031276,
+    "wof:lastmodified":1695887465,
     "wof:name":"Bayeux",
     "wof:parent_id":85681967,
     "wof:placetype":"county",

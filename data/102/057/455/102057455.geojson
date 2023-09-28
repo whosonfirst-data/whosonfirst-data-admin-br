@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042169,
-    "geom:area_square_m":470201439.614151,
+    "geom:area_square_m":470201439.61409,
     "geom:bbox":"-49.5865810813,-25.7888839423,-49.337963272,-25.4797651781",
     "geom:latitude":-25.608606,
     "geom:longitude":-49.441488,
@@ -32,7 +32,7 @@
     "mps:latitude":-25.576466,
     "mps:longitude":-49.429234,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u0648\u0643\u0627\u0631\u064a\u0627"
@@ -207,9 +207,12 @@
         1511777409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"4101804"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c95112b715de5470d102d898139f5b1b",
+    "wof:geomhash":"07fbefe0fdb0176468e02f61833cab98",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":102057455,
-    "wof:lastmodified":1577827226,
+    "wof:lastmodified":1695886989,
     "wof:name":"Araucaria",
     "wof:parent_id":85681983,
     "wof:placetype":"county",

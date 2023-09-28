@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02071,
-    "geom:area_square_m":239283184.607904,
+    "geom:area_square_m":239283184.607919,
     "geom:bbox":"-43.6188,-20.9408179968,-43.371531,-20.7773499969",
     "geom:latitude":-20.867882,
     "geom:longitude":-43.492077,
@@ -29,7 +29,7 @@
     "mps:latitude":-20.885937,
     "mps:longitude":-43.483639,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u0993 \u098f\u09b8\u09aa\u09c7\u09b0\u09be"
@@ -111,9 +111,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3155207"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0f0f031d3d8dbfd3e9561175cb3ed4cc",
+    "wof:geomhash":"ab4cc1fba183b9243399b54ed1a11a8f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":102054695,
-    "wof:lastmodified":1577831453,
+    "wof:lastmodified":1695887047,
     "wof:name":"Rio Espera",
     "wof:parent_id":85681941,
     "wof:placetype":"county",

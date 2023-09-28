@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.688511,
-    "geom:area_square_m":8351112479.031066,
+    "geom:area_square_m":8351112479.030205,
     "geom:bbox":"-57.1382862577,-11.6422605238,-55.7852888921,-10.4905388764",
     "geom:latitude":-11.208324,
     "geom:longitude":-56.494588,
@@ -32,7 +32,7 @@
     "mps:latitude":-11.324427,
     "mps:longitude":-56.392098,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u09ac\u09be\u09aa\u09cb\u09b0\u09be"
@@ -90,9 +90,12 @@
         1511777413
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"5107941"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"15604799b51ef5868faa62301531f83a",
+    "wof:geomhash":"ed19a266f98dcac96add4b2e40b9bc0d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102055629,
-    "wof:lastmodified":1577836030,
+    "wof:lastmodified":1695887090,
     "wof:name":"Tabapora",
     "wof:parent_id":85681955,
     "wof:placetype":"county",

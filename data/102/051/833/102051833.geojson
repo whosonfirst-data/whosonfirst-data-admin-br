@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01686,
-    "geom:area_square_m":194538081.348786,
+    "geom:area_square_m":194538081.348773,
     "geom:bbox":"-41.645544721,-21.1837448587,-41.4940213486,-20.9570101479",
     "geom:latitude":-21.072138,
     "geom:longitude":-41.554142,
@@ -32,7 +32,7 @@
     "mps:latitude":-21.088469,
     "mps:longitude":-41.542717,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09aa\u09bf\u0986\u0995\u0986\u09b8"
@@ -81,9 +81,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3200508"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5ed9a7b99656ebf073a7b6aba22a8458",
+    "wof:geomhash":"9584c250e7708b2a6b9a1e2f4b3a3583",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":102051833,
-    "wof:lastmodified":1577831654,
+    "wof:lastmodified":1695887060,
     "wof:name":"Apiaca",
     "wof:parent_id":85681921,
     "wof:placetype":"county",

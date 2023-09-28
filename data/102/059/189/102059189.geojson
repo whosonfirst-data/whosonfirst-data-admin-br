@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111982,
-    "geom:area_square_m":1210324712.513692,
+    "geom:area_square_m":1210324712.513161,
     "geom:bbox":"-50.3663621259,-29.2976880228,-49.9202415743,-28.8199274921",
     "geom:latitude":-29.062891,
     "geom:longitude":-50.136675,
@@ -32,7 +32,7 @@
     "mps:latitude":-29.005285,
     "mps:longitude":-50.09612,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09ac\u09be\u09b0\u09be \u09a1\u09cb \u09b8\u09c1\u09b2"
@@ -90,9 +90,12 @@
         1511777409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"4303608"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"fed733dbbade1366cfffd8fcd6bf0812",
+    "wof:geomhash":"763995a19b9b7200dd795db6add2c963",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102059189,
-    "wof:lastmodified":1577827147,
+    "wof:lastmodified":1695886986,
     "wof:name":"Cambara do Sul",
     "wof:parent_id":85682015,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.128329,
-    "geom:area_square_m":1586810377.699871,
+    "geom:area_square_m":1586810377.699487,
     "geom:bbox":"-51.5807814615,-0.11861278562,-51.10692804,0.47330980562",
     "geom:latitude":0.128357,
     "geom:longitude":-51.379253,
@@ -154,9 +154,12 @@
         1511777407
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"1600600"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1500ce06c07caad548c99fc25f6a7d5a",
+    "wof:geomhash":"bfccb1f2bfdb11ff4e73840d5954894d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":102050457,
-    "wof:lastmodified":1577825601,
+    "wof:lastmodified":1695886234,
     "wof:name":"Santana",
     "wof:parent_id":85681891,
     "wof:placetype":"county",

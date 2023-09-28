@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018195,
-    "geom:area_square_m":210803460.538778,
+    "geom:area_square_m":210803460.538824,
     "geom:bbox":"-50.6251813035,-20.5290824023,-50.4301786281,-20.3771178945",
     "geom:latitude":-20.451018,
     "geom:longitude":-50.525162,
@@ -29,7 +29,7 @@
     "mps:latitude":-20.447686,
     "mps:longitude":-50.527055,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u09a8\u09cd\u099f\u09be\u09b2\u09bf\u09a8\u09cd\u09a1\u09be"
@@ -111,9 +111,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3540259"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dc1a9847997a9501c01d5db619a03893",
+    "wof:geomhash":"5025a25dac5c778713e5bc0bc58b42f4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":102062001,
-    "wof:lastmodified":1577830879,
+    "wof:lastmodified":1695887008,
     "wof:name":"Pontalinda",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

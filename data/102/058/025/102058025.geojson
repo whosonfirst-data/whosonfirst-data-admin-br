@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017966,
-    "geom:area_square_m":200281427.06079,
+    "geom:area_square_m":200281427.060783,
     "geom:bbox":"-48.5900195216,-25.7507606095,-48.3483933234,-25.5447104526",
     "geom:latitude":-25.636646,
     "geom:longitude":-48.47509,
@@ -32,7 +32,7 @@
     "mps:latitude":-25.600632,
     "mps:longitude":-48.443102,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u09a8\u09cd\u099f\u09be\u09b2 \u09a1\u09cb \u09aa\u09be\u09b0\u09be\u09a8\u09be"
@@ -87,9 +87,12 @@
         1511777409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"4119954"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5f36b46f86ae496b3e6b506aa1f17459",
+    "wof:geomhash":"86c14d9275ea6519d9f1d8d17c2ab504",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":102058025,
-    "wof:lastmodified":1577827079,
+    "wof:lastmodified":1695886983,
     "wof:name":"Pontal do Parana",
     "wof:parent_id":85681983,
     "wof:placetype":"county",

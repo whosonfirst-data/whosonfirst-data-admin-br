@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018984,
-    "geom:area_square_m":233110740.250592,
+    "geom:area_square_m":233110740.250587,
     "geom:bbox":"-35.8102449668,-6.82743707328,-35.6367839359,-6.65414241151",
     "geom:latitude":-6.752698,
     "geom:longitude":-35.725223,
@@ -32,7 +32,7 @@
     "mps:latitude":-6.755146,
     "mps:longitude":-35.726853,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09cb\u09b2\u09be\u09a8\u09c7\u09af\u09bc\u09be"
@@ -87,9 +87,12 @@
         1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2516003"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cabb87ad11957285ff19fc5564d9f00f",
+    "wof:geomhash":"482d3e93cc15a32fbf180dadb08f4929",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":102056451,
-    "wof:lastmodified":1577837274,
+    "wof:lastmodified":1695887111,
     "wof:name":"Solanea",
     "wof:parent_id":85681967,
     "wof:placetype":"county",

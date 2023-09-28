@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006902,
-    "geom:area_square_m":84617945.733397,
+    "geom:area_square_m":84617945.733399,
     "geom:bbox":"-38.0794741617,-7.53971257065,-37.9539619377,-7.38932204061",
     "geom:latitude":-7.476904,
     "geom:longitude":-38.015589,
@@ -29,7 +29,7 @@
     "mps:latitude":-7.477262,
     "mps:longitude":-38.01468,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Nova Olinda"
@@ -90,9 +90,12 @@
         1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2510204"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c243f20c8be19f80fcff59dda785b636",
+    "wof:geomhash":"daaab77ca52e3a4369fe616c27aa7d23",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102056273,
-    "wof:lastmodified":1577836929,
+    "wof:lastmodified":1695887091,
     "wof:name":"Nova Olinda",
     "wof:parent_id":85681967,
     "wof:placetype":"county",

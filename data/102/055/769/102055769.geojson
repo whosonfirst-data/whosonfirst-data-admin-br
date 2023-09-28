@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.956484,
-    "geom:area_square_m":11824219463.279312,
+    "geom:area_square_m":11824219463.279243,
     "geom:bbox":"-58.898328,-2.212564,-56.580517,-0.005514",
     "geom:latitude":-1.159079,
     "geom:longitude":-57.806039,
@@ -29,7 +29,7 @@
     "mps:latitude":-1.278669,
     "mps:longitude":-57.709172,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:arg_x_preferred":[
         "Faro"
@@ -128,18 +128,20 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777407,
-        85681959
+        85681959,
+        1511777407
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "bra-ibge:code":"1503002",
         "gp:id":12580161
     },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404559615
     ],
     "wof:country":"BR",
-    "wof:geomhash":"533b1e6b7290959b8e3800b9b2c2de01",
+    "wof:geomhash":"5bec7400a625c38a649516446b7c5194",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +152,7 @@
         }
     ],
     "wof:id":102055769,
-    "wof:lastmodified":1608031283,
+    "wof:lastmodified":1695887465,
     "wof:name":"Faro",
     "wof:parent_id":85681959,
     "wof:placetype":"county",

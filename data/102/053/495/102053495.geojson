@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040822,
-    "geom:area_square_m":485508040.028847,
+    "geom:area_square_m":485508040.029021,
     "geom:bbox":"-40.732689,-16.012058,-40.418963,-15.715713",
     "geom:latitude":-15.877677,
     "geom:longitude":-40.580969,
@@ -78,16 +78,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777411,
-        85681941
+        85681941,
+        1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3105202"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404555343
     ],
     "wof:country":"BR",
-    "wof:geomhash":"603f8a555680df8565004e4e8113126f",
+    "wof:geomhash":"fb18dd5da68ad75d384172be0873b728",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":102053495,
-    "wof:lastmodified":1608032786,
+    "wof:lastmodified":1695886423,
     "wof:name":"Bandeira",
     "wof:parent_id":85681941,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007423,
-    "geom:area_square_m":81842295.514406,
+    "geom:area_square_m":81842295.514391,
     "geom:bbox":"-53.696869,-26.954583,-53.535172,-26.883782",
     "geom:latitude":-26.921131,
     "geom:longitude":-53.618934,
@@ -87,16 +87,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777409,
-        85682021
+        85682021,
+        1511777409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"4215554"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404565815
     ],
     "wof:country":"BR",
-    "wof:geomhash":"8d9198686eaca6b52004ae01e88cb068",
+    "wof:geomhash":"5fcf456a54c09c02d1b2c12996a91f92",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":102060701,
-    "wof:lastmodified":1608034410,
+    "wof:lastmodified":1695886425,
     "wof:name":"Santa Helena",
     "wof:parent_id":85682021,
     "wof:placetype":"county",

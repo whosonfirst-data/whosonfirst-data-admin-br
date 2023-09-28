@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048956,
-    "geom:area_square_m":563247874.672215,
+    "geom:area_square_m":563247874.672196,
     "geom:bbox":"-42.1168218681,-21.6399925325,-41.7099628483,-21.3269156296",
     "geom:latitude":-21.496264,
     "geom:longitude":-41.91396,
@@ -29,7 +29,7 @@
     "mps:latitude":-21.503115,
     "mps:longitude":-41.91092,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09ac\u09c1\u09b8\u09bf"
@@ -102,9 +102,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3300902"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a610afba45ec9a972ff8d7b74d19e13d",
+    "wof:geomhash":"b209cda10869853315c54ceecf5585b8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":102058333,
-    "wof:lastmodified":1577831404,
+    "wof:lastmodified":1695887044,
     "wof:name":"Cambuci",
     "wof:parent_id":85681991,
     "wof:placetype":"county",

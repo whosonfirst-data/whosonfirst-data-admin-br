@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03671,
-    "geom:area_square_m":450412435.432562,
+    "geom:area_square_m":450412435.432528,
     "geom:bbox":"-41.8155097525,-7.32567283443,-41.5803226314,-7.0003145822",
     "geom:latitude":-7.138283,
     "geom:longitude":-41.684394,
@@ -32,7 +32,7 @@
     "mps:latitude":-7.098156,
     "mps:longitude":-41.692366,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u0643\u0648\u0633 \u0628\u0627\u0643\u064a\u062a\u0627"
@@ -93,9 +93,12 @@
         1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2207553"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"80722825c1f5a4cef538ba848d973293",
+    "wof:geomhash":"f714b093cc7facca828ea1e01bd708b2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":102057235,
-    "wof:lastmodified":1577837312,
+    "wof:lastmodified":1695887111,
     "wof:name":"Paqueta",
     "wof:parent_id":85681977,
     "wof:placetype":"county",

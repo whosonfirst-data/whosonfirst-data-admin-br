@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005041,
-    "geom:area_square_m":57374265.749418,
+    "geom:area_square_m":57374265.749416,
     "geom:bbox":"-49.8368990069,-23.0769538092,-49.7423439099,-22.9677794037",
     "geom:latitude":-23.019107,
     "geom:longitude":-49.791839,
@@ -29,7 +29,7 @@
     "mps:latitude":-23.017994,
     "mps:longitude":-49.791113,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a8\u09bf\u099f\u09be\u09b0\u09cd"
@@ -111,9 +111,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3510153"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"34a25302de8d2a458f6ca39637bca88d",
+    "wof:geomhash":"727c77d423e1d6d18a5eefd0df653066",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":102061253,
-    "wof:lastmodified":1577831811,
+    "wof:lastmodified":1695887065,
     "wof:name":"Canitar",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

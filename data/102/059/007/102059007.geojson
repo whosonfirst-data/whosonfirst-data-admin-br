@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.080025,
-    "geom:area_square_m":25682591917.406097,
+    "geom:area_square_m":25682591917.404884,
     "geom:bbox":"-64.2552467734,2.46495585548,-61.0005114519,3.7421238849",
     "geom:latitude":3.078257,
     "geom:longitude":-62.755525,
@@ -29,7 +29,7 @@
     "mps:latitude":3.19904,
     "mps:longitude":-63.409378,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09cd\u099f\u09cb \u0986\u09b2\u09c7\u0997\u09cd\u09b0\u09c7"
@@ -93,9 +93,12 @@
         1511777407
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"1400050"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"33c4a6f2a708af92a92da91199aa531c",
+    "wof:geomhash":"9afafe5a25fcd5085cab6bdac08629e3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":102059007,
-    "wof:lastmodified":1577825488,
+    "wof:lastmodified":1695886972,
     "wof:name":"Alto Alegre",
     "wof:parent_id":85682011,
     "wof:placetype":"county",

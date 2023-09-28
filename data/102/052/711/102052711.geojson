@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198665,
-    "geom:area_square_m":2354061398.353467,
+    "geom:area_square_m":2354061398.353267,
     "geom:bbox":"-48.9174297823,-16.9253093833,-48.18977312,-16.2836521003",
     "geom:latitude":-16.606992,
     "geom:longitude":-48.55805,
@@ -32,7 +32,7 @@
     "mps:latitude":-16.646964,
     "mps:longitude":-48.61303,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09bf\u09b2\u09ad\u09be\u09a8\u09bf\u09af\u09bc\u09be"
@@ -105,9 +105,12 @@
         1511777413
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"5220603"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8714b7ae5315ddde237342efa99da3e0",
+    "wof:geomhash":"da24957fcbe313f3102df02720a0df01",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":102052711,
-    "wof:lastmodified":1577836009,
+    "wof:lastmodified":1695887088,
     "wof:name":"Silvania",
     "wof:parent_id":85681925,
     "wof:placetype":"county",

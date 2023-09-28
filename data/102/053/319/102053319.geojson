@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019327,
-    "geom:area_square_m":223644861.793836,
+    "geom:area_square_m":223644861.793928,
     "geom:bbox":"-45.260277,-20.744347,-45.046242,-20.559963",
     "geom:latitude":-20.640841,
     "geom:longitude":-45.132175,
@@ -78,16 +78,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777411,
-        85681941
+        85681941,
+        1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3110400"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404555629
     ],
     "wof:country":"BR",
-    "wof:geomhash":"0389f618bd9d42229d6e8a8f05ddfcb0",
+    "wof:geomhash":"a004364b2a927b6f1b78f1bf0cd96eec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":102053319,
-    "wof:lastmodified":1608032481,
+    "wof:lastmodified":1695886421,
     "wof:name":"Camacho",
     "wof:parent_id":85681941,
     "wof:placetype":"county",

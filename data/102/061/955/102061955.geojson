@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016078,
-    "geom:area_square_m":185342662.227456,
+    "geom:area_square_m":185342662.227383,
     "geom:bbox":"-49.010861,-21.299592,-48.841445,-21.105522",
     "geom:latitude":-21.209819,
     "geom:longitude":-48.911629,
@@ -29,7 +29,7 @@
     "mps:latitude":-21.214038,
     "mps:longitude":-48.905851,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09a8\u09a1\u09cb\u09b0\u09be\u09ae\u09be"
@@ -107,16 +107,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777411,
-        85682041
+        85682041,
+        1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3538105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404566967
     ],
     "wof:country":"BR",
-    "wof:geomhash":"3068f9449295814ea24fbff649557bc9",
+    "wof:geomhash":"ffe9980089f029ec8620d944e7017c08",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":102061955,
-    "wof:lastmodified":1608030882,
+    "wof:lastmodified":1695887463,
     "wof:name":"Pindorama",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

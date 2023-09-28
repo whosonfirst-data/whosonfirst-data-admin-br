@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01965,
-    "geom:area_square_m":229622212.449366,
+    "geom:area_square_m":229622212.449317,
     "geom:bbox":"-42.356815,-19.1872749971,-42.131695,-18.9824449971",
     "geom:latitude":-19.084232,
     "geom:longitude":-42.231826,
@@ -29,7 +29,7 @@
     "mps:latitude":-19.085814,
     "mps:longitude":-42.224163,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09b0\u09bf\u0995\u09c1\u0987\u099f\u09cb"
@@ -114,9 +114,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3149952"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"273dad8458e3ea42bd3cc1f940f6fc10",
+    "wof:geomhash":"7e6a1f369d7f9477fe14c3d6d8a15ed6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":102054561,
-    "wof:lastmodified":1577831368,
+    "wof:lastmodified":1695887041,
     "wof:name":"Periquito",
     "wof:parent_id":85681941,
     "wof:placetype":"county",

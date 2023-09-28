@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.242116,
-    "geom:area_square_m":2628555920.515893,
+    "geom:area_square_m":2628555920.515748,
     "geom:bbox":"-50.7649180158,-28.8434664956,-50.0221023128,-28.248531649",
     "geom:latitude":-28.598315,
     "geom:longitude":-50.423287,
@@ -29,7 +29,7 @@
     "mps:latitude":-28.606558,
     "mps:longitude":-50.448649,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09ae \u099c\u09c7\u09b8\u0989\u09b8"
@@ -96,9 +96,12 @@
         1511777409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"4302303"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4922dfc7e70099c53fb19fa06c959876",
+    "wof:geomhash":"0bf7e4eafe62bc9d9ad3b1ff91e008a2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":102059147,
-    "wof:lastmodified":1577827123,
+    "wof:lastmodified":1695886985,
     "wof:name":"Bom Jesus",
     "wof:parent_id":85682015,
     "wof:placetype":"county",

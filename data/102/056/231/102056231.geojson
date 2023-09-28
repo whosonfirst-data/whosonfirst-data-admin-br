@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012783,
-    "geom:area_square_m":156924379.57031,
+    "geom:area_square_m":156924379.570305,
     "geom:bbox":"-37.5759978516,-7.00054749384,-37.4522351169,-6.77006204092",
     "geom:latitude":-6.882823,
     "geom:longitude":-37.525485,
@@ -29,7 +29,7 @@
     "mps:latitude":-6.894922,
     "mps:longitude":-37.526417,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Malta"
@@ -726,9 +726,12 @@
         1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2508802"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8c921b4a12edab73abaa3cdb5d755831",
+    "wof:geomhash":"d2756df547922f1ede65c860c4ec1403",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -739,7 +742,7 @@
         }
     ],
     "wof:id":102056231,
-    "wof:lastmodified":1577837424,
+    "wof:lastmodified":1695887118,
     "wof:name":"Malta",
     "wof:parent_id":85681967,
     "wof:placetype":"county",

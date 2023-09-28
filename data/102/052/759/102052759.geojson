@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089085,
-    "geom:area_square_m":1064053097.006871,
+    "geom:area_square_m":1064053097.006512,
     "geom:bbox":"-47.235067,-15.314679,-46.873698,-14.671943",
     "geom:latitude":-14.993579,
     "geom:longitude":-47.062616,
@@ -84,16 +84,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777413,
-        85681925
+        85681925,
+        1511777413
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"5222203"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404554963
     ],
     "wof:country":"BR",
-    "wof:geomhash":"23216ed6703ac2152b0ed07d45264654",
+    "wof:geomhash":"f40d9dd8c4e1b039ee45285aa16e3432",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":102052759,
-    "wof:lastmodified":1608034871,
+    "wof:lastmodified":1695886425,
     "wof:name":"Vila Boa",
     "wof:parent_id":85681925,
     "wof:placetype":"county",

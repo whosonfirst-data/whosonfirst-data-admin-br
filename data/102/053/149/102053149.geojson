@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081937,
-    "geom:area_square_m":1011477227.551174,
+    "geom:area_square_m":1011477227.551125,
     "geom:bbox":"-42.6404686859,-3.48600961831,-42.2455352206,-3.09247918567",
     "geom:latitude":-3.312136,
     "geom:longitude":-42.406074,
@@ -32,7 +32,7 @@
     "mps:latitude":-3.32151,
     "mps:longitude":-42.403075,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "S\u00e3o Bernardo"
@@ -81,9 +81,12 @@
         1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2110609"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3ad1f13bb29d1957ea132416f0d090a3",
+    "wof:geomhash":"7df126197f1e62bc1fcfdd733dbc1a9d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":102053149,
-    "wof:lastmodified":1577837406,
+    "wof:lastmodified":1695887117,
     "wof:name":"Sao Bernardo",
     "wof:parent_id":85681931,
     "wof:placetype":"county",

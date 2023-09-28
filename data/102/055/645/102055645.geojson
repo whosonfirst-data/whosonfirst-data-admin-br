@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.16242,
-    "geom:area_square_m":1940124229.344591,
+    "geom:area_square_m":1940124229.344146,
     "geom:bbox":"-59.2271718053,-15.4608357708,-58.7566838032,-14.5864402857",
     "geom:latitude":-14.975814,
     "geom:longitude":-58.963693,
@@ -32,7 +32,7 @@
     "mps:latitude":-14.804264,
     "mps:longitude":-58.921129,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Vale de S\u00e3o Domingos"
@@ -87,9 +87,12 @@
         1511777413
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"5108352"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"088618568e54edc0fda8cd8d3446bad4",
+    "wof:geomhash":"f628ac2188c47e9e2fe0bef202914828",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":102055645,
-    "wof:lastmodified":1577836023,
+    "wof:lastmodified":1695887089,
     "wof:name":"Vale de Sao Domingos",
     "wof:parent_id":85681955,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035147,
-    "geom:area_square_m":387472713.510525,
+    "geom:area_square_m":387472713.510492,
     "geom:bbox":"-49.065849,-27.060749,-48.843503,-26.775847",
     "geom:latitude":-26.931012,
     "geom:longitude":-48.96581,
@@ -87,16 +87,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777409,
-        85682021
+        85682021,
+        1511777409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"4205902"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404565437
     ],
     "wof:country":"BR",
-    "wof:geomhash":"995ac17124694ecd17af600006ea51e7",
+    "wof:geomhash":"df0a88033a00fe92749d5736ad1caaed",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":102060401,
-    "wof:lastmodified":1608034245,
+    "wof:lastmodified":1695886424,
     "wof:name":"Gaspar",
     "wof:parent_id":85682021,
     "wof:placetype":"county",
