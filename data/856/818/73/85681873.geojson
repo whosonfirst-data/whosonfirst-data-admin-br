@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.504943,
-    "geom:area_square_m":164815678271.547821,
+    "geom:area_square_m":164815678271.5849,
     "geom:bbox":"-73.99045,-11.145561,-66.623754,-7.111824",
     "geom:latitude":-9.212887,
     "geom:longitude":-70.473284,
@@ -608,16 +608,22 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "bra-ibge:code":"12",
         "fips:code":"BR01",
         "gn:id":3665474,
         "gp:id":2344844,
         "hasc:id":"BR.AC",
+        "iso:code":"BR-AC",
         "iso:id":"BR-AC",
         "unlc:id":"BR-AC",
         "wd:id":"Q40780"
     },
+    "wof:concordances_official":"bra-ibge:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BR",
-    "wof:geomhash":"25b413c49d61848bc594e4728f02b939",
+    "wof:geomhash":"25203674ab9ba0897c4a228d05bfeff8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -633,7 +639,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690861142,
+    "wof:lastmodified":1695884660,
     "wof:name":"Acre",
     "wof:parent_id":1511777407,
     "wof:placetype":"region",

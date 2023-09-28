@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":17.774639,
-    "geom:area_square_m":199750903426.114777,
+    "geom:area_square_m":199750903426.097656,
     "geom:bbox":"-54.619305,-26.717122,-48.023537,-22.516295",
     "geom:latitude":-24.635899,
     "geom:longitude":-51.616674,
@@ -458,16 +458,22 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "bra-ibge:code":"41",
         "fips:code":"BR18",
         "gn:id":3455077,
         "gp:id":2344859,
         "hasc:id":"BR.PR",
+        "iso:code":"BR-PR",
         "iso:id":"BR-PR",
         "unlc:id":"BR-PR",
         "wd:id":"Q15499"
     },
+    "wof:concordances_official":"bra-ibge:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BR",
-    "wof:geomhash":"18762fd3b067cd4ce0757275f9d64518",
+    "wof:geomhash":"26d819088ef6780720cc2ac6f1eba4a3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -483,7 +489,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690861163,
+    "wof:lastmodified":1695884565,
     "wof:name":"Parana",
     "wof:parent_id":1511777409,
     "wof:placetype":"region",

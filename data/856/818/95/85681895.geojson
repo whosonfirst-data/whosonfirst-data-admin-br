@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":46.987205,
-    "geom:area_square_m":566946258066.610229,
+    "geom:area_square_m":566946258066.62085,
     "geom:bbox":"-46.617097,-18.34856,-37.341147,-8.532821",
     "geom:latitude":-12.475172,
     "geom:longitude":-41.720858,
@@ -490,16 +490,22 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "bra-ibge:code":"29",
         "fips:code":"BR05",
         "gn:id":3471168,
         "gp:id":2344848,
         "hasc:id":"BR.BA",
+        "iso:code":"BR-BA",
         "iso:id":"BR-BA",
         "unlc:id":"BR-BA",
         "wd:id":"Q40430"
     },
+    "wof:concordances_official":"bra-ibge:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BR",
-    "wof:geomhash":"e48c255c66c4c0a9c5dedf18ceffad75",
+    "wof:geomhash":"124c7438682048edfc914173241aa17d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -515,7 +521,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690861141,
+    "wof:lastmodified":1695884569,
     "wof:name":"Bahia",
     "wof:parent_id":1511777415,
     "wof:placetype":"region",
