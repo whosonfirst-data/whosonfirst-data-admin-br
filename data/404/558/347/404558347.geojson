@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009556,
-    "geom:area_square_m":109914354.513575,
+    "geom:area_square_m":109914354.513532,
     "geom:bbox":"-43.08764,-21.5974389968,-42.933081,-21.4805649968",
     "geom:latitude":-21.535894,
     "geom:longitude":-43.020488,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.538663,
     "lbl:longitude":-43.033238,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u099c\u09cb\u09af\u09bc\u09be\u0993 \u09a8\u09c7\u09aa\u09cb\u09ae\u0989\u09b8\u09c7\u09a8\u09cb"
@@ -91,9 +100,12 @@
         102054907
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316290605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a0e437276cc5fc4cdfd01d4ffaa96168",
+    "wof:geomhash":"eff6a89723d8c953518c66cd8dcdb117",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404558347,
-    "wof:lastmodified":1577833294,
+    "wof:lastmodified":1695878574,
     "wof:name":"S\u00e3o Jo\u00e3o Nepomuceno",
     "wof:parent_id":102054907,
     "wof:placetype":"localadmin",

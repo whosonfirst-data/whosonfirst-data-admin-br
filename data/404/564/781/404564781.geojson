@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021765,
-    "geom:area_square_m":238698368.55896,
+    "geom:area_square_m":238698368.558962,
     "geom:bbox":"-53.4928575882,-27.6198749419,-53.2864266536,-27.4233496438",
     "geom:latitude":-27.508718,
     "geom:longitude":-53.373023,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.50169,
     "lbl:longitude":-53.37296,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09ac\u09c7\u09b0\u09bf"
@@ -97,9 +106,12 @@
         102059983
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432020605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"aab522866498a3ab1f3954f566834227",
+    "wof:geomhash":"4985f3ea7e8f7bfe480807d48a403414",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404564781,
-    "wof:lastmodified":1577827954,
+    "wof:lastmodified":1695878295,
     "wof:name":"Seberi",
     "wof:parent_id":102059983,
     "wof:placetype":"localadmin",

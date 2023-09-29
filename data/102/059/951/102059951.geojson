@@ -32,7 +32,7 @@
     "mps:latitude":-29.418572,
     "mps:longitude":-51.480356,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09aa\u09c7\u09a1\u09cd\u09b0\u09cb \u09a1\u09be \u09b8\u09c7\u09b0\u09b0\u09be"
@@ -90,9 +90,12 @@
         1511777409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"4319356"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"66de24fac7dceb268002fea2ca8dceee",
+    "wof:geomhash":"4ac6126ebfb8248e7cfcd421d49d5e86",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102059951,
-    "wof:lastmodified":1577827076,
+    "wof:lastmodified":1695886983,
     "wof:name":"Sao Pedro da Serra",
     "wof:parent_id":85682015,
     "wof:placetype":"county",

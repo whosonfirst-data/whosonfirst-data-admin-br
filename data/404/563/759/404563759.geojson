@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004806,
-    "geom:area_square_m":52311294.733225,
+    "geom:area_square_m":52311294.733222,
     "geom:bbox":"-53.957531391,-28.3830392185,-53.8602962956,-28.2552758757",
     "geom:latitude":-28.327429,
     "geom:longitude":-53.8952,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.328454,
     "lbl:longitude":-53.903315,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be\u09a8\u09be"
@@ -136,9 +145,12 @@
         102059491
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431020737"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"986115bd6dfc185cc6376da23ca38ca9",
+    "wof:geomhash":"025092dc31e77987e291eb387de6782b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":404563759,
-    "wof:lastmodified":1577827956,
+    "wof:lastmodified":1695878296,
     "wof:name":"Santana",
     "wof:parent_id":102059491,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00212,
-    "geom:area_square_m":26138523.189574,
+    "geom:area_square_m":26138523.189569,
     "geom:bbox":"-40.8415808389,-4.3451495057,-40.7873249691,-4.28419013088",
     "geom:latitude":-4.314081,
     "geom:longitude":-40.812286,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.314511,
     "lbl:longitude":-40.812286,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230500122"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b5dbdddc7b346a3f6327391eba7bb6fe",
+    "wof:geomhash":"e20cda8dc058c91b78420abf22a4600e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404552921,
-    "wof:lastmodified":1577837981,
+    "wof:lastmodified":1695878746,
     "wof:name":"Martinsl\u00e2ndia",
     "wof:parent_id":102051553,
     "wof:placetype":"localadmin",

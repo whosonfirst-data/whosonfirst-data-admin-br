@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00406,
-    "geom:area_square_m":49753831.515635,
+    "geom:area_square_m":49753831.515607,
     "geom:bbox":"-35.6158282576,-7.7168482771,-35.5126536344,-7.6451213286",
     "geom:latitude":-7.679686,
     "geom:longitude":-35.560571,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.686048,
     "lbl:longitude":-35.555495,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056737
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260970910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4e8d96c07690627f19883c59d4b76502",
+    "wof:geomhash":"b1e9bb798da7d08c510a89756799003e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560511,
-    "wof:lastmodified":1577837846,
+    "wof:lastmodified":1695878712,
     "wof:name":"Ch\u00e3 Do Rocha",
     "wof:parent_id":102056737,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032503,
-    "geom:area_square_m":386611438.321934,
+    "geom:area_square_m":386611438.321927,
     "geom:bbox":"-41.91698,-15.978519997,-41.70141,-15.735991997",
     "geom:latitude":-15.858595,
     "geom:longitude":-41.807452,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.862957,
     "lbl:longitude":-41.816137,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312087005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"289045faf8de05bd1f159c5dcd2fe298",
+    "wof:geomhash":"9490c836245953f77d08eae125f049bc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556137,
-    "wof:lastmodified":1577832673,
+    "wof:lastmodified":1695878367,
     "wof:name":"Curral De Dentro",
     "wof:parent_id":102053769,
     "wof:placetype":"localadmin",

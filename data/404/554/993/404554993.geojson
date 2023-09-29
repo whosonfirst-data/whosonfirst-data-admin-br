@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02631,
-    "geom:area_square_m":324777399.79367,
+    "geom:area_square_m":324777399.793672,
     "geom:bbox":"-45.2717053382,-3.43062438406,-44.9703557806,-3.23936338749",
     "geom:latitude":-3.351038,
     "geom:longitude":-45.111851,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.368391,
     "lbl:longitude":-45.097004,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u099c\u09be\u09b0\u09bf"
@@ -94,9 +103,12 @@
         102052861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"210250705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ac506496f78259a9f3c1a09accba240e",
+    "wof:geomhash":"004f36dade2ec5d4d2b810f8a1f35562",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404554993,
-    "wof:lastmodified":1577837988,
+    "wof:lastmodified":1695878748,
     "wof:name":"Cajari",
     "wof:parent_id":102052861,
     "wof:placetype":"localadmin",

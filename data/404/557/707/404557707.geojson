@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024278,
-    "geom:area_square_m":281150411.66413,
+    "geom:area_square_m":281150411.664091,
     "geom:bbox":"-44.544075,-20.614737,-44.29948,-20.425167",
     "geom:latitude":-20.522241,
     "geom:longitude":-44.42271,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.51031,
     "lbl:longitude":-44.441194,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Piracema"
@@ -36,19 +45,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054583,
         1511777411,
-        85681941
+        102054583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315060405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054583
     ],
     "wof:country":"BR",
-    "wof:geomhash":"736673c1eccf1b0a00110c37f806c607",
+    "wof:geomhash":"0eca1c7dd8869f7d87edc69dd3dd1b0b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":404557707,
-    "wof:lastmodified":1608031732,
+    "wof:lastmodified":1695878791,
     "wof:name":"Piracema",
     "wof:parent_id":102054583,
     "wof:placetype":"localadmin",

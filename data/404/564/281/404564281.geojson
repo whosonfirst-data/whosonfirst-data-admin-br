@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004735,
-    "geom:area_square_m":51942488.273415,
+    "geom:area_square_m":51942488.273441,
     "geom:bbox":"-53.2467617191,-27.5228706556,-53.1200990936,-27.4409252729",
     "geom:latitude":-27.48206,
     "geom:longitude":-53.176163,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.482502,
     "lbl:longitude":-53.17522,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09cb\u09a1\u09c7\u0987\u0993 \u09ac\u09cb\u09a8\u09bf\u099f\u09cb"
@@ -94,9 +103,12 @@
         102059817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431590905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6f2820e4a744aad06770894348339175",
+    "wof:geomhash":"0de340385bd2368742cdc9c9ffc4ade9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404564281,
-    "wof:lastmodified":1577827711,
+    "wof:lastmodified":1695878181,
     "wof:name":"Rodeio Bonito",
     "wof:parent_id":102059817,
     "wof:placetype":"localadmin",

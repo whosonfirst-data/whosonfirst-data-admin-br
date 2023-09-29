@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002087,
-    "geom:area_square_m":24062514.415247,
+    "geom:area_square_m":24062514.415272,
     "geom:bbox":"-43.756,-21.2291439968,-43.690676,-21.1728629968",
     "geom:latitude":-21.199492,
     "geom:longitude":-43.725638,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.202985,
     "lbl:longitude":-43.727862,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053503
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310560823"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a65d0a82544ae2f517ea105f65358ba5",
+    "wof:geomhash":"71964afdb6b4de8e81c7e14043b917a0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555379,
-    "wof:lastmodified":1577832861,
+    "wof:lastmodified":1695878433,
     "wof:name":"Pinheiro Grosso",
     "wof:parent_id":102053503,
     "wof:placetype":"localadmin",

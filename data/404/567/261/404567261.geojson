@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000631,
-    "geom:area_square_m":7152104.95642,
+    "geom:area_square_m":7152104.956411,
     "geom:bbox":"-46.589507,-23.581437,-46.554047,-23.549299",
     "geom:latitude":-23.56688,
     "geom:longitude":-46.571848,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.568331,
     "lbl:longitude":-46.572113,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "\u00c1gua Rasa"
@@ -37,9 +46,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030801"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f3766e9fa73fd65854138b7b3f471db1",
+    "wof:geomhash":"692590ef4084c1bf0897355d1c5cd936",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404567261,
-    "wof:lastmodified":1577832588,
+    "wof:lastmodified":1695878332,
     "wof:name":"\u00c1gua Rasa",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

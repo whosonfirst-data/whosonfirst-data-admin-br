@@ -10,12 +10,21 @@
     "geom:latitude":-10.073257,
     "geom:longitude":-67.294904,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.073693,
     "lbl:longitude":-67.294147,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Campinas"
@@ -201,19 +210,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681873,
         102191577,
         85633009,
-        102050035,
         1511777407,
-        85681873
+        102050035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"120038510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101941607
     ],
     "wof:country":"BR",
-    "wof:geomhash":"0feea30a44365fc7dedc11170af60cdc",
+    "wof:geomhash":"af371390d672980e2a9674f4284b1264",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -225,7 +237,7 @@
         }
     ],
     "wof:id":404550161,
-    "wof:lastmodified":1608018109,
+    "wof:lastmodified":1695878751,
     "wof:name":"Campinas",
     "wof:parent_id":102050035,
     "wof:placetype":"localadmin",

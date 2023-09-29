@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074484,
-    "geom:area_square_m":857218173.886429,
+    "geom:area_square_m":857218173.886301,
     "geom:bbox":"-47.2479846179,-21.6338600568,-46.773919096,-21.2639663162",
     "geom:latitude":-21.449485,
     "geom:longitude":-47.033052,
@@ -29,7 +29,7 @@
     "mps:latitude":-21.422359,
     "mps:longitude":-47.095883,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u0995\u09cb\u0995\u09be"
@@ -108,9 +108,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3530508"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9cdbf1fd8a6d0e8f4fb8a33dcac10d70",
+    "wof:geomhash":"58e108b6d44487c5ba149e2b51180f37",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":102061761,
-    "wof:lastmodified":1577831495,
+    "wof:lastmodified":1695887051,
     "wof:name":"Mococa",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022955,
-    "geom:area_square_m":272832566.095041,
+    "geom:area_square_m":272832566.094963,
     "geom:bbox":"-42.529346,-16.11015,-42.28548,-15.895562",
     "geom:latitude":-16.010928,
     "geom:longitude":-42.397715,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.017568,
     "lbl:longitude":-42.416195,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09cb\u09b0\u09bf\u099c\u09cb\u09a8\u09cd\u099f\u09c7"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054437,
         1511777411,
-        85681941
+        102054437
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314537205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054437
     ],
     "wof:country":"BR",
-    "wof:geomhash":"1c9e10f73d6c579239de9bc822273ecb",
+    "wof:geomhash":"301efd6673f6a24a581d3292ac568853",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404557439,
-    "wof:lastmodified":1608031789,
+    "wof:lastmodified":1695878794,
     "wof:name":"Novorizonte",
     "wof:parent_id":102054437,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042957,
-    "geom:area_square_m":494267336.870341,
+    "geom:area_square_m":494267336.870335,
     "geom:bbox":"-44.481792,-21.6124959968,-44.197947,-21.3704549968",
     "geom:latitude":-21.484977,
     "geom:longitude":-44.332147,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.490589,
     "lbl:longitude":-44.357743,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054263
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313910205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bc137c96054d41aa87e0233d45ec7314",
+    "wof:geomhash":"5087a501aa793ded9dc528010d10157e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557079,
-    "wof:lastmodified":1577832617,
+    "wof:lastmodified":1695878345,
     "wof:name":"Madre De Deus De Minas",
     "wof:parent_id":102054263,
     "wof:placetype":"localadmin",

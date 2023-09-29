@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006365,
-    "geom:area_square_m":77747555.789592,
+    "geom:area_square_m":77747555.789597,
     "geom:bbox":"-36.637087685,-9.03337690594,-36.5496927858,-8.90336481675",
     "geom:latitude":-8.967193,
     "geom:longitude":-36.597232,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.963729,
     "lbl:longitude":-36.594207,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260600220"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ba7c079d002006ed46acedc98be6515f",
+    "wof:geomhash":"6371d891ae27280173aa36b426d44b10",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560365,
-    "wof:lastmodified":1577837816,
+    "wof:lastmodified":1695878705,
     "wof:name":"Miracica",
     "wof:parent_id":102056635,
     "wof:placetype":"localadmin",

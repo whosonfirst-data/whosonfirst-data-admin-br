@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030181,
-    "geom:area_square_m":364389367.650164,
+    "geom:area_square_m":364389367.650194,
     "geom:bbox":"-39.393873288,-12.5488976838,-39.127179331,-12.3731989268",
     "geom:latitude":-12.468078,
     "geom:longitude":-39.270083,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.464363,
     "lbl:longitude":-39.256677,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Santo Est\u00eav\u00e3o"
@@ -55,9 +64,12 @@
         102051251
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292880205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"502107b33841a5dd56cd0ea6a550f1fe",
+    "wof:geomhash":"7fc9b355d41e02ad2f6b742711e0da87",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":404551927,
-    "wof:lastmodified":1577837768,
+    "wof:lastmodified":1695878693,
     "wof:name":"Santo Est\u00eav\u00e3o",
     "wof:parent_id":102051251,
     "wof:placetype":"localadmin",

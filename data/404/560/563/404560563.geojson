@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00801,
-    "geom:area_square_m":97984998.192713,
+    "geom:area_square_m":97984998.19271,
     "geom:bbox":"-36.948433798,-8.51086691564,-36.5579860441,-8.36973916978",
     "geom:latitude":-8.405122,
     "geom:longitude":-36.878876,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.404007,
     "lbl:longitude":-36.884222,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Mimoso"
@@ -37,9 +46,12 @@
         102056763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261090515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ad8f80f2d2d5630b7b46d4b74157b5ab",
+    "wof:geomhash":"55ae5a17b707156f7b46e54f513b204b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404560563,
-    "wof:lastmodified":1577837752,
+    "wof:lastmodified":1695878690,
     "wof:name":"Mimoso",
     "wof:parent_id":102056763,
     "wof:placetype":"localadmin",

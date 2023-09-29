@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028078,
-    "geom:area_square_m":316743280.044713,
+    "geom:area_square_m":316743280.044676,
     "geom:bbox":"-49.1545364973,-24.2637521996,-48.8119248066,-24.0955466002",
     "geom:latitude":-24.175837,
     "geom:longitude":-48.967846,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.161142,
     "lbl:longitude":-48.941694,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u0995\u09be\u09ae\u09aa\u09bf\u09a8\u09be"
@@ -91,9 +100,12 @@
         102061819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"353282705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0240dc1214bd83e72ccd4cf2bf9c3712",
+    "wof:geomhash":"68d0d7ebf57fd1e60d7c1d1370b37048",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404566865,
-    "wof:lastmodified":1577833406,
+    "wof:lastmodified":1695878610,
     "wof:name":"Nova Campina",
     "wof:parent_id":102061819,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022348,
-    "geom:area_square_m":261469926.000931,
+    "geom:area_square_m":261469926.000936,
     "geom:bbox":"-40.1712812122,-18.989483863,-40.0073837907,-18.7746174285",
     "geom:latitude":-18.883021,
     "geom:longitude":-40.075504,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.874392,
     "lbl:longitude":-40.06574,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u0997\u09c1\u09f1\u09be\u09b0\u09c7"
@@ -94,9 +103,12 @@
         102051903
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320305605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a0dec88b21b7b813cb4d805115ef91a6",
+    "wof:geomhash":"e4f152e9ff9c788ea08dc62287f2bf9f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404554423,
-    "wof:lastmodified":1577832890,
+    "wof:lastmodified":1695878445,
     "wof:name":"Jaguar\u00e9",
     "wof:parent_id":102051903,
     "wof:placetype":"localadmin",

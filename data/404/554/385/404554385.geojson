@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008662,
-    "geom:area_square_m":100170138.038444,
+    "geom:area_square_m":100170138.038426,
     "geom:bbox":"-40.9474203776,-20.8111266334,-40.8354650495,-20.670412431",
     "geom:latitude":-20.734153,
     "geom:longitude":-40.887955,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.732777,
     "lbl:longitude":-40.884132,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09c1\u0986\u09b8 \u09ac\u09be\u09b0\u09cd\u09b0\u09be\u09b8"
@@ -94,9 +103,12 @@
         102051889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320260310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e35269262f1f574ee0edc1bbd0ee329b",
+    "wof:geomhash":"2505f238e05dc9fcec750d49ddd74033",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404554385,
-    "wof:lastmodified":1577832862,
+    "wof:lastmodified":1695878433,
     "wof:name":"Duas Barras",
     "wof:parent_id":102051889,
     "wof:placetype":"localadmin",

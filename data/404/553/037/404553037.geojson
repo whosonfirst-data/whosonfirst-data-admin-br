@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040756,
-    "geom:area_square_m":502096726.295496,
+    "geom:area_square_m":502096726.295516,
     "geom:bbox":"-41.0528914146,-5.02407247183,-40.7102968446,-4.78389326119",
     "geom:latitude":-4.917628,
     "geom:longitude":-40.867851,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.910469,
     "lbl:longitude":-40.82507,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09aa\u09be\u09aa\u09cb\u09b0\u09be\u0999\u09cd\u0997\u09be"
@@ -85,9 +94,12 @@
         102051577
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230565405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dde2eeb42ab708d9d6649532eb4a9b23",
+    "wof:geomhash":"54c85a0e1998bc975bde623e790d6747",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404553037,
-    "wof:lastmodified":1577837654,
+    "wof:lastmodified":1695878666,
     "wof:name":"Ipaporanga",
     "wof:parent_id":102051577,
     "wof:placetype":"localadmin",

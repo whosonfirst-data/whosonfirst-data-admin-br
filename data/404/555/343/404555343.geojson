@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040822,
-    "geom:area_square_m":485507913.107743,
+    "geom:area_square_m":485507913.107973,
     "geom:bbox":"-40.732689,-16.012058,-40.418963,-15.715713",
     "geom:latitude":-15.877677,
     "geom:longitude":-40.580969,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.878061,
     "lbl:longitude":-40.539506,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bandeira"
@@ -57,19 +66,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053495,
         1511777411,
-        85681941
+        102053495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310520205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053495
     ],
     "wof:country":"BR",
-    "wof:geomhash":"76e3fbfe4a153b19567698e41fed7639",
+    "wof:geomhash":"3a9676f3cba42ebf322e2f4218a1ecca",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404555343,
-    "wof:lastmodified":1608032786,
+    "wof:lastmodified":1695878817,
     "wof:name":"Bandeira",
     "wof:parent_id":102053495,
     "wof:placetype":"localadmin",

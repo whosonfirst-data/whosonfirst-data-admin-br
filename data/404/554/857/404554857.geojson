@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125075,
-    "geom:area_square_m":1503223686.549358,
+    "geom:area_square_m":1503223686.549436,
     "geom:bbox":"-48.4656892009,-13.8626442579,-48.0919903639,-13.1970846378",
     "geom:latitude":-13.597742,
     "geom:longitude":-48.27017,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.64226,
     "lbl:longitude":-48.288399,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09bf\u09a8\u09be\u0995\u09c1"
@@ -97,9 +106,12 @@
         102052397
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"521308705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d76b710f1f1b660db7cb16a62c5c86dd",
+    "wof:geomhash":"4e51121d7043e0ce4b38f8f372720719",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404554857,
-    "wof:lastmodified":1577836119,
+    "wof:lastmodified":1695878638,
     "wof:name":"Mina\u00e7u",
     "wof:parent_id":102052397,
     "wof:placetype":"localadmin",

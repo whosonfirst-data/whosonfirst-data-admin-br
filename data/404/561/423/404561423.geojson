@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004599,
-    "geom:area_square_m":51721554.463019,
+    "geom:area_square_m":51721554.463012,
     "geom:bbox":"-54.3205982339,-24.595772686,-54.2127356645,-24.5160689948",
     "geom:latitude":-24.555721,
     "geom:longitude":-54.271684,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.552451,
     "lbl:longitude":-54.268007,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bom Jardim"
@@ -61,9 +70,12 @@
         102057861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411460907"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8793e1ae995b135d4dc1ca4489a8cb3c",
+    "wof:geomhash":"b1f1d8603140d0558ccca4d0a0aae823",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404561423,
-    "wof:lastmodified":1577827855,
+    "wof:lastmodified":1695878249,
     "wof:name":"Bom Jardim",
     "wof:parent_id":102057861,
     "wof:placetype":"localadmin",

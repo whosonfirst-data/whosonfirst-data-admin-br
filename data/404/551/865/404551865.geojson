@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22408,
-    "geom:area_square_m":2734978610.96126,
+    "geom:area_square_m":2734978610.961188,
     "geom:bbox":"-38.984381,-9.691069,-38.469797,-8.783865",
     "geom:latitude":-9.218351,
     "geom:longitude":-38.683634,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.525126,
     "lbl:longitude":-38.644637,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09cb\u09a1\u09c7\u09b2\u09be\u09b8"
@@ -97,12 +106,15 @@
         102051211
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292710105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102051211
     ],
     "wof:country":"BR",
-    "wof:geomhash":"53603efdd59f5a4f67f4e8093420af86",
+    "wof:geomhash":"89027882b7915635ef0a5d827c4e1ae6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404551865,
-    "wof:lastmodified":1617129869,
+    "wof:lastmodified":1695878825,
     "wof:name":"Rodelas",
     "wof:parent_id":102051211,
     "wof:placetype":"localadmin",

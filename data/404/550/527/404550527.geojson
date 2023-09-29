@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013162,
-    "geom:area_square_m":159295892.926952,
+    "geom:area_square_m":159295892.926926,
     "geom:bbox":"-42.021469584,-11.8802535805,-41.7638307026,-11.7431450794",
     "geom:latitude":-11.826564,
     "geom:longitude":-41.900002,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.835006,
     "lbl:longitude":-41.889615,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barro Alto"
@@ -61,9 +70,12 @@
         102050551
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290323505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"95a1f07d4f93d11e9d65650510285cbe",
+    "wof:geomhash":"e50707bd8a069fa8552890d42cc2c301",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404550527,
-    "wof:lastmodified":1577837861,
+    "wof:lastmodified":1695878716,
     "wof:name":"Barro Alto",
     "wof:parent_id":102050551,
     "wof:placetype":"localadmin",

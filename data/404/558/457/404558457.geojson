@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005834,
-    "geom:area_square_m":66606733.587146,
+    "geom:area_square_m":66606733.587185,
     "geom:bbox":"-46.249506,-22.6157149966,-46.136706,-22.5152419967",
     "geom:latitude":-22.573036,
     "geom:longitude":-46.182953,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.57584,
     "lbl:longitude":-46.179111,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09a8\u09be\u09a1\u09cb\u09b0\u09cd \u0986\u09ae\u09be\u09b0\u09cd\u0986\u09b2"
@@ -94,9 +103,12 @@
         102054985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316557805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e5343393f9f7bcc7050a79937dcb6400",
+    "wof:geomhash":"ad0f905cab0d0cfbfb94f69b73918b71",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404558457,
-    "wof:lastmodified":1577833317,
+    "wof:lastmodified":1695878581,
     "wof:name":"Senador Amaral",
     "wof:parent_id":102054985,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030148,
-    "geom:area_square_m":320027402.309637,
+    "geom:area_square_m":320027402.309628,
     "geom:bbox":"-51.7452934751,-30.9519971326,-51.4476888353,-30.7453169093",
     "geom:latitude":-30.854497,
     "geom:longitude":-51.601185,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.850232,
     "lbl:longitude":-51.588774,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u09ae\u09ac\u09be\u09b0\u09c7"
@@ -97,9 +106,12 @@
         102059077
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430085105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f451ba7559ab13d1a28fe94f8ecae68a",
+    "wof:geomhash":"d267fb78ddf83fd5b843226acc10022b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404562961,
-    "wof:lastmodified":1577827979,
+    "wof:lastmodified":1695878307,
     "wof:name":"Arambar\u00e9",
     "wof:parent_id":102059077,
     "wof:placetype":"localadmin",

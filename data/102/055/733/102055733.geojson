@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.250524,
-    "geom:area_square_m":3095370859.04958,
+    "geom:area_square_m":3095370859.050154,
     "geom:bbox":"-49.830883722,-2.63828622691,-49.1895393202,-1.92376778879",
     "geom:latitude":-2.253062,
     "geom:longitude":-49.513572,
@@ -32,7 +32,7 @@
     "mps:latitude":-2.211179,
     "mps:longitude":-49.51823,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09c7\u099f\u09be"
@@ -90,9 +90,12 @@
         1511777407
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"1502103"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a63f31f39b2efcbb187691282366f3e2",
+    "wof:geomhash":"5fa2da7917cdb86aed8bc8838d788975",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102055733,
-    "wof:lastmodified":1577825570,
+    "wof:lastmodified":1695886979,
     "wof:name":"Cameta",
     "wof:parent_id":85681959,
     "wof:placetype":"county",

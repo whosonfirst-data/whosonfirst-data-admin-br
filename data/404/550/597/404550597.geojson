@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034614,
-    "geom:area_square_m":415181467.553541,
+    "geom:area_square_m":415181467.553302,
     "geom:bbox":"-41.900563155,-14.1431771606,-41.565847838,-13.9739370106",
     "geom:latitude":-14.060339,
     "geom:longitude":-41.754874,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.064429,
     "lbl:longitude":-41.754863,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290460515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2706dfebfdbb8a5a54322be99522dde2",
+    "wof:geomhash":"e29a1eac9eeae288c1d7e4b5e8e45f25",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550597,
-    "wof:lastmodified":1577837736,
+    "wof:lastmodified":1695878685,
     "wof:name":"Itaquara\u00ed",
     "wof:parent_id":102050589,
     "wof:placetype":"localadmin",

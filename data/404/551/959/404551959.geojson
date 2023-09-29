@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061884,
-    "geom:area_square_m":751122388.981945,
+    "geom:area_square_m":751122388.982,
     "geom:bbox":"-41.782753216,-11.1894984569,-41.42734039,-10.8112043743",
     "geom:latitude":-11.007144,
     "geom:longitude":-41.629459,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.015985,
     "lbl:longitude":-41.641601,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051267
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292925515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"12a934dae958ca828c09e156bc85a6ec",
+    "wof:geomhash":"61f8be3830b5d2ca043548c240906392",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551959,
-    "wof:lastmodified":1577837829,
+    "wof:lastmodified":1695878708,
     "wof:name":"Gameleira Do Jacar\u00e9",
     "wof:parent_id":102051267,
     "wof:placetype":"localadmin",

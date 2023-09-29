@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017859,
-    "geom:area_square_m":195930828.898245,
+    "geom:area_square_m":195930828.898335,
     "geom:bbox":"-48.803709674,-27.5445789786,-48.5770801621,-27.3882544239",
     "geom:latitude":-27.467705,
     "geom:longitude":-48.705158,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.467423,
     "lbl:longitude":-48.703464,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Biqua\u00e7u"
@@ -94,9 +103,12 @@
         102060267
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420230505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d34f3416137d6ce3d6860908a3ea58b1",
+    "wof:geomhash":"06d5bca796fed949b5ff0161959c0b0c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404565213,
-    "wof:lastmodified":1577827747,
+    "wof:lastmodified":1695878199,
     "wof:name":"Bigua\u00e7u",
     "wof:parent_id":102060267,
     "wof:placetype":"localadmin",

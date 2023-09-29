@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023036,
-    "geom:area_square_m":278929383.588642,
+    "geom:area_square_m":278929383.588662,
     "geom:bbox":"-40.3706700523,-11.8351365234,-40.2293796123,-11.5871714064",
     "geom:latitude":-11.696967,
     "geom:longitude":-40.306072,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.692963,
     "lbl:longitude":-40.306118,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Angico"
@@ -88,9 +97,12 @@
         102051007
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292010610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d9c959b6735564c454bc4f0309cd7951",
+    "wof:geomhash":"25f1c5782bb61524c07d8cb1b06d29c4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404551451,
-    "wof:lastmodified":1577837854,
+    "wof:lastmodified":1695878714,
     "wof:name":"Angico",
     "wof:parent_id":102051007,
     "wof:placetype":"localadmin",

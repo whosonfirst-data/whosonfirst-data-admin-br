@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012704,
-    "geom:area_square_m":156739585.050438,
+    "geom:area_square_m":156739585.050461,
     "geom:bbox":"-40.5707193756,-3.8590116725,-40.3932708269,-3.71119292794",
     "geom:latitude":-3.784009,
     "geom:longitude":-40.470028,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.773022,
     "lbl:longitude":-40.456578,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231290835"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"490797b6f97f0c7e11591a9414f82eef",
+    "wof:geomhash":"662a01777848e755eab07c28e39c5a4f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553909,
-    "wof:lastmodified":1577837966,
+    "wof:lastmodified":1695878743,
     "wof:name":"Jaibaras",
     "wof:parent_id":102051775,
     "wof:placetype":"localadmin",

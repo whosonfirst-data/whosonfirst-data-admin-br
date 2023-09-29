@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013921,
-    "geom:area_square_m":162405110.047162,
+    "geom:area_square_m":162405110.047086,
     "geom:bbox":"-42.390519,-19.447589,-42.238107,-19.266906",
     "geom:latitude":-19.357696,
     "geom:longitude":-42.310856,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.352102,
     "lbl:longitude":-42.318356,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c1\u0997\u09cd\u09b0\u09c7"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053289,
         1511777411,
-        85681941
+        102053289
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310925305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053289
     ],
     "wof:country":"BR",
-    "wof:geomhash":"c682d71091feacc994c219417495168d",
+    "wof:geomhash":"a12e1c2a8b642d208ac9c45421a4bd76",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404555561,
-    "wof:lastmodified":1608032416,
+    "wof:lastmodified":1695878806,
     "wof:name":"Bugre",
     "wof:parent_id":102053289,
     "wof:placetype":"localadmin",

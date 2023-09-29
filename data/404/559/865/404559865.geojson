@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007677,
-    "geom:area_square_m":94108846.758606,
+    "geom:area_square_m":94108846.758616,
     "geom:bbox":"-34.9852654443,-7.5491584848,-34.8494793305,-7.4388764235",
     "geom:latitude":-7.504076,
     "geom:longitude":-34.904671,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.503971,
     "lbl:longitude":-34.893335,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09af\u09bc\u09be\u09aa\u09cb\u09b0\u09be"
@@ -82,9 +91,12 @@
         102056073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250300105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"582fce3f1d824f5d7e40c2d744b1e4fb",
+    "wof:geomhash":"4cb44a44c088c7c63049747f4583dd94",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404559865,
-    "wof:lastmodified":1577837972,
+    "wof:lastmodified":1695878744,
     "wof:name":"Caapor\u00e3",
     "wof:parent_id":102056073,
     "wof:placetype":"localadmin",

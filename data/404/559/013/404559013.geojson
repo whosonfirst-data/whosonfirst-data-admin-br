@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038477,
-    "geom:area_square_m":449010669.25582,
+    "geom:area_square_m":449010669.255827,
     "geom:bbox":"-51.87577698,-19.4379951388,-51.5295168442,-19.2176064688",
     "geom:latitude":-19.311034,
     "geom:longitude":-51.696872,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.292075,
     "lbl:longitude":-51.708668,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u09ae\u09be\u09a8\u09cd\u09a1\u09be\u09b0\u09c7"
@@ -88,9 +97,12 @@
         102055299
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500630940"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c6ff6189ae5274ae4a55b667ad4c068a",
+    "wof:geomhash":"7043cf1ec6a85a101e73356cf2059104",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404559013,
-    "wof:lastmodified":1577836163,
+    "wof:lastmodified":1695878646,
     "wof:name":"Tamandar\u00e9",
     "wof:parent_id":102055299,
     "wof:placetype":"localadmin",

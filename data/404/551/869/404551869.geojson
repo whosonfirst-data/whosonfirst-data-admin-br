@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019601,
-    "geom:area_square_m":236736960.340824,
+    "geom:area_square_m":236736960.340811,
     "geom:bbox":"-40.7750105783,-12.4495232804,-40.569182807,-12.311333795",
     "geom:latitude":-12.383055,
     "geom:longitude":-40.655047,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.385842,
     "lbl:longitude":-40.653075,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051213
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292720010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"62a0f1795f885f64adb98f229f056edc",
+    "wof:geomhash":"170bedc0eabd6482063edb8c520e1508",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551869,
-    "wof:lastmodified":1577837975,
+    "wof:lastmodified":1695878744,
     "wof:name":"Morro Das Flores",
     "wof:parent_id":102051213,
     "wof:placetype":"localadmin",

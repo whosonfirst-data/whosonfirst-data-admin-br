@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003963,
-    "geom:area_square_m":43533110.638212,
+    "geom:area_square_m":43532976.980824,
     "geom:bbox":"-53.214789,-27.360293,-53.116353,-27.282218",
     "geom:latitude":-27.321367,
     "geom:longitude":-53.162408,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.320736,
     "lbl:longitude":-53.162412,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Santa Cruz"
@@ -190,9 +199,12 @@
         102059755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431470415"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1a6ea3cbe24f5c8988e4dabd29dec238",
+    "wof:geomhash":"d245875dac93dd9a50ba4c1b53f0ebdc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -204,7 +216,7 @@
         }
     ],
     "wof:id":404564197,
-    "wof:lastmodified":1636496447,
+    "wof:lastmodified":1695878866,
     "wof:name":"Santa Cruz",
     "wof:parent_id":102059755,
     "wof:placetype":"localadmin",

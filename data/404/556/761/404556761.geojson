@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017355,
-    "geom:area_square_m":201162226.953312,
+    "geom:area_square_m":201162226.953213,
     "geom:bbox":"-45.04503,-20.4982619969,-44.882613,-20.2590889969",
     "geom:latitude":-20.38593,
     "geom:longitude":-44.945433,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.383518,
     "lbl:longitude":-44.939913,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09bf\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
@@ -94,9 +103,12 @@
         102054101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313350115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"53272bf08c7755659f45be4e389bde7a",
+    "wof:geomhash":"3801b5ad751bdb764dd713daf269b1b4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404556761,
-    "wof:lastmodified":1577833166,
+    "wof:lastmodified":1695878533,
     "wof:name":"Maril\u00e2ndia",
     "wof:parent_id":102054101,
     "wof:placetype":"localadmin",

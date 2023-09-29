@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003006,
-    "geom:area_square_m":34708891.846211,
+    "geom:area_square_m":34708891.846208,
     "geom:bbox":"-41.7337714472,-20.9955409289,-41.6607913164,-20.9018894094",
     "geom:latitude":-20.949619,
     "geom:longitude":-41.694633,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.948748,
     "lbl:longitude":-41.695177,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320480710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1779dd80f1823bc3768962bef32dc97f",
+    "wof:geomhash":"7dde1d622f76e14f655d53e64c9965de",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554607,
-    "wof:lastmodified":1577833383,
+    "wof:lastmodified":1695878600,
     "wof:name":"Airituba",
     "wof:parent_id":102051967,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012327,
-    "geom:area_square_m":135085723.655066,
+    "geom:area_square_m":135085723.655107,
     "geom:bbox":"-52.1520162012,-27.6791841426,-52.0377676566,-27.5075199156",
     "geom:latitude":-27.595788,
     "geom:longitude":-52.093381,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.597823,
     "lbl:longitude":-52.098035,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09cc\u09b0\u09be\u09ae\u09be"
@@ -103,9 +112,12 @@
         102059435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430870605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cd03f29c75b8b09d742b440dc156ffa8",
+    "wof:geomhash":"2e6cde13ab9507ec935fd92c31ecfed9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404563651,
-    "wof:lastmodified":1577827861,
+    "wof:lastmodified":1695878253,
     "wof:name":"Gaurama",
     "wof:parent_id":102059435,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02855,
-    "geom:area_square_m":352192513.311185,
+    "geom:area_square_m":352192513.31123,
     "geom:bbox":"-40.6061102353,-4.04820926097,-40.4065226205,-3.80664004472",
     "geom:latitude":-3.93352,
     "geom:longitude":-40.499613,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.925679,
     "lbl:longitude":-40.491459,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09bf\u09b0\u09c7"
@@ -88,9 +97,12 @@
         102051483
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230310505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9b17e01e9103347d5533f7bdb25b6a2f",
+    "wof:geomhash":"2eab45505c35c19632d91795b9fff428",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404552613,
-    "wof:lastmodified":1577837926,
+    "wof:lastmodified":1695878732,
     "wof:name":"Carir\u00e9",
     "wof:parent_id":102051483,
     "wof:placetype":"localadmin",

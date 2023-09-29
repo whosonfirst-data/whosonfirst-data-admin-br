@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010759,
-    "geom:area_square_m":129609989.172598,
+    "geom:area_square_m":129609989.172578,
     "geom:bbox":"-39.823705115,-13.0904571642,-39.660722411,-12.969258489",
     "geom:latitude":-13.031333,
     "geom:longitude":-39.735449,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.042693,
     "lbl:longitude":-39.713829,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050485
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290100720"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6369082acc62b3cf6378db9f9548b182",
+    "wof:geomhash":"31b79746bec82e24ee4f5084243bddaa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550403,
-    "wof:lastmodified":1577837919,
+    "wof:lastmodified":1695878730,
     "wof:name":"Itachama",
     "wof:parent_id":102050485,
     "wof:placetype":"localadmin",

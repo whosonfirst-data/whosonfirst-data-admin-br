@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017807,
-    "geom:area_square_m":203051119.543596,
+    "geom:area_square_m":203051119.543579,
     "geom:bbox":"-44.2586798006,-22.8379926445,-44.046812692,-22.6629059555",
     "geom:latitude":-22.755145,
     "geom:longitude":-44.137272,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.758169,
     "lbl:longitude":-44.126841,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u0993 \u0995\u09b2\u09be\u09b0\u09cb"
@@ -76,9 +85,12 @@
         102058449
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330440905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b37be2afb6998b0332012da72679e6ac",
+    "wof:geomhash":"471b23c926b961bbe1c82ef9630dde02",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404562475,
-    "wof:lastmodified":1577833338,
+    "wof:lastmodified":1695878585,
     "wof:name":"Rio Claro",
     "wof:parent_id":102058449,
     "wof:placetype":"localadmin",

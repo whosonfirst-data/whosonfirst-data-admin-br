@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011167,
-    "geom:area_square_m":127923410.396909,
+    "geom:area_square_m":127923410.396934,
     "geom:bbox":"-43.2598476072,-22.2007235203,-43.1275495282,-22.0350205743",
     "geom:latitude":-22.115912,
     "geom:longitude":-43.191454,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.112761,
     "lbl:longitude":-43.195958,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09cd\u09b0\u09c7\u09b8 \u09b0\u09bf\u0993\u09b8"
@@ -100,9 +109,12 @@
         102058501
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330600805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0dcdfc37e70f1bbbd1270eae8a5cb50d",
+    "wof:geomhash":"26df3f2fd4e3e3eaf9c99c4bd6137671",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404562639,
-    "wof:lastmodified":1577833387,
+    "wof:lastmodified":1695878602,
     "wof:name":"Tr\u00eas Rios",
     "wof:parent_id":102058501,
     "wof:placetype":"localadmin",

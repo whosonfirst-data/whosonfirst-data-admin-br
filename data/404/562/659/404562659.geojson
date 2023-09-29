@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00819,
-    "geom:area_square_m":93724577.575001,
+    "geom:area_square_m":93724577.574999,
     "geom:bbox":"-43.5036869685,-22.3106065035,-43.3492239524,-22.2148878882",
     "geom:latitude":-22.261601,
     "geom:longitude":-43.433986,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.266493,
     "lbl:longitude":-43.452112,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058507
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330620610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5e24e275385c5e00787232c29463a93a",
+    "wof:geomhash":"79dd05a0a8c96a5d059175393e78070d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562659,
-    "wof:lastmodified":1577833282,
+    "wof:lastmodified":1695878570,
     "wof:name":"Andrade Pinto",
     "wof:parent_id":102058507,
     "wof:placetype":"localadmin",

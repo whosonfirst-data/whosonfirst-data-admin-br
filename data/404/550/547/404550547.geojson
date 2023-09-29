@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04559,
-    "geom:area_square_m":552294843.901783,
+    "geom:area_square_m":552294843.901663,
     "geom:bbox":"-38.86505,-11.775653,-38.674241,-11.354606",
     "geom:latitude":-11.562367,
     "geom:longitude":-38.789804,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.56407,
     "lbl:longitude":-38.788336,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09bf\u09b0\u09bf\u099f\u09bf\u0999\u09cd\u0997\u09be"
@@ -103,12 +112,15 @@
         102050563
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290360705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050563
     ],
     "wof:country":"BR",
-    "wof:geomhash":"60771ff01ffd9109d6eb3ee319a2f22f",
+    "wof:geomhash":"7c4d9677fc46b2d08387587e3f88d2a1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404550547,
-    "wof:lastmodified":1617131293,
+    "wof:lastmodified":1695878844,
     "wof:name":"Biritinga",
     "wof:parent_id":102050563,
     "wof:placetype":"localadmin",

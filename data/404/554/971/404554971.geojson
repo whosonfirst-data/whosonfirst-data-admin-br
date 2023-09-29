@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.555873,
-    "geom:area_square_m":6783814885.378773,
+    "geom:area_square_m":6783814885.37911,
     "geom:bbox":"-46.6689462296,-9.73370065022,-45.7831437735,-8.75803043856",
     "geom:latitude":-9.261946,
     "geom:longitude":-46.236736,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.269357,
     "lbl:longitude":-46.245027,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09cd\u099f\u09cb \u09aa\u09be\u09b0\u09cd\u09a8\u09be\u0987\u09ac\u09be"
@@ -97,9 +106,12 @@
         102052781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"210050105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2a174bd2769538d848099ff115ad9554",
+    "wof:geomhash":"1fc5d3f82d67f029c19cbba0c89d1de4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404554971,
-    "wof:lastmodified":1577837829,
+    "wof:lastmodified":1695878709,
     "wof:name":"Alto Parna\u00edba",
     "wof:parent_id":102052781,
     "wof:placetype":"localadmin",

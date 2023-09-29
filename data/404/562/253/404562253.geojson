@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008815,
-    "geom:area_square_m":100556815.079217,
+    "geom:area_square_m":100556815.079232,
     "geom:bbox":"-43.329291,-22.755924,-43.211765,-22.636029",
     "geom:latitude":-22.703062,
     "geom:longitude":-43.273493,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.699275,
     "lbl:longitude":-43.274603,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102058359
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330170210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101953239
     ],
     "wof:country":"BR",
-    "wof:geomhash":"4892032830ae86a847145a66b5458d9d",
+    "wof:geomhash":"0829897d4c49015b8f7cdced495ce0e7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404562253,
-    "wof:lastmodified":1617130584,
+    "wof:lastmodified":1695878836,
     "wof:name":"Campos Elyseos",
     "wof:parent_id":102058359,
     "wof:placetype":"localadmin",

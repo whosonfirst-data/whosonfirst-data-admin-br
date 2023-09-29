@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005619,
-    "geom:area_square_m":64793014.730328,
+    "geom:area_square_m":64793014.730392,
     "geom:bbox":"-45.40184,-21.2434749968,-45.304982,-21.1239899968",
     "geom:latitude":-21.171506,
     "geom:longitude":-45.359821,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.161092,
     "lbl:longitude":-45.355054,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053713
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311870010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3d01cc34f97f73bb1764838325c7d3db",
+    "wof:geomhash":"b8469801138af3d4cc80a2419ae1756c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556027,
-    "wof:lastmodified":1577832576,
+    "wof:lastmodified":1695878326,
     "wof:name":"Frei Eust\u00e1quio",
     "wof:parent_id":102053713,
     "wof:placetype":"localadmin",

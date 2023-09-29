@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075315,
-    "geom:area_square_m":883907243.605155,
+    "geom:area_square_m":883907243.605249,
     "geom:bbox":"-47.679748,-18.588557,-47.296025,-18.158927",
     "geom:latitude":-18.353174,
     "geom:longitude":-47.458991,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.316443,
     "lbl:longitude":-47.461827,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053369,
         1511777411,
-        85681941
+        102053369
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310010405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053369
     ],
     "wof:country":"BR",
-    "wof:geomhash":"1db1d2a63d5e94887f2d651aea7aa46b",
+    "wof:geomhash":"21cd082d8bbd3caf525eeef4c39ae3ed",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404555099,
-    "wof:lastmodified":1608032510,
+    "wof:lastmodified":1695878808,
     "wof:name":"Abadia Dos Dourados",
     "wof:parent_id":102053369,
     "wof:placetype":"localadmin",

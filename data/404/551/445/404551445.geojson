@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041477,
-    "geom:area_square_m":493741489.635547,
+    "geom:area_square_m":493741489.635541,
     "geom:bbox":"-40.450034,-15.82433,-40.133203,-15.510526",
     "geom:latitude":-15.697151,
     "geom:longitude":-40.278051,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.715321,
     "lbl:longitude":-40.288782,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u0987\u0995\u09c1\u0987\u09a8\u09bf\u0995\u09c1\u09af\u09bc\u09c7"
@@ -97,12 +106,15 @@
         102051005
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292000705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102051005
     ],
     "wof:country":"BR",
-    "wof:geomhash":"dd1294757592da0c05b8005e8ff8dc66",
+    "wof:geomhash":"0f186f0b8069130c854493107ff3978a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404551445,
-    "wof:lastmodified":1617131225,
+    "wof:lastmodified":1695878843,
     "wof:name":"Maiquinique",
     "wof:parent_id":102051005,
     "wof:placetype":"localadmin",

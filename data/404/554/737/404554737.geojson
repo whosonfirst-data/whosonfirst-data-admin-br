@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032948,
-    "geom:area_square_m":391375460.65312,
+    "geom:area_square_m":391375460.653159,
     "geom:bbox":"-47.964763,-16.258154,-47.67707,-16.04993",
     "geom:latitude":-16.124358,
     "geom:longitude":-47.819117,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.11749,
     "lbl:longitude":-47.804927,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09bf\u09a1\u09be\u09a1\u09c7 \u0993\u09b8\u09bf\u09a1\u09c7\u09a8\u09cd\u099f\u09be\u09b2"
@@ -103,12 +112,15 @@
         102052137
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"520549705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102052137
     ],
     "wof:country":"BR",
-    "wof:geomhash":"9e46a5ba1bd7e6ff332fb6b2eb85987e",
+    "wof:geomhash":"54b9032abf8549dbc76f1c415b06de87",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404554737,
-    "wof:lastmodified":1617129864,
+    "wof:lastmodified":1695878825,
     "wof:name":"Cidade Ocidental",
     "wof:parent_id":102052137,
     "wof:placetype":"localadmin",

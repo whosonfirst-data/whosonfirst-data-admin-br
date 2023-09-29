@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.148244,
-    "geom:area_square_m":1831382172.495592,
+    "geom:area_square_m":1831382172.4956,
     "geom:bbox":"-55.8654789554,-2.88473289736,-54.8316519021,-2.24468760226",
     "geom:latitude":-2.4537,
     "geom:longitude":-55.185636,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-2.428513,
     "lbl:longitude":-55.048515,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055915
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150680710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3c39fc880d59ac72f9feadcb3e17fb98",
+    "wof:geomhash":"d061461ac8850db86c6bfe85260fcc4c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559755,
-    "wof:lastmodified":1577825695,
+    "wof:lastmodified":1695878168,
     "wof:name":"Alter Do Ch\u00e3o",
     "wof:parent_id":102055915,
     "wof:placetype":"localadmin",

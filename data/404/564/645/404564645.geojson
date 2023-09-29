@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008427,
-    "geom:area_square_m":92148238.596172,
+    "geom:area_square_m":92148238.59617,
     "geom:bbox":"-51.5668842752,-27.8969726496,-51.4479189782,-27.7635439742",
     "geom:latitude":-27.834092,
     "geom:longitude":-51.504478,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.851603,
     "lbl:longitude":-51.489633,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09cd\u09ae\u09c7\u09b2\u09af\u09bc\u09c7\u0987\u09b0\u09cb"
@@ -88,9 +97,12 @@
         102059925
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431860617"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4acd7a798aaf89c4bcfb5c949650abf0",
+    "wof:geomhash":"0263c187792f401dce5c887ea3bb4c1a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404564645,
-    "wof:lastmodified":1577827853,
+    "wof:lastmodified":1695878249,
     "wof:name":"Marmeleiro",
     "wof:parent_id":102059925,
     "wof:placetype":"localadmin",

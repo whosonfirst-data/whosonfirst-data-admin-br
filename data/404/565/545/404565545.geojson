@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047935,
-    "geom:area_square_m":530535164.220818,
+    "geom:area_square_m":530535164.220574,
     "geom:bbox":"-49.297321385,-26.6486663135,-49.0146438748,-26.2168569993",
     "geom:latitude":-26.481274,
     "geom:longitude":-49.159958,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.488054,
     "lbl:longitude":-49.136459,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060487
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420890605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f573127df0b1f39672f91eed1bd0bd0a",
+    "wof:geomhash":"5c4fe8465c159d314b2a4bfa06e39fa2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565545,
-    "wof:lastmodified":1577827708,
+    "wof:lastmodified":1695878180,
     "wof:name":"Jaragu\u00e1 Do Sul",
     "wof:parent_id":102060487,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006855,
-    "geom:area_square_m":75234837.761386,
+    "geom:area_square_m":75234837.761373,
     "geom:bbox":"-49.1468661237,-27.5028181828,-49.0154318685,-27.3706819402",
     "geom:latitude":-27.431713,
     "geom:longitude":-49.09019,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.429368,
     "lbl:longitude":-49.095639,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09a8\u09b9\u09c7\u0987\u09b0\u09cd\u0986\u09b2"
@@ -88,9 +97,12 @@
         102060533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421020915"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b0d17c73377592d61b5d657bfc57f3af",
+    "wof:geomhash":"5f8966f4d9647f51962386cc9b326136",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404565609,
-    "wof:lastmodified":1577827946,
+    "wof:lastmodified":1695878292,
     "wof:name":"Pinheiral",
     "wof:parent_id":102060533,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005365,
-    "geom:area_square_m":62319350.267359,
+    "geom:area_square_m":62319350.267328,
     "geom:bbox":"-44.181153,-20.098924,-44.064263,-20.01743",
     "geom:latitude":-20.059145,
     "geom:longitude":-44.121043,
@@ -75,16 +75,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777411,
-        85681941
+        85681941,
+        1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3165537"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404558445
     ],
     "wof:country":"BR",
-    "wof:geomhash":"f3277694cd2ae957f50826039a60d997",
+    "wof:geomhash":"ab0abc68591c971064f3944c74109ce1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":102054979,
-    "wof:lastmodified":1608030552,
+    "wof:lastmodified":1695886417,
     "wof:name":"Sarzedo",
     "wof:parent_id":85681941,
     "wof:placetype":"county",

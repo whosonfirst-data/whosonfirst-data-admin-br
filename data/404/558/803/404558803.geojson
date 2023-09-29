@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.109886,
-    "geom:area_square_m":12924721738.822861,
+    "geom:area_square_m":12924723819.060057,
     "geom:bbox":"-56.999741,-20.494234,-55.101821,-18.580203",
     "geom:latitude":-19.648112,
     "geom:longitude":-55.841478,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.667036,
     "lbl:longitude":-55.697072,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0986\u0995\u09c1\u0987\u09a6\u09be\u0989\u09df\u09be\u09a8\u09be"
@@ -130,9 +139,12 @@
         102055189
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500110205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f8f1f6a7112cabf6e6a77e983814d454",
+    "wof:geomhash":"784100d1a1481e07dd4cc81a8efb1bf5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +156,7 @@
         }
     ],
     "wof:id":404558803,
-    "wof:lastmodified":1636496420,
+    "wof:lastmodified":1695878857,
     "wof:name":"Aquidauana",
     "wof:parent_id":102055189,
     "wof:placetype":"localadmin",

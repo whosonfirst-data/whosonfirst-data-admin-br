@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006259,
-    "geom:area_square_m":72146269.757919,
+    "geom:area_square_m":72146269.757971,
     "geom:bbox":"-50.2091155484,-21.2952969842,-50.1288873451,-21.1363700224",
     "geom:latitude":-21.224081,
     "geom:longitude":-50.16611,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.227679,
     "lbl:longitude":-50.163366,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061429
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351710910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c76c4931c72ebbc0a015461aea962cb1",
+    "wof:geomhash":"c99981057c95b677130b53c7d585673d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566447,
-    "wof:lastmodified":1577833373,
+    "wof:lastmodified":1695878596,
     "wof:name":"Juritis",
     "wof:parent_id":102061429,
     "wof:placetype":"localadmin",

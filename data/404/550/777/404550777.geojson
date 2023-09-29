@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05339,
-    "geom:area_square_m":645106272.352162,
+    "geom:area_square_m":645106272.352006,
     "geom:bbox":"-44.926826,-12.408843,-44.46556,-12.144034",
     "geom:latitude":-12.264422,
     "geom:longitude":-44.689267,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.246187,
     "lbl:longitude":-44.647372,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u099f\u09cb\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
@@ -103,12 +112,15 @@
         102050669
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290740005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050669
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a7040542d69cc196199fb688fe2b9fd8",
+    "wof:geomhash":"2a794d7cdd69f6bbec2ee604a176e405",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404550777,
-    "wof:lastmodified":1617131231,
+    "wof:lastmodified":1695878843,
     "wof:name":"Catol\u00e2ndia",
     "wof:parent_id":102050669,
     "wof:placetype":"localadmin",

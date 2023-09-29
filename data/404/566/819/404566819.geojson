@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00412,
-    "geom:area_square_m":47490307.70948,
+    "geom:area_square_m":47490307.709508,
     "geom:bbox":"-48.7061660571,-21.2592042835,-48.5777942504,-21.1964169311",
     "geom:latitude":-21.2274,
     "geom:longitude":-48.626069,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.225271,
     "lbl:longitude":-48.621695,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061779
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"353130808"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b1a0c8e1e7c9a2c76a9ce1998be477fa",
+    "wof:geomhash":"95bf7a29b0c4684a98590ef21354a88c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566819,
-    "wof:lastmodified":1577833402,
+    "wof:lastmodified":1695878608,
     "wof:name":"Aparecida Do Monte Alto",
     "wof:parent_id":102061779,
     "wof:placetype":"localadmin",

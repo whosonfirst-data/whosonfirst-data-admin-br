@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03593,
-    "geom:area_square_m":408736097.68564,
+    "geom:area_square_m":408736097.685603,
     "geom:bbox":"-52.4209148029,-23.2341079134,-52.2329900868,-22.9066586429",
     "geom:latitude":-23.076094,
     "geom:longitude":-52.323577,
@@ -32,7 +32,7 @@
     "mps:latitude":-23.119392,
     "mps:longitude":-52.315688,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09cd\u099f\u09cb \u09aa\u09be\u09b0\u09be\u09a8\u09be"
@@ -87,9 +87,12 @@
         1511777409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"4100608"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a3b62bbffa85708123caefd9b860b23a",
+    "wof:geomhash":"50100839e2ee1ae3416501c6a9bac81e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":102057421,
-    "wof:lastmodified":1577827512,
+    "wof:lastmodified":1695887001,
     "wof:name":"Alto Parana",
     "wof:parent_id":85681983,
     "wof:placetype":"county",

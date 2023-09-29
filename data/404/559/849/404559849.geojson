@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002617,
-    "geom:area_square_m":32112223.421891,
+    "geom:area_square_m":32112223.421907,
     "geom:bbox":"-34.973791,-7.175584,-34.889617,-7.07942",
     "geom:latitude":-7.135064,
     "geom:longitude":-34.926,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.147567,
     "lbl:longitude":-34.933646,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Baius"
@@ -192,19 +201,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681967,
         102191577,
         85633009,
-        102056041,
         1511777415,
-        85681967
+        102056041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250180705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102056041
     ],
     "wof:country":"BR",
-    "wof:geomhash":"474ff47c0fc700a5e0ae80f0f9ce342c",
+    "wof:geomhash":"0601643220b719756763a2a2a485b446",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -216,7 +228,7 @@
         }
     ],
     "wof:id":404559849,
-    "wof:lastmodified":1608031276,
+    "wof:lastmodified":1695878788,
     "wof:name":"Bayeux",
     "wof:parent_id":102056041,
     "wof:placetype":"localadmin",

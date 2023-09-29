@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032698,
-    "geom:area_square_m":343245827.793148,
+    "geom:area_square_m":343245827.793113,
     "geom:bbox":"-52.6623296052,-32.0167236671,-52.3801798844,-31.8025467807",
     "geom:latitude":-31.901212,
     "geom:longitude":-52.49498,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-31.885348,
     "lbl:longitude":-52.483267,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Pav\u00e3o"
@@ -49,9 +58,12 @@
         102059227
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430466320"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9f725c84d72a49a62d47b5a9d4c57ace",
+    "wof:geomhash":"b04ebd2549333d351a8d8bf5653b90a0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":404563295,
-    "wof:lastmodified":1577827722,
+    "wof:lastmodified":1695878187,
     "wof:name":"Pav\u00e3o",
     "wof:parent_id":102059227,
     "wof:placetype":"localadmin",

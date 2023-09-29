@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01372,
-    "geom:area_square_m":151702676.252679,
+    "geom:area_square_m":151702676.252703,
     "geom:bbox":"-48.862028,-26.6790905976,-48.7392,-26.5129602871",
     "geom:latitude":-26.590863,
     "geom:longitude":-48.797741,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.589965,
     "lbl:longitude":-48.797735,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060737
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421635405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"51ff43c600719c02e4da50f067e6f3df",
+    "wof:geomhash":"bacb1a07129f116b8a8810758d741d7d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565847,
-    "wof:lastmodified":1577827704,
+    "wof:lastmodified":1695878178,
     "wof:name":"S\u00e3o Jo\u00e3o Do Itaperi\u00fa",
     "wof:parent_id":102060737,
     "wof:placetype":"localadmin",

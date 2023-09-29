@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028793,
-    "geom:area_square_m":349022280.798946,
+    "geom:area_square_m":349022280.79884,
     "geom:bbox":"-61.0511828249,-11.5041650805,-60.831093692,-11.1968066208",
     "geom:latitude":-11.38882,
     "geom:longitude":-60.942463,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.3924,
     "lbl:longitude":-60.944117,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058905
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"110009812"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1c05ab36b21ed214bbfcef280e8ecf61",
+    "wof:geomhash":"8964dc522001132c87ab6a748e086887",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562765,
-    "wof:lastmodified":1577825694,
+    "wof:lastmodified":1695878168,
     "wof:name":"Novo Para\u00edso",
     "wof:parent_id":102058905,
     "wof:placetype":"localadmin",

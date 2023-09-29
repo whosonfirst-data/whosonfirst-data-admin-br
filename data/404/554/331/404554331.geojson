@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01214,
-    "geom:area_square_m":142735522.86877,
+    "geom:area_square_m":142735522.868739,
     "geom:bbox":"-40.9028230469,-18.107562653,-40.7357271218,-17.9520471718",
     "geom:latitude":-18.022223,
     "geom:longitude":-40.806895,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.022033,
     "lbl:longitude":-40.806885,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09c1\u09b0\u09bf\u099f\u09bf\u09ac\u09be"
@@ -94,9 +103,12 @@
         102051871
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320210822"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4873593171d5809d917527345d087aab",
+    "wof:geomhash":"a05cce980b643519317382fa24a7c73e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404554331,
-    "wof:lastmodified":1577833100,
+    "wof:lastmodified":1695878514,
     "wof:name":"Muritiba",
     "wof:parent_id":102051871,
     "wof:placetype":"localadmin",

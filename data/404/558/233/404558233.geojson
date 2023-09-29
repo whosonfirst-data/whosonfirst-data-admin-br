@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024291,
-    "geom:area_square_m":288637559.874467,
+    "geom:area_square_m":288637559.874511,
     "geom:bbox":"-45.07956,-16.1629859975,-44.900451,-15.9684379975",
     "geom:latitude":-16.065547,
     "geom:longitude":-44.990334,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.067883,
     "lbl:longitude":-44.990333,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Retiro"
@@ -88,9 +97,12 @@
         102054853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316110618"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d85ac4736c1b1fd31c6d3c173654278a",
+    "wof:geomhash":"f488647d8d65dce7324c4cacf006f0b5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404558233,
-    "wof:lastmodified":1577832561,
+    "wof:lastmodified":1695878322,
     "wof:name":"Retiro",
     "wof:parent_id":102054853,
     "wof:placetype":"localadmin",

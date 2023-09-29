@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035372,
-    "geom:area_square_m":386819598.583747,
+    "geom:area_square_m":386819598.583719,
     "geom:bbox":"-52.895572,-27.948098,-52.57321,-27.689854",
     "geom:latitude":-27.82169,
     "geom:longitude":-52.742181,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.846811,
     "lbl:longitude":-52.717852,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09cb\u09a8\u09cd\u09a1\u09be \u0986\u09b2\u09cd\u099f\u09be"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682015,
         102191577,
         85633009,
-        102059823,
         1511777409,
-        85682015
+        102059823
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431610505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102059823
     ],
     "wof:country":"BR",
-    "wof:geomhash":"592491e9fd192f06fff4e997c302fc6b",
+    "wof:geomhash":"cb4142fc0c9b12c6fdfd694624c53c9f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404564305,
-    "wof:lastmodified":1608033312,
+    "wof:lastmodified":1695878817,
     "wof:name":"Ronda Alta",
     "wof:parent_id":102059823,
     "wof:placetype":"localadmin",

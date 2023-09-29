@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002687,
-    "geom:area_square_m":29454073.41198,
+    "geom:area_square_m":29454073.411961,
     "geom:bbox":"-53.7431889407,-27.6125316739,-53.668741701,-27.5449608641",
     "geom:latitude":-27.575154,
     "geom:longitude":-53.702246,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.575114,
     "lbl:longitude":-53.702814,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430260010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"67cef4cef5a26ae8ded8772db2330f76",
+    "wof:geomhash":"b4025595959d8c75891c41de1e4046a9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404563137,
-    "wof:lastmodified":1577827724,
+    "wof:lastmodified":1695878188,
     "wof:name":"Pedro G\u00e1rcia",
     "wof:parent_id":102059161,
     "wof:placetype":"localadmin",

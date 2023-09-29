@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037018,
-    "geom:area_square_m":426022536.775498,
+    "geom:area_square_m":426022536.775549,
     "geom:bbox":"-45.369895,-21.5627119968,-45.09523,-21.3451949968",
     "geom:latitude":-21.453805,
     "geom:longitude":-45.217722,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.453127,
     "lbl:longitude":-45.215073,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311390905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c88588b8bd180b4bed56654a6ca83099",
+    "wof:geomhash":"350304c3bb490da61c5ce1a51b89a63f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555779,
-    "wof:lastmodified":1577833202,
+    "wof:lastmodified":1695878542,
     "wof:name":"Carmo Da Cachoeira",
     "wof:parent_id":102053589,
     "wof:placetype":"localadmin",

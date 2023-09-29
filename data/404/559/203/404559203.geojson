@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038267,
-    "geom:area_square_m":455097984.835312,
+    "geom:area_square_m":455097984.835493,
     "geom:bbox":"-58.3581093914,-16.0516289595,-58.1062336911,-15.7017351436",
     "geom:latitude":-15.890032,
     "geom:longitude":-58.239217,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.893382,
     "lbl:longitude":-58.230641,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055449
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510395705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1f4023b8b3bf0a2cb6b4840736df0d35",
+    "wof:geomhash":"6b35e378da309a7bae092c2477cb77b7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559203,
-    "wof:lastmodified":1577836167,
+    "wof:lastmodified":1695878647,
     "wof:name":"Gl\u00f3ria D'Oeste",
     "wof:parent_id":102055449,
     "wof:placetype":"localadmin",

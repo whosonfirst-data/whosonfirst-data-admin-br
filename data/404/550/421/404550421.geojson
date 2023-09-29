@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103689,
-    "geom:area_square_m":1240594283.332231,
+    "geom:area_square_m":1240594283.332104,
     "geom:bbox":"-41.229602869,-14.8537230115,-40.776366383,-14.3989959879",
     "geom:latitude":-14.623751,
     "geom:longitude":-41.018208,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.568405,
     "lbl:longitude":-40.995909,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u09be\u0997\u09c7"
@@ -103,9 +112,12 @@
         102050493
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290120505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"70e901b91088a72c7155bf6752938ac6",
+    "wof:geomhash":"68ea3cc4cfcc3a9c208e82ee2992e5c0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404550421,
-    "wof:lastmodified":1577837705,
+    "wof:lastmodified":1695878678,
     "wof:name":"Anag\u00e9",
     "wof:parent_id":102050493,
     "wof:placetype":"localadmin",

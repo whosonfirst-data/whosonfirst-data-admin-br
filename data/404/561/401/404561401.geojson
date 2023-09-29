@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024687,
-    "geom:area_square_m":274529863.675004,
+    "geom:area_square_m":274529863.674876,
     "geom:bbox":"-51.0409829157,-26.0571908403,-50.7320311271,-25.7520957945",
     "geom:latitude":-25.928908,
     "geom:longitude":-50.898615,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.959937,
     "lbl:longitude":-50.883531,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411390810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"942b8d09b64226ca734a0efc8dffe645",
+    "wof:geomhash":"fd096af2e9b5e4435c5adbc0cde61ced",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561401,
-    "wof:lastmodified":1577827768,
+    "wof:lastmodified":1695878208,
     "wof:name":"Dorizon",
     "wof:parent_id":102057843,
     "wof:placetype":"localadmin",

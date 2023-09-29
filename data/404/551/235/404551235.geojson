@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087119,
-    "geom:area_square_m":1037745779.262868,
+    "geom:area_square_m":1037745779.262958,
     "geom:bbox":"-40.221539787,-15.7432554715,-39.772054125,-15.3603615505",
     "geom:latitude":-15.563228,
     "geom:longitude":-40.030311,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.569036,
     "lbl:longitude":-40.011676,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09b0\u09be\u09a8\u09cd\u099f\u09bf\u09ae"
@@ -91,9 +100,12 @@
         102050907
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291680705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"42d6937362879d16fb1a71375a412ea3",
+    "wof:geomhash":"34e32ba6ba80ef1a1e4b2c1aa01cd1a1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404551235,
-    "wof:lastmodified":1577837700,
+    "wof:lastmodified":1695878677,
     "wof:name":"Itarantim",
     "wof:parent_id":102050907,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014685,
-    "geom:area_square_m":159480209.598791,
+    "geom:area_square_m":159480209.598759,
     "geom:bbox":"-52.0987041783,-28.6263449248,-51.8486388118,-28.5093840497",
     "geom:latitude":-28.568021,
     "geom:longitude":-51.984268,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.561734,
     "lbl:longitude":-51.986173,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Casca"
@@ -70,9 +79,12 @@
         102059245
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430490305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"88796688ae196dc15ec132c339340c52",
+    "wof:geomhash":"a5e2a92c6bc6d964446b53c065d85a38",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404563321,
-    "wof:lastmodified":1577827709,
+    "wof:lastmodified":1695878180,
     "wof:name":"Casca",
     "wof:parent_id":102059245,
     "wof:placetype":"localadmin",

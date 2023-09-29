@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.460083,
-    "geom:area_square_m":5615419874.930552,
+    "geom:area_square_m":5615419874.930515,
     "geom:bbox":"-68.6375919203,-9.59234368676,-67.1707204188,-8.98041214499",
     "geom:latitude":-9.221577,
     "geom:longitude":-67.731853,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.243984,
     "lbl:longitude":-67.659382,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Floriano Peixoto"
@@ -148,9 +157,12 @@
         102050315
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"130070610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d5ca2e7154b6c4f4229738ba426b25e2",
+    "wof:geomhash":"55cba4f576a5b662212e93d61ea02f66",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -162,7 +174,7 @@
         }
     ],
     "wof:id":404550247,
-    "wof:lastmodified":1577825681,
+    "wof:lastmodified":1695878161,
     "wof:name":"Floriano Peixoto",
     "wof:parent_id":102050315,
     "wof:placetype":"localadmin",

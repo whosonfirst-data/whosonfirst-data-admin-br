@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007192,
-    "geom:area_square_m":78826430.265841,
+    "geom:area_square_m":78826430.265825,
     "geom:bbox":"-53.4868379155,-27.6359500842,-53.3805197314,-27.5065672029",
     "geom:latitude":-27.575942,
     "geom:longitude":-53.434527,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.582944,
     "lbl:longitude":-53.439748,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059377
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430730225"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1faeaf38ea5e172bf447b112addffbdb",
+    "wof:geomhash":"79c28fec169a3c57c7e034bca3784c98",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404563555,
-    "wof:lastmodified":1577827701,
+    "wof:lastmodified":1695878176,
     "wof:name":"S\u00e3o Bom Jesus",
     "wof:parent_id":102059377,
     "wof:placetype":"localadmin",

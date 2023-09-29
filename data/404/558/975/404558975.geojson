@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002204,
-    "geom:area_square_m":25267298.370301,
+    "geom:area_square_m":25267298.370299,
     "geom:bbox":"-54.7680722545,-22.0478642393,-54.6806535552,-21.9973876374",
     "geom:latitude":-22.022354,
     "geom:longitude":-54.732612,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.023263,
     "lbl:longitude":-54.736919,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u062a\u064a\u0632\u064a"
@@ -148,9 +157,12 @@
         102055259
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500450215"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"34cb2f4d821f5109e0358589b82613ee",
+    "wof:geomhash":"f82264da13fe5d275dfd69a8dd5cdf4b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -162,7 +174,7 @@
         }
     ],
     "wof:id":404558975,
-    "wof:lastmodified":1577836098,
+    "wof:lastmodified":1695878631,
     "wof:name":"Montese",
     "wof:parent_id":102055259,
     "wof:placetype":"localadmin",

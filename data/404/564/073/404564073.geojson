@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013052,
-    "geom:area_square_m":139193294.004663,
+    "geom:area_square_m":139193294.004709,
     "geom:bbox":"-50.3991516478,-30.5008737691,-50.2508711462,-30.2828203383",
     "geom:latitude":-30.404159,
     "geom:longitude":-50.323648,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.40877,
     "lbl:longitude":-50.318582,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431365630"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e7e926f44c8183234eec3cbc6e5fb456",
+    "wof:geomhash":"05a7a1e9192853af4bc96044607bd52e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564073,
-    "wof:lastmodified":1577827897,
+    "wof:lastmodified":1695878269,
     "wof:name":"Quint\u00e3o",
     "wof:parent_id":102059697,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008185,
-    "geom:area_square_m":100231059.257484,
+    "geom:area_square_m":100231059.257443,
     "geom:bbox":"-35.971430492,-8.00618391876,-35.8709339305,-7.87217620704",
     "geom:latitude":-7.947972,
     "geom:longitude":-35.922124,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.948664,
     "lbl:longitude":-35.922116,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09cd\u09b0\u09c7\u0987 \u09ae\u09bf\u0997\u09c1\u09f1\u09c7\u09b2\u09bf\u09a8\u09b9\u09cb"
@@ -88,9 +97,12 @@
         102056631
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260580605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"322bb3e9d20455d8bc95de00df677b0d",
+    "wof:geomhash":"bb0c4587bd66780f07837711252d4259",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404560347,
-    "wof:lastmodified":1577837648,
+    "wof:lastmodified":1695878664,
     "wof:name":"Frei Miguelinho",
     "wof:parent_id":102056631,
     "wof:placetype":"localadmin",

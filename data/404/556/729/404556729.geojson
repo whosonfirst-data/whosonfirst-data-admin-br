@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047067,
-    "geom:area_square_m":553381483.398211,
+    "geom:area_square_m":553381483.398393,
     "geom:bbox":"-41.8635214899,-18.2023379972,-41.567706,-17.8951999972",
     "geom:latitude":-18.041398,
     "geom:longitude":-41.708816,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.02468,
     "lbl:longitude":-41.694943,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09ae\u09ac\u09be\u0995\u09c1\u09b0\u09bf"
@@ -100,9 +109,12 @@
         102054083
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313270105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a9c00ca9e8e99af8b7dde54eb2a70d34",
+    "wof:geomhash":"45c08eed5572830a0938ad2307c56987",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404556729,
-    "wof:lastmodified":1577833170,
+    "wof:lastmodified":1695878534,
     "wof:name":"Itambacuri",
     "wof:parent_id":102054083,
     "wof:placetype":"localadmin",

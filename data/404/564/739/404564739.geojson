@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014181,
-    "geom:area_square_m":152587506.246684,
+    "geom:area_square_m":152587506.246729,
     "geom:bbox":"-54.303828495,-29.59380795,-54.0843372984,-29.4580949499",
     "geom:latitude":-29.522762,
     "geom:longitude":-54.187315,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.531826,
     "lbl:longitude":-54.189019,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059959
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431940615"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"165d67573961b90ff55b482e029ec6e3",
+    "wof:geomhash":"e458d890f6a3e2fdf0dbaecdecc75d0c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564739,
-    "wof:lastmodified":1577827947,
+    "wof:lastmodified":1695878293,
     "wof:name":"Guassupi",
     "wof:parent_id":102059959,
     "wof:placetype":"localadmin",

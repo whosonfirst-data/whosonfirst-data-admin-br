@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003386,
-    "geom:area_square_m":41529068.013035,
+    "geom:area_square_m":41529068.013023,
     "geom:bbox":"-39.781146063,-7.28890082779,-39.7123863786,-7.19838565256",
     "geom:latitude":-7.24947,
     "geom:longitude":-39.753813,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.245679,
     "lbl:longitude":-39.754356,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c7\u099c\u09cb \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
@@ -79,9 +88,12 @@
         102051757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231210620"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2fea016f78e35d95927665f7ffb3ceec",
+    "wof:geomhash":"ceb2c3aa3e55539560acb1aed8dcf305",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404553827,
-    "wof:lastmodified":1577837962,
+    "wof:lastmodified":1695878742,
     "wof:name":"Brejo Grande",
     "wof:parent_id":102051757,
     "wof:placetype":"localadmin",

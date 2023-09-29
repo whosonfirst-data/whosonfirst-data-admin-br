@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005463,
-    "geom:area_square_m":63160245.367181,
+    "geom:area_square_m":63160245.367194,
     "geom:bbox":"-41.6308445217,-20.8437663764,-41.5471305221,-20.7199374298",
     "geom:latitude":-20.783792,
     "geom:longitude":-41.592281,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.782931,
     "lbl:longitude":-41.591638,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0426\u0435\u043b\u0438\u043d\u0430"
@@ -76,9 +85,12 @@
         102051825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320020125"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0bada312d2ac6541c37943e1e5e1292c",
+    "wof:geomhash":"f82f0af22ce4ef68163dced45cda69cb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404554139,
-    "wof:lastmodified":1577833357,
+    "wof:lastmodified":1695878590,
     "wof:name":"Celina",
     "wof:parent_id":102051825,
     "wof:placetype":"localadmin",

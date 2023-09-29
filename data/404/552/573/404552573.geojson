@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029685,
-    "geom:area_square_m":364376775.200586,
+    "geom:area_square_m":364376775.200525,
     "geom:bbox":"-40.2635298106,-7.02498326916,-40.0569173121,-6.81884602845",
     "geom:latitude":-6.926429,
     "geom:longitude":-40.168852,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.932931,
     "lbl:longitude":-40.177235,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051473
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230270115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4ffcb3ad5b51325dc6b0bd8cfd5a4314",
+    "wof:geomhash":"6ea4c4f181dab90556e85ace9bd15f7f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404552573,
-    "wof:lastmodified":1577837699,
+    "wof:lastmodified":1695878677,
     "wof:name":"Carmel\u00f3polis",
     "wof:parent_id":102051473,
     "wof:placetype":"localadmin",

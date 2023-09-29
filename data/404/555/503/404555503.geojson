@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021214,
-    "geom:area_square_m":243820512.223614,
+    "geom:area_square_m":243820512.223634,
     "geom:bbox":"-46.50051,-21.7584599967,-46.297306,-21.5416559968",
     "geom:latitude":-21.640756,
     "geom:longitude":-46.413411,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.633546,
     "lbl:longitude":-46.406483,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u099f\u09af\u09bc\u09c7\u09b2\u09b9\u09cb\u09b8"
@@ -103,9 +112,12 @@
         102053267
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310840405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"651be7909249837e2a67d00165ecb324",
+    "wof:geomhash":"bab414da5c69780858d2c7f16372dbc5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404555503,
-    "wof:lastmodified":1577833000,
+    "wof:lastmodified":1695878481,
     "wof:name":"Botelhos",
     "wof:parent_id":102053267,
     "wof:placetype":"localadmin",

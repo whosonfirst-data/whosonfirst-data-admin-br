@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009583,
-    "geom:area_square_m":110333271.288701,
+    "geom:area_square_m":110333271.288704,
     "geom:bbox":"-48.7252542628,-21.4414509775,-48.5403077241,-21.3378780265",
     "geom:latitude":-21.397152,
     "geom:longitude":-48.622892,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.412152,
     "lbl:longitude":-48.631967,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102062337
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355370815"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7fd5504c398a3d2e371363c44b32899d",
+    "wof:geomhash":"385968b141caaf64a31465e91a71495d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404567557,
-    "wof:lastmodified":1577833036,
+    "wof:lastmodified":1695878494,
     "wof:name":"Jurupema",
     "wof:parent_id":102062337,
     "wof:placetype":"localadmin",

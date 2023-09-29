@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087016,
-    "geom:area_square_m":1072945465.467941,
+    "geom:area_square_m":1072945465.468226,
     "geom:bbox":"-39.7904797333,-4.55802852867,-39.4952254877,-4.06854134028",
     "geom:latitude":-4.298596,
     "geom:longitude":-39.648527,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.257453,
     "lbl:longitude":-39.648522,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Salitre"
@@ -46,9 +55,12 @@
         102051475
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230280035"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8e21607510be163a8132ff923418e4e3",
+    "wof:geomhash":"af0da498c10b5050c031d219d2e39e3d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":404552605,
-    "wof:lastmodified":1577837767,
+    "wof:lastmodified":1695878693,
     "wof:name":"Salitre",
     "wof:parent_id":102051475,
     "wof:placetype":"localadmin",

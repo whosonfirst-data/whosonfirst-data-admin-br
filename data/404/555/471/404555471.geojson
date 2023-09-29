@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020567,
-    "geom:area_square_m":239209179.770126,
+    "geom:area_square_m":239209179.770054,
     "geom:bbox":"-42.370617,-19.937286997,-42.205092,-19.748799997",
     "geom:latitude":-19.845984,
     "geom:longitude":-42.294389,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.860225,
     "lbl:longitude":-42.304241,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053251
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310780205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b52ded40ec93421d9c858548fce27429",
+    "wof:geomhash":"2656f43062adaab2c1a00e1a99a6b4b3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555471,
-    "wof:lastmodified":1577832919,
+    "wof:lastmodified":1695878456,
     "wof:name":"Bom Jesus Do Galho",
     "wof:parent_id":102053251,
     "wof:placetype":"localadmin",

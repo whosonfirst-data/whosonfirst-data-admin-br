@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018469,
-    "geom:area_square_m":200958025.297964,
+    "geom:area_square_m":200958025.298019,
     "geom:bbox":"-52.7742621561,-28.4698720522,-52.5904688392,-28.2702182799",
     "geom:latitude":-28.364075,
     "geom:longitude":-52.681144,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.371799,
     "lbl:longitude":-52.690217,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059885
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431775605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"da286e322c769bd46d011fd4f64e5de4",
+    "wof:geomhash":"30a308f0ba4587e6492c2be18e02601a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564531,
-    "wof:lastmodified":1577827873,
+    "wof:lastmodified":1695878258,
     "wof:name":"Santo Ant\u00f4nio Do Planalto",
     "wof:parent_id":102059885,
     "wof:placetype":"localadmin",

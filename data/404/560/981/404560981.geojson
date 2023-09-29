@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026088,
-    "geom:area_square_m":292137837.875636,
+    "geom:area_square_m":292137837.875675,
     "geom:bbox":"-49.7428437704,-25.194113299,-49.5459833992,-24.9786034314",
     "geom:latitude":-25.091663,
     "geom:longitude":-49.643189,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.094591,
     "lbl:longitude":-49.662716,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057537
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410420420"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"00cbedf9f3d90e827f821ab34a3cf5ca",
+    "wof:geomhash":"e16f1aa82f6586f222794de93fad9be3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560981,
-    "wof:lastmodified":1577827846,
+    "wof:lastmodified":1695878246,
     "wof:name":"S\u00e3o Silvestre",
     "wof:parent_id":102057537,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034592,
-    "geom:area_square_m":404475253.487158,
+    "geom:area_square_m":404475253.487063,
     "geom:bbox":"-40.905998,-19.149935,-40.556028,-18.842241",
     "geom:latitude":-18.980786,
     "geom:longitude":-40.739568,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.995864,
     "lbl:longitude":-40.69859,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u0997\u09c1\u0987\u09af\u09bc\u09be \u09ac\u09cd\u09b0\u09be\u0999\u09cd\u0995\u09be"
@@ -84,19 +93,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681921,
         102191577,
         85633009,
-        102051821,
         1511777411,
-        85681921
+        102051821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320013605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102051821
     ],
     "wof:country":"BR",
-    "wof:geomhash":"2bcf7237f194a3144ebf33312541894c",
+    "wof:geomhash":"e5723a09f04a89c9862393799e607f94",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404554115,
-    "wof:lastmodified":1608035130,
+    "wof:lastmodified":1695878825,
     "wof:name":"\u00c1guia Branca",
     "wof:parent_id":102051821,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03433,
-    "geom:area_square_m":423973504.828012,
+    "geom:area_square_m":423973504.828008,
     "geom:bbox":"-49.797180708,-3.04790864904,-49.6488002618,-2.66591915721",
     "geom:latitude":-2.849453,
     "geom:longitude":-49.718797,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-2.862605,
     "lbl:longitude":-49.732119,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150120430"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7e425d6e77f77725ee17f23c314bed22",
+    "wof:geomhash":"522d4937852b4bea95d397949467b5f0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559505,
-    "wof:lastmodified":1577825658,
+    "wof:lastmodified":1695878150,
     "wof:name":"Umarizal Do Tocantins",
     "wof:parent_id":102055697,
     "wof:placetype":"localadmin",

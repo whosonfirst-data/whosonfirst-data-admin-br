@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010208,
-    "geom:area_square_m":111312366.193463,
+    "geom:area_square_m":111312366.193466,
     "geom:bbox":"-50.0372588605,-28.193939566,-49.8676673429,-28.0866595339",
     "geom:latitude":-28.136296,
     "geom:longitude":-49.93758,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.150419,
     "lbl:longitude":-49.915156,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060741
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421650313"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"530fae3e63cb7cc25b33dec800d39a04",
+    "wof:geomhash":"833ac6de3205195585152a1100b2524a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565861,
-    "wof:lastmodified":1577827993,
+    "wof:lastmodified":1695878314,
     "wof:name":"Santa Izabel",
     "wof:parent_id":102060741,
     "wof:placetype":"localadmin",

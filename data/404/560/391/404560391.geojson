@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002985,
-    "geom:area_square_m":36561077.172506,
+    "geom:area_square_m":36561116.330046,
     "geom:bbox":"-34.895548,-7.892816,-34.84072,-7.807068",
     "geom:latitude":-7.847182,
     "geom:longitude":-34.866475,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.840218,
     "lbl:longitude":-34.865953,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u0627 \u0643\u0631\u0648\u0632"
@@ -73,9 +82,12 @@
         102056653
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260680420"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0fef26ea6dedf2cb34b8edfde216f039",
+    "wof:geomhash":"486ab1ead64ca72dab95805148e41409",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404560391,
-    "wof:lastmodified":1642551760,
+    "wof:lastmodified":1695878870,
     "wof:name":"Nova Cruz",
     "wof:parent_id":102056653,
     "wof:placetype":"localadmin",

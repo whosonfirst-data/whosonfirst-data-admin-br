@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007479,
-    "geom:area_square_m":82048529.663462,
+    "geom:area_square_m":82048529.663484,
     "geom:bbox":"-52.0006853575,-27.5465990795,-51.8943769229,-27.4102644564",
     "geom:latitude":-27.482169,
     "geom:longitude":-51.94597,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.497619,
     "lbl:longitude":-51.933574,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09cd\u09b8\u09c7\u09b2\u09bf\u09a8\u09cb \u09b0\u09be\u09ae\u09cb\u09b8"
@@ -97,9 +106,12 @@
         102059587
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431190805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d1978ac59cb50e13d92bdcf4c4269399",
+    "wof:geomhash":"ababeb7fb28bc0cf5c2be147f579ddbd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404563907,
-    "wof:lastmodified":1577827992,
+    "wof:lastmodified":1695878313,
     "wof:name":"Marcelino Ramos",
     "wof:parent_id":102059587,
     "wof:placetype":"localadmin",

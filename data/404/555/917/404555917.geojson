@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009275,
-    "geom:area_square_m":107180925.998563,
+    "geom:area_square_m":107180925.998577,
     "geom:bbox":"-42.888313,-20.882781,-42.702628,-20.803253",
     "geom:latitude":-20.84383,
     "geom:longitude":-42.791493,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.848202,
     "lbl:longitude":-42.76366,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0644\u0645\u0631\u064a\u0629"
@@ -255,19 +264,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053663,
         1511777411,
-        85681941
+        102053663
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311670405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053663
     ],
     "wof:country":"BR",
-    "wof:geomhash":"c24dcb36f229c44aceb2b1d4468e34dc",
+    "wof:geomhash":"d51cad366aee6bf745751e2e4be2d34e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -279,7 +291,7 @@
         }
     ],
     "wof:id":404555917,
-    "wof:lastmodified":1608032769,
+    "wof:lastmodified":1695878816,
     "wof:name":"Coimbra",
     "wof:parent_id":102053663,
     "wof:placetype":"localadmin",

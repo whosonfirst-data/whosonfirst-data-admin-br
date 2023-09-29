@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010957,
-    "geom:area_square_m":118698275.319674,
+    "geom:area_square_m":118698275.319652,
     "geom:bbox":"-49.6802210757,-28.9004600843,-49.5465145269,-28.7480679992",
     "geom:latitude":-28.820836,
     "geom:longitude":-49.624309,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.83407,
     "lbl:longitude":-49.617764,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09c7\u09b2\u09af\u09bc\u09c7\u0987\u09b0\u09cb"
@@ -91,9 +100,12 @@
         102060547
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421080305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"84777517f21760254ad1cbbc76342135",
+    "wof:geomhash":"5b0a1139e6dcc164265983a8922babca",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404565621,
-    "wof:lastmodified":1577827808,
+    "wof:lastmodified":1695878227,
     "wof:name":"Meleiro",
     "wof:parent_id":102060547,
     "wof:placetype":"localadmin",

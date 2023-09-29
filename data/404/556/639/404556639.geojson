@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026619,
-    "geom:area_square_m":306436800.365732,
+    "geom:area_square_m":306436800.365607,
     "geom:bbox":"-45.086356,-21.52169,-44.806742,-21.326405",
     "geom:latitude":-21.410591,
     "geom:longitude":-44.924645,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.398917,
     "lbl:longitude":-44.915095,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u0999\u09cd\u0997\u09be\u0987"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054039,
         1511777411,
-        85681941
+        102054039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313080405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054039
     ],
     "wof:country":"BR",
-    "wof:geomhash":"8eda2e4c1dc478a32d77e0ac8d83ee77",
+    "wof:geomhash":"48304c9ba377cae8b9be9f6fcb684db4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404556639,
-    "wof:lastmodified":1608029593,
+    "wof:lastmodified":1695878767,
     "wof:name":"Inga\u00ed",
     "wof:parent_id":102054039,
     "wof:placetype":"localadmin",

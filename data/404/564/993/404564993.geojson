@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114663,
-    "geom:area_square_m":1239951158.08585,
+    "geom:area_square_m":1239951158.08622,
     "geom:bbox":"-54.1701630801,-29.2206699841,-53.5647627669,-28.7970173865",
     "geom:latitude":-29.009549,
     "geom:longitude":-53.841507,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.002442,
     "lbl:longitude":-53.811809,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c1\u09aa\u09be\u09a8\u09b8\u09bf\u09b0\u09c7\u099f\u09be"
@@ -94,9 +103,12 @@
         102060085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432220205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"800d01031da26ea00907e42d3755ff84",
+    "wof:geomhash":"2ee816462ca2b74f7c963904c325a6c7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404564993,
-    "wof:lastmodified":1577827987,
+    "wof:lastmodified":1695878311,
     "wof:name":"Tupanciret\u00e3",
     "wof:parent_id":102060085,
     "wof:placetype":"localadmin",

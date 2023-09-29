@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012337,
-    "geom:area_square_m":140518574.572506,
+    "geom:area_square_m":140518574.57264,
     "geom:bbox":"-48.1399397047,-23.0183510215,-48.0252298317,-22.8211956975",
     "geom:latitude":-22.906415,
     "geom:longitude":-48.088025,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.911572,
     "lbl:longitude":-48.088078,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061299
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351230810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6be5ad90d999129535bf6cbcb7b4e274",
+    "wof:geomhash":"3613f4c26eb67721d88b66f8a0bcf4f6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566343,
-    "wof:lastmodified":1577832843,
+    "wof:lastmodified":1695878427,
     "wof:name":"Juquiratiba",
     "wof:parent_id":102061299,
     "wof:placetype":"localadmin",

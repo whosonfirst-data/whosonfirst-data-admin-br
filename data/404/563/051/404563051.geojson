@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038742,
-    "geom:area_square_m":423963460.069577,
+    "geom:area_square_m":423963460.069603,
     "geom:bbox":"-51.5344616416,-27.9290035045,-51.2975494611,-27.6033617049",
     "geom:latitude":-27.748492,
     "geom:longitude":-51.420057,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.742264,
     "lbl:longitude":-51.420043,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barrac\u00e3o"
@@ -70,9 +79,12 @@
         102059115
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430180005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1bf19dd23a0f192e43c19171795ae381",
+    "wof:geomhash":"47649f7f2a482a5f3fda4e1df7abc12a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404563051,
-    "wof:lastmodified":1577827709,
+    "wof:lastmodified":1695878180,
     "wof:name":"Barrac\u00e3o",
     "wof:parent_id":102059115,
     "wof:placetype":"localadmin",

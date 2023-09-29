@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011649,
-    "geom:area_square_m":133556502.685294,
+    "geom:area_square_m":133556502.685266,
     "geom:bbox":"-51.2910696272,-22.0716905069,-51.1719834782,-21.9366648557",
     "geom:latitude":-22.002413,
     "geom:longitude":-51.23487,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.999718,
     "lbl:longitude":-51.234865,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0987\u09af\u09bc\u09be\u09ac\u09c1"
@@ -91,9 +100,12 @@
         102061217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350890005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"24dfce9c957c548d47e3680ab500a0fa",
+    "wof:geomhash":"fc8bd36a8841e94352a9bd32c79c3f85",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404566225,
-    "wof:lastmodified":1577832766,
+    "wof:lastmodified":1695878400,
     "wof:name":"Caiabu",
     "wof:parent_id":102061217,
     "wof:placetype":"localadmin",

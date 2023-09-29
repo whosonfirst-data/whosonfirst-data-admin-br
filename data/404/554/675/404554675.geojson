@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000504,
-    "geom:area_square_m":5847891.074229,
+    "geom:area_square_m":5847891.074231,
     "geom:bbox":"-40.35138,-20.349282,-40.3189,-20.32225",
     "geom:latitude":-20.334316,
     "geom:longitude":-40.336251,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.334193,
     "lbl:longitude":-40.339202,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102051989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320520010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101954587
     ],
     "wof:country":"BR",
-    "wof:geomhash":"6f878863241781579a5b7404d25bcb46",
+    "wof:geomhash":"3abeaf6b01bb4d30cdcc9200a0bf030a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404554675,
-    "wof:lastmodified":1617131500,
+    "wof:lastmodified":1695878852,
     "wof:name":"Argolas",
     "wof:parent_id":102051989,
     "wof:placetype":"localadmin",

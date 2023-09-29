@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.877993,
-    "geom:area_square_m":10856434078.891102,
+    "geom:area_square_m":10856434078.891298,
     "geom:bbox":"-50.4154375341,-0.667021760379,-48.9160615998,0.399762946601",
     "geom:latitude":-0.129824,
     "geom:longitude":-49.729857,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-0.133595,
     "lbl:longitude":-49.803378,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0627\u0641\u064a\u0632"
@@ -88,9 +97,12 @@
         102055745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150250905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cd1de255eacc93496c66b8afca735ca4",
+    "wof:geomhash":"adf64c2ff2906e7244c26bdc3cd21a77",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404559597,
-    "wof:lastmodified":1577825660,
+    "wof:lastmodified":1695878150,
     "wof:name":"Chaves",
     "wof:parent_id":102055745,
     "wof:placetype":"localadmin",

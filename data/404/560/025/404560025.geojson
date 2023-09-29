@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033443,
-    "geom:area_square_m":410622826.678392,
+    "geom:area_square_m":410622826.678452,
     "geom:bbox":"-35.134771,-6.940431,-34.902762,-6.596572",
     "geom:latitude":-6.79481,
     "geom:longitude":-35.047563,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.851193,
     "lbl:longitude":-35.030016,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u0993 \u099f\u09bf\u09a8\u099f\u09cb"
@@ -88,12 +97,15 @@
         102056351
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"251290305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102056351
     ],
     "wof:country":"BR",
-    "wof:geomhash":"9592734125d67c6d47b9d05fd6f7d4ca",
+    "wof:geomhash":"fbb5fdffad6df53ef6bc4403a51a7c1f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404560025,
-    "wof:lastmodified":1617130032,
+    "wof:lastmodified":1695878830,
     "wof:name":"Rio Tinto",
     "wof:parent_id":102056351,
     "wof:placetype":"localadmin",

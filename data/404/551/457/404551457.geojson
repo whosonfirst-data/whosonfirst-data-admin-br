@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113633,
-    "geom:area_square_m":1363146086.73784,
+    "geom:area_square_m":1363146086.737745,
     "geom:bbox":"-43.7670919253,-14.3279658919,-43.413051555,-13.5424403784",
     "geom:latitude":-14.034052,
     "geom:longitude":-43.562385,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.038034,
     "lbl:longitude":-43.565062,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051011
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292020515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c4e87683cf8f0c8232fc4221835b7a40",
+    "wof:geomhash":"1bc79f2a107a6f3dae0127f451710278",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551457,
-    "wof:lastmodified":1577837855,
+    "wof:lastmodified":1695878714,
     "wof:name":"Parateca",
     "wof:parent_id":102051011,
     "wof:placetype":"localadmin",

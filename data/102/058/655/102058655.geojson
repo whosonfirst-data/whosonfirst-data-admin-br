@@ -32,7 +32,7 @@
     "mps:latitude":-6.286116,
     "mps:longitude":-37.843041,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Joao Dias"
@@ -63,12 +63,15 @@
         1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2405900"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404562683
     ],
     "wof:country":"BR",
-    "wof:geomhash":"4b79afbf89e09a025e24b2108555064c",
+    "wof:geomhash":"42213d786e8c60da813251bc4e86c164",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":102058655,
-    "wof:lastmodified":1627521730,
+    "wof:lastmodified":1695887028,
     "wof:name":"Joao Dias",
     "wof:parent_id":85681999,
     "wof:placetype":"county",

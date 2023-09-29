@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149216,
-    "geom:area_square_m":1753875799.011,
+    "geom:area_square_m":1753875799.01107,
     "geom:bbox":"-48.1733468841,-18.5002803242,-47.6537619807,-17.7789867116",
     "geom:latitude":-18.089511,
     "geom:longitude":-47.891244,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.042488,
     "lbl:longitude":-47.89516,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Catal\u00e3o"
@@ -283,9 +292,12 @@
         102052123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"520510905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"34cb010eab8bd621173aa40a960e8b24",
+    "wof:geomhash":"fcffd0a9c5d9d74800c84e393bcba39c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -297,7 +309,7 @@
         }
     ],
     "wof:id":404554733,
-    "wof:lastmodified":1577836127,
+    "wof:lastmodified":1695878639,
     "wof:name":"Catal\u00e3o",
     "wof:parent_id":102052123,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064694,
-    "geom:area_square_m":770726644.742253,
+    "geom:area_square_m":770726644.742572,
     "geom:bbox":"-44.761849,-15.7044289975,-44.43767,-15.3574359976",
     "geom:latitude":-15.536944,
     "geom:longitude":-44.600348,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.533875,
     "lbl:longitude":-44.602801,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054147
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313520945"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6b8fbd3c2ec7b6db1b04d8b97c1fd5dd",
+    "wof:geomhash":"cce21432ead947599efd0526472639a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556857,
-    "wof:lastmodified":1577833230,
+    "wof:lastmodified":1695878551,
     "wof:name":"Tejuco",
     "wof:parent_id":102054147,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00839,
-    "geom:area_square_m":103345977.560414,
+    "geom:area_square_m":103345977.560396,
     "geom:bbox":"-38.6110061531,-5.08652039797,-38.4893762277,-4.90586893001",
     "geom:latitude":-5.010616,
     "geom:longitude":-38.555899,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.998541,
     "lbl:longitude":-38.570138,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09bf\u0995\u09cb\u09b8\u09be"
@@ -79,9 +88,12 @@
         102051565
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230533230"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5fcbd59876047092f9a6bd03f2fa6f21",
+    "wof:geomhash":"bfef64f82ee3baf7a8cc5a8ff5cdfadf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404552983,
-    "wof:lastmodified":1577837977,
+    "wof:lastmodified":1695878745,
     "wof:name":"Vi\u00e7osa",
     "wof:parent_id":102051565,
     "wof:placetype":"localadmin",

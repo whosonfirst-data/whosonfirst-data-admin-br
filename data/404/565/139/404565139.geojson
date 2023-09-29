@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020679,
-    "geom:area_square_m":228769879.563908,
+    "geom:area_square_m":228769879.563812,
     "geom:bbox":"-53.462225,-26.619853,-53.228785,-26.442951",
     "geom:latitude":-26.53204,
     "geom:longitude":-53.333076,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.538417,
     "lbl:longitude":-53.321574,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u099a\u0987\u098f\u099f\u09be"
@@ -72,19 +81,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060211,
         1511777409,
-        85682021
+        102060211
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420080405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060211
     ],
     "wof:country":"BR",
-    "wof:geomhash":"83a16b58b6b714da1a5dc93ba654fa53",
+    "wof:geomhash":"1edec240179d6fb464af8cca8325f6fd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404565139,
-    "wof:lastmodified":1608034374,
+    "wof:lastmodified":1695878822,
     "wof:name":"Anchieta",
     "wof:parent_id":102060211,
     "wof:placetype":"localadmin",

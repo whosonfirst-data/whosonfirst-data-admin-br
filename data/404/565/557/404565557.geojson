@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036801,
-    "geom:area_square_m":405964229.996147,
+    "geom:area_square_m":405964229.996178,
     "geom:bbox":"-49.769863,-27.012909,-49.54333,-26.698827",
     "geom:latitude":-26.859061,
     "geom:longitude":-49.646184,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.861972,
     "lbl:longitude":-49.62901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09cb\u09b8\u09c7 \u09ac\u09cb\u0987\u099f\u09c7\u0989\u0995\u09cd\u09b8"
@@ -88,12 +97,15 @@
         102060497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420915105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060497
     ],
     "wof:country":"BR",
-    "wof:geomhash":"e454c3e20983f99f5edce6786a91ba26",
+    "wof:geomhash":"322e0753f3aa5e96d8c41df8527dbfae",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404565557,
-    "wof:lastmodified":1617130176,
+    "wof:lastmodified":1695878832,
     "wof:name":"Jos\u00e9 Boiteux",
     "wof:parent_id":102060497,
     "wof:placetype":"localadmin",

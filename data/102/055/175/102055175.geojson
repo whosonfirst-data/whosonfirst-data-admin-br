@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.370552,
-    "geom:area_square_m":4212748020.408987,
+    "geom:area_square_m":4212748020.408958,
     "geom:bbox":"-55.433943654,-23.5656591582,-54.4709603809,-22.8709331062",
     "geom:latitude":-23.157797,
     "geom:longitude":-54.967736,
@@ -29,7 +29,7 @@
     "mps:latitude":-23.168836,
     "mps:longitude":-55.000287,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09be\u09ae\u09ac\u09be\u0987"
@@ -114,9 +114,12 @@
         1511777413
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"5000609"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3bd2a57ecba1d4d97e8c43ffbc2b9060",
+    "wof:geomhash":"437e3070a969ad39b6588be05a058582",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":102055175,
-    "wof:lastmodified":1577835873,
+    "wof:lastmodified":1695887078,
     "wof:name":"Amambai",
     "wof:parent_id":85681947,
     "wof:placetype":"county",

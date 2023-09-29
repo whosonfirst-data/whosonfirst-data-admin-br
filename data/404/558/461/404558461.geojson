@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006083,
-    "geom:area_square_m":69855464.686581,
+    "geom:area_square_m":69855464.686597,
     "geom:bbox":"-42.967684,-21.8326729967,-42.868271,-21.6888109968",
     "geom:latitude":-21.773204,
     "geom:longitude":-42.920552,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.792799,
     "lbl:longitude":-42.925436,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09a8\u09be\u09a1\u09cb\u09b0\u09cd \u0995\u09cb\u09b0\u09cd\u099f\u098f\u09b8"
@@ -91,9 +100,12 @@
         102054989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316560205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7f7c75cffc2469621858ab90cf3eec7e",
+    "wof:geomhash":"7db51cbff91303251fd5b65dee0c1033",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404558461,
-    "wof:lastmodified":1577832915,
+    "wof:lastmodified":1695878455,
     "wof:name":"Senador Cortes",
     "wof:parent_id":102054989,
     "wof:placetype":"localadmin",

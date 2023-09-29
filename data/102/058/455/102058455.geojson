@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105658,
-    "geom:area_square_m":1203302984.065577,
+    "geom:area_square_m":1203302984.065543,
     "geom:bbox":"-43.796539,-23.082893,-43.099039,-22.74602",
     "geom:latitude":-22.923187,
     "geom:longitude":-43.450257,
@@ -35,7 +35,7 @@
     "mps:latitude":-22.935024,
     "mps:longitude":-43.51825,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u0993 \u09a1\u09bf \u099c\u09c7\u09a8\u09bf\u09b0\u09cb"
@@ -69,12 +69,15 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3304557"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101953261
     ],
     "wof:country":"BR",
-    "wof:geomhash":"da9352d5462e56548f0f5f6cb7002892",
+    "wof:geomhash":"9a6cdbdf9f30864af53fd7e177c3e930",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":102058455,
-    "wof:lastmodified":1636496132,
+    "wof:lastmodified":1695887146,
     "wof:name":"Rio de Janeiro",
     "wof:parent_id":85681991,
     "wof:placetype":"county",

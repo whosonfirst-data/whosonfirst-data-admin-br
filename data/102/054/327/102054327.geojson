@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121394,
-    "geom:area_square_m":1440934958.684996,
+    "geom:area_square_m":1440934958.684533,
     "geom:bbox":"-41.723006,-16.577971,-41.277296,-16.045935",
     "geom:latitude":-16.27052,
     "geom:longitude":-41.510066,
@@ -29,7 +29,7 @@
     "mps:latitude":-16.264039,
     "mps:longitude":-41.488196,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Madinah"
@@ -386,16 +386,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777411,
-        85681941
+        85681941,
+        1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3141405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404557223
     ],
     "wof:country":"BR",
-    "wof:geomhash":"f045c6b0a2453d4d8da541c9234820b0",
+    "wof:geomhash":"331ec493725dadc5532074acebdb8297",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -406,7 +409,7 @@
         }
     ],
     "wof:id":102054327,
-    "wof:lastmodified":1608031948,
+    "wof:lastmodified":1695887472,
     "wof:name":"Medina",
     "wof:parent_id":85681941,
     "wof:placetype":"county",

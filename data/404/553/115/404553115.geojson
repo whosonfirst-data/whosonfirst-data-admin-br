@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005886,
-    "geom:area_square_m":72619851.451586,
+    "geom:area_square_m":72619851.451593,
     "geom:bbox":"-39.5932673392,-3.81332501257,-39.5154720841,-3.68228120559",
     "geom:latitude":-3.747518,
     "geom:longitude":-39.554837,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.746954,
     "lbl:longitude":-39.555424,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230630625"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ac5007b3bf699ab88c9e7803b445158f",
+    "wof:geomhash":"4e30a479c4cd6dc340b6c3f1d870e68a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553115,
-    "wof:lastmodified":1577837902,
+    "wof:lastmodified":1695878726,
     "wof:name":"Iratinga",
     "wof:parent_id":102051595,
     "wof:placetype":"localadmin",

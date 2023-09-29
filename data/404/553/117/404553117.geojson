@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002932,
-    "geom:area_square_m":36178563.970457,
+    "geom:area_square_m":36178563.970466,
     "geom:bbox":"-39.473685269,-3.86169630288,-39.4159570315,-3.72660936116",
     "geom:latitude":-3.800512,
     "geom:longitude":-39.444152,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.836013,
     "lbl:longitude":-39.434967,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230630630"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7b2050c7693813b3aaef65d4a6c24d5e",
+    "wof:geomhash":"58c41333676bac32921b7d91c821d43a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553117,
-    "wof:lastmodified":1577837902,
+    "wof:lastmodified":1695878726,
     "wof:name":"Pitombeira",
     "wof:parent_id":102051595,
     "wof:placetype":"localadmin",

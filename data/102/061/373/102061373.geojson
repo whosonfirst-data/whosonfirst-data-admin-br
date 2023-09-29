@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009648,
-    "geom:area_square_m":110225645.659846,
+    "geom:area_square_m":110225645.659832,
     "geom:bbox":"-47.252896684,-22.5271259692,-47.0824668384,-22.4311611565",
     "geom:latitude":-22.487093,
     "geom:longitude":-47.174792,
@@ -29,7 +29,7 @@
     "mps:latitude":-22.482625,
     "mps:longitude":-47.198706,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u098f\u09a8\u0997\u09c7\u09a8\u09b9\u09c7\u0987\u09b0\u09cb \u0995\u09cb\u09af\u09bc\u09c7\u09b2\u09b9\u09cb"
@@ -111,9 +111,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3515152"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1187d9298ea73764ba2f5520de73bf7e",
+    "wof:geomhash":"e14de7ed5a8a273699682dbd543a6e18",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":102061373,
-    "wof:lastmodified":1577831398,
+    "wof:lastmodified":1695887043,
     "wof:name":"Engenheiro Coelho",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

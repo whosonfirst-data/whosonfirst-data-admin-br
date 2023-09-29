@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016672,
-    "geom:area_square_m":205468288.706656,
+    "geom:area_square_m":205468288.706633,
     "geom:bbox":"-38.2886840008,-4.79758859767,-38.1233154233,-4.58953755217",
     "geom:latitude":-4.68813,
     "geom:longitude":-38.224965,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.684177,
     "lbl:longitude":-38.230602,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u0997\u09cb\u09af\u09bc\u09be \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
@@ -67,9 +76,12 @@
         102051749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231180117"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"75c70b5a0d60e28039a0a73b033f2c29",
+    "wof:geomhash":"aef8780a6f21a5602e4b55a2a54b519c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404553775,
-    "wof:lastmodified":1577837957,
+    "wof:lastmodified":1695878741,
     "wof:name":"Lagoa Grande",
     "wof:parent_id":102051749,
     "wof:placetype":"localadmin",

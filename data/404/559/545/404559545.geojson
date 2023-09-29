@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003534,
-    "geom:area_square_m":43694156.760606,
+    "geom:area_square_m":43694156.760622,
     "geom:bbox":"-46.7064755005,-1.03379168379,-46.6378620191,-0.958541973094",
     "geom:latitude":-0.998242,
     "geom:longitude":-46.67385,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-1.00255,
     "lbl:longitude":-46.674504,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055715
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150170940"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"949cb06082759db2570ca58d49b28a1b",
+    "wof:geomhash":"37cf24bbc33e379d000f87c2d2d5a071",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559545,
-    "wof:lastmodified":1577825658,
+    "wof:lastmodified":1695878150,
     "wof:name":"Vila Do Treme",
     "wof:parent_id":102055715,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004302,
-    "geom:area_square_m":48734918.315308,
+    "geom:area_square_m":48734918.315312,
     "geom:bbox":"-50.2413247168,-23.6893483247,-50.1742934621,-23.564890418",
     "geom:latitude":-23.621171,
     "geom:longitude":-50.206822,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.623758,
     "lbl:longitude":-50.207318,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09cb \u099c\u09be\u09b0\u09cd\u09a1\u09bf\u09ae"
@@ -91,9 +100,12 @@
         102057791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411230610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bd1fbd62bc655e9e0cb9107c4db9f58f",
+    "wof:geomhash":"ba00db8e4f08d16d0f3f82331b1c6db6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404561339,
-    "wof:lastmodified":1577827731,
+    "wof:lastmodified":1695878191,
     "wof:name":"Novo Jardim",
     "wof:parent_id":102057791,
     "wof:placetype":"localadmin",

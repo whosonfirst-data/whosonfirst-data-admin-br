@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012866,
-    "geom:area_square_m":157068554.787777,
+    "geom:area_square_m":157068554.787778,
     "geom:bbox":"-36.2877602602,-9.21329201537,-36.120524061,-9.09364868906",
     "geom:latitude":-9.15056,
     "geom:longitude":-36.198065,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.155832,
     "lbl:longitude":-36.198066,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050251
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"270810505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"68142cb681cf75c7a13d236fe41c94d3",
+    "wof:geomhash":"1c5c80c1fdae184bf4e233a5f813f55a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550209,
-    "wof:lastmodified":1577837891,
+    "wof:lastmodified":1695878723,
     "wof:name":"Santana Do Munda\u00fa",
     "wof:parent_id":102050251,
     "wof:placetype":"localadmin",

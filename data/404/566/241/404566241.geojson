@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001023,
-    "geom:area_square_m":11609931.881179,
+    "geom:area_square_m":11609931.881194,
     "geom:bbox":"-46.872669,-23.430292,-46.81965,-23.392033",
     "geom:latitude":-23.411044,
     "geom:longitude":-46.845813,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.413395,
     "lbl:longitude":-46.845817,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102061223
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350920515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101956121
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a37c667610f371ec6d63ac2403722409",
+    "wof:geomhash":"8006ba04fef8f0d78fb96134800be6ae",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404566241,
-    "wof:lastmodified":1617131496,
+    "wof:lastmodified":1695878852,
     "wof:name":"Polvilho",
     "wof:parent_id":102061223,
     "wof:placetype":"localadmin",

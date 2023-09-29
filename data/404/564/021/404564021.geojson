@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009487,
-    "geom:area_square_m":102887708.371906,
+    "geom:area_square_m":102887708.371895,
     "geom:bbox":"-52.2613032412,-28.7628861825,-52.1247450676,-28.6517056228",
     "geom:latitude":-28.706599,
     "geom:longitude":-52.197602,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.706794,
     "lbl:longitude":-52.197652,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u0986\u09b2\u09ad\u09cb\u09b0\u09be\u09a1\u09be"
@@ -94,9 +103,12 @@
         102059645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431275705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f5db8312f1863c1785ed937bf2978c68",
+    "wof:geomhash":"c082931eed24c7848a8d1094b655c591",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404564021,
-    "wof:lastmodified":1577827700,
+    "wof:lastmodified":1695878175,
     "wof:name":"Nova Alvorada",
     "wof:parent_id":102059645,
     "wof:placetype":"localadmin",

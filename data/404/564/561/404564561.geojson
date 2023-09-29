@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017275,
-    "geom:area_square_m":187858390.145183,
+    "geom:area_square_m":187858390.145101,
     "geom:bbox":"-55.7053735112,-28.4983856448,-55.5069114702,-28.339432103",
     "geom:latitude":-28.424903,
     "geom:longitude":-55.602741,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.428062,
     "lbl:longitude":-55.604251,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059893
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431800235"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a1fe24755a7fc4034de4d9c74063cfc2",
+    "wof:geomhash":"e446f890b62d3f97f6cbcdf2dfdd0e0d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564561,
-    "wof:lastmodified":1577827773,
+    "wof:lastmodified":1695878211,
     "wof:name":"Sambur\u00e1",
     "wof:parent_id":102059893,
     "wof:placetype":"localadmin",

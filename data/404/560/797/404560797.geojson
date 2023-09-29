@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009988,
-    "geom:area_square_m":122406775.973824,
+    "geom:area_square_m":122406775.973821,
     "geom:bbox":"-35.3748664106,-7.71107132553,-35.2540869554,-7.59126137443",
     "geom:latitude":-7.654282,
     "geom:longitude":-35.313099,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.658027,
     "lbl:longitude":-35.313137,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09bf\u0995\u09c7\u09a8\u09cd\u09b8\u09bf\u09af\u09bc\u09be"
@@ -88,9 +97,12 @@
         102056897
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261630805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"74b79b73977399940799b58fed5ed0de",
+    "wof:geomhash":"aac474e1f3872b6fbd318ff0c21cddf5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404560797,
-    "wof:lastmodified":1577837722,
+    "wof:lastmodified":1695878682,
     "wof:name":"Vic\u00eancia",
     "wof:parent_id":102056897,
     "wof:placetype":"localadmin",

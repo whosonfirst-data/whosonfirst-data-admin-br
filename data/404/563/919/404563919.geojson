@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023082,
-    "geom:area_square_m":248314403.179001,
+    "geom:area_square_m":248314403.178987,
     "geom:bbox":"-54.5730916747,-29.6472911161,-54.4108068596,-29.4443918722",
     "geom:latitude":-29.540121,
     "geom:longitude":-54.489894,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.541978,
     "lbl:longitude":-54.483374,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u0430\u0442\u0430"
@@ -103,9 +112,12 @@
         102059597
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431210405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f1be5851151ba1cc51b99a258fe88b79",
+    "wof:geomhash":"384acf579f89e0ee815c65a7bf4ad2a7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404563919,
-    "wof:lastmodified":1577827985,
+    "wof:lastmodified":1695878310,
     "wof:name":"Mata",
     "wof:parent_id":102059597,
     "wof:placetype":"localadmin",

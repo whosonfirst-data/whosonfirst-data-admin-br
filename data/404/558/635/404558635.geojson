@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156076,
-    "geom:area_square_m":1829799001.824341,
+    "geom:area_square_m":1829799001.824267,
     "geom:bbox":"-49.053762,-18.839952,-48.498021,-18.305454",
     "geom:latitude":-18.534867,
     "geom:longitude":-48.75528,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.495545,
     "lbl:longitude":-48.751071,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c1\u09aa\u09be\u09b8\u09bf\u0997\u09c1\u09f1\u09be\u09b0\u09be"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102055087,
         1511777411,
-        85681941
+        102055087
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316960405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055087
     ],
     "wof:country":"BR",
-    "wof:geomhash":"8b279ee4e32310370a2cea53d491d8b7",
+    "wof:geomhash":"6dbd24aaa7b1506be30568d4b7f880e8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404558635,
-    "wof:lastmodified":1608030406,
+    "wof:lastmodified":1695878776,
     "wof:name":"Tupaciguara",
     "wof:parent_id":102055087,
     "wof:placetype":"localadmin",

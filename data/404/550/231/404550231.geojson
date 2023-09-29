@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04988,
-    "geom:area_square_m":615945756.376421,
+    "geom:area_square_m":615945756.376399,
     "geom:bbox":"-57.4821919934,-3.17513780012,-57.2430812449,-2.73945504635",
     "geom:latitude":-2.966917,
     "geom:longitude":-57.380147,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.008947,
     "lbl:longitude":-57.340326,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u064a\u062a\u0627"
@@ -100,9 +109,12 @@
         102050305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"130050812"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"75ccdf73a94bef6d3cc8d32c058f80fc",
+    "wof:geomhash":"50dceae154558157859344dc715ba51d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404550231,
-    "wof:lastmodified":1577825681,
+    "wof:lastmodified":1695878161,
     "wof:name":"Camet\u00e1",
     "wof:parent_id":102050305,
     "wof:placetype":"localadmin",

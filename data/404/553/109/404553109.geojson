@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00108,
-    "geom:area_square_m":13321809.198985,
+    "geom:area_square_m":13321809.198988,
     "geom:bbox":"-39.5469205359,-3.74588607971,-39.5101425451,-3.67197734014",
     "geom:latitude":-3.697888,
     "geom:longitude":-39.524083,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.693193,
     "lbl:longitude":-39.525894,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u0997\u09c1\u09f1\u09be\u0987"
@@ -91,9 +100,12 @@
         102051595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230630607"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"fcc8e0a96cf75cc4e10c646724853f3c",
+    "wof:geomhash":"57649f82e45f4a0c8a7525d11c9660a2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404553109,
-    "wof:lastmodified":1577837901,
+    "wof:lastmodified":1695878726,
     "wof:name":"Agua\u00ed",
     "wof:parent_id":102051595,
     "wof:placetype":"localadmin",

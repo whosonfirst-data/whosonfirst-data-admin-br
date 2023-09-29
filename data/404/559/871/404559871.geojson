@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000276,
-    "geom:area_square_m":3389004.159502,
+    "geom:area_square_m":3389004.159501,
     "geom:bbox":"-34.865779,-7.095476,-34.848721,-7.06707",
     "geom:latitude":-7.080024,
     "geom:longitude":-34.856254,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.080467,
     "lbl:longitude":-34.856254,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Renascer"
@@ -30,19 +39,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681967,
         102191577,
         85633009,
-        102056077,
         1511777415,
-        85681967
+        102056077
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250320925"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101946903
     ],
     "wof:country":"BR",
-    "wof:geomhash":"d1325907ec88ddec500e51cc9af268c8",
+    "wof:geomhash":"1634e663b8cd434d3f435f0245a199fc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404559871,
-    "wof:lastmodified":1608017841,
+    "wof:lastmodified":1695878751,
     "wof:name":"Renascer",
     "wof:parent_id":102056077,
     "wof:placetype":"localadmin",

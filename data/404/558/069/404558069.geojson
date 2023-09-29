@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00387,
-    "geom:area_square_m":45035816.316324,
+    "geom:area_square_m":45035816.316314,
     "geom:bbox":"-43.947877,-19.807754,-43.856996,-19.694178",
     "geom:latitude":-19.760825,
     "geom:longitude":-43.905748,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.775799,
     "lbl:longitude":-43.917785,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09ac\u09c7\u09a8\u09c7\u09a1\u09bf\u099f\u09cb"
@@ -82,12 +91,15 @@
         102054767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315780710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101953013
     ],
     "wof:country":"BR",
-    "wof:geomhash":"208087ecad1128154229c2f423cf08d4",
+    "wof:geomhash":"3681587ac538f4cb6e3a2d58c7cd304e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404558069,
-    "wof:lastmodified":1617129877,
+    "wof:lastmodified":1695878826,
     "wof:name":"S\u00e3o Benedito",
     "wof:parent_id":102054767,
     "wof:placetype":"localadmin",

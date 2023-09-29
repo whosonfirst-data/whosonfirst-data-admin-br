@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011508,
-    "geom:area_square_m":128635346.293232,
+    "geom:area_square_m":128635346.293248,
     "geom:bbox":"-48.852984283,-25.378020906,-48.6971702795,-25.2420632458",
     "geom:latitude":-25.313171,
     "geom:longitude":-48.776353,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.306597,
     "lbl:longitude":-48.784059,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410120010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5195e7a4ab8d616850b876780f6fa639",
+    "wof:geomhash":"81c646cdd8c8cb00fc5b266f996f455c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560861,
-    "wof:lastmodified":1577827966,
+    "wof:lastmodified":1695878301,
     "wof:name":"Cacatu",
     "wof:parent_id":102057439,
     "wof:placetype":"localadmin",

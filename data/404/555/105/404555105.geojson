@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025024,
-    "geom:area_square_m":290184126.461069,
+    "geom:area_square_m":290184126.461026,
     "geom:bbox":"-42.559449,-20.4403399969,-42.41135,-20.1861529969",
     "geom:latitude":-20.314161,
     "geom:longitude":-42.480379,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.312884,
     "lbl:longitude":-42.486342,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ac\u09cd\u09b0\u09c7 \u0995\u09be\u09ae\u09cd\u09aa\u09cb"
@@ -103,9 +112,12 @@
         102053373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310030205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cd7d62483a398575e8da9cb04c1c4a30",
+    "wof:geomhash":"33692e1fcb49ea75fcfd89634f300c82",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404555105,
-    "wof:lastmodified":1577832631,
+    "wof:lastmodified":1695878351,
     "wof:name":"Abre Campo",
     "wof:parent_id":102053373,
     "wof:placetype":"localadmin",

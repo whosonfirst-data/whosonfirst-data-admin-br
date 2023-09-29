@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033753,
-    "geom:area_square_m":388701213.512647,
+    "geom:area_square_m":388701213.512661,
     "geom:bbox":"-49.1408706715,-21.4915729098,-48.9001653097,-21.2420314143",
     "geom:latitude":-21.358112,
     "geom:longitude":-49.022387,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.354591,
     "lbl:longitude":-49.020521,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u099c\u09cb\u09ac\u09bf"
@@ -91,9 +100,12 @@
         102061553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352190305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dba069128dcfe38a324aac6d01c9a364",
+    "wof:geomhash":"8c854baa4c220266d738c07e0cb82c69",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404566539,
-    "wof:lastmodified":1577832977,
+    "wof:lastmodified":1695878474,
     "wof:name":"Itajobi",
     "wof:parent_id":102061553,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046872,
-    "geom:area_square_m":509448884.117845,
+    "geom:area_square_m":509448884.117847,
     "geom:bbox":"-56.0259111893,-28.5839945272,-55.6629608692,-28.3552131507",
     "geom:latitude":-28.478432,
     "geom:longitude":-55.823446,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.45449,
     "lbl:longitude":-55.795976,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sarandi"
@@ -73,9 +82,12 @@
         102059893
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431800240"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dbab90c3b1d7734529ab71d814ee26f6",
+    "wof:geomhash":"f8f5785ed558f30d4a5ac4573df66ed7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404564563,
-    "wof:lastmodified":1577827730,
+    "wof:lastmodified":1695878191,
     "wof:name":"Sarandi",
     "wof:parent_id":102059893,
     "wof:placetype":"localadmin",

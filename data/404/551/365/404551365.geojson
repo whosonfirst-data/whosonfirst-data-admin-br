@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00399,
-    "geom:area_square_m":48421094.374592,
+    "geom:area_square_m":48421094.374596,
     "geom:bbox":"-42.075604846,-11.1019943094,-41.979833115,-11.0163811898",
     "geom:latitude":-11.051528,
     "geom:longitude":-42.023207,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.052939,
     "lbl:longitude":-42.019934,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c1\u09af\u09bc\u09c7\u0987\u09ae\u09be\u09a1\u09be \u09a8\u09cb\u09ad\u09be"
@@ -91,9 +100,12 @@
         102050957
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291850607"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a0614e114a42df94a5821d5f08e4a87f",
+    "wof:geomhash":"23abda539d5f7897fbaaefb53b79f242",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404551365,
-    "wof:lastmodified":1577837646,
+    "wof:lastmodified":1695878664,
     "wof:name":"Queimada Nova",
     "wof:parent_id":102050957,
     "wof:placetype":"localadmin",

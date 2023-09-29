@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003971,
-    "geom:area_square_m":48598037.743774,
+    "geom:area_square_m":48598037.743762,
     "geom:bbox":"-36.1390283452,-8.23355897604,-36.0067446574,-8.17523695034",
     "geom:latitude":-8.200571,
     "geom:longitude":-36.068653,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.200787,
     "lbl:longitude":-36.06968,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056585
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260410620"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4c487386ba65bd4a717cc5190d7f8684",
+    "wof:geomhash":"089029e3f899004e56efbe04ce280719",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560279,
-    "wof:lastmodified":1577837730,
+    "wof:lastmodified":1695878684,
     "wof:name":"Lajedo Do Cedro",
     "wof:parent_id":102056585,
     "wof:placetype":"localadmin",

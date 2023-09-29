@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.188796,
-    "geom:area_square_m":2303940541.713105,
+    "geom:area_square_m":2303940541.713006,
     "geom:bbox":"-39.17044,-9.653271,-38.682355,-8.870395",
     "geom:latitude":-9.280878,
     "geom:longitude":-38.914624,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.246141,
     "lbl:longitude":-38.898028,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u0995\u09c1\u09b0\u09c1\u09b0\u09c7"
@@ -103,12 +112,15 @@
         102050999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291990005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050999
     ],
     "wof:country":"BR",
-    "wof:geomhash":"485213d9beb925648dfb80886c5586e9",
+    "wof:geomhash":"d59a2d6eab4cd61a64944af26e56749a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404551441,
-    "wof:lastmodified":1617131225,
+    "wof:lastmodified":1695878843,
     "wof:name":"Macurur\u00e9",
     "wof:parent_id":102050999,
     "wof:placetype":"localadmin",

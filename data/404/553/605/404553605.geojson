@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004966,
-    "geom:area_square_m":60832580.190828,
+    "geom:area_square_m":60832580.190841,
     "geom:bbox":"-39.1019059577,-7.85818247174,-38.9982028628,-7.75486772586",
     "geom:latitude":-7.803307,
     "geom:longitude":-39.05428,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.792146,
     "lbl:longitude":-39.05073,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a8\u09be\u09ab\u09cb\u09b0\u09cd\u099f\u09c7"
@@ -85,9 +94,12 @@
         102051709
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231060505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"edcd0504555fb0857f22fd8442082f9f",
+    "wof:geomhash":"d8caa04186e539c35cec091ef3bf6dac",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404553605,
-    "wof:lastmodified":1577837925,
+    "wof:lastmodified":1695878732,
     "wof:name":"Penaforte",
     "wof:parent_id":102051709,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006525,
-    "geom:area_square_m":80098081.701648,
+    "geom:area_square_m":80098081.701657,
     "geom:bbox":"-35.4936324747,-6.96406425718,-35.3813151957,-6.8548199971",
     "geom:latitude":-6.90648,
     "geom:longitude":-35.432938,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.907428,
     "lbl:longitude":-35.441445,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0995\u09b9\u09cb\u09af\u09bc\u09c7\u0987\u09b0\u09be"
@@ -103,9 +112,12 @@
         102056171
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250630110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"831d5fb68cfd4cc93116a6e3a1f25698",
+    "wof:geomhash":"fb53497dfebd96103af0513513d8d113",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404559939,
-    "wof:lastmodified":1577837968,
+    "wof:lastmodified":1695878743,
     "wof:name":"Cachoeira",
     "wof:parent_id":102056171,
     "wof:placetype":"localadmin",

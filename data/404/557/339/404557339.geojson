@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036722,
-    "geom:area_square_m":429815840.917462,
+    "geom:area_square_m":429815840.917437,
     "geom:bbox":"-45.46687,-18.9162889971,-45.162702,-18.6798979971",
     "geom:latitude":-18.811757,
     "geom:longitude":-45.296364,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.818012,
     "lbl:longitude":-45.296362,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314350010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"62a3fc27d8ac8528da35727fa28c1dfd",
+    "wof:geomhash":"a8445b3bfa202f977bb9f1d11fc2a4c7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557339,
-    "wof:lastmodified":1577832837,
+    "wof:lastmodified":1695878424,
     "wof:name":"Frei Orlando",
     "wof:parent_id":102054381,
     "wof:placetype":"localadmin",

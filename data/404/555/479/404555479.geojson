@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020164,
-    "geom:area_square_m":230442324.729378,
+    "geom:area_square_m":230442324.729346,
     "geom:bbox":"-46.282727,-22.519817,-46.085024,-22.361057",
     "geom:latitude":-22.44581,
     "geom:longitude":-46.18439,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.44845,
     "lbl:longitude":-46.186263,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09ae \u09b0\u09c7\u09aa\u09be\u0989\u09b8\u09cb"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053253,
         1511777411,
-        85681941
+        102053253
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310790105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053253
     ],
     "wof:country":"BR",
-    "wof:geomhash":"48d48eb6fa9089d79563a4fa3c421a1a",
+    "wof:geomhash":"f80e9c1532ac6637ad333c25b9ef7b28",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404555479,
-    "wof:lastmodified":1608032469,
+    "wof:lastmodified":1695878807,
     "wof:name":"Bom Repouso",
     "wof:parent_id":102053253,
     "wof:placetype":"localadmin",

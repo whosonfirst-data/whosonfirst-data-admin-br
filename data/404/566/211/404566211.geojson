@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032527,
-    "geom:area_square_m":369944448.198629,
+    "geom:area_square_m":369944448.198493,
     "geom:bbox":"-45.84178,-23.237949,-45.592914,-22.969446",
     "geom:latitude":-23.103732,
     "geom:longitude":-45.713296,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.103628,
     "lbl:longitude":-45.694453,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0995\u09be\u09aa\u09be\u09ad\u09be"
@@ -84,19 +93,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061207,
         1511777411,
-        85682041
+        102061207
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350850405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061207
     ],
     "wof:country":"BR",
-    "wof:geomhash":"dd7691ec2c313a982cf64669f82510af",
+    "wof:geomhash":"34483b775699620eff43e809c76c13b6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404566211,
-    "wof:lastmodified":1608030705,
+    "wof:lastmodified":1695878781,
     "wof:name":"Ca\u00e7apava",
     "wof:parent_id":102061207,
     "wof:placetype":"localadmin",

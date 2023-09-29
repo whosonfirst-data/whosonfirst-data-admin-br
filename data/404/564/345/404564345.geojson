@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00514,
-    "geom:area_square_m":55532270.681653,
+    "geom:area_square_m":55532270.681676,
     "geom:bbox":"-53.1604663481,-29.1622277819,-53.0498301775,-29.0628892857",
     "geom:latitude":-29.112466,
     "geom:longitude":-53.104298,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.112348,
     "lbl:longitude":-53.105133,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09c1\u09b2\u09bf\u0993 \u09ac\u09cb\u09b0\u09cd\u0997\u09c7\u09b8"
@@ -85,9 +94,12 @@
         102059837
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431645121"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5ffb78d07a48ce1611571371549a0f3a",
+    "wof:geomhash":"499aa77098de0ea698f878c2ebb66b4f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404564345,
-    "wof:lastmodified":1577827807,
+    "wof:lastmodified":1695878226,
     "wof:name":"J\u00falio Borges",
     "wof:parent_id":102059837,
     "wof:placetype":"localadmin",

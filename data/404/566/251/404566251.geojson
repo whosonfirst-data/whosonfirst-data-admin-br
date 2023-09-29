@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001872,
-    "geom:area_square_m":21217103.107416,
+    "geom:area_square_m":21217103.107413,
     "geom:bbox":"-48.5392882466,-23.5633016716,-48.4730186398,-23.5093270785",
     "geom:latitude":-23.534581,
     "geom:longitude":-48.507539,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.535397,
     "lbl:longitude":-48.508046,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Saltu"
@@ -121,9 +130,12 @@
         102061231
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350945215"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b306c4edb71f5393d5d76fe668004457",
+    "wof:geomhash":"1a9056e5b6c3d438c02025a8486ff660",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +147,7 @@
         }
     ],
     "wof:id":404566251,
-    "wof:lastmodified":1577833371,
+    "wof:lastmodified":1695878596,
     "wof:name":"Salto",
     "wof:parent_id":102061231,
     "wof:placetype":"localadmin",

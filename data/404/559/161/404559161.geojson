@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117057,
-    "geom:area_square_m":1396101105.729184,
+    "geom:area_square_m":1396101105.729141,
     "geom:bbox":"-55.5480139505,-15.6364935545,-55.1009338107,-15.0644181548",
     "geom:latitude":-15.30407,
     "geom:longitude":-55.375145,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.220514,
     "lbl:longitude":-55.372047,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510300720"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d746e445ef961271fb8ab3313fd73752",
+    "wof:geomhash":"2d83dbf0a5811233f3e51d78e730c6ec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559161,
-    "wof:lastmodified":1577836093,
+    "wof:lastmodified":1695878629,
     "wof:name":"Rio Da Casca",
     "wof:parent_id":102055409,
     "wof:placetype":"localadmin",

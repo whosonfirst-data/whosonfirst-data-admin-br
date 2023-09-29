@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011025,
-    "geom:area_square_m":135440300.521854,
+    "geom:area_square_m":135440300.521849,
     "geom:bbox":"-35.1365590099,-6.62578386316,-34.9794262615,-6.49013279257",
     "geom:latitude":-6.558126,
     "geom:longitude":-35.065725,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.566377,
     "lbl:longitude":-35.066894,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u099f\u09be\u09b0\u09be\u0995\u09be"
@@ -88,9 +97,12 @@
         102056245
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250930505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"40641e3c70ed45dd32faf89b553aefdf",
+    "wof:geomhash":"49e780d8e4692d97b250b2d767d26b6e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404559985,
-    "wof:lastmodified":1577837974,
+    "wof:lastmodified":1695878744,
     "wof:name":"Mataraca",
     "wof:parent_id":102056245,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011804,
-    "geom:area_square_m":130168980.33464,
+    "geom:area_square_m":130168980.334439,
     "geom:bbox":"-49.434092,-26.966209,-49.289201,-26.807641",
     "geom:latitude":-26.895367,
     "geom:longitude":-49.351145,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.898438,
     "lbl:longitude":-49.358285,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09cb\u09a1\u09c7\u0987\u0993"
@@ -88,12 +97,15 @@
         102060685
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421510905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060685
     ],
     "wof:country":"BR",
-    "wof:geomhash":"5db45ee9259205716a83fdeda1f76854",
+    "wof:geomhash":"543f507370e688db0bb8fd46db9debe9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404565803,
-    "wof:lastmodified":1617129993,
+    "wof:lastmodified":1695878829,
     "wof:name":"Rodeio",
     "wof:parent_id":102060685,
     "wof:placetype":"localadmin",

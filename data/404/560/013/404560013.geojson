@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03279,
-    "geom:area_square_m":402130384.060834,
+    "geom:area_square_m":402130384.060906,
     "geom:bbox":"-35.19682,-7.50001,-34.952398,-7.213179",
     "geom:latitude":-7.337572,
     "geom:longitude":-35.07423,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.328328,
     "lbl:longitude":-35.09464,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681967,
         102191577,
         85633009,
-        102056297,
         1511777415,
-        85681967
+        102056297
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"251120205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102056297
     ],
     "wof:country":"BR",
-    "wof:geomhash":"366efa2c35b41ad5aba7d5929a5a1b35",
+    "wof:geomhash":"485f94ffeb1c5bfef7e1423fd1c19017",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404560013,
-    "wof:lastmodified":1608029731,
+    "wof:lastmodified":1695878770,
     "wof:name":"Pedras De Fogo",
     "wof:parent_id":102056297,
     "wof:placetype":"localadmin",

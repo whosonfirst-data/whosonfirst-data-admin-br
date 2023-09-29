@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013887,
-    "geom:area_square_m":154876107.854709,
+    "geom:area_square_m":154876107.854718,
     "geom:bbox":"-53.7795827851,-25.674242258,-53.5842689112,-25.5044524652",
     "geom:latitude":-25.584103,
     "geom:longitude":-53.68483,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.55722,
     "lbl:longitude":-53.651332,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Cristo Rei"
@@ -43,9 +52,12 @@
         102057551
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410450110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"be928f029cc3497acd4a995078028310",
+    "wof:geomhash":"c021530894dc2958d916af70029059b5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":404560999,
-    "wof:lastmodified":1577827997,
+    "wof:lastmodified":1695878315,
     "wof:name":"Cristo Rei",
     "wof:parent_id":102057551,
     "wof:placetype":"localadmin",

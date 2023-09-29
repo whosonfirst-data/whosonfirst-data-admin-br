@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02329,
-    "geom:area_square_m":284661023.611462,
+    "geom:area_square_m":284661023.61151,
     "geom:bbox":"-36.9731243075,-8.81725075128,-36.7662224081,-8.61222545289",
     "geom:latitude":-8.716381,
     "geom:longitude":-36.874022,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.717579,
     "lbl:longitude":-36.874012,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09cb \u0986\u09a8\u09cd\u099f\u09cb\u09a8\u09bf\u0993"
@@ -61,9 +70,12 @@
         102056761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261080615"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ce1da54034715b8c4e71ffbc7d82388b",
+    "wof:geomhash":"2f8abf12d05615548ee9a1c2e1358687",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404560555,
-    "wof:lastmodified":1577837750,
+    "wof:lastmodified":1695878689,
     "wof:name":"Santo Ant\u00f4nio",
     "wof:parent_id":102056761,
     "wof:placetype":"localadmin",

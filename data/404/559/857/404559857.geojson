@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012387,
-    "geom:area_square_m":151922247.217317,
+    "geom:area_square_m":151922247.217284,
     "geom:bbox":"-38.554908934,-7.38203634122,-38.4088204414,-7.21612388338",
     "geom:latitude":-7.307255,
     "geom:longitude":-38.493254,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.328147,
     "lbl:longitude":-38.494362,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250240905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"66fc5b6254aa07b4b294729760fcaf62",
+    "wof:geomhash":"8c04558ba27ffc4872ecb2977c4e088e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559857,
-    "wof:lastmodified":1577837969,
+    "wof:lastmodified":1695878743,
     "wof:name":"Bonito De Santa F\u00e9",
     "wof:parent_id":102056059,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03346,
-    "geom:area_square_m":410505066.467541,
+    "geom:area_square_m":410505066.467621,
     "geom:bbox":"-37.7047717328,-7.317058939,-37.4944053624,-7.02927261307",
     "geom:latitude":-7.169725,
     "geom:longitude":-37.593458,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.178411,
     "lbl:longitude":-37.595078,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u099f\u09bf\u0999\u09cd\u0997\u09c1\u09f1\u09c7\u0987\u09b0\u09be"
@@ -94,9 +103,12 @@
         102056111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250420705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"414ab3e36f1dec83adecd620db4a4b4c",
+    "wof:geomhash":"ef5e77d5d7afe0b17396f972332febe7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404559905,
-    "wof:lastmodified":1577837963,
+    "wof:lastmodified":1695878742,
     "wof:name":"Catingueira",
     "wof:parent_id":102056111,
     "wof:placetype":"localadmin",

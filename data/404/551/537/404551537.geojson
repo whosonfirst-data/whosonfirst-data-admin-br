@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058492,
-    "geom:area_square_m":710670002.737688,
+    "geom:area_square_m":710670002.737697,
     "geom:bbox":"-41.189765451,-10.8566993186,-40.6944804898,-10.6066083923",
     "geom:latitude":-10.707405,
     "geom:longitude":-40.885007,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.70397,
     "lbl:longitude":-40.885044,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292140113"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6c2e85c3015659b6744b3a49b37b1e02",
+    "wof:geomhash":"c15a9971460463ec1934e0867e123b1e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551537,
-    "wof:lastmodified":1577837849,
+    "wof:lastmodified":1695878713,
     "wof:name":"Canabrava",
     "wof:parent_id":102051041,
     "wof:placetype":"localadmin",

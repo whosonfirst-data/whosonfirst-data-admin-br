@@ -29,7 +29,7 @@
     "mps:latitude":-21.069011,
     "mps:longitude":-48.399448,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u0995\u09c1\u09f1\u09be\u09b0\u09cd\u09af\u09bc\u09be\u09b2"
@@ -111,9 +111,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3553658"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3a2e28024ee41450346f8608cd0dd71c",
+    "wof:geomhash":"54b73e2c3bea88964df3b9a8271c06b1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":102062335,
-    "wof:lastmodified":1577831437,
+    "wof:lastmodified":1695887046,
     "wof:name":"Taquaral",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

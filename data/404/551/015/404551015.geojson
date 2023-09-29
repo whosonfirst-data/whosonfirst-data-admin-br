@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028002,
-    "geom:area_square_m":340179317.256661,
+    "geom:area_square_m":340179317.256645,
     "geom:bbox":"-38.389075,-10.8761,-38.198988,-10.633779",
     "geom:latitude":-10.746774,
     "geom:longitude":-38.314226,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.744032,
     "lbl:longitude":-38.312406,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b9\u09c7\u09b2\u09bf\u0993\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -46,12 +55,15 @@
         102050787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291185705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050787
     ],
     "wof:country":"BR",
-    "wof:geomhash":"6d0db61625f6e28aa257e54b45ee5805",
+    "wof:geomhash":"bc18ced6d2ab46f25e0d1e063350f590",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":404551015,
-    "wof:lastmodified":1617130368,
+    "wof:lastmodified":1695878836,
     "wof:name":"Heli\u00f3polis",
     "wof:parent_id":102050787,
     "wof:placetype":"localadmin",

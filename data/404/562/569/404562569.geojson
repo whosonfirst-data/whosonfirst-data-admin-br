@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016339,
-    "geom:area_square_m":187514456.09932,
+    "geom:area_square_m":187514456.099325,
     "geom:bbox":"-41.1595804412,-21.9119349914,-40.9811627146,-21.7897055127",
     "geom:latitude":-21.859079,
     "geom:longitude":-41.069037,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.856323,
     "lbl:longitude":-41.067298,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058469
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330500030"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"06d1b22819e4d3d2f0a0f7fcda20bb2d",
+    "wof:geomhash":"fb10cfdb60764f32666bdafb07ec76f8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562569,
-    "wof:lastmodified":1577832999,
+    "wof:lastmodified":1695878480,
     "wof:name":"Pipeiras",
     "wof:parent_id":102058469,
     "wof:placetype":"localadmin",

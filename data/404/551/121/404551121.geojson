@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145748,
-    "geom:area_square_m":1761135213.126393,
+    "geom:area_square_m":1761135213.126636,
     "geom:bbox":"-40.040461452,-12.5216021354,-39.396661545,-12.0252453847",
     "geom:latitude":-12.253981,
     "geom:longitude":-39.699598,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.20821,
     "lbl:longitude":-39.651155,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Ipir\u00e1"
@@ -79,9 +88,12 @@
         102050839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291400005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0cabc864da386fe270067e683d16a4fa",
+    "wof:geomhash":"49ad3545760db1d938da894b60206278",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404551121,
-    "wof:lastmodified":1577837668,
+    "wof:lastmodified":1695878669,
     "wof:name":"Ipir\u00e1",
     "wof:parent_id":102050839,
     "wof:placetype":"localadmin",

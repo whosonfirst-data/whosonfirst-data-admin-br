@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015942,
-    "geom:area_square_m":174689239.131328,
+    "geom:area_square_m":174689239.131313,
     "geom:bbox":"-54.4109784843,-27.6782953266,-54.2119411175,-27.5292627866",
     "geom:latitude":-27.604358,
     "geom:longitude":-54.316715,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.608472,
     "lbl:longitude":-54.318167,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b9\u09cb\u09b0\u09bf\u099c\u09cb\u09a8\u09cd\u099f\u09bf\u09a8\u09be"
@@ -100,9 +109,12 @@
         102059471
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430960505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5b8aec05993fad1e77aae5e3f6326b57",
+    "wof:geomhash":"c81d0b1c62788c0647928dc5c28991ee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404563717,
-    "wof:lastmodified":1577827936,
+    "wof:lastmodified":1695878288,
     "wof:name":"Horizontina",
     "wof:parent_id":102059471,
     "wof:placetype":"localadmin",

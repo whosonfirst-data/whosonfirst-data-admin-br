@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011683,
-    "geom:area_square_m":135341765.714902,
+    "geom:area_square_m":135341765.714901,
     "geom:bbox":"-41.2254130421,-20.5253298663,-41.0255237219,-20.4028425382",
     "geom:latitude":-20.47264,
     "geom:longitude":-41.121243,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.456913,
     "lbl:longitude":-41.122754,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09bf\u09ae\u09cb\u09af\u09bc\u09c7\u0987\u09b0\u09cb"
@@ -88,9 +97,12 @@
         102051857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320140723"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"92d5346de3a7d29429b86afe7d408649",
+    "wof:geomhash":"6809a30ae9130b149677ca5c676cfba8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404554273,
-    "wof:lastmodified":1577832796,
+    "wof:lastmodified":1695878412,
     "wof:name":"Limoeiro",
     "wof:parent_id":102051857,
     "wof:placetype":"localadmin",

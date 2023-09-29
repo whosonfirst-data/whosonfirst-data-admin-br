@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008488,
-    "geom:area_square_m":96338846.766888,
+    "geom:area_square_m":96338846.76703,
     "geom:bbox":"-46.823674,-23.426962,-46.65494,-23.326723",
     "geom:latitude":-23.376455,
     "geom:longitude":-46.744769,
@@ -29,7 +29,7 @@
     "mps:latitude":-23.366188,
     "mps:longitude":-46.758803,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0987\u09af\u09bc\u09c7\u0987\u09b0\u09be\u09b8"
@@ -120,12 +120,15 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3509007"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404566233
     ],
     "wof:country":"BR",
-    "wof:geomhash":"c82c53e63b3d792cd3bd9400091596a9",
+    "wof:geomhash":"e1d44a7574e315f9582cd017923a888b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":102061219,
-    "wof:lastmodified":1617130940,
+    "wof:lastmodified":1695887493,
     "wof:name":"Caieiras",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

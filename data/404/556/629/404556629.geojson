@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013115,
-    "geom:area_square_m":150002477.890903,
+    "geom:area_square_m":150002477.890881,
     "geom:bbox":"-46.36267,-22.424287,-46.21045,-22.266928",
     "geom:latitude":-22.336576,
     "geom:longitude":-46.281692,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.335887,
     "lbl:longitude":-46.282843,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09a8\u0995\u09cb\u09a8\u09ab\u09bf\u09a1\u09c7\u09a8\u099f\u09c7\u09b8"
@@ -96,19 +105,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054031,
         1511777411,
-        85681941
+        102054031
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313060605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054031
     ],
     "wof:country":"BR",
-    "wof:geomhash":"244c17be2afdebefe2dae30d90d5326b",
+    "wof:geomhash":"69d28c1a23c1290e195b3337951488e3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404556629,
-    "wof:lastmodified":1608029366,
+    "wof:lastmodified":1695878759,
     "wof:name":"Inconfidentes",
     "wof:parent_id":102054031,
     "wof:placetype":"localadmin",

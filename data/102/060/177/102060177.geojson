@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013812,
-    "geom:area_square_m":152257544.03859,
+    "geom:area_square_m":152257544.038604,
     "geom:bbox":"-49.959453,-27.001704,-49.708869,-26.88343",
     "geom:latitude":-26.936842,
     "geom:longitude":-49.84202,
@@ -63,16 +63,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777409,
-        85682021
+        85682021,
+        1511777409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"4219408"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404565995
     ],
     "wof:country":"BR",
-    "wof:geomhash":"c23daf286f19dd9dcb74cca0324ebc53",
+    "wof:geomhash":"6af2f405e871971dba643b12e18455e6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":102060177,
-    "wof:lastmodified":1608034342,
+    "wof:lastmodified":1695886424,
     "wof:name":"Witmarsum",
     "wof:parent_id":85682021,
     "wof:placetype":"county",

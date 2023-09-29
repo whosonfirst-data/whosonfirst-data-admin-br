@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030532,
-    "geom:area_square_m":342711025.600824,
+    "geom:area_square_m":342711025.600801,
     "geom:bbox":"-53.4067328123,-24.9536076055,-53.1245685674,-24.6835492599",
     "geom:latitude":-24.801826,
     "geom:longitude":-53.251332,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.805928,
     "lbl:longitude":-53.241728,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b0\u09cd\u09ac\u09c7\u09b2\u09bf\u09af\u09bc\u09be"
@@ -88,9 +97,12 @@
         102057593
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410630805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bc7af646ca3f089cb3f304f1336eb1a4",
+    "wof:geomhash":"aa2afd5dcd98f3bc215230e95ee7c334",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404561083,
-    "wof:lastmodified":1577827717,
+    "wof:lastmodified":1695878184,
     "wof:name":"Corb\u00e9lia",
     "wof:parent_id":102057593,
     "wof:placetype":"localadmin",

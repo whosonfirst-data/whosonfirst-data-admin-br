@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006827,
-    "geom:area_square_m":78425411.854896,
+    "geom:area_square_m":78425411.854864,
     "geom:bbox":"-42.423131,-21.7529369967,-42.2649348201,-21.6644503122",
     "geom:latitude":-21.714648,
     "geom:longitude":-42.340468,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.718019,
     "lbl:longitude":-42.327374,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315110720"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5f61e720b6a6b83ff5bf9cfd780be289",
+    "wof:geomhash":"c5e844042515e8a2b517beaf2a2f62e6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557733,
-    "wof:lastmodified":1577833397,
+    "wof:lastmodified":1695878606,
     "wof:name":"Val\u00e3o Quente",
     "wof:parent_id":102054595,
     "wof:placetype":"localadmin",

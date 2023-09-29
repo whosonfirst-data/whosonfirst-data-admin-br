@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.155999,
-    "geom:area_square_m":1822734612.344877,
+    "geom:area_square_m":1822734612.344534,
     "geom:bbox":"-45.65972,-19.318784,-45.080241,-18.875965",
     "geom:latitude":-19.102749,
     "geom:longitude":-45.358675,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.131641,
     "lbl:longitude":-45.33528,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ac\u09be\u09af\u09bc\u09c7\u099f\u09c7"
@@ -99,19 +108,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053371,
         1511777411,
-        85681941
+        102053371
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310020305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053371
     ],
     "wof:country":"BR",
-    "wof:geomhash":"cf65bd23db9fa037c6bfee9d80268575",
+    "wof:geomhash":"88a5b79f7ffb5db3565d137dc5c91448",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":404555101,
-    "wof:lastmodified":1608032627,
+    "wof:lastmodified":1695878812,
     "wof:name":"Abaet\u00e9",
     "wof:parent_id":102053371,
     "wof:placetype":"localadmin",

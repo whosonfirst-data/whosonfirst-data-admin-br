@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006085,
-    "geom:area_square_m":74555886.491498,
+    "geom:area_square_m":74555886.491509,
     "geom:bbox":"-34.943506,-7.807286,-34.862556,-7.683313",
     "geom:latitude":-7.745845,
     "geom:longitude":-34.907341,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.743448,
     "lbl:longitude":-34.908111,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09aa\u09bf\u09b8\u09b8\u09c1\u09ae\u09be"
@@ -75,19 +84,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681973,
         102191577,
         85633009,
-        102056677,
         1511777415,
-        85681973
+        102056677
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260775205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102056677
     ],
     "wof:country":"BR",
-    "wof:geomhash":"56ddcb7a822b00b7c80c4fae8de8f4dc",
+    "wof:geomhash":"24806271643fd940904af6cf128bbc4a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404560435,
-    "wof:lastmodified":1608029944,
+    "wof:lastmodified":1695878771,
     "wof:name":"Itapissuma",
     "wof:parent_id":102056677,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01018,
-    "geom:area_square_m":110933028.841196,
+    "geom:area_square_m":110933028.841217,
     "geom:bbox":"-53.7099504116,-28.287079992,-53.6141217523,-28.1325974932",
     "geom:latitude":-28.207716,
     "geom:longitude":-53.667849,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.193802,
     "lbl:longitude":-53.66788,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09c7\u09a1\u09bf\u09af\u09bc\u09be\u09a8\u09af\u09bc\u09c7\u0987\u09b0\u09be"
@@ -88,9 +97,12 @@
         102059045
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430020815"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d1537c01d1b4bb499ff552232473b94c",
+    "wof:geomhash":"1909e37b29ed72c5bf115aa56ffa977c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404562905,
-    "wof:lastmodified":1577827977,
+    "wof:lastmodified":1695878306,
     "wof:name":"Medianeira",
     "wof:parent_id":102059045,
     "wof:placetype":"localadmin",

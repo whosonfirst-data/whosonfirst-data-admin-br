@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026265,
-    "geom:area_square_m":309746250.855117,
+    "geom:area_square_m":309746250.855192,
     "geom:bbox":"-42.884402,-17.6912189967,-42.681405,-17.3692669968",
     "geom:latitude":-17.494927,
     "geom:longitude":-42.786868,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.493087,
     "lbl:longitude":-42.778416,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055139
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"317107115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"26f0b304e9c967ff1eb40c229b74584f",
+    "wof:geomhash":"be0faed8ae6fbe0be97ca8fabe77741f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558735,
-    "wof:lastmodified":1577833135,
+    "wof:lastmodified":1695878523,
     "wof:name":"Mendon\u00e7a",
     "wof:parent_id":102055139,
     "wof:placetype":"localadmin",

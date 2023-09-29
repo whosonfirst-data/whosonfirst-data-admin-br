@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006944,
-    "geom:area_square_m":84861201.159541,
+    "geom:area_square_m":84861201.159546,
     "geom:bbox":"-35.6224119511,-8.84646775409,-35.5348251723,-8.71759246404",
     "geom:latitude":-8.786695,
     "geom:longitude":-35.575807,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.795096,
     "lbl:longitude":-35.57498,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u099f\u09c7\u09b0\u09c7\u099c\u09bf\u09a8\u09b9\u09be"
@@ -85,9 +94,12 @@
         102056495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260040110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2b1b6fc8fce0055ad7835b1fef430f65",
+    "wof:geomhash":"6ed7b1676ae2ca6d3f5acc80233c44d8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404560115,
-    "wof:lastmodified":1577837902,
+    "wof:lastmodified":1695878726,
     "wof:name":"Santa Terezinha",
     "wof:parent_id":102056495,
     "wof:placetype":"localadmin",

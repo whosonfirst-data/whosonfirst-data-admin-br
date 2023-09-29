@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003899,
-    "geom:area_square_m":48064041.205592,
+    "geom:area_square_m":48064041.205589,
     "geom:bbox":"-40.8658416853,-4.55062422466,-40.7825402328,-4.48246638788",
     "geom:latitude":-4.514951,
     "geom:longitude":-40.821136,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.515914,
     "lbl:longitude":-40.82034,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u09ab\u09be\u099f\u09bf\u09ae\u09be"
@@ -91,9 +100,12 @@
         102051583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230590235"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e64135b29dd1bfdbffcc3707001a73d1",
+    "wof:geomhash":"f535cf6c0774f84f2b3d7c8604dfc994",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404553079,
-    "wof:lastmodified":1577837893,
+    "wof:lastmodified":1695878724,
     "wof:name":"Nova F\u00e1tima",
     "wof:parent_id":102051583,
     "wof:placetype":"localadmin",

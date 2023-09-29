@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018381,
-    "geom:area_square_m":213312818.679174,
+    "geom:area_square_m":213312818.679218,
     "geom:bbox":"-44.574241,-20.2864129969,-44.33645,-20.1195549969",
     "geom:latitude":-20.19666,
     "geom:longitude":-44.465141,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.205087,
     "lbl:longitude":-44.484951,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u099f\u09bf\u09af\u09bc\u09be\u0987\u0989\u0995\u09c1"
@@ -106,9 +115,12 @@
         102054107
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313370905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2dfee3062610f4bb2110f55318108608",
+    "wof:geomhash":"a09ac76a1833d7ff2796438673ff19be",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404556767,
-    "wof:lastmodified":1577833196,
+    "wof:lastmodified":1695878541,
     "wof:name":"Itatiaiu\u00e7u",
     "wof:parent_id":102054107,
     "wof:placetype":"localadmin",

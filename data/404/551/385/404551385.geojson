@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0086,
-    "geom:area_square_m":103571531.526114,
+    "geom:area_square_m":103571531.526121,
     "geom:bbox":"-39.381506733,-13.1756270031,-39.1221356202,-13.0776553356",
     "geom:latitude":-13.116559,
     "geom:longitude":-39.270067,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.102264,
     "lbl:longitude":-39.272358,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Cap\u00e3o"
@@ -40,9 +49,12 @@
         102050967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291880310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"13f0a3b6873cdd79fe582b9324a1695b",
+    "wof:geomhash":"5d8be67363b40add7aaaeb647722decc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404551385,
-    "wof:lastmodified":1577837719,
+    "wof:lastmodified":1695878682,
     "wof:name":"Cap\u00e3o",
     "wof:parent_id":102050967,
     "wof:placetype":"localadmin",

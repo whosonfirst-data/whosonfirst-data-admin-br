@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123714,
-    "geom:area_square_m":1469366972.725834,
+    "geom:area_square_m":1469366969.850918,
     "geom:bbox":"-42.424864,-16.321632,-41.843654,-15.969684",
     "geom:latitude":-16.151554,
     "geom:longitude":-42.125754,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.137071,
     "lbl:longitude":-42.154705,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Salinas"
@@ -145,9 +154,12 @@
         102054739
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315700505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b0da952e3cef81a549641d7e5125bbdb",
+    "wof:geomhash":"5ee27e94e5a5dcc2f41f2280e4303522",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -159,7 +171,7 @@
         }
     ],
     "wof:id":404558011,
-    "wof:lastmodified":1642551768,
+    "wof:lastmodified":1695878870,
     "wof:name":"Salinas",
     "wof:parent_id":102054739,
     "wof:placetype":"localadmin",

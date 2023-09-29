@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005741,
-    "geom:area_square_m":66581353.186141,
+    "geom:area_square_m":66581353.186179,
     "geom:bbox":"-43.785272,-20.3459119969,-43.67021,-20.2538099969",
     "geom:latitude":-20.302659,
     "geom:longitude":-43.720475,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.301873,
     "lbl:longitude":-43.716573,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054461
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314610710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d8a202caba2a8927f8b4e8064e0ff701",
+    "wof:geomhash":"b543fe4f4a633beaabd0a48bfaf6b0b5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557473,
-    "wof:lastmodified":1577833280,
+    "wof:lastmodified":1695878569,
     "wof:name":"Amarantina",
     "wof:parent_id":102054461,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076448,
-    "geom:area_square_m":927473502.265242,
+    "geom:area_square_m":927473502.265207,
     "geom:bbox":"-40.9119205755,-11.335982705,-40.450515228,-10.9805576662",
     "geom:latitude":-11.144331,
     "geom:longitude":-40.627835,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.146963,
     "lbl:longitude":-40.585802,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u0995\u09cb\u09ac\u09bf\u09a8\u09be"
@@ -97,9 +106,12 @@
         102050929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291750805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bcffe221eb9e29c120b80876c9e4c5ac",
+    "wof:geomhash":"d19865f4a59f2e156c28feabbc5cf1ce",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404551271,
-    "wof:lastmodified":1577837645,
+    "wof:lastmodified":1695878663,
     "wof:name":"Jacobina",
     "wof:parent_id":102050929,
     "wof:placetype":"localadmin",

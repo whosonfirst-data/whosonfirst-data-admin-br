@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026153,
-    "geom:area_square_m":306717256.051919,
+    "geom:area_square_m":306717256.0519,
     "geom:bbox":"-43.382281,-18.6022309966,-43.151405,-18.3862529966",
     "geom:latitude":-18.478409,
     "geom:longitude":-43.266743,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.458048,
     "lbl:longitude":-43.284226,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316020705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9710a4dd4eac74ade238bdd2e4c9d44c",
+    "wof:geomhash":"3bd5cc5975de3ea9de5fff3fca380ed1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558173,
-    "wof:lastmodified":1577832712,
+    "wof:lastmodified":1695878379,
     "wof:name":"Santo Ant\u00f4nio Do Itamb\u00e9",
     "wof:parent_id":102054827,
     "wof:placetype":"localadmin",

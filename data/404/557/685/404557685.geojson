@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007239,
-    "geom:area_square_m":83979606.409966,
+    "geom:area_square_m":83979606.410004,
     "geom:bbox":"-42.780529,-20.290607,-42.663365,-20.189788",
     "geom:latitude":-20.24171,
     "geom:longitude":-42.718066,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.240175,
     "lbl:longitude":-42.725034,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054569,
         1511777411,
-        85681941
+        102054569
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315020805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054569
     ],
     "wof:country":"BR",
-    "wof:geomhash":"70c16d21d2011469a5b6503329fdda76",
+    "wof:geomhash":"29157926767d0b48b588e1fe6f4624b6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404557685,
-    "wof:lastmodified":1608031942,
+    "wof:lastmodified":1695878799,
     "wof:name":"Piedade De Ponte Nova",
     "wof:parent_id":102054569,
     "wof:placetype":"localadmin",

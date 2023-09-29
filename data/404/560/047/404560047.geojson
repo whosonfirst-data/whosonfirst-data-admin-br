@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032278,
-    "geom:area_square_m":396043884.02513,
+    "geom:area_square_m":396044522.422776,
     "geom:bbox":"-35.162056,-7.282836,-34.907901,-6.936359",
     "geom:latitude":-7.120015,
     "geom:longitude":-35.030478,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.127014,
     "lbl:longitude":-35.000621,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0631\u064a\u062a\u0627"
@@ -142,9 +151,12 @@
         102056377
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"251370305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4979e934b5ff607e1298d629c0edf30e",
+    "wof:geomhash":"5cbb99118916e899751109d9d6e561bf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":404560047,
-    "wof:lastmodified":1636496414,
+    "wof:lastmodified":1695878855,
     "wof:name":"Santa Rita",
     "wof:parent_id":102056377,
     "wof:placetype":"localadmin",

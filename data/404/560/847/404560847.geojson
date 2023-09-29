@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013505,
-    "geom:area_square_m":153490297.495281,
+    "geom:area_square_m":153490297.495318,
     "geom:bbox":"-52.938618596,-23.2742856101,-52.7965185086,-23.1232210678",
     "geom:latitude":-23.195544,
     "geom:longitude":-52.8653,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.17854,
     "lbl:longitude":-52.856847,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09b0\u09cd\u09a1\u09c7\u09b8\u099f\u09bf\u09a8\u09be"
@@ -97,9 +106,12 @@
         102057427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410090510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ba82a8552b7bfbeb7637f01ffb6b71c5",
+    "wof:geomhash":"4debd467c50dd068ec2ac04083138ec9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404560847,
-    "wof:lastmodified":1577827964,
+    "wof:lastmodified":1695878300,
     "wof:name":"Nordestina",
     "wof:parent_id":102057427,
     "wof:placetype":"localadmin",

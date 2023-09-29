@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008565,
-    "geom:area_square_m":99945871.792734,
+    "geom:area_square_m":99945871.792784,
     "geom:bbox":"-40.6778012978,-19.3856760595,-40.5309333899,-19.2652340278",
     "geom:latitude":-19.324417,
     "geom:longitude":-40.597122,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.317798,
     "lbl:longitude":-40.585987,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09cd\u09b0\u09be\u0995\u09be \u09f1\u09be\u09b0\u09be\u09a8\u09b9\u09be"
@@ -52,9 +61,12 @@
         102051859
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320150630"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cc81f28427ff908b61c70dde0736bf84",
+    "wof:geomhash":"2037acb63db16fa8606aa7381457708c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":404554289,
-    "wof:lastmodified":1577832655,
+    "wof:lastmodified":1695878360,
     "wof:name":"Gra\u00e7a Aranha",
     "wof:parent_id":102051859,
     "wof:placetype":"localadmin",

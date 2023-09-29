@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024046,
-    "geom:area_square_m":272613635.123275,
+    "geom:area_square_m":272613635.123252,
     "geom:bbox":"-51.9992733184,-23.6242463322,-51.7098581449,-23.4055157999",
     "geom:latitude":-23.528205,
     "geom:longitude":-51.845422,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.523985,
     "lbl:longitude":-51.806988,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be\u09b2\u09ad\u09be"
@@ -91,9 +100,12 @@
         102057865
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411480705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1f110ffdc452a5dbbf4de11c790fb38a",
+    "wof:geomhash":"813e0beaba80d9ca53eb4aeae524b4a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404561443,
-    "wof:lastmodified":1577827774,
+    "wof:lastmodified":1695878211,
     "wof:name":"Marialva",
     "wof:parent_id":102057865,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006322,
-    "geom:area_square_m":72876508.651882,
+    "geom:area_square_m":72876508.651921,
     "geom:bbox":"-42.899664,-21.270183,-42.799306,-21.156872",
     "geom:latitude":-21.210682,
     "geom:longitude":-42.841313,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.213423,
     "lbl:longitude":-42.837891,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u062f\u064a\u0631\u0648"
@@ -102,19 +111,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054721,
         1511777411,
-        85681941
+        102054721
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315630405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054721
     ],
     "wof:country":"BR",
-    "wof:geomhash":"d1979847c95caaced5fc68e42b3e2de3",
+    "wof:geomhash":"e63cff1e3803e076ac126b0d9e08af74",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +138,7 @@
         }
     ],
     "wof:id":404557977,
-    "wof:lastmodified":1608031831,
+    "wof:lastmodified":1695878796,
     "wof:name":"Rodeiro",
     "wof:parent_id":102054721,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013756,
-    "geom:area_square_m":158339568.825362,
+    "geom:area_square_m":158339568.825358,
     "geom:bbox":"-50.5535295233,-21.5235278254,-50.418068182,-21.3077256743",
     "geom:latitude":-21.427803,
     "geom:longitude":-50.479227,
@@ -29,7 +29,7 @@
     "mps:latitude":-21.429429,
     "mps:longitude":-50.47818,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09bf\u09b2\u09be\u0995"
@@ -111,9 +111,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3506409"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a1c73aeb30d50193cb89256bcfa59a20",
+    "wof:geomhash":"62699fb06a633696791315fce479f9ea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":102061153,
-    "wof:lastmodified":1577831043,
+    "wof:lastmodified":1695887019,
     "wof:name":"Bilac",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070513,
-    "geom:area_square_m":837528026.882304,
+    "geom:area_square_m":837528026.882023,
     "geom:bbox":"-40.478404,-16.3091279975,-40.135107,-15.9574309975",
     "geom:latitude":-16.143487,
     "geom:longitude":-40.298957,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.160876,
     "lbl:longitude":-40.272986,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313470705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c2df156e28801bf6b0f7b76ad3d52bf3",
+    "wof:geomhash":"603aff40045ff0f4570d09b63616a237",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556807,
-    "wof:lastmodified":1577833184,
+    "wof:lastmodified":1695878537,
     "wof:name":"Jacinto",
     "wof:parent_id":102054131,
     "wof:placetype":"localadmin",

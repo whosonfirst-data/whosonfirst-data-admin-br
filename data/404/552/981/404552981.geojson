@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006302,
-    "geom:area_square_m":77644488.376083,
+    "geom:area_square_m":77644488.376079,
     "geom:bbox":"-38.563558511,-4.94893890362,-38.4048718335,-4.87288223874",
     "geom:latitude":-4.908984,
     "geom:longitude":-38.482731,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.902767,
     "lbl:longitude":-38.482729,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0427\u0438\u043b\u0438"
@@ -817,9 +826,12 @@
         102051565
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230533220"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"576ec4f097819df181ebfec9740e8b18",
+    "wof:geomhash":"4a078ca36113f318ad13e33e21566aa4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -831,7 +843,7 @@
         }
     ],
     "wof:id":404552981,
-    "wof:lastmodified":1577837985,
+    "wof:lastmodified":1695878747,
     "wof:name":"Chile",
     "wof:parent_id":102051565,
     "wof:placetype":"localadmin",

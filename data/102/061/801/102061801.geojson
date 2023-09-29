@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025131,
-    "geom:area_square_m":286898572.038628,
+    "geom:area_square_m":286898572.038525,
     "geom:bbox":"-51.2982027743,-22.7236675677,-51.0999747724,-22.4777246172",
     "geom:latitude":-22.59699,
     "geom:longitude":-51.201052,
@@ -29,7 +29,7 @@
     "mps:latitude":-22.605388,
     "mps:longitude":-51.215999,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Nantes"
@@ -366,9 +366,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3532157"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e4cd62a804f8a74cb093c66f9d8c09f6",
+    "wof:geomhash":"a7bf513095c33723c4bbfca74b3641c2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -379,7 +382,7 @@
         }
     ],
     "wof:id":102061801,
-    "wof:lastmodified":1577831482,
+    "wof:lastmodified":1695887050,
     "wof:name":"Nantes",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

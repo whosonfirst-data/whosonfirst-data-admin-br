@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082443,
-    "geom:area_square_m":964795186.030889,
+    "geom:area_square_m":964795186.031117,
     "geom:bbox":"-50.294765,-19.0473224392,-49.95717,-18.6642805704",
     "geom:latitude":-18.841669,
     "geom:longitude":-50.121878,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.82974,
     "lbl:longitude":-50.108302,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Santa Vit\u00f3ria"
@@ -61,9 +70,12 @@
         102054817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315980305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d89104e495f16688197435671e33e4bb",
+    "wof:geomhash":"c4bc6b46306a4c2ffa597fd48eba2bc8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404558155,
-    "wof:lastmodified":1577832701,
+    "wof:lastmodified":1695878374,
     "wof:name":"Santa Vit\u00f3ria",
     "wof:parent_id":102054817,
     "wof:placetype":"localadmin",

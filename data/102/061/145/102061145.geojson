@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059336,
-    "geom:area_square_m":685240575.834177,
+    "geom:area_square_m":685240575.834448,
     "geom:bbox":"-48.6844673521,-21.0916561563,-48.367219443,-20.7860156806",
     "geom:latitude":-20.940498,
     "geom:longitude":-48.510709,
@@ -29,7 +29,7 @@
     "mps:latitude":-20.940599,
     "mps:longitude":-48.491972,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09ac\u09c7\u09a1\u09cb\u0989\u09b0\u09cb"
@@ -111,9 +111,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3506102"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e9a1f3b6108046247a6ab577f08df1a5",
+    "wof:geomhash":"916a3292dc508c59a1efeb01a1fe4afe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":102061145,
-    "wof:lastmodified":1577831030,
+    "wof:lastmodified":1695887019,
     "wof:name":"Bebedouro",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

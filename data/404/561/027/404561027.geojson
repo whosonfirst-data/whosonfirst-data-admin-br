@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024725,
-    "geom:area_square_m":277452495.934925,
+    "geom:area_square_m":277452495.934922,
     "geom:bbox":"-53.5572566314,-24.925641,-53.3010894987,-24.743070562",
     "geom:latitude":-24.837752,
     "geom:longitude":-53.449619,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.852067,
     "lbl:longitude":-53.451551,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057559
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410480845"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4b581fe4e1cdddf54beaac96f8f5f029",
+    "wof:geomhash":"c51ef2c2fc02e1df288b220736e35429",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561027,
-    "wof:lastmodified":1577827889,
+    "wof:lastmodified":1695878266,
     "wof:name":"Espig\u00e3o Azul",
     "wof:parent_id":102057559,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003823,
-    "geom:area_square_m":47121312.105487,
+    "geom:area_square_m":47121312.105485,
     "geom:bbox":"-38.1836030726,-4.65386941949,-38.0458949846,-4.58988287113",
     "geom:latitude":-4.621998,
     "geom:longitude":-38.111364,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.634859,
     "lbl:longitude":-38.141093,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "S\u00e3o Jos\u00e9"
@@ -88,9 +97,12 @@
         102051695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231000110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"97e08cc08e560e31b28530352f6a1afb",
+    "wof:geomhash":"0a77440433eae198426afea3e0422e4a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404553553,
-    "wof:lastmodified":1577837867,
+    "wof:lastmodified":1695878717,
     "wof:name":"S\u00e3o Jos\u00e9",
     "wof:parent_id":102051695,
     "wof:placetype":"localadmin",

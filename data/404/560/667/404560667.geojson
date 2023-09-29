@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014361,
-    "geom:area_square_m":175702606.878605,
+    "geom:area_square_m":175702606.878617,
     "geom:bbox":"-36.2282516512,-8.40058877296,-36.0615244013,-8.27094010138",
     "geom:latitude":-8.334172,
     "geom:longitude":-36.143628,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.334791,
     "lbl:longitude":-36.153519,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261310705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"407ffd758de857b5b779115b26f41a13",
+    "wof:geomhash":"42c067a82be5f89b8efceab9f07f3d78",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560667,
-    "wof:lastmodified":1577837644,
+    "wof:lastmodified":1695878663,
     "wof:name":"S\u00e3o Caitano",
     "wof:parent_id":102056821,
     "wof:placetype":"localadmin",

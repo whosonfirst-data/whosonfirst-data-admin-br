@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016825,
-    "geom:area_square_m":191921086.083219,
+    "geom:area_square_m":191921086.08314,
     "geom:bbox":"-52.8493571934,-22.8025934248,-52.679481054,-22.6020616307",
     "geom:latitude":-22.701525,
     "geom:longitude":-52.756635,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.705523,
     "lbl:longitude":-52.741218,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412730410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dda01032ff9d1f8d0d2b7d4cfa8e2e3a",
+    "wof:geomhash":"da778370e9f753d749768d1a3fcddf09",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561987,
-    "wof:lastmodified":1577827989,
+    "wof:lastmodified":1695878311,
     "wof:name":"Adhemar De Barros",
     "wof:parent_id":102058249,
     "wof:placetype":"localadmin",

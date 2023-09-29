@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020298,
-    "geom:area_square_m":232288313.508165,
+    "geom:area_square_m":232288313.507999,
     "geom:bbox":"-51.370174,-22.355088,-51.205046,-22.044627",
     "geom:latitude":-22.258577,
     "geom:longitude":-51.285386,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.264243,
     "lbl:longitude":-51.290956,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102062059,
         1511777411,
-        85682041
+        102062059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354240405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102062059
     ],
     "wof:country":"BR",
-    "wof:geomhash":"8e0f4e7aba1cc6c2078dd3d83e53cfe3",
+    "wof:geomhash":"71c62da7b0c9f5334012ffd47e48429b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404567093,
-    "wof:lastmodified":1608030247,
+    "wof:lastmodified":1695878773,
     "wof:name":"Regente Feij\u00f3",
     "wof:parent_id":102062059,
     "wof:placetype":"localadmin",

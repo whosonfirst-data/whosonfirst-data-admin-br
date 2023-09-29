@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134461,
-    "geom:area_square_m":1662531576.75765,
+    "geom:area_square_m":1662531576.757795,
     "geom:bbox":"-51.6923617865,-0.93509182044,-51.0944551619,-0.416886103612",
     "geom:latitude":-0.648113,
     "geom:longitude":-51.403036,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-0.55429,
     "lbl:longitude":-51.283112,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150310115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6ef6d464c472f880add15395e89a7d61",
+    "wof:geomhash":"d5700ae90ad8bf5463bac1384bfa1cee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559625,
-    "wof:lastmodified":1577825688,
+    "wof:lastmodified":1695878165,
     "wof:name":"Itatup\u00e3",
     "wof:parent_id":102055777,
     "wof:placetype":"localadmin",

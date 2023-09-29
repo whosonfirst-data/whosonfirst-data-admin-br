@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040076,
-    "geom:area_square_m":482693819.953892,
+    "geom:area_square_m":482693819.954002,
     "geom:bbox":"-39.967977,-13.216723,-39.717181,-12.934083",
     "geom:latitude":-13.078092,
     "geom:longitude":-39.859249,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.090049,
     "lbl:longitude":-39.867867,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c7\u099c\u09cb\u09af\u09bc\u09c7\u09b8"
@@ -94,12 +103,15 @@
         102050583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290430805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050583
     ],
     "wof:country":"BR",
-    "wof:geomhash":"1740f1fae054a5913b488ee21d43bd27",
+    "wof:geomhash":"846d54026271cbead9d998144b55ae2b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404550581,
-    "wof:lastmodified":1617131168,
+    "wof:lastmodified":1695878841,
     "wof:name":"Brej\u00f5es",
     "wof:parent_id":102050583,
     "wof:placetype":"localadmin",

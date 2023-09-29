@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00771,
-    "geom:area_square_m":90169203.027744,
+    "geom:area_square_m":90169203.027755,
     "geom:bbox":"-42.183572,-19.0024389971,-42.036981,-18.8760169971",
     "geom:latitude":-18.949557,
     "geom:longitude":-42.106863,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.969263,
     "lbl:longitude":-42.11907,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053957
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312770115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"12ee20810288aa0e4c97b0d8367c37e8",
+    "wof:geomhash":"4abacb06e7d477897325e887196a0631",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556491,
-    "wof:lastmodified":1577832922,
+    "wof:lastmodified":1695878458,
     "wof:name":"Baguari",
     "wof:parent_id":102053957,
     "wof:placetype":"localadmin",

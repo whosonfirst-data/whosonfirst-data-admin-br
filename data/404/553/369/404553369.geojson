@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040947,
-    "geom:area_square_m":502240548.30006,
+    "geom:area_square_m":502240548.300085,
     "geom:bbox":"-39.0258229596,-7.45781242672,-38.784756479,-7.08270397574",
     "geom:latitude":-7.280895,
     "geom:longitude":-38.919719,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.317571,
     "lbl:longitude":-38.901606,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Milagres"
@@ -70,9 +79,12 @@
         102051649
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230830205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7fc0189caf8392be45da59f0a33d38f3",
+    "wof:geomhash":"bf081c531ebb151dba2353a0f9f43182",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404553369,
-    "wof:lastmodified":1577837849,
+    "wof:lastmodified":1695878713,
     "wof:name":"Milagres",
     "wof:parent_id":102051649,
     "wof:placetype":"localadmin",

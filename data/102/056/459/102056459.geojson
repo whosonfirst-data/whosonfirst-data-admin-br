@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068685,
-    "geom:area_square_m":841683761.01694,
+    "geom:area_square_m":841683761.016938,
     "geom:bbox":"-37.085984,-7.842713,-36.725997,-7.482262",
     "geom:latitude":-7.677486,
     "geom:longitude":-36.900427,
@@ -35,7 +35,7 @@
     "mps:latitude":-7.704135,
     "mps:longitude":-36.903315,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Suma"
@@ -98,16 +98,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777415,
-        85681967
+        85681967,
+        1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2516300"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404560081
     ],
     "wof:country":"BR",
-    "wof:geomhash":"d4abae48f12fa53a9841ac88ad678f8d",
+    "wof:geomhash":"56777838ea825c43cdcefc18941c6f0b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":102056459,
-    "wof:lastmodified":1608029891,
+    "wof:lastmodified":1695887458,
     "wof:name":"Sume",
     "wof:parent_id":85681967,
     "wof:placetype":"county",

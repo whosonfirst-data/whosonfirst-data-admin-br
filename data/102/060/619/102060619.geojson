@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027946,
-    "geom:area_square_m":306386916.187139,
+    "geom:area_square_m":306386916.187105,
     "geom:bbox":"-49.788251,-27.656765889,-49.5828466853,-27.4506749992",
     "geom:latitude":-27.545613,
     "geom:longitude":-49.68265,
@@ -32,7 +32,7 @@
     "mps:latitude":-27.544609,
     "mps:longitude":-49.684607,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u099f\u09cd\u09b0\u09cb\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
@@ -87,9 +87,12 @@
         1511777409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"4212700"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8848fbc58292e3c5500bb2f377ca1d03",
+    "wof:geomhash":"fcc96ab81e97956cd98a375e9f23ab04",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":102060619,
-    "wof:lastmodified":1577827293,
+    "wof:lastmodified":1695886992,
     "wof:name":"Petrolandia",
     "wof:parent_id":85682021,
     "wof:placetype":"county",

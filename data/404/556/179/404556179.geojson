@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049429,
-    "geom:area_square_m":580487526.654021,
+    "geom:area_square_m":580487526.654063,
     "geom:bbox":"-44.088354,-18.3774779972,-43.771987,-18.0491299972",
     "geom:latitude":-18.238702,
     "geom:longitude":-43.917826,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.252174,
     "lbl:longitude":-43.915433,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053789
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312160510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d302974b065d60724b75a1d13a902b7f",
+    "wof:geomhash":"017dd7f214e14abca8cea04298bad9a2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556179,
-    "wof:lastmodified":1577832724,
+    "wof:lastmodified":1695878383,
     "wof:name":"Conselheiro Mata",
     "wof:parent_id":102053789,
     "wof:placetype":"localadmin",

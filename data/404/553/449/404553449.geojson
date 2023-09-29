@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04315,
-    "geom:area_square_m":531281628.343882,
+    "geom:area_square_m":531281628.343911,
     "geom:bbox":"-38.7151882145,-5.43964709768,-38.3978100322,-5.18060310606",
     "geom:latitude":-5.288399,
     "geom:longitude":-38.544073,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.302612,
     "lbl:longitude":-38.544061,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051663
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230870835"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"87d4976db0187dcb3bca7bd57127ebee",
+    "wof:geomhash":"76cf43bea786502e0e9051c7ba837af2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553449,
-    "wof:lastmodified":1577837859,
+    "wof:lastmodified":1695878716,
     "wof:name":"Rold\u00e3o",
     "wof:parent_id":102051663,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00661,
-    "geom:area_square_m":76460875.156598,
+    "geom:area_square_m":76460875.156586,
     "geom:bbox":"-41.3046291939,-20.739688356,-41.1413787738,-20.652092",
     "geom:latitude":-20.696351,
     "geom:longitude":-41.219603,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.698104,
     "lbl:longitude":-41.220788,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320120915"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"843fc17146abc4b0e48bc5df2d9d4cb9",
+    "wof:geomhash":"22a1708c3779323a8af0c7d4596526df",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554245,
-    "wof:lastmodified":1577833370,
+    "wof:lastmodified":1695878595,
     "wof:name":"Conduru",
     "wof:parent_id":102051851,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015758,
-    "geom:area_square_m":173149096.759864,
+    "geom:area_square_m":173149096.759845,
     "geom:bbox":"-51.76439,-27.3691718932,-51.5922635335,-27.2328119992",
     "geom:latitude":-27.298825,
     "geom:longitude":-51.681316,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.296671,
     "lbl:longitude":-51.689861,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0994\u09b0\u09cb"
@@ -82,9 +91,12 @@
         102060583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421180105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b614cf1597e1734c4b703d244f877862",
+    "wof:geomhash":"d878e44720bfb829fe397ea0db9e655b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404565671,
-    "wof:lastmodified":1577827818,
+    "wof:lastmodified":1695878231,
     "wof:name":"Ouro",
     "wof:parent_id":102060583,
     "wof:placetype":"localadmin",

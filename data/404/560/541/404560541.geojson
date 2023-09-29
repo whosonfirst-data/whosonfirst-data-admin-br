@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012386,
-    "geom:area_square_m":151662747.796715,
+    "geom:area_square_m":151662747.796687,
     "geom:bbox":"-35.6646586738,-8.09168106059,-35.4967139293,-7.91963827061",
     "geom:latitude":-7.997613,
     "geom:longitude":-35.58838,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.986622,
     "lbl:longitude":-35.580108,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b8\u09b8\u09bf\u09b0\u09be"
@@ -82,9 +91,12 @@
         102056755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261050905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5d25e17dfd834a8d1c7a7ba197593896",
+    "wof:geomhash":"f24a486c8a12757a2b681b913a6bb299",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404560541,
-    "wof:lastmodified":1577837831,
+    "wof:lastmodified":1695878709,
     "wof:name":"Passira",
     "wof:parent_id":102056755,
     "wof:placetype":"localadmin",

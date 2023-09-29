@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007584,
-    "geom:area_square_m":86611112.044893,
+    "geom:area_square_m":86611112.044882,
     "geom:bbox":"-45.959154,-22.6033359966,-45.87073,-22.4622939967",
     "geom:latitude":-22.538177,
     "geom:longitude":-45.91631,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.524407,
     "lbl:longitude":-45.912727,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Consola\u00e7\u00e3o"
@@ -46,9 +55,12 @@
         102053707
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311850205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"532f8d7a09edd8cb79db81884f570a18",
+    "wof:geomhash":"a7344d5bdcc609c726621c71bd49d82c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":404556017,
-    "wof:lastmodified":1577832565,
+    "wof:lastmodified":1695878323,
     "wof:name":"Consola\u00e7\u00e3o",
     "wof:parent_id":102053707,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040397,
-    "geom:area_square_m":476804597.86859,
+    "geom:area_square_m":476804597.868556,
     "geom:bbox":"-40.326427338,-17.4448627879,-40.0356379311,-17.2462127155",
     "geom:latitude":-17.344384,
     "geom:longitude":-40.172439,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.34119,
     "lbl:longitude":-40.169588,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09c7\u09a1\u09c7\u0987\u09b0\u09cb\u09b8 \u09a8\u09c7\u099f\u09cb"
@@ -91,9 +100,12 @@
         102051035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292110405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"fae78f3f2b5a5a406405446271cd4f9b",
+    "wof:geomhash":"3a861e6fd409493aeeb56c84d86c8dc1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404551515,
-    "wof:lastmodified":1577837923,
+    "wof:lastmodified":1695878731,
     "wof:name":"Medeiros Neto",
     "wof:parent_id":102051035,
     "wof:placetype":"localadmin",

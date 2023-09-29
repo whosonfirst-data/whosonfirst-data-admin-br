@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107042,
-    "geom:area_square_m":1225406270.217667,
+    "geom:area_square_m":1225406270.21767,
     "geom:bbox":"-51.1117474878,-22.48686759,-50.7057724472,-21.950968628",
     "geom:latitude":-22.206963,
     "geom:longitude":-50.931986,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.208253,
     "lbl:longitude":-50.935222,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09be\u09a8\u09cd\u099a\u09be\u09b0\u09bf\u09af\u09bc\u09be"
@@ -91,9 +100,12 @@
         102062055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354220605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"09c73438f3c7a23a8392969f4014a267",
+    "wof:geomhash":"37be374489ce1fbb7d4cf76ced0313ba",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404567085,
-    "wof:lastmodified":1577832632,
+    "wof:lastmodified":1695878352,
     "wof:name":"Rancharia",
     "wof:parent_id":102062055,
     "wof:placetype":"localadmin",

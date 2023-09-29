@@ -10,12 +10,21 @@
     "geom:latitude":-7.129574,
     "geom:longitude":-39.286564,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.133275,
     "lbl:longitude":-39.276782,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Pastro C\u00edcero"
@@ -43,9 +52,12 @@
         102051623
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230730415"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"79268643223ff87284cbdbe0f4c0751a",
+    "wof:geomhash":"e21ac106d4244aaea948311f55225762",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":404553223,
-    "wof:lastmodified":1577837915,
+    "wof:lastmodified":1695878729,
     "wof:name":"Padre C\u00edcero",
     "wof:parent_id":102051623,
     "wof:placetype":"localadmin",

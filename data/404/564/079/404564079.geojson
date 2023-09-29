@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005175,
-    "geom:area_square_m":56572043.086592,
+    "geom:area_square_m":56572241.544296,
     "geom:bbox":"-53.26843,-27.890153,-53.178584,-27.803479",
     "geom:latitude":-27.85284,
     "geom:longitude":-53.223658,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.85341,
     "lbl:longitude":-53.228154,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Rosa"
@@ -139,9 +148,12 @@
         102059699
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431370642"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c35fdfc29202f611467edf589d10d16c",
+    "wof:geomhash":"95dd3a63220529fec17c0a95ea1f1529",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +165,7 @@
         }
     ],
     "wof:id":404564079,
-    "wof:lastmodified":1636496445,
+    "wof:lastmodified":1695878865,
     "wof:name":"Santa Rosa",
     "wof:parent_id":102059699,
     "wof:placetype":"localadmin",

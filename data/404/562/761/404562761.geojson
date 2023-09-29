@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.219293,
-    "geom:area_square_m":2658138923.17648,
+    "geom:area_square_m":2658138923.176294,
     "geom:bbox":"-61.0947564237,-11.7492064739,-60.4350537851,-10.9890870284",
     "geom:latitude":-11.393461,
     "geom:longitude":-60.718688,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.098648,
     "lbl:longitude":-60.641097,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058905
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"110009805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"804224e09e460348c75a05f40c69a920",
+    "wof:geomhash":"44dc022546a509facc8f8db62b86917e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562761,
-    "wof:lastmodified":1577825665,
+    "wof:lastmodified":1695878153,
     "wof:name":"Espig\u00e3o D'Oeste",
     "wof:parent_id":102058905,
     "wof:placetype":"localadmin",

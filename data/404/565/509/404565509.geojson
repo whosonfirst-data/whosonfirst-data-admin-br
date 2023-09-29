@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029625,
-    "geom:area_square_m":326318903.671131,
+    "geom:area_square_m":326318903.670885,
     "geom:bbox":"-52.018047,-27.135243,-51.802331,-26.923535",
     "geom:latitude":-27.025188,
     "geom:longitude":-51.917928,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.017077,
     "lbl:longitude":-51.926551,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Irani"
@@ -43,12 +52,15 @@
         102060457
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420780905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060457
     ],
     "wof:country":"BR",
-    "wof:geomhash":"9f0fb2b81b56bd981f06c63875d2bc44",
+    "wof:geomhash":"26f94dc322d1cdd2e6beafd85f1295e6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":404565509,
-    "wof:lastmodified":1617131187,
+    "wof:lastmodified":1695878842,
     "wof:name":"Irani",
     "wof:parent_id":102060457,
     "wof:placetype":"localadmin",

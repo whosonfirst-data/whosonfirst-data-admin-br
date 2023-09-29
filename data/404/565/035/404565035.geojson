@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001314,
-    "geom:area_square_m":14152534.954367,
+    "geom:area_square_m":14152534.954373,
     "geom:bbox":"-51.2814243919,-29.4186462327,-51.2210479807,-29.3669359162",
     "geom:latitude":-29.392735,
     "geom:longitude":-51.251391,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.388708,
     "lbl:longitude":-51.244297,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u09b2\u09c7 \u09b0\u09c7\u09af\u09bc\u09be\u09b2"
@@ -94,9 +103,12 @@
         102060109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432254105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b00852b658c4ddda1ba64f920648568e",
+    "wof:geomhash":"124f2072c5ebd32d4159cc8e40aea4fa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404565035,
-    "wof:lastmodified":1577827883,
+    "wof:lastmodified":1695878263,
     "wof:name":"Vale Real",
     "wof:parent_id":102060109,
     "wof:placetype":"localadmin",

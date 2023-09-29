@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042286,
-    "geom:area_square_m":516206217.033553,
+    "geom:area_square_m":516206217.03359,
     "geom:bbox":"-37.1983148404,-9.31754018401,-36.9094649572,-9.00441360475",
     "geom:latitude":-9.160593,
     "geom:longitude":-37.062777,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.164691,
     "lbl:longitude":-37.064998,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u0997\u09c1\u09f1\u09be\u09b8 \u09ac\u09c7\u09b2\u09be\u09b8"
@@ -82,9 +91,12 @@
         102056497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260050005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"800adaa7299f27a82093db7fabf511b7",
+    "wof:geomhash":"991b42ed5da2514026f05c9397806866",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404560117,
-    "wof:lastmodified":1577837902,
+    "wof:lastmodified":1695878726,
     "wof:name":"\u00c1guas Belas",
     "wof:parent_id":102056497,
     "wof:placetype":"localadmin",

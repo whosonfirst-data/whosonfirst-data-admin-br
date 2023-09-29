@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023421,
-    "geom:area_square_m":288995131.414031,
+    "geom:area_square_m":288995034.820891,
     "geom:bbox":"-40.503983,-3.861821,-40.219089,-3.613443",
     "geom:latitude":-3.706053,
     "geom:longitude":-40.348574,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.687157,
     "lbl:longitude":-40.36254,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0628\u0631\u0627\u0644"
@@ -85,9 +94,12 @@
         102051775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231290805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"641e07c3cfade1d23a5366902ec34c99",
+    "wof:geomhash":"6b766a9f67248df1f30275038e902c9f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404553895,
-    "wof:lastmodified":1642551822,
+    "wof:lastmodified":1695878871,
     "wof:name":"Sobral",
     "wof:parent_id":102051775,
     "wof:placetype":"localadmin",

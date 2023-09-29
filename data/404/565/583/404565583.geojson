@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048888,
-    "geom:area_square_m":539000568.973866,
+    "geom:area_square_m":539000568.973882,
     "geom:bbox":"-50.85331,-27.1009730354,-50.4879176154,-26.7664592727",
     "geom:latitude":-26.921532,
     "geom:longitude":-50.684886,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.917535,
     "lbl:longitude":-50.672384,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Lebon-Reqis"
@@ -94,9 +103,12 @@
         102060515
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420970605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a709711cc122988bad2712c4751c4ab0",
+    "wof:geomhash":"b93fe5dbda1c42bc11d8f43269a2b491",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404565583,
-    "wof:lastmodified":1577827800,
+    "wof:lastmodified":1695878223,
     "wof:name":"Lebon R\u00e9gis",
     "wof:parent_id":102060515,
     "wof:placetype":"localadmin",

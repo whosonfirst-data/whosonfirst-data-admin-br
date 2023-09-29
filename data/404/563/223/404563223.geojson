@@ -10,12 +10,21 @@
     "geom:latitude":-28.888921,
     "geom:longitude":-53.008805,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.892556,
     "lbl:longitude":-53.00583,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09cd\u09aa\u09cb\u09b8 \u09ac\u09cb\u09b0\u09cd\u0997\u09c7\u09b8"
@@ -94,9 +103,12 @@
         102059203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430410105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3aeb22e20f82ca51f97cb939538af73d",
+    "wof:geomhash":"624a2dda1018d43076ab04b54119beee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404563223,
-    "wof:lastmodified":1577827920,
+    "wof:lastmodified":1695878281,
     "wof:name":"Campos Borges",
     "wof:parent_id":102059203,
     "wof:placetype":"localadmin",

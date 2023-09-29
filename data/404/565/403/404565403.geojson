@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003214,
-    "geom:area_square_m":35202134.114328,
+    "geom:area_square_m":35202134.11435,
     "geom:bbox":"-48.5275662078,-27.7203932958,-48.4611499861,-27.627207609",
     "geom:latitude":-27.670165,
     "geom:longitude":-48.497071,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.672908,
     "lbl:longitude":-48.497103,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Campeche"
@@ -250,9 +259,12 @@
         102060383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420540712"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e22638dcb73585967596fd57cb87804d",
+    "wof:geomhash":"a6016f256ec8ab6af3d1ddc90fe32aa9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -264,7 +276,7 @@
         }
     ],
     "wof:id":404565403,
-    "wof:lastmodified":1577827873,
+    "wof:lastmodified":1695878258,
     "wof:name":"Campeche",
     "wof:parent_id":102060383,
     "wof:placetype":"localadmin",

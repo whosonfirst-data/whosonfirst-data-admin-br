@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006662,
-    "geom:area_square_m":76753660.231289,
+    "geom:area_square_m":76753660.23128,
     "geom:bbox":"-47.0521194571,-21.3576879968,-46.959485,-21.2368169968",
     "geom:latitude":-21.287366,
     "geom:longitude":-47.004023,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.276421,
     "lbl:longitude":-47.003145,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054371
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314320310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"52e6f6bdadc8aca48c8706c781f20823",
+    "wof:geomhash":"04d6a452192ede88753955ed6872fe64",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557307,
-    "wof:lastmodified":1577833279,
+    "wof:lastmodified":1695878568,
     "wof:name":"Milagre",
     "wof:parent_id":102054371,
     "wof:placetype":"localadmin",

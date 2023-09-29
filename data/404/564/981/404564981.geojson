@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00384,
-    "geom:area_square_m":41476642.7678,
+    "geom:area_square_m":41476642.767791,
     "geom:bbox":"-52.9232309022,-29.1517577496,-52.7976731839,-29.0961185202",
     "geom:latitude":-29.123022,
     "geom:longitude":-52.866967,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.123949,
     "lbl:longitude":-52.866978,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060079
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432215210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5e6b385c801ff03a196e449464d8bda0",
+    "wof:geomhash":"ce14e9fd2118779b99280b4e689b7bb9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564981,
-    "wof:lastmodified":1577827997,
+    "wof:lastmodified":1695878316,
     "wof:name":"Cerro Preto",
     "wof:parent_id":102060079,
     "wof:placetype":"localadmin",

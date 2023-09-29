@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012335,
-    "geom:area_square_m":152259501.546211,
+    "geom:area_square_m":152259501.546171,
     "geom:bbox":"-39.703750761,-3.45785534736,-39.5830033952,-3.28752003109",
     "geom:latitude":-3.366919,
     "geom:longitude":-39.637342,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.363386,
     "lbl:longitude":-39.636189,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051597
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230640536"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6b0f3ed23bc56c55b1cc6cf20da437e8",
+    "wof:geomhash":"c956c96035be5cfd78ca305cff2c98c5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553143,
-    "wof:lastmodified":1577837905,
+    "wof:lastmodified":1695878727,
     "wof:name":"Calugi",
     "wof:parent_id":102051597,
     "wof:placetype":"localadmin",

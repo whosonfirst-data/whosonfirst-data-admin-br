@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008906,
-    "geom:area_square_m":100342835.339455,
+    "geom:area_square_m":100342835.339441,
     "geom:bbox":"-52.0068529263,-24.3889873248,-51.8970501011,-24.2442633378",
     "geom:latitude":-24.326001,
     "geom:longitude":-51.953538,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.345209,
     "lbl:longitude":-51.954378,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411727110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1721a2c723e148113c680f0d4062d203",
+    "wof:geomhash":"abcae7aebb7ac95aba3a4ef227755448",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561561,
-    "wof:lastmodified":1577827925,
+    "wof:lastmodified":1695878283,
     "wof:name":"Poema",
     "wof:parent_id":102057947,
     "wof:placetype":"localadmin",

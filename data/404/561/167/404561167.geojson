@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010529,
-    "geom:area_square_m":118825050.090469,
+    "geom:area_square_m":118825050.090458,
     "geom:bbox":"-53.9922336933,-24.1913870899,-53.7864605265,-24.0731498701",
     "geom:latitude":-24.127167,
     "geom:longitude":-53.898942,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.148743,
     "lbl:longitude":-53.881738,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rio Bonito"
@@ -49,9 +58,12 @@
         102057675
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410832010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"90af966c8a807d6a128506e2338493a3",
+    "wof:geomhash":"c39cd76341154d81e2c35fe1346abc8f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":404561167,
-    "wof:lastmodified":1577827913,
+    "wof:lastmodified":1695878277,
     "wof:name":"Rio Bonito",
     "wof:parent_id":102057675,
     "wof:placetype":"localadmin",

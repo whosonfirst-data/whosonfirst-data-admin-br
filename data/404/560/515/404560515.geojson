@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151862,
-    "geom:area_square_m":1859687511.916874,
+    "geom:area_square_m":1859687511.916992,
     "geom:bbox":"-40.3244572416,-8.22627307735,-39.8534067634,-7.67757035439",
     "geom:latitude":-7.963026,
     "geom:longitude":-40.098237,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.964045,
     "lbl:longitude":-40.098309,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0994\u09b0\u09bf\u0995\u09c1\u09b0\u09bf"
@@ -82,9 +91,12 @@
         102056741
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260990705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"314f2aa474f0a59bc32747aed6d88913",
+    "wof:geomhash":"ba9b0fac720d6835b6026f1bcc6770c8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404560515,
-    "wof:lastmodified":1577837741,
+    "wof:lastmodified":1695878687,
     "wof:name":"Ouricuri",
     "wof:parent_id":102056741,
     "wof:placetype":"localadmin",

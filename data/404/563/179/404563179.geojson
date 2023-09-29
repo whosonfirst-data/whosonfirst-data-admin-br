@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008896,
-    "geom:area_square_m":95270065.98005,
+    "geom:area_square_m":95270065.979987,
     "geom:bbox":"-53.0449237896,-30.084006487,-52.8854817044,-29.9136829614",
     "geom:latitude":-29.988311,
     "geom:longitude":-52.972309,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.972098,
     "lbl:longitude":-52.98015,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ferreira"
@@ -94,9 +103,12 @@
         102059173
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430300430"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9a448f4089e704e71df55080441a519b",
+    "wof:geomhash":"a4b15d1296b9bcf67e3a932756d8acd6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404563179,
-    "wof:lastmodified":1577827914,
+    "wof:lastmodified":1695878278,
     "wof:name":"Ferreira",
     "wof:parent_id":102059173,
     "wof:placetype":"localadmin",

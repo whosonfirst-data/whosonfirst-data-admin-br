@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004213,
-    "geom:area_square_m":51944049.417495,
+    "geom:area_square_m":51944049.4175,
     "geom:bbox":"-40.8608300499,-4.43559991994,-40.7916655522,-4.3451495057",
     "geom:latitude":-4.3955,
     "geom:longitude":-40.825374,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.403124,
     "lbl:longitude":-40.832951,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09b0\u09cb\u0995\u09c1\u09af\u09bc\u09c7"
@@ -61,9 +70,12 @@
         102051517
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230423650"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"43992a2b6e49e81c0080d0b9f77c9046",
+    "wof:geomhash":"a069241da2b59ed653a24fed39aafcc3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404552809,
-    "wof:lastmodified":1577837948,
+    "wof:lastmodified":1695878738,
     "wof:name":"S\u00e3o Roque",
     "wof:parent_id":102051517,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04022,
-    "geom:area_square_m":488919102.545305,
+    "geom:area_square_m":488919102.545309,
     "geom:bbox":"-38.5252620415,-10.7095311743,-38.219861766,-10.4101339183",
     "geom:latitude":-10.553813,
     "geom:longitude":-38.37255,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.556732,
     "lbl:longitude":-38.370103,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u0987\u09b8\u09c7\u09b0\u09cb \u09a1\u09be\u09a8\u09cd\u099f\u09be\u09b8"
@@ -94,9 +103,12 @@
         102050679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290780605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"949a5269a823e4e047e8679e029df15d",
+    "wof:geomhash":"6fc0b2a8104936df68d3e2ead3490e59",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404550793,
-    "wof:lastmodified":1577837775,
+    "wof:lastmodified":1695878694,
     "wof:name":"C\u00edcero Dantas",
     "wof:parent_id":102050679,
     "wof:placetype":"localadmin",

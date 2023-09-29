@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068547,
-    "geom:area_square_m":829518756.638737,
+    "geom:area_square_m":829518756.638785,
     "geom:bbox":"-42.6953688871,-11.966046774,-42.244942212,-11.713986796",
     "geom:latitude":-11.854597,
     "geom:longitude":-42.453249,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.86192,
     "lbl:longitude":-42.435054,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09aa\u09c1\u09aa\u09bf\u09f1\u09be\u09b0\u09be"
@@ -97,9 +106,12 @@
         102050841
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291410905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0610c975e8d1130e306a1487a01e35e0",
+    "wof:geomhash":"4ff84a5546733a8437853cd541270fe0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404551129,
-    "wof:lastmodified":1577837670,
+    "wof:lastmodified":1695878670,
     "wof:name":"Ipupiara",
     "wof:parent_id":102050841,
     "wof:placetype":"localadmin",

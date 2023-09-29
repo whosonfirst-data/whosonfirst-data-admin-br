@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124061,
-    "geom:area_square_m":1533856065.043501,
+    "geom:area_square_m":1533856065.043489,
     "geom:bbox":"-60.4026727744,0.560749061818,-59.9757791856,1.13546819901",
     "geom:latitude":0.884435,
     "geom:longitude":-60.151836,
@@ -32,7 +32,7 @@
     "mps:latitude":0.977587,
     "mps:longitude":-60.134171,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bre_x_preferred":[
         "S\u00e3o Lu\u00eds"
@@ -84,9 +84,12 @@
         1511777407
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"1400605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"50b442b341a917787a16bf4d3197e84a",
+    "wof:geomhash":"dab2bc625c4d0dfe1b50db113b0b2a03",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":102059033,
-    "wof:lastmodified":1577825609,
+    "wof:lastmodified":1695886981,
     "wof:name":"Sao Luiz",
     "wof:parent_id":85682011,
     "wof:placetype":"county",

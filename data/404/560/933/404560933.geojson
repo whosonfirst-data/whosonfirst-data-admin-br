@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0056,
-    "geom:area_square_m":63203164.13824,
+    "geom:area_square_m":63203164.138247,
     "geom:bbox":"-52.0395692982,-24.1658391728,-51.8895279846,-24.0484124034",
     "geom:latitude":-24.102456,
     "geom:longitude":-51.958796,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.098527,
     "lbl:longitude":-51.9537,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Pocinho"
@@ -43,9 +52,12 @@
         102057473
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410250520"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f003a6615ebce03ee8c1af4bc809427a",
+    "wof:geomhash":"4c6095ec0cf764720a6662d03075250f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":404560933,
-    "wof:lastmodified":1577827982,
+    "wof:lastmodified":1695878308,
     "wof:name":"Pocinho",
     "wof:parent_id":102057473,
     "wof:placetype":"localadmin",

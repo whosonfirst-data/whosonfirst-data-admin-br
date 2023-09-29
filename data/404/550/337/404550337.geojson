@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010004,
-    "geom:area_square_m":123697619.931228,
+    "geom:area_square_m":123697619.93121,
     "geom:bbox":"-51.4040377916,-0.268980228019,-51.265708405,-0.148156918922",
     "geom:latitude":-0.204364,
     "geom:longitude":-51.336365,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-0.209188,
     "lbl:longitude":-51.337684,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050447
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"160040208"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1c3d48d18ab8e88837cbff59410a7cc2",
+    "wof:geomhash":"0c81326a6010f232611631ef3fa42d92",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550337,
-    "wof:lastmodified":1577825684,
+    "wof:lastmodified":1695878163,
     "wof:name":"Carv\u00e3o",
     "wof:parent_id":102050447,
     "wof:placetype":"localadmin",

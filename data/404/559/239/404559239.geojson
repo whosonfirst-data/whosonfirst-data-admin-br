@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069778,
-    "geom:area_square_m":845618315.994466,
+    "geom:area_square_m":845618315.994455,
     "geom:bbox":"-59.2661014177,-11.688071638,-59.0079594667,-11.2429699276",
     "geom:latitude":-11.461475,
     "geom:longitude":-59.144666,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.454385,
     "lbl:longitude":-59.147126,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c7\u09b0\u09b0\u09be \u09b0\u09cb\u0995\u09cd\u09b8\u09be"
@@ -88,9 +97,12 @@
         102055477
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510515030"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e440e25f449eddcb4732e215b1b78445",
+    "wof:geomhash":"83a156a12a85208066e8301dd7fd2321",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404559239,
-    "wof:lastmodified":1577836101,
+    "wof:lastmodified":1695878632,
     "wof:name":"Terra Roxa",
     "wof:parent_id":102055477,
     "wof:placetype":"localadmin",

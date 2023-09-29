@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06435,
-    "geom:area_square_m":724033810.431429,
+    "geom:area_square_m":724033810.431443,
     "geom:bbox":"-48.085004,-24.638439,-47.626666,-24.351715",
     "geom:latitude":-24.504021,
     "geom:longitude":-47.820779,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.481065,
     "lbl:longitude":-47.763629,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u062c\u064a\u0633\u062a\u0631\u0648"
@@ -124,12 +133,15 @@
         102062065
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354260205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102062065
     ],
     "wof:country":"BR",
-    "wof:geomhash":"d38fdf98bdbe66ba0123618496412ff3",
+    "wof:geomhash":"901a5aa9c35ad616a1c79fe978ad14b2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +153,7 @@
         }
     ],
     "wof:id":404567097,
-    "wof:lastmodified":1636496417,
+    "wof:lastmodified":1695878856,
     "wof:name":"Registro",
     "wof:parent_id":102062065,
     "wof:placetype":"localadmin",

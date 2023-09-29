@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123881,
-    "geom:area_square_m":1460952701.904794,
+    "geom:area_square_m":1460952701.90496,
     "geom:bbox":"-43.234795,-17.772018,-42.837375,-17.252838",
     "geom:latitude":-17.49413,
     "geom:longitude":-43.057712,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.48472,
     "lbl:longitude":-43.07369,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09cd\u09ac\u09cb\u09a8\u09bf\u099f\u09be"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053579,
         1511777411,
-        85681941
+        102053579
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311350305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053579
     ],
     "wof:country":"BR",
-    "wof:geomhash":"fc05281e4d9c1d7db722053b455ff435",
+    "wof:geomhash":"1e05b572c97750cc9d8196a126815c53",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404555765,
-    "wof:lastmodified":1608032418,
+    "wof:lastmodified":1695878806,
     "wof:name":"Carbonita",
     "wof:parent_id":102053579,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019846,
-    "geom:area_square_m":216503351.578741,
+    "geom:area_square_m":216503351.578771,
     "geom:bbox":"-55.1938681269,-28.1934299192,-54.9249253544,-28.0022683561",
     "geom:latitude":-28.087265,
     "geom:longitude":-55.046012,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.070808,
     "lbl:longitude":-55.048044,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431630305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"81fd71f976064aebc1137be885f97535",
+    "wof:geomhash":"c339115b63ba6632e37bc7dd649ec728",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564309,
-    "wof:lastmodified":1577827843,
+    "wof:lastmodified":1695878244,
     "wof:name":"Roque Gonzales",
     "wof:parent_id":102059827,
     "wof:placetype":"localadmin",

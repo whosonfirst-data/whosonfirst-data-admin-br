@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008792,
-    "geom:area_square_m":100610792.107382,
+    "geom:area_square_m":100610792.10741,
     "geom:bbox":"-50.1501662391,-22.3114195304,-50.0115813782,-22.2053235314",
     "geom:latitude":-22.260189,
     "geom:longitude":-50.074161,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.25915,
     "lbl:longitude":-50.072828,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061725
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352900515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"84cd3a775b4de298f4326314f70091fa",
+    "wof:geomhash":"880aaca970ed03b13eebab48b28f28d1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566725,
-    "wof:lastmodified":1577833393,
+    "wof:lastmodified":1695878604,
     "wof:name":"Avencas",
     "wof:parent_id":102061725,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033517,
-    "geom:area_square_m":385487614.298361,
+    "geom:area_square_m":385487614.298563,
     "geom:bbox":"-46.7628157043,-21.6850599488,-46.5159206752,-21.4269571839",
     "geom:latitude":-21.543854,
     "geom:longitude":-46.634185,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.543512,
     "lbl:longitude":-46.652885,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0995\u09cb\u09a8\u09cd\u09a1\u09c7"
@@ -103,9 +112,12 @@
         102061211
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350870205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7314013252c82bfc818bbd50136ce977",
+    "wof:geomhash":"318bee5f93965f921d1ce89d00e12e1d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404566213,
-    "wof:lastmodified":1577832892,
+    "wof:lastmodified":1695878446,
     "wof:name":"Caconde",
     "wof:parent_id":102061211,
     "wof:placetype":"localadmin",

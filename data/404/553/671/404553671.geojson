@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007285,
-    "geom:area_square_m":89399983.757429,
+    "geom:area_square_m":89399823.247946,
     "geom:bbox":"-40.166858,-7.129735,-40.073311,-6.983311",
     "geom:latitude":-7.06018,
     "geom:longitude":-40.114538,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.0616,
     "lbl:longitude":-40.117793,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u09b0\u09c7\u0987\u09b0\u09cb\u09b8"
@@ -94,9 +103,12 @@
         102051727
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231120710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bb24af5f59fa917de76dfce8d56b7bd5",
+    "wof:geomhash":"89e7a207722f0f2cc65e72f3b8eb3089",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404553671,
-    "wof:lastmodified":1642551727,
+    "wof:lastmodified":1695878869,
     "wof:name":"Barreiros",
     "wof:parent_id":102051727,
     "wof:placetype":"localadmin",

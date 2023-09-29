@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095074,
-    "geom:area_square_m":1134529779.778654,
+    "geom:area_square_m":1134529779.778868,
     "geom:bbox":"-42.656579,-15.429737,-42.256588,-14.982925",
     "geom:latitude":-15.191268,
     "geom:longitude":-42.469495,
@@ -111,16 +111,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777411,
-        85681941
+        85681941,
+        1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3143450"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404557333
     ],
     "wof:country":"BR",
-    "wof:geomhash":"4f3e81153fdd0ae2ebfaf09fa717cefc",
+    "wof:geomhash":"79faf1fcb670c6b9ed3c20f2bf88d9e6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":102054379,
-    "wof:lastmodified":1608031918,
+    "wof:lastmodified":1695886420,
     "wof:name":"Montezuma",
     "wof:parent_id":85681941,
     "wof:placetype":"county",

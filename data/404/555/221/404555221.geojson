@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016012,
-    "geom:area_square_m":187410884.457649,
+    "geom:area_square_m":187410884.457762,
     "geom:bbox":"-43.536341,-18.8891569971,-43.29243,-18.7459129971",
     "geom:latitude":-18.811871,
     "geom:longitude":-43.412776,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.813052,
     "lbl:longitude":-43.414628,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053425
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310240710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c0be89f28110a4297a29ffadffde1538",
+    "wof:geomhash":"9c8bfff604b638140c7cd469532ac8a0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555221,
-    "wof:lastmodified":1577832753,
+    "wof:lastmodified":1695878395,
     "wof:name":"Itapanhoacanga",
     "wof:parent_id":102053425,
     "wof:placetype":"localadmin",

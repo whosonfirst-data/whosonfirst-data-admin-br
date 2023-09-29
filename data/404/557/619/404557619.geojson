@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018894,
-    "geom:area_square_m":221677696.263364,
+    "geom:area_square_m":221677696.263371,
     "geom:bbox":"-42.576116,-18.5028149972,-42.38422,-18.3326349972",
     "geom:latitude":-18.405839,
     "geom:longitude":-42.478984,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.401845,
     "lbl:longitude":-42.488388,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314860815"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d094c7563b3aeed22d0101c8c21134a8",
+    "wof:geomhash":"a19cb0ae4895a9d1361a50eb2cb143d3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557619,
-    "wof:lastmodified":1577833125,
+    "wof:lastmodified":1695878520,
     "wof:name":"Santa Teresa Do Bonito",
     "wof:parent_id":102054525,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00877,
-    "geom:area_square_m":102635305.94629,
+    "geom:area_square_m":102635305.946299,
     "geom:bbox":"-43.32584,-18.8911359965,-43.19958,-18.7675259965",
     "geom:latitude":-18.828486,
     "geom:longitude":-43.25625,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.830733,
     "lbl:longitude":-43.255291,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312260310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"64a5f1d84c4b902bf1006c8696dd1110",
+    "wof:geomhash":"2b8a040e19fa8cc9282a21953eb9f6c8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556245,
-    "wof:lastmodified":1577832782,
+    "wof:lastmodified":1695878406,
     "wof:name":"Goror\u00f3s",
     "wof:parent_id":102053819,
     "wof:placetype":"localadmin",

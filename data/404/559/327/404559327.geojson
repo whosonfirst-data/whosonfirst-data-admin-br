@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.133499,
-    "geom:area_square_m":1587859069.452338,
+    "geom:area_square_m":1587859069.452251,
     "geom:bbox":"-54.6753323461,-16.1197481698,-54.1009643305,-15.6160531422",
     "geom:latitude":-15.86523,
     "geom:longitude":-54.391859,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.904455,
     "lbl:longitude":-54.343666,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u0995\u09cd\u09b8\u09cb\u09b0\u09c7\u0993"
@@ -85,9 +94,12 @@
         102055567
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510700805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5de07ce2344c7d258b1b369ef21ccc08",
+    "wof:geomhash":"1b4865ad2379f54c21597889c6d06bd2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404559327,
-    "wof:lastmodified":1577836107,
+    "wof:lastmodified":1695878634,
     "wof:name":"Poxor\u00e9o",
     "wof:parent_id":102055567,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.571744,
-    "geom:area_square_m":6886745857.222219,
+    "geom:area_square_m":6886745857.221732,
     "geom:bbox":"-60.1379134331,-13.8148295908,-58.8455845466,-12.2106633627",
     "geom:latitude":-13.056713,
     "geom:longitude":-59.415828,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.451207,
     "lbl:longitude":-59.576982,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09ae\u09cb\u09a1\u09cb\u09b0\u09cb"
@@ -88,9 +97,12 @@
         102055421
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510330405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1d41357b05316125bb25c22f80d90b63",
+    "wof:geomhash":"ddd512ab478516b0f5c4fea769db6dbb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404559167,
-    "wof:lastmodified":1577836094,
+    "wof:lastmodified":1695878630,
     "wof:name":"Comodoro",
     "wof:parent_id":102055421,
     "wof:placetype":"localadmin",

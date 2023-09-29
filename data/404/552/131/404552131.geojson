@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005178,
-    "geom:area_square_m":62049357.142508,
+    "geom:area_square_m":62049420.448773,
     "geom:bbox":"-39.4217,-14.31616,-39.309727,-14.236204",
     "geom:latitude":-14.276466,
     "geom:longitude":-39.373762,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.26901,
     "lbl:longitude":-39.393276,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0623\u0648\u0628\u0627\u064a\u062a\u0627\u0628\u0627"
@@ -142,9 +151,12 @@
         102051355
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"293220005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"57f46509bbad60e96615debcf7ed89df",
+    "wof:geomhash":"02a5fbcf6014e5a16d3ed8738b989fd2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":404552131,
-    "wof:lastmodified":1636496444,
+    "wof:lastmodified":1695878865,
     "wof:name":"Ubaitaba",
     "wof:parent_id":102051355,
     "wof:placetype":"localadmin",

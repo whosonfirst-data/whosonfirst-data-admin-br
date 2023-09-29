@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009772,
-    "geom:area_square_m":111767643.099135,
+    "geom:area_square_m":111767643.099141,
     "geom:bbox":"-47.209725137,-22.4100557806,-47.0748510777,-22.2836429416",
     "geom:latitude":-22.338865,
     "geom:longitude":-47.134974,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.3371,
     "lbl:longitude":-47.130426,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a8\u099a\u09be\u09b2"
@@ -91,9 +100,12 @@
         102061297
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351220905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"01f7c8715f3b090a4b05911ba83547b0",
+    "wof:geomhash":"8d1c2bbc7601226adf57d5693f4ac2fc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404566337,
-    "wof:lastmodified":1577833250,
+    "wof:lastmodified":1695878559,
     "wof:name":"Conchal",
     "wof:parent_id":102061297,
     "wof:placetype":"localadmin",

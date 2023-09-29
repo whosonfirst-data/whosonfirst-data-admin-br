@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00461,
-    "geom:area_square_m":56867816.916694,
+    "geom:area_square_m":56867816.916674,
     "geom:bbox":"-38.8400214996,-4.06329657563,-38.7193742661,-3.97552395955",
     "geom:latitude":-4.01867,
     "geom:longitude":-38.774142,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.024081,
     "lbl:longitude":-38.775057,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Papara"
@@ -67,9 +76,12 @@
         102051635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230770032"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"80746f70aff7f328664c75f41a82434a",
+    "wof:geomhash":"ba0e01b899ab5c85a810607eeda0fc52",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404553297,
-    "wof:lastmodified":1577837653,
+    "wof:lastmodified":1695878666,
     "wof:name":"Papara",
     "wof:parent_id":102051635,
     "wof:placetype":"localadmin",

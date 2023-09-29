@@ -10,12 +10,21 @@
     "geom:latitude":-27.654643,
     "geom:longitude":-51.682731,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.660625,
     "lbl:longitude":-51.689821,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u0430-\u0412\u0456\u0441\u0442\u0430"
@@ -37,9 +46,12 @@
         102059571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431170010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e36db3cf1ec4f7205f2b7b07084c90c9",
+    "wof:geomhash":"94e609697cde241a8873d4df9d069cf6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404563863,
-    "wof:lastmodified":1577827968,
+    "wof:lastmodified":1695878302,
     "wof:name":"Bela Vista",
     "wof:parent_id":102059571,
     "wof:placetype":"localadmin",

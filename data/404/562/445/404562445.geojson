@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005435,
-    "geom:area_square_m":62782458.66897,
+    "geom:area_square_m":62782458.669003,
     "geom:bbox":"-41.980807693,-20.9592558049,-41.882588452,-20.8476025223",
     "geom:latitude":-20.906891,
     "geom:longitude":-41.937187,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.903055,
     "lbl:longitude":-41.933847,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330410210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b402524f736fc9ee9adb8320e7a71648",
+    "wof:geomhash":"3a5b87d5b6c29cf84d872066030408b4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562445,
-    "wof:lastmodified":1577833320,
+    "wof:lastmodified":1695878581,
     "wof:name":"Puril\u00e2ndia",
     "wof:parent_id":102058433,
     "wof:placetype":"localadmin",

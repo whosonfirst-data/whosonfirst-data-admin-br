@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.332269,
-    "geom:area_square_m":3939662548.820276,
+    "geom:area_square_m":3939662548.821242,
     "geom:bbox":"-48.40272,-17.004276,-47.640908,-16.126156",
     "geom:latitude":-16.48471,
     "geom:longitude":-47.992615,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.476937,
     "lbl:longitude":-48.03011,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u064a\u0633\u064a\u0627\u0646\u064a\u0627"
@@ -121,12 +130,15 @@
         102052357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"521250105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102052357
     ],
     "wof:country":"BR",
-    "wof:geomhash":"0d24e0463ac9f8bf05d18f1a86cbd624",
+    "wof:geomhash":"cf390ed1ebb211a45d8b48dc04c4af39",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":404554847,
-    "wof:lastmodified":1617131302,
+    "wof:lastmodified":1695878845,
     "wof:name":"Luzi\u00e2nia",
     "wof:parent_id":102052357,
     "wof:placetype":"localadmin",

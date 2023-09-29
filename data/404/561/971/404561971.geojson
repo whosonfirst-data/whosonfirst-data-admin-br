@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016431,
-    "geom:area_square_m":186087251.608334,
+    "geom:area_square_m":186087251.608393,
     "geom:bbox":"-49.9095334496,-23.7656410978,-49.7381090856,-23.5588933712",
     "geom:latitude":-23.668046,
     "geom:longitude":-49.81759,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.673414,
     "lbl:longitude":-49.804659,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058229
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412660305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"40f1813434789b05eebed30cd03fb0a5",
+    "wof:geomhash":"ed8cd595012fe09ac86602ebb90e0daf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561971,
-    "wof:lastmodified":1577827996,
+    "wof:lastmodified":1695878315,
     "wof:name":"Siqueira Campos",
     "wof:parent_id":102058229,
     "wof:placetype":"localadmin",

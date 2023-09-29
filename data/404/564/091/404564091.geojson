@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017093,
-    "geom:area_square_m":182459578.245309,
+    "geom:area_square_m":182459578.245318,
     "geom:bbox":"-52.5138401355,-30.3807960157,-52.3143037356,-30.2498661335",
     "geom:latitude":-30.315651,
     "geom:longitude":-52.423223,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.313533,
     "lbl:longitude":-52.425107,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u099f\u09c7 \u0995\u09be\u09b8\u099f\u09c7\u09b2\u09cb"
@@ -64,9 +73,12 @@
         102059707
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431395320"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ad619877164c4d305fd58228baeb415c",
+    "wof:geomhash":"bed190e35b59c6cd7407d13a968bca5f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":404564091,
-    "wof:lastmodified":1577827900,
+    "wof:lastmodified":1695878271,
     "wof:name":"Monte Castelo",
     "wof:parent_id":102059707,
     "wof:placetype":"localadmin",

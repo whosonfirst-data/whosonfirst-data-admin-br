@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027112,
-    "geom:area_square_m":312263228.433261,
+    "geom:area_square_m":312263228.433197,
     "geom:bbox":"-47.907087,-21.428499,-47.630274,-21.195801",
     "geom:latitude":-21.339653,
     "geom:longitude":-47.744566,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.334477,
     "lbl:longitude":-47.730949,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09b0\u09be\u09ad\u09bf\u09a8\u09b9\u09cb\u09b8"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061317,
         1511777411,
-        85682041
+        102061317
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351310805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061317
     ],
     "wof:country":"BR",
-    "wof:geomhash":"4fe0da5e9c3b7a1450fa765ce5574bc4",
+    "wof:geomhash":"a9ae9918cc6833577e9d7336bc1fa81a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404566355,
-    "wof:lastmodified":1608030692,
+    "wof:lastmodified":1695878781,
     "wof:name":"Cravinhos",
     "wof:parent_id":102061317,
     "wof:placetype":"localadmin",

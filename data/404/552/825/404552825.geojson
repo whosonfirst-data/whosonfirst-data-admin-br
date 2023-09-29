@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00287,
-    "geom:area_square_m":35306195.55058,
+    "geom:area_square_m":35306195.550568,
     "geom:bbox":"-39.2381229599,-5.84041156731,-39.1631349096,-5.77478431998",
     "geom:latitude":-5.812752,
     "geom:longitude":-39.203441,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.811913,
     "lbl:longitude":-39.202873,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051521
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230426920"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4c9c6bad018336a9fd03d951a31bbc3b",
+    "wof:geomhash":"e8e181d7f832bd7c688bc883889ba402",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404552825,
-    "wof:lastmodified":1577837956,
+    "wof:lastmodified":1695878740,
     "wof:name":"Marato\u00e3",
     "wof:parent_id":102051521,
     "wof:placetype":"localadmin",

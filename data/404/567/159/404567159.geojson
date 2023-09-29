@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024053,
-    "geom:area_square_m":272901175.642602,
+    "geom:area_square_m":272901175.642648,
     "geom:bbox":"-45.987385,-23.506841,-45.753984,-23.329389",
     "geom:latitude":-23.426395,
     "geom:longitude":-45.863298,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.429348,
     "lbl:longitude":-45.863295,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u09ac\u09cd\u09b0\u09be\u0999\u09cd\u0995\u09be"
@@ -84,19 +93,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102062147,
         1511777411,
-        85682041
+        102062147
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354600905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102062147
     ],
     "wof:country":"BR",
-    "wof:geomhash":"5a9766dbb81428aaf1242d958a370304",
+    "wof:geomhash":"d93fffbf45c250b6c0cfb5e3555f1d78",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404567159,
-    "wof:lastmodified":1608030006,
+    "wof:lastmodified":1695878771,
     "wof:name":"Santa Branca",
     "wof:parent_id":102062147,
     "wof:placetype":"localadmin",

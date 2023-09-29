@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041597,
-    "geom:area_square_m":493560702.327238,
+    "geom:area_square_m":493560702.327099,
     "geom:bbox":"-51.066495,-16.510005,-50.765507,-16.201535",
     "geom:latitude":-16.34815,
     "geom:longitude":-50.901017,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.34711,
     "lbl:longitude":-50.875948,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u0627\u0646\u062f\u064a\u0627"
@@ -102,19 +111,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681925,
         102191577,
         85633009,
-        102052267,
         1511777413,
-        85681925
+        102052267
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"521030705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102052267
     ],
     "wof:country":"BR",
-    "wof:geomhash":"4394b7c5f712c5177ca08d13260df21f",
+    "wof:geomhash":"43d4150f3f665a9b7da1a049abf66b37",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +138,7 @@
         }
     ],
     "wof:id":404554809,
-    "wof:lastmodified":1608035094,
+    "wof:lastmodified":1695878825,
     "wof:name":"Israel\u00e2ndia",
     "wof:parent_id":102052267,
     "wof:placetype":"localadmin",

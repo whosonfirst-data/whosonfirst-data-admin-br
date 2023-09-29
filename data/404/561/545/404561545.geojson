@@ -10,12 +10,21 @@
     "geom:latitude":-22.768741,
     "geom:longitude":-52.971267,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.797254,
     "lbl:longitude":-52.987055,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u09b2\u09cb\u09a8\u09cd\u09a1\u09cd\u09b0\u09bf\u09a8\u09be"
@@ -85,9 +94,12 @@
         102057935
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411710705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ab1aed3aa607b267fc4e56ead2284742",
+    "wof:geomhash":"dff9a7c5eb06ed29e6f48ed9d165e0e7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404561545,
-    "wof:lastmodified":1577827726,
+    "wof:lastmodified":1695878189,
     "wof:name":"Nova Londrina",
     "wof:parent_id":102057935,
     "wof:placetype":"localadmin",

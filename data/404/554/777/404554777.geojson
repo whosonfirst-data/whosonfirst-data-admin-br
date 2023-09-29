@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005374,
-    "geom:area_square_m":64122147.010388,
+    "geom:area_square_m":64122147.010404,
     "geom:bbox":"-49.3429479324,-15.2775883638,-49.2590045817,-15.1560778773",
     "geom:latitude":-15.222471,
     "geom:longitude":-49.297671,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.221524,
     "lbl:longitude":-49.294813,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102052203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"520860810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a69f4093d75670b97dd21298ee18c6fc",
+    "wof:geomhash":"eec20814118a16e2a25a9c62cc7d0b8e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554777,
-    "wof:lastmodified":1577836080,
+    "wof:lastmodified":1695878624,
     "wof:name":"Natin\u00f3polis",
     "wof:parent_id":102052203,
     "wof:placetype":"localadmin",

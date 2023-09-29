@@ -10,12 +10,21 @@
     "geom:latitude":-28.711671,
     "geom:longitude":-52.844902,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.70935,
     "lbl:longitude":-52.845185,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060023
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432100625"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9a3f516cd290bb010d0cc4c1714d1d81",
+    "wof:geomhash":"cae46cf4978c5f40d5571c0919140aea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564849,
-    "wof:lastmodified":1577827842,
+    "wof:lastmodified":1695878243,
     "wof:name":"Vila Paz",
     "wof:parent_id":102060023,
     "wof:placetype":"localadmin",

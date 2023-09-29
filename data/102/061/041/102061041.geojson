@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083671,
-    "geom:area_square_m":966946068.555344,
+    "geom:area_square_m":966945954.979041,
     "geom:bbox":"-51.481613,-21.085577,-51.134191,-20.64619",
     "geom:latitude":-20.83561,
     "geom:longitude":-51.329727,
@@ -29,7 +29,7 @@
     "mps:latitude":-20.786196,
     "mps:longitude":-51.346736,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0623\u0646\u062f\u0631\u0627\u062f\u064a\u0646\u0627"
@@ -144,9 +144,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3502101"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a592d69ffc6dc665a46bf98dc5366984",
+    "wof:geomhash":"cb80ba5ff6fc49b067fa8c82d9f7d031",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":102061041,
-    "wof:lastmodified":1636496103,
+    "wof:lastmodified":1695887140,
     "wof:name":"Andradina",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

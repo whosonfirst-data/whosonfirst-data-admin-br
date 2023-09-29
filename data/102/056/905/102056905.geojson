@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009179,
-    "geom:area_square_m":112921061.23866,
+    "geom:area_square_m":112921061.238681,
     "geom:bbox":"-42.7448120611,-5.83234258954,-42.6164255942,-5.70469036572",
     "geom:latitude":-5.768194,
     "geom:longitude":-42.682358,
@@ -32,7 +32,7 @@
     "mps:latitude":-5.781803,
     "mps:longitude":-42.683329,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u0997\u09cd\u09b0\u09bf\u0995\u09cb\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
@@ -87,9 +87,12 @@
         1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2200103"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f3feb2e3d6e9c805f5f3941a7819dba9",
+    "wof:geomhash":"900ee5f45f63bea6bfb18dd608bf1248",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":102056905,
-    "wof:lastmodified":1577837498,
+    "wof:lastmodified":1695887122,
     "wof:name":"Agricolandia",
     "wof:parent_id":85681977,
     "wof:placetype":"county",

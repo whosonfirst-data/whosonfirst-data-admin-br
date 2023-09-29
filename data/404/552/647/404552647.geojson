@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005184,
-    "geom:area_square_m":63936020.564826,
+    "geom:area_square_m":63936020.564831,
     "geom:bbox":"-38.281401,-4.100405,-38.179116,-4.006672",
     "geom:latitude":-4.059979,
     "geom:longitude":-38.227492,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.060485,
     "lbl:longitude":-38.226719,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102051491
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230350110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101944807
     ],
     "wof:country":"BR",
-    "wof:geomhash":"0f4970baf743f259b00f9d8761faa6b4",
+    "wof:geomhash":"21dfb733ef2fc7c3bff4e4535c70ce49",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404552647,
-    "wof:lastmodified":1617131499,
+    "wof:lastmodified":1695878852,
     "wof:name":"Caponga",
     "wof:parent_id":102051491,
     "wof:placetype":"localadmin",

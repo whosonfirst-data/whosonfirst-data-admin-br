@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033729,
-    "geom:area_square_m":406271084.932645,
+    "geom:area_square_m":406271084.93237,
     "geom:bbox":"-44.714743617,-13.1933987124,-44.4680077969,-12.9428424015",
     "geom:latitude":-13.068566,
     "geom:longitude":-44.589654,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.073578,
     "lbl:longitude":-44.59157,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051235
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292810915"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"416929eb0e84b1a8998fa9b3c6174793",
+    "wof:geomhash":"bd9c4a98dc0b777d2d5249d585758aec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551901,
-    "wof:lastmodified":1577837821,
+    "wof:lastmodified":1695878706,
     "wof:name":"Inha\u00famas",
     "wof:parent_id":102051235,
     "wof:placetype":"localadmin",

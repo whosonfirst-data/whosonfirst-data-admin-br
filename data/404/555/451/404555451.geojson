@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.184296,
-    "geom:area_square_m":2175229187.527261,
+    "geom:area_square_m":2175229187.527004,
     "geom:bbox":"-44.111554,-17.9252369972,-43.408583,-16.9414839974",
     "geom:latitude":-17.343444,
     "geom:longitude":-43.834974,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.472063,
     "lbl:longitude":-43.869074,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u0995\u09be\u0987\u0989\u09ad\u09be"
@@ -100,9 +109,12 @@
         102053541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310730705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"431fac7db767b0c13a0e36ec354d87c8",
+    "wof:geomhash":"95d51363c2977684b1e8a5e6a484c92c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404555451,
-    "wof:lastmodified":1577832941,
+    "wof:lastmodified":1695878464,
     "wof:name":"Bocai\u00fava",
     "wof:parent_id":102053541,
     "wof:placetype":"localadmin",

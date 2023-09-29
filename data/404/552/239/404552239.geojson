@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056304,
-    "geom:area_square_m":676597344.347445,
+    "geom:area_square_m":676597344.340457,
     "geom:bbox":"-39.813577,-13.788735,-39.39111,-13.503038",
     "geom:latitude":-13.632749,
     "geom:longitude":-39.627086,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.632844,
     "lbl:longitude":-39.627045,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09c7\u09a8\u09b8\u09c7\u09b8\u09b2\u09cc \u0997\u09c1\u0987\u09ae\u09be\u09b0\u09be\u09af\u09bc\u09c7\u09b8"
@@ -100,12 +109,15 @@
         102051397
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"293350505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102051397
     ],
     "wof:country":"BR",
-    "wof:geomhash":"f829feb4fba2dc73cf7fe0c48697d334",
+    "wof:geomhash":"1aa8ad41e235e2fc273e3f69b51bf9e5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404552239,
-    "wof:lastmodified":1617131199,
+    "wof:lastmodified":1695878842,
     "wof:name":"Wenceslau Guimar\u00e3es",
     "wof:parent_id":102051397,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038719,
-    "geom:area_square_m":474723898.380618,
+    "geom:area_square_m":474723898.38058,
     "geom:bbox":"-39.8077957121,-7.61632456507,-39.57127453,-7.32625821047",
     "geom:latitude":-7.451283,
     "geom:longitude":-39.712986,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.449752,
     "lbl:longitude":-39.704886,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Exu"
@@ -49,9 +58,12 @@
         102056617
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260530105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ff7d27b6d706e90517364535d1b390d2",
+    "wof:geomhash":"ea4334614272c2307a8a39a92833ea2d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":404560321,
-    "wof:lastmodified":1577837613,
+    "wof:lastmodified":1695878655,
     "wof:name":"Exu",
     "wof:parent_id":102056617,
     "wof:placetype":"localadmin",

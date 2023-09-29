@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058951,
-    "geom:area_square_m":716937288.416862,
+    "geom:area_square_m":716937288.416841,
     "geom:bbox":"-65.3918560798,-10.5636073672,-65.1103250472,-10.227658449",
     "geom:latitude":-10.41117,
     "geom:longitude":-65.241706,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.421478,
     "lbl:longitude":-65.238971,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u09ae\u09be\u09ae\u09cb\u09b0\u09c7"
@@ -94,9 +103,12 @@
         102058939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"110033805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4aed4169cfca6cf73b3dff57ce4e59ff",
+    "wof:geomhash":"c5f7d974c5b82dd4c79ab5ab9f99fb1d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404562855,
-    "wof:lastmodified":1577825697,
+    "wof:lastmodified":1695878170,
     "wof:name":"Nova Mamor\u00e9",
     "wof:parent_id":102058939,
     "wof:placetype":"localadmin",

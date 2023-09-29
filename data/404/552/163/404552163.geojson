@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021676,
-    "geom:area_square_m":259445913.226407,
+    "geom:area_square_m":259445913.226358,
     "geom:bbox":"-39.372011277,-14.6304337395,-39.1735903282,-14.4600048895",
     "geom:latitude":-14.537806,
     "geom:longitude":-39.285558,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.529406,
     "lbl:longitude":-39.303523,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0989\u09b0\u09c1\u0995\u09c1\u0995\u09be"
@@ -97,9 +106,12 @@
         102051367
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"293270505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6ecd0a2d79b1e140e763bf94cdeceb65",
+    "wof:geomhash":"52e572729615699b8f533da27d5a8c8c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404552163,
-    "wof:lastmodified":1577837679,
+    "wof:lastmodified":1695878672,
     "wof:name":"Uru\u00e7uca",
     "wof:parent_id":102051367,
     "wof:placetype":"localadmin",

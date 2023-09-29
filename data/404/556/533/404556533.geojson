@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067813,
-    "geom:area_square_m":783961642.300398,
+    "geom:area_square_m":783961642.300539,
     "geom:bbox":"-46.17437,-20.8977729969,-45.673359,-20.6533692812",
     "geom:latitude":-20.783299,
     "geom:longitude":-45.919131,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.792667,
     "lbl:longitude":-45.898247,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09aa\u09c7"
@@ -94,9 +103,12 @@
         102053967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312810505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"590643dd76dab6759e979eefce43ce77",
+    "wof:geomhash":"0ca14618770d1f03d15280e05c842043",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404556533,
-    "wof:lastmodified":1577832958,
+    "wof:lastmodified":1695878469,
     "wof:name":"Guap\u00e9",
     "wof:parent_id":102053967,
     "wof:placetype":"localadmin",

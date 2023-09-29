@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019494,
-    "geom:area_square_m":226062598.668267,
+    "geom:area_square_m":226062598.668173,
     "geom:bbox":"-43.18294,-20.4130649969,-42.94858,-20.2482759969",
     "geom:latitude":-20.312156,
     "geom:longitude":-43.064077,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.311846,
     "lbl:longitude":-43.075536,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u09b0\u09be \u09b2\u09cb\u0999\u09cd\u0997\u09be"
@@ -100,9 +109,12 @@
         102053505
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310570705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2f006f7c77b27dc46976c14afdf87e46",
+    "wof:geomhash":"32b79706afe9c0d2767e58e399bbb86a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404555387,
-    "wof:lastmodified":1577832865,
+    "wof:lastmodified":1695878436,
     "wof:name":"Barra Longa",
     "wof:parent_id":102053505,
     "wof:placetype":"localadmin",

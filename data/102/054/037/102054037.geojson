@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071197,
-    "geom:area_square_m":832637946.227857,
+    "geom:area_square_m":832637946.227891,
     "geom:bbox":"-48.06139,-19.107081,-47.666215,-18.826446",
     "geom:latitude":-18.952299,
     "geom:longitude":-47.849646,
@@ -35,7 +35,7 @@
     "mps:latitude":-18.951761,
     "mps:longitude":-47.872977,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Indianapolis"
@@ -425,18 +425,20 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777411,
-        85681941
+        85681941,
+        1511777411
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "bra-ibge:code":"3130705",
         "gp:id":12580107
     },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404556637
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a9fa0745f1c584f92c89f12634dbac1b",
+    "wof:geomhash":"1da05bd28f60466ae5c89f8843b95e60",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -447,7 +449,7 @@
         }
     ],
     "wof:id":102054037,
-    "wof:lastmodified":1608029587,
+    "wof:lastmodified":1695887457,
     "wof:name":"Indianopolis",
     "wof:parent_id":85681941,
     "wof:placetype":"county",

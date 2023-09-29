@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018396,
-    "geom:area_square_m":202502749.633578,
+    "geom:area_square_m":202502749.633541,
     "geom:bbox":"-53.547509,-27.204331,-53.324576,-27.006176",
     "geom:latitude":-27.09879,
     "geom:longitude":-53.446375,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.099767,
     "lbl:longitude":-53.444636,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u09a1\u09be\u0987"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060555,
         1511777409,
-        85682021
+        102060555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421100905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060555
     ],
     "wof:country":"BR",
-    "wof:geomhash":"e0ef383f3313a3753b59a9a3a44100ac",
+    "wof:geomhash":"5562fad1cc6f1b9517c468d2b8d15fc0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404565625,
-    "wof:lastmodified":1608034395,
+    "wof:lastmodified":1695878823,
     "wof:name":"Monda\u00ed",
     "wof:parent_id":102060555,
     "wof:placetype":"localadmin",

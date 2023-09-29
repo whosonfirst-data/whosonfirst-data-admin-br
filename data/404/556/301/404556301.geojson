@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005059,
-    "geom:area_square_m":58890823.855417,
+    "geom:area_square_m":58890823.855429,
     "geom:bbox":"-44.232281,-19.757959,-44.132467,-19.669914",
     "geom:latitude":-19.713884,
     "geom:longitude":-44.180919,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.715135,
     "lbl:longitude":-44.177532,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102053857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312410415"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101951167
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a308f5d685ba72ac7966cead43fa77f9",
+    "wof:geomhash":"b07d73d351a4b1d1593c6ace76cbd049",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404556301,
-    "wof:lastmodified":1617131069,
+    "wof:lastmodified":1695878840,
     "wof:name":"Melo Viana",
     "wof:parent_id":102053857,
     "wof:placetype":"localadmin",

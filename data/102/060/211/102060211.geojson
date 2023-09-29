@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020679,
-    "geom:area_square_m":228770340.279408,
+    "geom:area_square_m":228770340.279266,
     "geom:bbox":"-53.462225,-26.619853,-53.228785,-26.442951",
     "geom:latitude":-26.53204,
     "geom:longitude":-53.333076,
@@ -96,16 +96,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777409,
-        85682021
+        85682021,
+        1511777409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"4200804"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404565139
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a2d66bbe02dbf98d2b33e48c704631a9",
+    "wof:geomhash":"fee1c8a6cfebbeb7ba93da14f9707208",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":102060211,
-    "wof:lastmodified":1608034374,
+    "wof:lastmodified":1695886424,
     "wof:name":"Anchieta",
     "wof:parent_id":85682021,
     "wof:placetype":"county",

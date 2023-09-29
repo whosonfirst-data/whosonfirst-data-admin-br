@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085503,
-    "geom:area_square_m":1018309605.463913,
+    "geom:area_square_m":1018309605.463975,
     "geom:bbox":"-58.5887585857,-15.7121535498,-58.0720666051,-15.4890381846",
     "geom:latitude":-15.60075,
     "geom:longitude":-58.335799,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.613059,
     "lbl:longitude":-58.335817,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055573
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510710705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8113f337d8ab20a8bc7cdc413e97c0aa",
+    "wof:geomhash":"ba4276dc352ac3fad0350e826cfe6a30",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559341,
-    "wof:lastmodified":1577836079,
+    "wof:lastmodified":1695878624,
     "wof:name":"S\u00e3o Jos\u00e9 Dos Quatro Marcos",
     "wof:parent_id":102055573,
     "wof:placetype":"localadmin",

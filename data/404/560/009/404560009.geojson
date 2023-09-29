@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006506,
-    "geom:area_square_m":79903522.915751,
+    "geom:area_square_m":79903522.915758,
     "geom:bbox":"-37.6586065949,-6.72266578716,-37.5258009428,-6.63134328582",
     "geom:latitude":-6.680229,
     "geom:longitude":-37.574062,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.677755,
     "lbl:longitude":-37.561989,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ipueiras"
@@ -64,9 +73,12 @@
         102056291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"251090707"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2333f30eefe905193e1787c36a53b399",
+    "wof:geomhash":"22b6db3f4b5471161fa82f5edc57c526",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":404560009,
-    "wof:lastmodified":1577837613,
+    "wof:lastmodified":1695878655,
     "wof:name":"Ipueiras",
     "wof:parent_id":102056291,
     "wof:placetype":"localadmin",

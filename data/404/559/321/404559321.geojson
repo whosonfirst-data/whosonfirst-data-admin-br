@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.309956,
-    "geom:area_square_m":15499356880.813776,
+    "geom:area_square_m":15499356880.816074,
     "geom:bbox":"-57.691999,-17.902753,-56.215478,-15.821419",
     "geom:latitude":-16.880349,
     "geom:longitude":-56.974861,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.855179,
     "lbl:longitude":-56.985664,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u0995\u09cb\u09a8\u09c7"
@@ -91,12 +100,15 @@
         102055549
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510650505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055549
     ],
     "wof:country":"BR",
-    "wof:geomhash":"254808ec1cf2c940a457261dac8333bf",
+    "wof:geomhash":"89510660122c9b5cc58a7186fa296f03",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404559321,
-    "wof:lastmodified":1617130612,
+    "wof:lastmodified":1695878837,
     "wof:name":"Pocon\u00e9",
     "wof:parent_id":102055549,
     "wof:placetype":"localadmin",

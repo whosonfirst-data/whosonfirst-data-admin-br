@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002475,
-    "geom:area_square_m":28072194.107343,
+    "geom:area_square_m":28072194.107314,
     "geom:bbox":"-46.777902,-23.47683,-46.699913,-23.416477",
     "geom:latitude":-23.44573,
     "geom:longitude":-46.739479,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.446377,
     "lbl:longitude":-46.738893,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u09b0\u09be\u0997\u09c1\u0986"
@@ -58,9 +67,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030842"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3fa6da5570ad5fdae2e7bfcdef9a4e18",
+    "wof:geomhash":"5e2af4ed479eb6f11ac289afd397543c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":404567353,
-    "wof:lastmodified":1577832907,
+    "wof:lastmodified":1695878452,
     "wof:name":"Jaragu\u00e1",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

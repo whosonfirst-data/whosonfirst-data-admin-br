@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011461,
-    "geom:area_square_m":141211684.093487,
+    "geom:area_square_m":141211684.093508,
     "geom:bbox":"-39.0532537902,-4.92705319152,-38.8855196216,-4.77259831846",
     "geom:latitude":-4.861843,
     "geom:longitude":-38.967913,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.863868,
     "lbl:longitude":-38.969171,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231130635"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9b5c7152e3ad8a0b5e7dd8b93a93b52a",
+    "wof:geomhash":"b16c71a630f88986f8faa36d7af4aa57",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553693,
-    "wof:lastmodified":1577837946,
+    "wof:lastmodified":1695878738,
     "wof:name":"Daniel De Queir\u00f3z",
     "wof:parent_id":102051735,
     "wof:placetype":"localadmin",

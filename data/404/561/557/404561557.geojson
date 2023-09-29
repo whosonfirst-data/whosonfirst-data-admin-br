@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019054,
-    "geom:area_square_m":214494001.676995,
+    "geom:area_square_m":214494001.676918,
     "geom:bbox":"-52.0427424432,-24.5359146066,-51.8245026113,-24.3561565205",
     "geom:latitude":-24.441048,
     "geom:longitude":-51.919805,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.433152,
     "lbl:longitude":-51.921416,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u099f\u09c7\u09ac\u09be\u09b8"
@@ -94,9 +103,12 @@
         102057947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411727105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6519eaf979d34981f881badff69e4a72",
+    "wof:geomhash":"fa9f15c79c3428f6fc1b3242305a404f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404561557,
-    "wof:lastmodified":1577827794,
+    "wof:lastmodified":1695878220,
     "wof:name":"Nova Tebas",
     "wof:parent_id":102057947,
     "wof:placetype":"localadmin",

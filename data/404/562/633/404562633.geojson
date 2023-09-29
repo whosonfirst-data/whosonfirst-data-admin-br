@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008046,
-    "geom:area_square_m":92167560.412811,
+    "geom:area_square_m":92167560.412799,
     "geom:bbox":"-42.1008435747,-22.1724525879,-41.9580801509,-22.0625288858",
     "geom:latitude":-22.119096,
     "geom:longitude":-42.02609,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.117521,
     "lbl:longitude":-42.025025,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058499
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330590115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"caede3f1f56d81c3530c7307f1974c7c",
+    "wof:geomhash":"6e842a5dd938129621fdf76d7f66f6f2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562633,
-    "wof:lastmodified":1577833386,
+    "wof:lastmodified":1695878601,
     "wof:name":"Sodrel\u00e2ndia",
     "wof:parent_id":102058499,
     "wof:placetype":"localadmin",

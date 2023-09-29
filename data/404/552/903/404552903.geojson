@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007257,
-    "geom:area_square_m":89511222.387793,
+    "geom:area_square_m":89511222.387808,
     "geom:bbox":"-38.712142853,-4.12163175163,-38.5746886082,-4.00593152589",
     "geom:latitude":-4.060814,
     "geom:longitude":-38.642769,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.057459,
     "lbl:longitude":-38.64172,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Guai\u00faba"
@@ -79,9 +88,12 @@
         102051551
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230495405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4972676a247779be6ff92e7b877c3f0e",
+    "wof:geomhash":"b975e820ba49b636668949acbac7abc3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404552903,
-    "wof:lastmodified":1577837841,
+    "wof:lastmodified":1695878711,
     "wof:name":"Guai\u00faba",
     "wof:parent_id":102051551,
     "wof:placetype":"localadmin",

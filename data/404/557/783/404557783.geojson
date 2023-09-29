@@ -10,12 +10,21 @@
     "geom:latitude":-15.837971,
     "geom:longitude":-43.094302,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.833344,
     "lbl:longitude":-43.106215,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054623
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315220412"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4396ebfc850c23c69c87706d0b96debf",
+    "wof:geomhash":"98084eafc2b1e547872c77ae4ac48f1e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557783,
-    "wof:lastmodified":1577833405,
+    "wof:lastmodified":1695878609,
     "wof:name":"Mocambinho",
     "wof:parent_id":102054623,
     "wof:placetype":"localadmin",

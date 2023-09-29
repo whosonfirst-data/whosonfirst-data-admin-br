@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003891,
-    "geom:area_square_m":45256453.369532,
+    "geom:area_square_m":45256453.369487,
     "geom:bbox":"-43.6783,-19.9275718467,-43.60598,-19.794602997",
     "geom:latitude":-19.8532,
     "geom:longitude":-43.63683,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.829492,
     "lbl:longitude":-43.6464,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311000420"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8879862a45208b1598c93e04c43d92fa",
+    "wof:geomhash":"df9e670f4d9ded237a67185c9449c232",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555609,
-    "wof:lastmodified":1577833035,
+    "wof:lastmodified":1695878493,
     "wof:name":"Penedia",
     "wof:parent_id":102053309,
     "wof:placetype":"localadmin",

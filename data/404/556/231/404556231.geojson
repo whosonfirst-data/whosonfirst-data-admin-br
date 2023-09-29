@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009931,
-    "geom:area_square_m":118222672.805288,
+    "geom:area_square_m":118222672.805385,
     "geom:bbox":"-41.428556,-15.801227,-41.327265,-15.623417",
     "geom:latitude":-15.698673,
     "geom:longitude":-41.374068,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.693505,
     "lbl:longitude":-41.378404,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09bf\u09ad\u09bf\u09b8\u09be \u0986\u09b2\u09c7\u0997\u09cd\u09b0\u09c7"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053807,
         1511777411,
-        85681941
+        102053807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312235505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053807
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a285dcae43becf6b60ba078eb3fcc821",
+    "wof:geomhash":"17b3af083347de1a1dfc84b6a61c81a6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404556231,
-    "wof:lastmodified":1608029573,
+    "wof:lastmodified":1695878767,
     "wof:name":"Divisa Alegre",
     "wof:parent_id":102053807,
     "wof:placetype":"localadmin",

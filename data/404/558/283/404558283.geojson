@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01059,
-    "geom:area_square_m":123518941.687868,
+    "geom:area_square_m":123518941.687922,
     "geom:bbox":"-46.155457,-19.451658997,-46.00006,-19.345191997",
     "geom:latitude":-19.396749,
     "geom:longitude":-46.081002,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.39749,
     "lbl:longitude":-46.082481,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316210415"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1ae87edfee4606a4fb483ed2b9a797c1",
+    "wof:geomhash":"a2d2e7688c8c0eb2a3b5b55df442b34b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558283,
-    "wof:lastmodified":1577832805,
+    "wof:lastmodified":1695878415,
     "wof:name":"Guarda Dos Ferreiros",
     "wof:parent_id":102054877,
     "wof:placetype":"localadmin",

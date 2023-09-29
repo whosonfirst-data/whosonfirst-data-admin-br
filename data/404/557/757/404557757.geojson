@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022556,
-    "geom:area_square_m":262723066.633354,
+    "geom:area_square_m":262723066.633287,
     "geom:bbox":"-41.556998,-19.696515997,-41.36236,-19.506631997",
     "geom:latitude":-19.615051,
     "geom:longitude":-41.465894,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.617027,
     "lbl:longitude":-41.464049,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054613
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315190910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"757f4e9357bf197b95b4cd00450942e0",
+    "wof:geomhash":"747dae59e60a73f1206a444d3c2bcc22",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557757,
-    "wof:lastmodified":1577833185,
+    "wof:lastmodified":1695878538,
     "wof:name":"Assara\u00ed",
     "wof:parent_id":102054613,
     "wof:placetype":"localadmin",

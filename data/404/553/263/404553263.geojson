@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011032,
-    "geom:area_square_m":135938071.210749,
+    "geom:area_square_m":135938071.210735,
     "geom:bbox":"-39.7387080197,-4.83796295691,-39.574339998,-4.69688285777",
     "geom:latitude":-4.764827,
     "geom:longitude":-39.664862,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.754574,
     "lbl:longitude":-39.672886,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u099c\u09be\u099c\u09af\u09bc\u09c7\u0987\u09b0\u09be\u09b8"
@@ -94,9 +103,12 @@
         102051631
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230763520"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3be573a370138b92b06ae66f32eb43d5",
+    "wof:geomhash":"dd2515f2ae9c72efadf0fc928d3c04f1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404553263,
-    "wof:lastmodified":1577837610,
+    "wof:lastmodified":1695878655,
     "wof:name":"Cajazeiras",
     "wof:parent_id":102051631,
     "wof:placetype":"localadmin",

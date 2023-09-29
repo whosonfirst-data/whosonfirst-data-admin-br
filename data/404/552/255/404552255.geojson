@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012248,
-    "geom:area_square_m":151265326.308953,
+    "geom:area_square_m":151265326.308961,
     "geom:bbox":"-40.3722590643,-2.88290763693,-40.1512322411,-2.80545518961",
     "geom:latitude":-2.841575,
     "geom:longitude":-40.264693,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-2.840648,
     "lbl:longitude":-40.264577,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051407
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230020010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"80a34b308a27384d04d54da389ba1262",
+    "wof:geomhash":"abfeddd3e13a9b5ea2bbd8ebd7a77ac8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404552255,
-    "wof:lastmodified":1577837921,
+    "wof:lastmodified":1695878731,
     "wof:name":"Arana\u00fa",
     "wof:parent_id":102051407,
     "wof:placetype":"localadmin",

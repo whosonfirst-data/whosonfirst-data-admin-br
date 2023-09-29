@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016635,
-    "geom:area_square_m":188643447.707323,
+    "geom:area_square_m":188643447.707289,
     "geom:bbox":"-50.0275391745,-23.5717620543,-49.8124613198,-23.3993559146",
     "geom:latitude":-23.491097,
     "geom:longitude":-49.919609,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.495579,
     "lbl:longitude":-49.937511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09cb\u09af\u09bc\u09be\u0995\u09c1\u0987\u09ae \u099f\u09be\u09ad\u09cb\u09b0\u09be"
@@ -85,9 +94,12 @@
         102057805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411280105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d0bbcb69a1e3db8ca56e53ee0fa8af26",
+    "wof:geomhash":"416e69a204c84f820b7841306f720704",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404561353,
-    "wof:lastmodified":1577827761,
+    "wof:lastmodified":1695878205,
     "wof:name":"Joaquim T\u00e1vora",
     "wof:parent_id":102057805,
     "wof:placetype":"localadmin",

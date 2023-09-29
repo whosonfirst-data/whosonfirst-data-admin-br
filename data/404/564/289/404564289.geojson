@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003845,
-    "geom:area_square_m":41899766.176414,
+    "geom:area_square_m":41899766.176431,
     "geom:bbox":"-54.8214166771,-28.2503016335,-54.7337546823,-28.1515008556",
     "geom:latitude":-28.210675,
     "geom:longitude":-54.776915,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.220927,
     "lbl:longitude":-54.777582,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u0997\u09cd\u09b0\u09c7\u099c\u09bf\u09a8\u09b9\u09be"
@@ -100,9 +109,12 @@
         102059819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431595810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9e66f13985d0a47a1b1479ba9ec071bf",
+    "wof:geomhash":"8b9aeabd4989ac5d4c782859e34fd9a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404564289,
-    "wof:lastmodified":1577827716,
+    "wof:lastmodified":1695878184,
     "wof:name":"Igrejinha",
     "wof:parent_id":102059819,
     "wof:placetype":"localadmin",

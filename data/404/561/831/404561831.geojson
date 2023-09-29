@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012259,
-    "geom:area_square_m":137602957.714415,
+    "geom:area_square_m":137602957.714397,
     "geom:bbox":"-52.0544445519,-24.8601669192,-51.8587729228,-24.7528575178",
     "geom:latitude":-24.80426,
     "geom:longitude":-51.953008,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.806274,
     "lbl:longitude":-51.962598,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058143
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412385725"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b9e2d7e78e8871aa2c72287242785069",
+    "wof:geomhash":"815aefa9b47692ee9cd175ccdd4101c6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561831,
-    "wof:lastmodified":1577827827,
+    "wof:lastmodified":1695878235,
     "wof:name":"Rio Do Tigre",
     "wof:parent_id":102058143,
     "wof:placetype":"localadmin",

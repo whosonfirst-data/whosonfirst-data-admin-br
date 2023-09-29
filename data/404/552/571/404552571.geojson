@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005615,
-    "geom:area_square_m":68935087.562829,
+    "geom:area_square_m":68935087.562832,
     "geom:bbox":"-40.3974335695,-6.93174557497,-40.3218446761,-6.79677111855",
     "geom:latitude":-6.869056,
     "geom:longitude":-40.3618,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.889611,
     "lbl:longitude":-40.359224,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051473
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230270110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d0f61a6672e3af42f98bc671bd83ef08",
+    "wof:geomhash":"453c1bd1bcd8a2b45f1d050efe4a5c1b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404552571,
-    "wof:lastmodified":1577837651,
+    "wof:lastmodified":1695878665,
     "wof:name":"Bar\u00e3o De Aquiraz",
     "wof:parent_id":102051473,
     "wof:placetype":"localadmin",

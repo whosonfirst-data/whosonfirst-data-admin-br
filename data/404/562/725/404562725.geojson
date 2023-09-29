@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018653,
-    "geom:area_square_m":229552721.116635,
+    "geom:area_square_m":229552721.116636,
     "geom:bbox":"-35.6681812176,-5.71438564431,-35.5296941265,-5.48769199041",
     "geom:latitude":-5.571386,
     "geom:longitude":-35.602009,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.568606,
     "lbl:longitude":-35.602052,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Taipu"
@@ -40,9 +49,12 @@
         102058853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"241390405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"284db2d6d85a34a354245032edff8879",
+    "wof:geomhash":"c92d2b17e247ff9ec61f8ee0b9bab33f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404562725,
-    "wof:lastmodified":1577837806,
+    "wof:lastmodified":1695878702,
     "wof:name":"Taipu",
     "wof:parent_id":102058853,
     "wof:placetype":"localadmin",

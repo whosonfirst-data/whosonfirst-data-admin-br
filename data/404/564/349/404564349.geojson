@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005133,
-    "geom:area_square_m":55462430.767693,
+    "geom:area_square_m":55462430.767679,
     "geom:bbox":"-53.452825059,-29.1294979484,-53.3474283732,-29.038339809",
     "geom:latitude":-29.084208,
     "geom:longitude":-53.402977,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.083322,
     "lbl:longitude":-53.403799,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059837
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431645124"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"85ddc5b770c2c05f5414b798fef36165",
+    "wof:geomhash":"f0523a5444c477aabaeab01d4aa9b591",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564349,
-    "wof:lastmodified":1577827814,
+    "wof:lastmodified":1695878230,
     "wof:name":"Rinc\u00e3o Do Iva\u00ed",
     "wof:parent_id":102059837,
     "wof:placetype":"localadmin",

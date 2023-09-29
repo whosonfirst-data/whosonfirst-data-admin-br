@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019533,
-    "geom:area_square_m":217108696.59747,
+    "geom:area_square_m":217108696.597552,
     "geom:bbox":"-52.933215,-26.110945,-52.722785,-25.85657",
     "geom:latitude":-25.985945,
     "geom:longitude":-52.813316,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.965877,
     "lbl:longitude":-52.832486,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681983,
         102191577,
         85633009,
-        102057763,
         1511777409,
-        85681983
+        102057763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411120905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102057763
     ],
     "wof:country":"BR",
-    "wof:geomhash":"fe0c8a591cf6871c556093149bb9e483",
+    "wof:geomhash":"38ad15d86fc4c0c667b9cdeb21475e20",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404561299,
-    "wof:lastmodified":1608031641,
+    "wof:lastmodified":1695878789,
     "wof:name":"Itapejara D'Oeste",
     "wof:parent_id":102057763,
     "wof:placetype":"localadmin",

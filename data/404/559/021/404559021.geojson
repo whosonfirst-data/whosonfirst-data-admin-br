@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015441,
-    "geom:area_square_m":176193735.541296,
+    "geom:area_square_m":176193735.541302,
     "geom:bbox":"-55.6465252194,-22.7646278307,-55.4597147598,-22.5452522188",
     "geom:latitude":-22.655296,
     "geom:longitude":-55.572515,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.599157,
     "lbl:longitude":-55.603652,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Sanga Puit\u00e3"
@@ -37,9 +46,12 @@
         102055305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500660625"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"019e222e89aa032d4333114cff8a8b70",
+    "wof:geomhash":"f8deab23981ee9e396679319ca175309",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404559021,
-    "wof:lastmodified":1577836164,
+    "wof:lastmodified":1695878646,
     "wof:name":"Sanga Puit\u00e3",
     "wof:parent_id":102055305,
     "wof:placetype":"localadmin",

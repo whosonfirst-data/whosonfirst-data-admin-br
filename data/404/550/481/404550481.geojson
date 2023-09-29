@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013932,
-    "geom:area_square_m":167797404.904078,
+    "geom:area_square_m":167797404.904146,
     "geom:bbox":"-39.20156,-13.144463,-38.979398,-13.037927",
     "geom:latitude":-13.08549,
     "geom:longitude":-39.082314,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.090997,
     "lbl:longitude":-39.082173,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u099f\u09c1\u0987\u09aa\u09c7"
@@ -103,12 +112,15 @@
         102050527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290230205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050527
     ],
     "wof:country":"BR",
-    "wof:geomhash":"37b64840702b5c4bdf4b91378dd2dec8",
+    "wof:geomhash":"da783e82118f54793512fa5c521dae3b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404550481,
-    "wof:lastmodified":1617130934,
+    "wof:lastmodified":1695878839,
     "wof:name":"Aratu\u00edpe",
     "wof:parent_id":102050527,
     "wof:placetype":"localadmin",

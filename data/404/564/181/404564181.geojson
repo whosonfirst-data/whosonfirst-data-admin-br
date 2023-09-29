@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058562,
-    "geom:area_square_m":617806480.380332,
+    "geom:area_square_m":617806480.380432,
     "geom:bbox":"-53.2915904519,-31.5647903131,-52.9167981178,-31.3184899054",
     "geom:latitude":-31.441162,
     "geom:longitude":-53.094735,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-31.452226,
     "lbl:longitude":-53.072563,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09b0\u09be\u099f\u09bf\u09a8\u09bf"
@@ -97,9 +106,12 @@
         102059753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431460505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8837d21816acad0e5da11a8efd564169",
+    "wof:geomhash":"4176910f5a38b52a69c3713a9fffaafd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404564181,
-    "wof:lastmodified":1577827914,
+    "wof:lastmodified":1695878278,
     "wof:name":"Piratini",
     "wof:parent_id":102059753,
     "wof:placetype":"localadmin",

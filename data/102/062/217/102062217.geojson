@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001357,
-    "geom:area_square_m":15367697.442194,
+    "geom:area_square_m":15367697.44221,
     "geom:bbox":"-46.584958,-23.65057,-46.544646,-23.599524",
     "geom:latitude":-23.626141,
     "geom:longitude":-46.566063,
@@ -32,7 +32,7 @@
     "mps:latitude":-23.626304,
     "mps:longitude":-46.565675,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043d-\u041a\u0430\u044d\u0442\u0430\u043d\u0443-\u0434\u0443-\u0421\u0443\u043b"
@@ -86,16 +86,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777411,
-        85682041
+        85682041,
+        1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3548807"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101956187
     ],
     "wof:country":"BR",
-    "wof:geomhash":"2468ecce93eee16af49f049322f2084a",
+    "wof:geomhash":"6b97201713b0cccc3456107c6cab43cd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":102062217,
-    "wof:lastmodified":1608023524,
+    "wof:lastmodified":1695887451,
     "wof:name":"Sao Caetano do Sul",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

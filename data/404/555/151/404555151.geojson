@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007794,
-    "geom:area_square_m":90729653.025154,
+    "geom:area_square_m":90729653.025178,
     "geom:bbox":"-41.393977,-19.767989997,-41.301532,-19.635969997",
     "geom:latitude":-19.707217,
     "geom:longitude":-41.351053,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.706618,
     "lbl:longitude":-41.350171,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310110225"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b1d45563df5f3801eee43df5bd92b98d",
+    "wof:geomhash":"5282f91b260746a40bea296c178e08ef",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555151,
-    "wof:lastmodified":1577832677,
+    "wof:lastmodified":1695878368,
     "wof:name":"Mundo Novo De Minas",
     "wof:parent_id":102053391,
     "wof:placetype":"localadmin",

@@ -10,12 +10,21 @@
     "geom:latitude":-7.345476,
     "geom:longitude":-39.528661,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.347476,
     "lbl:longitude":-39.528699,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b2\u09ae\u09cb\u09a8\u09cd\u099f\u09c7"
@@ -115,9 +124,12 @@
         102051515
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230420207"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"92cb2c38ec5b701ea3de250bbb164e61",
+    "wof:geomhash":"d0fab344b104ea54445d841bc25c8811",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":404552775,
-    "wof:lastmodified":1577837812,
+    "wof:lastmodified":1695878704,
     "wof:name":"Belmonte",
     "wof:parent_id":102051515,
     "wof:placetype":"localadmin",

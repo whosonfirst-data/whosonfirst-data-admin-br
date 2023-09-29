@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079845,
-    "geom:area_square_m":931444065.756271,
+    "geom:area_square_m":931444065.756248,
     "geom:bbox":"-51.5228514453,-19.5340161499,-51.0416610746,-19.2139234622",
     "geom:latitude":-19.364308,
     "geom:longitude":-51.289432,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.371141,
     "lbl:longitude":-51.305823,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Raimundo"
@@ -46,9 +55,12 @@
         102055299
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500630923"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"69c28ef9d01dcd491864f12fd4f36993",
+    "wof:geomhash":"4ca6de0b636c332ed1d931211722f8dd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":404559007,
-    "wof:lastmodified":1577836162,
+    "wof:lastmodified":1695878646,
     "wof:name":"Raimundo",
     "wof:parent_id":102055299,
     "wof:placetype":"localadmin",

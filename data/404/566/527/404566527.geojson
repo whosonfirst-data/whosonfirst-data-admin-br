@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01176,
-    "geom:area_square_m":136076164.525754,
+    "geom:area_square_m":136076164.525701,
     "geom:bbox":"-49.4653,-20.73163,-49.346699,-20.543664",
     "geom:latitude":-20.648217,
     "geom:longitude":-49.403483,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.654484,
     "lbl:longitude":-49.402599,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09aa\u09bf\u0997\u09c1\u0986"
@@ -94,12 +103,15 @@
         102061535
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352115005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061535
     ],
     "wof:country":"BR",
-    "wof:geomhash":"398bf4ab81e5d5b77d7183a100c454fb",
+    "wof:geomhash":"63c703500917589b0ee172c192ff74eb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404566527,
-    "wof:lastmodified":1617131404,
+    "wof:lastmodified":1695878849,
     "wof:name":"Ipigu\u00e1",
     "wof:parent_id":102061535,
     "wof:placetype":"localadmin",

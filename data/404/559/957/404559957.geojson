@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004096,
-    "geom:area_square_m":50223415.335595,
+    "geom:area_square_m":50223415.335607,
     "geom:bbox":"-35.3904263533,-7.4227566592,-35.3065166261,-7.31504861819",
     "geom:latitude":-7.372029,
     "geom:longitude":-35.347339,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.383893,
     "lbl:longitude":-35.343847,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0628\u0648 \u063a\u0631\u0627\u0646\u062f\u064a"
@@ -205,9 +214,12 @@
         102056185
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250690510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e354fb23a924a3dd49a7121d9efd4c2c",
+    "wof:geomhash":"191ba371059f04a5012a23367e34b245",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -219,7 +231,7 @@
         }
     ],
     "wof:id":404559957,
-    "wof:lastmodified":1577837979,
+    "wof:lastmodified":1695878746,
     "wof:name":"Campo Grande",
     "wof:parent_id":102056185,
     "wof:placetype":"localadmin",

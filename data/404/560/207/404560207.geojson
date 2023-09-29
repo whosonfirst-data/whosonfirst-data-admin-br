@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010079,
-    "geom:area_square_m":122996672.21676,
+    "geom:area_square_m":122996672.216773,
     "geom:bbox":"-36.6893922127,-9.34151251034,-36.4995859383,-9.24318507852",
     "geom:latitude":-9.28467,
     "geom:longitude":-36.607996,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.284599,
     "lbl:longitude":-36.614467,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056537
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260210025"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f55fd984d8d23edc26651a9f28fbe7b6",
+    "wof:geomhash":"909bb0b4768e7b27368d16453f28c6a8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560207,
-    "wof:lastmodified":1577837911,
+    "wof:lastmodified":1695878728,
     "wof:name":"Rainha Isabel",
     "wof:parent_id":102056537,
     "wof:placetype":"localadmin",

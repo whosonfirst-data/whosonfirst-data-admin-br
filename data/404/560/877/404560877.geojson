@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033773,
-    "geom:area_square_m":383145366.709329,
+    "geom:area_square_m":383145366.709368,
     "geom:bbox":"-51.595485,-23.549488,-51.301318,-23.34236",
     "geom:latitude":-23.440803,
     "geom:longitude":-51.428245,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.433617,
     "lbl:longitude":-51.415974,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u0627\u0628\u0648\u0646\u063a\u0627\u0633"
@@ -112,12 +121,15 @@
         102057445
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410150705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102057445
     ],
     "wof:country":"BR",
-    "wof:geomhash":"722f8e44aaf2d4e3ccf18c8a1f001c86",
+    "wof:geomhash":"b71ef611b6b0713d3dd01f6ad8c3e9e9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":404560877,
-    "wof:lastmodified":1636496415,
+    "wof:lastmodified":1695878856,
     "wof:name":"Arapongas",
     "wof:parent_id":102057445,
     "wof:placetype":"localadmin",

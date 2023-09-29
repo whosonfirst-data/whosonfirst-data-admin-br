@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008598,
-    "geom:area_square_m":94352956.605223,
+    "geom:area_square_m":94352956.605246,
     "geom:bbox":"-49.81671,-27.486856,-49.67445,-27.385397",
     "geom:latitude":-27.437161,
     "geom:longitude":-49.742115,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.436515,
     "lbl:longitude":-49.742126,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0622\u062a\u0627\u0644\u0627\u0646\u062a\u0627"
@@ -153,19 +162,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060239,
         1511777409,
-        85682021
+        102060239
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420180205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060239
     ],
     "wof:country":"BR",
-    "wof:geomhash":"2d69e3a4417139b9f53c08c67da0e9c3",
+    "wof:geomhash":"b039b96441c863d2ec0091517b250f9b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -177,7 +189,7 @@
         }
     ],
     "wof:id":404565185,
-    "wof:lastmodified":1608034526,
+    "wof:lastmodified":1695878824,
     "wof:name":"Atalanta",
     "wof:parent_id":102060239,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01458,
-    "geom:area_square_m":171233174.251889,
+    "geom:area_square_m":171233227.016853,
     "geom:bbox":"-43.68314,-18.318248,-43.53359,-18.099303",
     "geom:latitude":-18.23337,
     "geom:longitude":-43.601721,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.256565,
     "lbl:longitude":-43.600577,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a6\u09bf\u09df\u09be\u09ae\u09be\u09a8\u09cd\u09a4\u09bf\u09a8\u09be"
@@ -61,9 +70,12 @@
         102053789
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312160505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"be40db3d15500240c2a489e03dc1e4d5",
+    "wof:geomhash":"7ee22f539be849940cf4b371b88b201d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404556177,
-    "wof:lastmodified":1636496412,
+    "wof:lastmodified":1695878854,
     "wof:name":"Diamantina",
     "wof:parent_id":102053789,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075846,
-    "geom:area_square_m":891823861.276529,
+    "geom:area_square_m":891823861.276285,
     "geom:bbox":"-46.5949,-18.2348289966,-46.259774,-17.7274899967",
     "geom:latitude":-18.02536,
     "geom:longitude":-46.408525,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.068986,
     "lbl:longitude":-46.452865,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054651
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315340020"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5b614f7bb5f4c3d7b79e35aed7df4aac",
+    "wof:geomhash":"c335bb1d2e5c39ed77aed84c3e06439b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557841,
-    "wof:lastmodified":1577833414,
+    "wof:lastmodified":1695878613,
     "wof:name":"Ponte Firme",
     "wof:parent_id":102054651,
     "wof:placetype":"localadmin",

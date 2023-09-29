@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012441,
-    "geom:area_square_m":147282607.82855,
+    "geom:area_square_m":147282607.828554,
     "geom:bbox":"-49.553534616,-16.8611657345,-49.3838172452,-16.7164629687",
     "geom:latitude":-16.785179,
     "geom:longitude":-49.454049,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.777587,
     "lbl:longitude":-49.441147,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"520005005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d7da1d1cbb00db18b0bf9e1dbb96ebae",
+    "wof:geomhash":"d44935d637d0dfb2a58445f1332b1c95",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554687,
-    "wof:lastmodified":1577836120,
+    "wof:lastmodified":1695878638,
     "wof:name":"Abadia De Goi\u00e1s",
     "wof:parent_id":102051993,
     "wof:placetype":"localadmin",

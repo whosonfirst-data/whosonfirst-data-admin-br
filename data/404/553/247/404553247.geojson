@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015171,
-    "geom:area_square_m":186278611.544382,
+    "geom:area_square_m":186278611.544412,
     "geom:bbox":"-39.1864493003,-6.91177862209,-39.0293877642,-6.69482403236",
     "geom:latitude":-6.788018,
     "geom:longitude":-39.11246,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.774516,
     "lbl:longitude":-39.107219,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051627
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230750225"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7fa0923823486957a2b2196fad8aea1b",
+    "wof:geomhash":"29727dc8245b3f56fce6bcf8586c259b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553247,
-    "wof:lastmodified":1577837920,
+    "wof:lastmodified":1695878731,
     "wof:name":"Mangabeira",
     "wof:parent_id":102051627,
     "wof:placetype":"localadmin",

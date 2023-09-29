@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006051,
-    "geom:area_square_m":74149448.662135,
+    "geom:area_square_m":74149448.662133,
     "geom:bbox":"-35.8385167874,-7.74668410027,-35.7451917072,-7.63540612553",
     "geom:latitude":-7.695865,
     "geom:longitude":-35.795865,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.707101,
     "lbl:longitude":-35.800465,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056477
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"251700110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"af4ec5a45077bfe8a18b82e01f0ab3cb",
+    "wof:geomhash":"fb092e1635a2cf990d8f42785f6c3921",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560087,
-    "wof:lastmodified":1577837899,
+    "wof:lastmodified":1695878725,
     "wof:name":"Mata Virgem",
     "wof:parent_id":102056477,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020303,
-    "geom:area_square_m":248345850.669094,
+    "geom:area_square_m":248345850.669133,
     "geom:bbox":"-39.101816472,-8.48531289548,-38.8404557937,-8.3304509588",
     "geom:latitude":-8.411781,
     "geom:longitude":-38.968827,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.40801,
     "lbl:longitude":-38.957927,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056525
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260160715"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"654ec4196bd0bd46280ec7ba2fa991d6",
+    "wof:geomhash":"47e4b573649dc0d7cd51a2478fe67ab2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560169,
-    "wof:lastmodified":1577837908,
+    "wof:lastmodified":1695878728,
     "wof:name":"Riacho Pequeno",
     "wof:parent_id":102056525,
     "wof:placetype":"localadmin",

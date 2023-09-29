@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00121,
-    "geom:area_square_m":14915633.838499,
+    "geom:area_square_m":14915633.838487,
     "geom:bbox":"-40.7048088743,-4.29172017477,-40.675227657,-4.21455099141",
     "geom:latitude":-4.255335,
     "geom:longitude":-40.687531,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.243274,
     "lbl:longitude":-40.686085,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Donato"
@@ -64,9 +73,12 @@
         102051721
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231095115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b1d8138196e07bc05ab006af7cfec44b",
+    "wof:geomhash":"af53c838ff45ea984b7143a6ead45498",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":404553651,
-    "wof:lastmodified":1577837940,
+    "wof:lastmodified":1695878736,
     "wof:name":"Donato",
     "wof:parent_id":102051721,
     "wof:placetype":"localadmin",

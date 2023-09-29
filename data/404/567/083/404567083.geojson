@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010718,
-    "geom:area_square_m":121949481.050327,
+    "geom:area_square_m":121949481.050342,
     "geom:bbox":"-47.662868,-23.103725,-47.508614,-22.983919",
     "geom:latitude":-23.045163,
     "geom:longitude":-47.583776,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.049701,
     "lbl:longitude":-47.572108,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09be\u09ab\u09be\u09b0\u09cd\u09a1"
@@ -84,19 +93,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102062053,
         1511777411,
-        85682041
+        102062053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354210705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102062053
     ],
     "wof:country":"BR",
-    "wof:geomhash":"2a880858e00bdb56cbca70c32656574b",
+    "wof:geomhash":"39872fe7524b5c55abbc84ecfeac8a42",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404567083,
-    "wof:lastmodified":1608030047,
+    "wof:lastmodified":1695878771,
     "wof:name":"Rafard",
     "wof:parent_id":102062053,
     "wof:placetype":"localadmin",

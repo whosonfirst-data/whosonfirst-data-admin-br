@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015382,
-    "geom:area_square_m":188744733.16153,
+    "geom:area_square_m":188744733.16154,
     "geom:bbox":"-36.2450425323,-7.2018348883,-36.1097308148,-6.98515895218",
     "geom:latitude":-7.104381,
     "geom:longitude":-36.179388,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.13029,
     "lbl:longitude":-36.179369,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nazar\u00e9"
@@ -73,9 +82,12 @@
         102056315
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"251200210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a6034b77be312c7e6f3429f46e4124a7",
+    "wof:geomhash":"4540951a30becaed5491cea22ae9c17a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404560019,
-    "wof:lastmodified":1577837883,
+    "wof:lastmodified":1695878721,
     "wof:name":"Nazar\u00e9",
     "wof:parent_id":102056315,
     "wof:placetype":"localadmin",

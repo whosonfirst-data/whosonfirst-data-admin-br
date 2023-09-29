@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01731,
-    "geom:area_square_m":210459504.828488,
+    "geom:area_square_m":210459504.828485,
     "geom:bbox":"-37.1380976678,-10.5923203212,-36.935365602,-10.3999718653",
     "geom:latitude":-10.498709,
     "geom:longitude":-37.013859,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.491785,
     "lbl:longitude":-37.005345,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Capela"
@@ -64,9 +73,12 @@
         102060843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"280130605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f81c46798006aee948b8763e78300a52",
+    "wof:geomhash":"027f9724d79507b082ee7b7018ec47ad",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":404566013,
-    "wof:lastmodified":1577837882,
+    "wof:lastmodified":1695878721,
     "wof:name":"Capela",
     "wof:parent_id":102060843,
     "wof:placetype":"localadmin",

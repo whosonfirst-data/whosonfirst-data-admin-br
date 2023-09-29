@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011766,
-    "geom:area_square_m":135085505.059702,
+    "geom:area_square_m":135085505.059712,
     "geom:bbox":"-51.2490298393,-21.8650945849,-51.0922779129,-21.7379298178",
     "geom:latitude":-21.798363,
     "geom:longitude":-51.168704,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.803019,
     "lbl:longitude":-51.154531,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -88,9 +97,12 @@
         102061723
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352890805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"24d31d1086cce0a7f29577e698bccad6",
+    "wof:geomhash":"21eb2663c9a56fd89063bca453a1caea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404566717,
-    "wof:lastmodified":1577833391,
+    "wof:lastmodified":1695878603,
     "wof:name":"Mari\u00e1polis",
     "wof:parent_id":102061723,
     "wof:placetype":"localadmin",

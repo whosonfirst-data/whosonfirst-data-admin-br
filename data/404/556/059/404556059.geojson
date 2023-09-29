@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02604,
-    "geom:area_square_m":305184570.423948,
+    "geom:area_square_m":305184570.423963,
     "geom:bbox":"-42.457902,-18.6978909971,-42.216456,-18.5125739972",
     "geom:latitude":-18.594295,
     "geom:longitude":-42.328751,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.595657,
     "lbl:longitude":-42.330598,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b0\u09cb\u0986\u09b8\u09bf"
@@ -94,9 +103,12 @@
         102053723
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311920305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0fdfe2a1fe9de5405fca2246b1ae91e5",
+    "wof:geomhash":"519e44ef9f7d10b2885524fb1d75384f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404556059,
-    "wof:lastmodified":1577832595,
+    "wof:lastmodified":1695878335,
     "wof:name":"Coroaci",
     "wof:parent_id":102053723,
     "wof:placetype":"localadmin",

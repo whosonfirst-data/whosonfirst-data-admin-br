@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009199,
-    "geom:area_square_m":99397191.583664,
+    "geom:area_square_m":99397191.583652,
     "geom:bbox":"-51.5230440688,-29.1597314328,-51.4115912987,-29.016534423",
     "geom:latitude":-29.089679,
     "geom:longitude":-51.461831,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.08928,
     "lbl:longitude":-51.460981,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pinto Bandeira"
@@ -49,9 +58,12 @@
         102059133
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430210521"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5724bbca734cedf4181697e6edb26fc1",
+    "wof:geomhash":"5291bdd011662c54964761eee193786e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":404563075,
-    "wof:lastmodified":1577827898,
+    "wof:lastmodified":1695878270,
     "wof:name":"Pinto Bandeira",
     "wof:parent_id":102059133,
     "wof:placetype":"localadmin",

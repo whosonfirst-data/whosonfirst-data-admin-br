@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005259,
-    "geom:area_square_m":64551653.968537,
+    "geom:area_square_m":64551575.30088,
     "geom:bbox":"-34.989145,-6.947086,-34.855514,-6.865062",
     "geom:latitude":-6.9088,
     "geom:longitude":-34.919222,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.908865,
     "lbl:longitude":-34.919222,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0633\u064a\u0646\u0627"
@@ -143,9 +152,12 @@
         102056225
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250860405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"414423410c467de0dcd97104bc61dc02",
+    "wof:geomhash":"ad5ac8c79b422fe728e992818c49e911",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -157,7 +169,7 @@
         }
     ],
     "wof:id":404559967,
-    "wof:lastmodified":1636496426,
+    "wof:lastmodified":1695878859,
     "wof:name":"Lucena",
     "wof:parent_id":102056225,
     "wof:placetype":"localadmin",

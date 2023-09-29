@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140806,
-    "geom:area_square_m":1740633697.348403,
+    "geom:area_square_m":1740633697.348395,
     "geom:bbox":"-51.3258050715,-1.53557001032,-50.8004716127,-1.10798746586",
     "geom:latitude":-1.313029,
     "geom:longitude":-51.076056,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-1.328809,
     "lbl:longitude":-51.097338,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b0\u09c7\u0987\u09af\u09bc\u09be\u09b8"
@@ -73,9 +82,12 @@
         102055821
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150450510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1c6710d1eda7b96819fa136c1e85edc4",
+    "wof:geomhash":"e19f29e7a35cff5bd43e2b38d0a80524",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404559673,
-    "wof:lastmodified":1577825648,
+    "wof:lastmodified":1695878146,
     "wof:name":"Areias",
     "wof:parent_id":102055821,
     "wof:placetype":"localadmin",

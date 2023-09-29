@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012371,
-    "geom:area_square_m":146360370.755613,
+    "geom:area_square_m":146360370.75555,
     "geom:bbox":"-43.702114,-16.989394,-43.56674,-16.808783",
     "geom:latitude":-16.903862,
     "geom:longitude":-43.639275,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.916659,
     "lbl:longitude":-43.643875,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09b2\u09cc\u09b8\u09bf\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
@@ -96,19 +105,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053945,
         1511777411,
-        85681941
+        102053945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312735405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053945
     ],
     "wof:country":"BR",
-    "wof:geomhash":"f2a981e6a0b0ad8cd15570d43930d0d5",
+    "wof:geomhash":"156dd4163a046dd63c64805a48a15770",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404556469,
-    "wof:lastmodified":1608029579,
+    "wof:lastmodified":1695878767,
     "wof:name":"Glaucil\u00e2ndia",
     "wof:parent_id":102053945,
     "wof:placetype":"localadmin",

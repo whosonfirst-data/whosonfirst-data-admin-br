@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007659,
-    "geom:area_square_m":83817718.26499,
+    "geom:area_square_m":83817718.264991,
     "geom:bbox":"-53.3996055228,-27.8069601213,-53.2926879111,-27.6778288828",
     "geom:latitude":-27.743835,
     "geom:longitude":-53.34992,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.743215,
     "lbl:longitude":-53.349906,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u099c\u09cb\u09af\u09bc\u09be\u0993"
@@ -82,9 +91,12 @@
         102059135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430215430"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"11ff581cd985d2f21eb2e080fc5d2cc7",
+    "wof:geomhash":"f10624170ae72e0ef0badd600fce5534",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404563085,
-    "wof:lastmodified":1577827899,
+    "wof:lastmodified":1695878270,
     "wof:name":"S\u00e3o Jo\u00e3o",
     "wof:parent_id":102059135,
     "wof:placetype":"localadmin",

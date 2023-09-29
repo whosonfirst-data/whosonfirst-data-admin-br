@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015903,
-    "geom:area_square_m":181730682.829941,
+    "geom:area_square_m":181730682.829933,
     "geom:bbox":"-43.9127423694,-22.554407727,-43.7486061231,-22.3525354157",
     "geom:latitude":-22.456675,
     "geom:longitude":-43.816629,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.461664,
     "lbl:longitude":-43.817887,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058319
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330030805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"88ccebe712dd8426da40148ec1330fc3",
+    "wof:geomhash":"47794f17d2caa759795c936f4638c374",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562095,
-    "wof:lastmodified":1577833349,
+    "wof:lastmodified":1695878588,
     "wof:name":"Barra Do Pira\u00ed",
     "wof:parent_id":102058319,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.188429,
-    "geom:area_square_m":2294476285.124676,
+    "geom:area_square_m":2294476285.124614,
     "geom:bbox":"-42.811932552,-10.342370266,-42.226497019,-9.737271548",
     "geom:latitude":-10.007724,
     "geom:longitude":-42.57966,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.990927,
     "lbl:longitude":-42.599716,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09b2\u09af\u09bc\u09be\u0993 \u0986\u09b0\u09cd\u0995\u09be\u09a1\u09cb"
@@ -100,9 +109,12 @@
         102051133
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292440505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0cc9fb03d89247268b9f3b6dc76c4e36",
+    "wof:geomhash":"2b0c4061c0cb5200c708132636f41bf3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404551711,
-    "wof:lastmodified":1577837954,
+    "wof:lastmodified":1695878740,
     "wof:name":"Pil\u00e3o Arcado",
     "wof:parent_id":102051133,
     "wof:placetype":"localadmin",

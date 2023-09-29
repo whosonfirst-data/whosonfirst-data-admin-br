@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081158,
-    "geom:area_square_m":955205172.100269,
+    "geom:area_square_m":955205172.099814,
     "geom:bbox":"-43.408177,-18.108847,-43.10686,-17.561468",
     "geom:latitude":-17.855245,
     "geom:longitude":-43.240951,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.856578,
     "lbl:longitude":-43.251282,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09a8\u09be\u09a1\u09cb\u09b0\u09cd \u09ae\u09cb\u09a1\u09c7\u09b8\u099f\u09bf\u09a8\u09cb \u0997\u09cb\u09a8\u0995\u09be\u09b2\u09ad\u09c7\u09b8"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054995,
         1511777411,
-        85681941
+        102054995
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316590905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054995
     ],
     "wof:country":"BR",
-    "wof:geomhash":"ac627ef9a39cbff27724a235b322c795",
+    "wof:geomhash":"26dba829005eed81158141e797f01074",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404558471,
-    "wof:lastmodified":1608030336,
+    "wof:lastmodified":1695878775,
     "wof:name":"Senador Modestino Gon\u00e7alves",
     "wof:parent_id":102054995,
     "wof:placetype":"localadmin",

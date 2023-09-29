@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105662,
-    "geom:area_square_m":1256162267.909659,
+    "geom:area_square_m":1256162267.909698,
     "geom:bbox":"-55.3021466334,-16.1663012717,-54.9078798639,-15.7629169164",
     "geom:latitude":-15.960254,
     "geom:longitude":-55.110276,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.963729,
     "lbl:longitude":-55.106503,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u09b8\u09bf\u09f1\u09be\u09b0\u09be"
@@ -91,9 +100,12 @@
         102055467
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510480705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"aacc2fa02e4e5c8c8f3c73afa07f4f0e",
+    "wof:geomhash":"919d7b0049332a1c2089a18baa844cb8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404559215,
-    "wof:lastmodified":1577836099,
+    "wof:lastmodified":1695878632,
     "wof:name":"Jaciara",
     "wof:parent_id":102055467,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00591,
-    "geom:area_square_m":64510025.222795,
+    "geom:area_square_m":64510025.222821,
     "geom:bbox":"-55.3845393774,-28.0775966416,-55.2814821534,-27.9661805543",
     "geom:latitude":-28.015445,
     "geom:longitude":-55.334561,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.005653,
     "lbl:longitude":-55.338853,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Figueira"
@@ -61,9 +70,12 @@
         102059751
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431455510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d3eb71d50df552fc5a342dfbef7a2827",
+    "wof:geomhash":"90bdf783d568198b96fc5c69188547fa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404564179,
-    "wof:lastmodified":1577827913,
+    "wof:lastmodified":1695878277,
     "wof:name":"Figueira",
     "wof:parent_id":102059751,
     "wof:placetype":"localadmin",

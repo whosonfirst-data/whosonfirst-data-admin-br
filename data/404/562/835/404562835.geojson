@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055931,
-    "geom:area_square_m":684308130.867063,
+    "geom:area_square_m":684308130.867149,
     "geom:bbox":"-63.6457491439,-8.5933937442,-63.3416154958,-8.08704185917",
     "geom:latitude":-8.325931,
     "geom:longitude":-63.49195,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.340771,
     "lbl:longitude":-63.49219,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0648 \u0643\u0627\u0631\u0644\u0648\u0633"
@@ -139,9 +148,12 @@
         102058923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"110020540"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"21605093aaae74b67c0ea6a6bfe598a2",
+    "wof:geomhash":"511df016a1fc5299a7d01522229cfe54",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +165,7 @@
         }
     ],
     "wof:id":404562835,
-    "wof:lastmodified":1577825680,
+    "wof:lastmodified":1695878161,
     "wof:name":"S\u00e3o Carlos",
     "wof:parent_id":102058923,
     "wof:placetype":"localadmin",

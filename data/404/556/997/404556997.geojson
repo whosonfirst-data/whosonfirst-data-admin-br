@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013149,
-    "geom:area_square_m":153138172.425234,
+    "geom:area_square_m":153138172.425236,
     "geom:bbox":"-43.9599934258,-19.7020499964,-43.79439,-19.5567991403",
     "geom:latitude":-19.632494,
     "geom:longitude":-43.88086,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.629299,
     "lbl:longitude":-43.879594,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lagoa Santa"
@@ -67,9 +76,12 @@
         102054219
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313760105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2921c46816e4a5af1c910eeeea9f925a",
+    "wof:geomhash":"2d142150d928cafd16a20be0cf1111d7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404556997,
-    "wof:lastmodified":1577833444,
+    "wof:lastmodified":1695878623,
     "wof:name":"Lagoa Santa",
     "wof:parent_id":102054219,
     "wof:placetype":"localadmin",

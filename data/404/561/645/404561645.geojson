@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020381,
-    "geom:area_square_m":227516423.149643,
+    "geom:area_square_m":227516423.149646,
     "geom:bbox":"-49.175577,-25.550714,-48.940981,-25.386425",
     "geom:latitude":-25.472436,
     "geom:longitude":-49.05231,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.480982,
     "lbl:longitude":-49.054083,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09b0\u09be\u0995\u09c1\u09f1\u09be\u09b0\u09be"
@@ -97,12 +106,15 @@
         102058013
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411950905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102058013
     ],
     "wof:country":"BR",
-    "wof:geomhash":"b6454bbf6e99db8341b99074b153abc2",
+    "wof:geomhash":"33b70cebc20f58aa079ac9f43fad8985",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404561645,
-    "wof:lastmodified":1617129948,
+    "wof:lastmodified":1695878828,
     "wof:name":"Piraquara",
     "wof:parent_id":102058013,
     "wof:placetype":"localadmin",

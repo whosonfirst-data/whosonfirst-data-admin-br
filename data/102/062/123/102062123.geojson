@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026523,
-    "geom:area_square_m":306518306.788344,
+    "geom:area_square_m":306518306.788294,
     "geom:bbox":"-47.9855848203,-20.9106975982,-47.718156265,-20.7395859745",
     "geom:latitude":-20.83152,
     "geom:longitude":-47.85454,
@@ -29,7 +29,7 @@
     "mps:latitude":-20.828355,
     "mps:longitude":-47.834293,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09b2\u09c7\u09b8 \u0993\u09b2\u09bf\u09ad\u09c7\u0987\u09b0\u09be"
@@ -111,9 +111,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3544905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"387f524c40fd12c2507ad7023f623cc0",
+    "wof:geomhash":"01d00812eb881aaf3c319f95afc4b45a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":102062123,
-    "wof:lastmodified":1577831008,
+    "wof:lastmodified":1695887017,
     "wof:name":"Sales Oliveira",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

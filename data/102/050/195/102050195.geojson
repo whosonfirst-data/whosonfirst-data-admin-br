@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026587,
-    "geom:area_square_m":324300896.43737,
+    "geom:area_square_m":324300896.437306,
     "geom:bbox":"-37.8984051875,-9.57941680229,-37.723006945,-9.29301228032",
     "geom:latitude":-9.436655,
     "geom:longitude":-37.81592,
@@ -32,7 +32,7 @@
     "mps:latitude":-9.450777,
     "mps:longitude":-37.831916,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0993\u09b2\u09b9\u09cb \u09a1\u09bf'\u0986\u0997\u09c1\u09f1\u09be \u09a1\u09cb \u0995\u09be\u09b8\u09be\u09a1\u09cb"
@@ -90,9 +90,12 @@
         1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2705804"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e67a825eeae514f1478920b836d939d8",
+    "wof:geomhash":"bfbb8cdae5463824c81db6b6ab3363b7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102050195,
-    "wof:lastmodified":1577837415,
+    "wof:lastmodified":1695887117,
     "wof:name":"Olho d'Agua do Casado",
     "wof:parent_id":85681879,
     "wof:placetype":"county",

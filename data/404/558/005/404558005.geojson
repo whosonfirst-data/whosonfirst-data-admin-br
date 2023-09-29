@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011492,
-    "geom:area_square_m":134530385.019006,
+    "geom:area_square_m":134530385.018981,
     "geom:bbox":"-43.24671,-18.8637409971,-43.061108,-18.7165129971",
     "geom:latitude":-18.792687,
     "geom:longitude":-43.165072,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.80886,
     "lbl:longitude":-43.174212,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0438\u043b\u043e\u043c\u0431\u0443"
@@ -73,9 +82,12 @@
         102054733
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315680915"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"45510fb23e6fcaf4673cdd7ab36bc8a5",
+    "wof:geomhash":"3c9f8dee227b4ff31227342652c01d21",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404558005,
-    "wof:lastmodified":1577832554,
+    "wof:lastmodified":1695878319,
     "wof:name":"Quilombo",
     "wof:parent_id":102054733,
     "wof:placetype":"localadmin",

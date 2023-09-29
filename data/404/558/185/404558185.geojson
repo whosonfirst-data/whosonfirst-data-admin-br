@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009217,
-    "geom:area_square_m":107601111.529438,
+    "geom:area_square_m":107601111.529449,
     "geom:bbox":"-43.307023,-19.2993719971,-43.185312,-19.1721099971",
     "geom:latitude":-19.241403,
     "geom:longitude":-43.249048,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.246671,
     "lbl:longitude":-43.250207,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316050405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9182eaf4f1a5533391bf5fc73d131671",
+    "wof:geomhash":"f35945d313938a91cb74e5f8cb1bad0f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558185,
-    "wof:lastmodified":1577832723,
+    "wof:lastmodified":1695878383,
     "wof:name":"Santo Ant\u00f4nio Do Rio Abaixo",
     "wof:parent_id":102054835,
     "wof:placetype":"localadmin",

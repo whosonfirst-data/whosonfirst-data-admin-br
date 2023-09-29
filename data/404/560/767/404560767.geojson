@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023352,
-    "geom:area_square_m":286033908.0506,
+    "geom:area_square_m":286033908.05058,
     "geom:bbox":"-36.2663572368,-7.98070800426,-36.0098762631,-7.76410416376",
     "geom:latitude":-7.875362,
     "geom:longitude":-36.149657,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.883179,
     "lbl:longitude":-36.168884,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056865
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261500305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"26bbb0281c59d100cd9d74b78acf9705",
+    "wof:geomhash":"0789356466d2f6edd50217cdda136db2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560767,
-    "wof:lastmodified":1577837947,
+    "wof:lastmodified":1695878738,
     "wof:name":"Taquaritinga Do Norte",
     "wof:parent_id":102056865,
     "wof:placetype":"localadmin",

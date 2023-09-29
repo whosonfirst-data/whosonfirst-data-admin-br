@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010206,
-    "geom:area_square_m":110000672.156531,
+    "geom:area_square_m":110000672.156543,
     "geom:bbox":"-51.1072252998,-29.409161826,-50.9551897081,-29.2915659096",
     "geom:latitude":-29.347633,
     "geom:longitude":-51.027632,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.351754,
     "lbl:longitude":-51.022451,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059669
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431320107"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f2c3e535b8c266ee997429d550275d4f",
+    "wof:geomhash":"51a14ab1acce0f35b7353f9217eb6c1c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564035,
-    "wof:lastmodified":1577827890,
+    "wof:lastmodified":1695878266,
     "wof:name":"Dos Bo\u00eamios",
     "wof:parent_id":102059669,
     "wof:placetype":"localadmin",

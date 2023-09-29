@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007928,
-    "geom:area_square_m":86665169.390874,
+    "geom:area_square_m":86665169.390875,
     "geom:bbox":"-52.278243689,-27.9170062865,-52.1676407285,-27.7957514121",
     "geom:latitude":-27.861815,
     "geom:longitude":-52.223816,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.868808,
     "lbl:longitude":-52.21936,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u062a\u0648\u0644\u064a\u0648 \u0641\u0627\u0631\u062c\u0627\u0633"
@@ -193,9 +202,12 @@
         102059441
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430890405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2ecccafc6af97ae652c28e992f2b4cfd",
+    "wof:geomhash":"26c5ea8d6225ffbe8ad879df373da1e3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -207,7 +219,7 @@
         }
     ],
     "wof:id":404563669,
-    "wof:lastmodified":1577827732,
+    "wof:lastmodified":1695878192,
     "wof:name":"Get\u00falio Vargas",
     "wof:parent_id":102059441,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017271,
-    "geom:area_square_m":201653162.064892,
+    "geom:area_square_m":201653162.064774,
     "geom:bbox":"-42.687075,-19.3225119971,-42.515974,-19.1178509971",
     "geom:latitude":-19.221449,
     "geom:longitude":-42.597646,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.223014,
     "lbl:longitude":-42.598936,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mesquita"
@@ -76,9 +85,12 @@
         102054333
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314170205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ed87b2abd54470d8346163420733a335",
+    "wof:geomhash":"9d20e89c1b732b5f33ea0496a2707d16",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404557233,
-    "wof:lastmodified":1577832769,
+    "wof:lastmodified":1695878401,
     "wof:name":"Mesquita",
     "wof:parent_id":102054333,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005433,
-    "geom:area_square_m":59074823.015985,
+    "geom:area_square_m":59074823.015929,
     "geom:bbox":"-53.9836897626,-28.4966038301,-53.8877396968,-28.3899647508",
     "geom:latitude":-28.440708,
     "geom:longitude":-53.943287,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.439938,
     "lbl:longitude":-53.943291,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barreiro"
@@ -61,9 +70,12 @@
         102059491
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431020708"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9fee8c2bd1be310cb9913f1420dfeeee",
+    "wof:geomhash":"64136a6e2d6bfea25486794506358a33",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404563749,
-    "wof:lastmodified":1577827943,
+    "wof:lastmodified":1695878290,
     "wof:name":"Barreiro",
     "wof:parent_id":102059491,
     "wof:placetype":"localadmin",

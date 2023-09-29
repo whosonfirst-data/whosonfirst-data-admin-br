@@ -10,12 +10,21 @@
     "geom:latitude":-4.695377,
     "geom:longitude":-40.81823,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.696556,
     "lbl:longitude":-40.833131,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09bf\u09ad\u09cd\u09b0\u09be\u09ae\u09c7\u09a8\u099f\u09cb"
@@ -58,9 +67,12 @@
         102051583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230590225"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"30f10477ae593185b21ffdfa6391f208",
+    "wof:geomhash":"6e564ca25fb4dbad8b80ab1e04b7c252",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":404553075,
-    "wof:lastmodified":1577837896,
+    "wof:lastmodified":1695878724,
     "wof:name":"Livramento",
     "wof:parent_id":102051583,
     "wof:placetype":"localadmin",

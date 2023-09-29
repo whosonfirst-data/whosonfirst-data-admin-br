@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107425,
-    "geom:area_square_m":1313669303.786235,
+    "geom:area_square_m":1313669303.786217,
     "geom:bbox":"-38.3269201815,-8.67479312916,-37.7851142954,-8.2766656298",
     "geom:latitude":-8.525312,
     "geom:longitude":-38.066927,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.530003,
     "lbl:longitude":-38.157271,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Airi"
@@ -43,9 +52,12 @@
         102056629
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260570710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2458fbe2c8273df22e0e03e9100b5423",
+    "wof:geomhash":"1051d94dee1d330007c3a5db3d9241fa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":404560343,
-    "wof:lastmodified":1577837646,
+    "wof:lastmodified":1695878664,
     "wof:name":"Airi",
     "wof:parent_id":102056629,
     "wof:placetype":"localadmin",

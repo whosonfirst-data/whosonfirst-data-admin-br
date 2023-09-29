@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008875,
-    "geom:area_square_m":107512349.778244,
+    "geom:area_square_m":107512349.778179,
     "geom:bbox":"-37.5096586667,-11.697099626,-37.3411466537,-11.4418253092",
     "geom:latitude":-11.55835,
     "geom:longitude":-37.436149,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.546943,
     "lbl:longitude":-37.444436,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mangue Seco"
@@ -40,9 +49,12 @@
         102050939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291790420"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"be8db8a157d1e268063d9bf7e3d8fd8d",
+    "wof:geomhash":"3f78caa27aee63a14b2871bb9f31c390",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404551311,
-    "wof:lastmodified":1577837621,
+    "wof:lastmodified":1695878657,
     "wof:name":"Mangue Seco",
     "wof:parent_id":102050939,
     "wof:placetype":"localadmin",

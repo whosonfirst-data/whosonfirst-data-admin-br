@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078506,
-    "geom:area_square_m":939559274.266477,
+    "geom:area_square_m":939559274.266473,
     "geom:bbox":"-42.178262,-14.736761,-41.79152,-14.41938",
     "geom:latitude":-14.561429,
     "geom:longitude":-41.982828,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.566447,
     "lbl:longitude":-41.979091,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u099c\u09c7\u09b0\u09c1"
@@ -97,12 +106,15 @@
         102050781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291165905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050781
     ],
     "wof:country":"BR",
-    "wof:geomhash":"38706e21681041a7ada9355b6a84fa77",
+    "wof:geomhash":"9b39ece123a84e9ac380527a785b718c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404551001,
-    "wof:lastmodified":1617131348,
+    "wof:lastmodified":1695878847,
     "wof:name":"Guajeru",
     "wof:parent_id":102050781,
     "wof:placetype":"localadmin",

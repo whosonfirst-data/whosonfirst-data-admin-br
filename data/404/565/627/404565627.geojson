@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017626,
-    "geom:area_square_m":193858520.07541,
+    "geom:area_square_m":193858520.075345,
     "geom:bbox":"-51.037989,-27.275793,-50.815846,-27.11792",
     "geom:latitude":-27.193351,
     "geom:longitude":-50.927942,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.165171,
     "lbl:longitude":-50.917013,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Monte Carlo"
@@ -255,19 +264,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060557,
         1511777409,
-        85682021
+        102060557
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421105805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060557
     ],
     "wof:country":"BR",
-    "wof:geomhash":"245927f69bebcc2908f72cee12daeccb",
+    "wof:geomhash":"3fb4562bd223b8536e8b0e139e67e3c6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -279,7 +291,7 @@
         }
     ],
     "wof:id":404565627,
-    "wof:lastmodified":1608034225,
+    "wof:lastmodified":1695878819,
     "wof:name":"Monte Carlo",
     "wof:parent_id":102060557,
     "wof:placetype":"localadmin",

@@ -10,12 +10,21 @@
     "geom:latitude":-22.872451,
     "geom:longitude":-42.041082,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.900086,
     "lbl:longitude":-42.065583,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u0648 \u0641\u0631\u064a\u0648"
@@ -151,12 +160,15 @@
         102058329
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330070405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101953745
     ],
     "wof:country":"BR",
-    "wof:geomhash":"92af3cd0f47caa2dc4353951c563a269",
+    "wof:geomhash":"14d64c3a5d88910a026f7cb0a611b591",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -168,7 +180,7 @@
         }
     ],
     "wof:id":404562145,
-    "wof:lastmodified":1636496450,
+    "wof:lastmodified":1695878866,
     "wof:name":"Cabo Frio",
     "wof:parent_id":102058329,
     "wof:placetype":"localadmin",

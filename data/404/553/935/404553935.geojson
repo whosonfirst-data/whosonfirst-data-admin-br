@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002529,
-    "geom:area_square_m":31118652.75227,
+    "geom:area_square_m":31118652.752271,
     "geom:bbox":"-38.9694698087,-5.760370113,-38.9205975347,-5.63812938655",
     "geom:latitude":-5.697601,
     "geom:longitude":-38.941457,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.682694,
     "lbl:longitude":-38.941887,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231300532"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f3fcec3dfa91706138f51d857d49df5c",
+    "wof:geomhash":"c53a2d3da6613311716393a7f77e1fca",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553935,
-    "wof:lastmodified":1577837980,
+    "wof:lastmodified":1695878746,
     "wof:name":"Prefeita Suely Pinheiro",
     "wof:parent_id":102051777,
     "wof:placetype":"localadmin",

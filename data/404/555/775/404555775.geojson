@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079993,
-    "geom:area_square_m":942499070.558065,
+    "geom:area_square_m":942499070.55826,
     "geom:bbox":"-41.216029,-17.8460749972,-40.77238,-17.4127379973",
     "geom:latitude":-17.663139,
     "geom:longitude":-40.956894,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.703802,
     "lbl:longitude":-40.971857,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053585
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311370115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d26a58c19474d54449fbd62f1e34ed44",
+    "wof:geomhash":"e54c81f9d8dec799e6eafe1988679f49",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555775,
-    "wof:lastmodified":1577833397,
+    "wof:lastmodified":1695878605,
     "wof:name":"Presidente Pena",
     "wof:parent_id":102053585,
     "wof:placetype":"localadmin",

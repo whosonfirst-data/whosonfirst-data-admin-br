@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006829,
-    "geom:area_square_m":83888338.6718,
+    "geom:area_square_m":83888338.671785,
     "geom:bbox":"-37.80244555,-6.59798100797,-37.6655785959,-6.48825705",
     "geom:latitude":-6.547218,
     "geom:longitude":-37.736674,
@@ -29,7 +29,7 @@
     "mps:latitude":-6.532703,
     "mps:longitude":-37.725329,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Mato Grosso"
@@ -324,9 +324,12 @@
         1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2509370"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"37ead2ff24020ff61a9f4f0f9f1ec41b",
+    "wof:geomhash":"80defdd9837b009c8fcc77ead0affa1a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -337,7 +340,7 @@
         }
     ],
     "wof:id":102056251,
-    "wof:lastmodified":1577837430,
+    "wof:lastmodified":1695887118,
     "wof:name":"Mato Grosso",
     "wof:parent_id":85681967,
     "wof:placetype":"county",

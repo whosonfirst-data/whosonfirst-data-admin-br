@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005272,
-    "geom:area_square_m":60075739.306937,
+    "geom:area_square_m":60075739.306929,
     "geom:bbox":"-52.9603761631,-22.9030351581,-52.8520814931,-22.8043243669",
     "geom:latitude":-22.850271,
     "geom:longitude":-52.897146,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.846967,
     "lbl:longitude":-52.887306,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057935
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411710710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"26741e0a8230a6f43e93315a5b3e11a7",
+    "wof:geomhash":"301fcf85ef72e07b5fd4d5643177d74e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561549,
-    "wof:lastmodified":1577827785,
+    "wof:lastmodified":1695878217,
     "wof:name":"Cintra Pimentel",
     "wof:parent_id":102057935,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007245,
-    "geom:area_square_m":85938596.619974,
+    "geom:area_square_m":85938596.620021,
     "geom:bbox":"-50.8133722427,-16.4722904586,-50.7023516473,-16.3425899948",
     "geom:latitude":-16.410759,
     "geom:longitude":-50.761215,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.427107,
     "lbl:longitude":-50.765839,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102052267
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"521030715"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a2e216655d2364777cf244cf8b83d9f9",
+    "wof:geomhash":"b04237eb232bd560f2ffac77d826bc1c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554811,
-    "wof:lastmodified":1577836161,
+    "wof:lastmodified":1695878646,
     "wof:name":"Pilo\u00e2ndia",
     "wof:parent_id":102052267,
     "wof:placetype":"localadmin",

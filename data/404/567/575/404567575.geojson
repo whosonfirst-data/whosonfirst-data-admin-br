@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028006,
-    "geom:area_square_m":320427421.15257,
+    "geom:area_square_m":320427421.152599,
     "geom:bbox":"-52.4962634357,-22.4003046092,-52.209355236,-22.1806794038",
     "geom:latitude":-22.289808,
     "geom:longitude":-52.343678,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.292036,
     "lbl:longitude":-52.333977,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102062355
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355430025"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4fbce8af456bafd10f13b4a74c977462",
+    "wof:geomhash":"e0ef51708d422f71f8eea45ee8240b87",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404567575,
-    "wof:lastmodified":1577833109,
+    "wof:lastmodified":1695878516,
     "wof:name":"Planalto Do Sul",
     "wof:parent_id":102062355,
     "wof:placetype":"localadmin",

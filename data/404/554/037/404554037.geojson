@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011063,
-    "geom:area_square_m":136504356.96024,
+    "geom:area_square_m":136504356.960257,
     "geom:bbox":"-39.5153918259,-3.78649169545,-39.3559089503,-3.64239473624",
     "geom:latitude":-3.711465,
     "geom:longitude":-39.440691,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.709628,
     "lbl:longitude":-39.441919,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043e \u0416\u043e\u0430\u043a\u0438\u043c"
@@ -106,9 +115,12 @@
         102051803
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231375730"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"adc998d40b625d64c473c57af2096d78",
+    "wof:geomhash":"10d11333ead870ac1e5ba4f995b0814b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404554037,
-    "wof:lastmodified":1577837888,
+    "wof:lastmodified":1695878722,
     "wof:name":"S\u00e3o Joaquim",
     "wof:parent_id":102051803,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024478,
-    "geom:area_square_m":285202198.020771,
+    "geom:area_square_m":285202198.020756,
     "geom:bbox":"-46.140576,-19.656724,-45.884186,-19.456728",
     "geom:latitude":-19.562044,
     "geom:longitude":-45.999768,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.574356,
     "lbl:longitude":-45.99107,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054815,
         1511777411,
-        85681941
+        102054815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315970405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054815
     ],
     "wof:country":"BR",
-    "wof:geomhash":"41926ea8ec214f1c883d69689dd8ae5b",
+    "wof:geomhash":"86327ee87e2c8bb790b97301e13aaec3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404558153,
-    "wof:lastmodified":1608030467,
+    "wof:lastmodified":1695878777,
     "wof:name":"Santa Rosa Da Serra",
     "wof:parent_id":102054815,
     "wof:placetype":"localadmin",

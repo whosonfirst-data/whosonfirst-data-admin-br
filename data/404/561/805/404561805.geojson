@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046988,
-    "geom:area_square_m":526858412.513546,
+    "geom:area_square_m":526858412.513587,
     "geom:bbox":"-54.4594304939,-25.0415150657,-54.1450766733,-24.7580790814",
     "geom:latitude":-24.933804,
     "geom:longitude":-54.320972,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.941165,
     "lbl:longitude":-54.336351,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Helena"
@@ -70,9 +79,12 @@
         102058131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412350105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bb71b915d40f61323c63a3be5d70436c",
+    "wof:geomhash":"dbd5d01ca789cb05dfab70af1a6ab878",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404561805,
-    "wof:lastmodified":1577827960,
+    "wof:lastmodified":1695878298,
     "wof:name":"Santa Helena",
     "wof:parent_id":102058131,
     "wof:placetype":"localadmin",

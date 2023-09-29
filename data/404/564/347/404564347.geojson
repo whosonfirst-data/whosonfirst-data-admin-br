@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00274,
-    "geom:area_square_m":29620533.087792,
+    "geom:area_square_m":29620533.087801,
     "geom:bbox":"-53.2008831791,-29.0797387446,-53.1060503006,-29.0247310029",
     "geom:latitude":-29.050994,
     "geom:longitude":-53.158601,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.05062,
     "lbl:longitude":-53.171153,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059837
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431645123"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a1ceba9a0054c709d834d15199c77f8f",
+    "wof:geomhash":"22e3bc30f322a602a85350741ff1109c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564347,
-    "wof:lastmodified":1577827805,
+    "wof:lastmodified":1695878226,
     "wof:name":"Passo Real",
     "wof:parent_id":102059837,
     "wof:placetype":"localadmin",

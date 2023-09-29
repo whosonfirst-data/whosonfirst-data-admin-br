@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.133018,
-    "geom:area_square_m":1579856382.615265,
+    "geom:area_square_m":1579856375.274166,
     "geom:bbox":"-40.99217,-16.454294,-40.414637,-15.922836",
     "geom:latitude":-16.153315,
     "geom:longitude":-40.671595,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.147092,
     "lbl:longitude":-40.603941,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Almenara"
@@ -115,9 +124,12 @@
         102053407
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310170605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8d0571cd4de92249e65f3968cfd40257",
+    "wof:geomhash":"e9833f8c2a5d55838242f7fc18ea89df",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":404555183,
-    "wof:lastmodified":1636496441,
+    "wof:lastmodified":1695878865,
     "wof:name":"Almenara",
     "wof:parent_id":102053407,
     "wof:placetype":"localadmin",

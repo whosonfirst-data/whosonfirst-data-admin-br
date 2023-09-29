@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024107,
-    "geom:area_square_m":256925813.548649,
+    "geom:area_square_m":256925899.732812,
     "geom:bbox":"-54.120798,-30.574405,-53.881512,-30.338651",
     "geom:latitude":-30.467131,
     "geom:longitude":-54.01561,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.482977,
     "lbl:longitude":-54.013825,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u064a\u0646\u064a\u0627"
@@ -133,9 +142,12 @@
         102059859
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431697230"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"83b9677019a3968ad75e872d346c697f",
+    "wof:geomhash":"b65a382479be58639e9e80cd0b4ae413",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":404564425,
-    "wof:lastmodified":1636496445,
+    "wof:lastmodified":1695878865,
     "wof:name":"Serrinha",
     "wof:parent_id":102059859,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.247357,
-    "geom:area_square_m":3006534617.213207,
+    "geom:area_square_m":3006534617.212869,
     "geom:bbox":"-58.2942235363,-10.8923787773,-57.4113056265,-10.3415029552",
     "geom:latitude":-10.587872,
     "geom:longitude":-57.797418,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.586117,
     "lbl:longitude":-57.767556,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055475
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510510120"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b6bc6cd6237bab61ffeaa96c45d0515b",
+    "wof:geomhash":"486ecd5bda58049b3d3a994f0eff06ea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559231,
-    "wof:lastmodified":1577836100,
+    "wof:lastmodified":1695878632,
     "wof:name":"Paranorte",
     "wof:parent_id":102055475,
     "wof:placetype":"localadmin",

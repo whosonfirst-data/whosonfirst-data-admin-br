@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006649,
-    "geom:area_square_m":72150516.041867,
+    "geom:area_square_m":72150516.041874,
     "geom:bbox":"-56.048401,-28.711561,-55.950534,-28.594793",
     "geom:latitude":-28.651646,
     "geom:longitude":-55.997145,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.649208,
     "lbl:longitude":-55.997886,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682015,
         102191577,
         85633009,
-        102059893,
         1511777409,
-        85682015
+        102059893
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431800205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101958241
     ],
     "wof:country":"BR",
-    "wof:geomhash":"b66048cde5d4bd74056eafc74ccdec8d",
+    "wof:geomhash":"9a0842a45e10f20eb9d32d4e6e811f10",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404564557,
-    "wof:lastmodified":1608022994,
+    "wof:lastmodified":1695878752,
     "wof:name":"S\u00e3o Borja",
     "wof:parent_id":102059893,
     "wof:placetype":"localadmin",

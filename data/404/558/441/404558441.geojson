@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02507,
-    "geom:area_square_m":285800271.052972,
+    "geom:area_square_m":285800271.053005,
     "geom:bbox":"-45.972224,-22.876058,-45.711819,-22.716632",
     "geom:latitude":-22.786302,
     "geom:longitude":-45.848556,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.793646,
     "lbl:longitude":-45.835529,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09aa\u09c1\u0995\u09be\u0987-\u09ae\u09bf\u09b0\u09bf\u09ae"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054975,
         1511777411,
-        85681941
+        102054975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316540405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054975
     ],
     "wof:country":"BR",
-    "wof:geomhash":"4c15a96825e3033fb5b86a89cf9c40f8",
+    "wof:geomhash":"92d0661706f9b422177348537ec36207",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404558441,
-    "wof:lastmodified":1608030362,
+    "wof:lastmodified":1695878775,
     "wof:name":"Sapuca\u00ed-Mirim",
     "wof:parent_id":102054975,
     "wof:placetype":"localadmin",

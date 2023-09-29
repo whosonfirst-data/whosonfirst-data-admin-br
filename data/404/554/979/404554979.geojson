@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059967,
-    "geom:area_square_m":740288663.75813,
+    "geom:area_square_m":740288663.758157,
     "geom:bbox":"-44.7799657811,-3.45124369827,-44.4266368003,-3.13885863477",
     "geom:latitude":-3.287919,
     "geom:longitude":-44.612307,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.286291,
     "lbl:longitude":-44.61496,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u09be\u099c\u09be\u099f\u09c1\u09ac\u09be"
@@ -97,9 +106,12 @@
         102052787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"210070905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d25e71006509bb353dca0cb5099545a3",
+    "wof:geomhash":"558363b2518ec677627ae2db92d711de",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404554979,
-    "wof:lastmodified":1577837990,
+    "wof:lastmodified":1695878749,
     "wof:name":"Anajatuba",
     "wof:parent_id":102052787,
     "wof:placetype":"localadmin",

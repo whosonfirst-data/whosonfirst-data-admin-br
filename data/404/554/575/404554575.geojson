@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029849,
-    "geom:area_square_m":346605927.766152,
+    "geom:area_square_m":346605927.766068,
     "geom:bbox":"-40.7520626807,-20.2192013746,-40.4720653223,-19.9598094044",
     "geom:latitude":-20.103432,
     "geom:longitude":-40.588642,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.071723,
     "lbl:longitude":-40.542067,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Santa Leopoldina"
@@ -97,9 +106,12 @@
         102051955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320450005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2e0f63cc6ef92eb3518b9bce4f60f79d",
+    "wof:geomhash":"142a76a0ab026c2723d7a53ae1ac1b90",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404554575,
-    "wof:lastmodified":1577832996,
+    "wof:lastmodified":1695878479,
     "wof:name":"Santa Leopoldina",
     "wof:parent_id":102051955,
     "wof:placetype":"localadmin",

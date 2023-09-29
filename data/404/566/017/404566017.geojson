@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003639,
-    "geom:area_square_m":44224143.21259,
+    "geom:area_square_m":44224106.888293,
     "geom:bbox":"-37.078104,-10.640899,-36.992621,-10.56095",
     "geom:latitude":-10.60009,
     "geom:longitude":-37.037479,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.600502,
     "lbl:longitude":-37.041669,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Miranda"
@@ -190,9 +199,12 @@
         102060843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"280130615"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7dc35de93051d5ede28785974a920bb0",
+    "wof:geomhash":"badbb0bfc7cc0fc9104a394cfada4f93",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -204,7 +216,7 @@
         }
     ],
     "wof:id":404566017,
-    "wof:lastmodified":1636496423,
+    "wof:lastmodified":1695878858,
     "wof:name":"Miranda",
     "wof:parent_id":102060843,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06249,
-    "geom:area_square_m":722581477.507818,
+    "geom:area_square_m":722581477.507866,
     "geom:bbox":"-45.512763,-20.847606,-45.056485,-20.650225",
     "geom:latitude":-20.748496,
     "geom:longitude":-45.279578,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.751416,
     "lbl:longitude":-45.275245,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a8\u09cd\u09a1\u09c7\u0987\u09af\u09bc\u09be\u09b8"
@@ -66,19 +75,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053357,
         1511777411,
-        85681941
+        102053357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311200005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053357
     ],
     "wof:country":"BR",
-    "wof:geomhash":"71d987d1e3acaba92f1ebccb82d73a3b",
+    "wof:geomhash":"2f4ea0aed22e07ee9e1a2973cfdaba41",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404555681,
-    "wof:lastmodified":1608032439,
+    "wof:lastmodified":1695878806,
     "wof:name":"Candeias",
     "wof:parent_id":102053357,
     "wof:placetype":"localadmin",

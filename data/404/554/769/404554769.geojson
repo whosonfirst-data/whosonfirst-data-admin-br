@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066217,
-    "geom:area_square_m":789212163.70845,
+    "geom:area_square_m":789212163.708717,
     "geom:bbox":"-47.2008411449,-15.6633215899,-46.835675834,-15.2470007592",
     "geom:latitude":-15.44491,
     "geom:longitude":-47.011733,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.444935,
     "lbl:longitude":-47.029832,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bezerra"
@@ -43,9 +52,12 @@
         102052189
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"520800407"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f1b6fa6ddb85194813813a08b92bc410",
+    "wof:geomhash":"b7dd5c2b420b1818c3a34ac071dd1adc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":404554769,
-    "wof:lastmodified":1577836153,
+    "wof:lastmodified":1695878644,
     "wof:name":"Bezerra",
     "wof:parent_id":102052189,
     "wof:placetype":"localadmin",

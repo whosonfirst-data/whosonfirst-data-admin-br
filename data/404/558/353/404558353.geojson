@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004116,
-    "geom:area_square_m":47330798.854799,
+    "geom:area_square_m":47330798.854814,
     "geom:bbox":"-43.022174,-21.6451929968,-42.94054,-21.5453219968",
     "geom:latitude":-21.585883,
     "geom:longitude":-42.977291,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.576575,
     "lbl:longitude":-42.974511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054907
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316290620"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ebcfb77d479d21c780ad3deec93955c0",
+    "wof:geomhash":"4955d6921a8d1b4134628ca75a830833",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558353,
-    "wof:lastmodified":1577833295,
+    "wof:lastmodified":1695878574,
     "wof:name":"Ro\u00e7a Grande",
     "wof:parent_id":102054907,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009216,
-    "geom:area_square_m":106471994.485964,
+    "geom:area_square_m":106471994.486029,
     "geom:bbox":"-45.143243,-20.9508469968,-44.99713,-20.8092729969",
     "geom:latitude":-20.88311,
     "geom:longitude":-45.062076,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.87661,
     "lbl:longitude":-45.04493,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315880505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5d6064f2b5fc898fd7e80ae13f9dc5f7",
+    "wof:geomhash":"b1201f9659c65314f04050dc9817a764",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558105,
-    "wof:lastmodified":1577832627,
+    "wof:lastmodified":1695878349,
     "wof:name":"Santana Do Jacar\u00e9",
     "wof:parent_id":102054791,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053618,
-    "geom:area_square_m":652773845.442717,
+    "geom:area_square_m":652773845.442725,
     "geom:bbox":"-40.417209647,-10.254328487,-40.022142798,-9.911448746",
     "geom:latitude":-10.076923,
     "geom:longitude":-40.195435,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.094297,
     "lbl:longitude":-40.208739,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291770610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3098b6ea3b39227db9dd3b0db578d6f4",
+    "wof:geomhash":"f32efb6fc3f4dbb877e0e1b4dbd1f506",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551291,
-    "wof:lastmodified":1577837733,
+    "wof:lastmodified":1695878685,
     "wof:name":"Juacema",
     "wof:parent_id":102050933,
     "wof:placetype":"localadmin",

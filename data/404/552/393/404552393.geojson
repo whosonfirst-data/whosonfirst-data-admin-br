@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015409,
-    "geom:area_square_m":189924783.296605,
+    "geom:area_square_m":189924783.2966,
     "geom:bbox":"-38.7638262869,-4.70166139115,-38.5733265566,-4.51690662535",
     "geom:latitude":-4.602067,
     "geom:longitude":-38.680899,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.580727,
     "lbl:longitude":-38.682355,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051431
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230120821"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"34a1f4817910e23b49461dbfa42b83c2",
+    "wof:geomhash":"2742a355b94752c492bacc1b1b2aa172",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404552393,
-    "wof:lastmodified":1577837862,
+    "wof:lastmodified":1695878716,
     "wof:name":"Milton Belo",
     "wof:parent_id":102051431,
     "wof:placetype":"localadmin",

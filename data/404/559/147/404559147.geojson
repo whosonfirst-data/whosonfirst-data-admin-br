@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134438,
-    "geom:area_square_m":1617989721.262866,
+    "geom:area_square_m":1617989721.262209,
     "geom:bbox":"-58.3449410659,-13.4276313642,-57.6138368448,-12.9290162873",
     "geom:latitude":-13.265499,
     "geom:longitude":-58.024544,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.316148,
     "lbl:longitude":-57.927564,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510263720"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"75fa9cf63b40eb70c7a1626539bfa454",
+    "wof:geomhash":"4714e19f532996ceb12e07a3b8fe12a2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559147,
-    "wof:lastmodified":1577836091,
+    "wof:lastmodified":1695878629,
     "wof:name":"Marechal Rondon",
     "wof:parent_id":102055393,
     "wof:placetype":"localadmin",

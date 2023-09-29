@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.708657,
-    "geom:area_square_m":33215111879.432304,
+    "geom:area_square_m":33215111879.43243,
     "geom:bbox":"-63.635593,-8.881412,-61.635659,-6.141948",
     "geom:latitude":-7.362923,
     "geom:longitude":-62.485545,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.350516,
     "lbl:longitude":-62.636337,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0645\u0627\u064a\u062a\u0627"
@@ -73,12 +82,15 @@
         102050345
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"130170405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050345
     ],
     "wof:country":"BR",
-    "wof:geomhash":"f862dc51f6ea767d54a3d8bfb48cc051",
+    "wof:geomhash":"68ca23328d2b35b3698088a53307a7c4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404550253,
-    "wof:lastmodified":1617130029,
+    "wof:lastmodified":1695878830,
     "wof:name":"Humait\u00e1",
     "wof:parent_id":102050345,
     "wof:placetype":"localadmin",

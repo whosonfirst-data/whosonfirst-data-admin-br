@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02494,
-    "geom:area_square_m":298801021.994666,
+    "geom:area_square_m":298801021.994629,
     "geom:bbox":"-44.295981836,-14.4251259977,-44.01506,-14.2331806642",
     "geom:latitude":-14.31947,
     "geom:longitude":-44.149623,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.332323,
     "lbl:longitude":-44.16356,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09c1\u09ad\u09c7\u09a8\u09bf\u09b2\u09bf\u09af\u09bc\u09be"
@@ -97,9 +106,12 @@
         102054201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313695905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a8ad551e7f04b598f0a1af2daa6c3cdb",
+    "wof:geomhash":"ac32bcf638778f166c452c610112bb21",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404556963,
-    "wof:lastmodified":1577833249,
+    "wof:lastmodified":1695878558,
     "wof:name":"Juven\u00edlia",
     "wof:parent_id":102054201,
     "wof:placetype":"localadmin",

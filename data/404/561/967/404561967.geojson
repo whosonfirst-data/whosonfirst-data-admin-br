@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025318,
-    "geom:area_square_m":288215131.242199,
+    "geom:area_square_m":288215131.24218,
     "geom:bbox":"-50.9836610062,-23.1211587862,-50.7708189182,-22.8899296819",
     "geom:latitude":-22.982557,
     "geom:longitude":-50.856926,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.977588,
     "lbl:longitude":-50.849664,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Sertanejo"
@@ -37,9 +46,12 @@
         102058223
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412640505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e6d7d153d95bfa1fb2ce40461bb28fae",
+    "wof:geomhash":"f9537afa8e4a789d6d0ce2a7c6973f3a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404561967,
-    "wof:lastmodified":1577827995,
+    "wof:lastmodified":1695878314,
     "wof:name":"Sertaneja",
     "wof:parent_id":102058223,
     "wof:placetype":"localadmin",

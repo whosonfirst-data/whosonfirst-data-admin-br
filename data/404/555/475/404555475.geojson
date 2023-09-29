@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005338,
-    "geom:area_square_m":62124383.033243,
+    "geom:area_square_m":62124383.033264,
     "geom:bbox":"-42.380237,-19.775197997,-42.281805,-19.680358997",
     "geom:latitude":-19.73123,
     "geom:longitude":-42.336175,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.740967,
     "lbl:longitude":-42.335437,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053251
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310780215"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ad943a348f1d97d260bc66b01ba2fc9b",
+    "wof:geomhash":"ac83ba31bb289e478134b88ae7a0c805",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555475,
-    "wof:lastmodified":1577832968,
+    "wof:lastmodified":1695878472,
     "wof:name":"Quartel Do Sacramento",
     "wof:parent_id":102053251,
     "wof:placetype":"localadmin",

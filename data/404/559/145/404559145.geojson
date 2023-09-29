@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043701,
-    "geom:area_square_m":523668570.395484,
+    "geom:area_square_m":523668570.395494,
     "geom:bbox":"-58.2317745395,-14.3859302168,-57.8839244179,-14.1828276796",
     "geom:latitude":-14.280656,
     "geom:longitude":-58.05821,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.277206,
     "lbl:longitude":-58.061545,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510263715"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ef38ed49372f696fe699c8b2c4677cb4",
+    "wof:geomhash":"96e00e85508ac1c92a89e7d7e4a794da",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559145,
-    "wof:lastmodified":1577836166,
+    "wof:lastmodified":1695878647,
     "wof:name":"Itanorte",
     "wof:parent_id":102055393,
     "wof:placetype":"localadmin",

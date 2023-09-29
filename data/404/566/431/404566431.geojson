@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011336,
-    "geom:area_square_m":129795348.253881,
+    "geom:area_square_m":129795348.253934,
     "geom:bbox":"-49.8247360991,-22.2955125397,-49.6947244154,-22.107388315",
     "geom:latitude":-22.18206,
     "geom:longitude":-49.749624,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.160658,
     "lbl:longitude":-49.739777,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Jafa"
@@ -37,9 +46,12 @@
         102061419
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351670510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a75d35af93469ba64facabaa6677e349",
+    "wof:geomhash":"6f6f3aa61a00bc031c45b4594571c887",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404566431,
-    "wof:lastmodified":1577832923,
+    "wof:lastmodified":1695878458,
     "wof:name":"Jafa",
     "wof:parent_id":102061419,
     "wof:placetype":"localadmin",

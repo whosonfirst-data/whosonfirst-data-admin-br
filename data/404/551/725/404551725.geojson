@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025908,
-    "geom:area_square_m":314765810.490815,
+    "geom:area_square_m":314765810.490897,
     "geom:bbox":"-40.45248785,-10.829512527,-40.239199039,-10.612433561",
     "geom:latitude":-10.720636,
     "geom:longitude":-40.342187,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.718132,
     "lbl:longitude":-40.340561,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09a8\u09a1\u09cb\u09ac\u09be\u0995\u09c1"
@@ -91,9 +100,12 @@
         102051139
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292460305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2721fae1af3781211bbc64eadcdb5912",
+    "wof:geomhash":"c455e453e2e151babfd9e01b76a9f197",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404551725,
-    "wof:lastmodified":1577837784,
+    "wof:lastmodified":1695878696,
     "wof:name":"Pindoba\u00e7u",
     "wof:parent_id":102051139,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010694,
-    "geom:area_square_m":124418622.31824,
+    "geom:area_square_m":124418622.318172,
     "geom:bbox":"-42.009304,-19.874844997,-41.90121,-19.723663997",
     "geom:latitude":-19.798478,
     "geom:longitude":-41.962789,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.80124,
     "lbl:longitude":-41.958431,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053577
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311340424"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"630437c46c625f9157694fb65bcedbf7",
+    "wof:geomhash":"309b93c2fae68e617d1262c8c1728efb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555749,
-    "wof:lastmodified":1577833186,
+    "wof:lastmodified":1695878538,
     "wof:name":"Patroc\u00ednio De Caratinga",
     "wof:parent_id":102053577,
     "wof:placetype":"localadmin",

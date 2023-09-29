@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.210697,
-    "geom:area_square_m":2599754074.684943,
+    "geom:area_square_m":2599754264.134918,
     "geom:bbox":"-55.605235,-4.154228,-55.037398,-3.23236",
     "geom:latitude":-3.733149,
     "geom:longitude":-55.309365,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.769295,
     "lbl:longitude":-55.285688,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0986\u09ad\u09bf\u09df\u09c7\u09b0\u09cb"
@@ -100,9 +109,12 @@
         102055693
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150100605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"48e5af15e1914a969848beaa8032dbe0",
+    "wof:geomhash":"e7973adc810f36fc00af69bbb62ef064",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404559487,
-    "wof:lastmodified":1636496427,
+    "wof:lastmodified":1695878859,
     "wof:name":"Aveiro",
     "wof:parent_id":102055693,
     "wof:placetype":"localadmin",

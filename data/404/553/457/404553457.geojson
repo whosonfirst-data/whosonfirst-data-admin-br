@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003602,
-    "geom:area_square_m":44460294.832465,
+    "geom:area_square_m":44460294.832466,
     "geom:bbox":"-40.6709246803,-3.53136705086,-40.5978729307,-3.45886710116",
     "geom:latitude":-3.500245,
     "geom:longitude":-40.631551,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.500763,
     "lbl:longitude":-40.632283,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230880710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bb853e249022620f8c6d9db9528f38a9",
+    "wof:geomhash":"2a8f922a66cd751108de28dea2f1400f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553457,
-    "wof:lastmodified":1577837847,
+    "wof:lastmodified":1695878712,
     "wof:name":"V\u00e1rzea Da Volta",
     "wof:parent_id":102051665,
     "wof:placetype":"localadmin",

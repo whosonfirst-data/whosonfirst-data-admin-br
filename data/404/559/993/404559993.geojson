@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00563,
-    "geom:area_square_m":68998666.366095,
+    "geom:area_square_m":68998666.366091,
     "geom:bbox":"-35.6526665884,-7.66408208974,-35.5150636232,-7.59636080635",
     "geom:latitude":-7.631429,
     "geom:longitude":-35.578929,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.63007,
     "lbl:longitude":-35.566527,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09be\u099f\u09c1\u09ac\u09be"
@@ -82,9 +91,12 @@
         102056267
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250990905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"77dea6ba26adaa0eaf43bf953ab8f18b",
+    "wof:geomhash":"aa7a88ed4e3bf653b0ca53da10bf7677",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404559993,
-    "wof:lastmodified":1577837744,
+    "wof:lastmodified":1695878688,
     "wof:name":"Natuba",
     "wof:parent_id":102056267,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019354,
-    "geom:area_square_m":214752489.93953,
+    "geom:area_square_m":214752489.939548,
     "geom:bbox":"-50.70365,-26.2670222195,-50.5371008136,-26.0882278877",
     "geom:latitude":-26.189712,
     "geom:longitude":-50.619404,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.188027,
     "lbl:longitude":-50.626156,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060319
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420380815"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"711d0bb349e2f1069164d93bdded9f7d",
+    "wof:geomhash":"8c4a7878b63e0c7a4f219a3dcdca6090",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565295,
-    "wof:lastmodified":1577827770,
+    "wof:lastmodified":1695878210,
     "wof:name":"Felipe Schmidt",
     "wof:parent_id":102060319,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.64981,
-    "geom:area_square_m":7606894018.385091,
+    "geom:area_square_m":7606894018.385894,
     "geom:bbox":"-55.464263,-19.346129,-54.393635,-18.221971",
     "geom:latitude":-18.787878,
     "geom:longitude":-55.05082,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.746822,
     "lbl:longitude":-55.050847,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681947,
         102191577,
         85633009,
-        102055317,
         1511777413,
-        85681947
+        102055317
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500740605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055317
     ],
     "wof:country":"BR",
-    "wof:geomhash":"6eef0608c55e1e945bf410d9f2938209",
+    "wof:geomhash":"592a72fd6d876165b82dbf50bcf38bb4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404559037,
-    "wof:lastmodified":1608031173,
+    "wof:lastmodified":1695878787,
     "wof:name":"Rio Verde De Mato Grosso",
     "wof:parent_id":102055317,
     "wof:placetype":"localadmin",

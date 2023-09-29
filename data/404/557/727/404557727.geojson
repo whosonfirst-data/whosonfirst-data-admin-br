@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006953,
-    "geom:area_square_m":79909579.289362,
+    "geom:area_square_m":79909579.289316,
     "geom:bbox":"-42.42403,-21.7074089968,-42.2918233212,-21.5753629968",
     "geom:latitude":-21.646303,
     "geom:longitude":-42.368197,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.671204,
     "lbl:longitude":-42.363745,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09b0\u09be\u09aa\u09c7\u099f\u09bf\u0999\u09cd\u0997\u09be"
@@ -94,9 +103,12 @@
         102054595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315110705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"70539950a2c61935d3056a65deb6087d",
+    "wof:geomhash":"e0ce9ef6e2637c0230ec5ca7ff6b77c2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404557727,
-    "wof:lastmodified":1577833194,
+    "wof:lastmodified":1695878540,
     "wof:name":"Pirapetinga",
     "wof:parent_id":102054595,
     "wof:placetype":"localadmin",

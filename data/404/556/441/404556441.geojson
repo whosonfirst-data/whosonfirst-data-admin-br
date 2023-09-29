@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014299,
-    "geom:area_square_m":168018557.488615,
+    "geom:area_square_m":168018557.488697,
     "geom:bbox":"-42.83112,-18.2139,-42.67506,-18.080409",
     "geom:latitude":-18.143403,
     "geom:longitude":-42.755872,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.141104,
     "lbl:longitude":-42.757354,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09cd\u09b0\u09c7\u0987 \u09b2\u09be\u0997\u09cb\u09a8\u09c7\u0997\u09cd\u09b0\u09cb"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053927,
         1511777411,
-        85681941
+        102053927
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312695005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053927
     ],
     "wof:country":"BR",
-    "wof:geomhash":"6b5554b75e18b5790bbbb14ec965a546",
+    "wof:geomhash":"9d112b9b3386a4ead6d3c5c0bc41b64e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404556441,
-    "wof:lastmodified":1608029357,
+    "wof:lastmodified":1695878759,
     "wof:name":"Frei Lagonegro",
     "wof:parent_id":102053927,
     "wof:placetype":"localadmin",

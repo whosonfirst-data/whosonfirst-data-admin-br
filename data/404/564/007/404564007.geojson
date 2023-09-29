@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016335,
-    "geom:area_square_m":177448584.947609,
+    "geom:area_square_m":177448584.94762,
     "geom:bbox":"-51.3412242748,-28.5942053603,-51.1229816489,-28.4760966342",
     "geom:latitude":-28.536567,
     "geom:longitude":-51.226402,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.536137,
     "lbl:longitude":-51.226422,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09b0\u09cd\u09b0\u09cb \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
@@ -85,9 +94,12 @@
         102059635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431261735"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"aba8b39bfb9732c808bced31367aeb60",
+    "wof:geomhash":"776d03b9328553f21f2723ad02d78ca9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404564007,
-    "wof:lastmodified":1577827885,
+    "wof:lastmodified":1695878264,
     "wof:name":"Morro Grande",
     "wof:parent_id":102059635,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006022,
-    "geom:area_square_m":70180008.541029,
+    "geom:area_square_m":70180008.541114,
     "geom:bbox":"-41.760069,-19.577461997,-41.65189,-19.454694997",
     "geom:latitude":-19.529023,
     "geom:longitude":-41.700171,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.526298,
     "lbl:longitude":-41.690341,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313090323"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8ef3a717dc422039c5fcd433e4b805c4",
+    "wof:geomhash":"9dbdc8c2edc562878ba037e4a8d3258c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556657,
-    "wof:lastmodified":1577833125,
+    "wof:lastmodified":1695878520,
     "wof:name":"S\u00e3o Tom\u00e9 De Minas",
     "wof:parent_id":102054041,
     "wof:placetype":"localadmin",

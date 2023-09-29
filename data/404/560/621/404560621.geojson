@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031803,
-    "geom:area_square_m":389346915.009819,
+    "geom:area_square_m":389346909.370841,
     "geom:bbox":"-39.317711,-8.206104,-39.024566,-7.920925",
     "geom:latitude":-8.084654,
     "geom:longitude":-39.155531,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.068137,
     "lbl:longitude":-39.145658,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u062c\u064a\u0631\u0648"
@@ -124,9 +133,12 @@
         102056795
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261220805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cf2f1e2856194fc67966873084570876",
+    "wof:geomhash":"209be2d220e79347e3eba4f0871a1687",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":404560621,
-    "wof:lastmodified":1636496414,
+    "wof:lastmodified":1695878855,
     "wof:name":"Salgueiro",
     "wof:parent_id":102056795,
     "wof:placetype":"localadmin",

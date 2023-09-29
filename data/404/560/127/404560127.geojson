@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007135,
-    "geom:area_square_m":87451194.174403,
+    "geom:area_square_m":87451194.174391,
     "geom:bbox":"-35.2728808235,-7.67640713487,-35.1740911156,-7.54486226427",
     "geom:latitude":-7.609568,
     "geom:longitude":-35.229085,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.609331,
     "lbl:longitude":-35.228346,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09bf\u09af\u09bc\u09be\u09a8\u0995\u09be"
@@ -85,9 +94,12 @@
         102056503
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260070805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6568c4db5a7dc93525816d00863e6291",
+    "wof:geomhash":"63e67ec704e9f7da4d8a084f19d5a8e9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404560127,
-    "wof:lastmodified":1577837903,
+    "wof:lastmodified":1695878726,
     "wof:name":"Alian\u00e7a",
     "wof:parent_id":102056503,
     "wof:placetype":"localadmin",

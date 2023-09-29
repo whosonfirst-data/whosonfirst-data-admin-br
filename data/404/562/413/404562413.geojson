@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037281,
-    "geom:area_square_m":423830424.528013,
+    "geom:area_square_m":423830424.528098,
     "geom:bbox":"-44.8893205505,-23.2999715078,-44.6161450853,-23.0143887488",
     "geom:latitude":-23.1629,
     "geom:longitude":-44.765146,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.163781,
     "lbl:longitude":-44.767765,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b0\u09be\u099f\u09bf"
@@ -106,9 +115,12 @@
         102058421
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330380705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"22af1826f02228ced841a8e577ab97e6",
+    "wof:geomhash":"f805cf22c3ba1344ab9972cb62dc57ce",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404562413,
-    "wof:lastmodified":1577832913,
+    "wof:lastmodified":1695878455,
     "wof:name":"Paraty",
     "wof:parent_id":102058421,
     "wof:placetype":"localadmin",

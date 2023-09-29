@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049584,
-    "geom:area_square_m":588017669.289823,
+    "geom:area_square_m":588017669.289853,
     "geom:bbox":"-50.5402347042,-16.6373584722,-50.1655353265,-16.2856231924",
     "geom:latitude":-16.452213,
     "geom:longitude":-50.345603,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.447615,
     "lbl:longitude":-50.311685,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102052673
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"522010805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"fabeb8cae5ba4eabf873c223379b8f3b",
+    "wof:geomhash":"f4eb0f52f41e73670718f3b4aa1d11fe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554931,
-    "wof:lastmodified":1577836151,
+    "wof:lastmodified":1695878644,
     "wof:name":"S\u00e3o Lu\u00eds De Montes Belos",
     "wof:parent_id":102052673,
     "wof:placetype":"localadmin",

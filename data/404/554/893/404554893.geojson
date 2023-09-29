@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.131891,
-    "geom:area_square_m":1559907524.996467,
+    "geom:area_square_m":1559907524.99616,
     "geom:bbox":"-48.4896326946,-17.1839685125,-47.9190419031,-16.7314142609",
     "geom:latitude":-16.962698,
     "geom:longitude":-48.208151,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.951387,
     "lbl:longitude":-48.231875,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0993\u09b0\u09bf\u099c\u09cb\u09a8\u09be"
@@ -94,9 +103,12 @@
         102052483
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"521530605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0e43508677fc894771a673fe758fe7e5",
+    "wof:geomhash":"e7f06e700927cbd774621b5660d2741a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404554893,
-    "wof:lastmodified":1577836149,
+    "wof:lastmodified":1695878643,
     "wof:name":"Orizona",
     "wof:parent_id":102052483,
     "wof:placetype":"localadmin",

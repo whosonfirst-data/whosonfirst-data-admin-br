@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001904,
-    "geom:area_square_m":23473692.184873,
+    "geom:area_square_m":23473848.092552,
     "geom:bbox":"-38.897941,-4.27838,-38.844341,-4.17744",
     "geom:latitude":-4.224463,
     "geom:longitude":-38.869441,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.214417,
     "lbl:longitude":-38.860514,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Santa Ana"
@@ -169,9 +178,12 @@
         102051689
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230980520"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"96781d435578f08f3f8a4a1deaa4e569",
+    "wof:geomhash":"a89fc82d3ba8228d70def95ea8191b52",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -183,7 +195,7 @@
         }
     ],
     "wof:id":404553549,
-    "wof:lastmodified":1642551738,
+    "wof:lastmodified":1695878869,
     "wof:name":"Santa Ana",
     "wof:parent_id":102051689,
     "wof:placetype":"localadmin",

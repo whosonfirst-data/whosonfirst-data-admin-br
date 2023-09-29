@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007665,
-    "geom:area_square_m":83331539.877575,
+    "geom:area_square_m":83331539.877544,
     "geom:bbox":"-49.2588734692,-28.5122307933,-49.1119565363,-28.3893246988",
     "geom:latitude":-28.446869,
     "geom:longitude":-49.174976,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.446557,
     "lbl:longitude":-49.170023,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a1\u09cd\u09b0\u09be\u09b8 \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7\u09b8"
@@ -91,9 +100,12 @@
         102060613
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421240305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9514b38109e12699fa1d8e82ba370d51",
+    "wof:geomhash":"b55ea1b647992d0f64daeab397f03629",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404565711,
-    "wof:lastmodified":1577827818,
+    "wof:lastmodified":1695878231,
     "wof:name":"Pedras Grandes",
     "wof:parent_id":102060613,
     "wof:placetype":"localadmin",

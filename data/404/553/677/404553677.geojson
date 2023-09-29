@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035372,
-    "geom:area_square_m":435087580.269994,
+    "geom:area_square_m":435087580.26999,
     "geom:bbox":"-40.8979186151,-5.99558420232,-40.5381060157,-5.7221127755",
     "geom:latitude":-5.870041,
     "geom:longitude":-40.722553,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.889758,
     "lbl:longitude":-40.734754,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c1\u0987\u099f\u09c7\u09b0\u09bf\u09af\u09bc\u09be\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -85,9 +94,12 @@
         102051733
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231126405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e70d2125a7f9d9db571118305f2a3387",
+    "wof:geomhash":"7a0b5a871e778ec5cba7a63c24463b16",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404553677,
-    "wof:lastmodified":1577837944,
+    "wof:lastmodified":1695878737,
     "wof:name":"Quiterian\u00f3polis",
     "wof:parent_id":102051733,
     "wof:placetype":"localadmin",

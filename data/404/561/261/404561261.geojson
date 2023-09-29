@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046072,
-    "geom:area_square_m":515506176.154857,
+    "geom:area_square_m":515506176.154946,
     "geom:bbox":"-50.7792181318,-25.410969227,-50.4469785689,-25.0380865262",
     "geom:latitude":-25.19217,
     "geom:longitude":-50.625622,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.166464,
     "lbl:longitude":-50.614347,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ae\u09ac\u09bf\u099f\u09c1\u09ad\u09be"
@@ -85,9 +94,12 @@
         102057733
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411010205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"752e19a93c4e6552d80bda2654bc87bd",
+    "wof:geomhash":"61850cce61199b57f34ec81d76ba4fcc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404561261,
-    "wof:lastmodified":1577827751,
+    "wof:lastmodified":1695878201,
     "wof:name":"Imbituva",
     "wof:parent_id":102057733,
     "wof:placetype":"localadmin",

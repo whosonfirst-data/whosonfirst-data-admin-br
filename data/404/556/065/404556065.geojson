@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090245,
-    "geom:area_square_m":1058516480.143797,
+    "geom:area_square_m":1058516484.617709,
     "geom:bbox":"-47.359963,-18.68559,-47.00007,-18.150775",
     "geom:latitude":-18.454383,
     "geom:longitude":-47.193651,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.506225,
     "lbl:longitude":-47.211369,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0648\u0645\u0627\u0646\u062f\u064a\u0644"
@@ -103,9 +112,12 @@
         102053725
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311930205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"09cd9d8926854db5251a500aa546d081",
+    "wof:geomhash":"1020f8302e2300ff12951f0b16e3cbff",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404556065,
-    "wof:lastmodified":1636496411,
+    "wof:lastmodified":1695878854,
     "wof:name":"Coromandel",
     "wof:parent_id":102053725,
     "wof:placetype":"localadmin",

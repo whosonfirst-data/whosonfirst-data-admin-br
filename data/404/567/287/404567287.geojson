@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001198,
-    "geom:area_square_m":13590473.922115,
+    "geom:area_square_m":13590473.922112,
     "geom:bbox":"-46.677369,-23.483738,-46.645967643,-23.41544",
     "geom:latitude":-23.454395,
     "geom:longitude":-46.66203,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.45461,
     "lbl:longitude":-46.663107,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0634\u0648\u064a\u0631\u064a\u0646\u0647\u0627"
@@ -82,9 +91,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030813"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0b9566b754be09d156a82856f4793d09",
+    "wof:geomhash":"29f89e078c2ca09041abd4bf5958e34b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404567287,
-    "wof:lastmodified":1577832819,
+    "wof:lastmodified":1695878418,
     "wof:name":"Cachoeirinha",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

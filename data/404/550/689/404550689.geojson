@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022344,
-    "geom:area_square_m":266082963.915333,
+    "geom:area_square_m":266082964.331103,
     "geom:bbox":"-39.161088,-15.697034,-38.927449,-15.527984",
     "geom:latitude":-15.621179,
     "geom:longitude":-39.024597,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.614529,
     "lbl:longitude":-39.003378,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u0627\u0641\u064a\u0631\u0633"
@@ -124,9 +133,12 @@
         102050635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290630305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4eb5efb0a223aceba228677756c7929f",
+    "wof:geomhash":"041936527f1dd9c52c1b9a61baaae681",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":404550689,
-    "wof:lastmodified":1636496436,
+    "wof:lastmodified":1695878863,
     "wof:name":"Canavieiras",
     "wof:parent_id":102050635,
     "wof:placetype":"localadmin",

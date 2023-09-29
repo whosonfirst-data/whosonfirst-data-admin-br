@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007951,
-    "geom:area_square_m":98293586.056698,
+    "geom:area_square_m":98293586.056704,
     "geom:bbox":"-48.2342083322,-1.15984926149,-48.1108062996,-1.01544778685",
     "geom:latitude":-1.092789,
     "geom:longitude":-48.167061,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-1.065934,
     "lbl:longitude":-48.146784,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055919
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150700310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"db3900d9b4659a8713f74c4c962d3265",
+    "wof:geomhash":"27e18fa7c5a32a18792656002df4dae7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559767,
-    "wof:lastmodified":1577825699,
+    "wof:lastmodified":1695878171,
     "wof:name":"Esp\u00edrito Santo Do Tau\u00e1",
     "wof:parent_id":102055919,
     "wof:placetype":"localadmin",

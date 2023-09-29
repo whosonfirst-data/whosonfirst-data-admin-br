@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007884,
-    "geom:area_square_m":89169560.451831,
+    "geom:area_square_m":89169560.451822,
     "geom:bbox":"-51.4232903019,-23.8995447215,-51.2602956263,-23.7872489422",
     "geom:latitude":-23.840412,
     "geom:longitude":-51.329967,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.830473,
     "lbl:longitude":-51.328719,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057869
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411490625"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"43ea54db041d50e737959b6ee5a2957b",
+    "wof:geomhash":"a071d3009f54254d1271f271578a714c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561453,
-    "wof:lastmodified":1577827781,
+    "wof:lastmodified":1695878215,
     "wof:name":"Nova Amoreira",
     "wof:parent_id":102057869,
     "wof:placetype":"localadmin",

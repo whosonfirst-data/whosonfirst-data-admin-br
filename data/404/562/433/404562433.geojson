@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009577,
-    "geom:area_square_m":109593003.58715,
+    "geom:area_square_m":109593003.587135,
     "geom:bbox":"-43.1094549723,-22.327080921,-42.9779813761,-22.2025197311",
     "geom:latitude":-22.264371,
     "geom:longitude":-43.044876,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.259487,
     "lbl:longitude":-43.045868,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Posse"
@@ -67,9 +76,12 @@
         102058427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330390623"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9fd5ad6c0e9155bc64eeb7beb97c2bd4",
+    "wof:geomhash":"9d0a5073861cc300ce02fbcef05142f7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404562433,
-    "wof:lastmodified":1577832897,
+    "wof:lastmodified":1695878448,
     "wof:name":"Posse",
     "wof:parent_id":102058427,
     "wof:placetype":"localadmin",

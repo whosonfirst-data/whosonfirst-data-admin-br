@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008319,
-    "geom:area_square_m":90052282.262073,
+    "geom:area_square_m":90052282.262068,
     "geom:bbox":"-51.9445512432,-28.9481416224,-51.7787197493,-28.8755133289",
     "geom:latitude":-28.90656,
     "geom:longitude":-51.867245,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.904826,
     "lbl:longitude":-51.885401,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Colombo"
@@ -364,9 +373,12 @@
         102059461
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430940707"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6d39cf11bc3157ece7d7012a54c52755",
+    "wof:geomhash":"ff710ce152816e9e6da5d004b10fbf0f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -378,7 +390,7 @@
         }
     ],
     "wof:id":404563705,
-    "wof:lastmodified":1577827816,
+    "wof:lastmodified":1695878230,
     "wof:name":"Colombo",
     "wof:parent_id":102059461,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066654,
-    "geom:area_square_m":816958296.702004,
+    "geom:area_square_m":816958296.701983,
     "geom:bbox":"-42.4889777295,-7.75715295216,-42.1703802056,-7.4315436989",
     "geom:latitude":-7.596752,
     "geom:longitude":-42.332665,
@@ -32,7 +32,7 @@
     "mps:latitude":-7.618731,
     "mps:longitude":-42.383479,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09ae\u09bf\u0997\u09c1\u09f1\u09c7\u09b2 \u09a1\u09cb \u09ab\u09bf\u09a1\u09be\u09b2\u0997\u09cb"
@@ -87,9 +87,12 @@
         1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2210391"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f7b85832e31f0c72294831b78d5703e5",
+    "wof:geomhash":"ed1060183a9628d71c7dd8361dcaef24",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":102057357,
-    "wof:lastmodified":1577836966,
+    "wof:lastmodified":1695887094,
     "wof:name":"Sao Miguel do Fidalgo",
     "wof:parent_id":85681977,
     "wof:placetype":"county",

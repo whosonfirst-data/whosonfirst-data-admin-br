@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083591,
-    "geom:area_square_m":993694388.63958,
+    "geom:area_square_m":993694388.639558,
     "geom:bbox":"-51.8763275285,-16.1892123023,-51.4740986163,-15.6724817812",
     "geom:latitude":-15.975818,
     "geom:longitude":-51.687942,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.969446,
     "lbl:longitude":-51.721143,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102052409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"521370726"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3df10d09ac3a22362362c8d051a1c78f",
+    "wof:geomhash":"f7e4e68bb09147ec845a6bdd2e8808ef",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554875,
-    "wof:lastmodified":1577836148,
+    "wof:lastmodified":1695878643,
     "wof:name":"Ponte Alta Do Araguaia",
     "wof:parent_id":102052409,
     "wof:placetype":"localadmin",

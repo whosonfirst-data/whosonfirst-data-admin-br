@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014825,
-    "geom:area_square_m":172655110.167758,
+    "geom:area_square_m":172655110.167722,
     "geom:bbox":"-43.63375,-19.764137,-43.526919,-19.483553",
     "geom:latitude":-19.635339,
     "geom:longitude":-43.57204,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.675561,
     "lbl:longitude":-43.581749,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nova Uni\u00e3o"
@@ -60,19 +69,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054189,
         1511777411,
-        85681941
+        102054189
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313660305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054189
     ],
     "wof:country":"BR",
-    "wof:geomhash":"56ac63bba4340f22c5f1b163f38deaf9",
+    "wof:geomhash":"80ff96d50ebb8e91248317dffb6080eb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404556943,
-    "wof:lastmodified":1608029662,
+    "wof:lastmodified":1695878770,
     "wof:name":"Nova Uni\u00e3o",
     "wof:parent_id":102054189,
     "wof:placetype":"localadmin",

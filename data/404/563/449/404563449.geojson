@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000347,
-    "geom:area_square_m":3681465.401745,
+    "geom:area_square_m":3681465.401743,
     "geom:bbox":"-52.062019,-31.011196,-52.031833,-30.99093",
     "geom:latitude":-31.000703,
     "geom:longitude":-52.047206,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-31.000283,
     "lbl:longitude":-52.046977,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cristal"
@@ -60,19 +69,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682015,
         102191577,
         85633009,
-        102059313,
         1511777409,
-        85682015
+        102059313
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430605605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101959709
     ],
     "wof:country":"BR",
-    "wof:geomhash":"d001c69108a7924f0b25bb91c15eae3c",
+    "wof:geomhash":"4441e51fae630128b9b6d5938237996b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404563449,
-    "wof:lastmodified":1608022178,
+    "wof:lastmodified":1695878751,
     "wof:name":"Cristal",
     "wof:parent_id":102059313,
     "wof:placetype":"localadmin",

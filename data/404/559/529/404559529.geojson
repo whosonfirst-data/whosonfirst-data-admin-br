@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006907,
-    "geom:area_square_m":85385496.060251,
+    "geom:area_square_m":85385496.060211,
     "geom:bbox":"-48.2936242263,-1.47053962243,-48.2074099995,-1.2550451728",
     "geom:latitude":-1.379934,
     "geom:longitude":-48.251603,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-1.415896,
     "lbl:longitude":-48.261699,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Benevides"
@@ -43,9 +52,12 @@
         102055709
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150150105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4fb72050fcf0beac6d3e3d40ce25e1f6",
+    "wof:geomhash":"d0f4c734eb02cc9e7dad82c7fdec182c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":404559529,
-    "wof:lastmodified":1577825678,
+    "wof:lastmodified":1695878160,
     "wof:name":"Benevides",
     "wof:parent_id":102055709,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002154,
-    "geom:area_square_m":24782428.484132,
+    "geom:area_square_m":24782428.484122,
     "geom:bbox":"-50.4675409404,-21.5525466449,-50.3845336686,-21.4883570218",
     "geom:latitude":-21.514284,
     "geom:longitude":-50.424592,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.509631,
     "lbl:longitude":-50.442531,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351190410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"46c7f25c08967659693f798aca93e0d2",
+    "wof:geomhash":"de8e03800fd693984ffd2112f9654084",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566333,
-    "wof:lastmodified":1577832600,
+    "wof:lastmodified":1695878337,
     "wof:name":"Lauro Penteado",
     "wof:parent_id":102061291,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00719,
-    "geom:area_square_m":81808313.51399,
+    "geom:area_square_m":81808313.513958,
     "geom:bbox":"-47.0415769539,-23.1157150358,-46.9034346912,-23.006114758",
     "geom:latitude":-23.046694,
     "geom:longitude":-46.979218,
@@ -29,7 +29,7 @@
     "mps:latitude":-23.045429,
     "mps:longitude":-46.989624,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09bf\u09a8\u09b9\u09c7\u09a1\u09cb"
@@ -114,9 +114,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3556701"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3a7f0b725b649e1251d303e552fb3837",
+    "wof:geomhash":"c9b9f077c68d0122a09aed8ea63ac161",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":102062423,
-    "wof:lastmodified":1577831941,
+    "wof:lastmodified":1695887069,
     "wof:name":"Vinhedo",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

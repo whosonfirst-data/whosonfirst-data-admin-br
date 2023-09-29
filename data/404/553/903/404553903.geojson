@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003699,
-    "geom:area_square_m":45638183.951439,
+    "geom:area_square_m":45638183.951426,
     "geom:bbox":"-40.4226423524,-3.83749641683,-40.3550265956,-3.72968309473",
     "geom:latitude":-3.777163,
     "geom:longitude":-40.386725,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.777156,
     "lbl:longitude":-40.387245,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09a8\u09ab\u09bf\u09ae"
@@ -79,9 +88,12 @@
         102051775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231290815"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7c490bc4033a4e1145a030d72013cc9d",
+    "wof:geomhash":"1de754a5b2bb8dd97704f87434dc8d6b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404553903,
-    "wof:lastmodified":1577837819,
+    "wof:lastmodified":1695878706,
     "wof:name":"Bonfim",
     "wof:parent_id":102051775,
     "wof:placetype":"localadmin",

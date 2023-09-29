@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04578,
-    "geom:area_square_m":526291008.855662,
+    "geom:area_square_m":526291008.855712,
     "geom:bbox":"-48.6300739099,-21.7237895518,-48.2595165503,-21.5126940413",
     "geom:latitude":-21.610123,
     "geom:longitude":-48.430102,
@@ -32,7 +32,7 @@
     "mps:latitude":-21.627451,
     "mps:longitude":-48.417351,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u099f\u09be\u0993"
@@ -96,9 +96,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3529302"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"92eb3836c4192554491438b4c676c7b0",
+    "wof:geomhash":"b55454cfdca8a7351c8f7758bc133485",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":102061731,
-    "wof:lastmodified":1577832008,
+    "wof:lastmodified":1695887072,
     "wof:name":"Matao",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061632,
-    "geom:area_square_m":760277483.465474,
+    "geom:area_square_m":760277483.465463,
     "geom:bbox":"-40.7136503419,-4.09169269688,-40.3610832254,-3.80664004472",
     "geom:latitude":-3.951674,
     "geom:longitude":-40.522471,
@@ -35,7 +35,7 @@
     "mps:latitude":-3.950052,
     "mps:longitude":-40.5225,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09bf\u09b0\u09be"
@@ -114,9 +114,12 @@
         1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2303105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"82964ca6beb18f6aabea02018d4186f4",
+    "wof:geomhash":"ac86672647f40c34ab5f97fbebc5c918",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":102051483,
-    "wof:lastmodified":1577837437,
+    "wof:lastmodified":1695887118,
     "wof:name":"Carire",
     "wof:parent_id":85681907,
     "wof:placetype":"county",

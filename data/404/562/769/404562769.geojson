@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013312,
-    "geom:area_square_m":161284458.240597,
+    "geom:area_square_m":161284458.240636,
     "geom:bbox":"-61.2117218895,-11.6184616187,-61.0396621645,-11.4226986793",
     "geom:latitude":-11.52621,
     "geom:longitude":-61.114888,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.539078,
     "lbl:longitude":-61.123405,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Nova Esperan\u00e7a"
@@ -40,9 +49,12 @@
         102058905
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"110009818"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a6f15a809b24708f7515c7c9074eb608",
+    "wof:geomhash":"75c5d0b4ac716a110bbccfa99bac0007",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404562769,
-    "wof:lastmodified":1577825644,
+    "wof:lastmodified":1695878145,
     "wof:name":"Nova Esperan\u00e7a",
     "wof:parent_id":102058905,
     "wof:placetype":"localadmin",

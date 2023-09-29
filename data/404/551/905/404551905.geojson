@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095774,
-    "geom:area_square_m":1153240719.49393,
+    "geom:area_square_m":1153240131.644847,
     "geom:bbox":"-44.115243,-13.320407,-43.634632,-12.995789",
     "geom:latitude":-13.144675,
     "geom:longitude":-43.906623,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.150444,
     "lbl:longitude":-43.925788,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e8\u05d8\u05d5 \u05e0\u05d5\u05d1\u05d5"
@@ -40,9 +49,12 @@
         102051237
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292820810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"84b9f670761d70fcc06055c83fb7d134",
+    "wof:geomhash":"f9e2db967047bf22137afc6cbe9751bd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404551905,
-    "wof:lastmodified":1642551709,
+    "wof:lastmodified":1695878868,
     "wof:name":"Porto Novo",
     "wof:parent_id":102051237,
     "wof:placetype":"localadmin",

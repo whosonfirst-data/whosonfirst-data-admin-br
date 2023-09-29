@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008141,
-    "geom:area_square_m":97644166.101518,
+    "geom:area_square_m":97644166.10142,
     "geom:bbox":"-39.686619602,-14.1486418544,-39.584266439,-14.012187707",
     "geom:latitude":-14.071688,
     "geom:longitude":-39.635767,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.066537,
     "lbl:longitude":-39.636509,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09bf\u09b0\u09be\u099f\u09be\u0987\u09af\u09bc\u09be"
@@ -94,9 +103,12 @@
         102050813
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291290505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"aceda44a562b2c457be77091727390fa",
+    "wof:geomhash":"258a0a81bd61e7965893b500f3cf5d7c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404551057,
-    "wof:lastmodified":1577837639,
+    "wof:lastmodified":1695878662,
     "wof:name":"Ibirataia",
     "wof:parent_id":102050813,
     "wof:placetype":"localadmin",

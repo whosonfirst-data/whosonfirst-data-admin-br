@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027422,
-    "geom:area_square_m":318464702.433908,
+    "geom:area_square_m":318464702.43383,
     "geom:bbox":"-48.743877,-20.167286,-48.5285,-19.973592",
     "geom:latitude":-20.081251,
     "geom:longitude":-48.646263,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.096659,
     "lbl:longitude":-48.654991,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09b2\u09be\u09a8\u09c1\u09b0\u09be"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054605,
         1511777411,
-        85681941
+        102054605
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315160205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054605
     ],
     "wof:country":"BR",
-    "wof:geomhash":"6486b2643356a41cd8aff8c80c27a5c3",
+    "wof:geomhash":"e21a62ac5a1dd64e5d5b5d52a7ec723c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404557743,
-    "wof:lastmodified":1608032030,
+    "wof:lastmodified":1695878803,
     "wof:name":"Planura",
     "wof:parent_id":102054605,
     "wof:placetype":"localadmin",

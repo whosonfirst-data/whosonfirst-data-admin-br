@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011033,
-    "geom:area_square_m":135514581.001378,
+    "geom:area_square_m":135514581.001421,
     "geom:bbox":"-39.7394944018,-6.73916151077,-39.5253766525,-6.57275027406",
     "geom:latitude":-6.638357,
     "geom:longitude":-39.620675,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.639596,
     "lbl:longitude":-39.622219,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "S\u00e3o Sebasti\u00e3o"
@@ -91,9 +100,12 @@
         102051487
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230330320"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a938885840c621fa51973c1724786549",
+    "wof:geomhash":"09e6f669104d2731c0d1b9331d9c6347",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404552643,
-    "wof:lastmodified":1577837939,
+    "wof:lastmodified":1695878736,
     "wof:name":"S\u00e3o Sebasti\u00e3o",
     "wof:parent_id":102051487,
     "wof:placetype":"localadmin",

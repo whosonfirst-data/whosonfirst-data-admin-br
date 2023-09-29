@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077451,
-    "geom:area_square_m":942611060.242841,
+    "geom:area_square_m":942611060.242911,
     "geom:bbox":"-48.7001582101,-10.3663144207,-48.3659967903,-10.017228474",
     "geom:latitude":-10.184304,
     "geom:longitude":-48.524534,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.182687,
     "lbl:longitude":-48.537972,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102062675
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"171820425"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"95a27b1a0f5f3bdf97cdb72e3b21a86e",
+    "wof:geomhash":"6df0245d0cd274ed1e2c1ca7da7ce409",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404567673,
-    "wof:lastmodified":1577825664,
+    "wof:lastmodified":1695878153,
     "wof:name":"Luzimangues",
     "wof:parent_id":102062675,
     "wof:placetype":"localadmin",

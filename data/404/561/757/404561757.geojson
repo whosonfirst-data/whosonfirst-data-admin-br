@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019585,
-    "geom:area_square_m":222271121.671266,
+    "geom:area_square_m":222271121.671241,
     "geom:bbox":"-50.5070617443,-23.482191618,-50.2989539857,-23.2487036637",
     "geom:latitude":-23.393468,
     "geom:longitude":-50.390818,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.408565,
     "lbl:longitude":-50.389256,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058089
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412190105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"68390260126d24941d054566aa0bbd85",
+    "wof:geomhash":"a1f38bf02b5b13c405b4db70386940c0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561757,
-    "wof:lastmodified":1577827941,
+    "wof:lastmodified":1695878289,
     "wof:name":"Ribeir\u00e3o Do Pinhal",
     "wof:parent_id":102058089,
     "wof:placetype":"localadmin",

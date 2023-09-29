@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027694,
-    "geom:area_square_m":335773034.305899,
+    "geom:area_square_m":335773034.305952,
     "geom:bbox":"-40.070204,-11.439154,-39.866109,-11.158199",
     "geom:latitude":-11.327452,
     "geom:longitude":-39.977302,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.331118,
     "lbl:longitude":-39.970358,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09aa\u09bf\u09ae \u0997\u09cd\u09b0\u09cb\u09b8\u09b8\u09cb"
@@ -91,12 +100,15 @@
         102050653
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290687305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050653
     ],
     "wof:country":"BR",
-    "wof:geomhash":"2df41b9d7e41a7dd3b3bbc5780dac2f5",
+    "wof:geomhash":"7b1631861ff63d99a4c5768846e48ed7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404550735,
-    "wof:lastmodified":1617131468,
+    "wof:lastmodified":1695878851,
     "wof:name":"Capim Grosso",
     "wof:parent_id":102050653,
     "wof:placetype":"localadmin",

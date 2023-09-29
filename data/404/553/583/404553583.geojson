@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00901,
-    "geom:area_square_m":110773817.157723,
+    "geom:area_square_m":110773817.157713,
     "geom:bbox":"-40.7588193366,-6.1496273343,-40.5724073629,-6.0463625142",
     "geom:latitude":-6.102874,
     "geom:longitude":-40.670787,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.105362,
     "lbl:longitude":-40.672216,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gavi\u00e3o"
@@ -70,9 +79,12 @@
         102051703
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231030812"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"718d7ffd7a24e6440fafa57205683a43",
+    "wof:geomhash":"698f6a156f35cf47cd79af3d8c7e96e5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404553583,
-    "wof:lastmodified":1577837837,
+    "wof:lastmodified":1695878710,
     "wof:name":"Gavi\u00e3o",
     "wof:parent_id":102051703,
     "wof:placetype":"localadmin",

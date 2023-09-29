@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.281703,
-    "geom:area_square_m":3362297147.296568,
+    "geom:area_square_m":3362297147.29732,
     "geom:bbox":"-46.536547,-15.441691,-45.593695,-14.703026",
     "geom:latitude":-15.145926,
     "geom:longitude":-46.126976,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.103301,
     "lbl:longitude":-46.237385,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09cb\u09b0\u09cd\u09ae\u09cb\u09b8\u09cb"
@@ -91,12 +100,15 @@
         102053905
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312620805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053905
     ],
     "wof:country":"BR",
-    "wof:geomhash":"c14566c7b8f2f1d46813d547a4563bc5",
+    "wof:geomhash":"4aff03e7397682ed62c79d46e3136060",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404556409,
-    "wof:lastmodified":1617131337,
+    "wof:lastmodified":1695878846,
     "wof:name":"Formoso",
     "wof:parent_id":102053905,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062702,
-    "geom:area_square_m":676713200.973002,
+    "geom:area_square_m":676713200.973011,
     "geom:bbox":"-54.7406993019,-29.3650376157,-54.3667355309,-29.0367016192",
     "geom:latitude":-29.212706,
     "geom:longitude":-54.574958,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.233542,
     "lbl:longitude":-54.59339,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Florida"
@@ -547,9 +556,12 @@
         102059873
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431740020"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"071a08e306bb35a5e9456e912a7ccb16",
+    "wof:geomhash":"eca0cdb26b900cfba28979721847dcb9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -561,7 +573,7 @@
         }
     ],
     "wof:id":404564467,
-    "wof:lastmodified":1577827774,
+    "wof:lastmodified":1695878212,
     "wof:name":"Florida",
     "wof:parent_id":102059873,
     "wof:placetype":"localadmin",

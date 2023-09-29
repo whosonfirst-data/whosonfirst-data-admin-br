@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010173,
-    "geom:area_square_m":113480309.410693,
+    "geom:area_square_m":113480309.410683,
     "geom:bbox":"-52.6814280798,-25.6576879004,-52.4889227381,-25.4750969299",
     "geom:latitude":-25.554277,
     "geom:longitude":-52.58432,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.514194,
     "lbl:longitude":-52.545753,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412215605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"895785fad1750ca48b4dc30fdd894bd5",
+    "wof:geomhash":"b8eaef5547c6a1bef7424b31e9e960d7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561767,
-    "wof:lastmodified":1577827826,
+    "wof:lastmodified":1695878234,
     "wof:name":"Rio Bonito Do Igua\u00e7u",
     "wof:parent_id":102058095,
     "wof:placetype":"localadmin",

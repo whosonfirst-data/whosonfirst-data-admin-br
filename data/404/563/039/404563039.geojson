@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003475,
-    "geom:area_square_m":37441339.117642,
+    "geom:area_square_m":37441339.117638,
     "geom:bbox":"-51.5352536247,-29.4123096785,-51.4578082297,-29.3513002445",
     "geom:latitude":-29.37657,
     "geom:longitude":-51.500318,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.377674,
     "lbl:longitude":-51.501051,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bar\u00e3o"
@@ -82,9 +91,12 @@
         102059107
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430165105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2805ed5c9fe528a422034718275f6a47",
+    "wof:geomhash":"23caf310d023ed93c810926c6f9734f5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404563039,
-    "wof:lastmodified":1577827891,
+    "wof:lastmodified":1695878267,
     "wof:name":"Bar\u00e3o",
     "wof:parent_id":102059107,
     "wof:placetype":"localadmin",

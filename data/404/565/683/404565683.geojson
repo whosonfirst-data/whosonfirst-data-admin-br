@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008569,
-    "geom:area_square_m":94359684.259254,
+    "geom:area_square_m":94359684.259246,
     "geom:bbox":"-53.2350441826,-27.1166035637,-53.0749419997,-27.0125215295",
     "geom:latitude":-27.064209,
     "geom:longitude":-53.153952,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.065898,
     "lbl:longitude":-53.159396,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b2\u09ae\u09bf\u099f\u09cb\u09b8"
@@ -88,9 +97,12 @@
         102060599
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421210605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"554d6cfd6081d7ec6beae48cff6a8d67",
+    "wof:geomhash":"d84ee9a1c50ea5e2a7f96fd7dca758df",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404565683,
-    "wof:lastmodified":1577827957,
+    "wof:lastmodified":1695878297,
     "wof:name":"Palmitos",
     "wof:parent_id":102060599,
     "wof:placetype":"localadmin",

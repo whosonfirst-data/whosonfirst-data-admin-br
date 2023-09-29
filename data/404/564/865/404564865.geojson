@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004062,
-    "geom:area_square_m":43612456.266955,
+    "geom:area_square_m":43612456.266943,
     "geom:bbox":"-50.8706960732,-29.7945107748,-50.7935872245,-29.6906823545",
     "geom:latitude":-29.741238,
     "geom:longitude":-50.832004,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.743318,
     "lbl:longitude":-50.826183,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060029
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432120420"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"52e992a99eb1295c2cc0364009245512",
+    "wof:geomhash":"db5dffd7c5237d2f9e18e998f0a2fdc8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564865,
-    "wof:lastmodified":1577827972,
+    "wof:lastmodified":1695878304,
     "wof:name":"Santa Cruz Da Conc\u00f3rdia",
     "wof:parent_id":102060029,
     "wof:placetype":"localadmin",

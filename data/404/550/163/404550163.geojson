@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020165,
-    "geom:area_square_m":245949405.534196,
+    "geom:area_square_m":245949405.534178,
     "geom:bbox":"-36.1000793239,-9.57558380309,-35.9287746329,-9.37454945077",
     "geom:latitude":-9.470755,
     "geom:longitude":-36.003839,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.470753,
     "lbl:longitude":-36.002214,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Atalaia"
@@ -70,9 +79,12 @@
         102050065
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"270040905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"311c67d1d07caa484efb8b16c89e7b70",
+    "wof:geomhash":"a8b592e3ea10b1ea863354d9b3f79b86",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404550163,
-    "wof:lastmodified":1577837878,
+    "wof:lastmodified":1695878719,
     "wof:name":"Atalaia",
     "wof:parent_id":102050065,
     "wof:placetype":"localadmin",

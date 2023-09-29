@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03731,
-    "geom:area_square_m":461259799.530138,
+    "geom:area_square_m":461259799.530129,
     "geom:bbox":"-48.586626133,-1.24335577751,-48.2961242133,-1.01942673389",
     "geom:latitude":-1.124616,
     "geom:longitude":-48.423443,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-1.114687,
     "lbl:longitude":-48.421242,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Mosqueiro"
@@ -40,9 +49,12 @@
         102055703
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150140265"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dd68eae4ec2a8f58b7c83cfb5885caea",
+    "wof:geomhash":"e7c30c6fa6c5d894e77e76ed96cdd4d8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404559523,
-    "wof:lastmodified":1577825644,
+    "wof:lastmodified":1695878144,
     "wof:name":"Mosqueiro",
     "wof:parent_id":102055703,
     "wof:placetype":"localadmin",

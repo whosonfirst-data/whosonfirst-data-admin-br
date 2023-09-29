@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027368,
-    "geom:area_square_m":330958239.153693,
+    "geom:area_square_m":330958239.153919,
     "geom:bbox":"-38.617924,-12.191085,-38.423335,-11.936046",
     "geom:latitude":-12.044098,
     "geom:longitude":-38.524393,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.04924,
     "lbl:longitude":-38.514802,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102050521
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290220305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050521
     ],
     "wof:country":"BR",
-    "wof:geomhash":"b28d43b89ba2cbcedf39225e84942da9",
+    "wof:geomhash":"9211b576c129ba3ee27800c56f63d39c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404550473,
-    "wof:lastmodified":1617130291,
+    "wof:lastmodified":1695878833,
     "wof:name":"Aramari",
     "wof:parent_id":102050521,
     "wof:placetype":"localadmin",

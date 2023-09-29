@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180395,
-    "geom:area_square_m":2149039932.817327,
+    "geom:area_square_m":2149039932.817102,
     "geom:bbox":"-53.6356366586,-15.7444025453,-52.7048016573,-15.3214971065",
     "geom:latitude":-15.543199,
     "geom:longitude":-53.1448,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.541742,
     "lbl:longitude":-53.215108,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c7\u09a8\u09c7\u09b0\u09cd\u0986\u09b2 \u0995\u09be\u09b0\u09cd\u09a8\u09c7\u0987\u09b0\u09cb"
@@ -79,9 +88,12 @@
         102055447
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510390805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"efe8a1afca9ff9db21ab4b00d01da27c",
+    "wof:geomhash":"c359813c37333c9858e0bd00ee44c1ae",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404559199,
-    "wof:lastmodified":1577836097,
+    "wof:lastmodified":1695878631,
     "wof:name":"General Carneiro",
     "wof:parent_id":102055447,
     "wof:placetype":"localadmin",

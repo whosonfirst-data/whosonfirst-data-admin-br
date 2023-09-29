@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004975,
-    "geom:area_square_m":60982983.10662,
+    "geom:area_square_m":60982983.106615,
     "geom:bbox":"-35.5378966553,-7.61635106105,-35.4501490779,-7.51251104766",
     "geom:latitude":-7.574209,
     "geom:longitude":-35.492692,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.586092,
     "lbl:longitude":-35.486036,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "S\u00e3o Vicente Ferrer"
@@ -64,9 +73,12 @@
         102056837
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261380005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"428ea5e40e37813828529bb217d6cb6d",
+    "wof:geomhash":"5c77a35b68e65aaf81a2a960d4588c69",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":404560695,
-    "wof:lastmodified":1577837857,
+    "wof:lastmodified":1695878715,
     "wof:name":"S\u00e3o Vicente Ferrer",
     "wof:parent_id":102056837,
     "wof:placetype":"localadmin",

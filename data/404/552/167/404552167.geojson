@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030739,
-    "geom:area_square_m":371700153.38384,
+    "geom:area_square_m":371700153.383835,
     "geom:bbox":"-41.1243606629,-12.1549167524,-40.873593212,-11.9745324961",
     "geom:latitude":-12.061779,
     "geom:longitude":-40.988182,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.057229,
     "lbl:longitude":-40.985781,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0989\u099f\u09bf\u0999\u09cd\u0997\u09be"
@@ -94,9 +103,12 @@
         102051371
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"293280405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4fbab6e1dc9868d4a029dfa95fc94bdd",
+    "wof:geomhash":"8d8960490abbe8cf8f9c47f5982bbbe3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404552167,
-    "wof:lastmodified":1577837908,
+    "wof:lastmodified":1695878727,
     "wof:name":"Utinga",
     "wof:parent_id":102051371,
     "wof:placetype":"localadmin",

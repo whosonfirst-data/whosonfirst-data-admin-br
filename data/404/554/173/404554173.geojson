@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009393,
-    "geom:area_square_m":108644398.885808,
+    "geom:area_square_m":108644398.88581,
     "geom:bbox":"-40.8435990038,-20.7435064127,-40.6610982088,-20.6572931881",
     "geom:latitude":-20.706843,
     "geom:longitude":-40.735533,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.701612,
     "lbl:longitude":-40.728148,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320040910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"91908fd71122c2ed6c36bf3a716e7ea4",
+    "wof:geomhash":"0e340e7572dd135682dfd340fd06eb90",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554173,
-    "wof:lastmodified":1577832707,
+    "wof:lastmodified":1695878376,
     "wof:name":"Alto Pongal",
     "wof:parent_id":102051831,
     "wof:placetype":"localadmin",

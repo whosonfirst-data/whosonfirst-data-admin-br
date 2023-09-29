@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.948353,
-    "geom:area_square_m":11723750096.881607,
+    "geom:area_square_m":11723750096.881325,
     "geom:bbox":"-58.898328,-2.212564,-56.59218,-0.005514",
     "geom:latitude":-1.150884,
     "geom:longitude":-57.815935,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-1.294771,
     "lbl:longitude":-57.702259,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Faro"
@@ -99,19 +108,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681959,
         102191577,
         85633009,
-        102055769,
         1511777407,
-        85681959
+        102055769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150300205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055769
     ],
     "wof:country":"BR",
-    "wof:geomhash":"03340a1858d76461c6587ea4e29c3123",
+    "wof:geomhash":"61d07dc7d4f1949dd055da4817b2c1bc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":404559615,
-    "wof:lastmodified":1608031283,
+    "wof:lastmodified":1695878788,
     "wof:name":"Faro",
     "wof:parent_id":102055769,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032541,
-    "geom:area_square_m":356242504.78248,
+    "geom:area_square_m":356242504.782496,
     "geom:bbox":"-51.2748718858,-27.808849638,-50.9509177755,-27.5922015709",
     "geom:latitude":-27.704494,
     "geom:longitude":-51.12314,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.71063,
     "lbl:longitude":-51.147776,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u043d\u0456\u0442\u0430 \u0413\u0430\u0440\u044b\u0431\u0430\u043b\u044c\u0434\u0437\u0456"
@@ -73,9 +82,12 @@
         102060215
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420100005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f1670d81adc5b4fb6515f89079317848",
+    "wof:geomhash":"d0fb59bb54612cd0f4f883fa8a0501c8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404565149,
-    "wof:lastmodified":1577827731,
+    "wof:lastmodified":1695878192,
     "wof:name":"Anita Garibaldi",
     "wof:parent_id":102060215,
     "wof:placetype":"localadmin",

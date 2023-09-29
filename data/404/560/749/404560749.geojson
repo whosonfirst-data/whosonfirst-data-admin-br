@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013569,
-    "geom:area_square_m":166204582.008247,
+    "geom:area_square_m":166204582.00821,
     "geom:bbox":"-35.8458525411,-7.9387393293,-35.68528538,-7.80341339383",
     "geom:latitude":-7.866652,
     "geom:longitude":-35.765289,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.869898,
     "lbl:longitude":-35.766824,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c1\u09b0\u09c1\u09ac\u09bf\u09ae"
@@ -82,9 +91,12 @@
         102056853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261450105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3be166898a11dbf8906b791a43f7060b",
+    "wof:geomhash":"b051f63e98a06cb833653b9dcb8d569f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404560749,
-    "wof:lastmodified":1577837934,
+    "wof:lastmodified":1695878735,
     "wof:name":"Surubim",
     "wof:parent_id":102056853,
     "wof:placetype":"localadmin",

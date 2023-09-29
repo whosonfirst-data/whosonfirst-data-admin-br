@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070307,
-    "geom:area_square_m":746724366.650212,
+    "geom:area_square_m":746724366.650266,
     "geom:bbox":"-55.3199102097,-31.0046151314,-55.0095073669,-30.564416947",
     "geom:latitude":-30.802751,
     "geom:longitude":-55.145666,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.817604,
     "lbl:longitude":-55.122161,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09bf\u0995\u09c1\u0987"
@@ -91,9 +100,12 @@
         102059863
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431710308"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"289ef0bbea6bef3dd2971d0e4a17f1d2",
+    "wof:geomhash":"07d1bd4bed0b5672c17741558bc81019",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404564435,
-    "wof:lastmodified":1577827870,
+    "wof:lastmodified":1695878257,
     "wof:name":"Ibicu\u00ed",
     "wof:parent_id":102059863,
     "wof:placetype":"localadmin",

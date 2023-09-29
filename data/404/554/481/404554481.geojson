@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009651,
-    "geom:area_square_m":111815899.417642,
+    "geom:area_square_m":111815824.542136,
     "geom:bbox":"-40.91245,-20.523136,-40.728799,-20.375341",
     "geom:latitude":-20.449329,
     "geom:longitude":-40.830606,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.418771,
     "lbl:longitude":-40.859744,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:hin_x_preferred":[
         "\u0905\u0930\u093e\u0917\u0941\u0906\u0907\u092f\u093e"
@@ -61,9 +70,12 @@
         102051919
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320334610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"80b241de8d73f7428544a211648e2c2e",
+    "wof:geomhash":"f9e9fe284396342a89f5046a93026fc1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404554481,
-    "wof:lastmodified":1636496460,
+    "wof:lastmodified":1695878868,
     "wof:name":"Araguaia",
     "wof:parent_id":102051919,
     "wof:placetype":"localadmin",

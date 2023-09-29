@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029609,
-    "geom:area_square_m":362298646.193468,
+    "geom:area_square_m":362298646.193469,
     "geom:bbox":"-36.0813719852,-8.39878197547,-35.8515568657,-8.17490559789",
     "geom:latitude":-8.287796,
     "geom:longitude":-35.976995,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.289725,
     "lbl:longitude":-35.996081,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0648\u0627\u0631\u0648"
@@ -136,9 +145,12 @@
         102056585
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260410605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"65c32bb7283834ee1b225141b4513821",
+    "wof:geomhash":"0d6244e16a22f76d4ed822c206a7cea9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":404560273,
-    "wof:lastmodified":1577837616,
+    "wof:lastmodified":1695878656,
     "wof:name":"Caruaru",
     "wof:parent_id":102056585,
     "wof:placetype":"localadmin",

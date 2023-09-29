@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027768,
-    "geom:area_square_m":314244603.393151,
+    "geom:area_square_m":314244603.393185,
     "geom:bbox":"-48.408572575,-23.8613848391,-48.1477544509,-23.6597064289",
     "geom:latitude":-23.765879,
     "geom:longitude":-48.268531,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.76416,
     "lbl:longitude":-48.235922,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0631\u062c\u064a\u0646\u0647\u0627"
@@ -115,9 +124,12 @@
         102061565
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352230735"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f57226e526e9b7b4dd7b99195397f155",
+    "wof:geomhash":"cf54590a9b71fdeee179b397ba26c11b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":404566561,
-    "wof:lastmodified":1577833049,
+    "wof:lastmodified":1695878498,
     "wof:name":"Varginha",
     "wof:parent_id":102061565,
     "wof:placetype":"localadmin",

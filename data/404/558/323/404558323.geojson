@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012381,
-    "geom:area_square_m":143515017.318672,
+    "geom:area_square_m":143515017.318596,
     "geom:bbox":"-42.206365,-20.4693429969,-42.088726,-20.2877369969",
     "geom:latitude":-20.369993,
     "geom:longitude":-42.153481,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.376606,
     "lbl:longitude":-42.152589,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054893
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316255905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"50d2cfbd684b89efecae47893b2317cc",
+    "wof:geomhash":"4f029f098c595065aa3a68500ea17185",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558323,
-    "wof:lastmodified":1577832832,
+    "wof:lastmodified":1695878423,
     "wof:name":"S\u00e3o Jo\u00e3o Do Manhua\u00e7u",
     "wof:parent_id":102054893,
     "wof:placetype":"localadmin",

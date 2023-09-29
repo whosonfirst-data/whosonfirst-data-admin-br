@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02709,
-    "geom:area_square_m":307652444.549864,
+    "geom:area_square_m":307652444.549808,
     "geom:bbox":"-51.5411199751,-23.3950482289,-51.2900103858,-23.193162876",
     "geom:latitude":-23.303063,
     "geom:longitude":-51.417276,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.304652,
     "lbl:longitude":-51.446705,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09cb\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
@@ -91,9 +100,12 @@
         102058105
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412240405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"309f504aa8cc095a87eb6633e84000ca",
+    "wof:geomhash":"4798bdb4f80b2d1f74238b86754e57a6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404561785,
-    "wof:lastmodified":1577827828,
+    "wof:lastmodified":1695878235,
     "wof:name":"Rol\u00e2ndia",
     "wof:parent_id":102058105,
     "wof:placetype":"localadmin",

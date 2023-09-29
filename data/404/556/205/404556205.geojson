@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011323,
-    "geom:area_square_m":131688202.419517,
+    "geom:area_square_m":131688202.419521,
     "geom:bbox":"-42.865829,-19.911453997,-42.665324,-19.796587997",
     "geom:latitude":-19.849638,
     "geom:longitude":-42.76775,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.831378,
     "lbl:longitude":-42.76623,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09bf\u0993\u09a8\u09bf\u09b8\u09bf\u0993"
@@ -103,9 +112,12 @@
         102053793
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312180305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9087556929dba8564d4ba16b626414ff",
+    "wof:geomhash":"fdbce9850992807c66a53bd0e2974868",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404556205,
-    "wof:lastmodified":1577832747,
+    "wof:lastmodified":1695878392,
     "wof:name":"Dion\u00edsio",
     "wof:parent_id":102053793,
     "wof:placetype":"localadmin",

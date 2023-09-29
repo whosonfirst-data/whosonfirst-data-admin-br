@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005283,
-    "geom:area_square_m":61568965.806247,
+    "geom:area_square_m":61568965.806263,
     "geom:bbox":"-44.525323,-19.556276,-44.40507,-19.470681",
     "geom:latitude":-19.516979,
     "geom:longitude":-44.472008,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.520983,
     "lbl:longitude":-44.472914,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053301,
         1511777411,
-        85681941
+        102053301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310960005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053301
     ],
     "wof:country":"BR",
-    "wof:geomhash":"e09ec546eef121409bd8b82653e18944",
+    "wof:geomhash":"c7b2d56c52dbab6878a4cc1f7b377546",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404555591,
-    "wof:lastmodified":1608032629,
+    "wof:lastmodified":1695878812,
     "wof:name":"Cachoeira Da Prata",
     "wof:parent_id":102053301,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012895,
-    "geom:area_square_m":146396352.692561,
+    "geom:area_square_m":146396352.692536,
     "geom:bbox":"-52.4211955144,-23.4137222118,-52.2189005758,-23.2674345679",
     "geom:latitude":-23.340218,
     "geom:longitude":-52.332586,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.345346,
     "lbl:longitude":-52.342598,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09cd\u09b2\u09cb\u09b0\u09be\u0987"
@@ -94,9 +103,12 @@
         102057659
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410780105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"217602e4adb0ba46de1c5eb732ab2c4d",
+    "wof:geomhash":"392e9003eac60f65262b5e0c32f500d3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404561157,
-    "wof:lastmodified":1577827730,
+    "wof:lastmodified":1695878191,
     "wof:name":"Flora\u00ed",
     "wof:parent_id":102057659,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006003,
-    "geom:area_square_m":73546905.516241,
+    "geom:area_square_m":73546905.516225,
     "geom:bbox":"-35.5860069758,-7.80756341799,-35.4191180717,-7.69271849209",
     "geom:latitude":-7.756307,
     "geom:longitude":-35.514927,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.774752,
     "lbl:longitude":-35.509239,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Bizzarra"
@@ -37,9 +46,12 @@
         102056539
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260220910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c8e6e50a8d3c1fb00d103604e4c1e969",
+    "wof:geomhash":"3aa6eeda512fb91259b4b6c0dcab3379",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404560211,
-    "wof:lastmodified":1577837914,
+    "wof:lastmodified":1695878729,
     "wof:name":"Bizarra",
     "wof:parent_id":102056539,
     "wof:placetype":"localadmin",

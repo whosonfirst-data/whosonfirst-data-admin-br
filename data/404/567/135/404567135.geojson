@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010254,
-    "geom:area_square_m":119015747.309017,
+    "geom:area_square_m":119015747.308988,
     "geom:bbox":"-51.05826349,-20.2520330353,-50.9183491919,-20.0963347821",
     "geom:latitude":-20.174336,
     "geom:longitude":-50.999524,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.176398,
     "lbl:longitude":-51.006414,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09c1\u09ac\u09bf\u09a8\u09c7\u0987\u09af\u09bc\u09be"
@@ -94,9 +103,12 @@
         102062113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354450905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8517149893456a8c57dc1946a6dd0b22",
+    "wof:geomhash":"8a0acd98878c264fd2a7f05bc42b1930",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404567135,
-    "wof:lastmodified":1577833357,
+    "wof:lastmodified":1695878591,
     "wof:name":"Rubin\u00e9ia",
     "wof:parent_id":102062113,
     "wof:placetype":"localadmin",

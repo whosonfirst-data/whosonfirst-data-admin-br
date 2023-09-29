@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017873,
-    "geom:area_square_m":195598110.689827,
+    "geom:area_square_m":195598110.689867,
     "geom:bbox":"-53.7802059452,-27.80684529,-53.5591716795,-27.6678912891",
     "geom:latitude":-27.741366,
     "geom:longitude":-53.662898,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.740935,
     "lbl:longitude":-53.672187,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b0\u09cb\u09a8\u09c7\u09b2 \u09ac\u09bf\u0995\u09be\u0995\u09cb"
@@ -97,9 +106,12 @@
         102059301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430590005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"921b62af9193bec01e9940ebf9ea8e00",
+    "wof:geomhash":"9e47d8751a135b7cbc3cab7dbe43f6c7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404563425,
-    "wof:lastmodified":1577827860,
+    "wof:lastmodified":1695878252,
     "wof:name":"Coronel Bicaco",
     "wof:parent_id":102059301,
     "wof:placetype":"localadmin",

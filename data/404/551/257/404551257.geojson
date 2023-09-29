@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034874,
-    "geom:area_square_m":418867403.462257,
+    "geom:area_square_m":418867403.46211,
     "geom:bbox":"-39.317555,-13.847682,-38.970484,-13.653163",
     "geom:latitude":-13.749513,
     "geom:longitude":-39.153564,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.743489,
     "lbl:longitude":-39.214027,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09c1\u09ac\u09c7\u09b0\u09be"
@@ -97,12 +106,15 @@
         102050921
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291730005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050921
     ],
     "wof:country":"BR",
-    "wof:geomhash":"496a4d9d8d2816d9097f0c0f2c32dbce",
+    "wof:geomhash":"293d810ec683481b4564ba44ba3e6027",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404551257,
-    "wof:lastmodified":1617130282,
+    "wof:lastmodified":1695878833,
     "wof:name":"Ituber\u00e1",
     "wof:parent_id":102050921,
     "wof:placetype":"localadmin",

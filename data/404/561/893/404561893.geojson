@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0399,
-    "geom:area_square_m":444762796.654787,
+    "geom:area_square_m":444762796.65489,
     "geom:bbox":"-50.4301325153,-25.7981521728,-50.0860384688,-25.5277752862",
     "geom:latitude":-25.647716,
     "geom:longitude":-50.244547,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.651707,
     "lbl:longitude":-50.227733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Palmira"
@@ -82,9 +91,12 @@
         102058179
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412510010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cae5025186d9d3a7e39ad70c1352b60d",
+    "wof:geomhash":"e66fc8ca1c2cc2f1628d1883500cceee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404561893,
-    "wof:lastmodified":1577827841,
+    "wof:lastmodified":1695878242,
     "wof:name":"Palmira",
     "wof:parent_id":102058179,
     "wof:placetype":"localadmin",

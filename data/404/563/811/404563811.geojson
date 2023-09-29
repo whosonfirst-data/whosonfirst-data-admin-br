@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018445,
-    "geom:area_square_m":198749614.422164,
+    "geom:area_square_m":198749614.422175,
     "geom:bbox":"-54.7070174384,-29.4336143909,-54.4793259025,-29.3100086666",
     "geom:latitude":-29.374474,
     "geom:longitude":-54.605185,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.384788,
     "lbl:longitude":-54.641354,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059537
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431110610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f378aa4f72f9b14dd1a911e5e74281b4",
+    "wof:geomhash":"013b640669701ee09576ac4a2d01abe5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404563811,
-    "wof:lastmodified":1577827956,
+    "wof:lastmodified":1695878296,
     "wof:name":"Ijucapirama",
     "wof:parent_id":102059537,
     "wof:placetype":"localadmin",

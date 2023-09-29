@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076459,
-    "geom:area_square_m":846950784.348367,
+    "geom:area_square_m":846950784.348372,
     "geom:bbox":"-51.2703625541,-26.5587639992,-50.7846423304,-26.2274237769",
     "geom:latitude":-26.383211,
     "geom:longitude":-51.007939,
@@ -32,7 +32,7 @@
     "mps:latitude":-26.320982,
     "mps:longitude":-51.024398,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09b0\u09cd\u099f\u09cb \u0987\u0989\u09a8\u09bf\u09af\u09bc\u09be\u0989"
@@ -87,9 +87,12 @@
         1511777409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"4213609"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1c265cab23f243c30d36e93b7921e5b8",
+    "wof:geomhash":"c7f4aac332c2d9e9c8b7130929f75b0a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":102060645,
-    "wof:lastmodified":1577827406,
+    "wof:lastmodified":1695886998,
     "wof:name":"Porto Uniao",
     "wof:parent_id":85682021,
     "wof:placetype":"county",

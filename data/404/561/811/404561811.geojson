@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009453,
-    "geom:area_square_m":107457802.357336,
+    "geom:area_square_m":107457802.357347,
     "geom:bbox":"-53.3502514671,-23.2431645379,-53.2379189143,-23.0932290936",
     "geom:latitude":-23.166322,
     "geom:longitude":-53.292875,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.160886,
     "lbl:longitude":-53.293708,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412370915"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"71bad3e89fbeb443ec8ca27941ad0399",
+    "wof:geomhash":"033b9d19812cd0ade49d2df12be37c60",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561811,
-    "wof:lastmodified":1577827961,
+    "wof:lastmodified":1695878299,
     "wof:name":"S\u00e3o Jos\u00e9 Do Iva\u00ed",
     "wof:parent_id":102058135,
     "wof:placetype":"localadmin",

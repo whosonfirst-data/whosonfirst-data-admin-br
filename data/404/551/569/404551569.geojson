@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117517,
-    "geom:area_square_m":1415268181.672514,
+    "geom:area_square_m":1415268181.672741,
     "geom:bbox":"-41.6491712877,-13.3224748804,-41.184752799,-12.880658744",
     "geom:latitude":-13.105685,
     "geom:longitude":-41.438684,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.105845,
     "lbl:longitude":-41.442163,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09c1\u0995\u09c1\u0997\u09c7"
@@ -97,9 +106,12 @@
         102051055
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292190605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"21e6c826b845540f599090a688e330d6",
+    "wof:geomhash":"4ee43bb9ae21f64c382aed9e63eed316",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404551569,
-    "wof:lastmodified":1577837746,
+    "wof:lastmodified":1695878688,
     "wof:name":"Mucug\u00ea",
     "wof:parent_id":102051055,
     "wof:placetype":"localadmin",

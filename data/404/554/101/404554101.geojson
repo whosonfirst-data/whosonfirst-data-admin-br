@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004226,
-    "geom:area_square_m":49079036.272712,
+    "geom:area_square_m":49079036.272728,
     "geom:bbox":"-41.0245141489,-20.1246284375,-40.9458804142,-20.0010088565",
     "geom:latitude":-20.075198,
     "geom:longitude":-40.984468,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.074532,
     "lbl:longitude":-40.98061,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320010228"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e0a7e07bb3a7fbac1fa3e6ede876c4f6",
+    "wof:geomhash":"1d501f611f52c545537c5024b3d61701",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554101,
-    "wof:lastmodified":1577833351,
+    "wof:lastmodified":1695878588,
     "wof:name":"Mata Fria",
     "wof:parent_id":102051817,
     "wof:placetype":"localadmin",

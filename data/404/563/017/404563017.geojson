@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026092,
-    "geom:area_square_m":283472287.662318,
+    "geom:area_square_m":283472287.662373,
     "geom:bbox":"-54.1311001145,-28.6411137195,-53.8795732954,-28.4089949809",
     "geom:latitude":-28.522837,
     "geom:longitude":-54.020912,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.52934,
     "lbl:longitude":-54.039936,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0994\u0997\u09c1\u09b8\u099f\u09cb \u09aa\u09c7\u09b8\u09cd\u099f\u09be\u09a8\u09be"
@@ -82,9 +91,12 @@
         102059099
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430150305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a1c0f379279f593da15bbb925b42fb7f",
+    "wof:geomhash":"3c4a0e2148ad6666deda18ff8ff3d9ed",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404563017,
-    "wof:lastmodified":1577827888,
+    "wof:lastmodified":1695878265,
     "wof:name":"Augusto Pestana",
     "wof:parent_id":102059099,
     "wof:placetype":"localadmin",

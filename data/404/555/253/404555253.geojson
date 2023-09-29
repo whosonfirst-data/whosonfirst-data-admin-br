@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05219,
-    "geom:area_square_m":608044705.819016,
+    "geom:area_square_m":608044705.819115,
     "geom:bbox":"-42.983985,-19.749733997,-42.6670388689,-19.407038997",
     "geom:latitude":-19.575466,
     "geom:longitude":-42.842424,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.544531,
     "lbl:longitude":-42.826843,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u09cd\u099f\u09cb\u09a8\u09bf\u0993 \u09a1\u09bf\u09af\u09bc\u09be\u09b8"
@@ -97,9 +106,12 @@
         102053441
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310300905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"595c6903c77c42dd8b8d66084fbf4d59",
+    "wof:geomhash":"a49aedc6a0a0a2a320365875e650714c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404555253,
-    "wof:lastmodified":1577832782,
+    "wof:lastmodified":1695878406,
     "wof:name":"Ant\u00f4nio Dias",
     "wof:parent_id":102053441,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013378,
-    "geom:area_square_m":154563502.401762,
+    "geom:area_square_m":154563502.401733,
     "geom:bbox":"-48.949086,-20.937697,-48.744476,-20.812841",
     "geom:latitude":-20.876622,
     "geom:longitude":-48.847947,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.871448,
     "lbl:longitude":-48.866504,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u099c\u09cb\u09ac\u09bf"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061227,
         1511777411,
-        85682041
+        102061227
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350930405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061227
     ],
     "wof:country":"BR",
-    "wof:geomhash":"8ff21b6633227d889fb45204a9ebcfb5",
+    "wof:geomhash":"b1301e96ab7ac1e1f0229f6c35b701fa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404566243,
-    "wof:lastmodified":1608030742,
+    "wof:lastmodified":1695878782,
     "wof:name":"Cajobi",
     "wof:parent_id":102061227,
     "wof:placetype":"localadmin",

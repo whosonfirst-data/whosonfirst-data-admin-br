@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030377,
-    "geom:area_square_m":357140147.70061,
+    "geom:area_square_m":357140147.700641,
     "geom:bbox":"-40.6618297848,-18.1422312858,-40.3898078687,-17.9518771672",
     "geom:latitude":-18.046014,
     "geom:longitude":-40.507344,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.055458,
     "lbl:longitude":-40.482802,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09c1\u0995\u09c1\u09b0\u09bf\u09b8\u09bf"
@@ -88,9 +97,12 @@
         102051929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320360105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6b94b3a0f8267990dbed4f8f91ef3389",
+    "wof:geomhash":"b28b7b23bb1775a1064c722ab24c1716",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404554511,
-    "wof:lastmodified":1577832935,
+    "wof:lastmodified":1695878461,
     "wof:name":"Mucurici",
     "wof:parent_id":102051929,
     "wof:placetype":"localadmin",

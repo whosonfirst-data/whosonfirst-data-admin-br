@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034126,
-    "geom:area_square_m":391285853.361439,
+    "geom:area_square_m":391285853.361324,
     "geom:bbox":"-54.1324284647,-22.117550844,-53.832431506,-21.8800481142",
     "geom:latitude":-21.984571,
     "geom:longitude":-54.002461,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.985234,
     "lbl:longitude":-54.017155,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055181
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500085610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f6e3b0578b539aa7dc82575ec4eacdfa",
+    "wof:geomhash":"68fde66ba45a690d71fb5eee67b25900",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558797,
-    "wof:lastmodified":1577836172,
+    "wof:lastmodified":1695878649,
     "wof:name":"Ipezal",
     "wof:parent_id":102055181,
     "wof:placetype":"localadmin",

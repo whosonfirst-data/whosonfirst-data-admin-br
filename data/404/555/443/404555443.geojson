@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074791,
-    "geom:area_square_m":863100526.440272,
+    "geom:area_square_m":863100526.440265,
     "geom:bbox":"-45.928281,-21.253827,-45.391509,-20.861458",
     "geom:latitude":-21.048561,
     "geom:longitude":-45.621146,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.042135,
     "lbl:longitude":-45.602898,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09cb\u09f1\u09be \u098f\u09b8\u09aa\u09c7\u09b0\u09be\u09a8\u09cd\u09b8\u09be"
@@ -72,19 +81,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053537,
         1511777411,
-        85681941
+        102053537
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310710905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053537
     ],
     "wof:country":"BR",
-    "wof:geomhash":"1335c38a08ccf4ca12104b49454ec089",
+    "wof:geomhash":"14f5020b41ccb7248da326c0136f75fc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404555443,
-    "wof:lastmodified":1608032650,
+    "wof:lastmodified":1695878812,
     "wof:name":"Boa Esperan\u00e7a",
     "wof:parent_id":102053537,
     "wof:placetype":"localadmin",

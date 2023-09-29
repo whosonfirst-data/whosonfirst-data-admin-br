@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006255,
-    "geom:area_square_m":71995736.513198,
+    "geom:area_square_m":71995736.513231,
     "geom:bbox":"-42.391776,-21.4982564149,-42.2544696303,-21.3905619968",
     "geom:latitude":-21.438187,
     "geom:longitude":-42.319684,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.440808,
     "lbl:longitude":-42.315004,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054479
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314670110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ad22ba00d1a21fe5553be0cc661eca5e",
+    "wof:geomhash":"afd272fadfcbed44371ec46fd06bd0f6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557523,
-    "wof:lastmodified":1577832999,
+    "wof:lastmodified":1695878480,
     "wof:name":"Cisneiros",
     "wof:parent_id":102054479,
     "wof:placetype":"localadmin",

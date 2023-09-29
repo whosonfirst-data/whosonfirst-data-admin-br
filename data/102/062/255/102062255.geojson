@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134616,
-    "geom:area_square_m":1524745592.491584,
+    "geom:area_square_m":1524745592.491388,
     "geom:bbox":"-46.826199,-24.008431,-46.365084,-23.356293",
     "geom:latitude":-23.650081,
     "geom:longitude":-46.648111,
@@ -32,7 +32,7 @@
     "mps:latitude":-23.57053,
     "mps:longitude":-46.663718,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:abk_x_preferred":[
         "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443"
@@ -93,12 +93,15 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3550308"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101965533
     ],
     "wof:country":"BR",
-    "wof:geomhash":"c9435daa2eed2e0c01bc979d9a287917",
+    "wof:geomhash":"3cb495a60fc7fc42da53cec81cbccddc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":102062255,
-    "wof:lastmodified":1627521852,
+    "wof:lastmodified":1695887097,
     "wof:name":"Sao Paulo",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

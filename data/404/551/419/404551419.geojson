@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046013,
-    "geom:area_square_m":552285786.632149,
+    "geom:area_square_m":552285786.63201,
     "geom:bbox":"-42.130869099,-14.073819944,-41.940305425,-13.634896933",
     "geom:latitude":-13.903407,
     "geom:longitude":-42.03901,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.931191,
     "lbl:longitude":-42.045474,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050987
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291950415"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"75932ee76a41a52afcd643cb65bbf1ed",
+    "wof:geomhash":"6e77347a144761d10d9914ea8fd52e4d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551419,
-    "wof:lastmodified":1577837724,
+    "wof:lastmodified":1695878683,
     "wof:name":"Itanag\u00e9",
     "wof:parent_id":102050987,
     "wof:placetype":"localadmin",

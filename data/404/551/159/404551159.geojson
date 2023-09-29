@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.194885,
-    "geom:area_square_m":2352690682.573279,
+    "geom:area_square_m":2352690682.573164,
     "geom:bbox":"-40.575373,-12.792218,-39.92569,-12.255011",
     "geom:latitude":-12.496738,
     "geom:longitude":-40.259216,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.510784,
     "lbl:longitude":-40.263855,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u062a\u0627\u0628\u064a\u0631\u0627\u0628\u0627"
@@ -130,12 +139,15 @@
         102050857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291470305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050857
     ],
     "wof:country":"BR",
-    "wof:geomhash":"c3acd0f6e10d14589b6313a844061a20",
+    "wof:geomhash":"8e05c3ced77c62513011cf880b555af9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":404551159,
-    "wof:lastmodified":1636496407,
+    "wof:lastmodified":1695878853,
     "wof:name":"Itaberaba",
     "wof:parent_id":102050857,
     "wof:placetype":"localadmin",

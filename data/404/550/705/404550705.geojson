@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001199,
-    "geom:area_square_m":14464135.054578,
+    "geom:area_square_m":14464306.465119,
     "geom:bbox":"-38.515708,-12.791483,-38.449937,-12.737582",
     "geom:latitude":-12.768318,
     "geom:longitude":-38.484368,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.77795,
     "lbl:longitude":-38.475327,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Madeiraeilande"
@@ -346,9 +355,12 @@
         102050639
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290650120"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"be05eb3b74532d3978a3a87adc8fef80",
+    "wof:geomhash":"9d09c1fe68570c7cdba249494455deca",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -360,7 +372,7 @@
         }
     ],
     "wof:id":404550705,
-    "wof:lastmodified":1636496437,
+    "wof:lastmodified":1695878863,
     "wof:name":"Madeira",
     "wof:parent_id":102050639,
     "wof:placetype":"localadmin",

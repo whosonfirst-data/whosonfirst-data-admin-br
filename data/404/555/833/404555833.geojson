@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02374,
-    "geom:area_square_m":273781233.498811,
+    "geom:area_square_m":273781233.498934,
     "geom:bbox":"-44.58052,-21.2556129968,-44.387942,-21.0395999968",
     "geom:latitude":-21.145103,
     "geom:longitude":-44.493074,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.146287,
     "lbl:longitude":-44.493094,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053621
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311520105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9512b572c2fe24ff5c8d682f287e5035",
+    "wof:geomhash":"14d942aaf079e4ed1a86284bc2d04066",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555833,
-    "wof:lastmodified":1577833418,
+    "wof:lastmodified":1695878614,
     "wof:name":"Concei\u00e7\u00e3o Da Barra De Minas",
     "wof:parent_id":102053621,
     "wof:placetype":"localadmin",

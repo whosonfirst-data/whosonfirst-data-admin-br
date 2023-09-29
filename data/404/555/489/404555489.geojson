@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012818,
-    "geom:area_square_m":148635993.740693,
+    "geom:area_square_m":148635993.740713,
     "geom:bbox":"-44.232457,-20.4219339969,-44.113863,-20.2169709969",
     "geom:latitude":-20.314673,
     "geom:longitude":-44.17111,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.309548,
     "lbl:longitude":-44.172007,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053257
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310810710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6b6a82d8fc1c3e291cc1aabe14e592d2",
+    "wof:geomhash":"22ff6ec6fa271eae85068197a0e2e0f2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555489,
-    "wof:lastmodified":1577832938,
+    "wof:lastmodified":1695878463,
     "wof:name":"Santo Ant\u00f4nio Da Vargem Alegre",
     "wof:parent_id":102053257,
     "wof:placetype":"localadmin",

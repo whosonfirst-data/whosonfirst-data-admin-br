@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000847,
-    "geom:area_square_m":9603321.397958,
+    "geom:area_square_m":9603321.397953,
     "geom:bbox":"-46.597015,-23.612095,-46.550352,-23.572978",
     "geom:latitude":-23.592558,
     "geom:longitude":-46.572694,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.589704,
     "lbl:longitude":-46.574645,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Vila Prudente"
@@ -41,14 +50,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "bra-ibge:code":"355030893",
         "gn:id":8449578,
         "qs_pg:id":1063929
     },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"de7f35f71dd7718cfb50b9e15e73be98",
+    "wof:geomhash":"9a2fbbcdd24b35d717540de1f56bc9b9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -60,7 +71,7 @@
         }
     ],
     "wof:id":404567467,
-    "wof:lastmodified":1582321206,
+    "wof:lastmodified":1695878749,
     "wof:name":"Vila Prudente",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

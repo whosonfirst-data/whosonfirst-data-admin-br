@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050078,
-    "geom:area_square_m":570233446.267427,
+    "geom:area_square_m":570233446.267514,
     "geom:bbox":"-52.6117753249,-23.1310688742,-52.4199108901,-22.752140418",
     "geom:latitude":-22.944823,
     "geom:longitude":-52.50004,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.937873,
     "lbl:longitude":-52.501899,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b0\u09be\u09a8\u09be\u09ad\u09be\u0987"
@@ -100,9 +109,12 @@
         102057979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411840205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ab1ed8d5f87b015d73c460ff39bb5ed1",
+    "wof:geomhash":"d8da17b49dfe8939975acb08aef84204",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404561603,
-    "wof:lastmodified":1577827932,
+    "wof:lastmodified":1695878286,
     "wof:name":"Paranava\u00ed",
     "wof:parent_id":102057979,
     "wof:placetype":"localadmin",

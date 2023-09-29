@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.649518,
-    "geom:area_square_m":20306150728.354427,
+    "geom:area_square_m":20306150728.353222,
     "geom:bbox":"-58.9180049858,-7.35012507024,-57.6022147882,-3.30636436951",
     "geom:latitude":-5.274898,
     "geom:longitude":-58.341622,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.782094,
     "lbl:longitude":-58.552132,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050377
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"130290010"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"55664a4de29204792e2f53f6f635b3f7",
+    "wof:geomhash":"deccb3be34f419a29eced9adb90b8e66",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550275,
-    "wof:lastmodified":1577825644,
+    "wof:lastmodified":1695878144,
     "wof:name":"Os\u00f3rio Da Fonseca",
     "wof:parent_id":102050377,
     "wof:placetype":"localadmin",

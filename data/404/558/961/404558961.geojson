@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.128543,
-    "geom:area_square_m":1496567950.142975,
+    "geom:area_square_m":1496567950.142939,
     "geom:bbox":"-52.131281542,-19.9058293966,-51.5258597529,-19.4415004629",
     "geom:latitude":-19.684912,
     "geom:longitude":-51.869695,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.64969,
     "lbl:longitude":-51.91554,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09a8\u09cb\u0995\u09c7\u09a8\u09cd\u09b8\u09bf\u09af\u09bc\u09be"
@@ -100,9 +109,12 @@
         102055255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500440305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3b714315bd93e4a77e2a711b0d334808",
+    "wof:geomhash":"4e2afab531a9c221e7111c6f6ad5315a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404558961,
-    "wof:lastmodified":1577836182,
+    "wof:lastmodified":1695878652,
     "wof:name":"Inoc\u00eancia",
     "wof:parent_id":102055255,
     "wof:placetype":"localadmin",

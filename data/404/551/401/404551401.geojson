@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004804,
-    "geom:area_square_m":57911747.544927,
+    "geom:area_square_m":57911747.54496,
     "geom:bbox":"-38.378894,-12.910892,-38.275202,-12.809249",
     "geom:latitude":-12.863231,
     "geom:longitude":-38.327264,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.872783,
     "lbl:longitude":-38.328058,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,13 +43,16 @@
         102050981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291920705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101950445,
         102050981
     ],
     "wof:country":"BR",
-    "wof:geomhash":"ec8194b60c20dfa702b990e008132894",
+    "wof:geomhash":"13d8a927a90390202e68ef77701d633c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":404551401,
-    "wof:lastmodified":1617130362,
+    "wof:lastmodified":1695878835,
     "wof:name":"Lauro De Freitas",
     "wof:parent_id":102050981,
     "wof:placetype":"localadmin",

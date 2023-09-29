@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011975,
-    "geom:area_square_m":130057380.212089,
+    "geom:area_square_m":130057380.212106,
     "geom:bbox":"-52.3906426601,-28.6560660026,-52.2345854715,-28.487391708",
     "geom:latitude":-28.559814,
     "geom:longitude":-52.302283,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.554577,
     "lbl:longitude":-52.308747,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059585
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431180917"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"deed61d1305fdeb1e53d8037e9e1b503",
+    "wof:geomhash":"67f99a4f8e9eada3402fe61d979a0229",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404563901,
-    "wof:lastmodified":1577827980,
+    "wof:lastmodified":1695878308,
     "wof:name":"Veado Pardo",
     "wof:parent_id":102059585,
     "wof:placetype":"localadmin",

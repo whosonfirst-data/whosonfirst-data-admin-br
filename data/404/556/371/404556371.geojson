@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006654,
-    "geom:area_square_m":77743523.040383,
+    "geom:area_square_m":77743523.040391,
     "geom:bbox":"-42.134586,-19.1898189971,-42.02333,-19.0445039971",
     "geom:latitude":-19.120635,
     "geom:longitude":-42.074825,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.13241,
     "lbl:longitude":-42.078623,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09c7\u09b0\u09cd\u09a8\u09be\u09a8\u09cd\u09a1\u09c7\u09b8 \u099f\u09cc\u09b0\u09bf\u09a8\u09b9\u09cb"
@@ -94,9 +103,12 @@
         102053895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312580405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4c116ba378519ddcbf04ad10f9812557",
+    "wof:geomhash":"43deeb3fec3c729decbc12d94f65c7a0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404556371,
-    "wof:lastmodified":1577833319,
+    "wof:lastmodified":1695878581,
     "wof:name":"Fernandes Tourinho",
     "wof:parent_id":102053895,
     "wof:placetype":"localadmin",

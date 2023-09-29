@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01049,
-    "geom:area_square_m":114205649.776625,
+    "geom:area_square_m":114205649.776642,
     "geom:bbox":"-51.1526724091,-28.3909080363,-51.0349626475,-28.1909384228",
     "geom:latitude":-28.304148,
     "geom:longitude":-51.094011,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.274886,
     "lbl:longitude":-51.098026,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431261750"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"65841e46708c42fa50af3187c9ae05bb",
+    "wof:geomhash":"eaacd5ee8bab1a7307f72bc815ec12cf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564011,
-    "wof:lastmodified":1577827886,
+    "wof:lastmodified":1695878264,
     "wof:name":"V\u00e1rzea Dos Antunes",
     "wof:parent_id":102059635,
     "wof:placetype":"localadmin",

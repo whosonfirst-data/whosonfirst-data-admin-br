@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025513,
-    "geom:area_square_m":294565459.333125,
+    "geom:area_square_m":294565459.333163,
     "geom:bbox":"-43.995115,-21.0455039962,-43.64758,-20.9127749962",
     "geom:latitude":-20.976349,
     "geom:longitude":-43.845559,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.974409,
     "lbl:longitude":-43.88887,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09be\u09a8\u09cd\u09a1\u09be\u0987"
@@ -94,9 +103,12 @@
         102053573
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311320605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e7c04bd6b182eab50c2517427645aec9",
+    "wof:geomhash":"9a1b6e1a84e66743c63b66742b3ef86e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404555725,
-    "wof:lastmodified":1577832932,
+    "wof:lastmodified":1695878460,
     "wof:name":"Caranda\u00ed",
     "wof:parent_id":102053573,
     "wof:placetype":"localadmin",

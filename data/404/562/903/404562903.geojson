@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01953,
-    "geom:area_square_m":212809381.414641,
+    "geom:area_square_m":212809381.414652,
     "geom:bbox":"-53.8484554473,-28.3145898564,-53.6996976905,-28.1023877168",
     "geom:latitude":-28.211559,
     "geom:longitude":-53.773407,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.207297,
     "lbl:longitude":-53.773365,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u099c\u09c1\u09b0\u09bf\u0995\u09be\u09ac\u09be"
@@ -109,9 +118,12 @@
         102059045
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430020805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3237d997993a952a8d104416f7274b4c",
+    "wof:geomhash":"061504ef5904acadd38f534e2626dee1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":404562903,
-    "wof:lastmodified":1577827977,
+    "wof:lastmodified":1695878306,
     "wof:name":"Ajuricaba",
     "wof:parent_id":102059045,
     "wof:placetype":"localadmin",

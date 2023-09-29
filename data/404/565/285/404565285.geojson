@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01687,
-    "geom:area_square_m":185190261.434476,
+    "geom:area_square_m":185190261.434448,
     "geom:bbox":"-51.4961482625,-27.5073188743,-51.3058697861,-27.3119585571",
     "geom:latitude":-27.40398,
     "geom:longitude":-51.391565,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.409341,
     "lbl:longitude":-51.382206,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0413\u0443\u0430\u0440\u0430\u043d\u0456"
@@ -100,9 +109,12 @@
         102060313
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420360045"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e5ae468d7930cda5def8370cc18b5dc2",
+    "wof:geomhash":"3cf09d3fb06f76a86fa9b334563aa3fb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404565285,
-    "wof:lastmodified":1577827757,
+    "wof:lastmodified":1695878204,
     "wof:name":"Guarani",
     "wof:parent_id":102060313,
     "wof:placetype":"localadmin",

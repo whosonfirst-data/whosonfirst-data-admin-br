@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00717,
-    "geom:area_square_m":75572743.288143,
+    "geom:area_square_m":75572743.288092,
     "geom:bbox":"-53.7528122404,-31.5925182711,-53.6622887564,-31.4269253877",
     "geom:latitude":-31.521876,
     "geom:longitude":-53.700888,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-31.547489,
     "lbl:longitude":-53.701583,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a8\u09a1\u09bf\u0993\u099f\u09be"
@@ -94,9 +103,12 @@
         102059209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430435805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d7761cd5d623a6e99cbc5c3bf782f27d",
+    "wof:geomhash":"b731c322300ea2d7cbc24f3cee7879ba",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404563251,
-    "wof:lastmodified":1577827775,
+    "wof:lastmodified":1695878212,
     "wof:name":"Candiota",
     "wof:parent_id":102059209,
     "wof:placetype":"localadmin",

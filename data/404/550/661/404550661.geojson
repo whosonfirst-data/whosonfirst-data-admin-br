@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029814,
-    "geom:area_square_m":359636646.469974,
+    "geom:area_square_m":359636646.469889,
     "geom:bbox":"-38.375782455,-12.80611854,-38.1309246,-12.597076414",
     "geom:latitude":-12.697844,
     "geom:longitude":-38.255779,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.705834,
     "lbl:longitude":-38.258138,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0627\u0643\u0627\u0631\u064a"
@@ -127,9 +136,12 @@
         102050621
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290570105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e13903fc307dc71090fd4d13a2bd08a5",
+    "wof:geomhash":"66008e4014c5f9f24f85ffd5a6cd5ab8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +153,7 @@
         }
     ],
     "wof:id":404550661,
-    "wof:lastmodified":1577837738,
+    "wof:lastmodified":1695878686,
     "wof:name":"Cama\u00e7ari",
     "wof:parent_id":102050621,
     "wof:placetype":"localadmin",

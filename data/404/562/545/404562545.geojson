@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013087,
-    "geom:area_square_m":150536889.835368,
+    "geom:area_square_m":150536889.835376,
     "geom:bbox":"-41.8724936056,-21.6047425465,-41.6830513711,-21.464264568",
     "geom:latitude":-21.529781,
     "geom:longitude":-41.786298,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.518193,
     "lbl:longitude":-41.779805,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05d4\u05e8"
@@ -43,9 +52,12 @@
         102058465
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330480525"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5ac5bcc42272b5e350bebee5af9d0b46",
+    "wof:geomhash":"c51c03880ad35aa6eb43b7d29db7b7c3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":404562545,
-    "wof:lastmodified":1577832625,
+    "wof:lastmodified":1695878349,
     "wof:name":"Pureza",
     "wof:parent_id":102058465,
     "wof:placetype":"localadmin",

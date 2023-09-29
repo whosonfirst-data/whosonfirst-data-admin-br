@@ -10,12 +10,21 @@
     "geom:latitude":-4.465394,
     "geom:longitude":-40.609716,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.458299,
     "lbl:longitude":-40.618904,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Recanto"
@@ -37,9 +46,12 @@
         102051581
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230580323"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b8b888ea04f578929e0efadb33ca0bd2",
+    "wof:geomhash":"2ca858b1cad559b9b7458bcae4410ab5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404553057,
-    "wof:lastmodified":1577837893,
+    "wof:lastmodified":1695878723,
     "wof:name":"Recanto",
     "wof:parent_id":102051581,
     "wof:placetype":"localadmin",

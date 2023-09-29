@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031356,
-    "geom:area_square_m":370958294.934542,
+    "geom:area_square_m":370958294.934584,
     "geom:bbox":"-42.563309,-17.0944049973,-42.364587,-16.7701269974",
     "geom:latitude":-16.912858,
     "geom:longitude":-42.46308,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.925056,
     "lbl:longitude":-42.46985,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b0\u09bf\u09b2\u09cb"
@@ -100,9 +109,12 @@
         102053521
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310650705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"53c970b01ab093108feb4ceab1c1306e",
+    "wof:geomhash":"bdd2196d4d99250cceb33955a43ffb5d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404555423,
-    "wof:lastmodified":1577833324,
+    "wof:lastmodified":1695878582,
     "wof:name":"Berilo",
     "wof:parent_id":102053521,
     "wof:placetype":"localadmin",

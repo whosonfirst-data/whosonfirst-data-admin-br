@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124838,
-    "geom:area_square_m":1495332608.438634,
+    "geom:area_square_m":1495332608.438854,
     "geom:bbox":"-41.637625,-14.558542,-41.067835,-14.100315",
     "geom:latitude":-14.371226,
     "geom:longitude":-41.374548,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.394918,
     "lbl:longitude":-41.417625,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u0995\u09be\u099f\u09c1"
@@ -100,12 +109,15 @@
         102050515
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290200505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050515
     ],
     "wof:country":"BR",
-    "wof:geomhash":"4f8f7e3c281ed917a30cc7a8d9300534",
+    "wof:geomhash":"974b9b5baa8fd0f22a022f0a65fc3053",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404550467,
-    "wof:lastmodified":1617130146,
+    "wof:lastmodified":1695878832,
     "wof:name":"Aracatu",
     "wof:parent_id":102050515,
     "wof:placetype":"localadmin",

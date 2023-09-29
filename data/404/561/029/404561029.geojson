@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019281,
-    "geom:area_square_m":215999798.309374,
+    "geom:area_square_m":215999798.309269,
     "geom:bbox":"-53.4549820353,-25.1201022164,-53.2606406414,-24.970826859",
     "geom:latitude":-25.044713,
     "geom:longitude":-53.365261,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.042965,
     "lbl:longitude":-53.386465,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "S\u00e3o Salvador"
@@ -67,9 +76,12 @@
         102057559
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410480850"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2344408e90bab918b03f948ba967a3ff",
+    "wof:geomhash":"6b8b157caa53630bf4f0b06b97146e16",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404561029,
-    "wof:lastmodified":1577827890,
+    "wof:lastmodified":1695878266,
     "wof:name":"S\u00e3o Salvador",
     "wof:parent_id":102057559,
     "wof:placetype":"localadmin",

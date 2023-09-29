@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002692,
-    "geom:area_square_m":29239048.633842,
+    "geom:area_square_m":29239048.633846,
     "geom:bbox":"-53.9117206077,-28.5920482685,-53.8381764248,-28.5232209468",
     "geom:latitude":-28.560953,
     "geom:longitude":-53.873116,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.5607,
     "lbl:longitude":-53.873135,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09cb\u09b0\u09cd\u09ae\u09bf\u0997\u09c1\u09f1\u09c7\u0987\u09b0\u09cb"
@@ -88,9 +97,12 @@
         102059139
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430222030"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5feb67d150f3a4b0d1783b7793ac1ff2",
+    "wof:geomhash":"284f54f78a7380fca490ece8900ccff8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404563097,
-    "wof:lastmodified":1577827902,
+    "wof:lastmodified":1695878272,
     "wof:name":"Formigueiro",
     "wof:parent_id":102059139,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00488,
-    "geom:area_square_m":56562351.515616,
+    "geom:area_square_m":56562316.49892,
     "geom:bbox":"-40.64198,-20.424247,-40.534294,-20.335146",
     "geom:latitude":-20.384478,
     "geom:longitude":-40.601239,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.38601,
     "lbl:longitude":-40.604899,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Isabel"
@@ -67,9 +76,12 @@
         102051867
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320190220"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7d980bdce4deca0372178c040bbd0bd8",
+    "wof:geomhash":"81bb5ed9ba9e90a8ba6eedec644b4f36",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404554307,
-    "wof:lastmodified":1636496459,
+    "wof:lastmodified":1695878867,
     "wof:name":"Isabel",
     "wof:parent_id":102051867,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01064,
-    "geom:area_square_m":123038814.967299,
+    "geom:area_square_m":123038814.967253,
     "geom:bbox":"-41.5090042802,-20.8341552547,-41.3516389999,-20.6502533763",
     "geom:latitude":-20.738848,
     "geom:longitude":-41.435099,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.761701,
     "lbl:longitude":-41.45475,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rive"
@@ -55,9 +64,12 @@
         102051825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320020135"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"65b3a2ad2f886011dc5013fc4dd70ffb",
+    "wof:geomhash":"f9032ce005a4aa8ae9453bd5c39cb6d1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":404554141,
-    "wof:lastmodified":1577832668,
+    "wof:lastmodified":1695878365,
     "wof:name":"Rive",
     "wof:parent_id":102051825,
     "wof:placetype":"localadmin",

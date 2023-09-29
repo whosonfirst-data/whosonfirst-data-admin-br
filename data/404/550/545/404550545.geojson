@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052857,
-    "geom:area_square_m":631365558.244511,
+    "geom:area_square_m":631365558.244248,
     "geom:bbox":"-41.369954,-15.189386,-41.086591,-14.710866",
     "geom:latitude":-14.981723,
     "geom:longitude":-41.21382,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.07504,
     "lbl:longitude":-41.168821,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b2\u09cb \u0995\u09be\u09ae\u09cd\u09aa\u09cb"
@@ -100,12 +109,15 @@
         102050561
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290350805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050561
     ],
     "wof:country":"BR",
-    "wof:geomhash":"9c0bdabdd0885bcbddaf55cb7d11fc31",
+    "wof:geomhash":"1acdcf176eabfb344084e286d041d768",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404550545,
-    "wof:lastmodified":1617131293,
+    "wof:lastmodified":1695878844,
     "wof:name":"Belo Campo",
     "wof:parent_id":102050561,
     "wof:placetype":"localadmin",

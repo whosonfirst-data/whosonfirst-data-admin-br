@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050186,
-    "geom:area_square_m":619927106.94625,
+    "geom:area_square_m":619927106.94629,
     "geom:bbox":"-49.6874668741,-2.68670567424,-49.2020524707,-2.41334792875",
     "geom:latitude":-2.574952,
     "geom:longitude":-49.397615,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-2.601039,
     "lbl:longitude":-49.401403,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u0995\u09be\u099c\u09c1\u09ac\u09be"
@@ -79,9 +88,12 @@
         102055823
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150460405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ee2ea0e054c208453667fbb60debfe1d",
+    "wof:geomhash":"5d87c14d18dbcacae22888384798b30e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404559677,
-    "wof:lastmodified":1577825694,
+    "wof:lastmodified":1695878167,
     "wof:name":"Mocajuba",
     "wof:parent_id":102055823,
     "wof:placetype":"localadmin",

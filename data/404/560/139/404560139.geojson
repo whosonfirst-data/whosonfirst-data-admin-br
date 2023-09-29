@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070119,
-    "geom:area_square_m":859610754.760521,
+    "geom:area_square_m":859610754.760575,
     "geom:bbox":"-40.7155364841,-7.69112113909,-40.3725000242,-7.31845048266",
     "geom:latitude":-7.50477,
     "geom:longitude":-40.522632,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.524688,
     "lbl:longitude":-40.505743,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u09b0\u09bf\u09aa\u09bf\u09a8\u09be"
@@ -94,9 +103,12 @@
         102056513
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260110205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"72a66809c330d984a8b04ea00e36accf",
+    "wof:geomhash":"b097c97f975e0657aa15436288add9a5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404560139,
-    "wof:lastmodified":1577837905,
+    "wof:lastmodified":1695878727,
     "wof:name":"Araripina",
     "wof:parent_id":102056513,
     "wof:placetype":"localadmin",

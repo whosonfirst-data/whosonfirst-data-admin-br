@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047927,
-    "geom:area_square_m":541083681.637513,
+    "geom:area_square_m":541083681.637504,
     "geom:bbox":"-52.5335517515,-24.1929587461,-52.1871826242,-23.9542521679",
     "geom:latitude":-24.072686,
     "geom:longitude":-52.351167,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.084567,
     "lbl:longitude":-52.290817,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09cd\u09aa\u09cb \u09ae\u09cc\u09b0\u09be\u0993"
@@ -100,9 +109,12 @@
         102057541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410430305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"056a58b943b2e417904a7ee590cf8782",
+    "wof:geomhash":"9be4bf08284509c36a65074365b72210",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404560985,
-    "wof:lastmodified":1577827983,
+    "wof:lastmodified":1695878309,
     "wof:name":"Campo Mour\u00e3o",
     "wof:parent_id":102057541,
     "wof:placetype":"localadmin",

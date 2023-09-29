@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04139,
-    "geom:area_square_m":481347277.043285,
+    "geom:area_square_m":481347277.043376,
     "geom:bbox":"-41.648567,-20.001921997,-41.32664,-19.702369997",
     "geom:latitude":-19.864688,
     "geom:longitude":-41.477531,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.857918,
     "lbl:longitude":-41.464144,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mutum"
@@ -46,9 +55,12 @@
         102054391
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314400305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a2a0a64f09bafe0c623e6b4b38b5516b",
+    "wof:geomhash":"bc0e6de319425e4606e696be0c8c80d9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":404557363,
-    "wof:lastmodified":1577832849,
+    "wof:lastmodified":1695878429,
     "wof:name":"Mutum",
     "wof:parent_id":102054391,
     "wof:placetype":"localadmin",

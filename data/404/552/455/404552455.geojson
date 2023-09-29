@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010255,
-    "geom:area_square_m":125772426.629721,
+    "geom:area_square_m":125772426.629742,
     "geom:bbox":"-39.372497375,-7.39795468031,-39.2313751999,-7.25151902215",
     "geom:latitude":-7.320985,
     "geom:longitude":-39.298446,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.32147,
     "lbl:longitude":-39.291495,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u09ac\u09be\u09b2\u09b9\u09be"
@@ -97,9 +106,12 @@
         102051451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230190105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3a7337b3715d0a8908c1a5e4fb48ebc2",
+    "wof:geomhash":"76f05d9cd90021602c0da22df27e4fee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404552455,
-    "wof:lastmodified":1577837860,
+    "wof:lastmodified":1695878716,
     "wof:name":"Barbalha",
     "wof:parent_id":102051451,
     "wof:placetype":"localadmin",

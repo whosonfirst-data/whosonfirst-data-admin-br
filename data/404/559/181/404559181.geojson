@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.194567,
-    "geom:area_square_m":2367275526.379181,
+    "geom:area_square_m":2367275526.379205,
     "geom:bbox":"-52.0936938539,-10.6088802196,-51.1522252033,-10.0672113512",
     "geom:latitude":-10.27388,
     "geom:longitude":-51.596977,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.251251,
     "lbl:longitude":-51.486733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09c7\u09b0\u09be\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -97,9 +106,12 @@
         102055423
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510335320"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"170737873fcaf8c4fe00e0aaa3183c33",
+    "wof:geomhash":"e55d9aaa8ca1026f6f94d1306ccc2518",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404559181,
-    "wof:lastmodified":1577836096,
+    "wof:lastmodified":1695878630,
     "wof:name":"Veran\u00f3polis",
     "wof:parent_id":102055423,
     "wof:placetype":"localadmin",

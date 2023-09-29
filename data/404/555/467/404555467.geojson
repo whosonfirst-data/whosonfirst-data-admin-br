@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018101,
-    "geom:area_square_m":208939163.827627,
+    "geom:area_square_m":208939163.827504,
     "geom:bbox":"-46.64243,-21.087109,-46.424786,-20.930582",
     "geom:latitude":-21.013764,
     "geom:longitude":-46.529054,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.01969,
     "lbl:longitude":-46.509267,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053549,
         1511777411,
-        85681941
+        102053549
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310760405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053549
     ],
     "wof:country":"BR",
-    "wof:geomhash":"ce9eb1a4efb6591afd2d7b6b91c4f7e3",
+    "wof:geomhash":"5d97d75f687e8e6f94a6cdcb6b1fc13c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404555467,
-    "wof:lastmodified":1608032685,
+    "wof:lastmodified":1695878814,
     "wof:name":"Bom Jesus Da Penha",
     "wof:parent_id":102053549,
     "wof:placetype":"localadmin",

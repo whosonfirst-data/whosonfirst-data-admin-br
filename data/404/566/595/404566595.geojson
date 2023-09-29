@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004634,
-    "geom:area_square_m":52373083.765208,
+    "geom:area_square_m":52373083.765193,
     "geom:bbox":"-49.5244660309,-23.9891467013,-49.4338686749,-23.9065585893",
     "geom:latitude":-23.946188,
     "geom:longitude":-49.478229,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.945847,
     "lbl:longitude":-49.473685,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061587
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352320630"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1e055bb4b78beacda6fc2d821b8714e5",
+    "wof:geomhash":"108c469d6d27e18a47b933029f4fcc54",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566595,
-    "wof:lastmodified":1577833215,
+    "wof:lastmodified":1695878546,
     "wof:name":"Santa Cruz Dos Lopes",
     "wof:parent_id":102061587,
     "wof:placetype":"localadmin",

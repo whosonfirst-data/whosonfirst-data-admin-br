@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02655,
-    "geom:area_square_m":316385712.74443,
+    "geom:area_square_m":316385712.744362,
     "geom:bbox":"-44.497616,-15.6277919975,-44.282642,-15.3019539976",
     "geom:latitude":-15.481907,
     "geom:longitude":-44.397191,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.511826,
     "lbl:longitude":-44.431428,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u062c\u0627\u0646\u0648\u0627\u0631\u064a\u0627"
@@ -100,9 +109,12 @@
         102054147
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313520905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b1dcf7ff511e974583769783b568cfde",
+    "wof:geomhash":"f734e4f85837f2d8b911c601b2ec498c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404556843,
-    "wof:lastmodified":1577833223,
+    "wof:lastmodified":1695878549,
     "wof:name":"Janu\u00e1ria",
     "wof:parent_id":102054147,
     "wof:placetype":"localadmin",

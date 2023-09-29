@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013944,
-    "geom:area_square_m":170989627.022763,
+    "geom:area_square_m":170989627.022791,
     "geom:bbox":"-38.8824776485,-7.46771764789,-38.7345087994,-7.32817966497",
     "geom:latitude":-7.399924,
     "geom:longitude":-38.799445,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.39675,
     "lbl:longitude":-38.798012,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u0989\u09b0\u09bf\u099f\u09bf"
@@ -85,9 +94,12 @@
         102051645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230810405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"82a513b92feb9d585f7fb4dc08b7f12c",
+    "wof:geomhash":"acb9e823bbb792f04061d038ed1dd8dd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404553335,
-    "wof:lastmodified":1577837613,
+    "wof:lastmodified":1695878655,
     "wof:name":"Mauriti",
     "wof:parent_id":102051645,
     "wof:placetype":"localadmin",

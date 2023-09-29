@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016466,
-    "geom:area_square_m":201835053.473857,
+    "geom:area_square_m":201835053.473845,
     "geom:bbox":"-37.4499871979,-7.6428073078,-37.2849330759,-7.46507218854",
     "geom:latitude":-7.554531,
     "geom:longitude":-37.374537,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.550231,
     "lbl:longitude":-37.373311,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261360215"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8a586cbe585dc0f4724f334ea374a191",
+    "wof:geomhash":"9193ef76820081b4019b55e4d2d06b53",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560689,
-    "wof:lastmodified":1577837673,
+    "wof:lastmodified":1695878671,
     "wof:name":"Riacho Do Meio",
     "wof:parent_id":102056833,
     "wof:placetype":"localadmin",

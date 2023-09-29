@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021989,
-    "geom:area_square_m":255094432.634459,
+    "geom:area_square_m":255094432.63452,
     "geom:bbox":"-43.976084,-20.3164949963,-43.751278,-20.1648329963",
     "geom:latitude":-20.250768,
     "geom:longitude":-43.853728,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.253623,
     "lbl:longitude":-43.855846,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09ac\u09bf\u09b0\u09bf\u099f\u09cb"
@@ -103,9 +112,12 @@
         102054065
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313190105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0fc9ab025b2fe918e3a0ddd91e08e30b",
+    "wof:geomhash":"e9fba5d40097238ad4723832a3cbc909",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404556695,
-    "wof:lastmodified":1577833141,
+    "wof:lastmodified":1695878525,
     "wof:name":"Itabirito",
     "wof:parent_id":102054065,
     "wof:placetype":"localadmin",

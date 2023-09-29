@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016588,
-    "geom:area_square_m":188780352.090888,
+    "geom:area_square_m":188780352.090745,
     "geom:bbox":"-48.7787094773,-23.0966739218,-48.6115177991,-22.941786753",
     "geom:latitude":-23.016463,
     "geom:longitude":-48.70437,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.010391,
     "lbl:longitude":-48.702736,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lobo"
@@ -82,9 +91,12 @@
         102061595
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352350310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1dd0780614158a4c63a03c1cab570f76",
+    "wof:geomhash":"d59b71941fc9d745056c87e2ba0775e2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404566607,
-    "wof:lastmodified":1577833042,
+    "wof:lastmodified":1695878495,
     "wof:name":"Lobo",
     "wof:parent_id":102061595,
     "wof:placetype":"localadmin",

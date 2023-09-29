@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002741,
-    "geom:area_square_m":31073493.947061,
+    "geom:area_square_m":31073563.013357,
     "geom:bbox":"-47.795295,-23.561875,-47.719883,-23.48962",
     "geom:latitude":-23.523979,
     "geom:longitude":-47.760779,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.524137,
     "lbl:longitude":-47.7602,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Porto"
@@ -337,9 +346,12 @@
         102061257
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351030220"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2afc49c7fa5ebce001bcac0ab71f01b7",
+    "wof:geomhash":"d59a12aa2cb929c0a9c18de470114825",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -351,7 +363,7 @@
         }
     ],
     "wof:id":404566291,
-    "wof:lastmodified":1636496423,
+    "wof:lastmodified":1695878858,
     "wof:name":"Porto",
     "wof:parent_id":102061257,
     "wof:placetype":"localadmin",

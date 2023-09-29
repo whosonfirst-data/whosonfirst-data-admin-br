@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016965,
-    "geom:area_square_m":186972640.350371,
+    "geom:area_square_m":186972640.350327,
     "geom:bbox":"-51.541307,-27.039945,-51.333824,-26.838617",
     "geom:latitude":-26.964667,
     "geom:longitude":-51.449555,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.970983,
     "lbl:longitude":-51.456702,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09cd\u09b0\u09c7\u099c\u09c7 \u099f\u09bf\u09b2\u0987\u09af\u09bc\u09be\u09b8"
@@ -93,19 +102,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060803,
         1511777409,
-        85682021
+        102060803
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421850905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060803
     ],
     "wof:country":"BR",
-    "wof:geomhash":"95579e8b917f8a0fb62a2cdc00318173",
+    "wof:geomhash":"292d25dfce8cbeb4dde503a43019ab96",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404565955,
-    "wof:lastmodified":1608034183,
+    "wof:lastmodified":1695878819,
     "wof:name":"Treze T\u00edlias",
     "wof:parent_id":102060803,
     "wof:placetype":"localadmin",

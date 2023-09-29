@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065111,
-    "geom:area_square_m":693057536.368842,
+    "geom:area_square_m":693057536.368898,
     "geom:bbox":"-55.4298921221,-30.7482442477,-54.9717871723,-30.4406493862",
     "geom:latitude":-30.591357,
     "geom:longitude":-55.231734,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.60427,
     "lbl:longitude":-55.266522,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059863
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431710310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7224c6d81f6c198b21b081a46bff94a9",
+    "wof:geomhash":"5d848161549b317b6f18bf48d63b160f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564437,
-    "wof:lastmodified":1577827862,
+    "wof:lastmodified":1695878253,
     "wof:name":"Pampeiro",
     "wof:parent_id":102059863,
     "wof:placetype":"localadmin",

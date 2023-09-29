@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019661,
-    "geom:area_square_m":241548240.774783,
+    "geom:area_square_m":241548240.774793,
     "geom:bbox":"-38.8331774075,-6.61259676745,-38.5179093416,-6.39288999329",
     "geom:latitude":-6.513601,
     "geom:longitude":-38.683114,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.509523,
     "lbl:longitude":-38.657128,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230540715"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a3cbd6178d04c325e1274d05970e78ce",
+    "wof:geomhash":"63221aa5f69623572d0b08f5bb193052",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404552995,
-    "wof:lastmodified":1577837986,
+    "wof:lastmodified":1695878747,
     "wof:name":"Icozinho",
     "wof:parent_id":102051571,
     "wof:placetype":"localadmin",

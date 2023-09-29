@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.299443,
-    "geom:area_square_m":3649694360.149969,
+    "geom:area_square_m":3649694360.149806,
     "geom:bbox":"-47.2104254268,-10.073116799,-46.4708398724,-9.31221544416",
     "geom:latitude":-9.702466,
     "geom:longitude":-46.85725,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-9.709376,
     "lbl:longitude":-46.862702,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09bf\u099c\u09be\u09b0\u09cd\u09a1\u09be"
@@ -94,9 +103,12 @@
         102062597
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"171240505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a2851af53a063da21c2819561e17de48",
+    "wof:geomhash":"30e155d7b132dac5f9bf49671cced66a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404567657,
-    "wof:lastmodified":1577825662,
+    "wof:lastmodified":1695878152,
     "wof:name":"Lizarda",
     "wof:parent_id":102062597,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002569,
-    "geom:area_square_m":30993276.277159,
+    "geom:area_square_m":30993276.27716,
     "geom:bbox":"-38.5265147973,-12.7205997185,-38.4525482148,-12.6503514706",
     "geom:latitude":-12.684414,
     "geom:longitude":-38.488235,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.683532,
     "lbl:longitude":-38.487695,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050639
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290650115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4eb8c42030fb2d94bbc7e8d8d8f50741",
+    "wof:geomhash":"99f90a9edde9c38fe6a7dfacd0187114",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550703,
-    "wof:lastmodified":1577837757,
+    "wof:lastmodified":1695878691,
     "wof:name":"Caroba",
     "wof:parent_id":102050639,
     "wof:placetype":"localadmin",

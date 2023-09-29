@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028624,
-    "geom:area_square_m":327369215.131891,
+    "geom:area_square_m":327369215.131863,
     "geom:bbox":"-45.223084,-22.459398,-45.00898,-22.231438",
     "geom:latitude":-22.341941,
     "geom:longitude":-45.108513,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.347589,
     "lbl:longitude":-45.106488,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09bf\u09b0\u09cd\u0997\u09bf\u09a8\u09bf\u09af\u09bc\u09be"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102055157,
         1511777411,
-        85681941
+        102055157
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"317170905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055157
     ],
     "wof:country":"BR",
-    "wof:geomhash":"3c6b7dad987ebfd2010945201b763dd7",
+    "wof:geomhash":"0e65e0721a552f48c1fc0ced8dbeb995",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404558765,
-    "wof:lastmodified":1608030311,
+    "wof:lastmodified":1695878774,
     "wof:name":"Virg\u00ednia",
     "wof:parent_id":102055157,
     "wof:placetype":"localadmin",

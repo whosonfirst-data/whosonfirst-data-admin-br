@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036514,
-    "geom:area_square_m":416318200.113176,
+    "geom:area_square_m":416318200.11309,
     "geom:bbox":"-48.098664,-22.9001606231,-47.849526,-22.642169",
     "geom:latitude":-22.767582,
     "geom:longitude":-47.96906,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.776513,
     "lbl:longitude":-47.950194,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ibitiruna"
@@ -55,9 +64,12 @@
         102061965
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"353870915"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4a18781d8e382d0e3c2aba4ee8756fc5",
+    "wof:geomhash":"82547677d8890a15046206f95953aa8b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":404566979,
-    "wof:lastmodified":1577833241,
+    "wof:lastmodified":1695878555,
     "wof:name":"Ibitiruna",
     "wof:parent_id":102061965,
     "wof:placetype":"localadmin",

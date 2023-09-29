@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013885,
-    "geom:area_square_m":160405544.194253,
+    "geom:area_square_m":160405544.194193,
     "geom:bbox":"-43.82078,-20.951287,-43.619019,-20.835522",
     "geom:latitude":-20.891211,
     "geom:longitude":-43.720703,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.895131,
     "lbl:longitude":-43.728891,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09be\u09a8\u09be\u0987\u09ac\u09be"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053571,
         1511777411,
-        85681941
+        102053571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311310705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053571
     ],
     "wof:country":"BR",
-    "wof:geomhash":"7563695fd7560c1d7226b0a108de441d",
+    "wof:geomhash":"b53227754694fe660fdede576fb38fa2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404555723,
-    "wof:lastmodified":1608032571,
+    "wof:lastmodified":1695878810,
     "wof:name":"Carana\u00edba",
     "wof:parent_id":102053571,
     "wof:placetype":"localadmin",

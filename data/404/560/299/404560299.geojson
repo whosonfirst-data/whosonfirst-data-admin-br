@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069658,
-    "geom:area_square_m":852616374.980541,
+    "geom:area_square_m":852616374.980612,
     "geom:bbox":"-37.7980269797,-8.39593984843,-37.511266542,-7.99729067724",
     "geom:latitude":-8.159714,
     "geom:longitude":-37.641458,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.176969,
     "lbl:longitude":-37.624291,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c1\u09b8\u099f\u09cb\u09a1\u09bf\u09af\u09bc\u09be"
@@ -85,9 +94,12 @@
         102056611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260510305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0ae671f437ab5b407894db91fbf90351",
+    "wof:geomhash":"ce952ee41a6c02775008827f356ef3cb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404560299,
-    "wof:lastmodified":1577837666,
+    "wof:lastmodified":1695878669,
     "wof:name":"Cust\u00f3dia",
     "wof:parent_id":102056611,
     "wof:placetype":"localadmin",

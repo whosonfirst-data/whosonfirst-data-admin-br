@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044121,
-    "geom:area_square_m":500631901.00592,
+    "geom:area_square_m":500629550.557227,
     "geom:bbox":"-45.280558,-23.596365,-44.908188,-23.198571",
     "geom:latitude":-23.416321,
     "geom:longitude":-45.095601,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.419393,
     "lbl:longitude":-45.114227,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0989\u09ac\u09be\u099f\u09c1\u09ac\u09be"
@@ -118,9 +127,12 @@
         102062389
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355540605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"679c9c93a4f117eab70c0fca7509ac2b",
+    "wof:geomhash":"e06a3523457c5044af7443b5312505ee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":404567603,
-    "wof:lastmodified":1617130058,
+    "wof:lastmodified":1695878830,
     "wof:name":"Ubatuba",
     "wof:parent_id":102062389,
     "wof:placetype":"localadmin",

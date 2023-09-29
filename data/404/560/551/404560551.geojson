@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002139,
-    "geom:area_square_m":26160309.292928,
+    "geom:area_square_m":26160309.292925,
     "geom:bbox":"-37.0679847958,-8.5573203073,-36.9736961452,-8.4982259861",
     "geom:latitude":-8.527183,
     "geom:longitude":-37.0086,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.528756,
     "lbl:longitude":-37.007826,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261080609"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"906b28b854e2cad18db4466a13ae63bf",
+    "wof:geomhash":"78d9c25dd4f964f898605200b582470a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560551,
-    "wof:lastmodified":1577837671,
+    "wof:lastmodified":1695878670,
     "wof:name":"Po\u00e7o Do Boi",
     "wof:parent_id":102056761,
     "wof:placetype":"localadmin",

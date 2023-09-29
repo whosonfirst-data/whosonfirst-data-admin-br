@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002933,
-    "geom:area_square_m":33665486.32677,
+    "geom:area_square_m":33665486.326753,
     "geom:bbox":"-46.490863,-21.8716879961,-46.399981,-21.8059579961",
     "geom:latitude":-21.840515,
     "geom:longitude":-46.449173,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.836038,
     "lbl:longitude":-46.452262,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053317
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311030107"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a4b449c7cb0343867135e1c6a27d2cfb",
+    "wof:geomhash":"7a30400fbfa71e5b1c6cd0ff29a59d55",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555621,
-    "wof:lastmodified":1577833052,
+    "wof:lastmodified":1695878499,
     "wof:name":"Laranjeiras De Caldas",
     "wof:parent_id":102053317,
     "wof:placetype":"localadmin",

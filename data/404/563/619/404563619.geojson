@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002993,
-    "geom:area_square_m":32339823.155982,
+    "geom:area_square_m":32339823.15597,
     "geom:bbox":"-51.3705248193,-29.1145861759,-51.2806547805,-29.0576839716",
     "geom:latitude":-29.089305,
     "geom:longitude":-51.33208,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.087578,
     "lbl:longitude":-51.335173,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059413
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430820108"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b8406f576bed32ed7f502f6ac9b1dc99",
+    "wof:geomhash":"4fe71bf9071cb7696fd3370459d6ecb3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404563619,
-    "wof:lastmodified":1577827802,
+    "wof:lastmodified":1695878225,
     "wof:name":"Mato Perso",
     "wof:parent_id":102059413,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006553,
-    "geom:area_square_m":80146827.669095,
+    "geom:area_square_m":80146827.669093,
     "geom:bbox":"-36.3905060243,-8.53374334503,-36.3068672724,-8.38887622031",
     "geom:latitude":-8.474075,
     "geom:longitude":-36.356037,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.488273,
     "lbl:longitude":-36.356681,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Esp\u00edrito Santo"
@@ -271,9 +280,12 @@
         102056819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261300810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"200488e52a0b184c144324ab208eb7a2",
+    "wof:geomhash":"9d0cdc0307b8cee5141c3b4eb25795ca",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -285,7 +297,7 @@
         }
     ],
     "wof:id":404560663,
-    "wof:lastmodified":1577837914,
+    "wof:lastmodified":1695878729,
     "wof:name":"Esp\u00edrito Santo",
     "wof:parent_id":102056819,
     "wof:placetype":"localadmin",

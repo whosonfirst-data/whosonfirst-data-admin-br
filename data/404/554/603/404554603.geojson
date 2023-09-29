@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014079,
-    "geom:area_square_m":164703471.076221,
+    "geom:area_square_m":164703471.076231,
     "geom:bbox":"-40.5224212951,-18.965124273,-40.3728651116,-18.8474895919",
     "geom:latitude":-18.905041,
     "geom:longitude":-40.443925,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.904531,
     "lbl:longitude":-40.443978,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09be\u09b0\u09cd\u099f\u09c1\u09b0\u09be"
@@ -91,9 +100,12 @@
         102051965
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320470815"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"846482243301d680e3d03f38b314cb5d",
+    "wof:geomhash":"8a7322ea951e1565abffbf9817a5e773",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404554603,
-    "wof:lastmodified":1577833069,
+    "wof:lastmodified":1695878504,
     "wof:name":"Fartura",
     "wof:parent_id":102051965,
     "wof:placetype":"localadmin",

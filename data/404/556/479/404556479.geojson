@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010615,
-    "geom:area_square_m":124219434.052395,
+    "geom:area_square_m":124219434.052398,
     "geom:bbox":"-42.579186,-18.9545879971,-42.456,-18.7767349971",
     "geom:latitude":-18.847552,
     "geom:longitude":-42.525287,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.831455,
     "lbl:longitude":-42.514117,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0413\u0430\u043d\u0437\u0430\u0433\u0430"
@@ -100,9 +109,12 @@
         102053953
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312750305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b9e63766802413c069b334738ac92244",
+    "wof:geomhash":"66f591b4d60f0ea708eaa06d0cd05d30",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404556479,
-    "wof:lastmodified":1577832925,
+    "wof:lastmodified":1695878458,
     "wof:name":"Gonzaga",
     "wof:parent_id":102053953,
     "wof:placetype":"localadmin",

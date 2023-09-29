@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021533,
-    "geom:area_square_m":264537185.223161,
+    "geom:area_square_m":264537185.223183,
     "geom:bbox":"-42.192004465,-6.64453278253,-42.0137430069,-6.43123325135",
     "geom:latitude":-6.529504,
     "geom:longitude":-42.106398,
@@ -35,7 +35,7 @@
     "mps:latitude":-6.517421,
     "mps:longitude":-42.107737,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09cd\u09b0\u09be \u09a1\u09bf'\u0986\u09b2\u0995\u09be\u09a8\u09cd\u099f\u09be\u09b0\u09be"
@@ -96,9 +96,12 @@
         1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2201176"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5d5db4dc0ca589c6bee02d63b70629e1",
+    "wof:geomhash":"c13d2af575e344b0e5b12bf3207f023d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":102056943,
-    "wof:lastmodified":1577837511,
+    "wof:lastmodified":1695887123,
     "wof:name":"Barra D'Alcantara",
     "wof:parent_id":85681977,
     "wof:placetype":"county",

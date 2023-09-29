@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096242,
-    "geom:area_square_m":1166323086.040889,
+    "geom:area_square_m":1166323086.040895,
     "geom:bbox":"-61.7957982458,-11.619208793,-61.3489469613,-11.2921801364",
     "geom:latitude":-11.460719,
     "geom:longitude":-61.540504,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.46358,
     "lbl:longitude":-61.52229,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0995\u09cb\u0986\u09b2"
@@ -97,9 +106,12 @@
         102058895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"110004905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7dab493457567f8ccef8981e075e4d55",
+    "wof:geomhash":"e9fef4f4909ed2731311832b5cbd1e0f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404562751,
-    "wof:lastmodified":1577825696,
+    "wof:lastmodified":1695878169,
     "wof:name":"Cacoal",
     "wof:parent_id":102058895,
     "wof:placetype":"localadmin",

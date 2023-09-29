@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011813,
-    "geom:area_square_m":129334745.231498,
+    "geom:area_square_m":129334745.231538,
     "geom:bbox":"-49.116296668,-27.7744140912,-48.9614937378,-27.6225924263",
     "geom:latitude":-27.693709,
     "geom:longitude":-49.039023,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.686643,
     "lbl:longitude":-49.040203,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Ran\u00e7o-Kueymado"
@@ -97,9 +106,12 @@
         102060663
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421430005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"03ffb420e9902d4f6bb1058a5153ca63",
+    "wof:geomhash":"48dd42b1aadb8e0b8b4b3597c685578a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404565775,
-    "wof:lastmodified":1577827968,
+    "wof:lastmodified":1695878302,
     "wof:name":"Rancho Queimado",
     "wof:parent_id":102060663,
     "wof:placetype":"localadmin",

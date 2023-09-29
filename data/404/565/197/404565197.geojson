@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008475,
-    "geom:area_square_m":93652216.566315,
+    "geom:area_square_m":93652216.56631,
     "geom:bbox":"-53.494195,-26.744874,-53.367625,-26.582332",
     "geom:latitude":-26.66746,
     "geom:longitude":-53.424604,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.661163,
     "lbl:longitude":-53.428905,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0627 \u0628\u0648\u0646\u064a\u062a\u0627"
@@ -131,12 +140,15 @@
         102060255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420209905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060255
     ],
     "wof:country":"BR",
-    "wof:geomhash":"8d1a868dc6dccc39205e0d85b90ffb56",
+    "wof:geomhash":"6d231fc4b711873b343f53ba59481710",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -148,7 +160,7 @@
         }
     ],
     "wof:id":404565197,
-    "wof:lastmodified":1636496454,
+    "wof:lastmodified":1695878867,
     "wof:name":"Barra Bonita",
     "wof:parent_id":102060255,
     "wof:placetype":"localadmin",

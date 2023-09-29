@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065769,
-    "geom:area_square_m":736518142.229255,
+    "geom:area_square_m":736518142.229258,
     "geom:bbox":"-49.509104,-25.235097,-49.063526,-24.876416",
     "geom:latitude":-25.089166,
     "geom:longitude":-49.329826,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.10523,
     "lbl:longitude":-49.351641,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681983,
         102191577,
         85633009,
-        102058099,
         1511777409,
-        85681983
+        102058099
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412220605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102058099
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a699e1d727445735505a6990b8c26ab5",
+    "wof:geomhash":"ca3ba1a9862dd2053a63a8986921cc39",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404561777,
-    "wof:lastmodified":1608031515,
+    "wof:lastmodified":1695878788,
     "wof:name":"Rio Branco Do Sul",
     "wof:parent_id":102058099,
     "wof:placetype":"localadmin",

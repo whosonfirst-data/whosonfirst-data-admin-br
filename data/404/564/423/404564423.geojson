@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019794,
-    "geom:area_square_m":211043098.432882,
+    "geom:area_square_m":211043098.432935,
     "geom:bbox":"-54.2711988516,-30.5385866807,-54.0844106731,-30.3475413878",
     "geom:latitude":-30.42789,
     "geom:longitude":-54.170248,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.421878,
     "lbl:longitude":-54.170221,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Canas"
@@ -55,9 +64,12 @@
         102059859
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431697220"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6ab3367bfec644f8dbe4687da1685676",
+    "wof:geomhash":"d62016f347adee55707ae5cdb9433901",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":404564423,
-    "wof:lastmodified":1577827880,
+    "wof:lastmodified":1695878262,
     "wof:name":"Canas",
     "wof:parent_id":102059859,
     "wof:placetype":"localadmin",

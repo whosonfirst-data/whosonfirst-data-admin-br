@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018574,
-    "geom:area_square_m":228984827.581215,
+    "geom:area_square_m":228984827.581185,
     "geom:bbox":"-38.9602504345,-4.62381747123,-38.7476069722,-4.26329213304",
     "geom:latitude":-4.416197,
     "geom:longitude":-38.858074,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.373488,
     "lbl:longitude":-38.883779,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u062a\u0648\u0631\u064a\u062a\u064a"
@@ -94,9 +103,12 @@
         102051461
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230210705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"49b11edb92ae135b57ac57fab39ccc64",
+    "wof:geomhash":"a68a8537ab20a397d225957f0c1f5d48",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404552499,
-    "wof:lastmodified":1577837676,
+    "wof:lastmodified":1695878672,
     "wof:name":"Baturit\u00e9",
     "wof:parent_id":102051461,
     "wof:placetype":"localadmin",

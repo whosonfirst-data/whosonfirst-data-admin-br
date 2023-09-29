@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048153,
-    "geom:area_square_m":514780561.891999,
+    "geom:area_square_m":514780561.89204,
     "geom:bbox":"-54.9254162262,-30.2949800654,-54.6267758359,-30.0174063721",
     "geom:latitude":-30.167442,
     "geom:longitude":-54.77947,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.186356,
     "lbl:longitude":-54.777186,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431640220"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cce774ea658307a52782fa7a1eb16117",
+    "wof:geomhash":"48b3033d483f3ba0dc8588de5bc48a08",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564323,
-    "wof:lastmodified":1577827795,
+    "wof:lastmodified":1695878221,
     "wof:name":"Mangueiras",
     "wof:parent_id":102059831,
     "wof:placetype":"localadmin",

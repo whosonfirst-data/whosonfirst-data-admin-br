@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0039,
-    "geom:area_square_m":42077956.512171,
+    "geom:area_square_m":42077956.512202,
     "geom:bbox":"-49.7397221567,-29.2871773381,-49.645594506,-29.2059534551",
     "geom:latitude":-29.24668,
     "geom:longitude":-49.696353,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.247211,
     "lbl:longitude":-49.697066,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060607
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421225410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"94ad64d338e5ace5f0ce70e36a174899",
+    "wof:geomhash":"7f7ce5f3e881e3c9e810417e5f998a60",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565703,
-    "wof:lastmodified":1577827954,
+    "wof:lastmodified":1695878296,
     "wof:name":"Balne\u00e1rio Rosa Do Mar",
     "wof:parent_id":102060607,
     "wof:placetype":"localadmin",

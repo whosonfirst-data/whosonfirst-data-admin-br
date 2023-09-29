@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010857,
-    "geom:area_square_m":125675060.029486,
+    "geom:area_square_m":125675060.029447,
     "geom:bbox":"-50.8861862424,-20.6702358417,-50.7616334314,-20.5310793562",
     "geom:latitude":-20.591016,
     "geom:longitude":-50.824637,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.58761,
     "lbl:longitude":-50.838277,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102062301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355230410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6fe64a98fe1cf1f7f01c4f9e03f4046c",
+    "wof:geomhash":"b08e72f5b77383f809963015cd59a4bf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404567521,
-    "wof:lastmodified":1577833375,
+    "wof:lastmodified":1695878597,
     "wof:name":"Bandeirantes D'Oeste",
     "wof:parent_id":102062301,
     "wof:placetype":"localadmin",

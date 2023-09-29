@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141982,
-    "geom:area_square_m":1694100925.955464,
+    "geom:area_square_m":1694100925.955787,
     "geom:bbox":"-56.9902578641,-15.5214350214,-56.4279599037,-14.9422250799",
     "geom:latitude":-15.213942,
     "geom:longitude":-56.715732,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.124739,
     "lbl:longitude":-56.668997,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055603
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510770115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e1316563cf76c53c01ae810c940b1e52",
+    "wof:geomhash":"867229d64ba6f73234d6ae3002cba746",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559373,
-    "wof:lastmodified":1577836110,
+    "wof:lastmodified":1695878636,
     "wof:name":"Bauxi",
     "wof:parent_id":102055603,
     "wof:placetype":"localadmin",

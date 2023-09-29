@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032951,
-    "geom:area_square_m":375222785.288614,
+    "geom:area_square_m":375222785.288609,
     "geom:bbox":"-46.39928,-23.012631,-46.041,-22.85719",
     "geom:latitude":-22.938808,
     "geom:longitude":-46.20918,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.93845,
     "lbl:longitude":-46.205752,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09cb\u09af\u09bc\u09be\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -84,20 +93,23 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061639,
         1511777411,
-        85682041
+        102061639
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352550805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101965683,
         102061639
     ],
     "wof:country":"BR",
-    "wof:geomhash":"7f61efc57f595c01430b5431c9d18cf3",
+    "wof:geomhash":"a78657a879c4030065c0ac955bd4ec3a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":404566653,
-    "wof:lastmodified":1608030995,
+    "wof:lastmodified":1695878786,
     "wof:name":"Joan\u00f3polis",
     "wof:parent_id":102061639,
     "wof:placetype":"localadmin",

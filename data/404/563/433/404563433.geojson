@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012301,
-    "geom:area_square_m":133035534.712334,
+    "geom:area_square_m":133035534.712338,
     "geom:bbox":"-51.7809131821,-29.0974812708,-51.6342957594,-28.9302792141",
     "geom:latitude":-29.002251,
     "geom:longitude":-51.703009,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.001113,
     "lbl:longitude":-51.698011,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u099f\u09bf\u09aa\u09cb\u09b0\u09be"
@@ -97,9 +106,12 @@
         102059305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430595905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9ce9e261203656fbcc4e37e649601e06",
+    "wof:geomhash":"d2c86f84919e7ea7c5e36d9805a6afb2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404563433,
-    "wof:lastmodified":1577827878,
+    "wof:lastmodified":1695878260,
     "wof:name":"Cotipor\u00e3",
     "wof:parent_id":102059305,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009101,
-    "geom:area_square_m":112358332.566767,
+    "geom:area_square_m":112358332.566764,
     "geom:bbox":"-39.793483763,-3.25926636955,-39.6174291733,-3.11689096993",
     "geom:latitude":-3.175773,
     "geom:longitude":-39.710727,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.180608,
     "lbl:longitude":-39.71671,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051419
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230075410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0e453dd191fbfaa61ea2128a2895c7d5",
+    "wof:geomhash":"6af33705d394c2fddd61a803be4c117c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404552317,
-    "wof:lastmodified":1577837714,
+    "wof:lastmodified":1695878680,
     "wof:name":"Aracatiara",
     "wof:parent_id":102051419,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087762,
-    "geom:area_square_m":1008014064.21735,
+    "geom:area_square_m":1008014064.217338,
     "geom:bbox":"-44.50109,-21.928755,-44.068306,-21.540001",
     "geom:latitude":-21.738856,
     "geom:longitude":-44.269702,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.732541,
     "lbl:longitude":-44.248434,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u09a1\u09cd\u09b0\u09c7\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
@@ -99,19 +108,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053433,
         1511777411,
-        85681941
+        102053433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310280305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053433
     ],
     "wof:country":"BR",
-    "wof:geomhash":"6c25c2ff3fbe6a7802b17851a18fb623",
+    "wof:geomhash":"d56871b0cf7e4d70b79c63c395f6cd8d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":404555239,
-    "wof:lastmodified":1608032709,
+    "wof:lastmodified":1695878815,
     "wof:name":"Andrel\u00e2ndia",
     "wof:parent_id":102053433,
     "wof:placetype":"localadmin",

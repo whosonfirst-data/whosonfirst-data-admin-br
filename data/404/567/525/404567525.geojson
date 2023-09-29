@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009607,
-    "geom:area_square_m":109475921.073445,
+    "geom:area_square_m":109475921.073429,
     "geom:bbox":"-47.370203,-22.908045,-47.22998,-22.789939",
     "geom:latitude":-22.849442,
     "geom:longitude":-47.290808,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.854572,
     "lbl:longitude":-47.289755,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0645\u0627\u0631\u064a"
@@ -106,9 +115,12 @@
         102062303
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355240305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"917993a739c04737cc6c56c520e53dbf",
+    "wof:geomhash":"c2e016bc620332f307bbff26fb1b1f75",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404567525,
-    "wof:lastmodified":1577833047,
+    "wof:lastmodified":1695878497,
     "wof:name":"Sumar\u00e9",
     "wof:parent_id":102062303,
     "wof:placetype":"localadmin",

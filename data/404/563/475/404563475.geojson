@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084241,
-    "geom:area_square_m":892571438.133278,
+    "geom:area_square_m":892571438.133295,
     "geom:bbox":"-54.4817936658,-31.1986066742,-53.9250539125,-30.8687017065",
     "geom:latitude":-31.032383,
     "geom:longitude":-54.227567,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-31.051458,
     "lbl:longitude":-54.204395,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059345
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430660110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"807523c3771b2270152bf929c7da108b",
+    "wof:geomhash":"679acf6a66fed13afaed999677a6f525",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404563475,
-    "wof:lastmodified":1577827784,
+    "wof:lastmodified":1695878216,
     "wof:name":"Torquato Severo",
     "wof:parent_id":102059345,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028589,
-    "geom:area_square_m":331177530.466568,
+    "geom:area_square_m":331177530.466669,
     "geom:bbox":"-51.231381,-20.565109,-50.964438,-20.370771",
     "geom:latitude":-20.472763,
     "geom:longitude":-51.075435,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.467596,
     "lbl:longitude":-51.06229,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c1\u099c\u09be\u09a8\u09be\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102062307,
         1511777411,
-        85682041
+        102062307
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355255105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102062307
     ],
     "wof:country":"BR",
-    "wof:geomhash":"4688f53eb491191592be0f9b9a074bcb",
+    "wof:geomhash":"a5a05987b8a8172d85c8ed194564df9c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404567535,
-    "wof:lastmodified":1608030024,
+    "wof:lastmodified":1695878771,
     "wof:name":"Suzan\u00e1polis",
     "wof:parent_id":102062307,
     "wof:placetype":"localadmin",

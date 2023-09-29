@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008439,
-    "geom:area_square_m":94883944.095171,
+    "geom:area_square_m":94883944.09512,
     "geom:bbox":"-53.4477644895,-24.6599881627,-53.3361973823,-24.5394071106",
     "geom:latitude":-24.590767,
     "geom:longitude":-53.394478,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.58205,
     "lbl:longitude":-53.38992,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057923
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411670310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"057095ce1d62ada9545fd12ea9dda844",
+    "wof:geomhash":"bfe2268947ae2418fc4cf4c8098d80a1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561519,
-    "wof:lastmodified":1577827860,
+    "wof:lastmodified":1695878252,
     "wof:name":"Palmit\u00f3polis",
     "wof:parent_id":102057923,
     "wof:placetype":"localadmin",

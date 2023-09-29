@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021923,
-    "geom:area_square_m":253178883.491951,
+    "geom:area_square_m":253178883.491941,
     "geom:bbox":"-49.2575229113,-21.0780978735,-49.078194402,-20.7829992386",
     "geom:latitude":-20.93705,
     "geom:longitude":-49.157701,
@@ -29,7 +29,7 @@
     "mps:latitude":-20.945483,
     "mps:longitude":-49.172385,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0989\u0995\u09b9\u09cb\u0986"
@@ -117,9 +117,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3555604"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dcada33eedab58a5f713cddb86b363a5",
+    "wof:geomhash":"d4e48bdd32b018bbd52065f80abe9eb1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":102062393,
-    "wof:lastmodified":1577831220,
+    "wof:lastmodified":1695887032,
     "wof:name":"Uchoa",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034312,
-    "geom:area_square_m":389940525.437334,
+    "geom:area_square_m":389940525.437369,
     "geom:bbox":"-45.4268103863,-23.3343557555,-45.186611452,-23.0849150326",
     "geom:latitude":-23.209904,
     "geom:longitude":-45.305599,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.206953,
     "lbl:longitude":-45.307398,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102062249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355000105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"584616d9110d66db01b55ec6a59897f9",
+    "wof:geomhash":"069994123fbd1f21e7e0d7f43deac706",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404567247,
-    "wof:lastmodified":1577832791,
+    "wof:lastmodified":1695878410,
     "wof:name":"S\u00e3o Lu\u00eds Do Paraitinga",
     "wof:parent_id":102062249,
     "wof:placetype":"localadmin",

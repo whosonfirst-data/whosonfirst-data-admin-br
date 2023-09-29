@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007533,
-    "geom:area_square_m":92460672.774153,
+    "geom:area_square_m":92460672.774174,
     "geom:bbox":"-39.2417925219,-7.02098450092,-39.1085519365,-6.92711561182",
     "geom:latitude":-6.96565,
     "geom:longitude":-39.182343,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.969571,
     "lbl:longitude":-39.189022,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Feitosa"
@@ -37,9 +46,12 @@
         102051485
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230320410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b23d291d392dbb27cfb7b18650fe26d4",
+    "wof:geomhash":"12df65cb53d4605e0921393aad064420",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404552627,
-    "wof:lastmodified":1577837841,
+    "wof:lastmodified":1695878711,
     "wof:name":"Feitosa",
     "wof:parent_id":102051485,
     "wof:placetype":"localadmin",

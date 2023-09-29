@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031253,
-    "geom:area_square_m":357074137.285174,
+    "geom:area_square_m":357074137.285186,
     "geom:bbox":"-46.460985,-22.602216,-46.252426,-22.374415",
     "geom:latitude":-22.486088,
     "geom:longitude":-46.355252,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.482006,
     "lbl:longitude":-46.353268,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c1\u09f1\u09c7\u09a8\u09cb \u09ac\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09af\u09bc\u09be\u0993"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053285,
         1511777411,
-        85681941
+        102053285
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310910505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053285
     ],
     "wof:country":"BR",
-    "wof:geomhash":"5153c303f5989cf7929c0c91087e8087",
+    "wof:geomhash":"01216938cd40f4c2fc123a3b167b4628",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404555555,
-    "wof:lastmodified":1608032598,
+    "wof:lastmodified":1695878810,
     "wof:name":"Bueno Brand\u00e3o",
     "wof:parent_id":102053285,
     "wof:placetype":"localadmin",

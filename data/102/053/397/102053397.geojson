@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00508,
-    "geom:area_square_m":58163229.637835,
+    "geom:area_square_m":58163229.637868,
     "geom:bbox":"-46.680627,-22.227462,-46.533043,-22.17085",
     "geom:latitude":-22.19854,
     "geom:longitude":-46.613703,
@@ -159,16 +159,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777411,
-        85681941
+        85681941,
+        1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3101409"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404555167
     ],
     "wof:country":"BR",
-    "wof:geomhash":"89c6d59eb9b54d61bc93f547849b25f0",
+    "wof:geomhash":"fd8c9a4752f1ce777c4af71809464da6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":102053397,
-    "wof:lastmodified":1608032428,
+    "wof:lastmodified":1695886420,
     "wof:name":"Albertina",
     "wof:parent_id":85681941,
     "wof:placetype":"county",

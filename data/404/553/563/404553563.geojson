@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01376,
-    "geom:area_square_m":169835642.090468,
+    "geom:area_square_m":169835670.335731,
     "geom:bbox":"-39.113735,-3.548707,-38.932108,-3.401653",
     "geom:latitude":-3.463645,
     "geom:longitude":-39.01497,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.449444,
     "lbl:longitude":-39.0012,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0627\u0643\u0648\u0631\u0648"
@@ -124,9 +133,12 @@
         102051699
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231020905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e0e172dadb35cd8e14bf96640a6bdca6",
+    "wof:geomhash":"b1d0391fd56d987c92d450443978f82d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":404553563,
-    "wof:lastmodified":1642551821,
+    "wof:lastmodified":1695878871,
     "wof:name":"Paracuru",
     "wof:parent_id":102051699,
     "wof:placetype":"localadmin",

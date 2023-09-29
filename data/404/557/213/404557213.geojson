@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003213,
-    "geom:area_square_m":38308171.85815,
+    "geom:area_square_m":38308171.85816,
     "geom:bbox":"-42.908052,-15.4151469976,-42.755063,-15.3035059976",
     "geom:latitude":-15.34889,
     "geom:longitude":-42.825887,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.335978,
     "lbl:longitude":-42.850096,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054317
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314100910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"214e954434f17b697e46e562494226d4",
+    "wof:geomhash":"5ad130f21c654c045acde86654b6d076",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557213,
-    "wof:lastmodified":1577832751,
+    "wof:lastmodified":1695878394,
     "wof:name":"S\u00e3o Jo\u00e3o Do Bonito",
     "wof:parent_id":102054317,
     "wof:placetype":"localadmin",

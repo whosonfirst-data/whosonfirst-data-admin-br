@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026082,
-    "geom:area_square_m":315138361.811148,
+    "geom:area_square_m":315138361.811225,
     "geom:bbox":"-41.5975038772,-12.4132056254,-41.3548675834,-12.1087621785",
     "geom:latitude":-12.26834,
     "geom:longitude":-41.472873,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.304664,
     "lbl:longitude":-41.501133,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050849
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291440610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"61b3481ba97f96d4b6cf602a3bb16535",
+    "wof:geomhash":"8a79e0ac81f6c2b281ef00c61e6bfcce",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551141,
-    "wof:lastmodified":1577837674,
+    "wof:lastmodified":1695878671,
     "wof:name":"Iraporanga",
     "wof:parent_id":102050849,
     "wof:placetype":"localadmin",

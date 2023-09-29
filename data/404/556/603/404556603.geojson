@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001462,
-    "geom:area_square_m":16985534.837908,
+    "geom:area_square_m":16985534.837897,
     "geom:bbox":"-44.103755,-20.02087,-44.052794,-19.966621",
     "geom:latitude":-19.992484,
     "geom:longitude":-44.07708,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.993001,
     "lbl:longitude":-44.076698,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102054009
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312980610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101951337
     ],
     "wof:country":"BR",
-    "wof:geomhash":"f6f489bcbe6b54d66de1858286dd6086",
+    "wof:geomhash":"d9ab4f12fa2cc73fffae85ef4a7a9dcd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404556603,
-    "wof:lastmodified":1617130303,
+    "wof:lastmodified":1695878833,
     "wof:name":"Parque Durval De Barros",
     "wof:parent_id":102054009,
     "wof:placetype":"localadmin",

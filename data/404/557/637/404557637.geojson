@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054634,
-    "geom:area_square_m":650239281.403761,
+    "geom:area_square_m":650239281.403984,
     "geom:bbox":"-44.68333,-15.9035839975,-44.291374,-15.5671479976",
     "geom:latitude":-15.73499,
     "geom:longitude":-44.467206,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.715748,
     "lbl:longitude":-44.437529,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054541
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314915005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cd4763e737b971a8adac79129fec70c8",
+    "wof:geomhash":"0be77510f1d75d5a03305cb95152119a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557637,
-    "wof:lastmodified":1577833080,
+    "wof:lastmodified":1695878507,
     "wof:name":"Pedras De Maria Da Cruz",
     "wof:parent_id":102054541,
     "wof:placetype":"localadmin",

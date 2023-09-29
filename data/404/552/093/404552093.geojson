@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005552,
-    "geom:area_square_m":67069626.158553,
+    "geom:area_square_m":67069626.15853,
     "geom:bbox":"-38.703459389,-12.3615667864,-38.61979218,-12.2303894604",
     "geom:latitude":-12.300779,
     "geom:longitude":-38.661093,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.298843,
     "lbl:longitude":-38.654115,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Teodoro Sampaio"
@@ -61,9 +70,12 @@
         102051337
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"293140005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4c491e98c7f39d8f120b7d1c2824c938",
+    "wof:geomhash":"6f83371c798003c417bdfc11b8c95fe6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404552093,
-    "wof:lastmodified":1577837656,
+    "wof:lastmodified":1695878666,
     "wof:name":"Teodoro Sampaio",
     "wof:parent_id":102051337,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102248,
-    "geom:area_square_m":1219278200.097881,
+    "geom:area_square_m":1219278777.124111,
     "geom:bbox":"-40.379061,-15.5595,-39.774984,-15.17589",
     "geom:latitude":-15.340695,
     "geom:longitude":-40.081649,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.312584,
     "lbl:longitude":-40.0519,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u062a\u0627\u0628\u064a\u062a\u064a\u0646\u062c\u0627"
@@ -127,9 +136,12 @@
         102050897
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291640105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f330adfbef50e4ea584cb0d06a859f95",
+    "wof:geomhash":"f357be09b3541c9f8b788a59ff53d3ff",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +153,7 @@
         }
     ],
     "wof:id":404551221,
-    "wof:lastmodified":1642551721,
+    "wof:lastmodified":1695878869,
     "wof:name":"Itapetinga",
     "wof:parent_id":102050897,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023451,
-    "geom:area_square_m":289189389.332644,
+    "geom:area_square_m":289189389.332698,
     "geom:bbox":"-38.3335768545,-4.36656956026,-38.1898499087,-4.06235789605",
     "geom:latitude":-4.216764,
     "geom:longitude":-38.268857,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.190453,
     "lbl:longitude":-38.269938,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Cascavel"
@@ -124,9 +133,12 @@
         102051491
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230350105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cd990edf186f570790fc93181b1110d8",
+    "wof:geomhash":"83e1aca0050f00fb60ba44b8f17348b0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":404552645,
-    "wof:lastmodified":1577837940,
+    "wof:lastmodified":1695878736,
     "wof:name":"Cascavel",
     "wof:parent_id":102051491,
     "wof:placetype":"localadmin",

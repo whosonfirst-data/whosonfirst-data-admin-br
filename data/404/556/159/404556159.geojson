@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046818,
-    "geom:area_square_m":542525653.850554,
+    "geom:area_square_m":542525653.850502,
     "geom:bbox":"-46.77185,-20.5670489969,-46.461759,-20.2676379969",
     "geom:latitude":-20.423804,
     "geom:longitude":-46.610275,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.448569,
     "lbl:longitude":-46.586928,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312120910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5f8766b4fb4e9d32f2b8395b77afa7fd",
+    "wof:geomhash":"41c94e8eff4e828eb54eab83b017e5cf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556159,
-    "wof:lastmodified":1577832705,
+    "wof:lastmodified":1695878375,
     "wof:name":"Babil\u00f4nia",
     "wof:parent_id":102053777,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020474,
-    "geom:area_square_m":226272034.716804,
+    "geom:area_square_m":226272034.716624,
     "geom:bbox":"-53.411156,-26.766237,-53.220088,-26.542646",
     "geom:latitude":-26.646968,
     "geom:longitude":-53.316359,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.645548,
     "lbl:longitude":-53.325754,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Romelandiya"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060687,
         1511777409,
-        85682021
+        102060687
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421520805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060687
     ],
     "wof:country":"BR",
-    "wof:geomhash":"c3630aff35d72e73ed307c483459bd47",
+    "wof:geomhash":"dc50c0e00895d0e41a66d914903d8644",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404565805,
-    "wof:lastmodified":1608034284,
+    "wof:lastmodified":1695878820,
     "wof:name":"Romel\u00e2ndia",
     "wof:parent_id":102060687,
     "wof:placetype":"localadmin",

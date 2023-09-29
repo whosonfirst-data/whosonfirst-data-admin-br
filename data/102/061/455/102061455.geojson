@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083236,
-    "geom:area_square_m":959013879.539646,
+    "geom:area_square_m":959013879.538893,
     "geom:bbox":"-50.8736263037,-21.5649819045,-50.5432671913,-20.9852211799",
     "geom:latitude":-21.285403,
     "geom:longitude":-50.695215,
@@ -29,7 +29,7 @@
     "mps:latitude":-21.249265,
     "mps:longitude":-50.629188,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09b0\u09be\u09b0\u09be\u09aa\u09c7\u09b8"
@@ -116,9 +116,12 @@
     "wof:breaches":[
         102062111
     ],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3518206"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a0634443cd2d716a945bc2f948ee7689",
+    "wof:geomhash":"920719373af447b0efcebc945c9a8fc6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":102061455,
-    "wof:lastmodified":1577831264,
+    "wof:lastmodified":1695887034,
     "wof:name":"Guararapes",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

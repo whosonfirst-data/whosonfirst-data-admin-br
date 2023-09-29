@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002973,
-    "geom:area_square_m":35195351.694968,
+    "geom:area_square_m":35195351.694967,
     "geom:bbox":"-40.668584,-16.8461889974,-40.596649,-16.7828619974",
     "geom:latitude":-16.817345,
     "geom:longitude":-40.628875,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.818816,
     "lbl:longitude":-40.628185,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315765810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2e2fcc378052eb869c2182e03c06a007",
+    "wof:geomhash":"ce6ff12f416694deb1b353b72435c7f7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558061,
-    "wof:lastmodified":1577833346,
+    "wof:lastmodified":1695878587,
     "wof:name":"Bom Jesus Da Vit\u00f3ria",
     "wof:parent_id":102054763,
     "wof:placetype":"localadmin",

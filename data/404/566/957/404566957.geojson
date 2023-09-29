@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059564,
-    "geom:area_square_m":671986832.007476,
+    "geom:area_square_m":671986832.007517,
     "geom:bbox":"-47.350629,-24.361879,-46.96831,-23.993803",
     "geom:latitude":-24.163713,
     "geom:longitude":-47.163529,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.147402,
     "lbl:longitude":-47.182354,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061933,
         1511777411,
-        85682041
+        102061933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"353720605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061933
     ],
     "wof:country":"BR",
-    "wof:geomhash":"4526edf018ed4508dc4332700cf37c9b",
+    "wof:geomhash":"3993174117ddfda72cd0151f42f50c3d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404566957,
-    "wof:lastmodified":1608030859,
+    "wof:lastmodified":1695878783,
     "wof:name":"Pedro De Toledo",
     "wof:parent_id":102061933,
     "wof:placetype":"localadmin",

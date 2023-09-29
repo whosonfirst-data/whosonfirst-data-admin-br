@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007844,
-    "geom:area_square_m":90143685.469201,
+    "geom:area_square_m":90143685.469181,
     "geom:bbox":"-45.830967,-21.7156359968,-45.70513,-21.6054999968",
     "geom:latitude":-21.659831,
     "geom:longitude":-45.768754,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.659323,
     "lbl:longitude":-45.763521,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054491
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314720410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3ca8626349bb1976b35afd77c2e17b2c",
+    "wof:geomhash":"046677bea06f30fde93aa43f2774c2c0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557553,
-    "wof:lastmodified":1577832981,
+    "wof:lastmodified":1695878475,
     "wof:name":"Guaipava",
     "wof:parent_id":102054491,
     "wof:placetype":"localadmin",

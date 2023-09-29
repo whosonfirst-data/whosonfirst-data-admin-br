@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.307046,
-    "geom:area_square_m":3527527247.958976,
+    "geom:area_square_m":3527527247.959131,
     "geom:bbox":"-55.027477,-21.966191,-53.889123,-21.335135",
     "geom:latitude":-21.703832,
     "geom:longitude":-54.574584,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.693259,
     "lbl:longitude":-54.70777,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102055313
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500720805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055313
     ],
     "wof:country":"BR",
-    "wof:geomhash":"6a353885bb1f66091fca162f438855ca",
+    "wof:geomhash":"1bf243f86496399f1b16fbccaf97b0d7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404559029,
-    "wof:lastmodified":1617131277,
+    "wof:lastmodified":1695878844,
     "wof:name":"Rio Brilhante",
     "wof:parent_id":102055313,
     "wof:placetype":"localadmin",

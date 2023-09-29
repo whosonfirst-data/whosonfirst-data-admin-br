@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005863,
-    "geom:area_square_m":67297766.804998,
+    "geom:area_square_m":67297766.804999,
     "geom:bbox":"-42.5991738138,-21.8694629259,-42.4499864083,-21.7847564182",
     "geom:latitude":-21.834186,
     "geom:longitude":-42.516745,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.835109,
     "lbl:longitude":-42.511652,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058347
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330120715"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"400e0c8d9f237e08360f2d73f116f804",
+    "wof:geomhash":"2f5f9c10ba06b8ff98a0cfd1d696842e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562225,
-    "wof:lastmodified":1577833368,
+    "wof:lastmodified":1695878594,
     "wof:name":"Porto Velho Do Cunha",
     "wof:parent_id":102058347,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022608,
-    "geom:area_square_m":253121440.383715,
+    "geom:area_square_m":253121440.383712,
     "geom:bbox":"-53.5548359525,-25.2283045318,-53.3990351506,-24.984441",
     "geom:latitude":-25.116491,
     "geom:longitude":-53.480335,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.137193,
     "lbl:longitude":-53.474041,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Diamante"
@@ -82,9 +91,12 @@
         102057559
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410480855"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"043b0470710cda52a4229cc5e449f179",
+    "wof:geomhash":"6caae422ff71885ccfca8122d55534e5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404561031,
-    "wof:lastmodified":1577827701,
+    "wof:lastmodified":1695878176,
     "wof:name":"Diamante",
     "wof:parent_id":102057559,
     "wof:placetype":"localadmin",

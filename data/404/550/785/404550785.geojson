@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006197,
-    "geom:area_square_m":74878466.280169,
+    "geom:area_square_m":74878466.280177,
     "geom:bbox":"-38.4227490442,-12.3209993008,-38.272408539,-12.2352869024",
     "geom:latitude":-12.274982,
     "geom:longitude":-38.366175,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.273959,
     "lbl:longitude":-38.379863,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u0987\u099f\u09bf\u0993 \u09a8\u09cb\u09ad\u09cb"
@@ -79,9 +88,12 @@
         102050671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290750915"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"646553af910074fe391862cf4d8b3d55",
+    "wof:geomhash":"55852bd046c31c32e2ce8ff35206ce5f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404550785,
-    "wof:lastmodified":1577837931,
+    "wof:lastmodified":1695878733,
     "wof:name":"S\u00edtio Novo",
     "wof:parent_id":102050671,
     "wof:placetype":"localadmin",

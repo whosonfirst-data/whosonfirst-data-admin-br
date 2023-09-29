@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018692,
-    "geom:area_square_m":228302726.951948,
+    "geom:area_square_m":228302726.951943,
     "geom:bbox":"-35.3720729921,-9.07244415449,-35.2099350129,-8.86071291985",
     "geom:latitude":-8.96367,
     "geom:longitude":-35.294625,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.966066,
     "lbl:longitude":-35.300123,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u0627\u063a\u0648\u063a\u064a"
@@ -91,9 +100,12 @@
         102050167
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"270450005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e73160d7e778bf6c4dec72fe0e0fc83b",
+    "wof:geomhash":"726d114db375e68d150c8080c5da5577",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404550181,
-    "wof:lastmodified":1577837885,
+    "wof:lastmodified":1695878721,
     "wof:name":"Maragogi",
     "wof:parent_id":102050167,
     "wof:placetype":"localadmin",

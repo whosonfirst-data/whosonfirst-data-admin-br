@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007513,
-    "geom:area_square_m":86922691.35755,
+    "geom:area_square_m":86922691.357561,
     "geom:bbox":"-41.3889888578,-20.7299685749,-41.2522534938,-20.6060179573",
     "geom:latitude":-20.667176,
     "geom:longitude":-41.336116,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.665259,
     "lbl:longitude":-41.34081,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320120910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6b8b264285112c36c2e8861475b488da",
+    "wof:geomhash":"5b8754c37999786900e74cdaa7a3554d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554243,
-    "wof:lastmodified":1577832774,
+    "wof:lastmodified":1695878402,
     "wof:name":"Burarama",
     "wof:parent_id":102051851,
     "wof:placetype":"localadmin",

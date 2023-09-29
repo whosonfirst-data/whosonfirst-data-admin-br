@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.520688,
-    "geom:area_square_m":6423784072.395056,
+    "geom:area_square_m":6423784072.394947,
     "geom:bbox":"-60.2870021695,-4.42075457587,-58.7873124896,-3.24499026808",
     "geom:latitude":-3.854133,
     "geom:longitude":-59.569333,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.794789,
     "lbl:longitude":-59.642214,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0994\u099f\u09be\u099c\u09be\u09b8"
@@ -100,9 +109,12 @@
         102050301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"130030005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0079fad621a18c4c4d50c92534c4cc2f",
+    "wof:geomhash":"f4669021d626bd052278ba8dbd6a3f5b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404550221,
-    "wof:lastmodified":1577825680,
+    "wof:lastmodified":1695878160,
     "wof:name":"Autazes",
     "wof:parent_id":102050301,
     "wof:placetype":"localadmin",

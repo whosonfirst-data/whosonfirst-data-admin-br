@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00798,
-    "geom:area_square_m":97730569.805316,
+    "geom:area_square_m":97730569.805415,
     "geom:bbox":"-35.031899,-7.980814,-34.81929,-7.843143",
     "geom:latitude":-7.928155,
     "geom:longitude":-34.883263,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.941175,
     "lbl:longitude":-34.876041,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0648\u0644\u064a\u0633\u062a\u0627"
@@ -115,13 +124,16 @@
         102056759
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261070705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101948667,
         102056759
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a7a23b2c9374d7d34c7e26106a07a498",
+    "wof:geomhash":"0558e606ad20fd59d1fb3fdd0be5ab56",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -133,7 +145,7 @@
         }
     ],
     "wof:id":404560545,
-    "wof:lastmodified":1617131341,
+    "wof:lastmodified":1695878846,
     "wof:name":"Paulista",
     "wof:parent_id":102056759,
     "wof:placetype":"localadmin",

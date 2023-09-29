@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012372,
-    "geom:area_square_m":142678752.688233,
+    "geom:area_square_m":142678752.688235,
     "geom:bbox":"-43.608461,-21.204276,-43.417235,-21.064645",
     "geom:latitude":-21.15065,
     "geom:longitude":-43.519756,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.152954,
     "lbl:longitude":-43.521203,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053787,
         1511777411,
-        85681941
+        102053787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312150605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053787
     ],
     "wof:country":"BR",
-    "wof:geomhash":"5f112fa13316697b2b90b78895b3fa8b",
+    "wof:geomhash":"92b276e56cb2bdbfd4c270593e74950c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404556175,
-    "wof:lastmodified":1608029459,
+    "wof:lastmodified":1695878762,
     "wof:name":"Desterro Do Melo",
     "wof:parent_id":102053787,
     "wof:placetype":"localadmin",

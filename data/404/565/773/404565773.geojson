@@ -10,12 +10,21 @@
     "geom:latitude":-26.432822,
     "geom:longitude":-53.611389,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.435727,
     "lbl:longitude":-53.610249,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Princesa"
@@ -42,19 +51,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060659,
         1511777409,
-        85682021
+        102060659
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421415105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060659
     ],
     "wof:country":"BR",
-    "wof:geomhash":"5790c3be1252e2969dd18eb90b5a822c",
+    "wof:geomhash":"c50fc1d1ace3013778ef695c26957778",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":404565773,
-    "wof:lastmodified":1608034504,
+    "wof:lastmodified":1695878824,
     "wof:name":"Princesa",
     "wof:parent_id":102060659,
     "wof:placetype":"localadmin",

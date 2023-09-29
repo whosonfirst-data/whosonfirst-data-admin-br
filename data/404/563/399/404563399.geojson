@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007642,
-    "geom:area_square_m":83636247.043996,
+    "geom:area_square_m":83636247.044015,
     "geom:bbox":"-53.0398936884,-27.7904893545,-52.912191433,-27.6612319728",
     "geom:latitude":-27.733545,
     "geom:longitude":-52.980879,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.734094,
     "lbl:longitude":-52.979896,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a8\u09cd\u09b8\u09cd\u099f\u09be\u09a8\u09cd\u099f\u09bf\u09a8\u09be"
@@ -79,9 +88,12 @@
         102059293
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430580105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"314c34a4ff9dc8a11cfcae519d3bfab6",
+    "wof:geomhash":"498113468daad2f57e10abd7d11ced75",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404563399,
-    "wof:lastmodified":1577827877,
+    "wof:lastmodified":1695878260,
     "wof:name":"Constantina",
     "wof:parent_id":102059293,
     "wof:placetype":"localadmin",

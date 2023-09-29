@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040889,
-    "geom:area_square_m":482442712.68328,
+    "geom:area_square_m":482442712.683366,
     "geom:bbox":"-41.767837,-17.602131,-41.564511,-17.232892",
     "geom:latitude":-17.409373,
     "geom:longitude":-41.659367,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.414468,
     "lbl:longitude":-41.674721,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u0987\u09aa\u09c7"
@@ -93,19 +102,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054075,
         1511777411,
-        85681941
+        102054075
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313230505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054075
     ],
     "wof:country":"BR",
-    "wof:geomhash":"560fadd900db3999fc5d166b626c93df",
+    "wof:geomhash":"7335916ae12548e5d531b5d88fbc91a6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404556711,
-    "wof:lastmodified":1608029660,
+    "wof:lastmodified":1695878770,
     "wof:name":"Itaip\u00e9",
     "wof:parent_id":102054075,
     "wof:placetype":"localadmin",

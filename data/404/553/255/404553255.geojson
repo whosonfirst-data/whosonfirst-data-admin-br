@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004587,
-    "geom:area_square_m":56502436.188508,
+    "geom:area_square_m":56502436.188505,
     "geom:bbox":"-38.2141588678,-5.05557731853,-38.1212368032,-4.97021293391",
     "geom:latitude":-5.017315,
     "geom:longitude":-38.181146,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.021004,
     "lbl:longitude":-38.18185,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051629
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230760110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a6d0f12b86b3cae5693f06d25eab8ed5",
+    "wof:geomhash":"32f1538bfa3df12bb134ba8222b77f91",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553255,
-    "wof:lastmodified":1577837701,
+    "wof:lastmodified":1695878678,
     "wof:name":"Bixop\u00e1",
     "wof:parent_id":102051629,
     "wof:placetype":"localadmin",

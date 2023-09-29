@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045832,
-    "geom:area_square_m":543271737.530249,
+    "geom:area_square_m":543271737.530217,
     "geom:bbox":"-42.677427,-16.662391,-42.398868,-16.379049",
     "geom:latitude":-16.541651,
     "geom:longitude":-42.550697,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.542101,
     "lbl:longitude":-42.560187,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09cb\u09b8\u09c7\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -93,19 +102,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054187,
         1511777411,
-        85681941
+        102054187
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313657905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054187
     ],
     "wof:country":"BR",
-    "wof:geomhash":"58f3c83f20f81b0b2d2424add0b8245b",
+    "wof:geomhash":"b0ece4a1d073e1f786c6771d2e08817c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404556941,
-    "wof:lastmodified":1608029436,
+    "wof:lastmodified":1695878761,
     "wof:name":"Josen\u00f3polis",
     "wof:parent_id":102054187,
     "wof:placetype":"localadmin",

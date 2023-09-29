@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00198,
-    "geom:area_square_m":22448119.553183,
+    "geom:area_square_m":22448119.553186,
     "geom:bbox":"-46.336058,-23.532103,-46.262171,-23.48492",
     "geom:latitude":-23.506124,
     "geom:longitude":-46.293357,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.508191,
     "lbl:longitude":-46.286639,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102062305,
         1511777411,
-        85682041
+        102062305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355250210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101956279
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a848692f55443012bd851faab89fdc98",
+    "wof:geomhash":"7ebae5d7cb23800416d89b7702197eab",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404567531,
-    "wof:lastmodified":1608023622,
+    "wof:lastmodified":1695878754,
     "wof:name":"Boa Vista Paulista",
     "wof:parent_id":102062305,
     "wof:placetype":"localadmin",

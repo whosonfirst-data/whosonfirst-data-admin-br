@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01961,
-    "geom:area_square_m":225631148.132469,
+    "geom:area_square_m":225631148.132449,
     "geom:bbox":"-44.282607,-21.5893919968,-44.048497,-21.4232169968",
     "geom:latitude":-21.488462,
     "geom:longitude":-44.144452,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.482128,
     "lbl:longitude":-44.124934,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054571
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315030705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a0741f8451f319848b44c99efe12c438",
+    "wof:geomhash":"7592df281f4db2be80a45b12b3ea2141",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557687,
-    "wof:lastmodified":1577833168,
+    "wof:lastmodified":1695878533,
     "wof:name":"Piedade Do Rio Grande",
     "wof:parent_id":102054571,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012342,
-    "geom:area_square_m":139032070.949692,
+    "geom:area_square_m":139032070.949704,
     "geom:bbox":"-53.4812612204,-24.4234027245,-53.3428622883,-24.2821807139",
     "geom:latitude":-24.35606,
     "geom:longitude":-53.411422,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.356871,
     "lbl:longitude":-53.403176,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jesu\u00edtas"
@@ -91,9 +100,12 @@
         102057803
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411275105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8da69dc6145fec6ca3314de08ab24989",
+    "wof:geomhash":"18d7852147c6e32e0bfe42a884f0b94a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404561347,
-    "wof:lastmodified":1577827713,
+    "wof:lastmodified":1695878182,
     "wof:name":"Jesu\u00edtas",
     "wof:parent_id":102057803,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054308,
-    "geom:area_square_m":635863527.835742,
+    "geom:area_square_m":635863527.835675,
     "geom:bbox":"-45.044205,-18.8849579965,-44.646907,-18.5652349966",
     "geom:latitude":-18.758305,
     "geom:longitude":-44.833026,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.763142,
     "lbl:longitude":-44.849481,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09c7\u09b2\u09bf\u0995\u09cd\u09b8\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
@@ -97,9 +106,12 @@
         102053893
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312570505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4f2a98e4256f9bb93970d02b134c8d51",
+    "wof:geomhash":"570c64d7c6ddc804aaa3c04cc774807f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404556365,
-    "wof:lastmodified":1577832862,
+    "wof:lastmodified":1695878434,
     "wof:name":"Felixl\u00e2ndia",
     "wof:parent_id":102053893,
     "wof:placetype":"localadmin",

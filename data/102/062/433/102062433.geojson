@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036448,
-    "geom:area_square_m":422262678.920456,
+    "geom:area_square_m":422262678.920276,
     "geom:bbox":"-50.1546736084,-20.576005,-49.8522736521,-20.3166834929",
     "geom:latitude":-20.45801,
     "geom:longitude":-49.9892,
@@ -29,7 +29,7 @@
     "mps:latitude":-20.471696,
     "mps:longitude":-49.97888,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09cb\u099f\u09c1\u09aa\u09cb\u09b0\u09be\u0999\u09cd\u0997\u09be"
@@ -111,9 +111,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3557105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"15272ded0e01f81a4b86492482e57734",
+    "wof:geomhash":"712f87731c0680a7fbf6b6b4e057ae1e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":102062433,
-    "wof:lastmodified":1577831937,
+    "wof:lastmodified":1695887069,
     "wof:name":"Votuporanga",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

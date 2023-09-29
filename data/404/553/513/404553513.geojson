@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011915,
-    "geom:area_square_m":146889728.876053,
+    "geom:area_square_m":146889728.876063,
     "geom:bbox":"-38.558841413,-4.48422309619,-38.3618155427,-4.36855613899",
     "geom:latitude":-4.431546,
     "geom:longitude":-38.473861,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.426519,
     "lbl:longitude":-38.488685,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051681
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230945840"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4dffeada74b509a64ef938aa1a548384",
+    "wof:geomhash":"e47d2b7617b55792f96e0707a30f2682",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553513,
-    "wof:lastmodified":1577837674,
+    "wof:lastmodified":1695878671,
     "wof:name":"Serragem",
     "wof:parent_id":102051681,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026198,
-    "geom:area_square_m":298599420.588297,
+    "geom:area_square_m":298599398.986653,
     "geom:bbox":"-52.089935,-22.92682,-51.832403,-22.677296",
     "geom:latitude":-22.814014,
     "geom:longitude":-51.998654,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.817782,
     "lbl:longitude":-52.000623,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Colorado"
@@ -556,9 +565,12 @@
         102057585
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410590405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6b6af3caff034e92c69df20b847b02de",
+    "wof:geomhash":"2984ca4452c372e4d96ba3f7f0ecff6d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -570,7 +582,7 @@
         }
     ],
     "wof:id":404561067,
-    "wof:lastmodified":1636496431,
+    "wof:lastmodified":1695878860,
     "wof:name":"Colorado",
     "wof:parent_id":102057585,
     "wof:placetype":"localadmin",

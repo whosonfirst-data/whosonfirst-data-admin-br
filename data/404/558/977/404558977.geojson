@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006364,
-    "geom:area_square_m":72982314.773229,
+    "geom:area_square_m":72982314.773231,
     "geom:bbox":"-54.747129128,-22.0171867119,-54.6255942661,-21.915293431",
     "geom:latitude":-21.971449,
     "geom:longitude":-54.681609,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.979035,
     "lbl:longitude":-54.680677,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055259
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500450220"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d7a690563e1324a06b0e8aaaa2605fe6",
+    "wof:geomhash":"942e7179a48a51b9e24e40fa7b648657",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558977,
-    "wof:lastmodified":1577836190,
+    "wof:lastmodified":1695878654,
     "wof:name":"Pirapor\u00e3",
     "wof:parent_id":102055259,
     "wof:placetype":"localadmin",

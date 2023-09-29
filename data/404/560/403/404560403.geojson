@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018701,
-    "geom:area_square_m":228767083.924566,
+    "geom:area_square_m":228767083.924586,
     "geom:bbox":"-35.2045188334,-8.45474921201,-34.9522482439,-8.30993286482",
     "geom:latitude":-8.383163,
     "geom:longitude":-35.090688,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.379742,
     "lbl:longitude":-35.10315,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09aa\u09cb\u099c\u09c1\u0995\u09be"
@@ -79,9 +88,12 @@
         102056663
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260720805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"82676f1e6cfc1b15db9bd6a6cd366e1a",
+    "wof:geomhash":"6973c779ae652b69efcfe677e92f3bc9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404560403,
-    "wof:lastmodified":1577837822,
+    "wof:lastmodified":1695878707,
     "wof:name":"Ipojuca",
     "wof:parent_id":102056663,
     "wof:placetype":"localadmin",

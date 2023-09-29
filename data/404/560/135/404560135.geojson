@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025693,
-    "geom:area_square_m":314224515.792375,
+    "geom:area_square_m":314224515.792437,
     "geom:bbox":"-36.1688661402,-8.59388663442,-35.9659653879,-8.36175719959",
     "geom:latitude":-8.482761,
     "geom:longitude":-36.061267,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.487211,
     "lbl:longitude":-36.051263,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056505
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260080705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bced97607023c5169fbf87710399b091",
+    "wof:geomhash":"cd39f6a98e9eeeb142e4f95454de339e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560135,
-    "wof:lastmodified":1577837904,
+    "wof:lastmodified":1695878726,
     "wof:name":"Altinho",
     "wof:parent_id":102056505,
     "wof:placetype":"localadmin",

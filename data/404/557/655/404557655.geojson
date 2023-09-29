@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00986,
-    "geom:area_square_m":113266322.025172,
+    "geom:area_square_m":113266322.025194,
     "geom:bbox":"-43.789577,-21.804872,-43.658356,-21.658408",
     "geom:latitude":-21.725281,
     "geom:longitude":-43.729117,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.725444,
     "lbl:longitude":-43.728129,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062f\u0631\u0648 \u062a\u0643\u0633\u064a\u0631\u0627"
@@ -60,19 +69,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054547,
         1511777411,
-        85681941
+        102054547
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314940805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054547
     ],
     "wof:country":"BR",
-    "wof:geomhash":"e3861e3d088d5702765313a7a435ab73",
+    "wof:geomhash":"8bd5b28de051d5d3a2b898b985cf602e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404557655,
-    "wof:lastmodified":1608031979,
+    "wof:lastmodified":1695878801,
     "wof:name":"Pedro Teixeira",
     "wof:parent_id":102054547,
     "wof:placetype":"localadmin",

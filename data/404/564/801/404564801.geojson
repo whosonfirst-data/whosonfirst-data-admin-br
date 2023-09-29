@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012013,
-    "geom:area_square_m":130333770.587044,
+    "geom:area_square_m":130333770.587031,
     "geom:bbox":"-53.0352748165,-28.7741180887,-52.916042551,-28.5752375403",
     "geom:latitude":-28.666901,
     "geom:longitude":-52.978284,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.611258,
     "lbl:longitude":-52.964317,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b2\u09ac\u09be\u099a"
@@ -94,9 +103,12 @@
         102059989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432030505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3598f65d57874252c7ebb81b3ab7335a",
+    "wof:geomhash":"f71afe79b0b1c6b7c3e0832918656e3b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404564801,
-    "wof:lastmodified":1577827946,
+    "wof:lastmodified":1695878292,
     "wof:name":"Selbach",
     "wof:parent_id":102059989,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024134,
-    "geom:area_square_m":262052182.536257,
+    "geom:area_square_m":262052182.536286,
     "geom:bbox":"-49.685114,-28.636678,-49.368769,-28.500921",
     "geom:latitude":-28.583338,
     "geom:longitude":-49.526662,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.589142,
     "lbl:longitude":-49.526749,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09bf\u09a1\u09c7\u09b0\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -81,19 +90,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060773,
         1511777409,
-        85682021
+        102060773
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421760005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060773
     ],
     "wof:country":"BR",
-    "wof:geomhash":"9e8f12803b9e046e56b3f2a95d87dc9f",
+    "wof:geomhash":"2841d1e7038425ee18e4033ad17adc02",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404565913,
-    "wof:lastmodified":1608034332,
+    "wof:lastmodified":1695878821,
     "wof:name":"Sider\u00f3polis",
     "wof:parent_id":102060773,
     "wof:placetype":"localadmin",

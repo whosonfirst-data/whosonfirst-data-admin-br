@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012718,
-    "geom:area_square_m":149515200.292455,
+    "geom:area_square_m":149515200.292452,
     "geom:bbox":"-44.636837,-18.1271169972,-44.47912,-17.9455379972",
     "geom:latitude":-18.054772,
     "geom:longitude":-44.562562,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.058382,
     "lbl:longitude":-44.575618,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053721
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311910408"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"898cce40291ec79d3e4c726729821b5a",
+    "wof:geomhash":"73a21e61ed3e5a54291b914cd248cd01",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556053,
-    "wof:lastmodified":1577832592,
+    "wof:lastmodified":1695878334,
     "wof:name":"Beltr\u00e3o",
     "wof:parent_id":102053721,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013558,
-    "geom:area_square_m":166084302.617209,
+    "geom:area_square_m":166084302.617197,
     "geom:bbox":"-37.6207580387,-7.89608069629,-37.4293599769,-7.70860257274",
     "geom:latitude":-7.814992,
     "geom:longitude":-37.522367,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.822709,
     "lbl:longitude":-37.528879,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u0997\u09c1\u09f1\u09be\u09b0\u09be\u09b8\u09bf"
@@ -91,9 +100,12 @@
         102056655
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260690305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"05da11ad5ec0500b0f3ec31e8dc22bbc",
+    "wof:geomhash":"f2016d23dbc8708c6cdce774004569c6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404560397,
-    "wof:lastmodified":1577837839,
+    "wof:lastmodified":1695878711,
     "wof:name":"Iguaraci",
     "wof:parent_id":102056655,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001011,
-    "geom:area_square_m":11458485.668788,
+    "geom:area_square_m":11458485.668793,
     "geom:bbox":"-46.558226,-23.535309,-46.488558,-23.507035",
     "geom:latitude":-23.523195,
     "geom:longitude":-46.528772,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.523057,
     "lbl:longitude":-46.528776,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Penha"
@@ -55,9 +64,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030859"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"18597806cf01a30b386af7d29b024efc",
+    "wof:geomhash":"59fd6e0574af2e691786ac1202b1f004",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":404567391,
-    "wof:lastmodified":1577833288,
+    "wof:lastmodified":1695878572,
     "wof:name":"Penha",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

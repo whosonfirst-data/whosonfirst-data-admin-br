@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034728,
-    "geom:area_square_m":428823401.706848,
+    "geom:area_square_m":428823401.706671,
     "geom:bbox":"-40.1754549732,-3.31613524249,-39.9087137084,-2.82379321401",
     "geom:latitude":-3.016726,
     "geom:longitude":-40.075239,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-2.948556,
     "lbl:longitude":-40.106606,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u0995\u09be\u09b0\u09be\u0989"
@@ -97,9 +106,12 @@
         102051407
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230020005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f0737a5a67a7dd3d98f8e653a6c99907",
+    "wof:geomhash":"9142a0229569997c36039971846bafa7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404552253,
-    "wof:lastmodified":1577837920,
+    "wof:lastmodified":1695878731,
     "wof:name":"Acara\u00fa",
     "wof:parent_id":102051407,
     "wof:placetype":"localadmin",

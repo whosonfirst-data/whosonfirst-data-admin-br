@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.284412,
-    "geom:area_square_m":3458008901.925994,
+    "geom:area_square_m":3458008901.926029,
     "geom:bbox":"-52.2193561741,-10.7479930323,-51.3086658995,-10.2091060536",
     "geom:latitude":-10.49177,
     "geom:longitude":-51.767271,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.507091,
     "lbl:longitude":-51.722313,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a8\u09ab\u09cd\u09b0\u09c7\u09b8\u09be"
@@ -94,9 +103,12 @@
         102055423
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510335305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"95385131a0b5c57d3fc3f8e3ed0ab916",
+    "wof:geomhash":"52eb002797a6a13052251f5efc82300e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404559179,
-    "wof:lastmodified":1577836095,
+    "wof:lastmodified":1695878630,
     "wof:name":"Confresa",
     "wof:parent_id":102055423,
     "wof:placetype":"localadmin",

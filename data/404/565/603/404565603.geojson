@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036466,
-    "geom:area_square_m":404160274.250485,
+    "geom:area_square_m":404160274.250405,
     "geom:bbox":"-49.8203236727,-26.4879885965,-49.6029965283,-26.1839861361",
     "geom:latitude":-26.320118,
     "geom:longitude":-49.717868,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.318569,
     "lbl:longitude":-49.719538,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060529
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421010015"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"46049cb2b77ca57ede775a53131ae01b",
+    "wof:geomhash":"303f4c670eeb01dd99ffd735b54f8b99",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565603,
-    "wof:lastmodified":1577827812,
+    "wof:lastmodified":1695878229,
     "wof:name":"Rio Preto Do Sul",
     "wof:parent_id":102060529,
     "wof:placetype":"localadmin",

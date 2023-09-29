@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025781,
-    "geom:area_square_m":283723532.206258,
+    "geom:area_square_m":283723532.206238,
     "geom:bbox":"-49.023874,-27.256136,-48.789366,-26.998047",
     "geom:latitude":-27.124698,
     "geom:longitude":-48.909711,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.12141,
     "lbl:longitude":-48.900017,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Brusque"
@@ -64,12 +73,15 @@
         102060293
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420290905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060293
     ],
     "wof:country":"BR",
-    "wof:geomhash":"fae1bb754421db57c63e9facdcb48ee4",
+    "wof:geomhash":"1ef6a8a72acc12e7beec8fc0e9fb144b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404565243,
-    "wof:lastmodified":1636496453,
+    "wof:lastmodified":1695878867,
     "wof:name":"Brusque",
     "wof:parent_id":102060293,
     "wof:placetype":"localadmin",

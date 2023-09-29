@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039169,
-    "geom:area_square_m":431561846.977436,
+    "geom:area_square_m":431561846.977757,
     "geom:bbox":"-49.32498,-27.164039,-49.128304,-26.831062",
     "geom:latitude":-26.994351,
     "geom:longitude":-49.224105,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.996169,
     "lbl:longitude":-49.232071,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09a8\u09cd\u09a1\u09be\u0987\u0986\u09b2"
@@ -78,19 +87,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060443,
         1511777409,
-        85682021
+        102060443
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420750205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060443
     ],
     "wof:country":"BR",
-    "wof:geomhash":"d0c05cba9d470f6c013b70b812896b0f",
+    "wof:geomhash":"3359ce37fa5a758b30ce43d75787afac",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404565493,
-    "wof:lastmodified":1608034431,
+    "wof:lastmodified":1695878823,
     "wof:name":"Indaial",
     "wof:parent_id":102060443,
     "wof:placetype":"localadmin",

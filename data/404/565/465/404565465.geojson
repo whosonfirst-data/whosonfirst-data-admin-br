@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014177,
-    "geom:area_square_m":156063756.348288,
+    "geom:area_square_m":156063756.348261,
     "geom:bbox":"-51.463788,-27.212931,-51.278725,-27.018021",
     "geom:latitude":-27.092224,
     "geom:longitude":-51.37008,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.087036,
     "lbl:longitude":-51.371516,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09bf\u0995\u09be\u09b0\u09c7"
@@ -84,19 +93,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060427,
         1511777409,
-        85682021
+        102060427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420680105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060427
     ],
     "wof:country":"BR",
-    "wof:geomhash":"3d47c53ab0f4a89ea621f990eb3c92cc",
+    "wof:geomhash":"80270d757571918ade56862f653f9258",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404565465,
-    "wof:lastmodified":1608034282,
+    "wof:lastmodified":1695878820,
     "wof:name":"Ibicar\u00e9",
     "wof:parent_id":102060427,
     "wof:placetype":"localadmin",

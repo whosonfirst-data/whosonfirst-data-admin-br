@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020812,
-    "geom:area_square_m":227515923.725214,
+    "geom:area_square_m":227515923.725225,
     "geom:bbox":"-53.7235701098,-27.9572034147,-53.5115369245,-27.7626888587",
     "geom:latitude":-27.857711,
     "geom:longitude":-53.610163,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.86025,
     "lbl:longitude":-53.608617,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Campo Santo"
@@ -49,9 +58,12 @@
         102059301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430590015"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2a2b30d9d2b3083dda8d7fae2668e4b8",
+    "wof:geomhash":"9c58b1680985357eb0cce02d0c20827e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":404563429,
-    "wof:lastmodified":1577827867,
+    "wof:lastmodified":1695878255,
     "wof:name":"Campo Santo",
     "wof:parent_id":102059301,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.875365,
-    "geom:area_square_m":22221952694.235645,
+    "geom:area_square_m":22221952694.23526,
     "geom:bbox":"-58.796045,-17.627826,-57.075941,-15.453028",
     "geom:latitude":-16.600216,
     "geom:longitude":-57.861726,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.507875,
     "lbl:longitude":-57.920303,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "C\u00e1ceres"
@@ -121,12 +130,15 @@
         102055389
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510250405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102055389
     ],
     "wof:country":"BR",
-    "wof:geomhash":"8074b77eb3d804812387e369649ef0c5",
+    "wof:geomhash":"3bd2bfd94e3889c20e9c681a30244ad1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":404559127,
-    "wof:lastmodified":1617129935,
+    "wof:lastmodified":1695878827,
     "wof:name":"C\u00e1ceres",
     "wof:parent_id":102055389,
     "wof:placetype":"localadmin",

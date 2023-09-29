@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028321,
-    "geom:area_square_m":305214435.852725,
+    "geom:area_square_m":305214435.852711,
     "geom:bbox":"-55.111591357,-29.4852969451,-54.8653720519,-29.2091262756",
     "geom:latitude":-29.360288,
     "geom:longitude":-54.983929,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.359317,
     "lbl:longitude":-54.975606,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059897
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431810110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"45a026bf92d955a9465ac1230cde624f",
+    "wof:geomhash":"eab11f76c1a412648a8d24e569af5ada",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564573,
-    "wof:lastmodified":1577827794,
+    "wof:lastmodified":1695878221,
     "wof:name":"Beluno",
     "wof:parent_id":102059897,
     "wof:placetype":"localadmin",

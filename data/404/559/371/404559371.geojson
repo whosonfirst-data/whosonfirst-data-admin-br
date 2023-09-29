@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052176,
-    "geom:area_square_m":623296989.489301,
+    "geom:area_square_m":623296989.489339,
     "geom:bbox":"-56.3784763603,-15.0818884443,-55.9374237078,-14.8201995382",
     "geom:latitude":-14.960619,
     "geom:longitude":-56.127451,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.942128,
     "lbl:longitude":-56.094435,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Arruda"
@@ -49,9 +58,12 @@
         102055603
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510770110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5ee512a2eb238859a8a16ec2c08e29ee",
+    "wof:geomhash":"6d259b726f3bea3c2329841924fe9c32",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":404559371,
-    "wof:lastmodified":1577836160,
+    "wof:lastmodified":1695878645,
     "wof:name":"Arruda",
     "wof:parent_id":102055603,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000541,
-    "geom:area_square_m":6136370.031085,
+    "geom:area_square_m":6136370.031087,
     "geom:bbox":"-46.612544,-23.554021,-46.578843,-23.522718",
     "geom:latitude":-23.537636,
     "geom:longitude":-46.594708,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.536566,
     "lbl:longitude":-46.594709,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bel\u00e9m"
@@ -262,9 +271,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030808"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2423ccd7c22790b2f6877a1315ff3252",
+    "wof:geomhash":"d5dbb6490723abcf0be151d3bd464b52",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -276,7 +288,7 @@
         }
     ],
     "wof:id":404567277,
-    "wof:lastmodified":1577832600,
+    "wof:lastmodified":1695878337,
     "wof:name":"Bel\u00e9m",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

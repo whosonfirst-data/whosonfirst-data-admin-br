@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000751,
-    "geom:area_square_m":8509076.490912,
+    "geom:area_square_m":8509076.490919,
     "geom:bbox":"-46.58501,-23.556088,-46.548245,-23.522932",
     "geom:latitude":-23.538624,
     "geom:longitude":-46.567346,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.538405,
     "lbl:longitude":-46.569536,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Tatuap\u00e9"
@@ -40,9 +49,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030880"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"433e0bb8fd2a016c527ccbdc44e8576f",
+    "wof:geomhash":"052adcaf16f87b96366ce5fc87fe767f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404567439,
-    "wof:lastmodified":1577832638,
+    "wof:lastmodified":1695878354,
     "wof:name":"Tatuap\u00e9",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

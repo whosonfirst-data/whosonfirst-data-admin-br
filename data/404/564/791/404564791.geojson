@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001298,
-    "geom:area_square_m":14223518.579732,
+    "geom:area_square_m":14223518.579725,
     "geom:bbox":"-54.0220756847,-27.629746761,-53.9625413899,-27.5874575896",
     "geom:latitude":-27.608239,
     "geom:longitude":-53.991426,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.607313,
     "lbl:longitude":-53.988499,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u099f\u09c7 \u09ac\u09c7\u09b2\u09cb"
@@ -97,9 +106,12 @@
         102059985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432023020"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"264232fe2fc733449a592dc89d4d5792",
+    "wof:geomhash":"d46db7eb26e563e9c3e92922ff347b56",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404564791,
-    "wof:lastmodified":1577827953,
+    "wof:lastmodified":1695878295,
     "wof:name":"Monte Belo",
     "wof:parent_id":102059985,
     "wof:placetype":"localadmin",

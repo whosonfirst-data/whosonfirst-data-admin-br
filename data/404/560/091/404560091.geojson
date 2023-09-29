@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010138,
-    "geom:area_square_m":124177422.528382,
+    "geom:area_square_m":124177422.528393,
     "geom:bbox":"-35.140063,-7.930007,-34.860754,-7.794453",
     "geom:latitude":-7.87835,
     "geom:longitude":-35.021705,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.861894,
     "lbl:longitude":-35.081944,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102056487
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260005405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102056487
     ],
     "wof:country":"BR",
-    "wof:geomhash":"83b913bec61d1c91ba2361cebe25132a",
+    "wof:geomhash":"47811f4f4aa9b1f4ff19e342b4cca6b9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404560091,
-    "wof:lastmodified":1617130937,
+    "wof:lastmodified":1695878840,
     "wof:name":"Abreu E Lima",
     "wof:parent_id":102056487,
     "wof:placetype":"localadmin",

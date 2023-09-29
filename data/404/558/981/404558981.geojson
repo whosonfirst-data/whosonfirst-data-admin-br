@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149312,
-    "geom:area_square_m":1707418822.236081,
+    "geom:area_square_m":1707418822.236049,
     "geom:bbox":"-54.1174251183,-22.5722056554,-53.5365632027,-22.147050335",
     "geom:latitude":-22.362927,
     "geom:longitude":-53.837868,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.346441,
     "lbl:longitude":-53.832363,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ad\u09bf\u09a8\u09b9\u09c7\u09ae\u09be"
@@ -94,9 +103,12 @@
         102055263
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500470005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6ddae8d3ad8bb358ee151ba36298cdd0",
+    "wof:geomhash":"b71ff557776dc8d2d96a0ad95f8e6685",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404558981,
-    "wof:lastmodified":1577836152,
+    "wof:lastmodified":1695878644,
     "wof:name":"Ivinhema",
     "wof:parent_id":102055263,
     "wof:placetype":"localadmin",

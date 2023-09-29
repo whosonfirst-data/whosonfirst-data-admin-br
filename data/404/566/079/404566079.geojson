@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017749,
-    "geom:area_square_m":203377514.999559,
+    "geom:area_square_m":203377514.999613,
     "geom:bbox":"-51.598492542,-22.1780072598,-51.3925127846,-21.9522602965",
     "geom:latitude":-22.07477,
     "geom:longitude":-51.48536,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.075006,
     "lbl:longitude":-51.478321,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09ad\u09be\u09b0\u09c7\u09b8 \u09ae\u09be\u099a\u09be\u09a1\u09cb"
@@ -94,9 +103,12 @@
         102061023
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350130105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c88e290cab3bcafcb74f403cb62d807f",
+    "wof:geomhash":"813e220809994d8d6e4dd710a803c107",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404566079,
-    "wof:lastmodified":1577832615,
+    "wof:lastmodified":1695878345,
     "wof:name":"\u00c1lvares Machado",
     "wof:parent_id":102061023,
     "wof:placetype":"localadmin",

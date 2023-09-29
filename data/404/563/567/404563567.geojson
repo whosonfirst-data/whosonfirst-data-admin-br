@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001356,
-    "geom:area_square_m":14891521.114324,
+    "geom:area_square_m":14891521.114321,
     "geom:bbox":"-53.9689718771,-27.3709100728,-53.9169739818,-27.3091514137",
     "geom:latitude":-27.340488,
     "geom:longitude":-53.946901,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.34069,
     "lbl:longitude":-53.946506,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430745007"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0e7b8e560d74662bb1cb1f3a362727bf",
+    "wof:geomhash":"262ef1fc37dd5244d9005f6989872713",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404563567,
-    "wof:lastmodified":1577827793,
+    "wof:lastmodified":1695878220,
     "wof:name":"A\u00e7oita Cavalo",
     "wof:parent_id":102059383,
     "wof:placetype":"localadmin",

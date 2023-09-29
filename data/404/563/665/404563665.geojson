@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015771,
-    "geom:area_square_m":171552694.967089,
+    "geom:area_square_m":171552694.967037,
     "geom:bbox":"-52.115401,-28.476333,-51.96379,-28.303628",
     "geom:latitude":-28.39082,
     "geom:longitude":-52.038649,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.406507,
     "lbl:longitude":-52.032502,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gentil"
@@ -51,19 +60,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682015,
         102191577,
         85633009,
-        102059439,
         1511777409,
-        85682015
+        102059439
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430885405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102059439
     ],
     "wof:country":"BR",
-    "wof:geomhash":"db3d43ef683d83d33a4d908d71897c92",
+    "wof:geomhash":"f9dd742ef9141893cfd0e06266df7144",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404563665,
-    "wof:lastmodified":1608033701,
+    "wof:lastmodified":1695878817,
     "wof:name":"Gentil",
     "wof:parent_id":102059439,
     "wof:placetype":"localadmin",

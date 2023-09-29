@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009114,
-    "geom:area_square_m":101584881.857539,
+    "geom:area_square_m":101584881.857573,
     "geom:bbox":"-52.8570056382,-25.7374156893,-52.7814834933,-25.5656542605",
     "geom:latitude":-25.65776,
     "geom:longitude":-52.813577,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.657726,
     "lbl:longitude":-52.814299,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ouro Verde"
@@ -64,9 +73,12 @@
         102058171
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412480617"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1382a46682b9a1360a3174c7a3a74489",
+    "wof:geomhash":"8367295205f9cebb713fe9a038e706ae",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":404561877,
-    "wof:lastmodified":1577827978,
+    "wof:lastmodified":1695878307,
     "wof:name":"Ouro Verde",
     "wof:parent_id":102058171,
     "wof:placetype":"localadmin",

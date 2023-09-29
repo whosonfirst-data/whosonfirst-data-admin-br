@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008569,
-    "geom:area_square_m":94470205.585679,
+    "geom:area_square_m":94470205.585672,
     "geom:bbox":"-51.408048,-26.984309,-51.267767,-26.865523",
     "geom:latitude":-26.921166,
     "geom:longitude":-51.336778,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.90916,
     "lbl:longitude":-51.326078,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b0\u09cd\u09b0\u09cb\u0987\u0993 \u099f\u09cd\u09b0\u09bf\u09a8\u09cd\u099f\u09be"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060233,
         1511777409,
-        85682021
+        102060233
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420160405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060233
     ],
     "wof:country":"BR",
-    "wof:geomhash":"83f3c1b04806d73d6afc293b344e99b8",
+    "wof:geomhash":"9299fad153a63ab513ef0620cd8b36f2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404565177,
-    "wof:lastmodified":1608034494,
+    "wof:lastmodified":1695878824,
     "wof:name":"Arroio Trinta",
     "wof:parent_id":102060233,
     "wof:placetype":"localadmin",

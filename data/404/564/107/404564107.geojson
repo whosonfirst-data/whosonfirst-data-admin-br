@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007289,
-    "geom:area_square_m":78534727.491736,
+    "geom:area_square_m":78534727.491692,
     "geom:bbox":"-52.8573415865,-29.4780873156,-52.7497007736,-29.3164616432",
     "geom:latitude":-29.390493,
     "geom:longitude":-52.796737,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.386801,
     "lbl:longitude":-52.793017,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Murta"
@@ -46,9 +55,12 @@
         102059717
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431406820"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3a38e3ae86aa36edea4e02f49d28880e",
+    "wof:geomhash":"5a48092eb59d58ecf45a8628c598f142",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":404564107,
-    "wof:lastmodified":1577827903,
+    "wof:lastmodified":1695878272,
     "wof:name":"Murta",
     "wof:parent_id":102059717,
     "wof:placetype":"localadmin",

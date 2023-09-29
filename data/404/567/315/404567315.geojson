@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001319,
-    "geom:area_square_m":14950844.840843,
+    "geom:area_square_m":14950844.840791,
     "geom:bbox":"-46.42347,-23.61627,-46.377279,-23.562142",
     "geom:latitude":-23.584725,
     "geom:longitude":-46.400815,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.586108,
     "lbl:longitude":-46.399238,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -38,14 +47,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "bra-ibge:code":"355030825",
         "gn:id":8449528,
         "qs_pg:id":358547
     },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"60fb7f7759bb4931f751522656f5f525",
+    "wof:geomhash":"1aefe09985ee05e45ec38cea01b36960",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":404567315,
-    "wof:lastmodified":1582321205,
+    "wof:lastmodified":1695878749,
     "wof:name":"Cidade Tiradentes",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

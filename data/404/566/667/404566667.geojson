@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007899,
-    "geom:area_square_m":89966583.687613,
+    "geom:area_square_m":89966583.687591,
     "geom:bbox":"-47.951204362,-22.9775209391,-47.8061863886,-22.8606676405",
     "geom:latitude":-22.912867,
     "geom:longitude":-47.874585,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.901029,
     "lbl:longitude":-47.893788,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352640710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bc77a913ec510b4ed371172f3055f604",
+    "wof:geomhash":"851a59e6b4be7f3068302f1e1f802cf2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566667,
-    "wof:lastmodified":1577833142,
+    "wof:lastmodified":1695878525,
     "wof:name":"Laras",
     "wof:parent_id":102061661,
     "wof:placetype":"localadmin",

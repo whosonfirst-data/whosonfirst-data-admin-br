@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009751,
-    "geom:area_square_m":117270335.321422,
+    "geom:area_square_m":117270335.321398,
     "geom:bbox":"-39.0609165329,-13.5026097942,-38.9583704386,-13.3720936832",
     "geom:latitude":-13.436361,
     "geom:longitude":-39.00949,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.441309,
     "lbl:longitude":-39.01562,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Gale\u00e3o"
@@ -40,9 +49,12 @@
         102050615
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290540410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"44f487b2161f8954d358ca3c25903eee",
+    "wof:geomhash":"dd9117a3ff1cddf42e33b3440fe3c10b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404550649,
-    "wof:lastmodified":1577837666,
+    "wof:lastmodified":1695878669,
     "wof:name":"Gale\u00e3o",
     "wof:parent_id":102050615,
     "wof:placetype":"localadmin",

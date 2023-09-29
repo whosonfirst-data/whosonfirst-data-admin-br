@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008856,
-    "geom:area_square_m":100074798.083348,
+    "geom:area_square_m":100074798.083242,
     "geom:bbox":"-46.32546,-24.042137,-46.121525,-23.856231",
     "geom:latitude":-23.951721,
     "geom:longitude":-46.218283,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.960084,
     "lbl:longitude":-46.210548,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Quaruja"
@@ -144,19 +153,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061465,
         1511777411,
-        85682041
+        102061465
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351870105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101956233
     ],
     "wof:country":"BR",
-    "wof:geomhash":"41ea86818968229785e70385f6997421",
+    "wof:geomhash":"9e09a1da0f7659a2d023a9aefdd80178",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -168,7 +180,7 @@
         }
     ],
     "wof:id":404566469,
-    "wof:lastmodified":1608023518,
+    "wof:lastmodified":1695878753,
     "wof:name":"Guaruj\u00e1",
     "wof:parent_id":102061465,
     "wof:placetype":"localadmin",

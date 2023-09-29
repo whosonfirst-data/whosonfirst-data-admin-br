@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01859,
-    "geom:area_square_m":228064387.255306,
+    "geom:area_square_m":228064387.255335,
     "geom:bbox":"-38.9186541788,-7.24464206561,-38.6197422245,-7.12510314037",
     "geom:latitude":-7.188629,
     "geom:longitude":-38.757599,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.18544,
     "lbl:longitude":-38.747401,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0648"
@@ -100,9 +109,12 @@
         102051455
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230200805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a3cd03e9bf588bc94ffff5dc050c44a3",
+    "wof:geomhash":"8ba3a1b6855bd2057212a38880b277ea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404552473,
-    "wof:lastmodified":1577837675,
+    "wof:lastmodified":1695878671,
     "wof:name":"Barro",
     "wof:parent_id":102051455,
     "wof:placetype":"localadmin",

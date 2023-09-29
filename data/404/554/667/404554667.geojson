@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01417,
-    "geom:area_square_m":165691384.447227,
+    "geom:area_square_m":165691384.447248,
     "geom:bbox":"-40.3645679215,-19.0524605507,-40.2189852335,-18.8985509658",
     "geom:latitude":-18.97547,
     "geom:longitude":-40.297739,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.973807,
     "lbl:longitude":-40.299121,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051987
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320517615"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ea37241e9da9a2498862416cb6eadd92",
+    "wof:geomhash":"4cccaf46bb8e50c29213ed123e60ab48",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554667,
-    "wof:lastmodified":1577833274,
+    "wof:lastmodified":1695878566,
     "wof:name":"Jurama",
     "wof:parent_id":102051987,
     "wof:placetype":"localadmin",

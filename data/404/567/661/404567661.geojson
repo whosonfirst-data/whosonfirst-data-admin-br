@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135062,
-    "geom:area_square_m":1635739695.845412,
+    "geom:area_square_m":1635739695.845191,
     "geom:bbox":"-47.8269637062,-11.9019313646,-47.3963777874,-11.2431974581",
     "geom:latitude":-11.635957,
     "geom:longitude":-47.579888,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.643081,
     "lbl:longitude":-47.565291,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Natividade"
@@ -58,9 +67,12 @@
         102062623
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"171420305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c40a0ae56663c1f4cc7fe8952de8ee45",
+    "wof:geomhash":"d1afb39409cad95f9eac129c07c0dd70",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":404567661,
-    "wof:lastmodified":1577825661,
+    "wof:lastmodified":1695878151,
     "wof:name":"Natividade",
     "wof:parent_id":102062623,
     "wof:placetype":"localadmin",

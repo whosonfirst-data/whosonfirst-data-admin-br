@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011355,
-    "geom:area_square_m":128676076.296046,
+    "geom:area_square_m":128676076.296068,
     "geom:bbox":"-51.3824321774,-23.6385757941,-51.2142458417,-23.5231195793",
     "geom:latitude":-23.58703,
     "geom:longitude":-51.308018,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.590762,
     "lbl:longitude":-51.323322,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057443
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410140810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3cfec7340e3443f8ac03356089175ce2",
+    "wof:geomhash":"ae420f797d2c73b34cdace1006e6e6d3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560869,
-    "wof:lastmodified":1577827831,
+    "wof:lastmodified":1695878236,
     "wof:name":"Correia De Freitas",
     "wof:parent_id":102057443,
     "wof:placetype":"localadmin",

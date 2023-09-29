@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022121,
-    "geom:area_square_m":258280049.983435,
+    "geom:area_square_m":258280049.983406,
     "geom:bbox":"-51.5738622031,-19.3093898016,-51.3645579757,-19.1396065692",
     "geom:latitude":-19.225682,
     "geom:longitude":-51.48201,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.223164,
     "lbl:longitude":-51.480011,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055299
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500630935"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"907b3c79753b4c9e4be8a0163ac016b2",
+    "wof:geomhash":"454f609babb23a548a9fb01ed180414a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559011,
-    "wof:lastmodified":1577836163,
+    "wof:lastmodified":1695878646,
     "wof:name":"S\u00e3o Jo\u00e3o Do Apor\u00e9",
     "wof:parent_id":102055299,
     "wof:placetype":"localadmin",

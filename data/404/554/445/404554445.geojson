@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004983,
-    "geom:area_square_m":58125620.210606,
+    "geom:area_square_m":58125620.21056,
     "geom:bbox":"-40.090721,-19.424801,-40.003067,-19.298409",
     "geom:latitude":-19.368661,
     "geom:longitude":-40.052849,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.365402,
     "lbl:longitude":-40.059481,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0646\u0627\u0631\u064a\u0633"
@@ -121,12 +130,15 @@
         102051913
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320320505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101954555
     ],
     "wof:country":"BR",
-    "wof:geomhash":"177155d825e68b4bd8001816c7f18e47",
+    "wof:geomhash":"7c06491635840073bd9565e8721495b5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":404554445,
-    "wof:lastmodified":1636496461,
+    "wof:lastmodified":1695878868,
     "wof:name":"Linhares",
     "wof:parent_id":102051913,
     "wof:placetype":"localadmin",

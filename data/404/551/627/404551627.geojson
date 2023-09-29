@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014943,
-    "geom:area_square_m":179423873.513949,
+    "geom:area_square_m":179423873.513844,
     "geom:bbox":"-39.669547,-13.899736,-39.488689,-13.719775",
     "geom:latitude":-13.816291,
     "geom:longitude":-39.588021,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.812915,
     "lbl:longitude":-39.596888,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u0987\u09ac\u09bf\u09af\u09bc\u09be"
@@ -100,12 +109,15 @@
         102051085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292275505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102051085
     ],
     "wof:country":"BR",
-    "wof:geomhash":"bcb11b845246ebf20d5611dd45c105be",
+    "wof:geomhash":"ce3d452204666f290797f82bc6d31bc5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404551627,
-    "wof:lastmodified":1617129945,
+    "wof:lastmodified":1695878827,
     "wof:name":"Nova Ibi\u00e1",
     "wof:parent_id":102051085,
     "wof:placetype":"localadmin",

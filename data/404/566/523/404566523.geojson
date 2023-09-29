@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003168,
-    "geom:area_square_m":35956931.904871,
+    "geom:area_square_m":35956931.904877,
     "geom:bbox":"-47.7449821103,-23.3983816347,-47.6711766734,-23.3297466584",
     "geom:latitude":-23.362245,
     "geom:longitude":-47.704446,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.363768,
     "lbl:longitude":-47.70374,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09aa\u09c7\u09b0\u09cb"
@@ -91,9 +100,12 @@
         102061531
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352100205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1768f83b83cd7b75e956406d6987c2e5",
+    "wof:geomhash":"0d1346684a52d23ac6e68e7ab95531f2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404566523,
-    "wof:lastmodified":1577833376,
+    "wof:lastmodified":1695878597,
     "wof:name":"Iper\u00f3",
     "wof:parent_id":102061531,
     "wof:placetype":"localadmin",

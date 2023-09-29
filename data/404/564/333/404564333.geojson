@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016584,
-    "geom:area_square_m":180430849.755405,
+    "geom:area_square_m":180430849.755392,
     "geom:bbox":"-53.1713620239,-28.468809058,-52.9899656375,-28.2776364373",
     "geom:latitude":-28.370358,
     "geom:longitude":-53.089558,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.376072,
     "lbl:longitude":-53.095757,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09b2\u09a1\u09be\u09a8\u09b9\u09be \u09ae\u09be\u09b0\u09bf\u09a8\u09b9\u09cb"
@@ -88,9 +97,12 @@
         102059835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431643605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"97771656fcff1b19c0b0f666ebc1d4b6",
+    "wof:geomhash":"b8bf6a07488892b7317d1abe6bcb1886",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404564333,
-    "wof:lastmodified":1577827826,
+    "wof:lastmodified":1695878234,
     "wof:name":"Saldanha Marinho",
     "wof:parent_id":102059835,
     "wof:placetype":"localadmin",

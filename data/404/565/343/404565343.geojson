@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036449,
-    "geom:area_square_m":403552139.428152,
+    "geom:area_square_m":403552139.428322,
     "geom:bbox":"-49.49683,-26.548735,-49.158133,-26.308339",
     "geom:latitude":-26.441204,
     "geom:longitude":-49.325542,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.456088,
     "lbl:longitude":-49.300047,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b0\u09c1\u09aa\u09be"
@@ -81,19 +90,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060349,
         1511777409,
-        85682021
+        102060349
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420450905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060349
     ],
     "wof:country":"BR",
-    "wof:geomhash":"610d8d99dd3c80e22d9a028aa36e11ce",
+    "wof:geomhash":"6be23afafd269e362c7340979f975b90",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404565343,
-    "wof:lastmodified":1608034525,
+    "wof:lastmodified":1695878824,
     "wof:name":"Corup\u00e1",
     "wof:parent_id":102060349,
     "wof:placetype":"localadmin",

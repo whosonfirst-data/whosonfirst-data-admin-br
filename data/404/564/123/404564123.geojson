@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004621,
-    "geom:area_square_m":50297112.903768,
+    "geom:area_square_m":50297112.903782,
     "geom:bbox":"-52.3337033457,-28.3871774161,-52.2129606345,-28.272997514",
     "geom:latitude":-28.32969,
     "geom:longitude":-52.286347,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.322754,
     "lbl:longitude":-52.310604,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059723
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431410045"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2164fba8b8f6bae84d1cc33c9b28da15",
+    "wof:geomhash":"2981e0ea2019d2e555b932a432070878",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564123,
-    "wof:lastmodified":1577827905,
+    "wof:lastmodified":1695878274,
     "wof:name":"Sede Independ\u00eancia",
     "wof:parent_id":102059723,
     "wof:placetype":"localadmin",

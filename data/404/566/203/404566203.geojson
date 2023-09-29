@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011958,
-    "geom:area_square_m":135779490.580989,
+    "geom:area_square_m":135779490.580977,
     "geom:bbox":"-47.1913558845,-23.4045823978,-46.9587812647,-23.2665056868",
     "geom:latitude":-23.327816,
     "geom:longitude":-47.095017,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.327197,
     "lbl:longitude":-47.116235,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ac\u09cd\u09b0\u09c7\u0989\u09ad\u09be"
@@ -91,9 +100,12 @@
         102061205
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350840505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9cb73ab7f61133d785c9aec8aa49ed5f",
+    "wof:geomhash":"441777f0be357fe7e696c2e15145e674",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404566203,
-    "wof:lastmodified":1577832746,
+    "wof:lastmodified":1695878392,
     "wof:name":"Cabre\u00fava",
     "wof:parent_id":102061205,
     "wof:placetype":"localadmin",

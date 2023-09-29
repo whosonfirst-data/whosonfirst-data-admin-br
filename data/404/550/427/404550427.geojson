@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019092,
-    "geom:area_square_m":230241072.346855,
+    "geom:area_square_m":230241072.346847,
     "geom:bbox":"-41.452027351,-12.880943605,-41.275912105,-12.659474589",
     "geom:latitude":-12.764882,
     "geom:longitude":-41.366923,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.767648,
     "lbl:longitude":-41.375595,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u09a1\u09be\u09b0\u09be\u0987"
@@ -106,9 +115,12 @@
         102050495
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290130405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4ce6321d320f64127705ab5c34673784",
+    "wof:geomhash":"f835efde9d84efac3c258995fd4e2f7b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404550427,
-    "wof:lastmodified":1577837922,
+    "wof:lastmodified":1695878731,
     "wof:name":"Andara\u00ed",
     "wof:parent_id":102050495,
     "wof:placetype":"localadmin",

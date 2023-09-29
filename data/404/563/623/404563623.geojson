@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025426,
-    "geom:area_square_m":275025030.120375,
+    "geom:area_square_m":275025030.120321,
     "geom:bbox":"-52.5038226682,-29.0998667444,-52.2592726799,-28.8902197787",
     "geom:latitude":-28.98295,
     "geom:longitude":-52.41314,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.966071,
     "lbl:longitude":-52.431632,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09cb\u09a8\u099f\u09cc\u09b0\u09be \u0995\u09cd\u09b8\u09be\u09ad\u09bf\u09af\u09bc\u09c7\u09b0"
@@ -94,9 +103,12 @@
         102059419
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430830005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2be7a92694782ffffa115c2d3888d190",
+    "wof:geomhash":"b0cc3383116b45ee930b321321da9e5f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404563623,
-    "wof:lastmodified":1577827715,
+    "wof:lastmodified":1695878184,
     "wof:name":"Fontoura Xavier",
     "wof:parent_id":102059419,
     "wof:placetype":"localadmin",

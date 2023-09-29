@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006739,
-    "geom:area_square_m":77381991.975487,
+    "geom:area_square_m":77381991.975513,
     "geom:bbox":"-50.1520268861,-21.8379405914,-50.043401543,-21.6840730724",
     "geom:latitude":-21.782611,
     "geom:longitude":-50.090843,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.797843,
     "lbl:longitude":-50.091645,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351700015"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"08f59335b07abfa58c39e629c8f66fca",
+    "wof:geomhash":"75558149f3ee51290c390ff13ff60b4e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566441,
-    "wof:lastmodified":1577832937,
+    "wof:lastmodified":1695878462,
     "wof:name":"Santa Am\u00e9rica",
     "wof:parent_id":102061427,
     "wof:placetype":"localadmin",

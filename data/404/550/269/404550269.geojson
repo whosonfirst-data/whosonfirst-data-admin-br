@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.248323,
-    "geom:area_square_m":3066045820.896628,
+    "geom:area_square_m":3066045820.896669,
     "geom:bbox":"-59.5005293905,-3.4043223892,-58.5526854544,-2.73900172688",
     "geom:latitude":-3.106356,
     "geom:longitude":-59.072265,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.107396,
     "lbl:longitude":-59.065098,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050351
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"130190210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"40ce3ce4493ef5a88b2f9a1c5f6dbdb5",
+    "wof:geomhash":"4aaf591d00dbfd80eed42132231a22ce",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550269,
-    "wof:lastmodified":1577825682,
+    "wof:lastmodified":1695878161,
     "wof:name":"Amatari",
     "wof:parent_id":102050351,
     "wof:placetype":"localadmin",

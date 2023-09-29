@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006372,
-    "geom:area_square_m":68799894.004692,
+    "geom:area_square_m":68799894.004681,
     "geom:bbox":"-51.5799101777,-29.1994138441,-51.4513824709,-29.1229516568",
     "geom:latitude":-29.161207,
     "geom:longitude":-51.513622,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.16408,
     "lbl:longitude":-51.508398,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bento Gon\u00e7alves"
@@ -49,9 +58,12 @@
         102059133
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430210505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"11d0a5707e22dabc77e09ee18d14eb7e",
+    "wof:geomhash":"33b7c13c3adc6f9fc7d76bfcb1174b44",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":404563069,
-    "wof:lastmodified":1577827897,
+    "wof:lastmodified":1695878269,
     "wof:name":"Bento Gon\u00e7alves",
     "wof:parent_id":102059133,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000696,
-    "geom:area_square_m":7894986.205116,
+    "geom:area_square_m":7894986.205125,
     "geom:bbox":"-46.598857,-23.504008,-46.559947,-23.4722190492",
     "geom:latitude":-23.488749,
     "geom:longitude":-46.577504,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.485687,
     "lbl:longitude":-46.576182,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Vila Medeiros"
@@ -37,9 +46,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030892"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"83cc6883581a0e0df402fc3770442ab9",
+    "wof:geomhash":"dd37fc4817b20bb8347612e30ee065a2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404567465,
-    "wof:lastmodified":1577833374,
+    "wof:lastmodified":1695878596,
     "wof:name":"Vila Medeiros",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

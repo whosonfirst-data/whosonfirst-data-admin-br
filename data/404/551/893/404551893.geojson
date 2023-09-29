@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06525,
-    "geom:area_square_m":777711852.623728,
+    "geom:area_square_m":777711852.623687,
     "geom:bbox":"-39.481929,-15.605469,-39.009831,-15.309585",
     "geom:latitude":-15.4402,
     "geom:longitude":-39.241572,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.443756,
     "lbl:longitude":-39.261282,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u09b2\u09c1\u099c\u09bf\u09af\u09bc\u09be"
@@ -103,12 +112,15 @@
         102051233
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292805905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102051233
     ],
     "wof:country":"BR",
-    "wof:geomhash":"4bba179956ca9b779e95f39a9c044a86",
+    "wof:geomhash":"704805e1e3761498947e53f01f176277",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404551893,
-    "wof:lastmodified":1617131302,
+    "wof:lastmodified":1695878845,
     "wof:name":"Santa Luzia",
     "wof:parent_id":102051233,
     "wof:placetype":"localadmin",

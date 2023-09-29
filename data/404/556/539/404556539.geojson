@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03313,
-    "geom:area_square_m":391590036.080043,
+    "geom:area_square_m":391590036.080162,
     "geom:bbox":"-43.71971,-17.208377,-43.48838,-16.927308",
     "geom:latitude":-17.078522,
     "geom:longitude":-43.620614,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.067022,
     "lbl:longitude":-43.63198,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09b0\u09be\u09b8\u09bf\u09af\u09bc\u09be\u09ae\u09be"
@@ -93,19 +102,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053971,
         1511777411,
-        85681941
+        102053971
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312825305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053971
     ],
     "wof:country":"BR",
-    "wof:geomhash":"0dbc445cbe559981ef0bb5968dc4cfa7",
+    "wof:geomhash":"ab2144265b967c6477470173f11a61fd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404556539,
-    "wof:lastmodified":1608029480,
+    "wof:lastmodified":1695878763,
     "wof:name":"Guaraciama",
     "wof:parent_id":102053971,
     "wof:placetype":"localadmin",

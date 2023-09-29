@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.187966,
-    "geom:area_square_m":2222674555.434503,
+    "geom:area_square_m":2222674555.434255,
     "geom:bbox":"-40.079908,-17.242378,-39.437233,-16.728782",
     "geom:latitude":-16.999969,
     "geom:longitude":-39.774817,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.037515,
     "lbl:longitude":-39.823448,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u062a\u0627\u0645\u0627\u0631\u0627\u062c\u0648"
@@ -130,12 +139,15 @@
         102050879
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291560105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050879
     ],
     "wof:country":"BR",
-    "wof:geomhash":"f6a4c663462f1e302a12115dc56a6483",
+    "wof:geomhash":"3816c11b3e58fcc6e32051db60b1f8b4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":404551191,
-    "wof:lastmodified":1636496408,
+    "wof:lastmodified":1695878853,
     "wof:name":"Itamaraju",
     "wof:parent_id":102050879,
     "wof:placetype":"localadmin",

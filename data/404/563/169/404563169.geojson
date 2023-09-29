@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005594,
-    "geom:area_square_m":59885291.749884,
+    "geom:area_square_m":59885291.749907,
     "geom:bbox":"-52.957089,-30.066393,-52.809198,-29.986853",
     "geom:latitude":-30.026942,
     "geom:longitude":-52.895994,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.024934,
     "lbl:longitude":-52.895988,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682015,
         102191577,
         85633009,
-        102059173,
         1511777409,
-        85682015
+        102059173
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430300405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101959057
     ],
     "wof:country":"BR",
-    "wof:geomhash":"e7b7da035e7a7321a6398120b21b6874",
+    "wof:geomhash":"32880102b2330fad84b3c0df7caa37d0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404563169,
-    "wof:lastmodified":1608022394,
+    "wof:lastmodified":1695878751,
     "wof:name":"Cachoeira Do Sul",
     "wof:parent_id":102059173,
     "wof:placetype":"localadmin",

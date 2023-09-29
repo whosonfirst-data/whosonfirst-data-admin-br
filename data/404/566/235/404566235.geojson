@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048026,
-    "geom:area_square_m":551381240.238187,
+    "geom:area_square_m":551381240.238044,
     "geom:bbox":"-52.14394,-22.048043,-51.844056,-21.542203",
     "geom:latitude":-21.801925,
     "geom:longitude":-51.986937,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.86,
     "lbl:longitude":-52.011155,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0987\u09f1\u09be"
@@ -81,19 +90,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061221,
         1511777411,
-        85682041
+        102061221
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350910605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061221
     ],
     "wof:country":"BR",
-    "wof:geomhash":"8a833840153e2309c62076e5c8b3dd32",
+    "wof:geomhash":"e6c53d97106bb44cf7381402201e2c5b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404566235,
-    "wof:lastmodified":1608030767,
+    "wof:lastmodified":1695878782,
     "wof:name":"Caiu\u00e1",
     "wof:parent_id":102061221,
     "wof:placetype":"localadmin",

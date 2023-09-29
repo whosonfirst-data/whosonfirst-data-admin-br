@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02439,
-    "geom:area_square_m":300247066.861994,
+    "geom:area_square_m":300247066.861983,
     "geom:bbox":"-39.4623091504,-5.52657599166,-39.2184115063,-5.30669237933",
     "geom:latitude":-5.413056,
     "geom:longitude":-39.354725,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.402696,
     "lbl:longitude":-39.373161,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041b\u0430\u0441\u0435\u0440\u0434\u0430"
@@ -40,9 +49,12 @@
         102051739
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231140515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2531ad4e35b4d1fd8e306ed6f646dd00",
+    "wof:geomhash":"5bfe5f73c1722e3212b162272e3ed80c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404553725,
-    "wof:lastmodified":1577837952,
+    "wof:lastmodified":1695878739,
     "wof:name":"Lacerda",
     "wof:parent_id":102051739,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004252,
-    "geom:area_square_m":48118606.471492,
+    "geom:area_square_m":48118606.471517,
     "geom:bbox":"-45.4979306668,-23.7900570558,-45.396901,-23.708133758",
     "geom:latitude":-23.751664,
     "geom:longitude":-45.442415,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.746507,
     "lbl:longitude":-45.43477,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102062265
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355070415"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"556472af919dd9262992b76396f589e9",
+    "wof:geomhash":"0fd06ecfdef0057b1c43152b1bde6066",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404567493,
-    "wof:lastmodified":1577832970,
+    "wof:lastmodified":1695878472,
     "wof:name":"S\u00e3o Francisco Da Praia",
     "wof:parent_id":102062265,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025577,
-    "geom:area_square_m":292353492.407757,
+    "geom:area_square_m":292353492.407831,
     "geom:bbox":"-46.668223,-22.522804,-46.419334,-22.33346",
     "geom:latitude":-22.420283,
     "geom:longitude":-46.519317,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.410057,
     "lbl:longitude":-46.500474,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u099f\u09c7 \u09b8\u09bf\u09af\u09bc\u09be\u0993"
@@ -93,19 +102,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054377,
         1511777411,
-        85681941
+        102054377
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314340105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054377
     ],
     "wof:country":"BR",
-    "wof:geomhash":"b973519499197d6f33272bfb611a0f9e",
+    "wof:geomhash":"7176d0a2971bff9e3145aad62ec6b422",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404557331,
-    "wof:lastmodified":1608031694,
+    "wof:lastmodified":1695878789,
     "wof:name":"Monte Si\u00e3o",
     "wof:parent_id":102054377,
     "wof:placetype":"localadmin",

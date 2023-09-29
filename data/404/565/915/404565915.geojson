@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004525,
-    "geom:area_square_m":48888051.553829,
+    "geom:area_square_m":48888051.553812,
     "geom:bbox":"-49.7414365663,-29.1426119992,-49.5967997208,-29.0599285814",
     "geom:latitude":-29.098343,
     "geom:longitude":-49.659797,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.106553,
     "lbl:longitude":-49.634591,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09cb\u09ae\u09ac\u09cd\u09b0\u09bf\u0993"
@@ -85,9 +94,12 @@
         102060775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421770905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9517b29d0d658b7bb54ed454afc1c2ca",
+    "wof:geomhash":"d5a84217dffd62bf8b5e07f067ae80fc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404565915,
-    "wof:lastmodified":1577828000,
+    "wof:lastmodified":1695878317,
     "wof:name":"Sombrio",
     "wof:parent_id":102060775,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007072,
-    "geom:area_square_m":80488865.764377,
+    "geom:area_square_m":80488865.764402,
     "geom:bbox":"-44.0125553115,-23.1024106275,-43.8590797603,-22.8818326072",
     "geom:latitude":-23.015638,
     "geom:longitude":-43.930947,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.068227,
     "lbl:longitude":-43.957068,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330260115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"59626db0db38ef13591ca832c828a6bf",
+    "wof:geomhash":"64ded3eee033b9a119f5d1a98eeed009",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562347,
-    "wof:lastmodified":1577833290,
+    "wof:lastmodified":1695878573,
     "wof:name":"Itacuruss\u00e1",
     "wof:parent_id":102058393,
     "wof:placetype":"localadmin",

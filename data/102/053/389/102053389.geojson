@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106157,
-    "geom:area_square_m":1263784443.339344,
+    "geom:area_square_m":1263784443.33882,
     "geom:bbox":"-41.747946,-15.9660729975,-41.3421705033,-15.4814669976",
     "geom:latitude":-15.683415,
     "geom:longitude":-41.521701,
@@ -32,7 +32,7 @@
     "mps:latitude":-15.71103,
     "mps:longitude":-41.524834,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u0997\u09c1\u09f1\u09be\u09b8 \u09ad\u09c7\u09b0\u09cd\u09ae\u09c7\u09b2\u09b9\u09be\u09b8"
@@ -90,9 +90,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3101003"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"22b4303cb92f83d8e73e350f3faf6d93",
+    "wof:geomhash":"f1c31193419f5240b875730468dde41f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102053389,
-    "wof:lastmodified":1577831740,
+    "wof:lastmodified":1695887062,
     "wof:name":"Aguas Vermelhas",
     "wof:parent_id":85681941,
     "wof:placetype":"county",

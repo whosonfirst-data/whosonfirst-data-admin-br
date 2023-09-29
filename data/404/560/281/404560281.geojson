@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014083,
-    "geom:area_square_m":172137187.344425,
+    "geom:area_square_m":172137187.344453,
     "geom:bbox":"-35.8179335316,-8.80098292779,-35.6418223176,-8.57896502082",
     "geom:latitude":-8.688733,
     "geom:longitude":-35.724613,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.673371,
     "lbl:longitude":-35.718625,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u099f\u09c7\u09a8\u09cd\u09a1\u09c7"
@@ -85,9 +94,12 @@
         102056591
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260420505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1b38473dfa9af7836ba41ea1b7034e43",
+    "wof:geomhash":"0a5a5a7a6b07ccef6c3bca46dc0187c5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404560281,
-    "wof:lastmodified":1577837634,
+    "wof:lastmodified":1695878661,
     "wof:name":"Catende",
     "wof:parent_id":102056591,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003518,
-    "geom:area_square_m":43184681.852714,
+    "geom:area_square_m":43184681.852727,
     "geom:bbox":"-35.2055515415,-6.95317318202,-35.1009695393,-6.89351058509",
     "geom:latitude":-6.919994,
     "geom:longitude":-35.152118,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.918957,
     "lbl:longitude":-35.148547,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09aa\u09bf\u09ae"
@@ -85,9 +94,12 @@
         102056101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250403305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6ff304488612fb32988dab97dd1b089e",
+    "wof:geomhash":"8d7ad3168479b57dc94943f664f525ef",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404559901,
-    "wof:lastmodified":1577837841,
+    "wof:lastmodified":1695878711,
     "wof:name":"Capim",
     "wof:parent_id":102056101,
     "wof:placetype":"localadmin",

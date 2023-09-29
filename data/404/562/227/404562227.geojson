@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018602,
-    "geom:area_square_m":212562092.982369,
+    "geom:area_square_m":212562092.982332,
     "geom:bbox":"-42.3041759493,-22.5566352355,-42.1394104185,-22.3523561524",
     "geom:latitude":-22.464921,
     "geom:longitude":-42.223242,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.472426,
     "lbl:longitude":-42.224505,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058349
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330130605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0c800317d893fdc18115e5fd8c8ea987",
+    "wof:geomhash":"ef68ee1f93ab54291fe74a9d049aa531",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562227,
-    "wof:lastmodified":1577832769,
+    "wof:lastmodified":1695878401,
     "wof:name":"Casimiro De Abreu",
     "wof:parent_id":102058349,
     "wof:placetype":"localadmin",

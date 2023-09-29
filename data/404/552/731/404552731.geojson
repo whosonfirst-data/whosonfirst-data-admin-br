@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021143,
-    "geom:area_square_m":260921963.147771,
+    "geom:area_square_m":260921963.147792,
     "geom:bbox":"-40.823039774,-3.664027567,-40.5709530034,-3.50519893742",
     "geom:latitude":-3.578235,
     "geom:longitude":-40.708958,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.581925,
     "lbl:longitude":-40.700279,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09b0\u09c7\u09af\u09bc\u09be\u0989"
@@ -85,9 +94,12 @@
         102051509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230400405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c9eeabe892ced361f8b9e382e33f91b0",
+    "wof:geomhash":"ad28dc798916f2bef3ea57eabaf46670",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404552731,
-    "wof:lastmodified":1577837950,
+    "wof:lastmodified":1695878739,
     "wof:name":"Corea\u00fa",
     "wof:parent_id":102051509,
     "wof:placetype":"localadmin",

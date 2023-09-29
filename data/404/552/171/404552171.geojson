@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022249,
-    "geom:area_square_m":269077072.157358,
+    "geom:area_square_m":269077072.157362,
     "geom:bbox":"-41.252959356,-12.1373988216,-41.0921813649,-11.8914011284",
     "geom:latitude":-12.027603,
     "geom:longitude":-41.169376,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.048165,
     "lbl:longitude":-41.163867,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051371
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"293280410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5eae7b6f4d98f6cbe7c6d92d4c28fd3d",
+    "wof:geomhash":"0d75ac4e396acd30415b8b1e8c2b8ad6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404552171,
-    "wof:lastmodified":1577837909,
+    "wof:lastmodified":1695878728,
     "wof:name":"Riach\u00e3o Do Utinga",
     "wof:parent_id":102051371,
     "wof:placetype":"localadmin",

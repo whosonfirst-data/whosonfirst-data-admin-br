@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027971,
-    "geom:area_square_m":315373205.520259,
+    "geom:area_square_m":315373205.520253,
     "geom:bbox":"-51.135180073,-24.3437691305,-50.8522511006,-24.1476047637",
     "geom:latitude":-24.241028,
     "geom:longitude":-50.9856,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.26422,
     "lbl:longitude":-51.030618,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u062a\u064a\u063a\u0648\u064a\u0631\u0627"
@@ -115,9 +124,12 @@
         102057951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411730505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"05dc30423dc0eadfce86f7b6d5f19b17",
+    "wof:geomhash":"e88658c86341e1ac6aa5685b4de29b5b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":404561563,
-    "wof:lastmodified":1577827794,
+    "wof:lastmodified":1695878221,
     "wof:name":"Ortigueira",
     "wof:parent_id":102057951,
     "wof:placetype":"localadmin",

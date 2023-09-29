@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055332,
-    "geom:area_square_m":657497618.252823,
+    "geom:area_square_m":657497618.252813,
     "geom:bbox":"-47.1895944557,-16.1957589975,-46.88828,-15.9166282271",
     "geom:latitude":-16.056779,
     "geom:longitude":-47.052733,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.045301,
     "lbl:longitude":-47.055596,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ac\u09c7\u09b8\u09c7\u0987\u09b0\u09be \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
@@ -94,9 +103,12 @@
         102053297
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310945105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"11d20c809d3194739b47c9c0d8140608",
+    "wof:geomhash":"740a50f3e57360ffd3f61d9b801daff7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404555579,
-    "wof:lastmodified":1577833071,
+    "wof:lastmodified":1695878504,
     "wof:name":"Cabeceira Grande",
     "wof:parent_id":102053297,
     "wof:placetype":"localadmin",

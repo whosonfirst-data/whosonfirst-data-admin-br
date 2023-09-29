@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022523,
-    "geom:area_square_m":262051585.755331,
+    "geom:area_square_m":262051585.755339,
     "geom:bbox":"-40.9968961407,-19.8893112435,-40.7707404262,-19.7017344391",
     "geom:latitude":-19.788064,
     "geom:longitude":-40.88366,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.785241,
     "lbl:longitude":-40.881962,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u0997\u09c1\u09f1\u09be\u0995\u09c1"
@@ -91,9 +100,12 @@
         102051895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320270205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a89d7890be7b83585dfe5c85bec6e9e1",
+    "wof:geomhash":"69715e008602d99ab4fbb5c0683e8adb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404554391,
-    "wof:lastmodified":1577832866,
+    "wof:lastmodified":1695878436,
     "wof:name":"Itagua\u00e7u",
     "wof:parent_id":102051895,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010084,
-    "geom:area_square_m":117926991.437953,
+    "geom:area_square_m":117926991.438019,
     "geom:bbox":"-41.93735,-19.0221999965,-41.76202,-18.9082889965",
     "geom:latitude":-18.962022,
     "geom:longitude":-41.854127,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.96312,
     "lbl:longitude":-41.862754,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055085
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316950510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c343cb5f7af9eddef1813c9b1a7f5cfa",
+    "wof:geomhash":"e5a6d36fa0679e37e8679d437c9de7bf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558633,
-    "wof:lastmodified":1577833034,
+    "wof:lastmodified":1695878493,
     "wof:name":"S\u00e3o Geraldo De Tumiritinga",
     "wof:parent_id":102055085,
     "wof:placetype":"localadmin",

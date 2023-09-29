@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027775,
-    "geom:area_square_m":335318467.642405,
+    "geom:area_square_m":335318467.642403,
     "geom:bbox":"-38.6118692671,-12.6002442785,-38.330616232,-12.4114939494",
     "geom:latitude":-12.488689,
     "geom:longitude":-38.479593,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.493252,
     "lbl:longitude":-38.477768,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051277
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292950305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"65da799502f9b341bde484db82a03e3b",
+    "wof:geomhash":"1294b888ece40aa4ccd60dfaab6b360f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551977,
-    "wof:lastmodified":1577837988,
+    "wof:lastmodified":1695878748,
     "wof:name":"S\u00e3o Sebasti\u00e3o Do Pass\u00e9",
     "wof:parent_id":102051277,
     "wof:placetype":"localadmin",

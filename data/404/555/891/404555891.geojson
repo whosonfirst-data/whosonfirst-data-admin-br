@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15269,
-    "geom:area_square_m":1818341362.404484,
+    "geom:area_square_m":1818341362.40475,
     "geom:bbox":"-45.604603,-15.9003939975,-45.15519,-15.3265949976",
     "geom:latitude":-15.616428,
     "geom:longitude":-45.376357,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.632338,
     "lbl:longitude":-45.358354,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053649
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311615920"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ddacb1afd9c010434114290ca7312c49",
+    "wof:geomhash":"cb2382a5e1e04aebdc0c8bf907710c94",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555891,
-    "wof:lastmodified":1577833225,
+    "wof:lastmodified":1695878549,
     "wof:name":"Serra Das Araras",
     "wof:parent_id":102053649,
     "wof:placetype":"localadmin",

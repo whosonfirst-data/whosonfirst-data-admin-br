@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023568,
-    "geom:area_square_m":260115892.885221,
+    "geom:area_square_m":260115892.885206,
     "geom:bbox":"-51.473859,-26.880489,-51.236809,-26.720407",
     "geom:latitude":-26.80321,
     "geom:longitude":-51.354471,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.802901,
     "lbl:longitude":-51.354564,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Macieira"
@@ -57,19 +66,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060527,
         1511777409,
-        85682021
+        102060527
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421005005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060527
     ],
     "wof:country":"BR",
-    "wof:geomhash":"18f163a4d2c9edc1e502b1773beba2bc",
+    "wof:geomhash":"92449ee2f3bd21d40c8a4924e1d23159",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404565595,
-    "wof:lastmodified":1608034161,
+    "wof:lastmodified":1695878818,
     "wof:name":"Macieira",
     "wof:parent_id":102060527,
     "wof:placetype":"localadmin",

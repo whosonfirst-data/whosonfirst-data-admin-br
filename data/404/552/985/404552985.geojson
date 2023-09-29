@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024842,
-    "geom:area_square_m":306139436.749728,
+    "geom:area_square_m":306139436.749726,
     "geom:bbox":"-37.5574847531,-4.79200046498,-37.3198425521,-4.62590561825",
     "geom:latitude":-4.717444,
     "geom:longitude":-37.449686,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.719473,
     "lbl:longitude":-37.452172,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u0995\u09be\u09aa\u09c1\u0987"
@@ -88,9 +97,12 @@
         102051569
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230535705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"08236431d1d37d6497907ece7360b3a8",
+    "wof:geomhash":"2e324d6c0fcf1c2140edd390aa59fe38",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404552985,
-    "wof:lastmodified":1577837985,
+    "wof:lastmodified":1695878747,
     "wof:name":"Icapu\u00ed",
     "wof:parent_id":102051569,
     "wof:placetype":"localadmin",

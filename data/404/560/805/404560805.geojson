@@ -10,12 +10,21 @@
     "geom:latitude":-8.342575,
     "geom:longitude":-43.337608,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.396696,
     "lbl:longitude":-43.436947,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681977,
         102191577,
         85633009,
-        102057011,
         1511777415,
-        85681977
+        102057011
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"220230705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102057011
     ],
     "wof:country":"BR",
-    "wof:geomhash":"8c7dc285d4f6d99b43691274cc424f2b",
+    "wof:geomhash":"22a8478a2ece38ed4c1aab9492498d26",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404560805,
-    "wof:lastmodified":1608029789,
+    "wof:lastmodified":1695878771,
     "wof:name":"Canto Do Buriti",
     "wof:parent_id":102057011,
     "wof:placetype":"localadmin",

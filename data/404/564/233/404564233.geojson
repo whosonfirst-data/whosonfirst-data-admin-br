@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004617,
-    "geom:area_square_m":50067552.401538,
+    "geom:area_square_m":50067552.401534,
     "geom:bbox":"-53.2645864238,-28.7573377264,-53.1416839463,-28.6820986789",
     "geom:latitude":-28.725628,
     "geom:longitude":-53.21004,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.725333,
     "lbl:longitude":-53.215169,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431535420"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b1713f6a1f0f6c9fd8b195e2c3d8b7e2",
+    "wof:geomhash":"b0052104fb21b46f6121f2fe14692854",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564233,
-    "wof:lastmodified":1577827920,
+    "wof:lastmodified":1695878281,
     "wof:name":"Santa Clara Do Inga\u00ed",
     "wof:parent_id":102059797,
     "wof:placetype":"localadmin",

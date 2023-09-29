@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001806,
-    "geom:area_square_m":19747136.030378,
+    "geom:area_square_m":19747136.030375,
     "geom:bbox":"-53.813243849,-27.8808746798,-53.760434388,-27.8270666742",
     "geom:latitude":-27.853215,
     "geom:longitude":-53.78339,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.854369,
     "lbl:longitude":-53.782885,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09cb \u0994\u0997\u09c1\u09b8\u099f\u09cb"
@@ -91,9 +100,12 @@
         102059887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431780605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3f67416f1f1e74a708f7c372f0d2ad6c",
+    "wof:geomhash":"e42be21da0e15635ced1fe4ee6fbeaa6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404564537,
-    "wof:lastmodified":1577827881,
+    "wof:lastmodified":1695878262,
     "wof:name":"Santo Augusto",
     "wof:parent_id":102059887,
     "wof:placetype":"localadmin",

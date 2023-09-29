@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.947495,
-    "geom:area_square_m":48494785070.380653,
+    "geom:area_square_m":48494785070.378311,
     "geom:bbox":"-62.856546,-8.862893,-60.51351,-4.712048",
     "geom:latitude":-6.459799,
     "geom:longitude":-61.446499,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.367923,
     "lbl:longitude":-61.136345,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u064a\u0643\u0648\u0631\u064a"
@@ -103,12 +112,15 @@
         102050373
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"130270205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050373
     ],
     "wof:country":"BR",
-    "wof:geomhash":"976baa75ed93dbb54b4e63627f02acd5",
+    "wof:geomhash":"f1083380e8e5f685c4b54f3610ed30c2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404550271,
-    "wof:lastmodified":1617130268,
+    "wof:lastmodified":1695878833,
     "wof:name":"Manicor\u00e9",
     "wof:parent_id":102050373,
     "wof:placetype":"localadmin",

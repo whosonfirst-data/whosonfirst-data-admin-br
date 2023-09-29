@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036774,
-    "geom:area_square_m":419965051.252088,
+    "geom:area_square_m":419965051.252293,
     "geom:bbox":"-44.6796204504,-22.6411879773,-44.3190846936,-22.4600297629",
     "geom:latitude":-22.546257,
     "geom:longitude":-44.477607,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.538048,
     "lbl:longitude":-44.465351,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09c7\u09b8\u09c7\u09a8\u09cd\u09a1\u09c7"
@@ -88,9 +97,12 @@
         102058445
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330420105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"10261b579d76c55bea2bacbc70a6dc44",
+    "wof:geomhash":"7ebeae4e3dce99a66a32656b3a4efe66",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404562457,
-    "wof:lastmodified":1577832909,
+    "wof:lastmodified":1695878453,
     "wof:name":"Resende",
     "wof:parent_id":102058445,
     "wof:placetype":"localadmin",

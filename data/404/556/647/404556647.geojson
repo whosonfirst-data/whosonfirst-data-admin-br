@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003864,
-    "geom:area_square_m":45063356.375133,
+    "geom:area_square_m":45063356.375071,
     "geom:bbox":"-42.019745,-19.459547997,-41.95348,-19.343555997",
     "geom:latitude":-19.409888,
     "geom:longitude":-41.987718,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.408887,
     "lbl:longitude":-41.988224,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313090313"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"73745cf9c764bbd2ffea49cd103553fc",
+    "wof:geomhash":"62f21cd4251d695cdfd95b78c6ecaee4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556647,
-    "wof:lastmodified":1577833011,
+    "wof:lastmodified":1695878485,
     "wof:name":"Jerusal\u00e9m",
     "wof:parent_id":102054041,
     "wof:placetype":"localadmin",

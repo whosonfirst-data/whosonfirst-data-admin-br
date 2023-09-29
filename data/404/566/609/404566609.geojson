@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038506,
-    "geom:area_square_m":440611539.695007,
+    "geom:area_square_m":440611539.695039,
     "geom:bbox":"-47.9170183248,-22.4569677865,-47.7106006009,-22.12787",
     "geom:latitude":-22.273112,
     "geom:longitude":-47.815209,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.262537,
     "lbl:longitude":-47.813613,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09bf\u09b0\u09be\u09aa\u09bf\u09a8\u09be"
@@ -91,9 +100,12 @@
         102061597
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352360205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b689549fedf62e27645a0996bc2cd15b",
+    "wof:geomhash":"2fa7f24e9ff805b4115de587c5f653a6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404566609,
-    "wof:lastmodified":1577833043,
+    "wof:lastmodified":1695878496,
     "wof:name":"Itirapina",
     "wof:parent_id":102061597,
     "wof:placetype":"localadmin",

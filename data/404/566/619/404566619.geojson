@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010586,
-    "geom:area_square_m":122696689.950846,
+    "geom:area_square_m":122696689.950892,
     "geom:bbox":"-47.719612879,-20.4816739599,-47.6152159169,-20.3128990773",
     "geom:latitude":-20.38894,
     "geom:longitude":-47.665977,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.384328,
     "lbl:longitude":-47.666043,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061607
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352410510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ecd7e0e5314da137899afc56cc5c88d0",
+    "wof:geomhash":"6600d05134a57063ccef618a63d17d93",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566619,
-    "wof:lastmodified":1577833383,
+    "wof:lastmodified":1695878600,
     "wof:name":"Capivari Da Mata",
     "wof:parent_id":102061607,
     "wof:placetype":"localadmin",

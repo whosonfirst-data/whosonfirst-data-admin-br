@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007397,
-    "geom:area_square_m":83862029.990794,
+    "geom:area_square_m":83862029.990777,
     "geom:bbox":"-47.32524,-23.603654,-47.229769,-23.463439",
     "geom:latitude":-23.533021,
     "geom:longitude":-47.281259,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.533399,
     "lbl:longitude":-47.272578,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u0989\u09ae\u09bf\u09a8\u09bf\u0993"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061019,
         1511777411,
-        85682041
+        102061019
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350115205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061019
     ],
     "wof:country":"BR",
-    "wof:geomhash":"b0aad197e542adb00b45bcdbfe7004b8",
+    "wof:geomhash":"0a8e70301e3cbdb978d2c8e6e9acc834",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404566073,
-    "wof:lastmodified":1608030916,
+    "wof:lastmodified":1695878784,
     "wof:name":"Alum\u00ednio",
     "wof:parent_id":102061019,
     "wof:placetype":"localadmin",

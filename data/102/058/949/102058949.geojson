@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.269345,
-    "geom:area_square_m":3279371002.180963,
+    "geom:area_square_m":3279371002.180817,
     "geom:bbox":"-64.3474047312,-10.3621593613,-63.5243047498,-9.81263702619",
     "geom:latitude":-10.052115,
     "geom:longitude":-63.941163,
@@ -29,7 +29,7 @@
     "mps:latitude":-10.020832,
     "mps:longitude":-63.933642,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c1\u09b0\u09bf\u099f\u09bf\u09b8"
@@ -108,9 +108,12 @@
         1511777407
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"1100452"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7139109969d2f7ee447a4aeedfaf2d9d",
+    "wof:geomhash":"772b697d6ba97f2f1f9d2704c64c1372",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":102058949,
-    "wof:lastmodified":1577825631,
+    "wof:lastmodified":1695886982,
     "wof:name":"Buritis",
     "wof:parent_id":85682003,
     "wof:placetype":"county",

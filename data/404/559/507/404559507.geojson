@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084466,
-    "geom:area_square_m":1044083548.926614,
+    "geom:area_square_m":1044083548.926599,
     "geom:bbox":"-48.7630440429,-1.69932177405,-48.4390442513,-1.19216676372",
     "geom:latitude":-1.484117,
     "geom:longitude":-48.605568,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-1.501825,
     "lbl:longitude":-48.589784,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barcarena"
@@ -55,9 +64,12 @@
         102055701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"150130305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0383b71d0f44be9ff5156fcfa6c30f4c",
+    "wof:geomhash":"cf65d0d8c744936390559c21023fe213",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":404559507,
-    "wof:lastmodified":1577825686,
+    "wof:lastmodified":1695878164,
     "wof:name":"Barcarena",
     "wof:parent_id":102055701,
     "wof:placetype":"localadmin",

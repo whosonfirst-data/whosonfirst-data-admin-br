@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008844,
-    "geom:area_square_m":102694279.256755,
+    "geom:area_square_m":102694279.2568,
     "geom:bbox":"-42.905716,-20.1561759969,-42.7556,-20.063578042",
     "geom:latitude":-20.104849,
     "geom:longitude":-42.830259,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.112489,
     "lbl:longitude":-42.831685,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09ae-\u09aa\u09c7\u0987\u0995\u09cd\u09b8\u09c7"
@@ -94,9 +103,12 @@
         102054983
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316556005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"386a7e065b71ec648d3fca35cfffe65a",
+    "wof:geomhash":"8eeda49933b6eccfe8a32af3da554dac",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404558453,
-    "wof:lastmodified":1577832945,
+    "wof:lastmodified":1695878466,
     "wof:name":"Sem-Peixe",
     "wof:parent_id":102054983,
     "wof:placetype":"localadmin",

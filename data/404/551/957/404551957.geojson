@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037363,
-    "geom:area_square_m":453277809.870472,
+    "geom:area_square_m":453277809.870462,
     "geom:bbox":"-41.93919959,-11.2611636974,-41.6586622061,-10.9897202694",
     "geom:latitude":-11.152596,
     "geom:longitude":-41.80113,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.153069,
     "lbl:longitude":-41.80113,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "S\u00e3o Gabriel"
@@ -67,9 +76,12 @@
         102051267
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292925505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"431c356c8d45876972444d911f49728a",
+    "wof:geomhash":"728227b1257048c46f60a8107b0732c3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404551957,
-    "wof:lastmodified":1577837952,
+    "wof:lastmodified":1695878739,
     "wof:name":"S\u00e3o Gabriel",
     "wof:parent_id":102051267,
     "wof:placetype":"localadmin",

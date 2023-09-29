@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051699,
-    "geom:area_square_m":610356420.216763,
+    "geom:area_square_m":610356420.216745,
     "geom:bbox":"-44.16122,-17.449689,-43.83295,-17.146229",
     "geom:latitude":-17.296491,
     "geom:longitude":-44.014039,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.283527,
     "lbl:longitude":-44.025207,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u098f\u09a8\u0997\u09c7\u09a8\u09b9\u09c7\u0987\u09b0\u09cb \u09a8\u09be\u09ad\u09be\u09b0\u09cd\u09b0\u09cb"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053847,
         1511777411,
-        85681941
+        102053847
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312380905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053847
     ],
     "wof:country":"BR",
-    "wof:geomhash":"cd918d4b33d1fec580f6bc10f008bf9c",
+    "wof:geomhash":"805ce382b383d18540d56bccc8c68c15",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404556285,
-    "wof:lastmodified":1608029558,
+    "wof:lastmodified":1695878766,
     "wof:name":"Engenheiro Navarro",
     "wof:parent_id":102053847,
     "wof:placetype":"localadmin",

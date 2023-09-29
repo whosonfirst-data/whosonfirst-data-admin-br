@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013517,
-    "geom:area_square_m":145962029.299423,
+    "geom:area_square_m":145962029.29943,
     "geom:bbox":"-49.711887,-29.240632,-49.516475,-29.057957",
     "geom:latitude":-29.153079,
     "geom:longitude":-49.615357,
@@ -32,7 +32,7 @@
     "mps:latitude":-29.170522,
     "mps:longitude":-49.633114,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b2\u09a8\u09c7\u0986\u09b0\u09bf\u0993 \u0997\u09be\u0987\u09ad\u09cb\u099f\u09be"
@@ -86,18 +86,20 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777409,
-        85682021
+        85682021,
+        1511777409
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "bra-ibge:code":"4202073",
         "gp:id":26794521
     },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404565193
     ],
     "wof:country":"BR",
-    "wof:geomhash":"c4affc44e65e94cd3edaaa0ba82daa3c",
+    "wof:geomhash":"8dee8ec1d4ff511f2a488bf1ba8e7f15",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":102060251,
-    "wof:lastmodified":1608034174,
+    "wof:lastmodified":1695887481,
     "wof:name":"Balneario Gaivota",
     "wof:parent_id":85682021,
     "wof:placetype":"county",

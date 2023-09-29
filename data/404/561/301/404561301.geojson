@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002131,
-    "geom:area_square_m":23686413.072874,
+    "geom:area_square_m":23686413.072876,
     "geom:bbox":"-52.9656927977,-26.0071379759,-52.8912917879,-25.9411506072",
     "geom:latitude":-25.977295,
     "geom:longitude":-52.931565,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.978074,
     "lbl:longitude":-52.938335,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411120910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"14d528abb171cb2977ac945c0783743f",
+    "wof:geomhash":"76cefb011e9c26c2459a10c4b7e8851c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561301,
-    "wof:lastmodified":1577827736,
+    "wof:lastmodified":1695878194,
     "wof:name":"Barra Grande",
     "wof:parent_id":102057763,
     "wof:placetype":"localadmin",

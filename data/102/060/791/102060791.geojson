@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011565,
-    "geom:area_square_m":127638232.128568,
+    "geom:area_square_m":127638232.128652,
     "geom:bbox":"-49.338462,-26.879574,-49.199209,-26.746012",
     "geom:latitude":-26.807822,
     "geom:longitude":-49.269016,
@@ -35,7 +35,7 @@
     "mps:latitude":-26.809837,
     "mps:longitude":-49.268985,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Timba"
@@ -90,12 +90,15 @@
         1511777409
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"4218202"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404565941
     ],
     "wof:country":"BR",
-    "wof:geomhash":"5873bb29753a7e502575e5065da2e09e",
+    "wof:geomhash":"e4ca2120d50c847507899dd8e7c0adf2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":102060791,
-    "wof:lastmodified":1617131362,
+    "wof:lastmodified":1695887496,
     "wof:name":"Timbo",
     "wof:parent_id":85682021,
     "wof:placetype":"county",

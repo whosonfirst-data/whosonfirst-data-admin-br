@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017453,
-    "geom:area_square_m":203680411.638426,
+    "geom:area_square_m":203680411.638327,
     "geom:bbox":"-42.872879,-19.408162997,-42.72662,-19.1943879971",
     "geom:latitude":-19.29763,
     "geom:longitude":-42.790306,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.294165,
     "lbl:longitude":-42.791408,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Cubas"
@@ -37,9 +46,12 @@
         102053897
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312590315"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9c956aef748863e2ae5af1a0a1f4c908",
+    "wof:geomhash":"af2fef07f0c12f69680216a0a3f3f54f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404556379,
-    "wof:lastmodified":1577833319,
+    "wof:lastmodified":1695878581,
     "wof:name":"Cubas",
     "wof:parent_id":102053897,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035631,
-    "geom:area_square_m":405406858.696564,
+    "geom:area_square_m":405406858.69663,
     "geom:bbox":"-47.826705,-23.223234,-47.583381,-22.876904",
     "geom:latitude":-23.049436,
     "geom:longitude":-47.707653,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.054237,
     "lbl:longitude":-47.709424,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tiet\u00ea"
@@ -48,19 +57,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102062359,
         1511777411,
-        85682041
+        102062359
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355450805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102062359
     ],
     "wof:country":"BR",
-    "wof:geomhash":"d76852b8da7ef3247f8a3c518e34afa7",
+    "wof:geomhash":"4c218c914abf2c66375f2c925ddba55b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":404567579,
-    "wof:lastmodified":1608030272,
+    "wof:lastmodified":1695878773,
     "wof:name":"Tiet\u00ea",
     "wof:parent_id":102062359,
     "wof:placetype":"localadmin",

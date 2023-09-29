@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063541,
-    "geom:area_square_m":771475709.602129,
+    "geom:area_square_m":771475709.602146,
     "geom:bbox":"-41.9720868798,-11.1662452554,-41.659446404,-10.7129631313",
     "geom:latitude":-10.916781,
     "geom:longitude":-41.831572,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.915116,
     "lbl:longitude":-41.83394,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Recife"
@@ -310,9 +319,12 @@
         102050957
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291850610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bf34294e90cd2cab037b260469e6791c",
+    "wof:geomhash":"9237c584434bf3f89039725ebdb01668",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -324,7 +336,7 @@
         }
     ],
     "wof:id":404551367,
-    "wof:lastmodified":1577837845,
+    "wof:lastmodified":1695878712,
     "wof:name":"Recife",
     "wof:parent_id":102050957,
     "wof:placetype":"localadmin",

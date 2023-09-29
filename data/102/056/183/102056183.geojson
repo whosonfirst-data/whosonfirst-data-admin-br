@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023582,
-    "geom:area_square_m":289242018.341775,
+    "geom:area_square_m":289242018.341755,
     "geom:bbox":"-35.745149,-7.387688,-35.514091,-7.168682",
     "geom:latitude":-7.276586,
     "geom:longitude":-35.615545,
@@ -32,7 +32,7 @@
     "mps:latitude":-7.294004,
     "mps:longitude":-35.613784,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "\u0130nqa"
@@ -101,16 +101,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777415,
-        85681967
+        85681967,
+        1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2506806"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404559951
     ],
     "wof:country":"BR",
-    "wof:geomhash":"818dbb9c33618428c7f33ff57895ce91",
+    "wof:geomhash":"eae018c9c1f238fc3f0981a2697d9ac6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":102056183,
-    "wof:lastmodified":1608031246,
+    "wof:lastmodified":1695887465,
     "wof:name":"Inga",
     "wof:parent_id":85681967,
     "wof:placetype":"county",

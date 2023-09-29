@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0159,
-    "geom:area_square_m":180370708.209895,
+    "geom:area_square_m":180370708.209998,
     "geom:bbox":"-47.037523,-23.508167,-46.800322,-23.384982",
     "geom:latitude":-23.449452,
     "geom:longitude":-46.91681,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.444261,
     "lbl:longitude":-46.91862,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102062179
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354730405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101956177
     ],
     "wof:country":"BR",
-    "wof:geomhash":"62946e06dd0b1657c832031ac879d747",
+    "wof:geomhash":"232cfff260fd052a1419c67052d77d8f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404567183,
-    "wof:lastmodified":1617131371,
+    "wof:lastmodified":1695878848,
     "wof:name":"Santana De Parna\u00edba",
     "wof:parent_id":102062179,
     "wof:placetype":"localadmin",

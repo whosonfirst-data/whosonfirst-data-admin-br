@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009337,
-    "geom:area_square_m":113226151.232597,
+    "geom:area_square_m":113226151.23262,
     "geom:bbox":"-42.240290094,-11.3142372499,-42.051746623,-11.2217636994",
     "geom:latitude":-11.266486,
     "geom:longitude":-42.145444,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.272944,
     "lbl:longitude":-42.16227,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hidrol\u00e2ndia"
@@ -67,9 +76,12 @@
         102051359
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"293240810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ff384747db9af3a17bacfdeb01d65084",
+    "wof:geomhash":"fa54616e5a2dece25b697eb66d42945d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404552143,
-    "wof:lastmodified":1577837674,
+    "wof:lastmodified":1695878671,
     "wof:name":"Hidrol\u00e2ndia",
     "wof:parent_id":102051359,
     "wof:placetype":"localadmin",

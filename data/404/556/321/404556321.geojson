@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003088,
-    "geom:area_square_m":35480565.071816,
+    "geom:area_square_m":35480565.071821,
     "geom:bbox":"-42.558911,-21.7081489968,-42.477759,-21.6497139968",
     "geom:latitude":-21.678973,
     "geom:longitude":-42.514871,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.67637,
     "lbl:longitude":-42.518156,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "\u00c1gua-viva"
@@ -37,9 +46,12 @@
         102053867
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312460910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0c61e72d8a68972c27c99dc5e882c4b3",
+    "wof:geomhash":"18509fb7edfb4d1b6deeae8220b95a83",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404556321,
-    "wof:lastmodified":1577833284,
+    "wof:lastmodified":1695878570,
     "wof:name":"\u00c1gua Viva",
     "wof:parent_id":102053867,
     "wof:placetype":"localadmin",

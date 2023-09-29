@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012364,
-    "geom:area_square_m":139736026.880655,
+    "geom:area_square_m":139736026.880661,
     "geom:bbox":"-50.1638782699,-23.9920957029,-49.963689008,-23.8885123323",
     "geom:latitude":-23.936924,
     "geom:longitude":-50.051383,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.934221,
     "lbl:longitude":-50.043236,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058003
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411920210"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5c998aac364e206a78a1a8eddf76dd49",
+    "wof:geomhash":"be3a1b348afe69352128799686267834",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561633,
-    "wof:lastmodified":1577827798,
+    "wof:lastmodified":1695878222,
     "wof:name":"Lavrinha",
     "wof:parent_id":102058003,
     "wof:placetype":"localadmin",

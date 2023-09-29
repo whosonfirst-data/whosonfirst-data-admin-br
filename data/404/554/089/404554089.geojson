@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011006,
-    "geom:area_square_m":135858342.776838,
+    "geom:area_square_m":135858342.776832,
     "geom:bbox":"-41.1991851826,-3.4659978983,-41.059444529,-3.28761791596",
     "geom:latitude":-3.395565,
     "geom:longitude":-41.141982,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.407445,
     "lbl:longitude":-41.140927,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051813
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231410223"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d0212978fa30a2dcb2673aa6082cef20",
+    "wof:geomhash":"70187e4236ab6b087b4132c5a53bf5af",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554089,
-    "wof:lastmodified":1577837898,
+    "wof:lastmodified":1695878725,
     "wof:name":"Passagem Da On\u00e7a",
     "wof:parent_id":102051813,
     "wof:placetype":"localadmin",

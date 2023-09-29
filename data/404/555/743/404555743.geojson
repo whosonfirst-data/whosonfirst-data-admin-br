@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013149,
-    "geom:area_square_m":153234474.448499,
+    "geom:area_square_m":153234474.448481,
     "geom:bbox":"-42.521796,-19.604226997,-42.320423,-19.458286997",
     "geom:latitude":-19.536088,
     "geom:longitude":-42.421166,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.523079,
     "lbl:longitude":-42.4547,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053577
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311340407"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"294779079de8b135c213f5eb0505ca5c",
+    "wof:geomhash":"17a5b5cedca0abb68c24ac49abc03430",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555743,
-    "wof:lastmodified":1577833183,
+    "wof:lastmodified":1695878537,
     "wof:name":"Cordeiro De Minas",
     "wof:parent_id":102053577,
     "wof:placetype":"localadmin",

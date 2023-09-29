@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039201,
-    "geom:area_square_m":452803277.663211,
+    "geom:area_square_m":452803277.663274,
     "geom:bbox":"-44.70914,-21.0541979968,-44.441069,-20.7862639969",
     "geom:latitude":-20.911208,
     "geom:longitude":-44.554089,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.910479,
     "lbl:longitude":-44.540966,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u099f\u09bf\u09af\u09bc\u09be\u0997\u09cb"
@@ -97,9 +106,12 @@
         102054965
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316500805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8da3f9cff498f13b765ba3a56119ca3a",
+    "wof:geomhash":"9ae6d1939e6bc0171cab5a45061d4ead",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404558429,
-    "wof:lastmodified":1577832899,
+    "wof:lastmodified":1695878449,
     "wof:name":"S\u00e3o Tiago",
     "wof:parent_id":102054965,
     "wof:placetype":"localadmin",

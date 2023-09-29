@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01193,
-    "geom:area_square_m":147166520.485425,
+    "geom:area_square_m":147166520.485437,
     "geom:bbox":"-40.9546605529,-3.99406191693,-40.7774062245,-3.86657330862",
     "geom:latitude":-3.930694,
     "geom:longitude":-40.877118,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.933538,
     "lbl:longitude":-40.878469,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09bf\u0986\u09aa\u09bf\u09a8\u09be"
@@ -85,9 +94,12 @@
         102051563
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230530805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"59bee122abbc1f13259c9fccd0cf4b97",
+    "wof:geomhash":"7c2863ff2469c684b6c2cb17f945580a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404552965,
-    "wof:lastmodified":1577837984,
+    "wof:lastmodified":1695878747,
     "wof:name":"Ibiapina",
     "wof:parent_id":102051563,
     "wof:placetype":"localadmin",

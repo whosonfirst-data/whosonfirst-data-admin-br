@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043006,
-    "geom:area_square_m":485790745.193831,
+    "geom:area_square_m":485790745.193816,
     "geom:bbox":"-50.7028334493,-24.106412829,-50.2878030592,-23.8592496484",
     "geom:latitude":-24.002468,
     "geom:longitude":-50.481121,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.018051,
     "lbl:longitude":-50.495326,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c1\u09b0\u09bf\u0989\u09ad\u09be"
@@ -94,9 +103,12 @@
         102057619
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410700905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"94fc0ae724588e65ee1d8bcd7e0aa83f",
+    "wof:geomhash":"f3f53a16f0b01482aa6bda4554ad1dae",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404561113,
-    "wof:lastmodified":1577827722,
+    "wof:lastmodified":1695878187,
     "wof:name":"Curi\u00fava",
     "wof:parent_id":102057619,
     "wof:placetype":"localadmin",

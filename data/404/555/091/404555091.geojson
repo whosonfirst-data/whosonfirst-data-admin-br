@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.14983,
-    "geom:area_square_m":1844249768.090748,
+    "geom:area_square_m":1844249768.090711,
     "geom:bbox":"-44.9515554745,-5.86248891114,-44.4472701235,-5.0848694904",
     "geom:latitude":-5.461523,
     "geom:longitude":-44.676806,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.285979,
     "lbl:longitude":-44.693934,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09c1\u09a8\u099f\u09c1\u09ae"
@@ -85,9 +94,12 @@
         102053227
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"211230805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5bd5a8fe5b9d0b5deb0a9e2230129876",
+    "wof:geomhash":"894d2e805a333cc083ca8b2c7cc8a20b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404555091,
-    "wof:lastmodified":1577837653,
+    "wof:lastmodified":1695878666,
     "wof:name":"Tuntum",
     "wof:parent_id":102053227,
     "wof:placetype":"localadmin",

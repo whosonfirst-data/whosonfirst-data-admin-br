@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016463,
-    "geom:area_square_m":187832548.70307,
+    "geom:area_square_m":187832548.703092,
     "geom:bbox":"-45.94912,-22.756894,-45.693993,-22.606014",
     "geom:latitude":-22.673028,
     "geom:longitude":-45.824937,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.668285,
     "lbl:longitude":-45.837459,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Gon\u00e7alves"
@@ -33,19 +42,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053951,
         1511777411,
-        85681941
+        102053951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312740405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053951
     ],
     "wof:country":"BR",
-    "wof:geomhash":"7a1ce4553448c06a87a3f1a34a15d6c2",
+    "wof:geomhash":"7dce394ab3ed9b11193571adf6b4107d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":404556477,
-    "wof:lastmodified":1608029346,
+    "wof:lastmodified":1695878759,
     "wof:name":"Gon\u00e7alves",
     "wof:parent_id":102053951,
     "wof:placetype":"localadmin",

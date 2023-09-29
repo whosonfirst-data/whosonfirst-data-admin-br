@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016751,
-    "geom:area_square_m":202008191.415962,
+    "geom:area_square_m":202008191.416002,
     "geom:bbox":"-38.46637,-12.873539,-38.326949,-12.658496",
     "geom:latitude":-12.768072,
     "geom:longitude":-38.400778,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.771264,
     "lbl:longitude":-38.396031,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0645\u0648\u064a\u0633 \u0641\u064a\u0644\u0647\u0648"
@@ -115,12 +124,15 @@
         102051309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"293070905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102051309
     ],
     "wof:country":"BR",
-    "wof:geomhash":"bbf76e1e79bd224981c30b5f8814cde4",
+    "wof:geomhash":"29046c7590d856ebf23e623ada95f70d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":404552049,
-    "wof:lastmodified":1617131366,
+    "wof:lastmodified":1695878847,
     "wof:name":"Sim\u00f5es Filho",
     "wof:parent_id":102051309,
     "wof:placetype":"localadmin",

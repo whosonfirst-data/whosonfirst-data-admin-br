@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010577,
-    "geom:area_square_m":126002302.418978,
+    "geom:area_square_m":126002302.418969,
     "geom:bbox":"-41.57327,-15.6137379976,-41.38743,-15.4814669976",
     "geom:latitude":-15.547979,
     "geom:longitude":-41.485573,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.563129,
     "lbl:longitude":-41.494701,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053389
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310100330"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"61fd3abff8e129054873fcd91dd6b349",
+    "wof:geomhash":"5b4568783349e98cd8404e702be8e3d6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555141,
-    "wof:lastmodified":1577832667,
+    "wof:lastmodified":1695878364,
     "wof:name":"Machado Mineiro",
     "wof:parent_id":102053389,
     "wof:placetype":"localadmin",

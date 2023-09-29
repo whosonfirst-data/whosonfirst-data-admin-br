@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034977,
-    "geom:area_square_m":422671466.898717,
+    "geom:area_square_m":422671466.898759,
     "geom:bbox":"-41.27534,-12.373517,-41.061493,-12.109347",
     "geom:latitude":-12.23342,
     "geom:longitude":-41.164609,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.227796,
     "lbl:longitude":-41.162649,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102051393
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"293340605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102051393
     ],
     "wof:country":"BR",
-    "wof:geomhash":"e58cd3e7e573f517d8eaa1537469e3bd",
+    "wof:geomhash":"296fb58cda635765958917bd393ad32b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404552235,
-    "wof:lastmodified":1617130162,
+    "wof:lastmodified":1695878832,
     "wof:name":"Wagner",
     "wof:parent_id":102051393,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005206,
-    "geom:area_square_m":60604167.718047,
+    "geom:area_square_m":60604167.718054,
     "geom:bbox":"-40.6262096289,-19.7586501891,-40.517968555,-19.6631016888",
     "geom:latitude":-19.718591,
     "geom:longitude":-40.580174,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.717005,
     "lbl:longitude":-40.583865,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:gom_x_preferred":[
         "San Jacinto"
@@ -37,9 +46,12 @@
         102051971
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320495525"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f00449ede7c44249389c8abb206aae31",
+    "wof:geomhash":"84f4ef60d452cb0a7c2a9b404d6de2e5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404554629,
-    "wof:lastmodified":1577833094,
+    "wof:lastmodified":1695878512,
     "wof:name":"S\u00e3o Jacinto",
     "wof:parent_id":102051971,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010694,
-    "geom:area_square_m":117993638.92289,
+    "geom:area_square_m":117993638.922883,
     "geom:bbox":"-53.052795,-26.8868,-52.90036,-26.752065",
     "geom:latitude":-26.830405,
     "geom:longitude":-52.973228,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.833821,
     "lbl:longitude":-52.965761,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pinhalzinho"
@@ -54,19 +63,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060625,
         1511777409,
-        85682021
+        102060625
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421290805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060625
     ],
     "wof:country":"BR",
-    "wof:geomhash":"8c0b988ce0abc885ef6b39285d0102d6",
+    "wof:geomhash":"48ebf3b08e339c2e3f9a5e50962ca75e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":404565727,
-    "wof:lastmodified":1608034522,
+    "wof:lastmodified":1695878824,
     "wof:name":"Pinhalzinho",
     "wof:parent_id":102060625,
     "wof:placetype":"localadmin",

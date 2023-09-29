@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112315,
-    "geom:area_square_m":1341913298.33175,
+    "geom:area_square_m":1341913298.331713,
     "geom:bbox":"-58.7235818863,-15.1839728499,-58.2530435795,-14.6839312113",
     "geom:latitude":-14.929469,
     "geom:longitude":-58.458646,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.889232,
     "lbl:longitude":-58.462292,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510715605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"574ebed5651d73ad0a6ebe50f56e52fd",
+    "wof:geomhash":"35ba5b3baaba30f88382747b4877919b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559345,
-    "wof:lastmodified":1577836108,
+    "wof:lastmodified":1695878635,
     "wof:name":"Reserva Do Caba\u00e7al",
     "wof:parent_id":102055575,
     "wof:placetype":"localadmin",

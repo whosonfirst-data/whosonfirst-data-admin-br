@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025124,
-    "geom:area_square_m":279061177.305753,
+    "geom:area_square_m":279061177.30573,
     "geom:bbox":"-50.8189899135,-26.1817995919,-50.6207904505,-25.9557892053",
     "geom:latitude":-26.066765,
     "geom:longitude":-50.715781,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.067349,
     "lbl:longitude":-50.717273,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057987
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411870910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"645529ac3110464990a5010da61f4650",
+    "wof:geomhash":"0ae96c523e261d42121a6fb7588cf32d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561621,
-    "wof:lastmodified":1577827796,
+    "wof:lastmodified":1695878221,
     "wof:name":"Vera Guarani",
     "wof:parent_id":102057987,
     "wof:placetype":"localadmin",

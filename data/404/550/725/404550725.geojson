@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110482,
-    "geom:area_square_m":1342233615.942381,
+    "geom:area_square_m":1342233615.942788,
     "geom:bbox":"-39.772935442,-11.000430567,-39.210842239,-10.513202735",
     "geom:latitude":-10.730965,
     "geom:longitude":-39.474247,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.686293,
     "lbl:longitude":-39.520911,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a8\u09cd\u09b8\u09be\u09a8\u0995\u09af\u09bc\u09be\u0993"
@@ -100,9 +109,12 @@
         102050645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290680805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"34db74fd03c2b14d7ae0254181c19ec4",
+    "wof:geomhash":"93783fa18df6677f67b11d2198e2b64a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404550725,
-    "wof:lastmodified":1577837761,
+    "wof:lastmodified":1695878691,
     "wof:name":"Cansan\u00e7\u00e3o",
     "wof:parent_id":102050645,
     "wof:placetype":"localadmin",

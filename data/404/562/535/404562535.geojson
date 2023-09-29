@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033275,
-    "geom:area_square_m":382248864.75789,
+    "geom:area_square_m":382248864.75788,
     "geom:bbox":"-41.9243524573,-21.8665096747,-41.5379939595,-21.5973069824",
     "geom:latitude":-21.715702,
     "geom:longitude":-41.762311,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.711639,
     "lbl:longitude":-41.759277,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09ab\u09bf\u09a1\u09c7\u09b2\u09bf\u09b8"
@@ -94,9 +103,12 @@
         102058465
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330480505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"fdd6973246e6d23318f7a03db88c7474",
+    "wof:geomhash":"5f7a11c3fd5c4bcfc990de23025e4c33",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404562535,
-    "wof:lastmodified":1577832976,
+    "wof:lastmodified":1695878473,
     "wof:name":"S\u00e3o Fid\u00e9lis",
     "wof:parent_id":102058465,
     "wof:placetype":"localadmin",

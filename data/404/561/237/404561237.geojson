@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01478,
-    "geom:area_square_m":167109929.947242,
+    "geom:area_square_m":167109929.947287,
     "geom:bbox":"-50.2679390585,-23.9974560575,-50.1153477899,-23.7900386807",
     "geom:latitude":-23.883834,
     "geom:longitude":-50.190484,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.8736,
     "lbl:longitude":-50.163885,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09be\u0987\u099f\u09bf"
@@ -85,9 +94,12 @@
         102057717
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410970805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"27503b07266f76a957049b33660ab759",
+    "wof:geomhash":"ab71f5e3c14ac791f281ff871b89cd33",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404561237,
-    "wof:lastmodified":1577827747,
+    "wof:lastmodified":1695878199,
     "wof:name":"Ibaiti",
     "wof:parent_id":102057717,
     "wof:placetype":"localadmin",

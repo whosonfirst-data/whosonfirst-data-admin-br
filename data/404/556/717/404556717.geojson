@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.118384,
-    "geom:area_square_m":1393719312.614692,
+    "geom:area_square_m":1393719312.61472,
     "geom:bbox":"-43.053405,-18.1257249966,-42.65136,-17.5446619967",
     "geom:latitude":-17.805711,
     "geom:longitude":-42.869543,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.797979,
     "lbl:longitude":-42.866419,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u09ae\u09be\u09b0\u09be\u09a8\u09a1\u09bf\u09ac\u09be"
@@ -100,9 +109,12 @@
         102054079
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313250305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5a861bcdefcf41d85002cf5ee766de56",
+    "wof:geomhash":"6a64bb3f9c6fb2d0068f473e792adfeb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404556717,
-    "wof:lastmodified":1577833126,
+    "wof:lastmodified":1695878520,
     "wof:name":"Itamarandiba",
     "wof:parent_id":102054079,
     "wof:placetype":"localadmin",

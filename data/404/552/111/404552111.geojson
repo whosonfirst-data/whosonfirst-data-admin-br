@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110024,
-    "geom:area_square_m":1314302213.11211,
+    "geom:area_square_m":1314302213.112213,
     "geom:bbox":"-41.6550359828,-15.2122041058,-41.216793164,-14.7751009645",
     "geom:latitude":-14.967889,
     "geom:longitude":-41.423257,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.966638,
     "lbl:longitude":-41.441556,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09cd\u09b0\u09c7\u09ae\u09c7\u09a1\u09be\u09b2"
@@ -97,9 +106,12 @@
         102051345
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"293180605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"36a53342127d0bae168b76887edbcc03",
+    "wof:geomhash":"6376c48d19eb9e27c8279aebe542d98c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404552111,
-    "wof:lastmodified":1577837665,
+    "wof:lastmodified":1695878669,
     "wof:name":"Tremedal",
     "wof:parent_id":102051345,
     "wof:placetype":"localadmin",

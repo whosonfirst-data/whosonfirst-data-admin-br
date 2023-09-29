@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008874,
-    "geom:area_square_m":103148903.66606,
+    "geom:area_square_m":103148903.666097,
     "geom:bbox":"-47.862047,-19.996066,-47.7503,-19.865417",
     "geom:latitude":-19.936103,
     "geom:longitude":-47.809689,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.944268,
     "lbl:longitude":-47.798519,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0644\u062a\u0627"
@@ -192,19 +201,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053779,
         1511777411,
-        85681941
+        102053779
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"312125805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053779
     ],
     "wof:country":"BR",
-    "wof:geomhash":"497124307e0771b0440d84841e100105",
+    "wof:geomhash":"bab90469b37b8257d3576d6e18e04629",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -216,7 +228,7 @@
         }
     ],
     "wof:id":404556163,
-    "wof:lastmodified":1608029502,
+    "wof:lastmodified":1695878764,
     "wof:name":"Delta",
     "wof:parent_id":102053779,
     "wof:placetype":"localadmin",

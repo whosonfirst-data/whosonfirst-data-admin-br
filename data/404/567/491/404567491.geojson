@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023914,
-    "geom:area_square_m":270680418.072033,
+    "geom:area_square_m":270680418.071979,
     "geom:bbox":"-45.842179,-23.8710125528,-45.4998153579,-23.6489117391",
     "geom:latitude":-23.740033,
     "geom:longitude":-45.676273,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.717978,
     "lbl:longitude":-45.743807,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Maresias"
@@ -43,9 +52,12 @@
         102062265
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355070410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ef0c64bb1f0250c7993e71cd32b881b9",
+    "wof:geomhash":"5021481e2d562762a5c2e20b9ddedbbf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":404567491,
-    "wof:lastmodified":1577832966,
+    "wof:lastmodified":1695878471,
     "wof:name":"Maresias",
     "wof:parent_id":102062265,
     "wof:placetype":"localadmin",

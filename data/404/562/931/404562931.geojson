@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00415,
-    "geom:area_square_m":44977021.818313,
+    "geom:area_square_m":44977021.818322,
     "geom:bbox":"-53.0451670555,-28.8182479982,-52.9241405404,-28.7488826609",
     "geom:latitude":-28.786149,
     "geom:longitude":-52.986397,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.781269,
     "lbl:longitude":-52.982268,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09cd\u099f\u09cb \u0986\u09b2\u09c7\u0997\u09cd\u09b0\u09c7"
@@ -76,9 +85,12 @@
         102059059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430055405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bc76ca178ee584d7b7c804ce0e4e0fd5",
+    "wof:geomhash":"25b57a24973c93007fa63e80bd49ebb2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404562931,
-    "wof:lastmodified":1577827984,
+    "wof:lastmodified":1695878309,
     "wof:name":"Alto Alegre",
     "wof:parent_id":102059059,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013119,
-    "geom:area_square_m":148239730.371513,
+    "geom:area_square_m":148239730.371468,
     "geom:bbox":"-46.650334,-24.010201,-46.355134,-23.899565",
     "geom:latitude":-23.959201,
     "geom:longitude":-46.488382,
@@ -32,7 +32,7 @@
     "mps:latitude":-23.961511,
     "mps:longitude":-46.4783,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043d-\u0412\u0456\u0441\u0435\u043d\u0442\u044b"
@@ -90,12 +90,15 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3551009"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404567497
     ],
     "wof:country":"BR",
-    "wof:geomhash":"dc51573876d116cdbd6e44388d5accda",
+    "wof:geomhash":"f5547cdf001b9edacf9d5559742afd3a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":102062271,
-    "wof:lastmodified":1617131372,
+    "wof:lastmodified":1695887496,
     "wof:name":"Sao Vicente",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

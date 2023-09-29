@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039488,
-    "geom:area_square_m":486649671.504124,
+    "geom:area_square_m":486649671.50412,
     "geom:bbox":"-40.3376365145,-4.80989443164,-40.0736945016,-4.53743431939",
     "geom:latitude":-4.679058,
     "geom:longitude":-40.207183,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.672795,
     "lbl:longitude":-40.2092,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u099f\u09c1\u09a8\u09cd\u09a1\u09be"
@@ -85,9 +94,12 @@
         102051497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230365905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"12b06cd169dc5062925f38b97339dcf8",
+    "wof:geomhash":"e47fbe3f6f9083ca6f2a21160e377363",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404552659,
-    "wof:lastmodified":1577837773,
+    "wof:lastmodified":1695878694,
     "wof:name":"Catunda",
     "wof:parent_id":102051497,
     "wof:placetype":"localadmin",

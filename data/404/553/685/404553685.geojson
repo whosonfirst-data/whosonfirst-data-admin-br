@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02287,
-    "geom:area_square_m":281729130.738139,
+    "geom:area_square_m":281729130.738135,
     "geom:bbox":"-39.1390337199,-5.06826388116,-38.9123336692,-4.84197613572",
     "geom:latitude":-4.962997,
     "geom:longitude":-39.031683,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.9579,
     "lbl:longitude":-39.003564,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c1\u0987\u0995\u09cd\u09b8\u09be\u09a1\u09be"
@@ -91,9 +100,12 @@
         102051735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231130605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c602e063386ba6884ffe906156b4dbff",
+    "wof:geomhash":"230651daa18f14b8ef176e10b3c1fcea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404553685,
-    "wof:lastmodified":1577837782,
+    "wof:lastmodified":1695878696,
     "wof:name":"Quixad\u00e1",
     "wof:parent_id":102051735,
     "wof:placetype":"localadmin",

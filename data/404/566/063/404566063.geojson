@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080709,
-    "geom:area_square_m":931585480.932011,
+    "geom:area_square_m":931585480.931897,
     "geom:bbox":"-47.629135,-21.214356,-47.181276,-20.809143",
     "geom:latitude":-21.018047,
     "geom:longitude":-47.386248,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.003611,
     "lbl:longitude":-47.352431,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u099f\u09bf\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -84,19 +93,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061013,
         1511777411,
-        85682041
+        102061013
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350100405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061013
     ],
     "wof:country":"BR",
-    "wof:geomhash":"2a064370d7cfdafbad8d8102e40e8d94",
+    "wof:geomhash":"76018c25c5d62e44a896b5e925ac0dd6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404566063,
-    "wof:lastmodified":1608030786,
+    "wof:lastmodified":1695878782,
     "wof:name":"Altin\u00f3polis",
     "wof:parent_id":102061013,
     "wof:placetype":"localadmin",

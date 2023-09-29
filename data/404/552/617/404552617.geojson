@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003167,
-    "geom:area_square_m":39076021.756654,
+    "geom:area_square_m":39076021.756651,
     "geom:bbox":"-40.7082084975,-3.90897002798,-40.6003830112,-3.81904151527",
     "geom:latitude":-3.858415,
     "geom:longitude":-40.657475,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.848075,
     "lbl:longitude":-40.649322,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b8\u09bf\u09ae\u09ac\u09be\u09b8"
@@ -94,9 +103,12 @@
         102051483
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230310515"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c83ac44f74e28411d4dd95a2e7e6b0e6",
+    "wof:geomhash":"d0a4aad606d17a549a6a1acc6d389b4c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404552617,
-    "wof:lastmodified":1577837932,
+    "wof:lastmodified":1695878734,
     "wof:name":"Cacimbas",
     "wof:parent_id":102051483,
     "wof:placetype":"localadmin",

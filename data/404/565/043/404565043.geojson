@@ -10,12 +10,21 @@
     "geom:latitude":-29.327172,
     "geom:longitude":-51.245207,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.32934,
     "lbl:longitude":-51.24257,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060109
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432254120"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6ad235627febd83c1ff48eb218e73d14",
+    "wof:geomhash":"1b613958bd88dd0495c950bc8c7facbf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565043,
-    "wof:lastmodified":1577827891,
+    "wof:lastmodified":1695878267,
     "wof:name":"Forqueta Baixa",
     "wof:parent_id":102060109,
     "wof:placetype":"localadmin",

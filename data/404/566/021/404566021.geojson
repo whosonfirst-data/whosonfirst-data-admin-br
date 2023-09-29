@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043127,
-    "geom:area_square_m":524561085.088266,
+    "geom:area_square_m":524561085.08831,
     "geom:bbox":"-37.8591194007,-10.5173934688,-37.6227971836,-10.1878494683",
     "geom:latitude":-10.371586,
     "geom:longitude":-37.730338,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-10.419033,
     "lbl:longitude":-37.732107,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09bf\u09b0\u09be"
@@ -82,9 +91,12 @@
         102060845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"280140505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"aa01ca7c980013137bf06a93bedbd8e3",
+    "wof:geomhash":"4c79a31261ff3a58fb3625ee4c91ea5a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404566021,
-    "wof:lastmodified":1577837884,
+    "wof:lastmodified":1695878721,
     "wof:name":"Carira",
     "wof:parent_id":102060845,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011494,
-    "geom:area_square_m":141919625.936349,
+    "geom:area_square_m":141919625.936345,
     "geom:bbox":"-41.2998077911,-3.12795627555,-41.1576179496,-2.9707239592",
     "geom:latitude":-3.056617,
     "geom:longitude":-41.224935,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.057396,
     "lbl:longitude":-41.223814,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Chaval"
@@ -40,9 +49,12 @@
         102051503
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230390705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1e05d17c50f2c886e4588c3eb2a8651a",
+    "wof:geomhash":"579c5e384b0384ed9af0c4a98a7bb13e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404552699,
-    "wof:lastmodified":1577837948,
+    "wof:lastmodified":1695878738,
     "wof:name":"Chaval",
     "wof:parent_id":102051503,
     "wof:placetype":"localadmin",

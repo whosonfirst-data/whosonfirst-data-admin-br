@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023995,
-    "geom:area_square_m":281431169.655571,
+    "geom:area_square_m":281431169.655474,
     "geom:bbox":"-43.169023,-18.57002,-42.869366,-18.364078",
     "geom:latitude":-18.461265,
     "geom:longitude":-43.046879,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.453783,
     "lbl:longitude":-43.049125,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u099f\u09c7\u09b0\u09b2\u09be\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054307,
         1511777411,
-        85681941
+        102054307
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314060505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054307
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a654405dfe3e101001b10e98e2b2bfbb",
+    "wof:geomhash":"deb70d26dccb3922eed735da24355943",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404557189,
-    "wof:lastmodified":1608031843,
+    "wof:lastmodified":1695878796,
     "wof:name":"Materl\u00e2ndia",
     "wof:parent_id":102054307,
     "wof:placetype":"localadmin",

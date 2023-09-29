@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018054,
-    "geom:area_square_m":203820454.47021,
+    "geom:area_square_m":203820454.470211,
     "geom:bbox":"-53.991046136,-24.1861864745,-53.765688065,-24.0066886056",
     "geom:latitude":-24.075951,
     "geom:longitude":-53.856804,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.067754,
     "lbl:longitude":-53.854987,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09bf\u09b8\u0995\u09cb \u0986\u09b2\u09ad\u09c7\u09b8"
@@ -94,9 +103,12 @@
         102057675
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410832005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1443cf1400c48c3439431dae21b12391",
+    "wof:geomhash":"315d32631bbcb43f0f200548ed3e0d3e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404561165,
-    "wof:lastmodified":1577827912,
+    "wof:lastmodified":1695878277,
     "wof:name":"Francisco Alves",
     "wof:parent_id":102057675,
     "wof:placetype":"localadmin",

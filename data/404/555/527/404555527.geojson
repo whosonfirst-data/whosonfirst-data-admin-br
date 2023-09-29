@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006605,
-    "geom:area_square_m":78466494.465369,
+    "geom:area_square_m":78466494.465371,
     "geom:bbox":"-44.50282,-16.1615249975,-44.378887,-16.0164909975",
     "geom:latitude":-16.103422,
     "geom:longitude":-44.458445,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.119172,
     "lbl:longitude":-44.458448,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053273
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310860240"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"564054b08e168a40badcb10674c846fe",
+    "wof:geomhash":"1fbed7579b4926633e56addbca19dfd3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555527,
-    "wof:lastmodified":1577833016,
+    "wof:lastmodified":1695878487,
     "wof:name":"Vargem Grande Do Bom Jesus",
     "wof:parent_id":102053273,
     "wof:placetype":"localadmin",

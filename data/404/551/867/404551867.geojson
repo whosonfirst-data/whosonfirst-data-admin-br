@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107343,
-    "geom:area_square_m":1297160686.006527,
+    "geom:area_square_m":1297160686.006364,
     "geom:bbox":"-40.8325559921,-12.4321094064,-40.112248274,-12.0911751954",
     "geom:latitude":-12.237512,
     "geom:longitude":-40.5337,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.217562,
     "lbl:longitude":-40.538533,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u064a \u0628\u0627\u0631\u0628\u0648\u0632\u0627"
@@ -64,9 +73,12 @@
         102051213
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292720005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"72daef866cf307ab081132e92c8f44aa",
+    "wof:geomhash":"cc7dc2179b50044888a287c43d312212",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":404551867,
-    "wof:lastmodified":1577837817,
+    "wof:lastmodified":1695878705,
     "wof:name":"Ruy Barbosa",
     "wof:parent_id":102051213,
     "wof:placetype":"localadmin",

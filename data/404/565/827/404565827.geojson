@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01467,
-    "geom:area_square_m":161580376.771696,
+    "geom:area_square_m":161580376.771702,
     "geom:bbox":"-53.112984,-27.108641,-52.945666,-26.955431",
     "geom:latitude":-27.030276,
     "geom:longitude":-53.031353,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.028871,
     "lbl:longitude":-53.032612,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0648 \u0643\u0627\u0631\u0644\u0648\u0633"
@@ -132,19 +141,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060723,
         1511777409,
-        85682021
+        102060723
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421600805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060723
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a65de95323455a00fdad2258dda0d3a6",
+    "wof:geomhash":"355ea032aeb62697def4c00411552f6a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":404565827,
-    "wof:lastmodified":1608034185,
+    "wof:lastmodified":1695878819,
     "wof:name":"S\u00e3o Carlos",
     "wof:parent_id":102060723,
     "wof:placetype":"localadmin",

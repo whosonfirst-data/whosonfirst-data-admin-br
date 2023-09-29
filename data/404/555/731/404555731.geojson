@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014108,
-    "geom:area_square_m":163192278.801979,
+    "geom:area_square_m":163192278.801977,
     "geom:bbox":"-42.140797,-20.7863479969,-41.963422,-20.5985959969",
     "geom:latitude":-20.697708,
     "geom:longitude":-42.052513,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.693952,
     "lbl:longitude":-42.080692,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09be\u09a8\u0997\u09cb\u09b2\u09be"
@@ -94,9 +103,12 @@
         102053575
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311330505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7ed846b359f439defcbc5266a8ff6814",
+    "wof:geomhash":"4d1d1af59e2d2654efe9a9c24c0920dc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404555731,
-    "wof:lastmodified":1577833177,
+    "wof:lastmodified":1695878535,
     "wof:name":"Carangola",
     "wof:parent_id":102053575,
     "wof:placetype":"localadmin",

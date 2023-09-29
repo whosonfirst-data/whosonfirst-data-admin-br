@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010116,
-    "geom:area_square_m":114471935.830945,
+    "geom:area_square_m":114471935.830942,
     "geom:bbox":"-51.4930289825,-23.836189147,-51.3482911595,-23.7088160589",
     "geom:latitude":-23.774275,
     "geom:longitude":-51.421716,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.767413,
     "lbl:longitude":-51.421739,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u0993 \u09ac\u09cb\u09ae"
@@ -88,9 +97,12 @@
         102058093
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"412210705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"562f208d7608b974dd915d4181212545",
+    "wof:geomhash":"e5e9bff943c4715e1a89235a26c4a670",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404561761,
-    "wof:lastmodified":1577827819,
+    "wof:lastmodified":1695878231,
     "wof:name":"Rio Bom",
     "wof:parent_id":102058093,
     "wof:placetype":"localadmin",

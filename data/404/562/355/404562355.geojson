@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013572,
-    "geom:area_square_m":154578696.42789,
+    "geom:area_square_m":154578696.427898,
     "geom:bbox":"-42.8140177052,-22.9621074951,-42.6339517547,-22.8411624004",
     "geom:latitude":-22.908288,
     "geom:longitude":-42.72718,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.905429,
     "lbl:longitude":-42.728893,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102058395
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330270015"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ed7df817de5fbf886c99b09d4bef304a",
+    "wof:geomhash":"9b49ed1521e00218bda67d9c7434a8c1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404562355,
-    "wof:lastmodified":1577832850,
+    "wof:lastmodified":1695878430,
     "wof:name":"Manoel Ribeiro",
     "wof:parent_id":102058395,
     "wof:placetype":"localadmin",

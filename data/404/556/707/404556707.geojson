@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103045,
-    "geom:area_square_m":1229730092.553232,
+    "geom:area_square_m":1229730092.552302,
     "geom:bbox":"-44.487186,-15.505195,-43.924827,-14.907094",
     "geom:latitude":-15.177268,
     "geom:longitude":-44.125008,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.070346,
     "lbl:longitude":-44.143666,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u0995\u09be\u09b0\u09be\u09ae\u09ac\u09bf"
@@ -90,19 +99,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102054071,
         1511777411,
-        85681941
+        102054071
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313210705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102054071
     ],
     "wof:country":"BR",
-    "wof:geomhash":"231da4d0454163928f51c593438ea9de",
+    "wof:geomhash":"7fa69a19b9595806e1415f5179202495",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404556707,
-    "wof:lastmodified":1608029316,
+    "wof:lastmodified":1695878758,
     "wof:name":"Itacarambi",
     "wof:parent_id":102054071,
     "wof:placetype":"localadmin",

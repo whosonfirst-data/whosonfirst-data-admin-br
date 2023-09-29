@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013245,
-    "geom:area_square_m":163503154.642032,
+    "geom:area_square_m":163503154.642017,
     "geom:bbox":"-39.3753129898,-3.3602644275,-39.160000496,-3.23487792035",
     "geom:latitude":-3.303099,
     "geom:longitude":-39.265668,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.308061,
     "lbl:longitude":-39.249328,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09cd\u09b0\u09be\u0987\u09b0\u09bf"
@@ -88,9 +97,12 @@
         102051793
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231350005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"47151ac3b76093266e72ab468bd1a352",
+    "wof:geomhash":"a6bedada1ed7d8cabef7b43ae322e558",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404553997,
-    "wof:lastmodified":1577837987,
+    "wof:lastmodified":1695878748,
     "wof:name":"Trairi",
     "wof:parent_id":102051793,
     "wof:placetype":"localadmin",

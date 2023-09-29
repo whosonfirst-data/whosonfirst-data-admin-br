@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013439,
-    "geom:area_square_m":164344332.045485,
+    "geom:area_square_m":164344332.045497,
     "geom:bbox":"-35.4323521809,-8.63068061189,-35.264434924,-8.42470508099",
     "geom:latitude":-8.523961,
     "geom:longitude":-35.350233,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.502709,
     "lbl:longitude":-35.369899,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ribeir\u00e3o"
@@ -58,9 +67,12 @@
         102056785
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261180405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"eaa1feee35454fbc1876d9784205a9fa",
+    "wof:geomhash":"eb2b27aeb51ae6a648725de1f717e816",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":404560609,
-    "wof:lastmodified":1577837782,
+    "wof:lastmodified":1695878696,
     "wof:name":"Ribeir\u00e3o",
     "wof:parent_id":102056785,
     "wof:placetype":"localadmin",

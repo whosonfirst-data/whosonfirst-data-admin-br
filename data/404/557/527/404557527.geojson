@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023706,
-    "geom:area_square_m":280654669.558795,
+    "geom:area_square_m":280654669.558753,
     "geom:bbox":"-40.483739,-16.8995006185,-40.316988,-16.6481439974",
     "geom:latitude":-16.776352,
     "geom:longitude":-40.400553,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.810389,
     "lbl:longitude":-40.427045,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b2\u09ae\u0993\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -97,9 +106,12 @@
         102054481
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314675005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b7969ede9e2a39fa891399e31d284f9e",
+    "wof:geomhash":"396b43062b0bfc049754451aa84eb2b3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404557527,
-    "wof:lastmodified":1577832957,
+    "wof:lastmodified":1695878468,
     "wof:name":"Palm\u00f3polis",
     "wof:parent_id":102054481,
     "wof:placetype":"localadmin",

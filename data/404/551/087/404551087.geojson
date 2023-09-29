@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03823,
-    "geom:area_square_m":457483521.009193,
+    "geom:area_square_m":457483521.009026,
     "geom:bbox":"-40.1894201483,-14.7379475503,-39.873135079,-14.4789591754",
     "geom:latitude":-14.590383,
     "geom:longitude":-40.014132,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.603333,
     "lbl:longitude":-39.9986,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291350710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0503c97970a6682448121c051dd26edd",
+    "wof:geomhash":"1bc2d1a2bc6e095c80197249a6252b66",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551087,
-    "wof:lastmodified":1577837653,
+    "wof:lastmodified":1695878666,
     "wof:name":"Iguaibi",
     "wof:parent_id":102050827,
     "wof:placetype":"localadmin",

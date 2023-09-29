@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023307,
-    "geom:area_square_m":272677850.919128,
+    "geom:area_square_m":272677850.919248,
     "geom:bbox":"-43.208973,-18.9898709971,-42.972224,-18.7897499971",
     "geom:latitude":-18.888742,
     "geom:longitude":-43.0841,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.863484,
     "lbl:longitude":-43.056352,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316610505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ea3340dced8b915d4d8a81517b43b6d4",
+    "wof:geomhash":"366071b45b05158f1400f1262b7a483c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558475,
-    "wof:lastmodified":1577832957,
+    "wof:lastmodified":1695878468,
     "wof:name":"Senhora Do Porto",
     "wof:parent_id":102054999,
     "wof:placetype":"localadmin",

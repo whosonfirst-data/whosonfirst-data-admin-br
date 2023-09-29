@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065213,
-    "geom:area_square_m":755207448.787443,
+    "geom:area_square_m":755207592.617285,
     "geom:bbox":"-48.81696,-20.700939,-48.344598,-20.320032",
     "geom:latitude":-20.518938,
     "geom:longitude":-48.598043,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.564321,
     "lbl:longitude":-48.581989,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0631\u064a\u062a\u0648\u0633"
@@ -109,9 +118,12 @@
         102061131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"350550005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"fec08357c7982292407457e0b40f2c63",
+    "wof:geomhash":"b34bc1d32d3c0b370a1a6d879e105ae2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":404566147,
-    "wof:lastmodified":1636496424,
+    "wof:lastmodified":1695878858,
     "wof:name":"Barretos",
     "wof:parent_id":102061131,
     "wof:placetype":"localadmin",

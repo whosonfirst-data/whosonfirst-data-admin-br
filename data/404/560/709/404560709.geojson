@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014501,
-    "geom:area_square_m":177661973.64045,
+    "geom:area_square_m":177662097.944551,
     "geom:bbox":"-38.412486,-7.890361,-38.276227,-7.677162",
     "geom:latitude":-7.77845,
     "geom:longitude":-38.344874,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.74535,
     "lbl:longitude":-38.357254,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Luanda"
@@ -421,9 +430,12 @@
         102056839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261390920"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1e754550a387b00e70c0b4305e27bac7",
+    "wof:geomhash":"2a6f63b98af59db461a2f18895f0af43",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -435,7 +447,7 @@
         }
     ],
     "wof:id":404560709,
-    "wof:lastmodified":1642551784,
+    "wof:lastmodified":1695878871,
     "wof:name":"Luanda",
     "wof:parent_id":102056839,
     "wof:placetype":"localadmin",

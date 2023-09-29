@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039053,
-    "geom:area_square_m":435937726.427028,
+    "geom:area_square_m":435937726.426777,
     "geom:bbox":"-49.389339,-25.645386,-49.18522,-25.346736",
     "geom:latitude":-25.477891,
     "geom:longitude":-49.288263,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-25.460038,
     "lbl:longitude":-49.280015,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u041a\u0443\u0440\u0438\u0442\u0438\u0431\u0430"
@@ -724,13 +733,16 @@
         102057617
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410690205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101957995,
         102057617
     ],
     "wof:country":"BR",
-    "wof:geomhash":"6e98b4fdaf971c52b5aa0223e484abe3",
+    "wof:geomhash":"9d7ca07e8547859ebf1e97eafc3a0b0e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -742,7 +754,7 @@
         }
     ],
     "wof:id":404561111,
-    "wof:lastmodified":1617129910,
+    "wof:lastmodified":1695878826,
     "wof:name":"Curitiba",
     "wof:parent_id":102057617,
     "wof:placetype":"localadmin",

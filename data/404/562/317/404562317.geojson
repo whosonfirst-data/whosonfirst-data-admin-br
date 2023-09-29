@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031243,
-    "geom:area_square_m":357428811.69232,
+    "geom:area_square_m":357428811.692316,
     "geom:bbox":"-41.9418664383,-22.4194182831,-41.6858875797,-22.1453159488",
     "geom:latitude":-22.30105,
     "geom:longitude":-41.804168,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.282459,
     "lbl:longitude":-41.773024,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u0627\u064a"
@@ -121,9 +130,12 @@
         102058385
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330240305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c4b564cd79a01d52b4b73c52a98baff2",
+    "wof:geomhash":"539ec813a627cf4c7efe772ae5f6fbc5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +147,7 @@
         }
     ],
     "wof:id":404562317,
-    "wof:lastmodified":1577832831,
+    "wof:lastmodified":1695878423,
     "wof:name":"Maca\u00e9",
     "wof:parent_id":102058385,
     "wof:placetype":"localadmin",

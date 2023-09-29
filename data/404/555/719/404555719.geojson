@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021408,
-    "geom:area_square_m":252892667.14024,
+    "geom:area_square_m":252892667.140222,
     "geom:bbox":"-41.426814,-17.3467029968,-41.31565,-17.0445999968",
     "geom:latitude":-17.187649,
     "geom:longitude":-41.369632,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.188578,
     "lbl:longitude":-41.376246,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Maranh\u00e3o"
@@ -286,9 +295,12 @@
         102053569
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311300812"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"979682aa7ca5034bb8035e5a9063fdb0",
+    "wof:geomhash":"1980bc0243deb0033e59039228066f59",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -300,7 +312,7 @@
         }
     ],
     "wof:id":404555719,
-    "wof:lastmodified":1577833133,
+    "wof:lastmodified":1695878522,
     "wof:name":"Maranh\u00e3o",
     "wof:parent_id":102053569,
     "wof:placetype":"localadmin",

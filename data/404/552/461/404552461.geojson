@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027873,
-    "geom:area_square_m":341737537.284599,
+    "geom:area_square_m":341737537.284596,
     "geom:bbox":"-39.4409248047,-7.61928170547,-39.2540088306,-7.32474690007",
     "geom:latitude":-7.456955,
     "geom:longitude":-39.359979,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.416606,
     "lbl:longitude":-39.336644,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Caldas"
@@ -85,9 +94,12 @@
         102051451
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230190112"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cd7117dba51c83b6c82aa5d5a6ace00e",
+    "wof:geomhash":"090281008b40d341a860095ce63a6e9d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404552461,
-    "wof:lastmodified":1577837849,
+    "wof:lastmodified":1695878713,
     "wof:name":"Caldas",
     "wof:parent_id":102051451,
     "wof:placetype":"localadmin",

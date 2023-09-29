@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034113,
-    "geom:area_square_m":421044025.152077,
+    "geom:area_square_m":421043708.771097,
     "geom:bbox":"-39.788213,-3.557759,-39.513215,-3.32315",
     "geom:latitude":-3.466542,
     "geom:longitude":-39.659802,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.472644,
     "lbl:longitude":-39.703555,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u062a\u0627\u0628\u064a\u0628\u0648\u0643\u0627"
@@ -118,9 +127,12 @@
         102051597
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230640505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9bf0bfef0d15a27240dd5bc6fa7eff70",
+    "wof:geomhash":"7b830e5050c61dd7e6751f18dcb6eda1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":404553127,
-    "wof:lastmodified":1642551786,
+    "wof:lastmodified":1695878871,
     "wof:name":"Itapipoca",
     "wof:parent_id":102051597,
     "wof:placetype":"localadmin",

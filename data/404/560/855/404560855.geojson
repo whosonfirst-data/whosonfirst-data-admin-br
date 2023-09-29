@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014043,
-    "geom:area_square_m":159794564.964393,
+    "geom:area_square_m":159794564.964383,
     "geom:bbox":"-50.3699866024,-23.1219926929,-50.1702053716,-22.9871684161",
     "geom:latitude":-23.041886,
     "geom:longitude":-50.271777,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.036194,
     "lbl:longitude":-50.270251,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09a8\u09a1\u09bf\u09b0\u09be"
@@ -97,9 +106,12 @@
         102057433
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410110105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"aea0653ca334147be2be6269f27c2736",
+    "wof:geomhash":"5071b225aa4e3ed7cf844c2e667e68d1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404560855,
-    "wof:lastmodified":1577827956,
+    "wof:lastmodified":1695878296,
     "wof:name":"Andir\u00e1",
     "wof:parent_id":102057433,
     "wof:placetype":"localadmin",

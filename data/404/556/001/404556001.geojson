@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00429,
-    "geom:area_square_m":49608715.119519,
+    "geom:area_square_m":49608715.119489,
     "geom:bbox":"-43.821264,-20.8010219969,-43.71655,-20.7116919969",
     "geom:latitude":-20.756065,
     "geom:longitude":-43.776296,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.762616,
     "lbl:longitude":-43.784216,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053703
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311830410"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a0b35ce6c30b583711f68e92475e83f9",
+    "wof:geomhash":"b6130660d85557ed280b6b58679d979c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556001,
-    "wof:lastmodified":1577832551,
+    "wof:lastmodified":1695878318,
     "wof:name":"Buarque De Macedo",
     "wof:parent_id":102053703,
     "wof:placetype":"localadmin",

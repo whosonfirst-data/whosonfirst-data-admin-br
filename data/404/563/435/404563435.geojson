@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003659,
-    "geom:area_square_m":39583672.451452,
+    "geom:area_square_m":39583672.451448,
     "geom:bbox":"-51.6701918409,-29.0218575712,-51.6164305977,-28.9275395212",
     "geom:latitude":-28.971169,
     "geom:longitude":-51.643485,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.972477,
     "lbl:longitude":-51.643997,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430595910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"84772875c284995f889594302e1931cb",
+    "wof:geomhash":"238e339fc3d29030d9124d94988eeecb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404563435,
-    "wof:lastmodified":1577827867,
+    "wof:lastmodified":1695878255,
     "wof:name":"Lageado Bonito",
     "wof:parent_id":102059305,
     "wof:placetype":"localadmin",

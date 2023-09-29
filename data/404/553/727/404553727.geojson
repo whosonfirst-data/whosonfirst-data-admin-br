@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030819,
-    "geom:area_square_m":379490545.579845,
+    "geom:area_square_m":379490545.579785,
     "geom:bbox":"-39.658546339,-5.36870880999,-39.3856513759,-5.11836637053",
     "geom:latitude":-5.242322,
     "geom:longitude":-39.525533,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-5.227115,
     "lbl:longitude":-39.523484,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051739
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231140530"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2b5313c462764ddc193c13f2cb31d62e",
+    "wof:geomhash":"39d68bb19a529c7426046e5bc359e51d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553727,
-    "wof:lastmodified":1577837946,
+    "wof:lastmodified":1695878738,
     "wof:name":"Manituba",
     "wof:parent_id":102051739,
     "wof:placetype":"localadmin",

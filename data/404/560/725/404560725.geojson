@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038317,
-    "geom:area_square_m":469482900.303188,
+    "geom:area_square_m":469482900.303178,
     "geom:bbox":"-39.5093038096,-7.8665709715,-39.2574981621,-7.60857376493",
     "geom:latitude":-7.73171,
     "geom:longitude":-39.377398,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.730226,
     "lbl:longitude":-39.375073,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ori"
@@ -76,9 +85,12 @@
         102056843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261400615"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"318786f98da200baa0f81b441c1c5402",
+    "wof:geomhash":"61e03af30f8fbfd029b77511ac43018e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404560725,
-    "wof:lastmodified":1577837942,
+    "wof:lastmodified":1695878737,
     "wof:name":"Ori",
     "wof:parent_id":102056843,
     "wof:placetype":"localadmin",

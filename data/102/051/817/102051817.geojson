@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082171,
-    "geom:area_square_m":954248501.093909,
+    "geom:area_square_m":954248501.094221,
     "geom:bbox":"-41.2760346024,-20.2876822144,-40.9458804142,-19.8901607485",
     "geom:latitude":-20.088494,
     "geom:longitude":-41.127913,
@@ -32,7 +32,7 @@
     "mps:latitude":-20.083703,
     "mps:longitude":-41.131019,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ab\u09cb\u09a8\u09cd\u09b8\u09cb \u0995\u09b2\u09be\u0989\u09a1\u09bf\u0993"
@@ -90,9 +90,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3200102"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a19a79ed79fa55ff4fdf7d0928f2657e",
+    "wof:geomhash":"618f861bca419981c32e6ec559744cb8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102051817,
-    "wof:lastmodified":1577831651,
+    "wof:lastmodified":1695887060,
     "wof:name":"Afonso Claudio",
     "wof:parent_id":85681921,
     "wof:placetype":"county",

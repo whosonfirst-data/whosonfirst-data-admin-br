@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010484,
-    "geom:area_square_m":114167659.404822,
+    "geom:area_square_m":114167659.404793,
     "geom:bbox":"-54.88572634,-28.3348608403,-54.7478494003,-28.1967838076",
     "geom:latitude":-28.278357,
     "geom:longitude":-54.818539,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.280101,
     "lbl:longitude":-54.817519,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rolador"
@@ -91,9 +100,12 @@
         102059819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431595805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"4c90f714d25e17e1d4ce95ee7130cb17",
+    "wof:geomhash":"05d7c1a9c1273af6bba5bbf7c69e74c7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404564287,
-    "wof:lastmodified":1577827716,
+    "wof:lastmodified":1695878184,
     "wof:name":"Rolador",
     "wof:parent_id":102059819,
     "wof:placetype":"localadmin",

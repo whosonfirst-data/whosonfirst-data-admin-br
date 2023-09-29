@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045209,
-    "geom:area_square_m":516724654.080132,
+    "geom:area_square_m":516724654.079908,
     "geom:bbox":"-48.488565932,-22.6254204967,-48.2348507779,-22.2662300444",
     "geom:latitude":-22.429532,
     "geom:longitude":-48.336128,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.385585,
     "lbl:longitude":-48.336099,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u0987\u09b8 \u0995\u09cb\u09b0\u09cd\u09b0\u09c7\u0997\u09cb\u09b8"
@@ -94,9 +103,12 @@
         102061343
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351410605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"754b67f92e2545d4cca904003a48e9af",
+    "wof:geomhash":"de4c2cce9aedcc346b831c153fd93f51",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404566369,
-    "wof:lastmodified":1577832858,
+    "wof:lastmodified":1695878432,
     "wof:name":"Dois C\u00f3rregos",
     "wof:parent_id":102061343,
     "wof:placetype":"localadmin",

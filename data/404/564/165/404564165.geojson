@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02458,
-    "geom:area_square_m":264957647.64531,
+    "geom:area_square_m":264957647.645305,
     "geom:bbox":"-53.4676785581,-29.4375310482,-53.2196265422,-29.2461575112",
     "geom:latitude":-29.33863,
     "geom:longitude":-53.325454,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.337607,
     "lbl:longitude":-53.306641,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09a8\u09b9\u09be\u09b2 \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
@@ -94,9 +103,12 @@
         102059745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431447205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"58fd10a8d0728458cff9546cd90eb08d",
+    "wof:geomhash":"31a738eb64b72c6eeda3f350e1c66d3c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404564165,
-    "wof:lastmodified":1577827725,
+    "wof:lastmodified":1695878189,
     "wof:name":"Pinhal Grande",
     "wof:parent_id":102059745,
     "wof:placetype":"localadmin",

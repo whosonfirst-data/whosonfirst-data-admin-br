@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007152,
-    "geom:area_square_m":87751065.93645,
+    "geom:area_square_m":87751065.936444,
     "geom:bbox":"-40.2611905562,-7.15874805094,-40.1016162753,-7.04433028423",
     "geom:latitude":-7.118156,
     "geom:longitude":-40.179884,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.115245,
     "lbl:longitude":-40.174444,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09be\u0997\u09cb\u0987\u09a8\u09b9\u09be"
@@ -82,9 +91,12 @@
         102051435
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230130710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"842a019e470b252c678c255b0293423c",
+    "wof:geomhash":"69ea8c1ef8c0df737a9e109f295035f2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":404552409,
-    "wof:lastmodified":1577837678,
+    "wof:lastmodified":1695878672,
     "wof:name":"Alagoinha",
     "wof:parent_id":102051435,
     "wof:placetype":"localadmin",

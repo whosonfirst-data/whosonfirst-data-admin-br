@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002791,
-    "geom:area_square_m":30097879.311072,
+    "geom:area_square_m":30097879.311077,
     "geom:bbox":"-52.2788758049,-29.3142258471,-52.1874974633,-29.2648377347",
     "geom:latitude":-29.287308,
     "geom:longitude":-52.2345,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.290037,
     "lbl:longitude":-52.244497,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cd\u09b8\u09be\u0995\u09cd\u09b8\u09bf\u09ae"
@@ -94,9 +103,12 @@
         102059783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431515620"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ffae478faa8b4ff695f9a852eaefdcf9",
+    "wof:geomhash":"d22b63ff1131230476dfcb1a8ef33779",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404564223,
-    "wof:lastmodified":1577827919,
+    "wof:lastmodified":1695878281,
     "wof:name":"Xaxim",
     "wof:parent_id":102059783,
     "wof:placetype":"localadmin",

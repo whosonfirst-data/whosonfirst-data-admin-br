@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090242,
-    "geom:area_square_m":1076542797.144473,
+    "geom:area_square_m":1076542797.144686,
     "geom:bbox":"-56.3017787141,-15.5088175078,-55.8979464919,-15.0708205749",
     "geom:latitude":-15.255556,
     "geom:longitude":-56.106897,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.248286,
     "lbl:longitude":-56.120586,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Guia"
@@ -61,9 +70,12 @@
         102055429
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510340320"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"d904e993c2b0ad87697a3fa309033f7c",
+    "wof:geomhash":"a4fd583338a1425293302655d736af91",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":404559191,
-    "wof:lastmodified":1577836096,
+    "wof:lastmodified":1695878631,
     "wof:name":"Guia",
     "wof:parent_id":102055429,
     "wof:placetype":"localadmin",

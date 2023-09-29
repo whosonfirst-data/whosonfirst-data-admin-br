@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121269,
-    "geom:area_square_m":1267893615.986008,
+    "geom:area_square_m":1267893615.98581,
     "geom:bbox":"-53.1969345568,-32.4992224107,-52.7203102465,-32.0332888217",
     "geom:latitude":-32.270682,
     "geom:longitude":-52.930888,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-32.276798,
     "lbl:longitude":-52.947209,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b0\u09cd\u09b0\u09cb\u0987\u0993 \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
@@ -100,9 +109,12 @@
         102059095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430130505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ccaf699e0c83f93a94a34107257eeeed",
+    "wof:geomhash":"a9622ffcae4d7bccaaf7e9f710e21a38",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404563003,
-    "wof:lastmodified":1577827696,
+    "wof:lastmodified":1695878173,
     "wof:name":"Arroio Grande",
     "wof:parent_id":102059095,
     "wof:placetype":"localadmin",

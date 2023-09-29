@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010039,
-    "geom:area_square_m":114690152.635753,
+    "geom:area_square_m":114690152.635773,
     "geom:bbox":"-44.9669777572,-22.5609852148,-44.8277976921,-22.4230431772",
     "geom:latitude":-22.493275,
     "geom:longitude":-44.889025,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.491966,
     "lbl:longitude":-44.890054,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u064a\u0631\u0648\u0633"
@@ -46,9 +55,12 @@
         102061667
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352660510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e4ed1e945bb8cd682a9aec73bbc85217",
+    "wof:geomhash":"c7396a0b6aa51dc82f67534d83254b6e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":404566679,
-    "wof:lastmodified":1577833384,
+    "wof:lastmodified":1695878600,
     "wof:name":"Pinheiros",
     "wof:parent_id":102061667,
     "wof:placetype":"localadmin",

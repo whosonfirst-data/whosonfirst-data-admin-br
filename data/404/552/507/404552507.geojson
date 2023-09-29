@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020841,
-    "geom:area_square_m":256893653.523895,
+    "geom:area_square_m":256893653.523902,
     "geom:bbox":"-38.1987680812,-4.6229176108,-37.9548358292,-4.46410564952",
     "geom:latitude":-4.550187,
     "geom:longitude":-38.070456,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.539745,
     "lbl:longitude":-38.05013,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09cb\u09b0\u09cd\u0995\u09c1\u0987\u09b2\u09b9\u09be"
@@ -85,9 +94,12 @@
         102051463
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230220608"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"644310b440792cfc8dee54da2bd40212",
+    "wof:geomhash":"6ae2e2149b11207d54739790c1f52c0a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404552507,
-    "wof:lastmodified":1577837746,
+    "wof:lastmodified":1695878688,
     "wof:name":"Forquilha",
     "wof:parent_id":102051463,
     "wof:placetype":"localadmin",

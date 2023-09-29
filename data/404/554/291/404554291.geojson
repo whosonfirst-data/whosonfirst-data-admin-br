@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014719,
-    "geom:area_square_m":171548200.551263,
+    "geom:area_square_m":171548200.551272,
     "geom:bbox":"-40.8834595977,-19.6189581358,-40.7096335787,-19.3976761513",
     "geom:latitude":-19.517472,
     "geom:longitude":-40.80449,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.527025,
     "lbl:longitude":-40.781472,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051859
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320150635"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ae54939ae9f797cb1ee93273dcad19b1",
+    "wof:geomhash":"2c80f981fe288c918dc0d1d15a5d8ffc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554291,
-    "wof:lastmodified":1577833205,
+    "wof:lastmodified":1695878544,
     "wof:name":"Itapina",
     "wof:parent_id":102051859,
     "wof:placetype":"localadmin",

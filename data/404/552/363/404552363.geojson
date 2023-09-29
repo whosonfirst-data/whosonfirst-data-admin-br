@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0049,
-    "geom:area_square_m":60448698.634995,
+    "geom:area_square_m":60448698.635039,
     "geom:bbox":"-38.379259,-4.021007,-38.278587,-3.900572",
     "geom:latitude":-3.965436,
     "geom:longitude":-38.330256,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.96294,
     "lbl:longitude":-38.33865,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,12 +43,15 @@
         102051427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230100030"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101944825
     ],
     "wof:country":"BR",
-    "wof:geomhash":"af648316c8e459f5779c9a2c0d18e0a6",
+    "wof:geomhash":"df620be3a332d28d155a31d04b235015",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404552363,
-    "wof:lastmodified":1617130673,
+    "wof:lastmodified":1695878839,
     "wof:name":"Tapera",
     "wof:parent_id":102051427,
     "wof:placetype":"localadmin",

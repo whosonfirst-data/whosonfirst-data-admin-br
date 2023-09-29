@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009533,
-    "geom:area_square_m":107700177.928446,
+    "geom:area_square_m":107700177.928427,
     "geom:bbox":"-50.2208169828,-24.0382570385,-50.0415478475,-23.9397323171",
     "geom:latitude":-23.990967,
     "geom:longitude":-50.135248,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.989672,
     "lbl:longitude":-50.149866,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057447
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410160615"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"10571648637fa50ab5d8abc5915e9a83",
+    "wof:geomhash":"e1759d06355ff1560fc66dd8a3115c7f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560885,
-    "wof:lastmodified":1577827836,
+    "wof:lastmodified":1695878240,
     "wof:name":"Caratuva",
     "wof:parent_id":102057447,
     "wof:placetype":"localadmin",

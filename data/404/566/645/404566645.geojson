@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037309,
-    "geom:area_square_m":430752201.624834,
+    "geom:area_square_m":430752201.624865,
     "geom:bbox":"-48.002215,-21.068181,-47.679938,-20.882752",
     "geom:latitude":-20.978436,
     "geom:longitude":-47.843386,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.979534,
     "lbl:longitude":-47.814424,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jardin\u00f3polis"
@@ -63,19 +72,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061631,
         1511777411,
-        85682041
+        102061631
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352510205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061631
     ],
     "wof:country":"BR",
-    "wof:geomhash":"6bc298f2e8ba40c404f80b4579e40137",
+    "wof:geomhash":"0e305553fa92405ee385754a7ae3082a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":404566645,
-    "wof:lastmodified":1608030729,
+    "wof:lastmodified":1695878782,
     "wof:name":"Jardin\u00f3polis",
     "wof:parent_id":102061631,
     "wof:placetype":"localadmin",

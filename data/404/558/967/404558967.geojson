@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129713,
-    "geom:area_square_m":1507880177.977889,
+    "geom:area_square_m":1507880177.97803,
     "geom:bbox":"-52.2209767305,-20.1293763936,-51.4756158168,-19.7684400867",
     "geom:latitude":-19.928623,
     "geom:longitude":-51.909416,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.891674,
     "lbl:longitude":-51.884014,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "S\u00e3o Pedro"
@@ -85,9 +94,12 @@
         102055255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500440320"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"91681e53bf48e109f99ac5d779cc5d0b",
+    "wof:geomhash":"57bcfc8a884c94bf9529dd1fc0bdf63b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404558967,
-    "wof:lastmodified":1577836189,
+    "wof:lastmodified":1695878654,
     "wof:name":"S\u00e3o Pedro",
     "wof:parent_id":102055255,
     "wof:placetype":"localadmin",

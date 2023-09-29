@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007646,
-    "geom:area_square_m":83947916.723709,
+    "geom:area_square_m":83947916.7237,
     "geom:bbox":"-52.6386330428,-27.4486832078,-52.4957356335,-27.3314259995",
     "geom:latitude":-27.392992,
     "geom:longitude":-52.562059,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.403575,
     "lbl:longitude":-52.557243,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09af\u09bc\u09c7\u09b0\u09ad\u09be\u09b2 \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7"
@@ -97,9 +106,12 @@
         102059375
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430720305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3c74524015858f06291b9ef9582fc8db",
+    "wof:geomhash":"b9707e6d9dff0cd02f3722861d35f38a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404563533,
-    "wof:lastmodified":1577827874,
+    "wof:lastmodified":1695878259,
     "wof:name":"Erval Grande",
     "wof:parent_id":102059375,
     "wof:placetype":"localadmin",

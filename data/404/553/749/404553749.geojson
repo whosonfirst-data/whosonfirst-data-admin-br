@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005502,
-    "geom:area_square_m":67842075.695574,
+    "geom:area_square_m":67842075.695579,
     "geom:bbox":"-38.7892595324,-4.29766324209,-38.7116685344,-4.16985120025",
     "geom:latitude":-4.233806,
     "geom:longitude":-38.749437,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.232546,
     "lbl:longitude":-38.750029,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Reden\u00e7\u00e3o"
@@ -67,9 +76,12 @@
         102051743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231160305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a95204d80501b58f5836ea8c9ab1abcc",
+    "wof:geomhash":"fb56ba3ed10455ff7e29290dba8eb8e9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404553749,
-    "wof:lastmodified":1577837956,
+    "wof:lastmodified":1695878740,
     "wof:name":"Reden\u00e7\u00e3o",
     "wof:parent_id":102051743,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003449,
-    "geom:area_square_m":41637648.44676,
+    "geom:area_square_m":41637648.446754,
     "geom:bbox":"-38.651717852,-12.5705513394,-38.5600877087,-12.4767617334",
     "geom:latitude":-12.525489,
     "geom:longitude":-38.620925,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.526511,
     "lbl:longitude":-38.624255,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u0995\u09c1\u0987\u09aa\u09c7"
@@ -97,9 +106,12 @@
         102051277
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292950315"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dbcd5872839f756784e3879786637f2c",
+    "wof:geomhash":"4b9fafdf0cc1416ecae7c3cbfcb9f44c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404551981,
-    "wof:lastmodified":1577837826,
+    "wof:lastmodified":1695878708,
     "wof:name":"Jacu\u00edpe",
     "wof:parent_id":102051277,
     "wof:placetype":"localadmin",

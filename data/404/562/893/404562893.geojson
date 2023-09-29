@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014739,
-    "geom:area_square_m":160630348.752491,
+    "geom:area_square_m":160630348.752515,
     "geom:bbox":"-52.1153506665,-28.3049069533,-51.9598213656,-28.1175163552",
     "geom:latitude":-28.191981,
     "geom:longitude":-52.024006,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.176407,
     "lbl:longitude":-52.018706,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u0997\u09c1\u09f1\u09be \u09b8\u09be\u09a8\u09cd\u099f\u09be"
@@ -88,9 +97,12 @@
         102059041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430005905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"13dd5f4c49ffd18155efd4c4c467d3b0",
+    "wof:geomhash":"6d298b17d5c622951cea08c1a083fc41",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404562893,
-    "wof:lastmodified":1577827967,
+    "wof:lastmodified":1695878301,
     "wof:name":"\u00c1gua Santa",
     "wof:parent_id":102059041,
     "wof:placetype":"localadmin",

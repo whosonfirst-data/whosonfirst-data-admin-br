@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012934,
-    "geom:area_square_m":145368695.080259,
+    "geom:area_square_m":145368695.080333,
     "geom:bbox":"-52.568400893,-24.7521627741,-52.4146386167,-24.5078620439",
     "geom:latitude":-24.637601,
     "geom:longitude":-52.482234,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.691971,
     "lbl:longitude":-52.455502,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102057925
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"411680215"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"849533f8d6dd8d4d3be1c648663fa33d",
+    "wof:geomhash":"c9e92d30f6699f8feaa2b2d1eb8e8fcb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404561525,
-    "wof:lastmodified":1577827790,
+    "wof:lastmodified":1695878219,
     "wof:name":"Santo Rei",
     "wof:parent_id":102057925,
     "wof:placetype":"localadmin",

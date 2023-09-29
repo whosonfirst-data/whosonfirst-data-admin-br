@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007496,
-    "geom:area_square_m":86261170.220257,
+    "geom:area_square_m":86261170.220291,
     "geom:bbox":"-45.868931,-21.532623,-45.764249,-21.393561",
     "geom:latitude":-21.465265,
     "geom:longitude":-45.814169,
@@ -29,7 +29,7 @@
     "mps:latitude":-21.457466,
     "mps:longitude":-45.80627,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bre_x_preferred":[
         "Fama"
@@ -92,18 +92,20 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777411,
-        85681941
+        85681941,
+        1511777411
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "bra-ibge:code":"3125200",
         "gp:id":12579655
     },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404556353
     ],
     "wof:country":"BR",
-    "wof:geomhash":"e5923280914661acbcd70c90bbbfce12",
+    "wof:geomhash":"e47f5a012f64a7ca270d6de77f3c3586",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":102053881,
-    "wof:lastmodified":1608029289,
+    "wof:lastmodified":1695887452,
     "wof:name":"Fama",
     "wof:parent_id":85681941,
     "wof:placetype":"county",

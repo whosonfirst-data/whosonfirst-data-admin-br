@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087579,
-    "geom:area_square_m":1059935284.006047,
+    "geom:area_square_m":1059935284.005924,
     "geom:bbox":"-39.640839771,-12.0525819974,-39.232833977,-11.6232194113",
     "geom:latitude":-11.832051,
     "geom:longitude":-39.41182,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.802939,
     "lbl:longitude":-39.391832,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292630105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3d6f8840223fcb5925000d2ef693d62a",
+    "wof:geomhash":"d11c0910d7fbdfe1635222ec0609e752",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551831,
-    "wof:lastmodified":1577837811,
+    "wof:lastmodified":1695878703,
     "wof:name":"Riach\u00e3o Do Jacu\u00edpe",
     "wof:parent_id":102051191,
     "wof:placetype":"localadmin",

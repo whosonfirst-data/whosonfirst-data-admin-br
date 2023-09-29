@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008433,
-    "geom:area_square_m":92692530.401763,
+    "geom:area_square_m":92692530.40177,
     "geom:bbox":"-52.2784341851,-27.3325286493,-52.1335519946,-27.1919095252",
     "geom:latitude":-27.260362,
     "geom:longitude":-52.202487,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.261908,
     "lbl:longitude":-52.203579,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u098f\u09a8\u0997\u09c7\u09a8\u09b9\u09cb \u09ad\u09c7\u09b2\u09b9\u09cb"
@@ -97,9 +106,12 @@
         102060341
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420430115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9b92421a705c07788f66425dff5e6342",
+    "wof:geomhash":"6d7706782571e385f4cf8780a8b10af8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404565333,
-    "wof:lastmodified":1577827784,
+    "wof:lastmodified":1695878216,
     "wof:name":"Engenho Velho",
     "wof:parent_id":102060341,
     "wof:placetype":"localadmin",

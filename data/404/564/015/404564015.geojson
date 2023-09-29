@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011947,
-    "geom:area_square_m":129766801.337929,
+    "geom:area_square_m":129766801.338036,
     "geom:bbox":"-51.411416174,-28.6507074981,-51.284843785,-28.4632592551",
     "geom:latitude":-28.548013,
     "geom:longitude":-51.35355,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.562424,
     "lbl:longitude":-51.369318,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431261755"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ff26e7429a7e194b57a82eccfc846528",
+    "wof:geomhash":"29589b57a3b460fcc6396b342a785e99",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564015,
-    "wof:lastmodified":1577827887,
+    "wof:lastmodified":1695878265,
     "wof:name":"Vila Ituim",
     "wof:parent_id":102059635,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010867,
-    "geom:area_square_m":129391146.802778,
+    "geom:area_square_m":129391141.956858,
     "geom:bbox":"-56.222204,-15.749841,-56.069155,-15.576368",
     "geom:latitude":-15.650282,
     "geom:longitude":-56.156138,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.647619,
     "lbl:longitude":-56.157315,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "V\u00e1rzea Grande"
@@ -76,12 +85,15 @@
         102055647
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510840205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101961239
     ],
     "wof:country":"BR",
-    "wof:geomhash":"afe1d1ab23811fc646bd1a4f1d66ff1d",
+    "wof:geomhash":"3dd302fdb61f39fa79c1919a0e421757",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":404559437,
-    "wof:lastmodified":1617131477,
+    "wof:lastmodified":1695878851,
     "wof:name":"V\u00e1rzea Grande",
     "wof:parent_id":102055647,
     "wof:placetype":"localadmin",

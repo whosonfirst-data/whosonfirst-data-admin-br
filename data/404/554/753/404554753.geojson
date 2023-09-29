@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095806,
-    "geom:area_square_m":1141910682.137005,
+    "geom:area_square_m":1141910682.136915,
     "geom:bbox":"-50.5292357811,-15.657408426,-50.0846196349,-15.2352104811",
     "geom:latitude":-15.437825,
     "geom:longitude":-50.310407,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.407375,
     "lbl:longitude":-50.328868,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Faina"
@@ -49,9 +58,12 @@
         102052181
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"520753505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"5302450270611de4581318180ee23322",
+    "wof:geomhash":"a7f5d84740b0c29b36d78baf20d3a008",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":404554753,
-    "wof:lastmodified":1577836125,
+    "wof:lastmodified":1695878639,
     "wof:name":"Faina",
     "wof:parent_id":102052181,
     "wof:placetype":"localadmin",

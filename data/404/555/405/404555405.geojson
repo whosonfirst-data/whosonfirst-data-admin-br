@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00465,
-    "geom:area_square_m":54030214.069127,
+    "geom:area_square_m":54030214.069075,
     "geom:bbox":"-44.063341,-20.059699,-43.96105,-19.948159",
     "geom:latitude":-20.001899,
     "geom:longitude":-44.010288,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.002128,
     "lbl:longitude":-44.010285,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barreiro"
@@ -54,19 +63,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053515,
         1511777411,
-        85681941
+        102053515
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310620025"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101948981
     ],
     "wof:country":"BR",
-    "wof:geomhash":"5a276a8777da7b0bcf985ae3969e9766",
+    "wof:geomhash":"0186769b9d4cd54e5ac9fdad4f5fd073",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":404555405,
-    "wof:lastmodified":1608016041,
+    "wof:lastmodified":1695878751,
     "wof:name":"Barreiro",
     "wof:parent_id":102053515,
     "wof:placetype":"localadmin",

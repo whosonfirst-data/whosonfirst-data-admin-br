@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013897,
-    "geom:area_square_m":169926210.55574,
+    "geom:area_square_m":169926210.555732,
     "geom:bbox":"-35.2400972631,-8.61176144037,-35.0634504746,-8.47521319691",
     "geom:latitude":-8.544072,
     "geom:longitude":-35.151301,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.548969,
     "lbl:longitude":-35.157399,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09bf\u09b0\u09bf\u09a8\u09b9\u09be\u09af\u09bc\u09c7\u09ae"
@@ -88,9 +97,12 @@
         102056847
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"261420405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9c4053c655bc0a8ce3ea2fabc5ac54ff",
+    "wof:geomhash":"db870339794a94254681764505153332",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404560739,
-    "wof:lastmodified":1577837934,
+    "wof:lastmodified":1695878734,
     "wof:name":"Sirinha\u00e9m",
     "wof:parent_id":102056847,
     "wof:placetype":"localadmin",

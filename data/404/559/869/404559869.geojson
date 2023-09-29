@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002336,
-    "geom:area_square_m":28664954.071231,
+    "geom:area_square_m":28664954.071204,
     "geom:bbox":"-34.867518,-7.099922,-34.825329,-6.962769",
     "geom:latitude":-7.020785,
     "geom:longitude":-34.846385,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.025228,
     "lbl:longitude":-34.842046,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Kabedelu"
@@ -96,19 +105,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681967,
         102191577,
         85633009,
-        102056077,
         1511777415,
-        85681967
+        102056077
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250320905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102056077
     ],
     "wof:country":"BR",
-    "wof:geomhash":"a9aeae00cc838dcde6d3cd90a367bf8a",
+    "wof:geomhash":"42609005511aaa6e3703ad6e7fe162c3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":404559869,
-    "wof:lastmodified":1608031163,
+    "wof:lastmodified":1695878787,
     "wof:name":"Cabedelo",
     "wof:parent_id":102056077,
     "wof:placetype":"localadmin",

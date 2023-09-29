@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135504,
-    "geom:area_square_m":1608611494.099533,
+    "geom:area_square_m":1608611494.099755,
     "geom:bbox":"-47.7324284829,-16.5034270344,-47.3035369366,-16.0502630679",
     "geom:latitude":-16.248176,
     "geom:longitude":-47.520132,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.219963,
     "lbl:longitude":-47.498732,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ae\u09cd\u09aa\u09cb\u09b8 \u09b2\u09bf\u09a8\u09cd\u09a1\u09cb\u09b8"
@@ -91,9 +100,12 @@
         102052151
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"520620610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"cf172ef9af84dcecc541f04f1773ceda",
+    "wof:geomhash":"39b2c25adce4955223daf3eb859693be",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404554747,
-    "wof:lastmodified":1577836123,
+    "wof:lastmodified":1695878639,
     "wof:name":"Campos Lindos",
     "wof:parent_id":102052151,
     "wof:placetype":"localadmin",

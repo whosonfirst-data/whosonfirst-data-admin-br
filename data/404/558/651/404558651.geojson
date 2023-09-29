@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007284,
-    "geom:area_square_m":84059582.863585,
+    "geom:area_square_m":84059582.863499,
     "geom:bbox":"-43.106966,-21.1153509968,-43.025706,-20.9552549968",
     "geom:latitude":-21.038381,
     "geom:longitude":-43.068261,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.047328,
     "lbl:longitude":-43.06426,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0627\u0631\u064a"
@@ -112,9 +121,12 @@
         102055093
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316990115"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dfa6b39ac065572704a44df02f19f011",
+    "wof:geomhash":"c65512c5011ff20ce069fc578e43d3cc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +138,7 @@
         }
     ],
     "wof:id":404558651,
-    "wof:lastmodified":1577833063,
+    "wof:lastmodified":1695878502,
     "wof:name":"Ubari",
     "wof:parent_id":102055093,
     "wof:placetype":"localadmin",

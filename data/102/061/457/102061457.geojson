@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023927,
-    "geom:area_square_m":271474970.228786,
+    "geom:area_square_m":271474970.228895,
     "geom:bbox":"-46.160501,-23.542171,-45.951865,-23.308598",
     "geom:latitude":-23.42757,
     "geom:longitude":-46.058562,
@@ -29,7 +29,7 @@
     "mps:latitude":-23.405211,
     "mps:longitude":-46.083059,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09f1\u09be\u09b0\u09be\u09b0\u09c7\u09ae\u09be"
@@ -107,16 +107,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777411,
-        85682041
+        85682041,
+        1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3518305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404566467
     ],
     "wof:country":"BR",
-    "wof:geomhash":"043f7566c5492f41541978250d25cf5f",
+    "wof:geomhash":"e981ce7a77a26098e4be82c87b205b4c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":102061457,
-    "wof:lastmodified":1608030963,
+    "wof:lastmodified":1695887463,
     "wof:name":"Guararema",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

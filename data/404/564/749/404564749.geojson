@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05332,
-    "geom:area_square_m":570156438.671203,
+    "geom:area_square_m":570156438.67138,
     "geom:bbox":"-53.9756980482,-30.2810512748,-53.6346619623,-29.984503622",
     "geom:latitude":-30.143267,
     "geom:longitude":-53.821794,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.146156,
     "lbl:longitude":-53.838508,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tupanci"
@@ -58,9 +67,12 @@
         102059963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431960428"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"45f8a0650584b72c01aa932fd215d776",
+    "wof:geomhash":"0472787127c7167599998e8868f030cd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":404564749,
-    "wof:lastmodified":1577827826,
+    "wof:lastmodified":1695878234,
     "wof:name":"Tupanci",
     "wof:parent_id":102059963,
     "wof:placetype":"localadmin",

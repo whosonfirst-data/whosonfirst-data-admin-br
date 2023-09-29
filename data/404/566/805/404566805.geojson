@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01216,
-    "geom:area_square_m":139179211.19848,
+    "geom:area_square_m":139179211.198519,
     "geom:bbox":"-47.2424168648,-22.3002611063,-47.0907595168,-22.1702096837",
     "geom:latitude":-22.238454,
     "geom:longitude":-47.163536,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.23212,
     "lbl:longitude":-47.169657,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102061765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"353070615"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"bfa4fea7a65411cab792a67e9644c855",
+    "wof:geomhash":"5ce91fb71ce9b80c7ad35cca9868076c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404566805,
-    "wof:lastmodified":1577833400,
+    "wof:lastmodified":1695878607,
     "wof:name":"Martinho Prado J\u00fanior",
     "wof:parent_id":102061765,
     "wof:placetype":"localadmin",

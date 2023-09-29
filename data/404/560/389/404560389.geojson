@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014295,
-    "geom:area_square_m":175102706.290458,
+    "geom:area_square_m":175102706.29045,
     "geom:bbox":"-35.0541057375,-7.90002509162,-34.8747411902,-7.7582213554",
     "geom:latitude":-7.844402,
     "geom:longitude":-34.959253,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.84527,
     "lbl:longitude":-34.959256,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Igarassu"
@@ -40,9 +49,12 @@
         102056653
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260680405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"683fc4689822ef58fe9f4cc66097224f",
+    "wof:geomhash":"514a631a789c1443a9e0f5a4a5819cbd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404560389,
-    "wof:lastmodified":1577837630,
+    "wof:lastmodified":1695878660,
     "wof:name":"Igarassu",
     "wof:parent_id":102056653,
     "wof:placetype":"localadmin",

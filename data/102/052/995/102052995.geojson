@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060685,
-    "geom:area_square_m":747602194.704964,
+    "geom:area_square_m":747602194.704988,
     "geom:bbox":"-45.6061409806,-5.05527666817,-45.2322215503,-4.77001415789",
     "geom:latitude":-4.929722,
     "geom:longitude":-45.403031,
@@ -32,7 +32,7 @@
     "mps:latitude":-4.930789,
     "mps:longitude":-45.402976,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u0997\u09cb\u09af\u09bc\u09be \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1\u09c7 \u09a1\u09cb \u09ae\u09be\u09b0\u09be\u09a8\u09b9\u09cb"
@@ -90,9 +90,12 @@
         1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2105963"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ff429d4db152f300df0e668ff848b956",
+    "wof:geomhash":"e95a48d0be84dc1fab2029d6e14a661f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102052995,
-    "wof:lastmodified":1577837513,
+    "wof:lastmodified":1695887123,
     "wof:name":"Lagoa Grande do Maranhao",
     "wof:parent_id":85681931,
     "wof:placetype":"county",

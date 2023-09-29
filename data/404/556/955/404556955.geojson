@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030026,
-    "geom:area_square_m":344588676.84387,
+    "geom:area_square_m":344588676.843889,
     "geom:bbox":"-43.665487,-21.9993419961,-43.4351454998,-21.7398159961",
     "geom:latitude":-21.858099,
     "geom:longitude":-43.54961,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.858146,
     "lbl:longitude":-43.560923,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054193
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313670280"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"758b87ebac2f4182ed19c6eddc781a3e",
+    "wof:geomhash":"eed3ace84f40184d40ad6f2fb49398bd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556955,
-    "wof:lastmodified":1577833275,
+    "wof:lastmodified":1695878567,
     "wof:name":"Torre\u00f5es",
     "wof:parent_id":102054193,
     "wof:placetype":"localadmin",

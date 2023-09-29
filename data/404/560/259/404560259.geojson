@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004208,
-    "geom:area_square_m":51465203.088503,
+    "geom:area_square_m":51465203.088507,
     "geom:bbox":"-36.3611405386,-8.48187574756,-36.2811021162,-8.38169470631",
     "geom:latitude":-8.43434,
     "geom:longitude":-36.323828,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-8.431685,
     "lbl:longitude":-36.327769,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056559
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"260310810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"360d7d3f94a0d72049029029bea42bf4",
+    "wof:geomhash":"ba816e38876ee4646255b01dbddba292",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404560259,
-    "wof:lastmodified":1577837916,
+    "wof:lastmodified":1695878730,
     "wof:name":"Cabanas",
     "wof:parent_id":102056559,
     "wof:placetype":"localadmin",

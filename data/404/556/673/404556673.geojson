@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004341,
-    "geom:area_square_m":50603014.887158,
+    "geom:area_square_m":50603014.887126,
     "geom:bbox":"-42.6045,-19.521838,-42.492699,-19.396865",
     "geom:latitude":-19.47903,
     "geom:longitude":-42.551812,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.478444,
     "lbl:longitude":-42.538713,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0987\u09aa\u09be\u09a4\u09bf\u0982\u0997\u09be"
@@ -154,12 +163,15 @@
         102054053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313130705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         101951813
     ],
     "wof:country":"BR",
-    "wof:geomhash":"c6064c5baca69614aabf01bc5bca29ea",
+    "wof:geomhash":"91aff248390768533fb1b962e86ba0bc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -171,7 +183,7 @@
         }
     ],
     "wof:id":404556673,
-    "wof:lastmodified":1636496411,
+    "wof:lastmodified":1695878854,
     "wof:name":"Ipatinga",
     "wof:parent_id":102054053,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002476,
-    "geom:area_square_m":30391854.185311,
+    "geom:area_square_m":30391854.185314,
     "geom:bbox":"-38.8038700355,-7.04874241181,-38.7135170426,-6.99073347579",
     "geom:latitude":-7.019954,
     "geom:longitude":-38.750846,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.021001,
     "lbl:longitude":-38.747762,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u09cd\u099f\u09c7 \u0986\u09b2\u09c7\u0997\u09cd\u09b0\u09c7"
@@ -70,9 +79,12 @@
         102051455
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230200817"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"b7243ccf007f080fa40c2ee1440bb1f2",
+    "wof:geomhash":"e3df6cf2be91528911ae7680e775d9fb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404552485,
-    "wof:lastmodified":1577837847,
+    "wof:lastmodified":1695878712,
     "wof:name":"Monte Alegre",
     "wof:parent_id":102051455,
     "wof:placetype":"localadmin",

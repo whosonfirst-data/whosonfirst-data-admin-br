@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020154,
-    "geom:area_square_m":228897584.670275,
+    "geom:area_square_m":228897584.670366,
     "geom:bbox":"-45.2589117253,-23.3970776264,-45.067563551,-23.1863269188",
     "geom:latitude":-23.291527,
     "geom:longitude":-45.165664,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.248369,
     "lbl:longitude":-45.16566,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102062249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355000110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7a4173dd844cd8a875a67c7a636093f1",
+    "wof:geomhash":"227af67dd39a9b6d9c3b700edaa84874",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404567249,
-    "wof:lastmodified":1577832793,
+    "wof:lastmodified":1695878411,
     "wof:name":"Catu\u00e7aba",
     "wof:parent_id":102062249,
     "wof:placetype":"localadmin",

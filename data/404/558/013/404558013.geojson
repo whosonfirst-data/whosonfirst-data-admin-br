@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015165,
-    "geom:area_square_m":180287469.979387,
+    "geom:area_square_m":180287469.979354,
     "geom:bbox":"-42.265062,-16.0333879975,-42.05848,-15.9059229975",
     "geom:latitude":-15.967453,
     "geom:longitude":-42.163694,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.96868,
     "lbl:longitude":-42.12223,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054739
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315700510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7d6f582cbe1be48d6b3e49c7d5f6a558",
+    "wof:geomhash":"55ee3667ea908edb64e52758285c9d9e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558013,
-    "wof:lastmodified":1577832552,
+    "wof:lastmodified":1695878318,
     "wof:name":"Ferreir\u00f3polis",
     "wof:parent_id":102054739,
     "wof:placetype":"localadmin",

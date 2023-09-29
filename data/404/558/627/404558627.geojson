@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01502,
-    "geom:area_square_m":172927374.515682,
+    "geom:area_square_m":172927374.515624,
     "geom:bbox":"-45.700985,-21.4680369968,-45.55914,-21.3091979968",
     "geom:latitude":-21.389641,
     "geom:longitude":-45.630888,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.388619,
     "lbl:longitude":-45.62515,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Pontalete"
@@ -37,9 +46,12 @@
         102055083
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"316940610"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7bfbced558f731f842976348005a88b9",
+    "wof:geomhash":"c6608055618dee9a510a5740c3ece4f8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404558627,
-    "wof:lastmodified":1577833013,
+    "wof:lastmodified":1695878486,
     "wof:name":"Pontalete",
     "wof:parent_id":102055083,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031436,
-    "geom:area_square_m":368482471.416006,
+    "geom:area_square_m":368482471.415946,
     "geom:bbox":"-47.981073,-18.681348,-47.757926,-18.449087",
     "geom:latitude":-18.568645,
     "geom:longitude":-47.876955,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.571576,
     "lbl:longitude":-47.874828,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b8\u0995\u09be\u09b2\u09b9\u09cb \u09b0\u09bf\u0995\u09cb"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053615,
         1511777411,
-        85681941
+        102053615
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311500305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053615
     ],
     "wof:country":"BR",
-    "wof:geomhash":"e172446eac71ed1e0ac7468dce2a8242",
+    "wof:geomhash":"0c4dfab0ce520c277a4d4efe30c03b38",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404555829,
-    "wof:lastmodified":1608032442,
+    "wof:lastmodified":1695878806,
     "wof:name":"Cascalho Rico",
     "wof:parent_id":102053615,
     "wof:placetype":"localadmin",

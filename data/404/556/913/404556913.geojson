@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.339279,
-    "geom:area_square_m":3997168454.707399,
+    "geom:area_square_m":3997168454.70648,
     "geom:bbox":"-46.56469,-18.2081119972,-45.761185,-17.1779469973",
     "geom:latitude":-17.675569,
     "geom:longitude":-46.172342,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.853028,
     "lbl:longitude":-46.078576,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054175
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"313630605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"605aef064007fab00b80b9528d2e3d11",
+    "wof:geomhash":"650fc470bf87cbaeeca80bf0dcf9a828",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404556913,
-    "wof:lastmodified":1577833437,
+    "wof:lastmodified":1695878620,
     "wof:name":"Jo\u00e3o Pinheiro",
     "wof:parent_id":102054175,
     "wof:placetype":"localadmin",

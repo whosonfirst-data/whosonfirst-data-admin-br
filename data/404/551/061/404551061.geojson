@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031757,
-    "geom:area_square_m":383200435.385545,
+    "geom:area_square_m":383200435.385572,
     "geom:bbox":"-42.3098942328,-12.7266839647,-42.0910127526,-12.4509532076",
     "geom:latitude":-12.615674,
     "geom:longitude":-42.213104,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.617275,
     "lbl:longitude":-42.214764,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u09ac\u09bf\u099f\u09bf\u09af\u09bc\u09be\u09b0\u09be"
@@ -97,9 +106,12 @@
         102050815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291300205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9c8ac18b302fea216d8ee56235b4dac2",
+    "wof:geomhash":"52586cd73a5b10ce8d3cd226556c8f2c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404551061,
-    "wof:lastmodified":1577837894,
+    "wof:lastmodified":1695878724,
     "wof:name":"Ibitiara",
     "wof:parent_id":102050815,
     "wof:placetype":"localadmin",

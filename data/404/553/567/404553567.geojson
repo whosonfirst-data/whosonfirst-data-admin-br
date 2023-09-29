@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005245,
-    "geom:area_square_m":64736766.903512,
+    "geom:area_square_m":64736766.903515,
     "geom:bbox":"-39.1697837814,-3.52881290233,-39.0728776668,-3.4101808132",
     "geom:latitude":-3.479729,
     "geom:longitude":-39.113613,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.465517,
     "lbl:longitude":-39.096727,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051699
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231020920"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"61718cfc7e5f02736eb5dc148f9c3c32",
+    "wof:geomhash":"918ec0bd68ce0e8c6179f3d4fe2094b7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553567,
-    "wof:lastmodified":1577837865,
+    "wof:lastmodified":1695878717,
     "wof:name":"Po\u00e7o Doce",
     "wof:parent_id":102051699,
     "wof:placetype":"localadmin",

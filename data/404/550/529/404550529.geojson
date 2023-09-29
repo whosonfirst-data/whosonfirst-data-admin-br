@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012634,
-    "geom:area_square_m":152854495.323491,
+    "geom:area_square_m":152854495.323486,
     "geom:bbox":"-41.8938459746,-11.9828589984,-41.67642648,-11.8510441832",
     "geom:latitude":-11.909062,
     "geom:longitude":-41.766173,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.908754,
     "lbl:longitude":-41.764447,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050551
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290323510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0dcba1c381d74faf873dbb649ea4f0c6",
+    "wof:geomhash":"d956eea6a1f198a64827964c9ca1be51",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550529,
-    "wof:lastmodified":1577837840,
+    "wof:lastmodified":1695878711,
     "wof:name":"Lagoa Do Boi",
     "wof:parent_id":102050551,
     "wof:placetype":"localadmin",

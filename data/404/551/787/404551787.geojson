@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07198,
-    "geom:area_square_m":850973690.251487,
+    "geom:area_square_m":850973690.251389,
     "geom:bbox":"-39.4609902449,-17.221111872,-39.110882601,-16.8880179575",
     "geom:latitude":-17.038508,
     "geom:longitude":-39.299774,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.034932,
     "lbl:longitude":-39.299769,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292550110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"a0490ff14c8bebc93882ffdb6b0da767",
+    "wof:geomhash":"ec258c2f97d1534a1b1b2e57549bef19",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551787,
-    "wof:lastmodified":1577837813,
+    "wof:lastmodified":1695878704,
     "wof:name":"Cumuruxatiba",
     "wof:parent_id":102051165,
     "wof:placetype":"localadmin",

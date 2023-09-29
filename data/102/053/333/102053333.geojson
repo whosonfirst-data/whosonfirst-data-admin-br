@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050436,
-    "geom:area_square_m":579414306.950938,
+    "geom:area_square_m":579414306.951012,
     "geom:bbox":"-46.396566,-21.878443,-46.080011,-21.554117",
     "geom:latitude":-21.710404,
     "geom:longitude":-46.221487,
@@ -93,16 +93,19 @@
     "wof:belongsto":[
         102191577,
         85633009,
-        1511777411,
-        85681941
+        85681941,
+        1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3111002"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         404555647
     ],
     "wof:country":"BR",
-    "wof:geomhash":"0f9b5fd1d55ad89d51fb38cd6d158137",
+    "wof:geomhash":"e67381e53512a053cd2a50ef4e28f388",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":102053333,
-    "wof:lastmodified":1608032653,
+    "wof:lastmodified":1695886422,
     "wof:name":"Campestre",
     "wof:parent_id":85681941,
     "wof:placetype":"county",

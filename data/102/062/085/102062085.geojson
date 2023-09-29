@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008775,
-    "geom:area_square_m":99355211.82948,
+    "geom:area_square_m":99355211.829519,
     "geom:bbox":"-46.475329,-23.770903,-46.3307,-23.617663",
     "geom:latitude":-23.701025,
     "geom:longitude":-46.402814,
@@ -32,7 +32,7 @@
     "mps:latitude":-23.708992,
     "mps:longitude":-46.419779,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u09ac\u09c7\u0987\u09b0\u09be\u0993 \u09aa\u09bf\u09b0\u09c7\u09b8"
@@ -90,9 +90,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3543303"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2ad9ef2a7c7623168471029bb6df443f",
+    "wof:geomhash":"b7c98bbc4cd40a62c5521d63ce13498c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102062085,
-    "wof:lastmodified":1577830975,
+    "wof:lastmodified":1695887014,
     "wof:name":"Ribeirao Pires",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

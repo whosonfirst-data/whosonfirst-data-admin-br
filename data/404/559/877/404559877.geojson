@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001064,
-    "geom:area_square_m":13057525.007204,
+    "geom:area_square_m":13057525.007205,
     "geom:bbox":"-38.7651073092,-7.01694147665,-38.7046898792,-6.97516422185",
     "geom:latitude":-6.996588,
     "geom:longitude":-38.73409,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.994973,
     "lbl:longitude":-38.733632,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102056079
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250330810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9392922eb272acb899af6495159f23fc",
+    "wof:geomhash":"371bae095d34db5d10a744a31f68d5e4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559877,
-    "wof:lastmodified":1577837840,
+    "wof:lastmodified":1695878711,
     "wof:name":"Balan\u00e7os",
     "wof:parent_id":102056079,
     "wof:placetype":"localadmin",

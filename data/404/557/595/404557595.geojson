@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082737,
-    "geom:area_square_m":967666905.877151,
+    "geom:area_square_m":967666905.877463,
     "geom:bbox":"-47.164654,-19.1071029971,-46.750152,-18.7303469971",
     "geom:latitude":-18.939984,
     "geom:longitude":-46.965783,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.955764,
     "lbl:longitude":-46.91746,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u099f\u09cd\u09b0\u09cb\u0995\u0987\u09a8\u09bf\u0993"
@@ -97,9 +106,12 @@
         102054513
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314810305"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f94ac860d1d9ae7c72cd70369ad60f25",
+    "wof:geomhash":"979ca97cc1663377dbdbb5e15660cf04",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404557595,
-    "wof:lastmodified":1577833087,
+    "wof:lastmodified":1695878509,
     "wof:name":"Patroc\u00ednio",
     "wof:parent_id":102054513,
     "wof:placetype":"localadmin",

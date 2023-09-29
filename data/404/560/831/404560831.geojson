@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016049,
-    "geom:area_square_m":181229952.776188,
+    "geom:area_square_m":181229952.776159,
     "geom:bbox":"-53.5191379333,-24.1320771568,-53.3198412007,-23.9757828131",
     "geom:latitude":-24.045105,
     "geom:longitude":-53.420874,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.039627,
     "lbl:longitude":-53.43593,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09cd\u099f\u09cb \u09aa\u09bf\u0995\u09c1\u0987\u09b0\u09bf"
@@ -97,9 +106,12 @@
         102057423
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410070705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"3cf5ad70db0f9b9aae036ce073b537e5",
+    "wof:geomhash":"62b11a562af40888a74c741c9bba6e22",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404560831,
-    "wof:lastmodified":1577827962,
+    "wof:lastmodified":1695878299,
     "wof:name":"Alto Piquiri",
     "wof:parent_id":102057423,
     "wof:placetype":"localadmin",

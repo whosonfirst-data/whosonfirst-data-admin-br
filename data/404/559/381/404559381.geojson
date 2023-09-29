@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05051,
-    "geom:area_square_m":603423067.925196,
+    "geom:area_square_m":603423067.925078,
     "geom:bbox":"-58.3460270297,-15.0591509317,-58.014516399,-14.7680861833",
     "geom:latitude":-14.951034,
     "geom:longitude":-58.202361,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.976362,
     "lbl:longitude":-58.188855,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055607
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510775015"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6993680a190b7e6941706ad534f2f000",
+    "wof:geomhash":"657e01fc75eb855b7c97eb60bbc3cccf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559381,
-    "wof:lastmodified":1577836119,
+    "wof:lastmodified":1695878638,
     "wof:name":"Vila Progresso",
     "wof:parent_id":102055607,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033361,
-    "geom:area_square_m":400840609.889629,
+    "geom:area_square_m":400840609.889611,
     "geom:bbox":"-39.471574,-13.73401,-38.963279,-13.562459",
     "geom:latitude":-13.659387,
     "geom:longitude":-39.180798,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-13.632078,
     "lbl:longitude":-39.138663,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0644\u0648 \u0628\u064a\u0633\u0627\u0646\u064a\u0627"
@@ -130,12 +139,15 @@
         102051075
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292260705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102051075
     ],
     "wof:country":"BR",
-    "wof:geomhash":"cbae41b933c93ef7cc6805f148941be1",
+    "wof:geomhash":"04eeec1138a13c7f5a6e799f8c7c561d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":404551617,
-    "wof:lastmodified":1617130284,
+    "wof:lastmodified":1695878833,
     "wof:name":"Nilo Pe\u00e7anha",
     "wof:parent_id":102051075,
     "wof:placetype":"localadmin",

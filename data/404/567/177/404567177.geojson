@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012838,
-    "geom:area_square_m":147884398.642095,
+    "geom:area_square_m":147884398.642081,
     "geom:bbox":"-51.808032,-21.39517,-51.676533,-21.223844",
     "geom:latitude":-21.318372,
     "geom:longitude":-51.742592,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.346749,
     "lbl:longitude":-51.741604,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u09ae\u09c7\u09b0\u09b8\u09c7\u09a1\u09c7\u09b8"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102062175,
         1511777411,
-        85682041
+        102062175
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"354710605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102062175
     ],
     "wof:country":"BR",
-    "wof:geomhash":"ae107d6ef44a6c9862b33055cdcbc552",
+    "wof:geomhash":"4b50e8060fe47557432311afab6bbfa8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404567177,
-    "wof:lastmodified":1608030262,
+    "wof:lastmodified":1695878773,
     "wof:name":"Santa Mercedes",
     "wof:parent_id":102062175,
     "wof:placetype":"localadmin",

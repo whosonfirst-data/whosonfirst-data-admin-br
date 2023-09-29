@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027303,
-    "geom:area_square_m":313900787.097975,
+    "geom:area_square_m":313900787.097921,
     "geom:bbox":"-51.2853591139,-21.7437568971,-51.0792150945,-21.4487891565",
     "geom:latitude":-21.599106,
     "geom:longitude":-51.173427,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.599045,
     "lbl:longitude":-51.1493,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09cd\u09b2\u09cb\u09b0\u09bf\u09a1\u09be \u09aa\u09be\u0989\u09b2\u09bf\u09b8\u09cd\u099f\u09be"
@@ -91,9 +100,12 @@
         102061403
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"351600205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"585aa7b456b27806114df92079ca784f",
+    "wof:geomhash":"aae5e3a6ecbcd033e669c745e5354497",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404566417,
-    "wof:lastmodified":1577833314,
+    "wof:lastmodified":1695878580,
     "wof:name":"Fl\u00f3rida Paulista",
     "wof:parent_id":102061403,
     "wof:placetype":"localadmin",

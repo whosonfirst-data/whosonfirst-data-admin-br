@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008577,
-    "geom:area_square_m":100256643.367555,
+    "geom:area_square_m":100256643.367544,
     "geom:bbox":"-41.0717907128,-19.1013678721,-40.9184787125,-18.9794873281",
     "geom:latitude":-19.029717,
     "geom:longitude":-41.010469,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-19.030563,
     "lbl:longitude":-41.023146,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u09cd\u099f\u09cb \u09b0\u09bf\u0993 \u09a8\u09cb\u09ad\u09cb"
@@ -97,9 +106,12 @@
         102051829
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320035905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"64621b03924084f6351a1f802ab39a73",
+    "wof:geomhash":"3d9cc02df2dbb2954cf08934dbd7ffc0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404554163,
-    "wof:lastmodified":1577833362,
+    "wof:lastmodified":1695878592,
     "wof:name":"Alto Rio Novo",
     "wof:parent_id":102051829,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013677,
-    "geom:area_square_m":158695222.682435,
+    "geom:area_square_m":158695222.682397,
     "geom:bbox":"-43.165126,-20.2830859969,-42.957168,-20.1664159969",
     "geom:latitude":-20.22358,
     "geom:longitude":-43.069228,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.220093,
     "lbl:longitude":-43.096634,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053505
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310570715"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"2f13163ef08dd136d61532c4c865e247",
+    "wof:geomhash":"d5df481c6ce83c26fe2a971d11a7d586",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555389,
-    "wof:lastmodified":1577832867,
+    "wof:lastmodified":1695878436,
     "wof:name":"Bonfim Da Barra",
     "wof:parent_id":102053505,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022427,
-    "geom:area_square_m":245298342.321277,
+    "geom:area_square_m":245298342.321293,
     "geom:bbox":"-50.645546745,-27.8753784129,-50.4047038872,-27.7070766208",
     "geom:latitude":-27.802642,
     "geom:longitude":-50.522886,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.828694,
     "lbl:longitude":-50.511049,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060503
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420930045"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f80237dba7fd6e7654837bd47b0b273d",
+    "wof:geomhash":"4e276013759686cf9fc7902a23cfabe0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404565565,
-    "wof:lastmodified":1577827931,
+    "wof:lastmodified":1695878286,
     "wof:name":"Santa Teresinha Do Salto",
     "wof:parent_id":102060503,
     "wof:placetype":"localadmin",

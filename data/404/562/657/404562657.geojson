@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019368,
-    "geom:area_square_m":221407362.527975,
+    "geom:area_square_m":221407362.527961,
     "geom:bbox":"-43.7793406164,-22.4887933602,-43.5795965957,-22.3034552384",
     "geom:latitude":-22.41024,
     "geom:longitude":-43.666974,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.411622,
     "lbl:longitude":-43.660228,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09be\u09b8\u09b8\u09cc\u09b0\u09be\u09b8"
@@ -103,9 +112,12 @@
         102058507
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330620605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e6e13d7208ffb1f2a039123d20212e5f",
+    "wof:geomhash":"cfa27d483229c55230ac7716ae072f0e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":404562657,
-    "wof:lastmodified":1577833070,
+    "wof:lastmodified":1695878504,
     "wof:name":"Vassouras",
     "wof:parent_id":102058507,
     "wof:placetype":"localadmin",

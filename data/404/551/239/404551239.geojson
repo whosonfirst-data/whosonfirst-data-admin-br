@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048562,
-    "geom:area_square_m":585725761.868196,
+    "geom:area_square_m":585725761.868137,
     "geom:bbox":"-39.870898,-12.887261,-39.635117,-12.548272",
     "geom:latitude":-12.724167,
     "geom:longitude":-39.740712,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.716073,
     "lbl:longitude":-39.73123,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0987\u099f\u09be\u099f\u09bf\u09ae"
@@ -97,12 +106,15 @@
         102050909
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291685605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050909
     ],
     "wof:country":"BR",
-    "wof:geomhash":"437a8bf5d8ffa9fa8aa53d5584b23e68",
+    "wof:geomhash":"1b93121c769369862d1687c6ec965fda",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404551239,
-    "wof:lastmodified":1617131279,
+    "wof:lastmodified":1695878844,
     "wof:name":"Itatim",
     "wof:parent_id":102050909,
     "wof:placetype":"localadmin",

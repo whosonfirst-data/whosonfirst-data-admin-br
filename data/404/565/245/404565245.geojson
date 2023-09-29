@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053913,
-    "geom:area_square_m":595152159.182698,
+    "geom:area_square_m":595152159.182725,
     "geom:bbox":"-51.1609918729,-26.9021059992,-50.799614,-26.6483169992",
     "geom:latitude":-26.778226,
     "geom:longitude":-50.978394,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.764651,
     "lbl:longitude":-50.981817,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u0995\u09be\u09a1\u09cb\u09b0\u09cd"
@@ -91,9 +100,12 @@
         102060295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420300605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"670b0271cbbe9afcc49fad4d86b8ca2f",
+    "wof:geomhash":"8ad49f4b5b349fa0fe847608e7c10734",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":404565245,
-    "wof:lastmodified":1577827752,
+    "wof:lastmodified":1695878201,
     "wof:name":"Ca\u00e7ador",
     "wof:parent_id":102060295,
     "wof:placetype":"localadmin",

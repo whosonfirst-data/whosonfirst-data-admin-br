@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053161,
-    "geom:area_square_m":622688869.587894,
+    "geom:area_square_m":622688869.587966,
     "geom:bbox":"-49.731206,-18.810725,-49.40238,-18.539622",
     "geom:latitude":-18.687229,
     "geom:longitude":-49.581589,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.70467,
     "lbl:longitude":-49.601134,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09aa\u09bf\u09a8\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
@@ -87,19 +96,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681941,
         102191577,
         85633009,
-        102053557,
         1511777411,
-        85681941
+        102053557
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"311260405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102053557
     ],
     "wof:country":"BR",
-    "wof:geomhash":"b73e13ee081bcc15675adb78c046eb61",
+    "wof:geomhash":"1197f7c88e8de1b3899adf29e7ba3a24",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404555699,
-    "wof:lastmodified":1608032688,
+    "wof:lastmodified":1695878814,
     "wof:name":"Capin\u00f3polis",
     "wof:parent_id":102053557,
     "wof:placetype":"localadmin",

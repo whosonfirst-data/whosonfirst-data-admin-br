@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027809,
-    "geom:area_square_m":303347060.565014,
+    "geom:area_square_m":303347060.564962,
     "geom:bbox":"-49.341605,-28.190606,-49.030167,-27.970959",
     "geom:latitude":-28.093194,
     "geom:longitude":-49.19072,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.090361,
     "lbl:longitude":-49.229637,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u0993 \u09ab\u09cb\u09b0\u09cd\u099f\u09c1\u09a8\u09be"
@@ -78,19 +87,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060677,
         1511777409,
-        85682021
+        102060677
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421490405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060677
     ],
     "wof:country":"BR",
-    "wof:geomhash":"28b25b9ee2643dc7428287f471a0a4f7",
+    "wof:geomhash":"945b36566cd678a4fdce728ef2f94472",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404565793,
-    "wof:lastmodified":1608034353,
+    "wof:lastmodified":1695878822,
     "wof:name":"Rio Fortuna",
     "wof:parent_id":102060677,
     "wof:placetype":"localadmin",

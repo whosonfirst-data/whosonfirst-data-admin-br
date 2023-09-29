@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010618,
-    "geom:area_square_m":128833351.779477,
+    "geom:area_square_m":128833351.779503,
     "geom:bbox":"-38.588453,-11.169649,-38.433228,-11.053651",
     "geom:latitude":-11.112417,
     "geom:longitude":-38.509912,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.118607,
     "lbl:longitude":-38.516207,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09bf\u09aa\u09cb"
@@ -91,12 +100,15 @@
         102050681
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290790505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050681
     ],
     "wof:country":"BR",
-    "wof:geomhash":"850875f81f6d928395ac899fd9ce66a7",
+    "wof:geomhash":"7f91150fa1e9aaeffacbf474e20e6821",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404550797,
-    "wof:lastmodified":1617131228,
+    "wof:lastmodified":1695878843,
     "wof:name":"Cip\u00f3",
     "wof:parent_id":102050681,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008764,
-    "geom:area_square_m":108096805.929899,
+    "geom:area_square_m":108096805.929898,
     "geom:bbox":"-38.5364894178,-4.07132028516,-38.4059244866,-3.9621370313",
     "geom:latitude":-4.024055,
     "geom:longitude":-38.463896,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.023523,
     "lbl:longitude":-38.456097,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051427
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230100020"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9ccf22300491a45dc92474ac1e75090c",
+    "wof:geomhash":"1267142d39b9bf319631352984031c43",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404552359,
-    "wof:lastmodified":1577837794,
+    "wof:lastmodified":1695878699,
     "wof:name":"Justiniano De Serpa",
     "wof:parent_id":102051427,
     "wof:placetype":"localadmin",

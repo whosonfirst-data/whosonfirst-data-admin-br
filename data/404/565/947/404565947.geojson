@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000861,
-    "geom:area_square_m":9554871.350796,
+    "geom:area_square_m":9554871.350798,
     "geom:bbox":"-50.3913137789,-26.1687405694,-50.342093939,-26.1269563839",
     "geom:latitude":-26.14634,
     "geom:longitude":-50.365054,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-26.150479,
     "lbl:longitude":-50.367472,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0648 \u0643\u0631\u064a\u0633\u062a\u0648\u0641\u0627\u0648"
@@ -127,9 +136,12 @@
         102060795
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421830110"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"24fbd984cfa228ceb88ad67771cf5d0c",
+    "wof:geomhash":"cf5f76c0d48d573e446fe6bce2e31452",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +153,7 @@
         }
     ],
     "wof:id":404565947,
-    "wof:lastmodified":1577828002,
+    "wof:lastmodified":1695878317,
     "wof:name":"S\u00e3o Crist\u00f3v\u00e3o",
     "wof:parent_id":102060795,
     "wof:placetype":"localadmin",

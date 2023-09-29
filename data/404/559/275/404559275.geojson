@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099725,
-    "geom:area_square_m":1184254772.375693,
+    "geom:area_square_m":1184254772.375205,
     "geom:bbox":"-56.5337395275,-16.4105292777,-56.0009772059,-15.9357591394",
     "geom:latitude":-16.185132,
     "geom:longitude":-56.212798,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-16.196776,
     "lbl:longitude":-56.120275,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055503
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"510610910"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7cc9e1c9ee0cb9a1ec1f54179d463c25",
+    "wof:geomhash":"03e6d76ed630c7d179070b06dd6ae449",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559275,
-    "wof:lastmodified":1577836083,
+    "wof:lastmodified":1695878626,
     "wof:name":"Pirizal",
     "wof:parent_id":102055503,
     "wof:placetype":"localadmin",

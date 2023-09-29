@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012158,
-    "geom:area_square_m":133453650.828999,
+    "geom:area_square_m":133453650.829023,
     "geom:bbox":"-49.0508137989,-27.4832165402,-48.8960611439,-27.3411859027",
     "geom:latitude":-27.414973,
     "geom:longitude":-48.979123,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.408018,
     "lbl:longitude":-48.973905,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u099c\u09cb\u09b0\u09cd \u0997\u09af\u09bc\u09c7\u09b0\u09b8\u09bf\u09a8\u09cb"
@@ -94,9 +103,12 @@
         102060533
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"421020905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ca27fae715bdb042c7c1187adca66474",
+    "wof:geomhash":"9cbae05bef1d57bb4e36ce81805def9e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404565605,
-    "wof:lastmodified":1577827945,
+    "wof:lastmodified":1695878292,
     "wof:name":"Major Gercino",
     "wof:parent_id":102060533,
     "wof:placetype":"localadmin",

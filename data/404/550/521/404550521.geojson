@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030036,
-    "geom:area_square_m":363182476.595793,
+    "geom:area_square_m":363182476.595743,
     "geom:bbox":"-42.246026222,-12.170673819,-41.9698384061,-11.9483717794",
     "geom:latitude":-12.071846,
     "geom:longitude":-42.115162,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.088731,
     "lbl:longitude":-42.115192,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102050545
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290300310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0b3f8ab0fbe7d074eb3aaf56f114bc16",
+    "wof:geomhash":"2d66fe87a954af3f8733b7e1d134490d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404550521,
-    "wof:lastmodified":1577837836,
+    "wof:lastmodified":1695878710,
     "wof:name":"Minas Do Esp\u00edrito Santo",
     "wof:parent_id":102050545,
     "wof:placetype":"localadmin",

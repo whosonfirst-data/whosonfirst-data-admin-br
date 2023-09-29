@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020701,
-    "geom:area_square_m":226398558.531241,
+    "geom:area_square_m":226398558.531222,
     "geom:bbox":"-54.7871693451,-27.8892858979,-54.5513006383,-27.6973350653",
     "geom:latitude":-27.811724,
     "geom:longitude":-54.671125,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.811945,
     "lbl:longitude":-54.67291,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09cb \u0995\u09b0\u09bf\u09b8\u099f\u09cb"
@@ -88,9 +97,12 @@
         102059889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431790505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"be6d88c6246f4ebd596836a2c4182996",
+    "wof:geomhash":"3fdd1e679293e0474cf907ff3f6c5b4d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404564547,
-    "wof:lastmodified":1577827872,
+    "wof:lastmodified":1695878258,
     "wof:name":"Santo Cristo",
     "wof:parent_id":102059889,
     "wof:placetype":"localadmin",

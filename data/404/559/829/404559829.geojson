@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010366,
-    "geom:area_square_m":127235067.6439,
+    "geom:area_square_m":127235067.643908,
     "geom:bbox":"-35.7462901171,-7.02787722114,-35.5712354941,-6.90973554058",
     "geom:latitude":-6.966981,
     "geom:longitude":-35.662647,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-6.94667,
     "lbl:longitude":-35.634827,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Areia"
@@ -49,9 +58,12 @@
         102056017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"250110405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"31eaa07512a605be2ca8682dad8f94c8",
+    "wof:geomhash":"4b76baf6d07654ba9d1e782c6ac71847",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":404559829,
-    "wof:lastmodified":1577837963,
+    "wof:lastmodified":1695878742,
     "wof:name":"Areia",
     "wof:parent_id":102056017,
     "wof:placetype":"localadmin",

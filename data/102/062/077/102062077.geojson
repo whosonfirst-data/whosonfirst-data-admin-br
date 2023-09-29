@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017908,
-    "geom:area_square_m":204204447.951934,
+    "geom:area_square_m":204204447.951939,
     "geom:bbox":"-50.0100547839,-22.833056081,-49.8366029756,-22.6636909515",
     "geom:latitude":-22.751775,
     "geom:longitude":-49.922536,
@@ -32,7 +32,7 @@
     "mps:latitude":-22.754547,
     "mps:longitude":-49.924135,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09bf\u09ac\u09c7\u0987\u09b0\u09be\u0993 \u09a1\u09cb \u09b8\u09c1\u09b2"
@@ -90,9 +90,12 @@
         1511777411
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"3543204"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"230751ccf36a84d475a1422fc58a71cd",
+    "wof:geomhash":"cdd3705b3383e9fa88953aeea1c6d6da",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102062077,
-    "wof:lastmodified":1577831002,
+    "wof:lastmodified":1695887016,
     "wof:name":"Ribeirao do Sul",
     "wof:parent_id":85682041,
     "wof:placetype":"county",

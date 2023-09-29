@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.243204,
-    "geom:area_square_m":3007228731.635906,
+    "geom:area_square_m":3007228731.635859,
     "geom:bbox":"-52.4787447011,-0.195455533777,-51.2163628592,0.592869732196",
     "geom:latitude":0.25378,
     "geom:longitude":-51.906571,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":0.316599,
     "lbl:longitude":-51.91586,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0632\u0627\u063a\u0627\u0626\u0648"
@@ -97,9 +106,12 @@
         102050447
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"160040205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"09c73a5bef8325d674a068009929f8eb",
+    "wof:geomhash":"82a94813f57793a6645f923c295fac1a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404550335,
-    "wof:lastmodified":1577825651,
+    "wof:lastmodified":1695878147,
     "wof:name":"Mazag\u00e3o",
     "wof:parent_id":102050447,
     "wof:placetype":"localadmin",

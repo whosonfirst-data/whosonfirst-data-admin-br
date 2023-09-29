@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024214,
-    "geom:area_square_m":281114271.300021,
+    "geom:area_square_m":281114271.299975,
     "geom:bbox":"-55.0492626985,-20.2087039779,-54.7622937141,-20.0432211336",
     "geom:latitude":-20.130473,
     "geom:longitude":-54.887365,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.132574,
     "lbl:longitude":-54.885234,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055319
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500750510"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"eaf3091a02e33f895da3ac8090cee666",
+    "wof:geomhash":"a28a1abe84a5f9223fef3fda16218d1c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404559043,
-    "wof:lastmodified":1577836080,
+    "wof:lastmodified":1695878625,
     "wof:name":"\u00c1gua Boa",
     "wof:parent_id":102055319,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022661,
-    "geom:area_square_m":262659203.066513,
+    "geom:area_square_m":262659203.066475,
     "geom:bbox":"-55.6275382535,-20.508856436,-55.44546239,-20.2878443204",
     "geom:latitude":-20.384012,
     "geom:longitude":-55.522584,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-20.370352,
     "lbl:longitude":-55.514974,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102055189
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"500110220"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"06722d697047a2f916fa73c0e7d33239",
+    "wof:geomhash":"401eb93c3150f2f65af1303a67fb4971",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558813,
-    "wof:lastmodified":1577836173,
+    "wof:lastmodified":1695878649,
     "wof:name":"Piraputanga",
     "wof:parent_id":102055189,
     "wof:placetype":"localadmin",

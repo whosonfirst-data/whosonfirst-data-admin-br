@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001605,
-    "geom:area_square_m":19805937.62911,
+    "geom:area_square_m":19805937.629112,
     "geom:bbox":"-40.7898154823,-3.8828276798,-40.7245921306,-3.82889682423",
     "geom:latitude":-3.85857,
     "geom:longitude":-40.753195,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.855217,
     "lbl:longitude":-40.741829,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051669
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230900310"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c5941989e8924fa17090c12cf67ddcf6",
+    "wof:geomhash":"64e734d2e48b51decb1af3ba5482c4be",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404553467,
-    "wof:lastmodified":1577837864,
+    "wof:lastmodified":1695878717,
     "wof:name":"Carqueijo",
     "wof:parent_id":102051669,
     "wof:placetype":"localadmin",

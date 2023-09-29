@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010169,
-    "geom:area_square_m":122621564.541101,
+    "geom:area_square_m":122621564.541115,
     "geom:bbox":"-39.07519405,-12.877703318,-38.945695188,-12.7296542295",
     "geom:latitude":-12.792939,
     "geom:longitude":-39.00697,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.787101,
     "lbl:longitude":-39.001585,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Guapira"
@@ -49,9 +58,12 @@
         102051021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292060120"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6338b92a4278a2d0ec8434a67f0d7b52",
+    "wof:geomhash":"c93b135e785c1926c644242d040b98b4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":404551479,
-    "wof:lastmodified":1577837859,
+    "wof:lastmodified":1695878715,
     "wof:name":"Guapira",
     "wof:parent_id":102051021,
     "wof:placetype":"localadmin",

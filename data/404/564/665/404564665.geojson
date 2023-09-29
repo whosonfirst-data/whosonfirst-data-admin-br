@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015194,
-    "geom:area_square_m":165024359.561598,
+    "geom:area_square_m":165024359.561703,
     "geom:bbox":"-49.8617319468,-28.6304649019,-49.6913517881,-28.4590483065",
     "geom:latitude":-28.554978,
     "geom:longitude":-49.781833,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.539127,
     "lbl:longitude":-49.790241,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "V\u00e1rzea"
@@ -76,9 +85,12 @@
         102059929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431862225"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"beb103c98d30d3fe48fa3b7411882936",
+    "wof:geomhash":"9758bedb1e06a0539f9c7e03cca734b9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":404564665,
-    "wof:lastmodified":1577827810,
+    "wof:lastmodified":1695878228,
     "wof:name":"V\u00e1rzea",
     "wof:parent_id":102059929,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009548,
-    "geom:area_square_m":108869667.337802,
+    "geom:area_square_m":108869667.337772,
     "geom:bbox":"-46.957425,-22.843212,-46.828821,-22.681533",
     "geom:latitude":-22.754869,
     "geom:longitude":-46.888529,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-22.749853,
     "lbl:longitude":-46.884149,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pedreira"
@@ -54,19 +63,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682041,
         102191577,
         85633009,
-        102061929,
         1511777411,
-        85682041
+        102061929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"353710705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102061929
     ],
     "wof:country":"BR",
-    "wof:geomhash":"478bc2cf3722be9385194010557f6685",
+    "wof:geomhash":"335922ebeb2c3d5b034dbbf0534cd1eb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":404566955,
-    "wof:lastmodified":1608030700,
+    "wof:lastmodified":1695878781,
     "wof:name":"Pedreira",
     "wof:parent_id":102061929,
     "wof:placetype":"localadmin",

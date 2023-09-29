@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03837,
-    "geom:area_square_m":452695163.632379,
+    "geom:area_square_m":452695163.632075,
     "geom:bbox":"-42.583429,-17.5791509973,-42.34336,-17.2871979973",
     "geom:latitude":-17.417907,
     "geom:longitude":-42.478143,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.437281,
     "lbl:longitude":-42.489952,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054335
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"314180120"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"80ec74cc4c46dcacf48daf501aaf8991",
+    "wof:geomhash":"2f7f2797e030ecb4e3e05958231802cc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404557243,
-    "wof:lastmodified":1577832782,
+    "wof:lastmodified":1695878406,
     "wof:name":"Lagoa Grande De Minas Novas",
     "wof:parent_id":102054335,
     "wof:placetype":"localadmin",

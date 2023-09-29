@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017136,
-    "geom:area_square_m":186687338.215071,
+    "geom:area_square_m":186687338.215177,
     "geom:bbox":"-51.3436742526,-28.3303368281,-51.109902483,-28.1537728534",
     "geom:latitude":-28.232756,
     "geom:longitude":-51.233446,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.22363,
     "lbl:longitude":-51.235247,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bom Retiro"
@@ -46,9 +55,12 @@
         102059635
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"431261710"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"13037e5c854b56c3339292044ca16507",
+    "wof:geomhash":"94cd57d9ac7e5c7c76d61fd562189236",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":404563999,
-    "wof:lastmodified":1577827862,
+    "wof:lastmodified":1695878253,
     "wof:name":"Bom Retiro",
     "wof:parent_id":102059635,
     "wof:placetype":"localadmin",

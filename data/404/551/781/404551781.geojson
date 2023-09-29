@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058125,
-    "geom:area_square_m":691867467.448855,
+    "geom:area_square_m":691867467.449024,
     "geom:bbox":"-40.031378129,-15.8889822595,-39.6756893439,-15.5553416095",
     "geom:latitude":-15.713088,
     "geom:longitude":-39.824663,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-15.714545,
     "lbl:longitude":-39.827372,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u099f\u09bf\u09b0\u09be\u0997\u09c1\u0986"
@@ -97,9 +106,12 @@
         102051163
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292540205"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"fe304df9414d2a846de8be1b4229e4bf",
+    "wof:geomhash":"bc2a12148a52c84c46d47ea147ed2dbc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":404551781,
-    "wof:lastmodified":1577837926,
+    "wof:lastmodified":1695878732,
     "wof:name":"Potiragu\u00e1",
     "wof:parent_id":102051163,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032202,
-    "geom:area_square_m":385834024.605775,
+    "geom:area_square_m":385834024.60582,
     "geom:bbox":"-41.0197719497,-14.420506133,-40.8001243331,-14.1787893884",
     "geom:latitude":-14.305778,
     "geom:longitude":-40.924714,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.301897,
     "lbl:longitude":-40.91166,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09af\u09bc\u09c7\u099f\u09be\u09a8\u09cb\u09b8"
@@ -100,9 +109,12 @@
         102050607
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"290515605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"821fcd4f377d952f8662904b131c9767",
+    "wof:geomhash":"3131b000abfcd70e23da3d6fec10bad7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404550625,
-    "wof:lastmodified":1577837923,
+    "wof:lastmodified":1695878731,
     "wof:name":"Caetanos",
     "wof:parent_id":102050607,
     "wof:placetype":"localadmin",

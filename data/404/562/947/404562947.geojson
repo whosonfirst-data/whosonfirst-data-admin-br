@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007659,
-    "geom:area_square_m":84110217.086133,
+    "geom:area_square_m":84110217.086144,
     "geom:bbox":"-53.266863,-27.413276,-53.113256,-27.304973",
     "geom:latitude":-27.361995,
     "geom:longitude":-53.197148,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.353782,
     "lbl:longitude":-53.211138,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -27,19 +36,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682015,
         102191577,
         85633009,
-        102059067,
         1511777409,
-        85682015
+        102059067
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430064605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102059067
     ],
     "wof:country":"BR",
-    "wof:geomhash":"f102c64b7f3fef1ff7c1b002a78bb6ff",
+    "wof:geomhash":"947f307dec5ddf72b9e8c69437133fee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404562947,
-    "wof:lastmodified":1608033931,
+    "wof:lastmodified":1695878817,
     "wof:name":"Ametista Do Sul",
     "wof:parent_id":102059067,
     "wof:placetype":"localadmin",

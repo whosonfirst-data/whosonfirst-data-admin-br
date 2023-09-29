@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024188,
-    "geom:area_square_m":296998316.981865,
+    "geom:area_square_m":296998316.98188,
     "geom:bbox":"-38.1508776568,-6.89762733114,-37.9831763465,-6.66899125004",
     "geom:latitude":-6.787557,
     "geom:longitude":-38.066699,
@@ -29,7 +29,7 @@
     "mps:latitude":-6.789704,
     "mps:longitude":-38.076715,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0986\u09aa\u09be\u09b0\u09c7\u09b8\u09bf\u09a1\u09be"
@@ -120,9 +120,12 @@
         1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2500775"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"eb2d0cbb1292058ad12b8944181b877c",
+    "wof:geomhash":"ac5b043ee56183c344fe3acef19076d0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":102056007,
-    "wof:lastmodified":1577837359,
+    "wof:lastmodified":1695887114,
     "wof:name":"Aparecida",
     "wof:parent_id":85681967,
     "wof:placetype":"county",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000322,
-    "geom:area_square_m":3646416.87097,
+    "geom:area_square_m":3646416.870971,
     "geom:bbox":"-46.628197,-23.554583,-46.604451,-23.532907",
     "geom:latitude":-23.543679,
     "geom:longitude":-46.617492,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.542474,
     "lbl:longitude":-46.619633,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0430\u0437"
@@ -37,9 +46,12 @@
         102062255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"355030810"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"edfc74c64bdb5fc131f229479c7ab19a",
+    "wof:geomhash":"c27097f95dcd6241f616525cdccb462a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":404567281,
-    "wof:lastmodified":1577832622,
+    "wof:lastmodified":1695878348,
     "wof:name":"Br\u00e1s",
     "wof:parent_id":102062255,
     "wof:placetype":"localadmin",

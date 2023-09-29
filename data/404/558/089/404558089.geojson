@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016664,
-    "geom:area_square_m":195604710.956968,
+    "geom:area_square_m":195604710.956918,
     "geom:bbox":"-42.299117,-18.4111489972,-42.12402,-18.2310019972",
     "geom:latitude":-18.322843,
     "geom:longitude":-42.222775,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.322688,
     "lbl:longitude":-42.236006,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102054777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"315820120"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"1319f432cc233a02366407b3889089a7",
+    "wof:geomhash":"d0c6627806687084778b675f4b4d7ed4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404558089,
-    "wof:lastmodified":1577832613,
+    "wof:lastmodified":1695878343,
     "wof:name":"Poaia",
     "wof:parent_id":102054777,
     "wof:placetype":"localadmin",

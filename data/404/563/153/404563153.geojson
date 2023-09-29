@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059113,
-    "geom:area_square_m":628374797.757162,
+    "geom:area_square_m":628374797.757267,
     "geom:bbox":"-53.8214689236,-30.8823464257,-53.5098246005,-30.5155877587",
     "geom:latitude":-30.719962,
     "geom:longitude":-53.668197,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-30.723361,
     "lbl:longitude":-53.657618,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102059169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"430280815"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"0048e6e02388c28ffbccd8968f66191f",
+    "wof:geomhash":"fa3e30ea6b5626622fa4285b4c5374e2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404563153,
-    "wof:lastmodified":1577827731,
+    "wof:lastmodified":1695878191,
     "wof:name":"Caraj\u00e1 Seival",
     "wof:parent_id":102059169,
     "wof:placetype":"localadmin",

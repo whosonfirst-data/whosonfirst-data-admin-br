@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00511,
-    "geom:area_square_m":62649244.617998,
+    "geom:area_square_m":62649244.618003,
     "geom:bbox":"-35.5514074464,-7.48391151428,-35.4503698101,-7.40537830024",
     "geom:latitude":-7.448235,
     "geom:longitude":-35.506049,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-7.456725,
     "lbl:longitude":-35.50606,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Feira Nova"
@@ -70,9 +79,12 @@
         102056357
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"251310908"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f12bc0c44fa47b2e8de2c6cbf36a88d0",
+    "wof:geomhash":"21ef8b12ddfb563daa3ef353f71b45ea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":404560041,
-    "wof:lastmodified":1577837630,
+    "wof:lastmodified":1695878660,
     "wof:name":"Feira Nova",
     "wof:parent_id":102056357,
     "wof:placetype":"localadmin",

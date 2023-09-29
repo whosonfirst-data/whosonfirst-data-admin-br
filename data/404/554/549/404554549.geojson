@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026222,
-    "geom:area_square_m":307990876.310954,
+    "geom:area_square_m":307990876.31103,
     "geom:bbox":"-40.1299145562,-18.3148866651,-39.8998527624,-18.083606457",
     "geom:latitude":-18.216947,
     "geom:longitude":-40.008342,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.218149,
     "lbl:longitude":-39.990988,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c7\u09a1\u09cd\u09b0\u09cb \u0995\u09be\u09a8\u09be\u09b0\u09bf\u0993"
@@ -94,9 +103,12 @@
         102051939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320405405"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"75b329f71c4f0ad00f99023aa17bb3cf",
+    "wof:geomhash":"f87002b0cc341e4354047452b5df50ef",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404554549,
-    "wof:lastmodified":1577832977,
+    "wof:lastmodified":1695878473,
     "wof:name":"Pedro Can\u00e1rio",
     "wof:parent_id":102051939,
     "wof:placetype":"localadmin",

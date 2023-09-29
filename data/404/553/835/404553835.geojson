@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086229,
-    "geom:area_square_m":1063165220.653528,
+    "geom:area_square_m":1063165220.653524,
     "geom:bbox":"-40.3263991525,-4.51214811465,-39.9363871339,-4.18210211927",
     "geom:latitude":-4.347392,
     "geom:longitude":-40.134933,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.347833,
     "lbl:longitude":-40.138693,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Santa Quit\u00e9ria"
@@ -52,9 +61,12 @@
         102051759
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"231220505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"21f4e5b3ef1d913ec9315c5d6163d4a2",
+    "wof:geomhash":"4f9aecf62eac5f89e5d37077677b1154",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":404553835,
-    "wof:lastmodified":1577837964,
+    "wof:lastmodified":1695878742,
     "wof:name":"Santa Quit\u00e9ria",
     "wof:parent_id":102051759,
     "wof:placetype":"localadmin",

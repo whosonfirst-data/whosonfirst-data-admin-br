@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046427,
-    "geom:area_square_m":499122903.410891,
+    "geom:area_square_m":499122903.410898,
     "geom:bbox":"-56.9866760785,-29.7190471689,-56.6367222311,-29.4725006669",
     "geom:latitude":-29.607278,
     "geom:longitude":-56.798467,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.588096,
     "lbl:longitude":-56.827648,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09ae\u09be\u09b0\u09cd\u0995\u09cb\u09b8"
@@ -85,9 +94,12 @@
         102060101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432240030"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"336decb5df1e63163ef63d575f6b870b",
+    "wof:geomhash":"976541ceb1f25618ec214af235bce0ce",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404565017,
-    "wof:lastmodified":1577827888,
+    "wof:lastmodified":1695878265,
     "wof:name":"S\u00e3o Marcos",
     "wof:parent_id":102060101,
     "wof:placetype":"localadmin",

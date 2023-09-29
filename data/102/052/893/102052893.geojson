@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.35544,
-    "geom:area_square_m":4380856846.485612,
+    "geom:area_square_m":4380856846.485155,
     "geom:bbox":"-44.3606195706,-5.05049999606,-43.36817148,-4.18674689091",
     "geom:latitude":-4.607242,
     "geom:longitude":-43.885988,
@@ -35,7 +35,7 @@
     "mps:latitude":-4.584324,
     "mps:longitude":-43.893616,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Coda"
@@ -123,9 +123,12 @@
         1511777415
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"2103307"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"ee4ee136ca57077d238a9d4147ad752a",
+    "wof:geomhash":"4598d79d9939144aea3de7f46a1892fd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":102052893,
-    "wof:lastmodified":1577837125,
+    "wof:lastmodified":1695887103,
     "wof:name":"Codo",
     "wof:parent_id":85681931,
     "wof:placetype":"county",

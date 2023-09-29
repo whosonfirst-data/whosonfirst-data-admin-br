@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026812,
-    "geom:area_square_m":330928370.622895,
+    "geom:area_square_m":330928370.622867,
     "geom:bbox":"-40.8571988408,-3.53625359918,-40.5369615492,-3.35613059092",
     "geom:latitude":-3.450845,
     "geom:longitude":-40.700057,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-3.451561,
     "lbl:longitude":-40.686795,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09b0\u09be\u0989\u099c\u09cb"
@@ -88,9 +97,12 @@
         102051665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230880705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"8a0a1884f0629d36db2e07d1b563d1f6",
+    "wof:geomhash":"263fbb167470b270f80ec4d2e8db8c24",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404553453,
-    "wof:lastmodified":1577837847,
+    "wof:lastmodified":1695878712,
     "wof:name":"Mora\u00fajo",
     "wof:parent_id":102051665,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022592,
-    "geom:area_square_m":257064015.142426,
+    "geom:area_square_m":257064015.142631,
     "geom:bbox":"-47.9410953183,-23.1759472549,-47.7476169896,-22.9264861239",
     "geom:latitude":-23.044213,
     "geom:longitude":-47.856214,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-23.046032,
     "lbl:longitude":-47.84028,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u09b0\u09be\u099e\u09cd\u099c\u09be\u09b2 \u09aa\u09be\u0989\u09b2\u09bf\u09b8\u09cd\u099f\u09be"
@@ -88,9 +97,12 @@
         102061661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"352640705"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"23295ca2378f946d1e956580501ca958",
+    "wof:geomhash":"9031757560924e5732c50a9d5a1f7cd7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":404566665,
-    "wof:lastmodified":1577833142,
+    "wof:lastmodified":1695878525,
     "wof:name":"Laranjal Paulista",
     "wof:parent_id":102061661,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020252,
-    "geom:area_square_m":249570754.921409,
+    "geom:area_square_m":249570754.921448,
     "geom:bbox":"-40.6570573208,-4.83691300641,-40.438211558,-4.58783784348",
     "geom:latitude":-4.726648,
     "geom:longitude":-40.565863,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-4.748153,
     "lbl:longitude":-40.593241,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09cb\u09ad\u09be \u09b0\u09c1\u09b8\u09b8\u09be\u09b8"
@@ -85,9 +94,12 @@
         102051677
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230930005"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"c18ab856b5ca9b8cb1148227abdd846d",
+    "wof:geomhash":"671e0a3c67e652d17432703caef48f77",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":404553475,
-    "wof:lastmodified":1577837923,
+    "wof:lastmodified":1695878732,
     "wof:name":"Nova Russas",
     "wof:parent_id":102051677,
     "wof:placetype":"localadmin",

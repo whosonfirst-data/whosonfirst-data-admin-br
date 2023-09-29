@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021701,
-    "geom:area_square_m":260165021.841124,
+    "geom:area_square_m":260165021.841331,
     "geom:bbox":"-40.099185,-14.289096,-39.935394,-14.051485",
     "geom:latitude":-14.17225,
     "geom:longitude":-40.01475,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-14.189681,
     "lbl:longitude":-40.03639,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Itagi"
@@ -40,12 +49,15 @@
         102050867
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"291510605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102050867
     ],
     "wof:country":"BR",
-    "wof:geomhash":"f4a0c5c8a6ddfdc74729f40d36e8c1b5",
+    "wof:geomhash":"ed0e586b47c4f220921e88b8926db984",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":404551171,
-    "wof:lastmodified":1617131301,
+    "wof:lastmodified":1695878845,
     "wof:name":"Itagi",
     "wof:parent_id":102050867,
     "wof:placetype":"localadmin",

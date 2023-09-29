@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017038,
-    "geom:area_square_m":185922118.684206,
+    "geom:area_square_m":185922118.684196,
     "geom:bbox":"-52.1287402194,-28.133094977,-51.9316242591,-27.97692674",
     "geom:latitude":-28.057877,
     "geom:longitude":-52.030495,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-28.057242,
     "lbl:longitude":-52.032034,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u09aa\u09c7\u099c\u09be\u09b0\u09be"
@@ -67,9 +76,12 @@
         102060021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432090905"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"060109329cdb3327c79d79ffc49a7982",
+    "wof:geomhash":"c8acae4fd105625fbd819e210de1abe3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":404564839,
-    "wof:lastmodified":1577827966,
+    "wof:lastmodified":1695878301,
     "wof:name":"Tapejara",
     "wof:parent_id":102060021,
     "wof:placetype":"localadmin",

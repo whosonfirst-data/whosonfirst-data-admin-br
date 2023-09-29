@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006374,
-    "geom:area_square_m":76900647.215514,
+    "geom:area_square_m":76900647.215513,
     "geom:bbox":"-38.690226856,-12.706426064,-38.579166072,-12.554256567",
     "geom:latitude":-12.643603,
     "geom:longitude":-38.635557,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-12.649651,
     "lbl:longitude":-38.636398,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051265
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"292920615"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"7c031410c23f672fa51bd4e336ac1d73",
+    "wof:geomhash":"6b02a8ea393abf7d013f6c6b70476654",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404551955,
-    "wof:lastmodified":1577837983,
+    "wof:lastmodified":1695878746,
     "wof:name":"Monte Rec\u00f4ncavo",
     "wof:parent_id":102051265,
     "wof:placetype":"localadmin",

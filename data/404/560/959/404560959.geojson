@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010053,
-    "geom:area_square_m":113552913.720755,
+    "geom:area_square_m":113552913.720705,
     "geom:bbox":"-53.6064446957,-24.0911000231,-53.4577992894,-23.9298630779",
     "geom:latitude":-24.007384,
     "geom:longitude":-53.528721,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-24.020685,
     "lbl:longitude":-53.542218,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Jangada"
@@ -55,9 +64,12 @@
         102057515
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"410347915"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dddf3e128181df560b373d99e2c525e7",
+    "wof:geomhash":"e567d37093dc2b1482db2bab7ac04f13",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":404560959,
-    "wof:lastmodified":1577827986,
+    "wof:lastmodified":1695878310,
     "wof:name":"Jangada",
     "wof:parent_id":102057515,
     "wof:placetype":"localadmin",

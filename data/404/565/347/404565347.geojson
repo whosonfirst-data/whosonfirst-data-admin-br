@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059517,
-    "geom:area_square_m":652207039.405231,
+    "geom:area_square_m":652207039.405119,
     "geom:bbox":"-50.569636,-27.749768,-50.188831,-27.456795",
     "geom:latitude":-27.597193,
     "geom:longitude":-50.378583,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-27.633743,
     "lbl:longitude":-50.375669,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Korreya Pinto"
@@ -84,19 +93,22 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85682021,
         102191577,
         85633009,
-        102060353,
         1511777409,
-        85682021
+        102060353
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"420455805"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:coterminous":[
         102060353
     ],
     "wof:country":"BR",
-    "wof:geomhash":"755d9cb7b8d10b79a3f388c6c96ec093",
+    "wof:geomhash":"d5f715afdd4659f32a52f1fadd4d1573",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":404565347,
-    "wof:lastmodified":1608034323,
+    "wof:lastmodified":1695878821,
     "wof:name":"Correia Pinto",
     "wof:parent_id":102060353,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019365,
-    "geom:area_square_m":239146175.186281,
+    "geom:area_square_m":239146175.186286,
     "geom:bbox":"-40.4347160986,-2.96916550652,-40.14809512,-2.86084522076",
     "geom:latitude":-2.912435,
     "geom:longitude":-40.293583,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-2.903898,
     "lbl:longitude":-40.322312,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Cruz"
@@ -40,9 +49,12 @@
         102051519
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"230425105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"57a010efdcf6cdd9e095a54c2db36f61",
+    "wof:geomhash":"2b4a02c844b4e5bbbedf0d34e8c250d2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":404552811,
-    "wof:lastmodified":1577837961,
+    "wof:lastmodified":1695878741,
     "wof:name":"Cruz",
     "wof:parent_id":102051519,
     "wof:placetype":"localadmin",

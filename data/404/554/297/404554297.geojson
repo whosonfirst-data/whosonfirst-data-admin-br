@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017951,
-    "geom:area_square_m":210571840.382624,
+    "geom:area_square_m":210571840.382613,
     "geom:bbox":"-40.0298630057,-18.4927258915,-39.7573078627,-18.3710025861",
     "geom:latitude":-18.434846,
     "geom:longitude":-39.89031,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-18.435428,
     "lbl:longitude":-39.890296,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102051861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"320160507"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"f2adc3e0e8fabbfa170541180c4146fb",
+    "wof:geomhash":"1ab6cbd42ee297b895cfe6296d760950",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404554297,
-    "wof:lastmodified":1577832750,
+    "wof:lastmodified":1695878393,
     "wof:name":"Bra\u00e7o Do Rio",
     "wof:parent_id":102051861,
     "wof:placetype":"localadmin",

@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017757,
-    "geom:area_square_m":204433298.375423,
+    "geom:area_square_m":204433199.148496,
     "geom:bbox":"-42.278222,-21.471146,-42.027862,-21.325296",
     "geom:latitude":-21.39914,
     "geom:longitude":-42.169097,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-21.416997,
     "lbl:longitude":-42.18993,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0645\u064a\u0631\u0627\u0633\u064a\u0645\u0627"
@@ -127,9 +136,12 @@
         102058403
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"330300505"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"6707eda0df14a8b8a8d7aff61b4e2a3d",
+    "wof:geomhash":"212b6cf0b194005b6d65f62c7b1d5432",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +153,7 @@
         }
     ],
     "wof:id":404562365,
-    "wof:lastmodified":1636496449,
+    "wof:lastmodified":1695878866,
     "wof:name":"Miracema",
     "wof:parent_id":102058403,
     "wof:placetype":"localadmin",

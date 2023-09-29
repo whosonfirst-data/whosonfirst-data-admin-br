@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119318,
-    "geom:area_square_m":1404941114.596358,
+    "geom:area_square_m":1404941114.59639,
     "geom:bbox":"-45.46983,-17.9951939972,-45.00588,-17.5582499973",
     "geom:latitude":-17.776457,
     "geom:longitude":-45.261519,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-17.789134,
     "lbl:longitude":-45.265884,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102053293
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"310940220"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"e298bfac0c1cdcbaad2b0891d8467b34",
+    "wof:geomhash":"82f1bbdebf8f4f54bcb77861b6df1bbe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404555577,
-    "wof:lastmodified":1577833021,
+    "wof:lastmodified":1695878488,
     "wof:name":"Samba\u00edba De Minas",
     "wof:parent_id":102053293,
     "wof:placetype":"localadmin",

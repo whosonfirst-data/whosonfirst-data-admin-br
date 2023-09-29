@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009174,
-    "geom:area_square_m":98640962.727874,
+    "geom:area_square_m":98640962.727889,
     "geom:bbox":"-50.1324047736,-29.6528545096,-49.9230968273,-29.5303142097",
     "geom:latitude":-29.593178,
     "geom:longitude":-50.045915,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-29.588714,
     "lbl:longitude":-50.054709,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"Brasil",
     "qs:adm0":"Brazil",
@@ -34,9 +43,12 @@
         102060039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"432143605"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"dbe33107e8e1a9a592608ef974834332",
+    "wof:geomhash":"e7b626d14f517801c239d1ce1fa50c8e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":404564889,
-    "wof:lastmodified":1577827975,
+    "wof:lastmodified":1695878306,
     "wof:name":"Terra De Areia",
     "wof:parent_id":102060039,
     "wof:placetype":"localadmin",

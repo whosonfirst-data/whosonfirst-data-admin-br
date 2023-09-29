@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042638,
-    "geom:area_square_m":515929436.318335,
+    "geom:area_square_m":515929436.318305,
     "geom:bbox":"-40.8833376005,-12.0011754864,-40.578305182,-11.7735672884",
     "geom:latitude":-11.884653,
     "geom:longitude":-40.749465,
     "iso:country":"BR",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:por_x_preferred_placetype":[
+        "munic\u00edpio"
+    ],
     "lbl:latitude":-11.878451,
     "lbl:longitude":-40.746334,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u09aa\u09bf\u09b0\u09be\u09ae\u09c1\u099f\u09be"
@@ -100,9 +109,12 @@
         102051331
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "bra-ibge:code":"293130105"
+    },
+    "wof:concordances_official":"bra-ibge:code",
     "wof:country":"BR",
-    "wof:geomhash":"9357cc562237c875e5c8398036dd01e9",
+    "wof:geomhash":"99a15b3800d832aa5f3dbfc2182ed924",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":404552085,
-    "wof:lastmodified":1577837652,
+    "wof:lastmodified":1695878665,
     "wof:name":"Tapiramut\u00e1",
     "wof:parent_id":102051331,
     "wof:placetype":"localadmin",
