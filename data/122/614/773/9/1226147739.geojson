@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-42.49139,-13.54639,-42.49139,-13.54639",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099f\u09be\u09a8\u0995\u09c1\u09af\u09bc\u09c7 \u09a8\u09cb\u09ad\u09cb"
@@ -121,12 +123,14 @@
         }
     ],
     "wof:id":1226147739,
-    "wof:lastmodified":1577838243,
+    "wof:lastmodified":1706239345,
     "wof:name":"Tanque Novo",
     "wof:parent_id":404552075,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101949303
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

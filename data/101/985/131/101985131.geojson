@@ -6,11 +6,26 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000323,
     "geom:area_square_m":3972289.109262,
-    "geom:bbox":"-41.7816544663,-6.76163288645,-41.7541749199,-6.71719308542",
+    "geom:bbox":"-41.781654,-6.761633,-41.754175,-6.717193",
     "geom:latitude":-6.739243,
     "geom:longitude":-41.769162,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2204709.0",
+    "gn:asciiname":"Forte",
+    "gn:country_code":"BR",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3399385,
     "gn:id":"3399385,3399386",
+    "gn:latitude":-6.73333,
+    "gn:longitude":-41.76667,
+    "gn:modification_date":"2012-08-03",
+    "gn:name":"Forte",
+    "gn:population":0,
+    "gn:timezone":"America/Fortaleza",
     "iso:country":"BR",
+    "lbl:bbox":"-41.78667,-6.75333,-41.74667,-6.71333",
     "lbl:latitude":-6.738975,
     "lbl:longitude":-41.770098,
     "lbl:max_zoom":18.0,
@@ -75,10 +90,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3399385,
         "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"d22330ad3aef5555868319451973b009",
+    "wof:geomhash":"d25a8090680db1cbb5177f7a906b1983",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,20 +106,22 @@
         }
     ],
     "wof:id":101985131,
-    "wof:lastmodified":1577838395,
+    "wof:lastmodified":1706239350,
     "wof:name":"Forte",
     "wof:parent_id":102057115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226103843
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -41.7816544662836,
-    -6.76163288645399,
-    -41.7541749199485,
-    -6.71719308541812
+    -41.781654,
+    -6.761633,
+    -41.754175,
+    -6.717193
 ],
-  "geometry": {"coordinates":[[[-41.7796748868718,-6.71719308541812],[-41.7751275987281,-6.71935527949801],[-41.7692486919488,-6.73071739740805],[-41.7655178472619,-6.74151423582007],[-41.7541749199485,-6.75781002325792],[-41.75932747469101,-6.76163288645399],[-41.77173592174,-6.74405799356112],[-41.7816544662836,-6.7218915625],[-41.7796748868718,-6.71719308541812]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-41.779675,-6.717193],[-41.775128,-6.719355],[-41.769249,-6.730717],[-41.765518,-6.741514],[-41.754175,-6.75781],[-41.759327,-6.761633],[-41.771736,-6.744058],[-41.781654,-6.721892],[-41.779675,-6.717193]]],"type":"Polygon"}
 }

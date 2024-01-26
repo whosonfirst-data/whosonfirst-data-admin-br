@@ -9,8 +9,23 @@
     "geom:bbox":"-41.351104,-15.729342,-41.336375,-15.709314",
     "geom:latitude":-15.720304,
     "geom:longitude":-41.343931,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"3122355.0",
+    "gn:asciiname":"Divisa Alegre",
+    "gn:country_code":"BR",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6317022,
     "gn:id":"3464687,6317022",
+    "gn:latitude":-15.72556,
+    "gn:longitude":-41.345,
+    "gn:modification_date":"2012-08-03",
+    "gn:name":"Divisa Alegre",
+    "gn:population":0,
+    "gn:timezone":"America/Sao_Paulo",
     "iso:country":"BR",
+    "lbl:bbox":"-41.365,-15.74556,-41.325,-15.70556",
     "lbl:latitude":-15.722505,
     "lbl:longitude":-41.344528,
     "lbl:max_zoom":18.0,
@@ -74,6 +89,9 @@
     "name:nob_x_preferred":[
         "Divisa Alegre"
     ],
+    "name:nor_x_preferred":[
+        "Divisa Alegre"
+    ],
     "name:pol_x_preferred":[
         "Divisa Alegre"
     ],
@@ -133,9 +151,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":6317022,
         "gp:id":431165,
         "qs_pg:id":3,
-        "wd:id":"Q1791217"
+        "wd:id":"Q1791217",
+        "wk:page":"Divisa_Alegre"
     },
     "wof:country":"BR",
     "wof:geomhash":"f5ccf4d30b9ddf6d1816fa273ab0a3a7",
@@ -151,13 +171,15 @@
         }
     ],
     "wof:id":101952317,
-    "wof:lastmodified":1690861491,
+    "wof:lastmodified":1706239346,
     "wof:name":"Divisa Alegre",
     "wof:parent_id":404556231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309779101
+    ],
     "wof:tags":[]
 },
   "bbox": [

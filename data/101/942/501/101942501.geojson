@@ -9,8 +9,23 @@
     "geom:bbox":"-47.39526,-3.033337,-47.318387,-2.954571",
     "geom:latitude":-2.994373,
     "geom:longitude":-47.356258,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1505502.0",
+    "gn:asciiname":"Paragominas",
+    "gn:country_code":"BR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3393105,
     "gn:id":"3393105,3393106",
+    "gn:latitude":-2.99583,
+    "gn:longitude":-47.35278,
+    "gn:modification_date":"2012-08-03",
+    "gn:name":"Paragominas",
+    "gn:population":0,
+    "gn:timezone":"America/Belem",
     "iso:country":"BR",
+    "lbl:bbox":"-47.37278,-3.01583,-47.33278,-2.97583",
     "lbl:latitude":-2.993658,
     "lbl:longitude":-47.356839,
     "lbl:max_zoom":18.0,
@@ -114,6 +129,9 @@
         "Paragominas"
     ],
     "name:nob_x_preferred":[
+        "Paragominas"
+    ],
+    "name:nor_x_preferred":[
         "Paragominas"
     ],
     "name:pol_x_preferred":[
@@ -292,10 +310,16 @@
         "gn:id":3393106,
         "gp:id":456387,
         "qs_pg:id":9,
-        "wd:id":"Q935005"
+        "wd:id":"Q935005",
+        "wk:page":"Paragominas"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1188095
+        "gn:id":[
+            3393105
+        ],
+        "qs_pg:id":[
+            1188095
+        ]
     },
     "wof:country":"BR",
     "wof:geom_alt":[
@@ -313,13 +337,15 @@
         }
     ],
     "wof:id":101942501,
-    "wof:lastmodified":1690862599,
+    "wof:lastmodified":1706239340,
     "wof:name":"Paragominas",
     "wof:parent_id":102055859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293183127
+    ],
     "wof:tags":[]
 },
   "bbox": [

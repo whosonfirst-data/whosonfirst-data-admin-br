@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":3,
     "name:por_x_colloquial":[
         "Morro Jose Menino"
@@ -55,12 +56,31 @@
     "qs:woe_lau":0,
     "qs:woe_local":455991,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Morro Jos\u00e9 Menino",
+    "qs_pg:name_adm0":"Brasil",
+    "qs_pg:name_adm1":"S\u00e3o Paulo",
+    "qs_pg:photos":457,
+    "qs_pg:photos_1k":93,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":457,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1091048,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424768,
+    "qs_pg:woe_id":56066826,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424768,
+    "woe:name_adm0":"Brasil",
+    "woe:name_adm1":"S\u00e3o Paulo",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191577,
         404567497,
@@ -76,7 +96,12 @@
         "qs_pg:id":1091040
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1091048
+        "gp:id":[
+            56066826
+        ],
+        "qs_pg:id":[
+            1091048
+        ]
     },
     "wof:country":"BR",
     "wof:geom_alt":[
@@ -100,13 +125,15 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1582320856,
+    "wof:lastmodified":1706239337,
     "wof:name":"Morro Jos\u00e9 Menino",
     "wof:parent_id":101956255,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126095843
+    ],
     "wof:tags":[]
 },
   "bbox": [

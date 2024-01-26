@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-41.5575,-3.47194,-41.5575,-3.47194",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":10.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -56,14 +58,16 @@
         }
     ],
     "wof:id":1343623269,
-    "wof:lastmodified":1577838952,
+    "wof:lastmodified":1706239342,
     "wof:name":"Cocal",
     "wof:parent_id":102057029,
     "wof:placetype":"locality",
     "wof:population":12097,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-br",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101943901
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

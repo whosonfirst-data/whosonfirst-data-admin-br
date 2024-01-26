@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
         "Boi\u00e7ucanga"
@@ -65,12 +66,31 @@
     "qs:woe_lau":0,
     "qs:woe_local":455917,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Boi\u00e7ucanga",
+    "qs_pg:name_adm0":"Brasil",
+    "qs_pg:name_adm1":"S\u00e3o Paulo",
+    "qs_pg:photos":194,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":194,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1092141,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424768,
+    "qs_pg:woe_id":56066594,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":68,
+    "woe:adm0_id":23424768,
+    "woe:name_adm0":"Brasil",
+    "woe:name_adm1":"S\u00e3o Paulo",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191577
     ],
@@ -79,6 +99,14 @@
         "gp:id":56066594,
         "qs_pg:id":1092141,
         "wd:id":"Q4938521"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            56066594
+        ],
+        "qs_pg:id":[
+            1092141
+        ]
     },
     "wof:country":"BR",
     "wof:geom_alt":[
@@ -98,13 +126,15 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1582320864,
+    "wof:lastmodified":1706239336,
     "wof:name":"Boi\u00e7ucanga",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126096415
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-42.91444,-21.995,-42.91444,-21.995",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09aa\u09c1\u0995\u09be\u0987\u09af\u09bc\u09be"
@@ -77,14 +79,16 @@
         }
     ],
     "wof:id":1225908619,
-    "wof:lastmodified":1577833663,
+    "wof:lastmodified":1706239346,
     "wof:name":"Sapucaia",
     "wof:parent_id":404562585,
     "wof:placetype":"locality",
     "wof:population":12329,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-br",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101953339
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

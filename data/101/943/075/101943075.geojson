@@ -11,6 +11,7 @@
     "geom:longitude":-43.360088,
     "gn:population":148072,
     "iso:country":"BR",
+    "lbl:bbox":"-43.3700260839,-4.85300087598,-43.3300260839,-4.81300087598",
     "lbl:latitude":-4.866019,
     "lbl:longitude":-43.341525,
     "lbl:max_zoom":14.0,
@@ -278,6 +279,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":5.0,
     "qs:a0":"Brasil",
     "qs:a1":"*MA",
     "qs:a1_lc":"21",
@@ -291,6 +293,8 @@
     "qs:pop":0,
     "qs:source":"ABrasil IBGE",
     "qs:type":"Centro Subregional A",
+    "reversegeo:latitude":-4.833001,
+    "reversegeo:longitude":-43.350026,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
@@ -314,6 +318,11 @@
         "wd:id":"Q997107",
         "wk:page":"Caxias, Maranh\u00e3o"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q997107"
+        ]
+    },
     "wof:country":"BR",
     "wof:geom_alt":[
         "naturalearth",
@@ -334,7 +343,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1690862781,
+    "wof:lastmodified":1706239341,
     "wof:name":"Caxias",
     "wof:parent_id":102052877,
     "wof:placetype":"locality",
@@ -342,7 +351,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141909373
+    ],
     "wof:tags":[]
 },
   "bbox": [

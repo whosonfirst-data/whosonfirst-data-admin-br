@@ -9,8 +9,11 @@
     "geom:bbox":"-54.72206,-20.587041,-54.534053,-20.370846",
     "geom:latitude":-20.482433,
     "geom:longitude":-54.627425,
+    "gn:country":"BR",
+    "gn:fcode":"PPLA",
     "gn:population":729151,
     "iso:country":"BR",
+    "lbl:bbox":"-54.66639,-20.46278,-54.62639,-20.42278",
     "lbl:latitude":-20.490358,
     "lbl:longitude":-54.649525,
     "lbl:max_zoom":13.0,
@@ -20,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0628\u0648 \u063a\u0631\u0627\u0646\u062f\u064a"
     ],
@@ -385,12 +389,36 @@
     "qs:pop":0,
     "qs:source":"ABrasil IBGE",
     "qs:type":"Capital Regional A",
+    "qs_pg:aaroncc":"BR",
+    "qs_pg:gn_country":"BR",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":3467747,
+    "qs_pg:gn_pop":729151,
+    "qs_pg:name":"Campo Grande",
+    "qs_pg:name_adm0":"Brasil",
+    "qs_pg:name_adm1":"Mato Grosso do Sul",
+    "qs_pg:photos":1701,
+    "qs_pg:photos_1k":345,
+    "qs_pg:photos_9k":23,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5083,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":11,
+    "qs_pg:qs_id":215162,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424768,
+    "qs_pg:woe_id":455849,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424768,
+    "woe:name_adm0":"Brasil",
+    "woe:name_adm1":"Mato Grosso do Sul",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85681947,
         102191577,
@@ -410,7 +438,18 @@
         "wk:page":"Campo Grande"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1045096
+        "gn:id":[
+            3467747
+        ],
+        "gp:id":[
+            455849
+        ],
+        "qs_pg:id":[
+            215162
+        ],
+        "wd:id":[
+            "Q168929"
+        ]
     },
     "wof:country":"BR",
     "wof:geom_alt":[
@@ -432,7 +471,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1690862167,
+    "wof:lastmodified":1706239349,
     "wof:megacity":1,
     "wof:name":"Campo Grande",
     "wof:parent_id":404558855,
@@ -442,7 +481,9 @@
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:scale":3,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125880223
+    ],
     "wof:tags":[]
 },
   "bbox": [

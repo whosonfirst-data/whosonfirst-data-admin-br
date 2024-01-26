@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-41.345,-15.72556,-41.345,-15.72556",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a1\u09bf\u09ad\u09bf\u09b8\u09be \u0986\u09b2\u09c7\u0997\u09cd\u09b0\u09c7"
@@ -121,12 +123,14 @@
         }
     ],
     "wof:id":1309779101,
-    "wof:lastmodified":1577833907,
+    "wof:lastmodified":1706239346,
     "wof:name":"Divisa Alegre",
     "wof:parent_id":404556231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101952317
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

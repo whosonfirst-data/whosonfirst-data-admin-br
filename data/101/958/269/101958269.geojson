@@ -9,8 +9,12 @@
     "geom:bbox":"-55.64714,-28.198661,-55.627809,-28.180421",
     "geom:latitude":-28.189235,
     "geom:longitude":-55.637352,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
     "gn:id":"3462539,3433842",
+    "gn:population":1152,
     "iso:country":"BR",
+    "lbl:bbox":"-55.65947,-28.20514,-55.61947,-28.16514",
     "lbl:latitude":-28.186909,
     "lbl:longitude":-55.638304,
     "lbl:max_zoom":18.0,
@@ -123,12 +127,18 @@
     "qs:la_lc":"*",
     "qs:level":"locality0",
     "qs:loc":"Garruchos",
+    "qs:name":"Garruchos",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
     "qs:pop":0,
+    "qs:pop_sr":"6",
     "qs:source":"ABrasil IBGE",
     "qs:type":"Centro Local",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":44,
     "wof:belongsto":[
         85682015,
         102191577,
@@ -138,9 +148,22 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3433842,
         "gp:id":445341,
         "qs_pg:id":7,
-        "wd:id":"Q1754446"
+        "wd:id":"Q1754446",
+        "wk:page":"Garruchos"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            445341
+        ],
+        "qs_pg:id":[
+            583308
+        ],
+        "wd:id":[
+            "Q1754446"
+        ]
     },
     "wof:country":"BR",
     "wof:geomhash":"6032eb1a75f3cd2b7184a07f8491e9cb",
@@ -155,13 +178,17 @@
         }
     ],
     "wof:id":101958269,
-    "wof:lastmodified":1690862317,
+    "wof:lastmodified":1706239347,
     "wof:name":"Garruchos",
     "wof:parent_id":102059431,
     "wof:placetype":"locality",
+    "wof:population":1152,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890439915
+    ],
     "wof:tags":[]
 },
   "bbox": [

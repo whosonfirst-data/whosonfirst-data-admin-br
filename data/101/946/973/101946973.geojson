@@ -9,8 +9,23 @@
     "geom:bbox":"-43.028021,-9.526626,-42.999797,-9.501948",
     "geom:latitude":-9.515592,
     "geom:longitude":-43.012884,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2905909.0",
+    "gn:asciiname":"Campo Alegre de Lourdes",
+    "gn:country_code":"BR",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3402496,
     "gn:id":"3402496,6316733",
+    "gn:latitude":-9.51471,
+    "gn:longitude":-43.01044,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Campo Alegre de Lourdes",
+    "gn:population":0,
+    "gn:timezone":"America/Bahia",
     "iso:country":"BR",
+    "lbl:bbox":"-43.03044,-9.53471,-42.99044,-9.49471",
     "lbl:latitude":-9.515506,
     "lbl:longitude":-43.013154,
     "lbl:max_zoom":18.0,
@@ -86,6 +101,11 @@
     "name:swe_x_preferred":[
         "Campo Alegre de Lourdes"
     ],
+    "name:und_x_variant":[
+        "Peixe",
+        "Campo Alegre",
+        "Catita"
+    ],
     "name:vie_x_preferred":[
         "Campo Alegre de Lourdes"
     ],
@@ -129,10 +149,16 @@
         "gn:id":6316733,
         "gp:id":427549,
         "qs_pg:id":5,
-        "wd:id":"Q1798839"
+        "wd:id":"Q1798839",
+        "wk:page":"Campo_Alegre_de_Lourdes"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":384611
+        "gn:id":[
+            3402496
+        ],
+        "qs_pg:id":[
+            384611
+        ]
     },
     "wof:country":"BR",
     "wof:geom_alt":[
@@ -151,13 +177,15 @@
         }
     ],
     "wof:id":101946973,
-    "wof:lastmodified":1690861738,
+    "wof:lastmodified":1706239344,
     "wof:name":"Campo Alegre de Lourdes",
     "wof:parent_id":404550673,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326634793
+    ],
     "wof:tags":[]
 },
   "bbox": [

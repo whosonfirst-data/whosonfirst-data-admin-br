@@ -6,10 +6,25 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000017,
     "geom:area_square_m":204374.314472,
-    "geom:bbox":"-55.3240720894,-3.3365849368,-55.3204345433,-3.3314765449",
+    "geom:bbox":"-55.324072,-3.336585,-55.320435,-3.331477",
     "geom:latitude":-3.33412,
     "geom:longitude":-55.322385,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1506807.0",
+    "gn:asciiname":"Pinhel",
+    "gn:country_code":"BR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3392049,
+    "gn:latitude":-3.33223,
+    "gn:longitude":-55.32266,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Pinhel",
+    "gn:population":0,
+    "gn:timezone":"America/Santarem",
     "iso:country":"BR",
+    "lbl:bbox":"-55.34266,-3.35223,-55.30266,-3.31223",
     "lbl:latitude":-3.334162,
     "lbl:longitude":-55.322385,
     "lbl:max_zoom":18.0,
@@ -127,8 +142,13 @@
         "gp:id":456741,
         "qs_pg:id":9
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3392049
+        ]
+    },
     "wof:country":"BR",
-    "wof:geomhash":"5b8c4c335a06db34f59535e6f384a698",
+    "wof:geomhash":"d86ea35385a1fe966908425132bd9a20",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,20 +161,22 @@
         }
     ],
     "wof:id":101942021,
-    "wof:lastmodified":1577825724,
+    "wof:lastmodified":1706239340,
     "wof:name":"Pinhel",
     "wof:parent_id":404559491,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309875279
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -55.3240720894046,
-    -3.33658493679597,
-    -55.3204345432757,
-    -3.3314765448965
+    -55.324072,
+    -3.336585,
+    -55.320435,
+    -3.331477
 ],
-  "geometry": {"coordinates":[[[-55.3240720894046,-3.3314765448965],[-55.32133843319259,-3.33150829479701],[-55.3209793536365,-3.3325236231968],[-55.32050883559759,-3.33524767500112],[-55.3204345432757,-3.33658493679597],[-55.3240080661492,-3.33649596812539],[-55.3240720894046,-3.3314765448965]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-55.324072,-3.331477],[-55.321338,-3.331508],[-55.320979,-3.332524],[-55.320509,-3.335248],[-55.320435,-3.336585],[-55.324008,-3.336496],[-55.324072,-3.331477]]],"type":"Polygon"}
 }

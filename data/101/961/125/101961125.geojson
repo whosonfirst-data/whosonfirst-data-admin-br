@@ -6,10 +6,14 @@
     "edtf:inception":"uuuu",
     "geom:area":0.003121,
     "geom:area_square_m":37144267.083932,
-    "geom:bbox":"-56.3934562027,-15.8072609132,-56.3104042693,-15.7362736051",
+    "geom:bbox":"-56.393456,-15.807261,-56.310404,-15.736274",
     "geom:latitude":-15.771183,
     "geom:longitude":-56.351107,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
+    "lbl:bbox":"-56.36556,-15.795,-56.32556,-15.755",
     "lbl:latitude":-15.777285,
     "lbl:longitude":-56.353938,
     "lbl:max_zoom":18.0,
@@ -19,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Nossa Senhora do Livramento"
     ],
@@ -86,6 +91,9 @@
     "name:swe_x_preferred":[
         "Nossa Senhora do Livramento"
     ],
+    "name:und_x_variant":[
+        "Livramento"
+    ],
     "name:vie_x_preferred":[
         "Nossa Senhora do Livramento"
     ],
@@ -114,9 +122,29 @@
     "qs:pop":0,
     "qs:source":"ABrasil IBGE",
     "qs:type":"Centro Local",
+    "qs_pg:aaroncc":"BR",
+    "qs_pg:gn_country":"BR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3456226,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nossa Senhora do Livramento",
+    "qs_pg:name_adm0":"Brasil",
+    "qs_pg:name_adm1":"Mato Grosso",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":382598,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424768,
+    "qs_pg:woe_id":457667,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424768,
+    "woe:name_adm0":"Brasil",
+    "woe:name_adm1":"Mato Grosso",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85681955,
         102191577,
@@ -134,8 +162,22 @@
         "wd:id":"Q2107985",
         "wk:page":"Nossa Senhora do Livramento, Mato Grosso"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3456226
+        ],
+        "gp:id":[
+            457667
+        ],
+        "qs_pg:id":[
+            382598
+        ],
+        "wd:id":[
+            "Q2107985"
+        ]
+    },
     "wof:country":"BR",
-    "wof:geomhash":"55a722fbb6a0c66047ade8ff967819b3",
+    "wof:geomhash":"478f887c2a5d01a1f443aefd69820917",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,20 +193,22 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1577836297,
+    "wof:lastmodified":1706239348,
     "wof:name":"Nossa Senhora do Livramento",
     "wof:parent_id":404559273,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125891919
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -56.39345620266378,
-    -15.80726091318658,
-    -56.31040426928658,
-    -15.73627360506277
+    -56.393456,
+    -15.807261,
+    -56.310404,
+    -15.736274
 ],
-  "geometry": {"coordinates":[[[-56.31040426928658,-15.74595900424624],[-56.31804391926153,-15.76237010419216],[-56.33179628291312,-15.7919122187031],[-56.33894136482778,-15.80726091318658],[-56.36365350583384,-15.79580279125851],[-56.39345620266378,-15.78198436354789],[-56.37659622761118,-15.74755099259352],[-56.37653495295898,-15.74742585048494],[-56.37651767668897,-15.74739056690879],[-56.37521495418861,-15.74472999790039],[-56.34475447688253,-15.75837792545391],[-56.3343009283289,-15.74133064222433],[-56.33142867239181,-15.73627360506277],[-56.31040426928658,-15.74595900424624]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-56.310404,-15.745959],[-56.318044,-15.76237],[-56.331796,-15.791912],[-56.338941,-15.807261],[-56.363654,-15.795803],[-56.393456,-15.781984],[-56.376596,-15.747551],[-56.376535,-15.747426],[-56.376518,-15.747391],[-56.375215,-15.74473],[-56.344754,-15.758378],[-56.334301,-15.741331],[-56.331429,-15.736274],[-56.310404,-15.745959]]],"type":"Polygon"}
 }

@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":2,
     "name:por_x_colloquial":[
         "Nossa Senhora Das Gracas"
@@ -53,11 +54,30 @@
     "qs:woe_lau":0,
     "qs:woe_local":455833,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Nossa Senhora Das Gra\u00e7as",
+    "qs_pg:name_adm0":"Brasil",
+    "qs_pg:name_adm1":"Amazonas",
+    "qs_pg:photos":183,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":183,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":897593,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424768,
+    "qs_pg:woe_id":56066795,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424768,
+    "woe:name_adm0":"Brasil",
+    "woe:name_adm1":"Amazonas",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -70,6 +90,14 @@
     "wof:concordances":{
         "gp:id":56066795,
         "qs_pg:id":897593
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            56066795
+        ],
+        "qs_pg:id":[
+            897593
+        ]
     },
     "wof:country":"BR",
     "wof:geom_alt":[
@@ -91,13 +119,15 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1582320857,
+    "wof:lastmodified":1706239337,
     "wof:name":"Nossa Senhora Das Gra\u00e7as",
     "wof:parent_id":101941913,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126060989
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":3,
     "name:bpy_x_preferred":[
         "\u0986\u0997\u09cd\u09b0\u09cb\u09a8\u09cb\u09ae\u09bf\u0995\u09be"
@@ -83,11 +84,30 @@
     "qs:woe_lau":0,
     "qs:woe_local":455861,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Agron\u00f4mica",
+    "qs_pg:name_adm0":"Brasil",
+    "qs_pg:name_adm1":"Santa Catarina",
+    "qs_pg:photos":881,
+    "qs_pg:photos_1k":179,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":881,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":10374,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424768,
+    "qs_pg:woe_id":56066943,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424768,
+    "woe:name_adm0":"Brasil",
+    "woe:name_adm1":"Santa Catarina",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191577,
         404565395,
@@ -101,6 +121,14 @@
     "wof:concordances":{
         "gp:id":56066943,
         "qs_pg:id":10374
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            56066943
+        ],
+        "qs_pg:id":[
+            10374
+        ]
     },
     "wof:country":"BR",
     "wof:geom_alt":[
@@ -123,13 +151,15 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1582320855,
+    "wof:lastmodified":1706239338,
     "wof:name":"Agron\u00f4mica",
     "wof:parent_id":101958175,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126092383
+    ],
     "wof:tags":[]
 },
   "bbox": [

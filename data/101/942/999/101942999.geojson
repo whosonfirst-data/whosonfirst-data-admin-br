@@ -11,6 +11,7 @@
     "geom:longitude":-45.249369,
     "gn:id":"3406317,3406318",
     "iso:country":"BR",
+    "lbl:bbox":"-45.2799611832,-5.52960040398,-45.2399611832,-5.48960040398",
     "lbl:latitude":-5.506711,
     "lbl:longitude":-45.249828,
     "lbl:max_zoom":18.0,
@@ -217,6 +218,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
     "qs:a0":"Brasil",
     "qs:a1":"*MA",
     "qs:a1_lc":"21",
@@ -230,6 +232,8 @@
     "qs:pop":0,
     "qs:source":"ABrasil IBGE",
     "qs:type":"Centro de Zona A",
+    "reversegeo:latitude":-5.5096,
+    "reversegeo:longitude":-45.259961,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -251,7 +255,12 @@
         "wd:id":"Q1807301"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":469817
+        "qs_pg:id":[
+            469817
+        ],
+        "wd:id":[
+            "Q1807301"
+        ]
     },
     "wof:country":"BR",
     "wof:geom_alt":[
@@ -270,13 +279,15 @@
         }
     ],
     "wof:id":101942999,
-    "wof:lastmodified":1690862564,
+    "wof:lastmodified":1706239341,
     "wof:name":"Barra do Corda",
     "wof:parent_id":102052819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141907915
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -6,11 +6,26 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
     "geom:area_square_m":460913.028164,
-    "geom:bbox":"-44.0960034743,-15.5954608312,-44.0852121295,-15.5878263393",
+    "geom:bbox":"-44.096003,-15.595461,-44.085212,-15.587826",
     "geom:latitude":-15.591972,
     "geom:longitude":-44.091168,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"3129657.0",
+    "gn:asciiname":"Campo Alegre de Minas",
+    "gn:country_code":"BR",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6316735,
     "gn:id":"3467839,6316735",
+    "gn:latitude":-15.59028,
+    "gn:longitude":-44.09611,
+    "gn:modification_date":"2012-08-03",
+    "gn:name":"Campo Alegre de Minas",
+    "gn:population":0,
+    "gn:timezone":"America/Sao_Paulo",
     "iso:country":"BR",
+    "lbl:bbox":"-44.11611,-15.61028,-44.07611,-15.57028",
     "lbl:latitude":-15.592001,
     "lbl:longitude":-44.091168,
     "lbl:max_zoom":18.0,
@@ -46,11 +61,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":6316735,
         "gp:id":458972,
         "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"d02092ea684679355adae8fc9691061d",
+    "wof:geomhash":"7ed60fc3b3796c3d1403e4e03db0209a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,20 +79,22 @@
         }
     ],
     "wof:id":101951353,
-    "wof:lastmodified":1577834534,
+    "wof:lastmodified":1706239346,
     "wof:name":"Campo Alegre de Minas",
     "wof:parent_id":404556595,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260372765
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -44.0960034743176,
-    -15.5954608311603,
-    -44.08521212949169,
-    -15.5878263393254
+    -44.096003,
+    -15.595461,
+    -44.085212,
+    -15.587826
 ],
-  "geometry": {"coordinates":[[[-44.08827048515609,-15.5954608311603],[-44.0960034743176,-15.5922521219653],[-44.0946377043072,-15.5878263393254],[-44.088197828369,-15.5913846643118],[-44.08521212949169,-15.5929349310361],[-44.08827048515609,-15.5954608311603]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-44.08827,-15.595461],[-44.096003,-15.592252],[-44.094638,-15.587826],[-44.088198,-15.591385],[-44.085212,-15.592935],[-44.08827,-15.595461]]],"type":"Polygon"}
 }

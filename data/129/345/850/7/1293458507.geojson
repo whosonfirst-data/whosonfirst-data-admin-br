@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-38.20444,-6.10917,-38.20444,-6.10917",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u0989 \u09a1\u09cb\u09b8 \u09ab\u09c7\u09b0\u09cd\u09b0\u09cb\u09b8"
@@ -109,7 +111,7 @@
         "wk:page":"Pau_dos_Ferros"
     },
     "wof:country":"BR",
-    "wof:geomhash":"925dda23df4193cc43fa97338e72f76a",
+    "wof:geomhash":"739f4d2d6a636aefe8f45fca79e0b903",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -121,20 +123,22 @@
         }
     ],
     "wof:id":1293458507,
-    "wof:lastmodified":1577840293,
+    "wof:lastmodified":1706239343,
     "wof:name":"Pau dos Ferros",
     "wof:parent_id":102058741,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101945965
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -38.20444000000001,
+    -38.20444,
     -6.10917,
-    -38.20444000000001,
+    -38.20444,
     -6.10917
 ],
-  "geometry": {"coordinates":[-38.20444000000001,-6.10917],"type":"Point"}
+  "geometry": {"coordinates":[-38.20444,-6.10917],"type":"Point"}
 }

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-43.70917,-22.61083,-43.70917,-22.61083",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b0\u09be\u0995\u09be\u09ae\u09ac\u09bf"
@@ -114,12 +116,14 @@
         }
     ],
     "wof:id":1310263723,
-    "wof:lastmodified":1577833844,
+    "wof:lastmodified":1706239346,
     "wof:name":"Paracambi",
     "wof:parent_id":102058417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101953077
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
