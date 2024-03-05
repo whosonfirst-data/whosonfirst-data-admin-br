@@ -9,8 +9,11 @@
     "geom:bbox":"-54.758971,-16.63566,-54.499061,-16.369994",
     "geom:latitude":-16.492044,
     "geom:longitude":-54.651355,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:population":152912,
     "iso:country":"BR",
+    "lbl:bbox":"-54.65556,-16.49083,-54.61556,-16.45083",
     "lbl:latitude":-16.490195,
     "lbl:longitude":-54.638534,
     "lbl:max_zoom":14.0,
@@ -20,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0631\u0648\u0646\u062f\u0648\u0646\u0648\u0628\u0648\u0644\u064a\u0633"
     ],
@@ -174,6 +178,9 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u043d\u0434\u043e\u043d\u043e\u043f\u043e\u043b\u0456\u0441"
     ],
+    "name:und_x_variant":[
+        "Rodon\u00f3polis"
+    ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0646\u062f\u0648\u0646\u0648\u067e\u0648\u0644\u06cc\u0633"
     ],
@@ -297,11 +304,35 @@
     "qs:pop":0,
     "qs:source":"ABrasil IBGE",
     "qs:type":"Centro Subregional A",
+    "qs_pg:aaroncc":"BR",
+    "qs_pg:gn_country":"BR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3450909,
+    "qs_pg:gn_pop":152912,
+    "qs_pg:name":"Rondon\u00f3polis",
+    "qs_pg:name_adm0":"Brasil",
+    "qs_pg:name_adm1":"Mato Grosso",
+    "qs_pg:photos":255,
+    "qs_pg:photos_1k":52,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":255,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":1265518,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424768,
+    "qs_pg:woe_id":455907,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":330,
+    "woe:adm0_id":23424768,
+    "woe:name_adm0":"Brasil",
+    "woe:name_adm1":"Mato Grosso",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85681955,
         102191577,
@@ -318,6 +349,20 @@
         "qs_pg:id":1265518,
         "wd:id":"Q983714",
         "wk:page":"Rondon\u00f3polis"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3450909
+        ],
+        "gp:id":[
+            455907
+        ],
+        "qs_pg:id":[
+            1265518
+        ],
+        "wd:id":[
+            "Q983714"
+        ]
     },
     "wof:country":"BR",
     "wof:geomhash":"d4f90cb6c1a15bb0ea1513a0e11d8c61",
@@ -336,7 +381,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1690862149,
+    "wof:lastmodified":1706239349,
     "wof:name":"Rondon\u00f3polis",
     "wof:parent_id":404559357,
     "wof:placetype":"locality",
@@ -344,7 +389,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126008059
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":1,
     "name:cat_x_preferred":[
         "Presidente Jo\u00e3o Goulart"
@@ -68,11 +69,30 @@
     "qs:woe_lau":0,
     "qs:woe_local":455870,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Vila Oper\u00e1ria",
+    "qs_pg:name_adm0":"Brasil",
+    "qs_pg:name_adm1":"Santa Catarina",
+    "qs_pg:photos":148,
+    "qs_pg:photos_1k":30,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":148,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":238200,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424768,
+    "qs_pg:woe_id":56066729,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424768,
+    "woe:name_adm0":"Brasil",
+    "woe:name_adm1":"Santa Catarina",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191577,
         404565527,
@@ -86,6 +106,14 @@
     "wof:concordances":{
         "gp:id":56066729,
         "qs_pg:id":238200
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            56066729
+        ],
+        "qs_pg:id":[
+            238200
+        ]
     },
     "wof:country":"BR",
     "wof:geom_alt":[
@@ -108,13 +136,15 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1582320854,
+    "wof:lastmodified":1706239336,
     "wof:name":"Vila Oper\u00e1ria",
     "wof:parent_id":101958121,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126101453
+    ],
     "wof:tags":[]
 },
   "bbox": [

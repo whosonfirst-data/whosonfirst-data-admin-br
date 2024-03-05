@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-48.17895,-24.62537,-48.17895,-24.62537",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "S\u00edtio Parafuso"
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":1327188449,
-    "wof:lastmodified":1577833972,
+    "wof:lastmodified":1706239351,
     "wof:name":"Sitio Parafuso",
     "wof:parent_id":404566387,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209769815
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

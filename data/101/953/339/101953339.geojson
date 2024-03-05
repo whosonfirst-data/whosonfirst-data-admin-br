@@ -9,8 +9,22 @@
     "geom:bbox":"-42.959621,-22.020311,-42.891161,-21.985435",
     "geom:latitude":-22.001537,
     "geom:longitude":-42.9247,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"3305406.0",
+    "gn:asciiname":"Sapucaia",
+    "gn:country_code":"BR",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3448033,
+    "gn:latitude":-21.995,
+    "gn:longitude":-42.91444,
+    "gn:modification_date":"2012-08-03",
+    "gn:name":"Sapucaia",
     "gn:population":12329,
+    "gn:timezone":"America/Sao_Paulo",
     "iso:country":"BR",
+    "lbl:bbox":"-42.93444,-22.015,-42.89444,-21.975",
     "lbl:latitude":-21.995697,
     "lbl:longitude":-42.910035,
     "lbl:max_zoom":15.0,
@@ -131,10 +145,16 @@
         "gn:id":3448031,
         "gp:id":456537,
         "qs_pg:id":181400,
-        "wd:id":"Q748985"
+        "wd:id":"Q748985",
+        "wk:page":"Sapucaia%2C_Rio_de_Janeiro"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1044825
+        "gn:id":[
+            3448033
+        ],
+        "qs_pg:id":[
+            1044825
+        ]
     },
     "wof:country":"BR",
     "wof:geom_alt":[
@@ -156,7 +176,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1690861240,
+    "wof:lastmodified":1706239346,
     "wof:name":"Sapucaia",
     "wof:parent_id":404562585,
     "wof:placetype":"locality",
@@ -164,7 +184,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225908619
+    ],
     "wof:tags":[]
 },
   "bbox": [

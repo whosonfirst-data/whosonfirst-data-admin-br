@@ -9,8 +9,23 @@
     "geom:bbox":"-46.638333,-11.828333,-46.617474,-11.808519",
     "geom:latitude":-11.819791,
     "geom:longitude":-46.626651,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1715259.0",
+    "gn:asciiname":"Novo Jardim",
+    "gn:country_code":"BR",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3479306,
     "gn:id":"3460092,3479306",
+    "gn:latitude":-11.82389,
+    "gn:longitude":-46.62833,
+    "gn:modification_date":"2012-08-03",
+    "gn:name":"Novo Jardim",
+    "gn:population":0,
+    "gn:timezone":"America/Araguaina",
     "iso:country":"BR",
+    "lbl:bbox":"-46.64833,-11.84389,-46.60833,-11.80389",
     "lbl:latitude":-11.819729,
     "lbl:longitude":-46.626809,
     "lbl:max_zoom":18.0,
@@ -69,6 +84,9 @@
         "Novo Jardim"
     ],
     "name:nob_x_preferred":[
+        "Novo Jardim"
+    ],
+    "name:nor_x_preferred":[
         "Novo Jardim"
     ],
     "name:por_x_preferred":[
@@ -137,10 +155,16 @@
         "gn:id":3460092,
         "gp:id":459788,
         "qs_pg:id":9,
-        "wd:id":"Q1801252"
+        "wd:id":"Q1801252",
+        "wk:page":"Novo_Jardim"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":148185
+        "gn:id":[
+            3479306
+        ],
+        "qs_pg:id":[
+            148185
+        ]
     },
     "wof:country":"BR",
     "wof:geom_alt":[
@@ -158,13 +182,15 @@
         }
     ],
     "wof:id":101942933,
-    "wof:lastmodified":1690862606,
+    "wof:lastmodified":1706239341,
     "wof:name":"Novo Jardim",
     "wof:parent_id":102062635,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293423009
+    ],
     "wof:tags":[]
 },
   "bbox": [

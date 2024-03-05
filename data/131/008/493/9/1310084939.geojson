@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-47.45111,-6.56056,-47.45111,-6.56056",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u098f\u09b8\u099f\u09cd\u09b0\u09c7\u0987\u099f\u09cb"
@@ -104,12 +106,14 @@
         }
     ],
     "wof:id":1310084939,
-    "wof:lastmodified":1577838716,
+    "wof:lastmodified":1706239341,
     "wof:name":"Estreito",
     "wof:parent_id":102052915,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101943113
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

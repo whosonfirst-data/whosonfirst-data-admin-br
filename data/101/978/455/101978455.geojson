@@ -6,11 +6,26 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000033,
     "geom:area_square_m":376500.0129,
-    "geom:bbox":"-45.694641824,-22.5095827583,-45.6843230574,-22.5039250425",
+    "geom:bbox":"-45.694642,-22.509583,-45.684323,-22.503925",
     "geom:latitude":-22.506617,
     "geom:longitude":-45.689386,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3108909.0",
+    "gn:asciiname":"Cruz Vera",
+    "gn:country_code":"BR",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8305626,
     "gn:id":"8305626,8305627",
+    "gn:latitude":-22.5037,
+    "gn:longitude":-45.6866,
+    "gn:modification_date":"2012-08-03",
+    "gn:name":"Cruz Vera",
+    "gn:population":0,
+    "gn:timezone":"America/Sao_Paulo",
     "iso:country":"BR",
+    "lbl:bbox":"-45.7066,-22.5237,-45.6666,-22.4837",
     "lbl:latitude":-22.506991,
     "lbl:longitude":-45.689308,
     "lbl:max_zoom":18.0,
@@ -20,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:por_x_preferred":[
+        "Cruz Vera"
+    ],
     "qs:a0":"Brasil",
     "qs:a1":"*MG",
     "qs:a1_lc":"31",
@@ -46,10 +64,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":8305626,
         "qs_pg:id":9
     },
     "wof:country":"BR",
-    "wof:geomhash":"42b4bee20a8b8d9c8f8957619e11d345",
+    "wof:geomhash":"89e4c143207d0c344540a96cd84590d5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -62,20 +81,22 @@
         }
     ],
     "wof:id":101978455,
-    "wof:lastmodified":1577834560,
+    "wof:lastmodified":1706239350,
     "wof:name":"Cruz Vera",
     "wof:parent_id":404555537,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276315545
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -45.6946418240153,
-    -22.5095827583379,
-    -45.6843230574409,
-    -22.5039250424833
+    -45.694642,
+    -22.509583,
+    -45.684323,
+    -22.503925
 ],
-  "geometry": {"coordinates":[[[-45.6880595230137,-22.5039250424833],[-45.6858796980863,-22.504054002636],[-45.6843230574409,-22.5049924810409],[-45.68533077488801,-22.5060195908754],[-45.6882594590646,-22.50918504038059],[-45.6897415783238,-22.5095827583379],[-45.6916882675926,-22.5088897954727],[-45.69312295999489,-22.5082237142386],[-45.6946418240153,-22.5060743783609],[-45.6906225659236,-22.5051358350277],[-45.6880595230137,-22.5039250424833]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-45.68806,-22.503925],[-45.68588,-22.504054],[-45.684323,-22.504992],[-45.685331,-22.50602],[-45.688259,-22.509185],[-45.689742,-22.509583],[-45.691688,-22.50889],[-45.693123,-22.508224],[-45.694642,-22.506074],[-45.690623,-22.505136],[-45.68806,-22.503925]]],"type":"Polygon"}
 }

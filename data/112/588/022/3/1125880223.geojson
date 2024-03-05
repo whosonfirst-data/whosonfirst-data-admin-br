@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-54.64639,-20.44278,-54.64639,-20.44278",
@@ -19,7 +21,7 @@
     "lbl:max_zoom":13.0,
     "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":5.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -328,14 +330,16 @@
         }
     ],
     "wof:id":1125880223,
-    "wof:lastmodified":1690862871,
+    "wof:lastmodified":1706239349,
     "wof:name":"Campo Grande",
     "wof:parent_id":404558855,
     "wof:placetype":"locality",
     "wof:population":729151,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-br",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101961475
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

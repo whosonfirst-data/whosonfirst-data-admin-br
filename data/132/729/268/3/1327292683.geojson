@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-41.755,-21.29694,-41.755,-21.29694",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Penha",
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":1327292683,
-    "wof:lastmodified":1577834248,
+    "wof:lastmodified":1706239350,
     "wof:name":"Nossa Senhora da Penha",
     "wof:parent_id":404562311,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1175610805
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

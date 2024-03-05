@@ -9,8 +9,23 @@
     "geom:bbox":"-48.297791,-15.184497,-48.266993,-15.149722",
     "geom:latitude":-15.164294,
     "geom:longitude":-48.282181,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"5215603.0",
+    "gn:asciiname":"Padre Bernardo",
+    "gn:country_code":"BR",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6317839,
     "gn:id":"3455580,6317839",
+    "gn:latitude":-15.16028,
+    "gn:longitude":-48.28389,
+    "gn:modification_date":"2012-08-03",
+    "gn:name":"Padre Bernardo",
+    "gn:population":0,
+    "gn:timezone":"America/Sao_Paulo",
     "iso:country":"BR",
+    "lbl:bbox":"-48.30389,-15.18028,-48.26389,-15.14028",
     "lbl:latitude":-15.163022,
     "lbl:longitude":-48.280943,
     "lbl:max_zoom":18.0,
@@ -72,6 +87,9 @@
         "Padre Bernardo"
     ],
     "name:nob_x_preferred":[
+        "Padre Bernardo"
+    ],
+    "name:nor_x_preferred":[
         "Padre Bernardo"
     ],
     "name:por_x_preferred":[
@@ -140,10 +158,16 @@
         "gn:id":3455580,
         "gp:id":56125155,
         "qs_pg:id":9,
-        "wd:id":"Q1003435"
+        "wd:id":"Q1003435",
+        "wk:page":"Padre_Bernardo"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1242667
+        "gn:id":[
+            6317839
+        ],
+        "qs_pg:id":[
+            1242667
+        ]
     },
     "wof:country":"BR",
     "wof:geom_alt":[
@@ -161,13 +185,15 @@
         }
     ],
     "wof:id":101962625,
-    "wof:lastmodified":1690861354,
+    "wof:lastmodified":1706239349,
     "wof:name":"Padre Bernardo",
     "wof:parent_id":102052495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292951555
+    ],
     "wof:tags":[]
 },
   "bbox": [

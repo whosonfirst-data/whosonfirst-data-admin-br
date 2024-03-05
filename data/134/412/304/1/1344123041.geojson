@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-50.86139,-23.22722,-50.86139,-23.22722",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Serra Morena"
@@ -48,7 +50,7 @@
         "gn:id":3465084
     },
     "wof:country":"BR",
-    "wof:geomhash":"650b7659c3258ede51667af7973dbb94",
+    "wof:geomhash":"84e9c7c4524f2e650dfbf9bff05a6cd2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -61,20 +63,22 @@
         }
     ],
     "wof:id":1344123041,
-    "wof:lastmodified":1577828629,
+    "wof:lastmodified":1706239347,
     "wof:name":"Cruzeiro do Norte",
     "wof:parent_id":404562059,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101957539
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -50.86139,
-    -23.22722000000001,
+    -23.22722,
     -50.86139,
-    -23.22722000000001
+    -23.22722
 ],
-  "geometry": {"coordinates":[-50.86139,-23.22722000000001],"type":"Point"}
+  "geometry": {"coordinates":[-50.86139,-23.22722],"type":"Point"}
 }

@@ -9,7 +9,11 @@
     "geom:bbox":"-58.356607,-15.482988,-58.335446,-15.454666",
     "geom:latitude":-15.468238,
     "geom:longitude":-58.346793,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
+    "lbl:bbox":"-58.37306,-15.49111,-58.33306,-15.45111",
     "lbl:latitude":-15.468308,
     "lbl:longitude":-58.346575,
     "lbl:max_zoom":18.0,
@@ -19,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u09aa\u09c1\u099f\u09be\u0999\u09cd\u0997\u09be"
     ],
@@ -131,9 +136,29 @@
     "qs:pop":0,
     "qs:source":"ABrasil IBGE",
     "qs:type":"Centro de Zona B",
+    "qs_pg:aaroncc":"BR",
+    "qs_pg:gn_country":"BR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6316428,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Araputanga",
+    "qs_pg:name_adm0":"Brasil",
+    "qs_pg:name_adm1":"Mato Grosso",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1070222,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424768,
+    "qs_pg:woe_id":456703,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424768,
+    "woe:name_adm0":"Brasil",
+    "woe:name_adm1":"Mato Grosso",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85681955,
         102191577,
@@ -149,6 +174,20 @@
         "qs_pg:id":1070222,
         "wd:id":"Q1806505",
         "wk:page":"Araputanga"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6316428
+        ],
+        "gp:id":[
+            456703
+        ],
+        "qs_pg:id":[
+            1070222
+        ],
+        "wd:id":[
+            "Q1806505"
+        ]
     },
     "wof:country":"BR",
     "wof:geomhash":"b885fda5f392c90b6fe22681a136ca7b",
@@ -166,13 +205,15 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1690862171,
+    "wof:lastmodified":1706239348,
     "wof:name":"Araputanga",
     "wof:parent_id":102055371,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125826847
+    ],
     "wof:tags":[]
 },
   "bbox": [

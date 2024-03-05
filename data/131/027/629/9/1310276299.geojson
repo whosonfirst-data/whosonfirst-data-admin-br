@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-36.05611,-7.74389,-36.05611,-7.74389",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u0995\u09be\u09a8\u09cd\u099f\u09bf\u09b2"
@@ -119,12 +121,14 @@
         }
     ],
     "wof:id":1310276299,
-    "wof:lastmodified":1577839108,
+    "wof:lastmodified":1706239344,
     "wof:name":"Alcantil",
     "wof:parent_id":102055997,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101946489
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

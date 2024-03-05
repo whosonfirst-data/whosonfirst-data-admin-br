@@ -9,8 +9,23 @@
     "geom:bbox":"-60.463332,-3.444666,-60.450632,-3.426604",
     "geom:latitude":-3.434563,
     "geom:longitude":-60.457609,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"1302553.0",
+    "gn:asciiname":"Manaquiri",
+    "gn:country_code":"BR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3754199,
     "gn:id":"3736810,3754199",
+    "gn:latitude":-3.42806,
+    "gn:longitude":-60.45944,
+    "gn:modification_date":"2012-08-03",
+    "gn:name":"Manaquiri",
+    "gn:population":0,
+    "gn:timezone":"America/Manaus",
     "iso:country":"BR",
+    "lbl:bbox":"-60.47944,-3.44806,-60.43944,-3.40806",
     "lbl:latitude":-3.435991,
     "lbl:longitude":-60.456456,
     "lbl:max_zoom":18.0,
@@ -75,6 +90,9 @@
         "Manaquiri"
     ],
     "name:nob_x_preferred":[
+        "Manaquiri"
+    ],
+    "name:nor_x_preferred":[
         "Manaquiri"
     ],
     "name:pol_x_preferred":[
@@ -149,10 +167,16 @@
         "gn:id":3663524,
         "gp:id":457517,
         "qs_pg:id":4,
-        "wd:id":"Q1807976"
+        "wd:id":"Q1807976",
+        "wk:page":"Manaquiri"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":883883
+        "gn:id":[
+            3754199
+        ],
+        "qs_pg:id":[
+            883883
+        ]
     },
     "wof:country":"BR",
     "wof:geom_alt":[
@@ -170,13 +194,15 @@
         }
     ],
     "wof:id":101941879,
-    "wof:lastmodified":1690861773,
+    "wof:lastmodified":1706239340,
     "wof:name":"Manaquiri",
     "wof:parent_id":102050369,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260086387
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-55.74972,-15.46056,-55.74972,-15.46056",
@@ -19,7 +21,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
@@ -172,14 +174,16 @@
         }
     ],
     "wof:id":1126024945,
-    "wof:lastmodified":1690862867,
+    "wof:lastmodified":1706239348,
     "wof:name":"Chapada dos Guimar\u00e3es",
     "wof:parent_id":404559157,
     "wof:placetype":"locality",
     "wof:population":13650,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-br",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101961281
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

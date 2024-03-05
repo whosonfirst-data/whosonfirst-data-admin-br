@@ -9,7 +9,11 @@
     "geom:bbox":"-58.17973,-12.294489,-57.829153,-11.949575",
     "geom:latitude":-12.123583,
     "geom:longitude":-58.00958,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BR",
+    "lbl:bbox":"-57.99889,-12.175,-57.95889,-12.135",
     "lbl:latitude":-12.121304,
     "lbl:longitude":-58.027067,
     "lbl:max_zoom":18.0,
@@ -19,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u09ac\u09cd\u09b0\u09be\u09b8\u09a8\u09cb\u09b0\u09cd\u099f\u09c7"
     ],
@@ -131,9 +136,29 @@
     "qs:pop":0,
     "qs:source":"ABrasil IBGE",
     "qs:type":"Centro Local",
+    "qs_pg:aaroncc":"BR",
+    "qs_pg:gn_country":"BR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6316648,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Brasnorte",
+    "qs_pg:name_adm0":"Brasil",
+    "qs_pg:name_adm1":"Mato Grosso",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1060071,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424768,
+    "qs_pg:woe_id":456865,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424768,
+    "woe:name_adm0":"Brasil",
+    "woe:name_adm1":"Mato Grosso",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85681955,
         102191577,
@@ -150,6 +175,20 @@
         "qs_pg:id":1060071,
         "wd:id":"Q1806329",
         "wk:page":"Brasnorte"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6316648
+        ],
+        "gp:id":[
+            456865
+        ],
+        "qs_pg:id":[
+            1060071
+        ],
+        "wd:id":[
+            "Q1806329"
+        ]
     },
     "wof:country":"BR",
     "wof:geomhash":"a10311018911863b34efa636c8648341",
@@ -168,13 +207,15 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1690862139,
+    "wof:lastmodified":1706239348,
     "wof:name":"Brasnorte",
     "wof:parent_id":404559123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126050311
+    ],
     "wof:tags":[]
 },
   "bbox": [

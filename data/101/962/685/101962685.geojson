@@ -9,8 +9,11 @@
     "geom:bbox":"-47.648162,-15.500256,-47.550732,-15.367574",
     "geom:latitude":-15.443757,
     "geom:longitude":-47.591386,
+    "gn:country":"BR",
+    "gn:fcode":"PPL",
     "gn:population":88853,
     "iso:country":"BR",
+    "lbl:bbox":"-47.63417,-15.47278,-47.59417,-15.43278",
     "lbl:latitude":-15.446299,
     "lbl:longitude":-47.591401,
     "lbl:max_zoom":14.0,
@@ -20,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":8.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u09aa\u09b2\u09be\u09a8\u09be\u09b2\u099f\u09bf\u09a8\u09be"
     ],
@@ -120,10 +124,32 @@
     "qs:pop":0,
     "qs:source":"ABrasil IBGE",
     "qs:type":"Local urban major",
+    "qs_pg:aaroncc":"BR",
+    "qs_pg:gn_country":"BR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3453420,
+    "qs_pg:gn_pop":88853,
+    "qs_pg:name":"Planaltina",
+    "qs_pg:name_adm0":"Brasil",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":50,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":935366,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424768,
+    "qs_pg:woe_id":456425,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424768,
+    "woe:name_adm0":"Brasil",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85681925,
         102191577,
@@ -139,6 +165,20 @@
         "gp:id":456425,
         "qs_pg:id":935366,
         "wd:id":"Q1004078"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3453420
+        ],
+        "gp:id":[
+            456425
+        ],
+        "qs_pg:id":[
+            935366
+        ],
+        "wd:id":[
+            "Q1004078"
+        ]
     },
     "wof:country":"BR",
     "wof:geomhash":"35ef1d5c8fe26fdffa9825ef6b287c6e",
@@ -157,7 +197,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1690861354,
+    "wof:lastmodified":1706239349,
     "wof:name":"Planaltina",
     "wof:parent_id":404554901,
     "wof:placetype":"locality",
@@ -165,7 +205,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125864103
+    ],
     "wof:tags":[]
 },
   "bbox": [

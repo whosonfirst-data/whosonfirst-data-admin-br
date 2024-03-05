@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627 \u0631\u064a\u0627\u0644"
@@ -175,11 +176,30 @@
     "qs:woe_lau":0,
     "qs:woe_local":423256,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Vila Real",
+    "qs_pg:name_adm0":"Brasil",
+    "qs_pg:name_adm1":"Santa Catarina",
+    "qs_pg:photos":1557,
+    "qs_pg:photos_1k":316,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1557,
+    "qs_pg:photos_sr":13,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":10317,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424768,
+    "qs_pg:woe_id":56066645,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424768,
+    "woe:name_adm0":"Brasil",
+    "woe:name_adm1":"Santa Catarina",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191577,
         85633009,
@@ -192,6 +212,14 @@
     "wof:concordances":{
         "gp:id":56066645,
         "qs_pg:id":10317
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            56066645
+        ],
+        "qs_pg:id":[
+            10317
+        ]
     },
     "wof:country":"BR",
     "wof:geom_alt":[
@@ -213,13 +241,15 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1636496167,
+    "wof:lastmodified":1706239336,
     "wof:name":"Vila Real",
     "wof:parent_id":101958161,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126074397
+    ],
     "wof:tags":[]
 },
   "bbox": [

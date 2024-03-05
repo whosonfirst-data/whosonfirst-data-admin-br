@@ -9,8 +9,24 @@
     "geom:bbox":"-43.821272,-22.652703,-43.597297,-22.525692",
     "geom:latitude":-22.59893,
     "geom:longitude":-43.697778,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"3303609.0",
+    "gn:asciiname":"Paracambi",
+    "gn:cc2":"BR",
+    "gn:country_code":"BR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3447049,
     "gn:id":"3447049,3455170",
+    "gn:latitude":-22.61083,
+    "gn:longitude":-43.70917,
+    "gn:modification_date":"2012-08-03",
+    "gn:name":"Paracambi",
+    "gn:population":0,
+    "gn:timezone":"America/Sao_Paulo",
     "iso:country":"BR",
+    "lbl:bbox":"-43.72917,-22.63083,-43.68917,-22.59083",
     "lbl:latitude":-22.585934,
     "lbl:longitude":-43.714307,
     "lbl:max_zoom":18.0,
@@ -72,6 +88,9 @@
         "Paracambi"
     ],
     "name:nob_x_preferred":[
+        "Paracambi"
+    ],
+    "name:nor_x_preferred":[
         "Paracambi"
     ],
     "name:pol_x_preferred":[
@@ -143,10 +162,16 @@
         "gn:id":3455170,
         "gp:id":457738,
         "qs_pg:id":9,
-        "wd:id":"Q1802179"
+        "wd:id":"Q1802179",
+        "wk:page":"Paracambi"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":148043
+        "gn:id":[
+            3447049
+        ],
+        "qs_pg:id":[
+            148043
+        ]
     },
     "wof:country":"BR",
     "wof:geom_alt":[
@@ -164,13 +189,15 @@
         }
     ],
     "wof:id":101953077,
-    "wof:lastmodified":1690861246,
+    "wof:lastmodified":1706239346,
     "wof:name":"Paracambi",
     "wof:parent_id":102058417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-br",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310263723
+    ],
     "wof:tags":[]
 },
   "bbox": [
